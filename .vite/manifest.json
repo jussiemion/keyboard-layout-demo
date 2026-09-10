@@ -1,6 +1,6 @@
 {
   "../../../home/jussiemion/Projects/keyboard-layout-demo/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-N2kqxZb7.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-kB2621pP.js",
     "name": "app-route-prefetch-policy",
     "src": "../../../home/jussiemion/Projects/keyboard-layout-demo/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -9,7 +9,7 @@
     ]
   },
   "../../../home/jussiemion/Projects/keyboard-layout-demo/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-pU8VlU-8.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-CWRmqQQ8.js",
     "name": "layout-segment-context",
     "src": "../../../home/jussiemion/Projects/keyboard-layout-demo/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -49,7 +49,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-F92igIeT.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-CvLFD7DK.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -62,7 +62,7 @@
     ]
   },
   "components/locale-provider.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-CJEtHOZ9.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-BXei8vkD.js",
     "name": "locale-provider",
     "src": "components/locale-provider.tsx",
     "isDynamicEntry": true,
@@ -83,7 +83,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-ZvTF0vO5.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-0TDPyYBU.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,

@@ -4,7 +4,7 @@
 :HL["/keyboard-layout-demo/fonts/layout-symbols-2.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/keyboard-layout-demo/fonts/layout-runic.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/keyboard-layout-demo/fonts/layout-apple.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-2:T106b,(() => {
+2:T10bd,(() => {
   let preference = 'system';
   try {
     const saved = localStorage.getItem('keyboard-layout-demo.theme');
@@ -29,6 +29,7 @@
   const detected = languages.map(language => language.toLowerCase().split(/[-_]/)[0]).find(language => supported.includes(language)) || 'en';
   const locale = preference || detected;
   const root = document.documentElement;
+  root.dataset.keyboardLocale = detected;
   root.dataset.uiLocalePreference = preference || 'auto';
   root.dataset.uiLocale = locale;
   root.lang = locale;
@@ -48,10 +49,10 @@
 })();
 (() => {
   const root = document.documentElement;
-  if (root.dataset.uiLocale !== 'en' || root.dataset.theme !== 'vesper_light' || root.dataset.platform !== 'linux') {
+  if (root.dataset.keyboardLocale !== 'en' || root.dataset.uiLocale !== 'en' || root.dataset.theme !== 'vesper_light' || root.dataset.platform !== 'linux') {
     root.dataset.preferencesPending = 'true';
   }
-})();0:{"page:/":"$L1","layout:/":[[["$","link","css:/keyboard-layout-demo/_next/static/css/index.B5n1cG_5.css",{"rel":"stylesheet","precedence":"vite-rsc/importer-resources","href":"/keyboard-layout-demo/_next/static/css/index.B5n1cG_5.css","data-rsc-css-href":"/keyboard-layout-demo/_next/static/css/index.B5n1cG_5.css"}],"$undefined"],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","link","layout-mono.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-mono.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-symbols.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-symbols.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-symbols-2.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-symbols-2.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-runic.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-runic.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-apple.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-apple.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}]],["$","style",null,{"children":"html[data-preferences-pending] .document-scroll-area { visibility: hidden; }"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],"$L3"]}]],"route:/":"$L4","__route":"route:/","__interceptionContext":null,"__layoutIds":["layout:/"],"__rootLayout":"/","__bfcacheSegmentIdentities":{"layout:/":"[\"layout\",\"layout:/\",\"root-boundary:/\",\"\"]","page:/":"[\"page\",\"page:/\",\"root-boundary:/\",\"\"]"},"__srcPage":["page"],"__layoutFlags":{"layout:/":"s"},"__artifactCompatibility":{"schemaVersion":1,"graphVersion":"app-route-graph:1177fd80f83fa7b0","deploymentVersion":"42ebbe0d-a0b1-40ab-a6a7-0ff3e2dd7707","appElementsSchemaVersion":1,"rscPayloadSchemaVersion":1,"rootBoundaryId":"/","renderEpoch":null}}
+})();0:{"page:/":"$L1","layout:/":[[["$","link","css:/keyboard-layout-demo/_next/static/css/index.B5n1cG_5.css",{"rel":"stylesheet","precedence":"vite-rsc/importer-resources","href":"/keyboard-layout-demo/_next/static/css/index.B5n1cG_5.css","data-rsc-css-href":"/keyboard-layout-demo/_next/static/css/index.B5n1cG_5.css"}],"$undefined"],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","link","layout-mono.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-mono.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-symbols.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-symbols.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-symbols-2.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-symbols-2.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-runic.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-runic.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","link","layout-apple.woff2",{"rel":"preload","href":"/keyboard-layout-demo/fonts/layout-apple.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}]],["$","style",null,{"children":"html[data-preferences-pending] .document-scroll-area { visibility: hidden; }"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],"$L3"]}]],"route:/":"$L4","__route":"route:/","__interceptionContext":null,"__layoutIds":["layout:/"],"__rootLayout":"/","__bfcacheSegmentIdentities":{"layout:/":"[\"layout\",\"layout:/\",\"root-boundary:/\",\"\"]","page:/":"[\"page\",\"page:/\",\"root-boundary:/\",\"\"]"},"__srcPage":["page"],"__layoutFlags":{"layout:/":"s"},"__artifactCompatibility":{"schemaVersion":1,"graphVersion":"app-route-graph:1177fd80f83fa7b0","deploymentVersion":"5af059c7-1d64-4669-bc2c-d3f5b8cfcc55","appElementsSchemaVersion":1,"rscPayloadSchemaVersion":1,"rootBoundaryId":"/","renderEpoch":null}}
 5:I["0de52af0ec6e",[],"LocaleProvider",1]
 6:I["272a16f1043e",[],"ScrollArea",1]
 7:I["b0ac51ff2fba",[],"Children",1]
