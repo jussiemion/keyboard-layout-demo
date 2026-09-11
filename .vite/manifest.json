@@ -19,7 +19,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-DxDbvu56.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-pv-Avqei.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "components/locale-provider.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-BegwfD77.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-DldrP5Hj.js",
     "name": "locale-provider",
     "src": "components/locale-provider.tsx",
     "isDynamicEntry": true,
@@ -42,7 +42,7 @@
     ]
   },
   "components/ui/scroll-area.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/scroll-area-CC2VaLMv.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/scroll-area-CXP1vkqF.js",
     "name": "scroll-area",
     "src": "components/ui/scroll-area.tsx",
     "isDynamicEntry": true,
@@ -53,7 +53,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-Cl6HkIYA.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-Btv77y09.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -62,7 +62,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-CWiSPqVX.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-B0r-JEnf.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -83,7 +83,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-ZzJyvwpO.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-CqJZqzPH.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
