@@ -21,6 +21,10 @@
     "FontAwesomeBrands.woff2": {
       "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/webfonts/fa-brands-400.woff2",
       "sha256": "3555466788ec0a9c6f05434b353cebeac96dd901ad3b353ef9a5eca3611f6150"
+    },
+    "NotoSansHebrew.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanshebrew/NotoSansHebrew%5Bwdth,wght%5D.ttf",
+      "sha256": "7ef36a2c3593758cdb622e1bdef4f84523e92fbc3ccc667438dd80ff54c2de88"
     }
   },
   "fonts": [
@@ -78,6 +82,17 @@
       "modifications": "Static subset; renamed family; original outlines and shaping retained. Apple glyph mapped from U+F179 to U+F8FF; typed Unicode is unchanged.",
       "sha256": "eb066f1de2734521eb8648447b1e42c23bb9e4183c4a2c4a0491496f39fa85d4",
       "bytes": 956
+    },
+    {
+      "file": "layout-hebrew.woff2",
+      "family": "Layout Hebrew",
+      "source": "NotoSansHebrew.ttf",
+      "license": "NotoSansHebrew-OFL.txt",
+      "unicodeRange": "U+0590-05FF, U+FB1D-FB4F",
+      "weight": "100 900",
+      "modifications": "Full coverage, shaping and variable axes retained; renamed family.",
+      "sha256": "5f3c2368bf09ae749c9fe5a692337903d28ed9559f72c602c9eae5cb1c6ef8ea",
+      "bytes": 58620
     }
   ]
 }
