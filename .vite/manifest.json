@@ -19,7 +19,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-CKyKcK6M.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-DrwBNv9D.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -52,7 +52,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-B5w_fBz5.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-BqouOg7O.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -61,7 +61,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-IrRaTC7X.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-DIVMdvzp.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -82,7 +82,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-CioB-38r.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-CL5ke_2y.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
