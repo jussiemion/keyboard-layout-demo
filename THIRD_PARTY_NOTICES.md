@@ -1,69 +1,53 @@
 # Authorship and third-party materials
 
-The Semyon Yushkevich Typographic Keyboard Layout (Типографская раскладка Семёна Юшкевича)
-is a project by **Semyon Yushkevich (jussiemion)**:
-https://github.com/jussiemion/keyboard-layout-demo.
+The project is created by **Semyon Yushkevich**.
 
-The project's original contributions in this repository are available under
-[the MIT License](LICENSE). This notice identifies the project and its author;
-it does not require modified versions to retain the original product name or
-claim that their changes were made or endorsed by the original author.
+The [MIT license](LICENSE) covers the author's original contributions. It does
+not replace third-party copyrights, licenses or other applicable terms, or grant
+rights to upstream materials.
 
-The MIT grant covers the author's own contributions. It does not replace
-third-party copyrights, licenses or other applicable terms, and does not claim
-authority to relicense upstream materials.
+## Typographic foundation
 
-## Ilya Birman's Typography Layout
+The shared symbol map is based on
+[Ilya Birman’s Typography Layout 3.9](https://ilyabirman.ru/typography-layout/).
+The original author is Ilya Birman.
 
-The shared typography symbol map is based on **Ilya Birman's Typography Layout,
-version 3.9**. The original author is **Ilya Birman**.
+The upstream distribution is free of charge. Its author's
+[FAQ](https://ilyabirman.ru/typography-layout/faq/) discusses derivative layouts
+and attribution; this is not an MIT license grant. No authorship of the original
+symbol map or endorsement by its author is claimed.
 
-- Project: https://ilyabirman.ru/typography-layout/
-- Reference archive: https://ilyabirman.ru/typography-layout/download/ilya-birman-typolayout-3.9-mac.zip
-- Reference metadata and symbol assignments: `lib/layout.json`.
+## Additional materials
 
-Semyon Yushkevich's additions include sequential mode entry, language-switching
-controls, language-specific diacritic cycling and the interactive browser demo.
-These additions do not imply authorship of Birman's original symbol map or
-endorsement by Ilya Birman.
+Third-party code, data, fonts and icons retain their respective terms. Preserve
+source references and applicable license notices when including or distributing
+these materials.
 
-The upstream distribution is free of charge. In his
-[FAQ](https://ilyabirman.ru/typography-layout/faq/), Ilya Birman explains his
-position on creating a layout based on his work: a new layout may have its own
-name, but his work must not be passed off as someone else's and its source
-should be acknowledged. This statement is not an MIT license grant; this
-project's MIT notice does not relicense his original materials.
+## Application dependencies
 
-## National keyboard data and Unicode references
+The application uses React, React DOM, Vinext, Vite and Tailwind CSS, with
+TypeScript, Oxlint and Oxfmt for development. These packages retain their
+upstream copyrights and licenses. Exact direct versions are recorded in
+`package.json`; `bun.lock` pins the resolved dependency graph. Refer to the
+packages’ distributed license notices for their respective terms.
 
-`lib/national-layouts.json` is exported from xkeyboard-config. Its source and
-reference variants are documented in `docs/national-layouts.md`; the exporter
-is `tools/export-national-layouts.py`. Upstream terms remain applicable.
+## National keyboard data
 
-Symbol descriptions use references from Unicode and CLDR. The reference links
-and scope are documented in `docs/symbol-search.md`. These references are not a
-claim of endorsement by Unicode or the Unicode Consortium.
+[National key actions](lib/national-layouts.json) are derived from
+xkeyboard-config 2.48 through libxkbcommon. The data retains its upstream terms.
+The [engine guide](docs/typing-engine.md) describes how the bundled references
+are used; the runtime does not change the operating system’s keyboard
+configuration.
 
-## Fonts and icons
+## UI, icons and fonts
 
-Bundled fonts retain their upstream licenses. Notices are shipped in `fonts/`
-in the static site and in `public/fonts/` in the source repository.
-`public/fonts/fonts.json` identifies the sources, modifications and license
-files; `docs/fonts.md` explains the font build.
+The interface uses Base UI, shadcn/ui and Lucide, with their upstream copyrights
+and licenses. Theme colors reference Monkeytype’s Vesper and Vesper Light
+themes, as credited in [globals.css](app/globals.css).
 
-The Apple glyph represents Apple and remains subject to the upstream Font
-Awesome notice. No trademark rights or endorsement are claimed.
-
-## UI components and dependencies
-
-The UI uses third-party components and packages, including React, Base UI,
-shadcn/ui and Lucide. These retain their respective upstream copyrights and
-licenses. Dependency versions are recorded in `package.json` and `bun.lock`;
-package license notices are included in their upstream distributions.
-
-The theme palettes reference Monkeytype's Vesper and Vesper Light themes, as
-credited in `app/globals.css`.
-
-### Noto Sans Arabic
-
-The bundled `public/fonts/layout-arabic.woff2` is derived from [Noto Sans Arabic](https://github.com/google/fonts/tree/main/ofl/notosansarabic), renamed to Layout Arabic with full shaping retained. Copyright and SIL Open Font License text: [NotoSansArabic-OFL.txt](public/fonts/NotoSansArabic-OFL.txt). Source and output checksums are recorded in [fonts.json](public/fonts/fonts.json).
+Bundled fonts retain their upstream licenses.
+[fonts.json](public/fonts/fonts.json) records sources, modifications and
+checksums; license texts are included alongside the font files in
+[public/fonts](public/fonts). The Apple glyph comes from Font Awesome and
+remains subject to its bundled notice; no trademark rights or endorsement are
+claimed.
