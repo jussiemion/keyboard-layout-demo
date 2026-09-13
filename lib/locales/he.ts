@@ -84,6 +84,9 @@ export const he = {
   chooseInterfaceLanguage: 'שפת הממשק: {language}',
   keyboardLanguage: 'שפת המקלדת',
   chooseKeyboardLanguage: 'בחירת שפת המקלדת: {language}',
+  experimental: 'ניסיוני',
+  experimentalLanguageSupport:
+    'התמיכה בשפות לא אירופיות היא ניסיונית. ייתכן שמבחר התווים ושיטות ההקלדה אינם מכסים את כל מוסכמות השפה.',
   keyboardLanguageDescription: 'לאותיות המקשים ולהקלדה בהדגמה.',
   closeKeyboardLanguage: 'סגירת בחירת השפה',
   keyboardLanguageList: 'שפות המקלדת',

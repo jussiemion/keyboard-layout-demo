@@ -1,5 +1,7 @@
 'use client';
 
+import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
+
 import {
   languageDialogClasses,
   languageDialogHeaderClasses,
@@ -12,6 +14,7 @@ import {
   KEYBOARD_LOCALES,
   keyboardLanguage,
   keyboardLabel,
+  isExperimentalKeyboard,
 } from '@/lib/keyboard-locales';
 
 import { useRef, useState, type RefObject } from 'react';
@@ -124,6 +127,7 @@ export function LanguageSwitcher({
         >
           <X size={18} />
         </DialogClose>
+        <ExperimentalLanguageWarning />
         <Command
           className="language-command"
           label={m.keyboardLanguageList}
@@ -158,7 +162,14 @@ export function LanguageSwitcher({
                   changeOpen(false);
                 }}
               >
-                <span>{keyboardLabel(language.value, uiLocale)}</span>
+                <span>
+                  {keyboardLabel(language.value, uiLocale)}
+                  {isExperimentalKeyboard(language.value) && (
+                    <small className="text-muted-foreground block text-xs">
+                      {m.experimental}
+                    </small>
+                  )}
+                </span>
                 <span className={languageCodeClasses}>
                   {language.value.toUpperCase()}
                 </span>

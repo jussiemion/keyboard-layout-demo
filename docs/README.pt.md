@@ -27,6 +27,11 @@ teclas no ecrã.
 
 </div>
 
+> [!NOTE] A disposição destina-se sobretudo às línguas europeias. O suporte de
+> outras línguas, incluindo árabe, hebraico, turco e vietnamita, é experimental:
+> os caracteres e os métodos de introdução podem não abranger todas as
+> convenções de cada língua.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

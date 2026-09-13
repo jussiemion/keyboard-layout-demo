@@ -90,6 +90,9 @@ export const tr = {
   chooseInterfaceLanguage: 'Arayüz dili: {language}',
   keyboardLanguage: 'Klavye dili',
   chooseKeyboardLanguage: 'Klavye dilini seçin: {language}',
+  experimental: 'Deneysel',
+  experimentalLanguageSupport:
+    'Avrupa dışındaki dillerin desteği deneyseldir. Karakter kapsamı ve giriş yöntemleri tüm dil kurallarını karşılamayabilir.',
   keyboardLanguageDescription:
     'Fiziksel ve ekran tuşları için bir harita seçin.',
   closeKeyboardLanguage: 'Dil seçimini kapat',

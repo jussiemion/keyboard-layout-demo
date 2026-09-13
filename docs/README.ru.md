@@ -26,6 +26,11 @@
 
 </div>
 
+> [!NOTE] Раскладка ориентирована прежде всего на европейские языки. Поддержка
+> других языков, включая арабский, иврит, турецкий и вьетнамский,
+> экспериментальная: набор символов и способы ввода могут не охватывать все
+> языковые нормы.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

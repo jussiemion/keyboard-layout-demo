@@ -1,5 +1,7 @@
 'use client';
 
+import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
+
 import {
   languageDialogClasses,
   languageDialogHeaderClasses,
@@ -103,6 +105,7 @@ export function InterfaceLanguageSwitcher({
         >
           <X size={18} />
         </DialogClose>
+        <ExperimentalLanguageWarning />
         <Command
           className="language-command"
           label={m.interfaceLanguage}

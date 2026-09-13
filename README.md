@@ -27,6 +27,8 @@ you already use.
 
 <p><strong>14 interface languages · 24 keyboard options · 3 typing modes</strong></p>
 
+[Non-European language support is experimental](#languages).
+
 </div>
 
 <div align="center" dir="ltr">
@@ -131,6 +133,10 @@ typography. In the demo, <kbd>Caps Lock</kbd> still switches languages when
 typography is off.
 
 ## Languages
+
+> [!NOTE] The layout primarily targets European languages. Support for other
+> languages, including Arabic, Hebrew, Turkish and Vietnamese, is experimental:
+> character coverage and typing conventions may be incomplete.
 
 <ul dir="ltr" align="left">
   <li dir="ltr"><span dir="auto">English</span></li>

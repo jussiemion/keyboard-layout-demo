@@ -28,6 +28,10 @@
 
 </div>
 
+> [!NOTE] يستهدف التخطيط اللغات الأوروبية بالدرجة الأولى. دعم اللغات الأخرى،
+> ومنها العربية والعبرية والتركية والفيتنامية، تجريبي: قد لا تغطي مجموعة المحارف
+> وطرق الإدخال جميع الأعراف اللغوية.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

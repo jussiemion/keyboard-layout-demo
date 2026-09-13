@@ -84,6 +84,9 @@ export const en = {
   chooseInterfaceLanguage: 'Interface language: {language}',
   keyboardLanguage: 'Keyboard language',
   chooseKeyboardLanguage: 'Choose keyboard language: {language}',
+  experimental: 'Experimental',
+  experimentalLanguageSupport:
+    'Support for non-European languages is experimental. Character coverage and typing conventions may be incomplete.',
   keyboardLanguageDescription: 'For key labels and on-screen typing.',
   closeKeyboardLanguage: 'Close language selection',
   keyboardLanguageList: 'Keyboard languages',

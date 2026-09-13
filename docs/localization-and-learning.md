@@ -1,5 +1,11 @@
 # Localization, search and learning
 
+> [!NOTE] The layout primarily targets European languages. Support for other
+> languages, including Arabic, Hebrew, Turkish and Vietnamese, is experimental:
+> character coverage and typing conventions may be incomplete. This status
+> concerns keyboard input and typography, independently of interface
+> translation. See [language support](national-layouts.md).
+
 These modules provide translated content and behavior for the demo. UI
 components consume them without owning the keyboard maps, search rules or tour
 progress rules.

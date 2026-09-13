@@ -26,6 +26,10 @@ veya hesap gerekmez. Fiziksel klavyeyi ve ekran tuşlarını kullanabilirsiniz.
 
 </div>
 
+> [!NOTE] Düzen öncelikle Avrupa dillerine yöneliktir. Arapça, İbranice, Türkçe
+> ve Vietnamca dahil diğer dillerin desteği deneyseldir: karakter kapsamı ve
+> giriş yöntemleri tüm dil kurallarını karşılamayabilir.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

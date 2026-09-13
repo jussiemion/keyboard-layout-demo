@@ -1,5 +1,11 @@
 # Typing engine
 
+> [!NOTE] The layout primarily targets European languages. Support for other
+> languages, including Arabic, Hebrew, Turkish and Vietnamese, is experimental:
+> character coverage and typing conventions may be incomplete. This status
+> concerns keyboard input and typography, independently of interface
+> translation. See [language support](national-layouts.md).
+
 The typing engine converts physical key events into text actions without
 depending on the DOM or a UI framework. The browser integration applies the
 returned actions to its text field.

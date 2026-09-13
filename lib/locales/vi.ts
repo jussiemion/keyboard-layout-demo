@@ -85,6 +85,9 @@ export const vi = {
   chooseInterfaceLanguage: 'Ngôn ngữ giao diện: {language}',
   keyboardLanguage: 'Ngôn ngữ bàn phím',
   chooseKeyboardLanguage: 'Chọn ngôn ngữ bàn phím: {language}',
+  experimental: 'Thử nghiệm',
+  experimentalLanguageSupport:
+    'Hỗ trợ các ngôn ngữ ngoài châu Âu đang ở giai đoạn thử nghiệm. Bộ ký tự và cách nhập có thể chưa đáp ứng đầy đủ các quy tắc ngôn ngữ.',
   keyboardLanguageDescription:
     'Chọn bản đồ cho bàn phím thật và bàn phím màn hình.',
   closeKeyboardLanguage: 'Đóng chọn ngôn ngữ',

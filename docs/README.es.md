@@ -27,6 +27,11 @@ pulsar las teclas en pantalla.
 
 </div>
 
+> [!NOTE] La distribución está orientada principalmente a los idiomas europeos.
+> La compatibilidad con otros idiomas, incluidos el árabe, el hebreo, el turco y
+> el vietnamita, es experimental: los caracteres y los métodos de entrada pueden
+> no cubrir todas las convenciones de cada idioma.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

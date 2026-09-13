@@ -90,6 +90,9 @@ export const pl = {
   chooseInterfaceLanguage: 'Język interfejsu: {language}',
   keyboardLanguage: 'Język klawiatury',
   chooseKeyboardLanguage: 'Wybierz język klawiatury: {language}',
+  experimental: 'Eksperymentalne',
+  experimentalLanguageSupport:
+    'Obsługa języków pozaeuropejskich jest eksperymentalna. Zestaw znaków i sposoby wpisywania mogą nie uwzględniać wszystkich zasad językowych.',
   keyboardLanguageDescription: 'Dla podpisów i wpisywania na ekranie.',
   closeKeyboardLanguage: 'Zamknij wybór języka',
   keyboardLanguageList: 'Języki klawiatury',

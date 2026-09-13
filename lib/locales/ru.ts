@@ -88,6 +88,9 @@ export const ru = {
   chooseInterfaceLanguage: 'Язык интерфейса: {language}',
   keyboardLanguage: 'Язык клавиатуры',
   chooseKeyboardLanguage: 'Выбрать язык клавиатуры: {language}',
+  experimental: 'Экспериментально',
+  experimentalLanguageSupport:
+    'Поддержка неевропейских языков экспериментальная. Набор символов и способы ввода могут не охватывать все языковые нормы.',
   keyboardLanguageDescription: 'Для подписей и экранного ввода.',
   closeKeyboardLanguage: 'Закрыть выбор языка',
   keyboardLanguageList: 'Языки клавиатуры',

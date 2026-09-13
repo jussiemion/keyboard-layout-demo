@@ -33,6 +33,10 @@ export type KeyboardLocale = (typeof KEYBOARD_LOCALES)[number];
 export function keyboardLanguage(locale: KeyboardLocale): Locale {
   return locale.split('-')[0] as Locale;
 }
+// Product support scope, not a classification of language families.
+export function isExperimentalKeyboard(locale: KeyboardLocale): boolean {
+  return ['ar', 'he', 'tr', 'vi'].includes(keyboardLanguage(locale));
+}
 export function isRtl(locale: string) {
   return /^(he|ar)(-|$)/.test(locale);
 }

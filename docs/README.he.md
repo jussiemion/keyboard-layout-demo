@@ -28,6 +28,10 @@
 
 </div>
 
+> [!NOTE] הפריסה מיועדת בעיקר לשפות אירופיות. התמיכה בשפות אחרות, ובהן ערבית,
+> עברית, טורקית ווייטנאמית, היא ניסיונית: ייתכן שמבחר התווים ושיטות ההקלדה אינם
+> מכסים את כל מוסכמות השפה.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

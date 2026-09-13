@@ -1,5 +1,11 @@
 # Bundled fonts
 
+> [!NOTE] The layout primarily targets European languages. Support for other
+> languages, including Arabic, Hebrew, Turkish and Vietnamese, is experimental:
+> character coverage and typing conventions may be incomplete. This status
+> concerns keyboard input and typography, independently of interface
+> translation. See [language support](national-layouts.md).
+
 The typing area, keyboard, interface, tooltips, and dialogs share one local font
 stack. No `local()` source or external font service is used.
 

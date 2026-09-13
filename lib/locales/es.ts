@@ -93,6 +93,9 @@ export const es = {
   chooseInterfaceLanguage: 'Idioma de la interfaz: {language}',
   keyboardLanguage: 'Idioma del teclado',
   chooseKeyboardLanguage: 'Elegir el idioma del teclado: {language}',
+  experimental: 'Experimental',
+  experimentalLanguageSupport:
+    'La compatibilidad con idiomas no europeos es experimental. Los caracteres y los métodos de entrada pueden no cubrir todas las convenciones lingüísticas.',
   keyboardLanguageDescription: 'Para las etiquetas y la escritura en pantalla.',
   closeKeyboardLanguage: 'Cerrar la selección de idioma',
   keyboardLanguageList: 'Idiomas del teclado',

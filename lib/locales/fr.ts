@@ -94,6 +94,9 @@ export const fr = {
   chooseInterfaceLanguage: 'Langue de l’interface : {language}',
   keyboardLanguage: 'Langue du clavier',
   chooseKeyboardLanguage: 'Choisir la langue du clavier : {language}',
+  experimental: 'Expérimental',
+  experimentalLanguageSupport:
+    'La prise en charge des langues non européennes est expérimentale. Les caractères et les méthodes de saisie peuvent ne pas couvrir toutes les conventions linguistiques.',
   keyboardLanguageDescription: 'Pour les libellés et la saisie à l’écran.',
   closeKeyboardLanguage: 'Fermer le choix de la langue',
   keyboardLanguageList: 'Langues du clavier',

@@ -26,6 +26,11 @@ Sans installation ni compte. Utilisez votre clavier ou les touches à l’écran
 
 </div>
 
+> [!NOTE] Cette disposition vise avant tout les langues européennes. La prise en
+> charge des autres langues, notamment de l’arabe, de l’hébreu, du turc et du
+> vietnamien, est expérimentale : les caractères et les conventions de saisie
+> peuvent être incomplets.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

@@ -27,6 +27,11 @@ ecran.
 
 </div>
 
+> [!NOTE] Aranjamentul este destinat în primul rând limbilor europene. Suportul
+> pentru alte limbi, inclusiv arabă, ebraică, turcă și vietnameză, este
+> experimental: caracterele și metodele de introducere pot să nu acopere toate
+> convențiile lingvistice.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

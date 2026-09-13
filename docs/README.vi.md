@@ -27,6 +27,11 @@ màn hình.
 
 </div>
 
+> [!NOTE] Bố cục chủ yếu hướng đến các ngôn ngữ châu Âu. Việc hỗ trợ các ngôn
+> ngữ khác, bao gồm tiếng Ả Rập, tiếng Do Thái, tiếng Thổ Nhĩ Kỳ và tiếng Việt,
+> đang ở giai đoạn thử nghiệm: bộ ký tự và cách nhập có thể chưa đáp ứng đầy đủ
+> các quy tắc của từng ngôn ngữ.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

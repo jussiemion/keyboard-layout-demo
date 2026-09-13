@@ -91,6 +91,9 @@ export const de = {
   chooseInterfaceLanguage: 'Oberflächensprache: {language}',
   keyboardLanguage: 'Tastatursprache',
   chooseKeyboardLanguage: 'Tastatursprache wählen: {language}',
+  experimental: 'Experimentell',
+  experimentalLanguageSupport:
+    'Die Unterstützung außereuropäischer Sprachen ist experimentell. Zeichenumfang und Eingabeverfahren decken möglicherweise nicht alle sprachlichen Konventionen ab.',
   keyboardLanguageDescription: 'Für Beschriftung und Bildschirmeingabe.',
   closeKeyboardLanguage: 'Sprachauswahl schließen',
   keyboardLanguageList: 'Tastatursprachen',

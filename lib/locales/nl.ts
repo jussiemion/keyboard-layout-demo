@@ -88,6 +88,9 @@ export const nl = {
   chooseInterfaceLanguage: 'Interfacetaal: {language}',
   keyboardLanguage: 'Toetsenbordtaal',
   chooseKeyboardLanguage: 'Kies toetsenbordtaal: {language}',
+  experimental: 'Experimenteel',
+  experimentalLanguageSupport:
+    'Ondersteuning voor niet-Europese talen is experimenteel. De beschikbare tekens en invoermethoden dekken mogelijk niet alle taalconventies.',
   keyboardLanguageDescription:
     'Kies een kaart voor fysieke toetsen en schermtoetsen.',
   closeKeyboardLanguage: 'Taalkeuze sluiten',

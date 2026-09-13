@@ -26,6 +26,11 @@ instalacji i konta. Używaj klawiatury fizycznej lub ekranowej.
 
 </div>
 
+> [!NOTE] Układ jest przeznaczony przede wszystkim dla języków europejskich.
+> Obsługa innych języków, w tym arabskiego, hebrajskiego, tureckiego i
+> wietnamskiego, jest eksperymentalna: zestaw znaków i sposoby wpisywania mogą
+> nie uwzględniać wszystkich zasad danego języka.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

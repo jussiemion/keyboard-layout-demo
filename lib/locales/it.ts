@@ -90,6 +90,9 @@ export const it = {
   chooseInterfaceLanguage: 'Lingua dell’interfaccia: {language}',
   keyboardLanguage: 'Lingua della tastiera',
   chooseKeyboardLanguage: 'Scegli la lingua della tastiera: {language}',
+  experimental: 'Sperimentale',
+  experimentalLanguageSupport:
+    'Il supporto per le lingue non europee è sperimentale. I caratteri e i metodi di immissione potrebbero non coprire tutte le convenzioni linguistiche.',
   keyboardLanguageDescription: 'Per le etichette e la digitazione a schermo.',
   closeKeyboardLanguage: 'Chiudi la selezione della lingua',
   keyboardLanguageList: 'Lingue della tastiera',

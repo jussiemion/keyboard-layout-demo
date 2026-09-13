@@ -1,5 +1,7 @@
 'use client';
 
+import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
+
 import {
   helpKeysClasses,
   helpTitleClasses,
@@ -246,6 +248,7 @@ export function HelpContent({
           <li>{h.scopeInput}</li>
           <li>{h.scopeUi}</li>
         </ol>
+        <ExperimentalLanguageWarning />
       </section>
     </>
   );

@@ -26,6 +26,11 @@ oder Konto. Tippe auf der physischen Tastatur oder nutze die Bildschirmtasten.
 
 </div>
 
+> [!NOTE] Die Belegung richtet sich vor allem an europäische Sprachen. Die
+> Unterstützung anderer Sprachen, darunter Arabisch, Hebräisch, Türkisch und
+> Vietnamesisch, ist experimentell: Zeichenumfang und Eingabeverfahren decken
+> möglicherweise nicht alle sprachlichen Konventionen ab.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

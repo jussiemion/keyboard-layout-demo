@@ -1,5 +1,7 @@
 'use client';
 
+import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
+
 import {
   settingsFormClasses,
   settingsSlotsDescriptionClasses,
@@ -7,7 +9,7 @@ import {
   settingsStorageNoteClasses,
 } from '@/components/layout-classes';
 
-import { keyboardLabel } from '@/lib/keyboard-locales';
+import { keyboardLabel, isExperimentalKeyboard } from '@/lib/keyboard-locales';
 
 import { useRef, useState, type RefObject } from 'react';
 import { ArrowLeftRight, RotateCcw, X } from 'lucide-react';
@@ -44,7 +46,7 @@ export function SettingsDialog({
   onOpenChange: (open: boolean) => void;
   onSave: (settings: UserSettings) => boolean;
 }) {
-  const { uiLocale } = useLocale();
+  const { uiLocale, m } = useLocale();
   const text = settingsMessages[uiLocale];
   const [draft, setDraft] = useState(initialSettings);
   const [sessionOnly, setSessionOnly] = useState(false);
@@ -110,6 +112,7 @@ export function SettingsDialog({
           <div className="settings-body">
             <section aria-labelledby="settings-language-map">
               <h3 id="settings-language-map">{text.map}</h3>
+              <ExperimentalLanguageWarning />
               <fieldset className="settings-pair mapping-card">
                 <legend>
                   <span className="language-mark">S0</span> <kbd>Caps Lock</kbd>
@@ -136,6 +139,9 @@ export function SettingsDialog({
                           disabled={locale === mapping.order[1]}
                         >
                           {keyboardLabel(locale, uiLocale)}
+                          {isExperimentalKeyboard(locale)
+                            ? ` — ${m.experimental}`
+                            : ''}
                         </option>
                       ))}
                     </select>
@@ -177,6 +183,9 @@ export function SettingsDialog({
                           disabled={locale === mapping.order[0]}
                         >
                           {keyboardLabel(locale, uiLocale)}
+                          {isExperimentalKeyboard(locale)
+                            ? ` — ${m.experimental}`
+                            : ''}
                         </option>
                       ))}
                     </select>
@@ -210,6 +219,9 @@ export function SettingsDialog({
                       {options.map((option) => (
                         <option key={option} value={option}>
                           {keyboardLabel(option, uiLocale)}
+                          {isExperimentalKeyboard(option)
+                            ? ` — ${m.experimental}`
+                            : ''}
                         </option>
                       ))}
                     </select>

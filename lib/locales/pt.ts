@@ -92,6 +92,9 @@ export const pt = {
   chooseInterfaceLanguage: 'Idioma da interface: {language}',
   keyboardLanguage: 'Idioma do teclado',
   chooseKeyboardLanguage: 'Escolher o idioma do teclado: {language}',
+  experimental: 'Experimental',
+  experimentalLanguageSupport:
+    'O suporte de línguas não europeias é experimental. Os caracteres e os métodos de introdução podem não abranger todas as convenções linguísticas.',
   keyboardLanguageDescription: 'Para as legendas e a escrita no ecrã.',
   closeKeyboardLanguage: 'Fechar a seleção do idioma',
   keyboardLanguageList: 'Idiomas do teclado',

@@ -1,10 +1,10 @@
-.native-layout-warning {
+.native-layout-warning,
+.experimental-language-warning {
   --warning-color: light-dark(#806000, #e7c75f);
   display: flex;
   align-items: flex-start;
   gap: 12px;
   padding: 16px;
-  margin-block: 24px 20px;
   border: 1px solid color-mix(in srgb, var(--warning-color) 45%, transparent);
   border-radius: 10px;
   background: color-mix(in srgb, var(--warning-color) 8%, var(--background));
@@ -14,9 +14,33 @@
   line-height: 1.5;
 }
 
-.native-layout-warning > svg {
+.native-layout-warning > svg,
+.experimental-language-warning > svg {
   flex-shrink: 0;
   margin-block-start: 2px;
+}
+
+.native-layout-warning {
+  margin-block: 24px 20px;
+}
+
+.experimental-language-warning {
+  min-width: 0;
+}
+
+.experimental-language-warning > p {
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
+}
+
+.settings-body .experimental-language-warning {
+  margin-block-end: 16px;
+}
+
+.help-footer > .experimental-language-warning {
+  margin-block-start: 16px;
 }
 
 .native-layout-warning p {

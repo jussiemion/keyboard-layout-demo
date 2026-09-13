@@ -27,6 +27,11 @@ sullo schermo.
 
 </div>
 
+> [!NOTE] Il layout è pensato soprattutto per le lingue europee. Il supporto per
+> le altre lingue, tra cui arabo, ebraico, turco e vietnamita, è sperimentale: i
+> caratteri e i metodi di immissione potrebbero non coprire tutte le convenzioni
+> linguistiche.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

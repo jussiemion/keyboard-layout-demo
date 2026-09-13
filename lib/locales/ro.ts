@@ -88,6 +88,9 @@ export const ro = {
   chooseInterfaceLanguage: 'Limba interfeței: {language}',
   keyboardLanguage: 'Limba tastaturii',
   chooseKeyboardLanguage: 'Alege limba tastaturii: {language}',
+  experimental: 'Experimental',
+  experimentalLanguageSupport:
+    'Suportul pentru limbile din afara Europei este experimental. Caracterele și metodele de introducere pot să nu acopere toate convențiile lingvistice.',
   keyboardLanguageDescription:
     'Pentru inscripții și introducerea textului în demo.',
   closeKeyboardLanguage: 'Închide selecția limbii',

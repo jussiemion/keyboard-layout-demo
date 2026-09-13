@@ -26,6 +26,11 @@ installatie of account nodig. Typ op je toetsenbord of klik op de schermtoetsen.
 
 </div>
 
+> [!NOTE] De indeling richt zich vooral op Europese talen. Ondersteuning voor
+> andere talen, waaronder Arabisch, Hebreeuws, Turks en Vietnamees, is
+> experimenteel: de beschikbare tekens en invoermethoden dekken mogelijk niet
+> alle taalconventies.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/demo-light.png">

@@ -84,6 +84,9 @@ export const ar = {
   chooseInterfaceLanguage: 'لغة الواجهة: {language}',
   keyboardLanguage: 'لغة لوحة المفاتيح',
   chooseKeyboardLanguage: 'اختر لغة لوحة المفاتيح: {language}',
+  experimental: 'تجريبي',
+  experimentalLanguageSupport:
+    'دعم اللغات غير الأوروبية تجريبي. قد لا تغطي مجموعة المحارف وطرق الإدخال جميع الأعراف اللغوية.',
   keyboardLanguageDescription: 'اختر خريطة للمفاتيح الفعلية ومفاتيح الشاشة.',
   closeKeyboardLanguage: 'إغلاق اختيار اللغة',
   keyboardLanguageList: 'لغات لوحة المفاتيح',
