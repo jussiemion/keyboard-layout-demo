@@ -79,15 +79,24 @@ export function tourStepComplete(
   step: TourStep,
   state: TourObservation,
 ): boolean {
-  if (step.target !== undefined)
+  if (step.target !== undefined) {
     return state.value.normalize('NFC') === step.target.normalize('NFC');
-  if (step.targetMode !== undefined) return state.mode === step.targetMode;
-  if (step.targetLocale !== undefined)
+  }
+  if (step.targetMode !== undefined) {
+    return state.mode === step.targetMode;
+  }
+  if (step.targetLocale !== undefined) {
     return state.locale === step.targetLocale;
-  if (step.targetEnabled !== undefined)
+  }
+  if (step.targetEnabled !== undefined) {
     return state.enabled === step.targetEnabled;
-  if (step.spotlight === 'settings') return state.settingsOpen;
-  if (step.spotlight === 'help') return state.helpOpen;
+  }
+  if (step.spotlight === 'settings') {
+    return state.settingsOpen;
+  }
+  if (step.spotlight === 'help') {
+    return state.helpOpen;
+  }
   return false;
 }
 
@@ -97,8 +106,9 @@ export function retainTourCompletion(
   step: TourStep,
   observation: TourObservation,
 ): ReadonlySet<TourStepId> {
-  if (completed.has(step.id) || !tourStepComplete(step, observation))
+  if (completed.has(step.id) || !tourStepComplete(step, observation)) {
     return completed;
+  }
   return new Set([...completed, step.id]);
 }
 
@@ -206,8 +216,9 @@ export function challengeProgress(value: string, target = birmanChallenge) {
   const entered = Array.from(value.normalize('NFC'));
   const expected = Array.from(target.normalize('NFC'));
   let matched = 0;
-  while (matched < entered.length && entered[matched] === expected[matched])
+  while (matched < entered.length && entered[matched] === expected[matched]) {
     matched++;
+  }
   return {
     matched,
     total: expected.length,

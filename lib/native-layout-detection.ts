@@ -43,30 +43,39 @@ export class NativeLayoutDetector {
     event: NativeLayoutEvent,
     down: boolean,
   ): 'detected' | 'inactive' | null {
-    if (!event.isTrusted) return null;
+    if (!event.isTrusted) {
+      return null;
+    }
     if (event.isComposing || event.ctrlKey || event.metaKey || event.shiftKey) {
       this.interrupt();
       return null;
     }
-    if (event.repeat) return null;
+    if (event.repeat) {
+      return null;
+    }
     if (/^Alt(Left|Right)$/.test(event.code)) {
       // Native AltGr/Option chords alone are not evidence of this layout.
       if (event.key !== 'Alt') {
         this.interrupt();
       } else if (down) {
-        if (this.alt !== null) this.interrupt();
-        else {
+        if (this.alt !== null) {
+          this.interrupt();
+        } else {
           this.alt = event.code;
           this.altUsed = false;
         }
       } else if (this.alt === event.code) {
         this.alt = null;
-        if (!this.altUsed) this.taps = Math.min(2, this.taps + 1);
+        if (!this.altUsed) {
+          this.taps = Math.min(2, this.taps + 1);
+        }
         this.altUsed = false;
       }
       return null;
     }
-    if (!down) return null;
+    if (!down) {
+      return null;
+    }
     const taps = this.taps;
     const held = this.alt !== null;
     const entry = keyMap.get(event.code);
@@ -74,8 +83,12 @@ export class NativeLayoutDetector {
     // hold. Ordinary Option/AltGr chords retain it and do not qualify.
     const mode = held ? (entry?.quick ? 0 : taps ? 2 : null) : taps || null;
     this.taps = 0;
-    if (held) this.altUsed = true;
-    if (mode === null || event.altKey) return null;
+    if (held) {
+      this.altUsed = true;
+    }
+    if (mode === null || event.altKey) {
+      return null;
+    }
     const expected = mode === 2 ? entry?.secondary.text : entry?.primary.text;
     // Ignore letters, ASCII, dead keys and multi-character IME output. Require
     // two distinct physical-position/mode matches, not repeated copies of one.

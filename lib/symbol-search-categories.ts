@@ -161,9 +161,12 @@ export const symbolCategoryNames: Record<
 };
 
 export function symbolCategory(item: SymbolSearchItem): SymbolCategory {
-  if (item.bindings.some((binding) => binding.finishWithSpace))
+  if (item.bindings.some((binding) => binding.finishWithSpace)) {
     return 'diacritics';
-  if ('$€£₽¢'.includes(item.symbol)) return 'currency';
+  }
+  if ('$€£₽¢'.includes(item.symbol)) {
+    return 'currency';
+  }
   if (
     [
       '¹',
@@ -185,12 +188,21 @@ export function symbolCategory(item: SymbolSearchItem): SymbolCategory {
       '′',
       '″',
     ].includes(item.symbol)
-  )
+  ) {
     return 'math';
-  if ('←→↑↓'.includes(item.symbol)) return 'arrows';
-  if ('⌘⌥⌃⇧'.includes(item.symbol)) return 'keyboard';
-  if (/^\p{L}+$/u.test(item.symbol)) return 'letters';
-  if ('«»‹›„“”‘’—–…[]{}¡¿§#•\u00a0'.includes(item.symbol)) return 'punctuation';
+  }
+  if ('←→↑↓'.includes(item.symbol)) {
+    return 'arrows';
+  }
+  if ('⌘⌥⌃⇧'.includes(item.symbol)) {
+    return 'keyboard';
+  }
+  if (/^\p{L}+$/u.test(item.symbol)) {
+    return 'letters';
+  }
+  if ('«»‹›„“”‘’—–…[]{}¡¿§#•\u00a0'.includes(item.symbol)) {
+    return 'punctuation';
+  }
   return 'other';
 }
 

@@ -39,7 +39,9 @@ for (const when of ['before', 'during', 'reset', 'blocked']) {
       t.handle('KeyC', true);
       t.handle('KeyC', false);
     }
-    if (when === 'reset') t.reset();
+    if (when === 'reset') {
+      t.reset();
+    }
     assert.equal(t.handle('ControlLeft', false), false);
     assert.equal(t.handle('ControlRight', false), false);
   });

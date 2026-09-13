@@ -40,8 +40,11 @@ for (const locale of variants) {
     for (const code of [...keyMap.keys(), 'IntlBackslash']) {
       const actions = (maps[locale] as Record<string, Action[]>)[code];
       assert.equal(actions.length, 8, code);
-      for (const action of actions)
-        if (action.dead) assert.ok(actionLabel(action).startsWith('◌'));
+      for (const action of actions) {
+        if (action.dead) {
+          assert.ok(actionLabel(action).startsWith('◌'));
+        }
+      }
     }
     for (const platform of ['linux', 'windows', 'macos'] as const) {
       const rows = getKeyboardRows(platform, locale);
@@ -76,8 +79,12 @@ for (const { locale, alt, shift, caps, index } of nationalScenarios) {
   void test(`${locale}: national ${alt}, shift=${shift}, caps=${caps}`, () => {
     for (const [code, actions] of Object.entries(maps[locale])) {
       const action: Action = actions[index];
-      if ((!action.text && !action.dead) || (keyMap.get(code)?.quick && !shift))
+      if (
+        (!action.text && !action.dead) ||
+        (keyMap.get(code)?.quick && !shift)
+      ) {
         continue;
+      }
       const engine = new TypingEngine();
       engine.handle({ code: alt, down: true }, locale);
       const result = engine.handle(
@@ -123,8 +130,9 @@ void test('vowel preview supports Western European diacritics without treating �
       (letter + '\u0301').normalize('NFC'),
     );
   }
-  for (const letter of 'йЙçÇñÑß')
+  for (const letter of 'йЙçÇñÑß') {
     assert.equal(accentKeyLabel(letter, 'acute'), letter);
+  }
 });
 void test('national dead keys compose and reset', () => {
   for (const [locale, code, letter, expected] of [
@@ -159,9 +167,10 @@ void test('Romanian Programmer has modern comma-below letters in both cases', ()
   assert.equal(baseKey('KeyY', 'ro'), 'y');
   assert.equal(baseKey('KeyZ', 'ro'), 'z');
   assert.equal(/[şţŞŢ]/u.test(JSON.stringify(maps.ro)), false);
-  for (const letter of 'ăâîĂÂÎ')
+  for (const letter of 'ăâîĂÂÎ') {
     assert.equal(
       accentKeyLabel(letter, 'acute'),
       (letter + '\u0301').normalize('NFC'),
     );
+  }
 });

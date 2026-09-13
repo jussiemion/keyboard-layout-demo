@@ -25,9 +25,12 @@ export function capturesWindowKey(
     event.isComposing ||
     event.ctrlKey ||
     event.metaKey
-  )
+  ) {
     return false;
-  if (onControl && (event.key === ' ' || event.key === 'Enter')) return false;
+  }
+  if (onControl && (event.key === ' ' || event.key === 'Enter')) {
+    return false;
+  }
   return (
     /^(Alt|Shift)(Left|Right)$/.test(event.code) ||
     keyboardEventCode(event) === 'CapsLock' ||

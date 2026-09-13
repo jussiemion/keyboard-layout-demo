@@ -90,7 +90,9 @@ function browserFixture(
   blocked = false,
 ) {
   const values = new Map<string, string>();
-  if (saved) values.set(PLATFORM_STORAGE_KEY, saved);
+  if (saved) {
+    values.set(PLATFORM_STORAGE_KEY, saved);
+  }
   const root = {
     dataset: {} as Record<string, string>,
     lang: 'en',
@@ -109,11 +111,15 @@ function browserFixture(
     matchMedia: () => ({ matches: false }),
     localStorage: {
       getItem(key: string) {
-        if (blocked) throw new Error('Blocked');
+        if (blocked) {
+          throw new Error('Blocked');
+        }
         return values.get(key) ?? null;
       },
       setItem(key: string, value: string) {
-        if (blocked) throw new Error('Blocked');
+        if (blocked) {
+          throw new Error('Blocked');
+        }
         values.set(key, value);
       },
     },
@@ -130,9 +136,13 @@ function browserFixture(
     bootstrap: () => runInNewContext(platformBootstrap, browser),
     bootstrapPreferences: () => runInNewContext(preferencesBootstrap, browser),
     storage(key: string | null, newValue: string | null) {
-      if (key === null) values.clear();
-      else if (newValue === null) values.delete(key);
-      else values.set(key, newValue);
+      if (key === null) {
+        values.clear();
+      } else if (newValue === null) {
+        values.delete(key);
+      } else {
+        values.set(key, newValue);
+      }
       const event = new Event('storage');
       Object.defineProperties(event, {
         key: { value: key },
@@ -142,8 +152,11 @@ function browserFixture(
     },
     restore() {
       for (const [key, descriptor] of originals) {
-        if (descriptor) Object.defineProperty(globalThis, key, descriptor);
-        else Reflect.deleteProperty(globalThis, key);
+        if (descriptor) {
+          Object.defineProperty(globalThis, key, descriptor);
+        } else {
+          Reflect.deleteProperty(globalThis, key);
+        }
       }
     },
   };
@@ -251,11 +264,12 @@ for (const platform of PLATFORMS) {
     );
     assert.ok(keys.some((key) => key.code === 'AltLeft'));
     assert.ok(keys.some((key) => key.code === 'AltRight'));
-    for (const row of rows)
+    for (const row of rows) {
       assert.equal(
         row.reduce((sum, key) => sum + (key.width ?? 1), 0),
         15,
       );
+    }
     for (const locale of ['ru', 'en', 'pl'] as const) {
       const engine = new TypingEngine();
       engine.handle({ code: 'AltLeft', down: true }, locale);

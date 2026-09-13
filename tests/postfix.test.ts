@@ -72,7 +72,9 @@ const polishScenarios = polishRows.flatMap((row) => [
 ]);
 for (const { row, shift } of polishScenarios) {
   void test(`Polish reference cycle: ${row}, ${shift}`, () => {
-    for (const base of row) assertCycle('pl', row, shift, base);
+    for (const base of row) {
+      assertCycle('pl', row, shift, base);
+    }
   });
 }
 
@@ -94,13 +96,21 @@ for (const { code, row, shift, national } of stressScenarios) {
   void test(`${shift}: stress on ${row}, national=${national}`, () => {
     const f = field();
     f.acute();
-    if (national) f.send('AltLeft', true);
+    if (national) {
+      f.send('AltLeft', true);
+    }
     const upper = row === row.toUpperCase();
-    if (upper) f.send('ShiftLeft', true);
+    if (upper) {
+      f.send('ShiftLeft', true);
+    }
     f.send(code, true, row[0], { shiftKey: upper });
     f.send(code, false, row[0]);
-    if (upper) f.send('ShiftLeft', false);
-    if (national) f.send('AltLeft', false);
+    if (upper) {
+      f.send('ShiftLeft', false);
+    }
+    if (national) {
+      f.send('AltLeft', false);
+    }
     for (let step = 0; step < 5; step++) {
       assert.equal(
         f.state.value,
@@ -223,7 +233,9 @@ const nationalScenarios = nationalRows.flatMap((entry) => [
 ]);
 for (const { locale, row, shift } of nationalScenarios) {
   void test(`${locale}: ${row}, ${shift}`, () => {
-    for (const base of row) assertCycle(locale, row, shift, base);
+    for (const base of row) {
+      assertCycle(locale, row, shift, base);
+    }
   });
   if (/^[aeiouyеи]$/iu.test(row[0])) {
     void test(`${locale}: stressed ${row}, ${shift}`, () => {

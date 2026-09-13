@@ -124,7 +124,9 @@ void test('saving publishes a stable snapshot, syncs storage changes, and handle
     value: {
       getItem: (key: string) => values.get(key) ?? null,
       setItem: (key: string, value: string) => {
-        if (blocked) throw new Error('Storage unavailable');
+        if (blocked) {
+          throw new Error('Storage unavailable');
+        }
         values.set(key, value);
       },
     },
@@ -146,10 +148,15 @@ void test('saving publishes a stable snapshot, syncs storage changes, and handle
     assert.equal(notifications, 3);
   } finally {
     unsubscribe();
-    if (oldWindow) Object.defineProperty(globalThis, 'window', oldWindow);
-    else Reflect.deleteProperty(globalThis, 'window');
-    if (oldStorage)
+    if (oldWindow) {
+      Object.defineProperty(globalThis, 'window', oldWindow);
+    } else {
+      Reflect.deleteProperty(globalThis, 'window');
+    }
+    if (oldStorage) {
       Object.defineProperty(globalThis, 'localStorage', oldStorage);
-    else Reflect.deleteProperty(globalThis, 'localStorage');
+    } else {
+      Reflect.deleteProperty(globalThis, 'localStorage');
+    }
   }
 });

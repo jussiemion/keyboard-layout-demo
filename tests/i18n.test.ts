@@ -41,8 +41,12 @@ function browserFixture(
   prefersDark = false,
 ) {
   const values = new Map<string, string>();
-  if (saved) values.set(UI_LOCALE_STORAGE_KEY, saved);
-  if (savedTheme) values.set(THEME_STORAGE_KEY, savedTheme);
+  if (saved) {
+    values.set(UI_LOCALE_STORAGE_KEY, saved);
+  }
+  if (savedTheme) {
+    values.set(THEME_STORAGE_KEY, savedTheme);
+  }
   const classes = new Set<string>();
   const root = {
     dataset: {} as Record<string, string>,
@@ -50,8 +54,11 @@ function browserFixture(
     dir: 'ltr',
     classList: {
       toggle(name: string, enabled: boolean) {
-        if (enabled) classes.add(name);
-        else classes.delete(name);
+        if (enabled) {
+          classes.add(name);
+        } else {
+          classes.delete(name);
+        }
       },
     },
   };
@@ -78,11 +85,15 @@ function browserFixture(
     },
     localStorage: {
       getItem(key: string) {
-        if (blocked) throw new Error('Storage blocked');
+        if (blocked) {
+          throw new Error('Storage blocked');
+        }
         return values.get(key) ?? null;
       },
       setItem(key: string, value: string) {
-        if (blocked) throw new Error('Storage blocked');
+        if (blocked) {
+          throw new Error('Storage blocked');
+        }
         values.set(key, value);
       },
     },
@@ -102,9 +113,13 @@ function browserFixture(
     bootstrap: () => runInNewContext(localeBootstrap, browser),
     bootstrapPreferences: () => runInNewContext(preferencesBootstrap, browser),
     storage(key: string | null, newValue: string | null) {
-      if (key === null) values.clear();
-      else if (newValue === null) values.delete(key);
-      else values.set(key, newValue);
+      if (key === null) {
+        values.clear();
+      } else if (newValue === null) {
+        values.delete(key);
+      } else {
+        values.set(key, newValue);
+      }
       const event = new Event('storage');
       Object.defineProperties(event, {
         key: { value: key },
@@ -114,8 +129,11 @@ function browserFixture(
     },
     restore() {
       for (const [name, descriptor] of originals) {
-        if (descriptor) Object.defineProperty(globalThis, name, descriptor);
-        else Reflect.deleteProperty(globalThis, name);
+        if (descriptor) {
+          Object.defineProperty(globalThis, name, descriptor);
+        } else {
+          Reflect.deleteProperty(globalThis, name);
+        }
       }
     },
   };
@@ -135,7 +153,9 @@ await test('all catalogs have complete messages, matching placeholders and every
         `${locale}.${key}`,
       );
     }
-    for (const key of Object.values(accentMessageKeys)) assert.ok(catalog[key]);
+    for (const key of Object.values(accentMessageKeys)) {
+      assert.ok(catalog[key]);
+    }
   }
   assert.deepEqual(
     Object.keys(accentMessageKeys).sort(),
@@ -474,8 +494,9 @@ await test('all localized help tabs are complete, including Romanian', () => {
       Object.keys(helpMessages[locale]).sort(),
       Object.keys(helpMessages.en).sort(),
     );
-    for (const value of Object.values(helpMessages[locale]))
+    for (const value of Object.values(helpMessages[locale])) {
       assert.ok(value.trim());
+    }
   }
   assert.equal(messages.ro.inputPlaceholder, 'Scrie ceva…');
   assert.equal(parseUiLocale('ro'), 'ro');

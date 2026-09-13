@@ -61,7 +61,9 @@ export class LanguageSwitchController {
   private lastPair: KeyboardLocale | undefined;
 
   rememberLanguage(locale: KeyboardLocale, order: readonly KeyboardLocale[]) {
-    if (order.includes(locale)) this.lastPair = locale;
+    if (order.includes(locale)) {
+      this.lastPair = locale;
+    }
   }
 
   nextLanguage(locale: KeyboardLocale, order: readonly KeyboardLocale[]) {
@@ -86,17 +88,25 @@ export class LanguageSwitchController {
     order = LANGUAGE_SLOTS,
     slots = LANGUAGE_SLOTS,
   ): LanguageResult {
-    if (event.synthetic) return { prevent: false };
-    if (order.includes(locale)) this.lastPair = locale;
+    if (event.synthetic) {
+      return { prevent: false };
+    }
+    if (order.includes(locale)) {
+      this.lastPair = locale;
+    }
     const { code, down } = event;
-    if (event.repeat || down === this.held.has(code))
+    if (event.repeat || down === this.held.has(code)) {
       return {
         prevent:
           this.consumed.has(code) || (code === 'CapsLock' && this.active),
       };
+    }
     const alone = this.held.size === 0;
-    if (down) this.held.add(code);
-    else this.held.delete(code);
+    if (down) {
+      this.held.add(code);
+    } else {
+      this.held.delete(code);
+    }
     const modified =
       event.ctrlKey ||
       event.metaKey ||
@@ -109,7 +119,9 @@ export class LanguageSwitchController {
       if (down) {
         this.active = alone && !modified;
         this.tapEligible = this.active;
-        if (this.active) this.consumed.add(code);
+        if (this.active) {
+          this.consumed.add(code);
+        }
         return { prevent: this.active };
       }
       const prevent = this.consumed.delete(code);
@@ -121,7 +133,9 @@ export class LanguageSwitchController {
       this.tapEligible = false;
       return { prevent, locale: next };
     }
-    if (!down) return { prevent: this.consumed.delete(code) };
+    if (!down) {
+      return { prevent: this.consumed.delete(code) };
+    }
     if (this.active) {
       this.tapEligible = false;
       this.consumed.add(code);

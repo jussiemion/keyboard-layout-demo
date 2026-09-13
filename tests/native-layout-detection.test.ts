@@ -30,14 +30,17 @@ void test('recorded native single/double Alt signatures require distinct evidenc
 });
 void test('ordinary keyboards, real/remapped Caps, pasted symbols and virtual input do not trigger', () => {
   const d = new NativeLayoutDetector();
-  for (const key of ['c', 'с', 'C', 'С']) assert.equal(symbol(d, key), null);
+  for (const key of ['c', 'с', 'C', 'С']) {
+    assert.equal(symbol(d, key), null);
+  }
   for (const [code, key] of [
     ['F24', 'CapsLock'],
     ['CapsLock', 'CapsLock'],
     ['KeyC', '©'],
     ['KeyC', '¢'],
-  ])
+  ]) {
     assert.equal(d.observe({ ...base, code, key }, true), null);
+  }
   prefix(d);
   assert.equal(
     d.observe({ ...base, code: 'KeyC', key: '©', isTrusted: false }, true),

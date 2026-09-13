@@ -22,15 +22,26 @@ export function detectPlatform(browser: PlatformSignals): Platform {
   if (
     /Android|iPhone|iPad|iPod/i.test(agent) ||
     (/Mac/i.test(legacy) && (browser.maxTouchPoints ?? 0) > 1)
-  )
+  ) {
     return 'linux';
-  for (const value of [browser.userAgentData?.platform ?? '', legacy]) {
-    if (/^win/i.test(value)) return 'windows';
-    if (/^mac/i.test(value)) return 'macos';
-    if (/^linux/i.test(value)) return 'linux';
   }
-  if (/Windows|Win32|Win64/i.test(agent)) return 'windows';
-  if (/Macintosh|Mac OS X/i.test(agent)) return 'macos';
+  for (const value of [browser.userAgentData?.platform ?? '', legacy]) {
+    if (/^win/i.test(value)) {
+      return 'windows';
+    }
+    if (/^mac/i.test(value)) {
+      return 'macos';
+    }
+    if (/^linux/i.test(value)) {
+      return 'linux';
+    }
+  }
+  if (/Windows|Win32|Win64/i.test(agent)) {
+    return 'windows';
+  }
+  if (/Macintosh|Mac OS X/i.test(agent)) {
+    return 'macos';
+  }
   return 'linux';
 }
 
@@ -40,7 +51,9 @@ export function parsePlatform(value: unknown): Platform | null {
 
 function getPreference(): Platform | null {
   const applied = document.documentElement.dataset.platformPreference;
-  if (applied) return parsePlatform(applied);
+  if (applied) {
+    return parsePlatform(applied);
+  }
   try {
     return parsePlatform(localStorage.getItem(PLATFORM_STORAGE_KEY));
   } catch {
@@ -68,7 +81,9 @@ function applyPlatform(preference: Platform | null) {
 
 export function setPlatform(value: string) {
   const platform = parsePlatform(value);
-  if (!platform) return;
+  if (!platform) {
+    return;
+  }
   applyPlatform(platform);
   try {
     localStorage.setItem(PLATFORM_STORAGE_KEY, platform);
@@ -84,7 +99,9 @@ export function subscribeToPlatform(onChange: () => void) {
     onChange();
   };
   const storageChanged = (event: StorageEvent) => {
-    if (event.key !== PLATFORM_STORAGE_KEY && event.key !== null) return;
+    if (event.key !== PLATFORM_STORAGE_KEY && event.key !== null) {
+      return;
+    }
     applyPlatform(parsePlatform(event.newValue));
     onChange();
   };

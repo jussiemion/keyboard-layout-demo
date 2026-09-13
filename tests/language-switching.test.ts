@@ -26,7 +26,7 @@ void test('Caps release cycles the four fallback sources, including wraparound',
   }
 });
 void test('four physical positions select fixed languages and consume the tap', () => {
-  for (const locale of LANGUAGE_ORDER)
+  for (const locale of LANGUAGE_ORDER) {
     for (let i = 0; i < 4; i++) {
       const s = new LanguageSwitchController();
       s.handle({ code: 'CapsLock', down: true }, locale);
@@ -44,6 +44,7 @@ void test('four physical positions select fixed languages and consume the tap', 
         undefined,
       );
     }
+  }
 });
 void test('repeat, held modifiers, overlap and interruption do not switch', () => {
   for (const code of [
@@ -148,8 +149,9 @@ void test('four switch labels; unassigned Quote is captured during Caps', () => 
     ['KeyK', 'S2', 'ru'],
     ['KeyL', 'S3', 'pl'],
     ['Semicolon', 'S4', 'pt'],
-  ])
+  ]) {
     assert.deepEqual(languageSlotForKey(code), { label, locale });
+  }
   assert.equal(languageSlotForKey('Quote'), undefined);
   assert.equal(LANGUAGE_SLOTS.length, 4);
   const s = new LanguageSwitchController();

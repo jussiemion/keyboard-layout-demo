@@ -1000,7 +1000,9 @@ function createItem(symbol: string): SymbolSearchItem {
 
   for (const locale of locales) {
     const next = baseNames?.[locale];
-    if (next) names[locale] = next;
+    if (next) {
+      names[locale] = next;
+    }
   }
 
   const group = searchGroups.find((entry) => entry.symbols.includes(symbol));
@@ -1041,7 +1043,9 @@ for (const entry of layout) {
     text: string | undefined,
     quick = false,
   ) => {
-    if (!text) return;
+    if (!text) {
+      return;
+    }
     const record = itemsBySymbol.get(text) ?? createItem(text);
     itemsBySymbol.set(text, record);
 
@@ -1049,8 +1053,9 @@ for (const entry of layout) {
       record.bindings.some(
         (item) => item.mode === mode && item.keyCode === entry.code,
       )
-    )
+    ) {
       return;
+    }
 
     record.bindings.push({
       mode,
@@ -1068,7 +1073,9 @@ for (const entry of layout) {
     const record = itemsBySymbol.get(symbol) ?? createItem(symbol);
     for (const locale of locales) {
       const name = messages[locale][accentMessageKeys[dead]];
-      if (!itemsBySymbol.has(symbol)) record.names[locale] = name;
+      if (!itemsBySymbol.has(symbol)) {
+        record.names[locale] = name;
+      }
       record.aliases[locale] = [
         ...(record.aliases[locale] ?? []),
         name,
@@ -1088,9 +1095,13 @@ for (const entry of layout) {
 }
 
 for (const record of itemsBySymbol.values()) {
-  if (!record.bindings.length) continue;
+  if (!record.bindings.length) {
+    continue;
+  }
   record.bindings.sort((left, right) => {
-    if (left.mode !== right.mode) return left.mode - right.mode;
+    if (left.mode !== right.mode) {
+      return left.mode - right.mode;
+    }
     return left.keyLabel.localeCompare(right.keyLabel);
   });
   enrichSymbolUsage(record);
@@ -1114,7 +1125,9 @@ function typoDistance(
   token: string,
   limit: number,
 ): number | null {
-  if (Math.abs(word.length - token.length) > limit) return null;
+  if (Math.abs(word.length - token.length) > limit) {
+    return null;
+  }
   let older: number[] = [];
   let previous = Array.from({ length: token.length + 1 }, (_, i) => i);
   for (let i = 1; i <= word.length; i++) {
@@ -1130,8 +1143,9 @@ function typoDistance(
         j > 1 &&
         word[i - 1] === token[j - 2] &&
         word[i - 2] === token[j - 1]
-      )
+      ) {
         current[j] = Math.min(current[j], older[j - 2] + 1);
+      }
     }
     older = previous;
     previous = current;
@@ -1144,14 +1158,21 @@ export function scoreSearchTerm(
   candidate: string,
   token: string,
 ): number | null {
-  if (candidate === token) return 0;
-  if (candidate.startsWith(token)) return 100;
+  if (candidate === token) {
+    return 0;
+  }
+  if (candidate.startsWith(token)) {
+    return 100;
+  }
   const at = candidate.indexOf(token);
-  if (at >= 0)
+  if (at >= 0) {
     return (
       (/[^\p{L}\p{N}]/u.test(candidate[at - 1]) ? 200 : 300) + Math.min(at, 30)
     );
-  if (token.length < 2 || !/^[\p{L}\p{N}]+$/u.test(token)) return null;
+  }
+  if (token.length < 2 || !/^[\p{L}\p{N}]+$/u.test(token)) {
+    return null;
+  }
   let previous = -1;
   let gaps = 0;
   let subsequence = true;
@@ -1164,15 +1185,23 @@ export function scoreSearchTerm(
     gaps += next - previous - 1;
     previous = next;
   }
-  if (subsequence) return 400 + Math.min(gaps, 80);
+  if (subsequence) {
+    return 400 + Math.min(gaps, 80);
+  }
   // Never guess short abbreviations, literal symbols, numbers or Unicode codes.
-  if (token.length < 4 || !/^\p{L}+$/u.test(token)) return null;
+  if (token.length < 4 || !/^\p{L}+$/u.test(token)) {
+    return null;
+  }
   let best = Infinity;
   for (const word of candidate.match(/\p{L}+/gu) ?? []) {
-    if (word.length < 4) continue;
+    if (word.length < 4) {
+      continue;
+    }
     const limit = Math.min(word.length, token.length) >= 8 ? 2 : 1;
     const distance = typoDistance(word, token, limit);
-    if (distance !== null) best = Math.min(best, 500 + distance * 20);
+    if (distance !== null) {
+      best = Math.min(best, 500 + distance * 20);
+    }
   }
   return Number.isFinite(best) ? best : null;
 }
@@ -1215,7 +1244,9 @@ export function searchSymbolItems(
   const collator = new Intl.Collator(locale);
   // Literal lookup happens before trimming: NBSP itself is a searchable symbol.
   const literal = searchIndexItems.find((item) => item.symbol === query);
-  if (literal) return [{ item: literal, score: -1 }];
+  if (literal) {
+    return [{ item: literal, score: -1 }];
+  }
   const tokens = normalizeSearchTerm(query).split(/\s+/u).filter(Boolean);
   const ranked: SearchMatch[] = [];
   const scoreCache = new Map<string, number | null>();
@@ -1224,15 +1255,17 @@ export function searchSymbolItems(
       Math.min(
         ...fields.map((field) => {
           const cacheKey = `${field.value}\0${token}`;
-          if (!scoreCache.has(cacheKey))
+          if (!scoreCache.has(cacheKey)) {
             scoreCache.set(cacheKey, scoreSearchTerm(field.value, token));
+          }
           const score = scoreCache.get(cacheKey)!;
           return score === null ? Infinity : score + field.weight;
         }),
       ),
     );
-    if (scores.every(Number.isFinite))
+    if (scores.every(Number.isFinite)) {
       ranked.push({ item, score: scores.reduce((a, b) => a + b, 0) });
+    }
   }
   return ranked.sort(
     (a, b) =>

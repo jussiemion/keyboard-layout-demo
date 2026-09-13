@@ -53,9 +53,15 @@ const pcRows: Keycap[][] = [
 const macRows: KeyboardEntry[][] = [
   ...pcRows.slice(0, 4).map((row) =>
     row.map((key) => {
-      if (key.code === 'Backspace') return { ...key, label: 'delete' };
-      if (key.code === 'Enter') return { ...key, label: 'return' };
-      if (key.code.startsWith('Shift')) return { ...key, symbol: '⇧' };
+      if (key.code === 'Backspace') {
+        return { ...key, label: 'delete' };
+      }
+      if (key.code === 'Enter') {
+        return { ...key, label: 'return' };
+      }
+      if (key.code.startsWith('Shift')) {
+        return { ...key, symbol: '⇧' };
+      }
       return key;
     }),
   ),
@@ -96,8 +102,9 @@ export function getKeyboardRows(
       : platform === 'windows'
         ? windowsRows
         : pcRows;
-  if (['ru', 'en', 'pl', 'he', 'ar', 'vi'].includes(keyboardMap(locale)))
+  if (['ru', 'en', 'pl', 'he', 'ar', 'vi'].includes(keyboardMap(locale))) {
     return rows;
+  }
   return rows.map((row, index) =>
     index !== 3
       ? row
@@ -149,18 +156,21 @@ export function moveSelection(
   ].map((segment) => segment.index);
   boundaries.push(value.length);
   let next = focus;
-  if (code === 'ArrowUp') next = 0;
-  else if (code === 'ArrowDown') next = value.length;
-  else if (code === 'ArrowLeft')
+  if (code === 'ArrowUp') {
+    next = 0;
+  } else if (code === 'ArrowDown') {
+    next = value.length;
+  } else if (code === 'ArrowLeft') {
     next =
       !extend && start !== end
         ? start
         : (boundaries.findLast((boundary) => boundary < focus) ?? 0);
-  else if (code === 'ArrowRight')
+  } else if (code === 'ArrowRight') {
     next =
       !extend && start !== end
         ? end
         : (boundaries.find((boundary) => boundary > focus) ?? value.length);
+  }
   return extend
     ? {
         start: Math.min(anchor, next),

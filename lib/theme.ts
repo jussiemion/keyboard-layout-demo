@@ -39,7 +39,9 @@ export const themeBootstrap = `(() => {
 
 export function getThemePreference(): ThemePreference {
   const applied = document.documentElement.dataset.themePreference;
-  if (applied) return parsePreference(applied);
+  if (applied) {
+    return parsePreference(applied);
+  }
   try {
     return parsePreference(localStorage.getItem(THEME_STORAGE_KEY));
   } catch {
@@ -77,8 +79,11 @@ export function setThemePreference(value: string) {
   const preference = parsePreference(value);
   applyTheme(preference);
   try {
-    if (preference === 'system') localStorage.removeItem(THEME_STORAGE_KEY);
-    else localStorage.setItem(THEME_STORAGE_KEY, preference);
+    if (preference === 'system') {
+      localStorage.removeItem(THEME_STORAGE_KEY);
+    } else {
+      localStorage.setItem(THEME_STORAGE_KEY, preference);
+    }
   } catch {
     /* In private/restricted contexts, the choice still works in this tab. */
   }
@@ -92,7 +97,9 @@ export function subscribeToTheme(onChange: () => void) {
     onChange();
   };
   const storageChanged = (event: StorageEvent) => {
-    if (event.key !== THEME_STORAGE_KEY && event.key !== null) return;
+    if (event.key !== THEME_STORAGE_KEY && event.key !== null) {
+      return;
+    }
     applyTheme(parsePreference(event.newValue));
     onChange();
   };

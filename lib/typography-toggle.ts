@@ -14,22 +14,31 @@ export class TypographyToggle {
     repeat = false,
     blocked = false,
   ): boolean {
-    if (repeat || down === this.held.has(code)) return false;
+    if (repeat || down === this.held.has(code)) {
+      return false;
+    }
     const control = code === 'ControlLeft' || code === 'ControlRight';
     if (down) {
-      if (this.held.size === 0) this.clean = control && !blocked;
+      if (this.held.size === 0) {
+        this.clean = control && !blocked;
+      }
       this.held.add(code);
-      if (!control || blocked) this.clean = false;
+      if (!control || blocked) {
+        this.clean = false;
+      }
       if (
         this.clean &&
         this.held.has('ControlLeft') &&
         this.held.has('ControlRight')
-      )
+      ) {
         this.paired = true;
+      }
       return false;
     }
     this.held.delete(code);
-    if (blocked) this.clean = false;
+    if (blocked) {
+      this.clean = false;
+    }
     const toggle = control && this.held.size === 0 && this.clean && this.paired;
     if (this.held.size === 0) {
       this.clean = false;

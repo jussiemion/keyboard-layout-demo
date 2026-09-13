@@ -89,8 +89,12 @@ void test('Hebrew keeps Left Alt quick typography and both Alt prefix modes', ()
       }
       const result = e.handle({ code: entry.code, down: true }, 'he');
       const action = taps === 1 ? entry.primary : entry.secondary;
-      if (action.text) assert.equal(result.text, action.text);
-      if (action.dead) assert.equal(e.accent, action.dead);
+      if (action.text) {
+        assert.equal(result.text, action.text);
+      }
+      if (action.dead) {
+        assert.equal(e.accent, action.dead);
+      }
     }
   }
 });

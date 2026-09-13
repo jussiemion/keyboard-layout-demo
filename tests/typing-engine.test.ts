@@ -24,7 +24,9 @@ function press(
   return result;
 }
 function taps(engine: TypingEngine, count: number, alt = 'AltLeft') {
-  for (let i = 0; i < count; i++) press(engine, alt);
+  for (let i = 0; i < count; i++) {
+    press(engine, alt);
+  }
 }
 
 // Each scenario checks all physical positions against the configured layer.
@@ -145,8 +147,11 @@ void test('Shift keys are ordinary; no two-Shift toggle or secondary mode', () =
 });
 void test('overlapping Alt keys are not separate taps', () => {
   const engine = new TypingEngine();
-  for (const down of [true, false])
-    for (const code of ['AltLeft', 'AltRight']) engine.handle({ code, down });
+  for (const down of [true, false]) {
+    for (const code of ['AltLeft', 'AltRight']) {
+      engine.handle({ code, down });
+    }
+  }
   assert.equal(engine.pending, 0);
 });
 void test('autorepeat of an existing key preserves a pending prefix', () => {
@@ -191,7 +196,7 @@ for (const [code, letter] of Object.entries({
   KeyZ: 'ż',
 })) {
   void test(`Polish national ${letter}, both Alt keys and cases`, () => {
-    for (const alt of ['AltLeft', 'AltRight'])
+    for (const alt of ['AltLeft', 'AltRight']) {
       for (const shiftKey of [false, true]) {
         const engine = new TypingEngine();
         engine.handle({ code: alt, down: true });
@@ -200,9 +205,10 @@ for (const [code, letter] of Object.entries({
           shiftKey ? letter.toUpperCase() : letter,
         );
       }
+    }
   });
 }
-for (const [accent, value] of Object.entries(accents))
+for (const [accent, value] of Object.entries(accents)) {
   for (const letter of 'aeiouyаеёиоуыэюяАЕЁИОУЫЭЮЯąęóĄĘÓ') {
     void test(`${accent} before ${letter}`, () => {
       const engine = new TypingEngine();
@@ -216,6 +222,7 @@ for (const [accent, value] of Object.entries(accents))
       assert.equal(engine.accent, null);
     });
   }
+}
 void test('acute followed by Polish national letters', () => {
   for (const [code, text] of [
     ['KeyA', 'ą́'],

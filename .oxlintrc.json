@@ -29,9 +29,7 @@
     "build/**",
     "dist/**",
     "coverage/**",
-    "next-env.d.ts",
-    "components/ui/**",
-    "hooks/use-mobile.ts"
+    "next-env.d.ts"
   ],
   "rules": {
     "no-array-constructor": "error",
@@ -71,6 +69,15 @@
     "typescript/no-namespace": "error",
     "typescript/no-require-imports": "error",
     "typescript/no-unnecessary-type-constraint": "error",
-    "typescript/no-unsafe-function-type": "error"
+    "typescript/no-unsafe-function-type": "error",
+    "eqeqeq": ["error", "always"],
+    "curly": ["error", "all"],
+    "no-else-return": [
+      "error",
+      {
+        "allowElseIf": false
+      }
+    ],
+    "no-duplicate-imports": "error"
   }
 }

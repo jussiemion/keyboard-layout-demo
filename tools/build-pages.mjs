@@ -36,15 +36,17 @@ for (const notice of ['LICENSE', 'THIRD_PARTY_NOTICES.md']) {
 function checkFiles(directory) {
   for (const entry of readdirSync(directory, { withFileTypes: true })) {
     const file = join(directory, entry.name);
-    if (entry.isDirectory()) checkFiles(file);
-    else if (/\.(html|css)$/.test(file)) {
+    if (entry.isDirectory()) {
+      checkFiles(file);
+    } else if (/\.(html|css)$/.test(file)) {
       const text = readFileSync(file, 'utf8');
       for (const match of text.matchAll(
         /(?:src="|href="|url\(["']?)(\/keyboard-layout-demo\/[^"'<>\s)]+)/g,
       )) {
         const relative = match[1].slice(prefix.length + 1).split(/[?#]/)[0];
-        if (!existsSync(join(output, relative)))
+        if (!existsSync(join(output, relative))) {
           throw new Error(`Missing Pages asset: ${relative}`);
+        }
       }
     }
   }

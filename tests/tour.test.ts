@@ -98,7 +98,9 @@ void test('every Birman output in the optional text is producible through the cu
     for (const [index, action] of [entry.primary, entry.secondary].entries()) {
       const expected =
         action.text ?? (action.dead ? accents[action.dead].spacing : undefined);
-      if (!expected) continue;
+      if (!expected) {
+        continue;
+      }
       assert.ok(birmanSymbols.includes(expected));
       assert.ok(birmanChallenge.includes(expected));
       const engine = new TypingEngine();
@@ -131,10 +133,12 @@ void test('challenge progress marks the first mismatch and does not accept a pre
 });
 
 void test('only known persisted choices suppress the invitation', () => {
-  for (const choice of ['declined', 'started', 'completed'])
+  for (const choice of ['declined', 'started', 'completed']) {
     assert.equal(parseTourChoice(choice), choice);
-  for (const value of [null, '', 'garbage', '{}'])
+  }
+  for (const value of [null, '', 'garbage', '{}']) {
     assert.equal(parseTourChoice(value), null);
+  }
 });
 
 void test('all interface languages provide the same tour controls, tasks and placeholders', () => {
@@ -193,8 +197,11 @@ void test('declines persist, and denied storage still remembers the choice in th
     assert.equal(rememberTour('started'), false);
     assert.equal(readTourChoice(), 'started');
   } finally {
-    if (original) Object.defineProperty(globalThis, 'localStorage', original);
-    else Reflect.deleteProperty(globalThis, 'localStorage');
+    if (original) {
+      Object.defineProperty(globalThis, 'localStorage', original);
+    } else {
+      Reflect.deleteProperty(globalThis, 'localStorage');
+    }
   }
 });
 

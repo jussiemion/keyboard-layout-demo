@@ -8,6 +8,14 @@
     "pnpm-lock.yaml",
     "yarn.lock",
     "bun.lock",
-    "bun.lockb"
-  ]
+    "bun.lockb",
+    "dist/**",
+    ".vinext/**",
+    ".next/**",
+    "public/fonts/**"
+  ],
+  "proseWrap": "always",
+  "sortTailwindcss": {
+    "functions": ["cn", "clsx", "cva"]
+  }
 }

@@ -215,15 +215,18 @@ export function enrichSymbolUsage(item: SymbolSearchItem): void {
   for (const locale of LANGUAGES) {
     const { language: languageNames, region: regionNames } =
       displayNames[locale];
-    if (item.symbol === '’')
+    if (item.symbol === '’') {
       item.aliases[locale] = [
         ...(item.aliases[locale] ?? []),
         apostropheNames[locale],
       ];
-    if (locale === 'ru' && '«»‹›'.includes(item.symbol))
+    }
+    if (locale === 'ru' && '«»‹›'.includes(item.symbol)) {
       item.aliases[locale] = [...(item.aliases[locale] ?? []), 'ёлочки'];
-    if (locale === 'ru' && '„“”‘’'.includes(item.symbol))
+    }
+    if (locale === 'ru' && '„“”‘’'.includes(item.symbol)) {
       item.aliases[locale] = [...(item.aliases[locale] ?? []), 'лапки'];
+    }
     const sentences: string[] = [];
     if (quotes.length) {
       for (const { pair, languages } of quotes) {
@@ -237,11 +240,14 @@ export function enrichSymbolUsage(item: SymbolSearchItem): void {
           `${role}: ${pair[0]}…${pair[1]} (${languages.map((l) => languageNames.of(l)).join(', ')}).`,
         );
       }
-      if (item.symbol === '’') sentences.push(usageText.apostrophe[locale]);
+      if (item.symbol === '’') {
+        sentences.push(usageText.apostrophe[locale]);
+      }
       item.description[locale] = sentences.join(' ');
     }
-    if (item.symbol === '`')
+    if (item.symbol === '`') {
       item.description[locale] = usageText.backtick[locale];
+    }
     if (languageExamples) {
       const examplesText = Object.entries(languageExamples)
         .map(

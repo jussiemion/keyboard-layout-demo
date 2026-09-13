@@ -35,7 +35,9 @@ createServer(async (request, response) => {
       response.writeHead(403).end();
       return;
     }
-    if ((await stat(file)).isDirectory()) file = resolve(file, 'index.html');
+    if ((await stat(file)).isDirectory()) {
+      file = resolve(file, 'index.html');
+    }
     const body = await readFile(file);
     response.writeHead(200, {
       'Content-Type': types[extname(file)] || 'application/octet-stream',

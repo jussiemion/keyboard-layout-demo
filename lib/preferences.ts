@@ -45,8 +45,9 @@ export function revealInitialPreferences(
     locale !== getUiLocale() ||
     theme !== getResolvedTheme() ||
     platform !== getPlatform()
-  )
+  ) {
     return false;
+  }
   const root = document.documentElement;
   if (root.dataset.preferencesPending) {
     delete root.dataset.preferencesPending;

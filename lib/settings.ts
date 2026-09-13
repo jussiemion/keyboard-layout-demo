@@ -44,10 +44,14 @@ function languages(value: unknown, length: number): value is KeyboardLocale[] {
 
 /** Invalid or future data must never leave the language controller without a pair. */
 export function parseSettings(raw: string | null): UserSettings {
-  if (!raw) return DEFAULT_SETTINGS;
+  if (!raw) {
+    return DEFAULT_SETTINGS;
+  }
   try {
     const data = JSON.parse(raw);
-    if (!data || data.version !== 1) return DEFAULT_SETTINGS;
+    if (!data || data.version !== 1) {
+      return DEFAULT_SETTINGS;
+    }
     const mapping = data.languageMapping;
     const valid =
       mapping &&
@@ -76,7 +80,9 @@ export function parseSettings(raw: string | null): UserSettings {
 
 let snapshot: UserSettings | undefined;
 export function getSettings(): UserSettings {
-  if (typeof window === 'undefined') return DEFAULT_SETTINGS;
+  if (typeof window === 'undefined') {
+    return DEFAULT_SETTINGS;
+  }
   if (!snapshot) {
     try {
       snapshot = parseSettings(localStorage.getItem(SETTINGS_STORAGE_KEY));
@@ -106,7 +112,9 @@ export function saveSettings(settings: UserSettings): boolean {
 
 export function subscribeToSettings(onChange: () => void) {
   const storageChanged = (event: StorageEvent) => {
-    if (event.key !== SETTINGS_STORAGE_KEY && event.key !== null) return;
+    if (event.key !== SETTINGS_STORAGE_KEY && event.key !== null) {
+      return;
+    }
     snapshot = parseSettings(event.key === null ? null : event.newValue);
     onChange();
   };

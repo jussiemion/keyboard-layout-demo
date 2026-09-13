@@ -16,7 +16,9 @@ export function detectUiLocale(languages: readonly string[]): UiLocale {
     const locale = parseUiLocale(
       language.toLowerCase().split(/[-_]/)[0].replace(/^iw$/, 'he'),
     );
-    if (locale) return locale;
+    if (locale) {
+      return locale;
+    }
   }
   return 'en';
 }
@@ -24,12 +26,16 @@ export function detectUiLocale(languages: readonly string[]): UiLocale {
 // A primary English locale may still declare a preferred native language.
 export function detectNativeLocale(languages: readonly string[]): UiLocale {
   const primary = detectUiLocale(languages);
-  if (primary !== 'en') return primary;
+  if (primary !== 'en') {
+    return primary;
+  }
   for (const language of languages) {
     const candidate = parseUiLocale(
       language.toLowerCase().split(/[-_]/)[0].replace(/^iw$/, 'he'),
     );
-    if (candidate && candidate !== 'en') return candidate;
+    if (candidate && candidate !== 'en') {
+      return candidate;
+    }
   }
   return 'en';
 }
@@ -58,7 +64,9 @@ export function subscribeToInitialKeyboardLocale() {
 
 function getPreference(): UiLocale | null {
   const applied = document.documentElement.dataset.uiLocalePreference;
-  if (applied) return parseUiLocale(applied);
+  if (applied) {
+    return parseUiLocale(applied);
+  }
   try {
     return parseUiLocale(localStorage.getItem(UI_LOCALE_STORAGE_KEY));
   } catch {
@@ -93,7 +101,9 @@ function applyLocale(preference: UiLocale | null) {
 
 export function setUiLocale(value: string) {
   const locale = parseUiLocale(value);
-  if (!locale) return;
+  if (!locale) {
+    return;
+  }
   applyLocale(locale);
   try {
     localStorage.setItem(UI_LOCALE_STORAGE_KEY, locale);
@@ -109,7 +119,9 @@ export function subscribeToUiLocale(onChange: () => void) {
     onChange();
   };
   const storageChanged = (event: StorageEvent) => {
-    if (event.key !== UI_LOCALE_STORAGE_KEY && event.key !== null) return;
+    if (event.key !== UI_LOCALE_STORAGE_KEY && event.key !== null) {
+      return;
+    }
     applyLocale(parseUiLocale(event.newValue));
     onChange();
   };

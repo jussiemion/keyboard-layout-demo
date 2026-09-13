@@ -34,8 +34,9 @@ const physical: Record<string, string> = {
   SPCE: 'Space',
   BKSL: 'Backslash',
 };
-for (let i = 1; i <= 10; i++)
+for (let i = 1; i <= 10; i++) {
   physical[`AE${String(i).padStart(2, '0')}`] = `Digit${i % 10}`;
+}
 for (const [row, letters] of [
   ['AD', 'QWERTYUIOP'],
   ['AC', 'ASDFGHJKL'],
@@ -89,12 +90,16 @@ export function nationalKeyAction(
     keyboardMap(locale)
   ];
   const levels = rows?.[code];
-  if (!levels) return {};
+  if (!levels) {
+    return {};
+  }
   return levels[(caps ? 4 : 0) + (alt ? 2 : 0) + (shift ? 1 : 0)] || {};
 }
 
 export function actionLabel(action: Action): string {
-  if (action.dead) return `◌${accentDefinition(action.dead).mark}`;
+  if (action.dead) {
+    return `◌${accentDefinition(action.dead).mark}`;
+  }
   return action.text === '\u00a0' ? '⍽' : action.text || '';
 }
 const russian = new Map<string, string>();
@@ -108,8 +113,9 @@ for (const [codes, letters] of [
     'фывапролджэ',
   ],
   ['KeyZ KeyX KeyC KeyV KeyB KeyN KeyM Comma Period', 'ячсмитьбю'],
-])
+]) {
   codes.split(' ').forEach((code, i) => russian.set(code, letters[i]));
+}
 russian.set('Backquote', 'ё');
 const shiftEn: Record<string, string> = {
   Backquote: '~',
@@ -169,11 +175,13 @@ export function baseKey(
         : code === 'Slash' && locale === 'ru'
           ? '.'
           : keyMap.get(code)?.label.toLowerCase() || '';
-  if (/^\p{L}$/u.test(value))
+  if (/^\p{L}$/u.test(value)) {
     return shift !== caps ? value.toUpperCase() : value;
-  if (shift)
+  }
+  if (shift) {
     value =
       (locale === 'ru' ? shiftRu[code] : undefined) || shiftEn[code] || value;
+  }
   return value;
 }
 /** Preview an armed acute accent without consuming the typing state. */
@@ -239,7 +247,9 @@ export function nextDiacritic(base: string, locale: KeyboardLocale): string {
   )[keyboardLanguage(locale)] || []) {
     for (const row of [cycle, upper(cycle)]) {
       const index = base.length === 1 ? row.indexOf(base) : -1;
-      if (index >= 0) return row[(index + 1) % row.length];
+      if (index >= 0) {
+        return row[(index + 1) % row.length];
+      }
     }
   }
   return '';
@@ -304,11 +314,17 @@ export class TypingEngine {
   }
 
   compose(text: string): string {
-    if (!this.accent || !text) return text;
+    if (!this.accent || !text) {
+      return text;
+    }
     const accent = accentDefinition(this.accent);
     this.accent = null;
-    if (text === ' ') return accent.spacing;
-    if (!/^\p{L}/u.test(text)) return text;
+    if (text === ' ') {
+      return accent.spacing;
+    }
+    if (!/^\p{L}/u.test(text)) {
+      return text;
+    }
     return (text + accent.mark).normalize('NFC');
   }
 
@@ -321,10 +337,15 @@ export class TypingEngine {
   }
 
   handle(event: KeyInput, locale: KeyboardLocale = 'ru'): KeyResult {
-    if (event.synthetic) return pass;
+    if (event.synthetic) {
+      return pass;
+    }
     if (!this.enabled) {
-      if (event.down) this.held.add(event.code);
-      else this.held.delete(event.code);
+      if (event.down) {
+        this.held.add(event.code);
+      } else {
+        this.held.delete(event.code);
+      }
       return pass;
     }
     const fresh = !event.repeat && event.down !== this.held.has(event.code);
@@ -334,7 +355,9 @@ export class TypingEngine {
     this.preparePostfix(event, locale, fresh, command);
 
     const result = this.route(event, locale);
-    if (!fresh || command) return result;
+    if (!fresh || command) {
+      return result;
+    }
     if (
       shift &&
       !event.down &&
@@ -368,7 +391,9 @@ export class TypingEngine {
     fresh: boolean,
     command: boolean,
   ) {
-    if (this.postfixLocale !== locale) this.resetPostfix();
+    if (this.postfixLocale !== locale) {
+      this.resetPostfix();
+    }
     this.postfixLocale = locale;
     const context = event.context;
     const shift = isShift(event.code);
@@ -379,12 +404,17 @@ export class TypingEngine {
         context.value !== this.postfix.value ||
         context.start !== this.postfix.caret ||
         context.end !== context.start)
-    )
+    ) {
       this.resetPostfix();
-    if (command) this.resetPostfix();
+    }
+    if (command) {
+      this.resetPostfix();
+    }
     if (fresh && shift && event.down) {
       this.postfixShift = alone && this.postfix ? event.code : null;
-    } else if (fresh && event.down) this.resetPostfix();
+    } else if (fresh && event.down) {
+      this.resetPostfix();
+    }
   }
 
   private cyclePostfix(
@@ -465,11 +495,17 @@ export class TypingEngine {
 
   private route(event: KeyInput, locale: KeyboardLocale): KeyResult {
     const { code, down } = event;
-    if (event.synthetic) return pass;
-    if (event.repeat || down === this.held.has(code))
+    if (event.synthetic) {
+      return pass;
+    }
+    if (event.repeat || down === this.held.has(code)) {
       return this.consumed.has(code) ? suppress : pass;
-    if (down) this.held.add(code);
-    else this.held.delete(code);
+    }
+    if (down) {
+      this.held.add(code);
+    } else {
+      this.held.delete(code);
+    }
     const alt = code === 'AltLeft' || code === 'AltRight';
     const modifier =
       /^(Alt|Shift|Control|Meta)(Left|Right)$/.test(code) ||
@@ -487,14 +523,19 @@ export class TypingEngine {
           this.shortcut = true;
         }
       } else {
-        if (this.altEligible && !this.altHeld)
+        if (this.altEligible && !this.altHeld) {
           this.pending = Math.min(2, this.pending + 1) as Mode;
+        }
         this.altEligible = false;
-        if (!this.altHeld) this.shortcut = false;
+        if (!this.altHeld) {
+          this.shortcut = false;
+        }
       }
       return suppress;
     }
-    if (!down) return this.consumed.delete(code) ? suppress : pass;
+    if (!down) {
+      return this.consumed.delete(code) ? suppress : pass;
+    }
     if (command) {
       this.pending = 0;
       this.accent = null;
@@ -502,7 +543,9 @@ export class TypingEngine {
       this.shortcut = this.altHeld;
       return pass;
     }
-    if (modifier) return pass;
+    if (modifier) {
+      return pass;
+    }
     this.altEligible = false;
     const entry = keyMap.get(code);
     const nationalAction = this.altHeld
@@ -526,7 +569,9 @@ export class TypingEngine {
     if (!entry) {
       this.pending = 0;
       this.accent = null;
-      if (this.altHeld) this.shortcut = true;
+      if (this.altHeld) {
+        this.shortcut = true;
+      }
       return pass;
     }
     if (this.shortcut) {
@@ -594,7 +639,9 @@ export function replaceSelection(
   };
 }
 export function deleteBackward(value: string, start: number, end: number) {
-  if (start !== end) return replaceSelection(value, start, end, '');
+  if (start !== end) {
+    return replaceSelection(value, start, end, '');
+  }
   const segments = [
     ...new Intl.Segmenter(undefined, { granularity: 'grapheme' }).segment(
       value.slice(0, start),

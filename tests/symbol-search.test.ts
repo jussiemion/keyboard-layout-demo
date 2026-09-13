@@ -82,8 +82,9 @@ void test('finds dollar through multilingual and colloquial associations', () =>
       query,
     );
   }
-  for (const query of ['баксы', 'зеленые', 'dollar'])
+  for (const query of ['баксы', 'зеленые', 'dollar']) {
     assert.equal(searchSymbolItems(query, 'ru')[0].item.symbol, '$');
+  }
 });
 void test('orders exact, prefix, word boundary, substring, and non-contiguous matches', () => {
   const candidates = [
@@ -131,7 +132,9 @@ void test('only the four base chords are marked as simultaneous shortcuts', () =
 
 void test('indexes dead-key accents with the Space step for standalone output', () => {
   for (const key of layout) {
-    if (!key.secondary.dead) continue;
+    if (!key.secondary.dead) {
+      continue;
+    }
     const symbol = accents[key.secondary.dead].spacing;
     const item = items.find((item) => item.symbol === symbol);
     assert.ok(
@@ -161,9 +164,11 @@ void test('groups the catalog once per symbol with localized headings and stable
   );
   assert.equal(symbols.length, items.length);
   assert.equal(new Set(symbols).size, items.length);
-  for (const locale of LANGUAGES)
-    for (const category of SYMBOL_CATEGORIES)
+  for (const locale of LANGUAGES) {
+    for (const category of SYMBOL_CATEGORIES) {
       assert.ok(symbolCategoryNames[locale][category]);
+    }
+  }
   for (const [symbol, category] of [
     ['$', 'currency'],
     ['¨', 'diacritics'],
@@ -185,13 +190,14 @@ void test('keeps the best matching category first and ranking inside each search
     const results = searchSymbolItems(query, 'ru');
     const groups = groupSymbolSearchResults(results, true);
     assert.equal(groups[0].matches[0], results[0]);
-    for (const group of groups)
+    for (const group of groups) {
       assert.deepEqual(
         group.matches,
         results.filter(
           (result) => symbolCategory(result.item) === group.category,
         ),
       );
+    }
   }
   assert.deepEqual(groupSymbolSearchResults([], true), []);
 });
@@ -243,8 +249,9 @@ void test('finds language-specific symbols across UI languages, including countr
     ['Франция', '¸'],
   ]) {
     const found = searchSymbolItems(query, 'he').map((r) => r.item.symbol);
-    for (const symbol of symbols)
+    for (const symbol of symbols) {
       assert.ok(found.includes(symbol), `${query}: ${symbol}`);
+    }
   }
   assert.ok(!items.find((i) => i.symbol === '“')!.tags.en!.includes('Polish'));
   assert.ok(

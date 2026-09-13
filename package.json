@@ -11,12 +11,18 @@
     "dev": "vinext dev --hostname 127.0.0.1 --port 6699",
     "build": "vinext build",
     "start": "node tools/serve.mjs",
-    "lint": "oxlint",
+    "lint": "bun run lint:js && bun run lint:css && bun run format:check",
     "format": "oxfmt",
     "preview": "node tools/serve.mjs",
     "typecheck": "tsc --noEmit",
     "build:pages": "node tools/build-pages.mjs",
-    "test": "node --test --test-reporter=dot tests/*.test.ts"
+    "test": "node --test --test-reporter=dot tests/*.test.ts",
+    "lint:js": "oxlint --deny-warnings && node tools/wrap-classes.mjs --check",
+    "lint:css": "stylelint \"app/**/*.css\" \"components/**/*.css\" --allow-empty-input",
+    "lint:fix": "oxlint --fix && bun run lint:css --fix && node tools/wrap-classes.mjs && oxfmt",
+    "format:check": "oxfmt --check",
+    "lint:staged": "lint-staged",
+    "prepare": "husky"
   },
   "dependencies": {
     "react": "19.3.0",
@@ -31,9 +37,12 @@
     "@types/react-dom": "19.3.0",
     "@vitejs/plugin-react": "6.1.1",
     "@vitejs/plugin-rsc": "0.5.34",
+    "husky": "9.1.7",
+    "lint-staged": "17.5.1",
     "oxfmt": "0.67.0",
     "oxlint": "1.82.0",
     "oxlint-tsgolint": "7.0.2001",
+    "stylelint": "17.15.0",
     "tailwindcss": "4.3.3",
     "typescript": "5.9.3",
     "vite": "8.3.0"
