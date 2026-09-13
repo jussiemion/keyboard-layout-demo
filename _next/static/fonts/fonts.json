@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "description": "Fonts for the supported typography map and Russian, Polish, English text.",
+  "description": "Bundled fonts for all supported typographic symbols and 14 interface languages, including Arabic and Hebrew shaping.",
   "sources": {
     "NotoSansMono.ttf": {
       "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmono/NotoSansMono%5Bwdth%2Cwght%5D.ttf",
@@ -25,6 +25,10 @@
     "NotoSansHebrew.ttf": {
       "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanshebrew/NotoSansHebrew%5Bwdth,wght%5D.ttf",
       "sha256": "7ef36a2c3593758cdb622e1bdef4f84523e92fbc3ccc667438dd80ff54c2de88"
+    },
+    "NotoSansArabic.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarabic/NotoSansArabic%5Bwdth,wght%5D.ttf",
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
     }
   },
   "fonts": [
@@ -93,6 +97,17 @@
       "modifications": "Full coverage, shaping and variable axes retained; renamed family.",
       "sha256": "5f3c2368bf09ae749c9fe5a692337903d28ed9559f72c602c9eae5cb1c6ef8ea",
       "bytes": 58620
+    },
+    {
+      "file": "layout-arabic.woff2",
+      "family": "Layout Arabic",
+      "source": "NotoSansArabic.ttf",
+      "license": "NotoSansArabic-OFL.txt",
+      "unicodeRange": "U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF",
+      "weight": "100 900",
+      "modifications": "Full coverage, shaping and variable axes retained; renamed family.",
+      "sha256": "ac8a96819a5b328c94123e51f6b9d39e366258787f737af829649d4934b39f3c",
+      "bytes": 361204
     }
   ]
 }
