@@ -1,0 +1,31 @@
+name: Bug report
+description: Report incorrect behavior in the keyboard demo.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Expected and actual behavior
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the exact key sequence or control actions.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description:
+        OS, browser/version, interface language, keyboard map, and active OS
+        layout or remapper.
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or recordings
+      description: Optional. Remove private text before attaching files.

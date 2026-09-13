@@ -58,3 +58,15 @@ Python maintenance scripts use Ruff 0.16.7 with an 80-column target. Install
 `uv` to run `bun run format:python` or `bun run check:python`; staged Python
 files are formatted automatically by pre-commit. Normal demo builds do not
 require Python or uv.
+
+## Pull request checks
+
+The `Quality and build` CI check runs on pull requests and pushes to `main` or
+`master`. It installs the lockfile, checks JS/TS, CSS, Markdown and Python, runs
+tests and verifies both static exports. It does not publish the site. GitHub
+Actions are pinned to full commit SHAs.
+
+Use the issue forms for bugs and improvements and the pull request template to
+describe behavior and validation. Maintainers can require `Quality and build` in
+branch protection; repository settings are configured separately from the
+workflow.

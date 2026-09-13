@@ -132,3 +132,14 @@ changes. Links and language inventories remain readable without the badges.
 The README includes the configured public Repobeats activity card. Badge and
 card URLs belong to this repository; update them if the project moves. No access
 token is stored in the repository.
+
+## Continuous integration
+
+[CI](../.github/workflows/ci.yml) runs the same lint, Python, type, test and
+build commands on pull requests, pushes to `main`/`master`, and manual dispatch.
+CI disables local Git hooks because it runs the checks explicitly. It has
+read-only repository permissions and no deployment steps or publishing
+credentials.
+
+The font checker remains an optional local check requiring fontTools, WOFF2 and
+HarfBuzz. Run it when changing bundled fonts or keyboard symbols.

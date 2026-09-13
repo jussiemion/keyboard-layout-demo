@@ -1,0 +1,21 @@
+name: Improvement
+description: Suggest a feature, translation or symbol-description correction.
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you improve?
+      description:
+        Describe the use case. For translations, include the language and
+        current wording.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested change
+      description:
+        Include examples and references for language-specific conventions where
+        available.
+    validations:
+      required: true
