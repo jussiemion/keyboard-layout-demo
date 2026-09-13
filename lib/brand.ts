@@ -18,6 +18,21 @@ export const BRAND_CELLS = Array.from({ length: 25 }, (_, index) => ({
 
 export const SOLID_Y_PATH = 'M0 0H6V16H32V0H38V22H22V38H16V22H0Z';
 
+// Extend each panel toward the central square along the Y branches.
+// Only the facing edge grows; the centre and the outer contour stay fixed.
+const MERGE_EDGES = [
+  { x: 0, y: 6, direction: 'down' },
+  { x: 0, y: 14, direction: 'down' },
+  { x: 32, y: 6, direction: 'down' },
+  { x: 32, y: 14, direction: 'down' },
+  { x: 6, y: 16, direction: 'right' },
+  { x: 14, y: 16, direction: 'right' },
+  { x: 32, y: 16, direction: 'left' },
+  { x: 24, y: 16, direction: 'left' },
+  { x: 16, y: 32, direction: 'up' },
+  { x: 16, y: 24, direction: 'up' },
+] as const;
+
 type TilePose = { time: number; cell: number; opacity: number };
 
 // Slide one lit tile into a neighbouring empty cell at a time. The letters
@@ -139,7 +154,11 @@ export function brandSvg(active: string, muted: string, animated = true) {
         `<rect class="tlsy-tile" style="animation-name:tlsy-tile-${tile}" width="6" height="6"/>`,
     )
     .join('');
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${BRAND_VIEW_BOX}" fill="${active}"><style>${css}</style>${background}<g class="tlsy-moving">${tiles}</g><path class="tlsy-still" d="${SOLID_Y_PATH}"/></svg>\n`;
+  const extensions = MERGE_EDGES.map(
+    ({ x, y, direction }) =>
+      `<rect class="tlsy-edge tlsy-edge-${direction}" x="${x}" y="${y}" width="0" height="0"/>`,
+  ).join('');
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${BRAND_VIEW_BOX}" fill="${active}"><style>${css}</style>${background}<g class="tlsy-moving">${tiles}${extensions}</g><path class="tlsy-still" d="${SOLID_Y_PATH}"/></svg>\n`;
 }
 
 export function buildBrandAnimation() {
@@ -151,20 +170,7 @@ export function buildBrandAnimation() {
     .map((track, tile) => {
       // Last pose wins when an invisible tile is repositioned at the same instant.
       const last = track[track.length - 1];
-      const { x: finalX, y } = BRAND_CELLS[last.cell];
-      const row = Math.floor(last.cell / 5);
-      const column = last.cell % 5;
-      // The crossbar extends right; the stem extends up with its bottom
-      // edges fixed. No tile changes both dimensions, including the junction.
-      const extendsUp = column === 2 && row >= 3;
-      const extendsRight = BRAND_FRAMES[3][row][column + 1] === '1';
-      const extendsDown =
-        !extendsRight &&
-        !extendsUp &&
-        BRAND_FRAMES[3][row + 1]?.[column] === '1';
-      const finalY = extendsUp ? y - 2 : y;
-      const finalWidth = extendsRight ? 8 : 6;
-      const finalHeight = extendsUp || extendsDown ? 8 : 6;
+      const { x: finalX, y: finalY } = BRAND_CELLS[last.cell];
       const poses = new Map(
         [...track, { ...last, time: mergeStart }].map((pose) => [
           pose.time.toFixed(5),
@@ -178,14 +184,23 @@ export function buildBrandAnimation() {
         })
         .join(
           '',
-        )}100%{transform:translate(${finalX}px,${finalY}px);opacity:${last.opacity};width:${finalWidth}px;height:${finalHeight}px}}`;
+        )}100%{transform:translate(${finalX}px,${finalY}px);opacity:${last.opacity};width:6px;height:6px}}`;
     })
     .join('\n');
   const css = `${keyframes}
+@keyframes tlsy-edge-down{0%,${mergePercent}%{height:0}100%{height:2px}}
+@keyframes tlsy-edge-up{0%,${mergePercent}%{height:0;transform:translateY(0)}100%{height:2px;transform:translateY(-2px)}}
+@keyframes tlsy-edge-right{0%,${mergePercent}%{width:0}100%{width:2px}}
+@keyframes tlsy-edge-left{0%,${mergePercent}%{width:0;transform:translateX(0)}100%{width:2px;transform:translateX(-2px)}}
+.tlsy-edge{animation-timing-function:linear}
+.tlsy-edge-down{width:6px;animation-name:tlsy-edge-down}
+.tlsy-edge-up{width:6px;animation-name:tlsy-edge-up}
+.tlsy-edge-right{height:6px;animation-name:tlsy-edge-right}
+.tlsy-edge-left{height:6px;animation-name:tlsy-edge-left}
 @keyframes tlsy-background{0%,${mergePercent}%{opacity:1}100%{opacity:0}}
 @keyframes tlsy-moving{0%{opacity:1}100%{opacity:0}}
 @keyframes tlsy-still{0%{opacity:0}100%{opacity:1}}
-.tlsy-tile,.tlsy-background,.tlsy-moving,.tlsy-still{animation-duration:${duration.toFixed(2)}s;animation-iteration-count:1;animation-fill-mode:both}
+.tlsy-tile,.tlsy-edge,.tlsy-background,.tlsy-moving,.tlsy-still{animation-duration:${duration.toFixed(2)}s;animation-iteration-count:1;animation-fill-mode:both}
 .tlsy-tile{animation-timing-function:linear}
 .tlsy-background{animation-name:tlsy-background;animation-timing-function:linear}
 .tlsy-moving{animation-name:tlsy-moving;animation-timing-function:steps(1,end)}
