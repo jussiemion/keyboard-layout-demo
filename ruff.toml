@@ -1,0 +1,9 @@
+required-version = "==0.16.7"
+line-length = 80
+
+[lint]
+select = ["E4", "E9", "F", "I"]
+
+[format]
+quote-style = "single"
+skip-magic-trailing-comma = false

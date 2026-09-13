@@ -5,7 +5,9 @@ const tasks = {
     'oxfmt',
   ],
   '*.css': ['stylelint --fix', 'oxfmt'],
-  '*.{json,md,yml,yaml}': 'oxfmt',
+  '*.md': ['markdownlint-cli2 --fix', 'oxfmt'],
+  '*.{json,jsonc,yml,yaml}': 'oxfmt',
+  '*.py': ['uvx ruff@0.16.7 format'],
 };
 
 export default tasks;

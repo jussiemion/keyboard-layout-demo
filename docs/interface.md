@@ -3,8 +3,10 @@
 [app/page.tsx](../app/page.tsx) connects the typing engine and input controllers
 to the text field and on-screen keyboard. [app/layout.tsx](../app/layout.tsx)
 applies initial preferences and loads bundled fonts;
-[globals.css](../app/globals.css) defines themes, responsive layouts and RTL
-styling.
+[globals.css](../app/globals.css) preserves the import order of the
+[foundation and feature stylesheets](../app/styles). Simple layouts use named
+Tailwind constants from [layout-classes.ts](../components/layout-classes.ts);
+components import only the constants they use.
 
 ## Components
 

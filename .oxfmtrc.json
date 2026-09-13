@@ -17,5 +17,6 @@
   "proseWrap": "always",
   "sortTailwindcss": {
     "functions": ["cn", "clsx", "cva"]
-  }
+  },
+  "trailingComma": "all"
 }

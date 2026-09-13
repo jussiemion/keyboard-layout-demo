@@ -1,0 +1,32 @@
+{
+  "ignores": ["node_modules/**", "dist/**", ".vinext/**", ".next/**"],
+  "config": {
+    "default": true,
+    // Oxfmt wraps prose; tables and HTML language navigation retain their layout.
+    "MD013": false,
+    // Table alignment is owned by Oxfmt; the tools differ on Arabic display width.
+    "MD060": false,
+    // The README starts with its logo; RTL guides start with a direction wrapper.
+    "MD041": false,
+    "MD033": {
+      "allowed_elements": [
+        "a",
+        "bdi",
+        "br",
+        "details",
+        "div",
+        "img",
+        "h2",
+        "kbd",
+        "li",
+        "p",
+        "picture",
+        "source",
+        "span",
+        "strong",
+        "summary",
+        "ul",
+      ],
+    },
+  },
+}

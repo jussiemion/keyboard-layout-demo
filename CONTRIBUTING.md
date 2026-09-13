@@ -49,3 +49,12 @@ utility lists for simple component layouts; keep compound states,
 pseudo-elements and responsive keyboard geometry in the corresponding feature
 stylesheet. Preserve stylesheet import order because later rules may
 intentionally refine earlier rules.
+
+Markdown is checked with markdownlint-cli2 and formatted with Oxfmt. HTML is
+allowed for the README logo, language navigation and RTL layout; Oxfmt owns
+prose wrapping and table alignment.
+
+Python maintenance scripts use Ruff 0.16.7 with an 80-column target. Install
+`uv` to run `bun run format:python` or `bun run check:python`; staged Python
+files are formatted automatically by pre-commit. Normal demo builds do not
+require Python or uv.
