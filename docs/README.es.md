@@ -27,10 +27,12 @@ pulsar las teclas en pantalla.
 
 </div>
 
-> [!NOTE] La distribución está orientada principalmente a los idiomas europeos.
-> La compatibilidad con otros idiomas, incluidos el árabe, el hebreo, el turco y
-> el vietnamita, es experimental: los caracteres y los métodos de entrada pueden
-> no cubrir todas las convenciones de cada idioma.
+> [!NOTE]
+>
+> La distribución está orientada principalmente a los idiomas europeos. La
+> compatibilidad con otros idiomas, incluidos el árabe, el hebreo, el turco y el
+> vietnamita, es experimental: los caracteres y los métodos de entrada pueden no
+> cubrir todas las convenciones de cada idioma.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -41,11 +43,12 @@ pulsar las teclas en pantalla.
 [Vídeo: tema oscuro](assets/demo-dark.mp4) · [tema claro](assets/demo-light.mp4)
 · MP4 · ≈ 26 s
 
-> [!IMPORTANT] **Desactiva la distribución tipográfica del sistema antes de
-> probar la demo.** Puede interceptar <kbd>Alt</kbd> o <kbd>Caps Lock</kbd>
-> antes de que lleguen al navegador. La alerta solo aparece tras eventos
-> característicos: su ausencia no demuestra que la distribución esté
-> desactivada.
+> [!IMPORTANT]
+>
+> **Desactiva la distribución tipográfica del sistema antes de probar la demo.**
+> Puede interceptar <kbd>Alt</kbd> o <kbd>Caps Lock</kbd> antes de que lleguen
+> al navegador. La alerta solo aparece tras eventos característicos: su ausencia
+> no demuestra que la distribución esté desactivada.
 
 ## Primeros caracteres
 
@@ -68,10 +71,12 @@ para la siguiente entrada. No hay límite de tiempo entre pulsaciones.
 <kbd>Esc</kbd> cancela el símbolo o acento pendiente. También puedes elegir
 `M0`/`M1`/`M2` encima del teclado.
 
-> [!TIP] El menú ofrece un **recorrido guiado** con ejercicios breves. Si ya
-> conoces la [distribución de Birman](https://ilyabirman.ru/typography-layout/),
-> se omiten los tres ejercicios introductorios. La prueba final con todos sus
-> símbolos es opcional. El botón del libro abre la hoja de referencia.
+> [!TIP]
+>
+> El menú ofrece un **recorrido guiado** con ejercicios breves. Si ya conoces la
+> [distribución de Birman](https://ilyabirman.ru/typography-layout/), se omiten
+> los tres ejercicios introductorios. La prueba final con todos sus símbolos es
+> opcional. El botón del libro abre la hoja de referencia.
 
 ## Acentos
 

@@ -26,10 +26,12 @@ installatie of account nodig. Typ op je toetsenbord of klik op de schermtoetsen.
 
 </div>
 
-> [!NOTE] De indeling richt zich vooral op Europese talen. Ondersteuning voor
-> andere talen, waaronder Arabisch, Hebreeuws, Turks en Vietnamees, is
-> experimenteel: de beschikbare tekens en invoermethoden dekken mogelijk niet
-> alle taalconventies.
+> [!NOTE]
+>
+> De indeling richt zich vooral op Europese talen. Ondersteuning voor andere
+> talen, waaronder Arabisch, Hebreeuws, Turks en Vietnamees, is experimenteel:
+> de beschikbare tekens en invoermethoden dekken mogelijk niet alle
+> taalconventies.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -40,11 +42,12 @@ installatie of account nodig. Typ op je toetsenbord of klik op de schermtoetsen.
 [Video: donker thema](assets/demo-dark.mp4) ·
 [licht thema](assets/demo-light.mp4) · MP4 · ≈ 26 s
 
-> [!IMPORTANT] **Schakel de typografische systeemindeling uit voordat je de demo
-> probeert.** Die kan <kbd>Alt</kbd> of <kbd>Caps Lock</kbd> onderscheppen
-> voordat de browser ze ontvangt. Een waarschuwing verschijnt alleen na
-> kenmerkende invoer; geen waarschuwing betekent niet zeker dat de
-> systeemindeling uitstaat.
+> [!IMPORTANT]
+>
+> **Schakel de typografische systeemindeling uit voordat je de demo probeert.**
+> Die kan <kbd>Alt</kbd> of <kbd>Caps Lock</kbd> onderscheppen voordat de
+> browser ze ontvangt. Een waarschuwing verschijnt alleen na kenmerkende invoer;
+> geen waarschuwing betekent niet zeker dat de systeemindeling uitstaat.
 
 ## Eerste symbolen
 
@@ -67,7 +70,9 @@ volgende invoer. Reeksen hebben geen tijdslimiet. <kbd>Esc</kbd> annuleert een
 wachtend symbool of accent. De knoppen `M0`/`M1`/`M2` boven het toetsenbord
 kiezen ook de modus.
 
-> [!TIP] **Menu → Rondleiding** biedt korte oefeningen. Ken je
+> [!TIP]
+>
+> **Menu → Rondleiding** biedt korte oefeningen. Ken je
 > [Birman](https://ilyabirman.ru/typography-layout/) al, dan worden de drie
 > inleidende opdrachten overgeslagen. De eindtest met alle
 > [Birman-symbolen](https://ilyabirman.ru/typography-layout/) is optioneel. De

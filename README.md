@@ -81,10 +81,11 @@ No installation or account is needed. Practice text stays in the browser.
 Open the demo and type, or click the on-screen keys. No installation or account
 is needed.
 
-> [!IMPORTANT] Turn off your OS typographic layout before trying the demo: it
-> can intercept <kbd>Alt</kbd> and <kbd>Caps Lock</kbd>. The demo cannot restore
-> events the OS has blocked.
-> [Details](docs/browser-adapter.md#system-layout-detection).
+> [!IMPORTANT]
+>
+> Turn off your OS typographic layout before trying the demo: it can intercept
+> <kbd>Alt</kbd> and <kbd>Caps Lock</kbd>. The demo cannot restore events the OS
+> has blocked. [Details](docs/browser-adapter.md#system-layout-detection).
 
 **Then** means press and release before the next key. **+** means hold together.
 Keys below use US QWERTY positions; on macOS, <kbd>Alt</kbd> is
@@ -103,7 +104,9 @@ Keys below use US QWERTY positions; on macOS, <kbd>Alt</kbd> is
 next input. There is no time limit between taps. <kbd>Esc</kbd> cancels a
 pending symbol or accent.
 
-> [!TIP] Start **Menu → Guided tour** for short exercises. Already know
+> [!TIP]
+>
+> Start **Menu → Guided tour** for short exercises. Already know
 > [Birman’s layout](https://ilyabirman.ru/typography-layout/)? Skip its
 > introduction. The book button opens the cheat sheet at any time.
 
@@ -134,9 +137,11 @@ typography is off.
 
 ## Languages
 
-> [!NOTE] The layout primarily targets European languages. Support for other
-> languages, including Arabic, Hebrew, Turkish and Vietnamese, is experimental:
-> character coverage and typing conventions may be incomplete.
+> [!NOTE]
+>
+> The layout primarily targets European languages. Support for other languages,
+> including Arabic, Hebrew, Turkish and Vietnamese, is experimental: character
+> coverage and typing conventions may be incomplete.
 
 <ul dir="ltr" align="left">
   <li dir="ltr"><span dir="auto">English</span></li>
@@ -248,5 +253,3 @@ Original contributions are free software under [MIT](LICENSE): use, modify and
 redistribute them, including commercially, while retaining the copyright and
 license notices. [Third-party materials](THIRD_PARTY_NOTICES.md) retain their
 own terms.
-
-<p align="center"><a href="https://jussiemion.github.io/keyboard-layout-demo/"><strong>Open the demo →</strong></a></p>

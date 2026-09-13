@@ -27,10 +27,12 @@ teclas no ecrã.
 
 </div>
 
-> [!NOTE] A disposição destina-se sobretudo às línguas europeias. O suporte de
-> outras línguas, incluindo árabe, hebraico, turco e vietnamita, é experimental:
-> os caracteres e os métodos de introdução podem não abranger todas as
-> convenções de cada língua.
+> [!NOTE]
+>
+> A disposição destina-se sobretudo às línguas europeias. O suporte de outras
+> línguas, incluindo árabe, hebraico, turco e vietnamita, é experimental: os
+> caracteres e os métodos de introdução podem não abranger todas as convenções
+> de cada língua.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -41,8 +43,10 @@ teclas no ecrã.
 [Vídeo: tema escuro](assets/demo-dark.mp4) · [tema claro](assets/demo-light.mp4)
 · MP4 · ≈ 26 s
 
-> [!IMPORTANT] **Desative a disposição tipográfica do sistema antes de testar.**
-> Pode intercetar <kbd>Alt</kbd> ou <kbd>Caps Lock</kbd> antes de chegarem ao
+> [!IMPORTANT]
+>
+> **Desative a disposição tipográfica do sistema antes de testar.** Pode
+> intercetar <kbd>Alt</kbd> ou <kbd>Caps Lock</kbd> antes de chegarem ao
 > navegador. O alerta só aparece após eventos característicos; a sua ausência
 > não prova que a disposição esteja inativa.
 
@@ -67,10 +71,12 @@ para a próxima entrada. Não existe limite de tempo entre as teclas.
 <kbd>Esc</kbd> cancela o símbolo ou acento pendente. Também pode selecionar
 `M0`/`M1`/`M2` acima do teclado.
 
-> [!TIP] O menu inclui uma **visita guiada** com pequenos exercícios. Se já
-> conhecer a [disposição de Birman](https://ilyabirman.ru/typography-layout/),
-> os três exercícios introdutórios são omitidos. O teste final com todos os
-> símbolos é opcional. O botão do livro abre a folha de referência.
+> [!TIP]
+>
+> O menu inclui uma **visita guiada** com pequenos exercícios. Se já conhecer a
+> [disposição de Birman](https://ilyabirman.ru/typography-layout/), os três
+> exercícios introdutórios são omitidos. O teste final com todos os símbolos é
+> opcional. O botão do livro abre a folha de referência.
 
 ## Acentos
 

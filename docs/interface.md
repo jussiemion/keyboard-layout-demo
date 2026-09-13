@@ -1,10 +1,12 @@
 # Interactive demo
 
-> [!NOTE] The layout primarily targets European languages. Support for other
-> languages, including Arabic, Hebrew, Turkish and Vietnamese, is experimental:
-> character coverage and typing conventions may be incomplete. This status
-> concerns keyboard input and typography, independently of interface
-> translation. See [language support](national-layouts.md).
+> [!NOTE]
+>
+> The layout primarily targets European languages. Support for other languages,
+> including Arabic, Hebrew, Turkish and Vietnamese, is experimental: character
+> coverage and typing conventions may be incomplete. This status concerns
+> keyboard input and typography, independently of interface translation. See
+> [language support](national-layouts.md).
 
 [app/page.tsx](../app/page.tsx) connects the typing engine and input controllers
 to the text field and on-screen keyboard. [app/layout.tsx](../app/layout.tsx)

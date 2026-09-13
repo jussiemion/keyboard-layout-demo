@@ -26,9 +26,11 @@ veya hesap gerekmez. Fiziksel klavyeyi ve ekran tuşlarını kullanabilirsiniz.
 
 </div>
 
-> [!NOTE] Düzen öncelikle Avrupa dillerine yöneliktir. Arapça, İbranice, Türkçe
-> ve Vietnamca dahil diğer dillerin desteği deneyseldir: karakter kapsamı ve
-> giriş yöntemleri tüm dil kurallarını karşılamayabilir.
+> [!NOTE]
+>
+> Düzen öncelikle Avrupa dillerine yöneliktir. Arapça, İbranice, Türkçe ve
+> Vietnamca dahil diğer dillerin desteği deneyseldir: karakter kapsamı ve giriş
+> yöntemleri tüm dil kurallarını karşılamayabilir.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -39,10 +41,12 @@ veya hesap gerekmez. Fiziksel klavyeyi ve ekran tuşlarını kullanabilirsiniz.
 [Video: koyu tema](assets/demo-dark.mp4) · [açık tema](assets/demo-light.mp4) ·
 MP4 · ≈ 26 s
 
-> [!IMPORTANT] **Demoyu kullanmadan önce işletim sistemindeki tipografik düzeni
-> kapatın.** <kbd>Alt</kbd> veya <kbd>Caps Lock</kbd> tarayıcıya ulaşmadan
-> yakalanabilir. Uyarı yalnız belirgin olaylardan sonra çıkar; uyarının yokluğu
-> düzenin kapalı olduğunu kanıtlamaz.
+> [!IMPORTANT]
+>
+> **Demoyu kullanmadan önce işletim sistemindeki tipografik düzeni kapatın.**
+> <kbd>Alt</kbd> veya <kbd>Caps Lock</kbd> tarayıcıya ulaşmadan yakalanabilir.
+> Uyarı yalnız belirgin olaylardan sonra çıkar; uyarının yokluğu düzenin kapalı
+> olduğunu kanıtlamaz.
 
 ## İlk simgeler
 
@@ -65,9 +69,11 @@ katmanını seçer. Basışlar arasında süre sınırı yoktur. <kbd>Esc</kbd> 
 simgeyi veya aksanı iptal eder. Klavyenin üstündeki `M0`/`M1`/`M2` düğmeleri de
 mod seçer.
 
-> [!TIP] Basışlar arasında süre sınırı yoktur. <kbd>Esc</kbd> bekleyen simgeyi
-> veya aksanı iptal eder. Klavyenin üstündeki `M0`/`M1`/`M2` düğmeleri de mod
-> seçer. Kitap düğmesi kısa başvuruyu açar.
+> [!TIP]
+>
+> Basışlar arasında süre sınırı yoktur. <kbd>Esc</kbd> bekleyen simgeyi veya
+> aksanı iptal eder. Klavyenin üstündeki `M0`/`M1`/`M2` düğmeleri de mod seçer.
+> Kitap düğmesi kısa başvuruyu açar.
 
 ## Aksanlar
 

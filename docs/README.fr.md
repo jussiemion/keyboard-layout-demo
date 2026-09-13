@@ -26,8 +26,10 @@ Sans installation ni compte. Utilisez votre clavier ou les touches à l’écran
 
 </div>
 
-> [!NOTE] Cette disposition vise avant tout les langues européennes. La prise en
-> charge des autres langues, notamment de l’arabe, de l’hébreu, du turc et du
+> [!NOTE]
+>
+> Cette disposition vise avant tout les langues européennes. La prise en charge
+> des autres langues, notamment de l’arabe, de l’hébreu, du turc et du
 > vietnamien, est expérimentale : les caractères et les conventions de saisie
 > peuvent être incomplets.
 
@@ -40,9 +42,11 @@ Sans installation ni compte. Utilisez votre clavier ou les touches à l’écran
 [Vidéo : thème sombre](assets/demo-dark.mp4) ·
 [thème clair](assets/demo-light.mp4) · MP4 · ≈ 26 s
 
-> [!IMPORTANT] Désactivez la disposition typographique du système avant le test
-> : elle peut intercepter <kbd>Alt</kbd> et <kbd>Caps Lock</kbd>. L’absence
-> d’alerte ne prouve pas sa désactivation.
+> [!IMPORTANT]
+>
+> Désactivez la disposition typographique du système avant le test : elle peut
+> intercepter <kbd>Alt</kbd> et <kbd>Caps Lock</kbd>. L’absence d’alerte ne
+> prouve pas sa désactivation.
 
 ## Premiers caractères
 
@@ -63,7 +67,9 @@ macOS, <kbd>Alt</kbd> correspond à <kbd>Option</kbd>.
 de symboles pour la prochaine saisie. Aucun délai entre les pressions.
 <kbd>Esc</kbd> annule le symbole ou l’accent en attente.
 
-> [!TIP] **Menu → Visite guidée** propose de courts exercices. L’introduction à
+> [!TIP]
+>
+> **Menu → Visite guidée** propose de courts exercices. L’introduction à
 > [Birman](https://ilyabirman.ru/typography-layout/) et le test final sont
 > facultatifs. Le bouton représentant un livre ouvre l’aide-mémoire.
 

@@ -1,5 +1,13 @@
 {
-  "ignores": ["node_modules/**", "dist/**", ".vinext/**", ".next/**"],
+  "customRules": ["./tools/markdownlint-rules.mjs"],
+  "ignores": [
+    "**/node_modules/**",
+    "work/**",
+    "outputs/**",
+    "dist/**",
+    ".vinext/**",
+    ".next/**",
+  ],
   "config": {
     "default": true,
     // Oxfmt wraps prose; tables and HTML language navigation retain their layout.

@@ -27,8 +27,10 @@ sullo schermo.
 
 </div>
 
-> [!NOTE] Il layout è pensato soprattutto per le lingue europee. Il supporto per
-> le altre lingue, tra cui arabo, ebraico, turco e vietnamita, è sperimentale: i
+> [!NOTE]
+>
+> Il layout è pensato soprattutto per le lingue europee. Il supporto per le
+> altre lingue, tra cui arabo, ebraico, turco e vietnamita, è sperimentale: i
 > caratteri e i metodi di immissione potrebbero non coprire tutte le convenzioni
 > linguistiche.
 
@@ -41,10 +43,12 @@ sullo schermo.
 [Video: tema scuro](assets/demo-dark.mp4) · [tema chiaro](assets/demo-light.mp4)
 · MP4 · ≈ 26 s
 
-> [!IMPORTANT] **Disattiva il layout tipografico del sistema prima di provare la
-> demo.** Può intercettare <kbd>Alt</kbd> o <kbd>Caps Lock</kbd> prima che
-> raggiungano il browser. L’avviso appare solo dopo eventi caratteristici: la
-> sua assenza non dimostra che il layout sia disattivato.
+> [!IMPORTANT]
+>
+> **Disattiva il layout tipografico del sistema prima di provare la demo.** Può
+> intercettare <kbd>Alt</kbd> o <kbd>Caps Lock</kbd> prima che raggiungano il
+> browser. L’avviso appare solo dopo eventi caratteristici: la sua assenza non
+> dimostra che il layout sia disattivato.
 
 ## Primi caratteri
 
@@ -67,7 +71,9 @@ simboli per il prossimo inserimento. Non c’è un limite di tempo tra le
 pressioni. <kbd>Esc</kbd> annulla il simbolo o l’accento in attesa. Puoi
 scegliere `M0`/`M1`/`M2` anche sopra la tastiera.
 
-> [!TIP] Il menu offre un **tour guidato** con brevi esercizi. Se conosci già il
+> [!TIP]
+>
+> Il menu offre un **tour guidato** con brevi esercizi. Se conosci già il
 > [layout di Birman](https://ilyabirman.ru/typography-layout/), vengono saltati
 > i tre esercizi introduttivi. Il test finale con tutti i simboli è facoltativo.
 > Il pulsante con il libro apre il promemoria.

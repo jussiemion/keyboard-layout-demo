@@ -26,10 +26,12 @@ oder Konto. Tippe auf der physischen Tastatur oder nutze die Bildschirmtasten.
 
 </div>
 
-> [!NOTE] Die Belegung richtet sich vor allem an europäische Sprachen. Die
-> Unterstützung anderer Sprachen, darunter Arabisch, Hebräisch, Türkisch und
-> Vietnamesisch, ist experimentell: Zeichenumfang und Eingabeverfahren decken
-> möglicherweise nicht alle sprachlichen Konventionen ab.
+> [!NOTE]
+>
+> Die Belegung richtet sich vor allem an europäische Sprachen. Die Unterstützung
+> anderer Sprachen, darunter Arabisch, Hebräisch, Türkisch und Vietnamesisch,
+> ist experimentell: Zeichenumfang und Eingabeverfahren decken möglicherweise
+> nicht alle sprachlichen Konventionen ab.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -40,9 +42,11 @@ oder Konto. Tippe auf der physischen Tastatur oder nutze die Bildschirmtasten.
 [Video: dunkles Thema](assets/demo-dark.mp4) ·
 [helles Thema](assets/demo-light.mp4) · MP4 · ≈ 26 s
 
-> [!IMPORTANT] Deaktiviere vor dem Test die systemweite typografische Belegung:
-> Sie kann <kbd>Alt</kbd> und <kbd>Caps Lock</kbd> abfangen. Eine fehlende
-> Warnung bestätigt nicht, dass sie ausgeschaltet ist.
+> [!IMPORTANT]
+>
+> Deaktiviere vor dem Test die systemweite typografische Belegung: Sie kann
+> <kbd>Alt</kbd> und <kbd>Caps Lock</kbd> abfangen. Eine fehlende Warnung
+> bestätigt nicht, dass sie ausgeschaltet ist.
 
 ## Erste Zeichen
 
@@ -63,7 +67,9 @@ Auf macOS entspricht <kbd>Alt</kbd> der Taste <kbd>Option</kbd>.
 die nächste Eingabe. Es gibt kein Zeitlimit zwischen den Tasten. <kbd>Esc</kbd>
 verwirft ein ausstehendes Zeichen oder einen Akzent.
 
-> [!TIP] **Menü → Geführte Tour** bietet kurze Übungen. Die
+> [!TIP]
+>
+> **Menü → Geführte Tour** bietet kurze Übungen. Die
 > [Birman-Einführung](https://ilyabirman.ru/typography-layout/) und der
 > Abschlusstest sind optional. Die Buch-Schaltfläche öffnet den Spickzettel.
 

@@ -26,10 +26,12 @@ instalacji i konta. Używaj klawiatury fizycznej lub ekranowej.
 
 </div>
 
-> [!NOTE] Układ jest przeznaczony przede wszystkim dla języków europejskich.
-> Obsługa innych języków, w tym arabskiego, hebrajskiego, tureckiego i
-> wietnamskiego, jest eksperymentalna: zestaw znaków i sposoby wpisywania mogą
-> nie uwzględniać wszystkich zasad danego języka.
+> [!NOTE]
+>
+> Układ jest przeznaczony przede wszystkim dla języków europejskich. Obsługa
+> innych języków, w tym arabskiego, hebrajskiego, tureckiego i wietnamskiego,
+> jest eksperymentalna: zestaw znaków i sposoby wpisywania mogą nie uwzględniać
+> wszystkich zasad danego języka.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -40,9 +42,11 @@ instalacji i konta. Używaj klawiatury fizycznej lub ekranowej.
 [Film: ciemny motyw](assets/demo-dark.mp4) ·
 [jasny motyw](assets/demo-light.mp4) · MP4 · ≈ 26 s
 
-> [!IMPORTANT] Przed testem wyłącz systemowy układ typograficzny: może
-> przechwytywać <kbd>Alt</kbd> i <kbd>Caps Lock</kbd>. Brak ostrzeżenia nie
-> potwierdza jego wyłączenia.
+> [!IMPORTANT]
+>
+> Przed testem wyłącz systemowy układ typograficzny: może przechwytywać
+> <kbd>Alt</kbd> i <kbd>Caps Lock</kbd>. Brak ostrzeżenia nie potwierdza jego
+> wyłączenia.
 
 ## Pierwsze znaki
 
@@ -63,7 +67,9 @@ macOS <kbd>Alt</kbd> to <kbd>Option</kbd>.
 następnego wpisu. Nie ma limitu czasu między naciśnięciami. <kbd>Esc</kbd>
 anuluje oczekujący znak lub akcent.
 
-> [!TIP] **Menu → Samouczek** prowadzi przez krótkie ćwiczenia. Wprowadzenie do
+> [!TIP]
+>
+> **Menu → Samouczek** prowadzi przez krótkie ćwiczenia. Wprowadzenie do
 > [układu Birmana](https://ilyabirman.ru/typography-layout/) i test końcowy
 > można pominąć. Przycisk z książką otwiera ściągawkę.
 

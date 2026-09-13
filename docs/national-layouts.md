@@ -1,11 +1,12 @@
 # National keyboard layouts in the demo
 
-> [!NOTE] The layout primarily targets European languages. Support for other
-> languages, including Arabic, Hebrew, Turkish and Vietnamese, is experimental:
-> character coverage and typing conventions may be incomplete. This status
-> concerns keyboard input and typography, independently of interface
-> translation. These are project support levels, not language-family
-> classifications.
+> [!NOTE]
+>
+> The layout primarily targets European languages. Support for other languages,
+> including Arabic, Hebrew, Turkish and Vietnamese, is experimental: character
+> coverage and typing conventions may be incomplete. This status concerns
+> keyboard input and typography, independently of interface translation. These
+> are project support levels, not language-family classifications.
 
 The interface and user documentation support **14 languages**. Keyboard
 selection supports **24 identifiers**: 14 base options and 10 regional options.

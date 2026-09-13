@@ -27,10 +27,12 @@ ecran.
 
 </div>
 
-> [!NOTE] Aranjamentul este destinat în primul rând limbilor europene. Suportul
-> pentru alte limbi, inclusiv arabă, ebraică, turcă și vietnameză, este
-> experimental: caracterele și metodele de introducere pot să nu acopere toate
-> convențiile lingvistice.
+> [!NOTE]
+>
+> Aranjamentul este destinat în primul rând limbilor europene. Suportul pentru
+> alte limbi, inclusiv arabă, ebraică, turcă și vietnameză, este experimental:
+> caracterele și metodele de introducere pot să nu acopere toate convențiile
+> lingvistice.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -41,10 +43,12 @@ ecran.
 [Video: tema întunecată](assets/demo-dark.mp4) ·
 [tema luminoasă](assets/demo-light.mp4) · MP4 · ≈ 26 s
 
-> [!IMPORTANT] **Dezactivează dispunerea tipografică din sistem înainte de
-> testare**: poate intercepta <kbd>Alt</kbd> și <kbd>Caps Lock</kbd>.
-> Avertizarea apare numai după indicii clare în evenimentele de tastatură;
-> absența ei nu dovedește că dispunerea este inactivă.
+> [!IMPORTANT]
+>
+> **Dezactivează dispunerea tipografică din sistem înainte de testare**: poate
+> intercepta <kbd>Alt</kbd> și <kbd>Caps Lock</kbd>. Avertizarea apare numai
+> după indicii clare în evenimentele de tastatură; absența ei nu dovedește că
+> dispunerea este inactivă.
 
 ## Primele caractere
 
@@ -65,7 +69,9 @@ menținere împreună. Pozițiile sunt US QWERTY; pe macOS <kbd>Alt</kbd> este
 simboluri pentru următoarea intrare. Nu există limită de timp. <kbd>Esc</kbd>
 anulează semnul în așteptare.
 
-> [!TIP] Din meniu poți porni turul ghidat. Dacă știi deja
+> [!TIP]
+>
+> Din meniu poți porni turul ghidat. Dacă știi deja
 > [dispunerea Birman](https://ilyabirman.ru/typography-layout/), poți sări peste
 > cele trei exerciții introductive. Testul final este opțional; închiderea prin
 > cruce este disponibilă oricând. Butonul cu carte deschide fișa de referință.

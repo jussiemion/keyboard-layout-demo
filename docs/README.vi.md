@@ -27,10 +27,12 @@ màn hình.
 
 </div>
 
-> [!NOTE] Bố cục chủ yếu hướng đến các ngôn ngữ châu Âu. Việc hỗ trợ các ngôn
-> ngữ khác, bao gồm tiếng Ả Rập, tiếng Do Thái, tiếng Thổ Nhĩ Kỳ và tiếng Việt,
-> đang ở giai đoạn thử nghiệm: bộ ký tự và cách nhập có thể chưa đáp ứng đầy đủ
-> các quy tắc của từng ngôn ngữ.
+> [!NOTE]
+>
+> Bố cục chủ yếu hướng đến các ngôn ngữ châu Âu. Việc hỗ trợ các ngôn ngữ khác,
+> bao gồm tiếng Ả Rập, tiếng Do Thái, tiếng Thổ Nhĩ Kỳ và tiếng Việt, đang ở
+> giai đoạn thử nghiệm: bộ ký tự và cách nhập có thể chưa đáp ứng đầy đủ các quy
+> tắc của từng ngôn ngữ.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.png">
@@ -41,10 +43,12 @@ màn hình.
 [Video: giao diện tối](assets/demo-dark.mp4) ·
 [giao diện sáng](assets/demo-light.mp4) · MP4 · ≈ 26 s
 
-> [!IMPORTANT] **Tắt bố cục kiểu chữ trong hệ điều hành trước khi thử demo.** Nó
-> có thể chặn <kbd>Alt</kbd> hoặc <kbd>Caps Lock</kbd> trước trình duyệt. Cảnh
-> báo chỉ xuất hiện sau tín hiệu rõ ràng; không có cảnh báo chưa chứng minh bố
-> cục hệ thống đã tắt.
+> [!IMPORTANT]
+>
+> **Tắt bố cục kiểu chữ trong hệ điều hành trước khi thử demo.** Nó có thể chặn
+> <kbd>Alt</kbd> hoặc <kbd>Caps Lock</kbd> trước trình duyệt. Cảnh báo chỉ xuất
+> hiện sau tín hiệu rõ ràng; không có cảnh báo chưa chứng minh bố cục hệ thống
+> đã tắt.
 
 ## Ký hiệu đầu tiên
 
@@ -67,7 +71,9 @@ nhập tiếp theo. Không giới hạn thời gian giữa các lần nhấn. <k
 ký hiệu hoặc dấu đang chờ. Các nút `M0`/`M1`/`M2` phía trên bàn phím cũng chọn
 chế độ.
 
-> [!TIP] **Menu → Hướng dẫn từng bước** cung cấp bài tập ngắn. Nếu đã biết
+> [!TIP]
+>
+> **Menu → Hướng dẫn từng bước** cung cấp bài tập ngắn. Nếu đã biết
 > [bố cục Birman](https://ilyabirman.ru/typography-layout/), ba bước giới thiệu
 > sẽ được bỏ qua. Thử thách cuối với tất cả
 > [ký hiệu Birman](https://ilyabirman.ru/typography-layout/) không bắt buộc. Nút
