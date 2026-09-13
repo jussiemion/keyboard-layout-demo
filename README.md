@@ -17,6 +17,7 @@ Open [localhost:6699](http://127.0.0.1:6699).
 
 | Command | Purpose |
 | --- | --- |
+| `bun run test` | Run typing-engine regression tests |
 | `bun run lint` | Check source code with Oxlint |
 | `bun run typecheck` | Check TypeScript types |
 | `bun run format` | Format source files with Oxfmt |
@@ -25,6 +26,10 @@ Open [localhost:6699](http://127.0.0.1:6699).
 | `bun run build:pages` | Build and validate the GitHub Pages export; does not deploy |
 
 Stop the development server before starting the preview; both use port 6699 by default. Use `PORT=6700 bun run preview` to preview on another port.
+
+## Typing engine
+
+See the [engine guide](docs/typing-engine.md) for modes, data sources and validation.
 
 ## Contributing
 

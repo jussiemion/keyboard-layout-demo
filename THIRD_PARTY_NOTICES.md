@@ -17,3 +17,7 @@ Third-party code, data, fonts and icons retain their respective terms. Preserve 
 ## Application dependencies
 
 The application uses React, React DOM, Vinext, Vite and Tailwind CSS, with TypeScript, Oxlint and Oxfmt for development. These packages retain their upstream copyrights and licenses. Exact direct versions are recorded in `package.json`; `bun.lock` pins the resolved dependency graph. Refer to the packages’ distributed license notices for their respective terms.
+
+## National keyboard data
+
+[National key actions](lib/national-layouts.json) are derived from xkeyboard-config 2.48 through libxkbcommon. The data retains its upstream terms. The [engine guide](docs/typing-engine.md) describes how the bundled references are used; the runtime does not change the operating system’s keyboard configuration.

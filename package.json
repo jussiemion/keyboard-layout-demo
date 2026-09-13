@@ -15,7 +15,8 @@
     "format": "oxfmt",
     "preview": "node tools/serve.mjs",
     "typecheck": "tsc --noEmit",
-    "build:pages": "node tools/build-pages.mjs"
+    "build:pages": "node tools/build-pages.mjs",
+    "test": "node --test --test-reporter=dot tests/*.test.ts"
   },
   "dependencies": {
     "react": "19.3.0",

@@ -1,0 +1,538 @@
+{
+  "schema": 1,
+  "reference": {
+    "name": "Ilya Birman Typography Layout",
+    "version": "3.9",
+    "url": "https://ilyabirman.ru/typography-layout/download/ilya-birman-typolayout-3.9-mac.zip"
+  },
+  "keys": [
+    {
+      "key": "TLDE",
+      "label": "`",
+      "primary": {
+        "text": "`"
+      },
+      "secondary": {
+        "dead": "grave"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE01",
+      "label": "1",
+      "primary": {
+        "text": "¹"
+      },
+      "secondary": {
+        "text": "¡"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE02",
+      "label": "2",
+      "primary": {
+        "text": "²"
+      },
+      "secondary": {
+        "text": "¹⁄₂"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE03",
+      "label": "3",
+      "primary": {
+        "text": "³"
+      },
+      "secondary": {
+        "text": "¹⁄₃"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE04",
+      "label": "4",
+      "primary": {
+        "text": "$"
+      },
+      "secondary": {
+        "text": "¹⁄₄"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE05",
+      "label": "5",
+      "primary": {
+        "text": "‰"
+      },
+      "secondary": {
+        "text": ""
+      },
+      "quick": false
+    },
+    {
+      "key": "AE06",
+      "label": "6",
+      "primary": {
+        "text": "↑"
+      },
+      "secondary": {
+        "dead": "circumflex"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE07",
+      "label": "7",
+      "primary": {
+        "text": ""
+      },
+      "secondary": {
+        "text": "¿"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE08",
+      "label": "8",
+      "primary": {
+        "text": "∞"
+      },
+      "secondary": {
+        "text": ""
+      },
+      "quick": false
+    },
+    {
+      "key": "AE09",
+      "label": "9",
+      "primary": {
+        "text": "←"
+      },
+      "secondary": {
+        "text": "‹"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE10",
+      "label": "0",
+      "primary": {
+        "text": "→"
+      },
+      "secondary": {
+        "text": "›"
+      },
+      "quick": false
+    },
+    {
+      "key": "AE11",
+      "label": "-",
+      "primary": {
+        "text": "—"
+      },
+      "secondary": {
+        "text": "–"
+      },
+      "quick": true
+    },
+    {
+      "key": "AE12",
+      "label": "=",
+      "primary": {
+        "text": "≠"
+      },
+      "secondary": {
+        "text": "±"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD01",
+      "label": "Q",
+      "primary": {
+        "text": ""
+      },
+      "secondary": {
+        "dead": "breve"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD02",
+      "label": "W",
+      "primary": {
+        "text": "✓"
+      },
+      "secondary": {
+        "text": "⌃"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD03",
+      "label": "E",
+      "primary": {
+        "text": "€"
+      },
+      "secondary": {
+        "text": "⌥"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD04",
+      "label": "R",
+      "primary": {
+        "text": "®"
+      },
+      "secondary": {
+        "dead": "ring"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD05",
+      "label": "T",
+      "primary": {
+        "text": "™"
+      },
+      "secondary": {
+        "text": "#"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD06",
+      "label": "Y",
+      "primary": {
+        "text": "ѣ"
+      },
+      "secondary": {
+        "text": "Ѣ"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD07",
+      "label": "U",
+      "primary": {
+        "text": "ѵ"
+      },
+      "secondary": {
+        "text": "Ѵ"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD08",
+      "label": "I",
+      "primary": {
+        "text": "і"
+      },
+      "secondary": {
+        "text": "І"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD09",
+      "label": "O",
+      "primary": {
+        "text": "ѳ"
+      },
+      "secondary": {
+        "text": "Ѳ"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD10",
+      "label": "P",
+      "primary": {
+        "text": "′"
+      },
+      "secondary": {
+        "text": "″"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD11",
+      "label": "[",
+      "primary": {
+        "text": "["
+      },
+      "secondary": {
+        "text": "{"
+      },
+      "quick": false
+    },
+    {
+      "key": "AD12",
+      "label": "]",
+      "primary": {
+        "text": "]"
+      },
+      "secondary": {
+        "text": "}"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC01",
+      "label": "A",
+      "primary": {
+        "text": "≈"
+      },
+      "secondary": {
+        "text": "⌘"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC02",
+      "label": "S",
+      "primary": {
+        "text": "§"
+      },
+      "secondary": {
+        "text": "⇧"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC03",
+      "label": "D",
+      "primary": {
+        "text": "°"
+      },
+      "secondary": {
+        "text": "⌀"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC04",
+      "label": "F",
+      "primary": {
+        "text": "£"
+      },
+      "secondary": {
+        "text": ""
+      },
+      "quick": false
+    },
+    {
+      "key": "AC05",
+      "label": "G",
+      "primary": {
+        "text": ""
+      },
+      "secondary": {
+        "text": ""
+      },
+      "quick": false
+    },
+    {
+      "key": "AC06",
+      "label": "H",
+      "primary": {
+        "text": "₽"
+      },
+      "secondary": {
+        "dead": "doubleacute"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC07",
+      "label": "J",
+      "primary": {
+        "text": "„"
+      },
+      "secondary": {
+        "text": ""
+      },
+      "quick": false
+    },
+    {
+      "key": "AC08",
+      "label": "K",
+      "primary": {
+        "text": "“"
+      },
+      "secondary": {
+        "text": "‘"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC09",
+      "label": "L",
+      "primary": {
+        "text": "”"
+      },
+      "secondary": {
+        "text": "’"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC10",
+      "label": ";",
+      "primary": {
+        "text": "‘"
+      },
+      "secondary": {
+        "dead": "diaeresis"
+      },
+      "quick": false
+    },
+    {
+      "key": "AC11",
+      "label": "'",
+      "primary": {
+        "text": "’"
+      },
+      "secondary": {
+        "text": ""
+      },
+      "quick": false
+    },
+    {
+      "key": "AB01",
+      "label": "Z",
+      "primary": {
+        "text": ""
+      },
+      "secondary": {
+        "dead": "cedilla"
+      },
+      "quick": false
+    },
+    {
+      "key": "AB02",
+      "label": "X",
+      "primary": {
+        "text": "×"
+      },
+      "secondary": {
+        "text": "·"
+      },
+      "quick": false
+    },
+    {
+      "key": "AB03",
+      "label": "C",
+      "primary": {
+        "text": "©"
+      },
+      "secondary": {
+        "text": "¢"
+      },
+      "quick": false
+    },
+    {
+      "key": "AB04",
+      "label": "V",
+      "primary": {
+        "text": "↓"
+      },
+      "secondary": {
+        "dead": "caron"
+      },
+      "quick": false
+    },
+    {
+      "key": "AB05",
+      "label": "B",
+      "primary": {
+        "text": "ß"
+      },
+      "secondary": {
+        "text": "ẞ"
+      },
+      "quick": false
+    },
+    {
+      "key": "AB06",
+      "label": "N",
+      "primary": {
+        "text": ""
+      },
+      "secondary": {
+        "dead": "tilde"
+      },
+      "quick": false
+    },
+    {
+      "key": "AB07",
+      "label": "M",
+      "primary": {
+        "text": "−"
+      },
+      "secondary": {
+        "text": "•"
+      },
+      "quick": false
+    },
+    {
+      "key": "AB08",
+      "label": ",",
+      "primary": {
+        "text": "«"
+      },
+      "secondary": {
+        "text": "„"
+      },
+      "quick": true
+    },
+    {
+      "key": "AB09",
+      "label": ".",
+      "primary": {
+        "text": "»"
+      },
+      "secondary": {
+        "text": "“"
+      },
+      "quick": true
+    },
+    {
+      "key": "AB10",
+      "label": "/",
+      "primary": {
+        "text": "…"
+      },
+      "secondary": {
+        "dead": "acute"
+      },
+      "quick": true
+    },
+    {
+      "key": "SPCE",
+      "label": "Space",
+      "primary": {
+        "text": " "
+      },
+      "secondary": {
+        "text": " "
+      },
+      "quick": false
+    },
+    {
+      "key": "BKSL",
+      "label": "\\",
+      "primary": {
+        "text": ""
+      },
+      "secondary": {
+        "text": ""
+      },
+      "quick": false
+    }
+  ]
+}
