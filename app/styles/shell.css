@@ -1,0 +1,72 @@
+.demo-shell {
+  --page-edge-space: 34px;
+  width: min(960px, calc(100% - 80px));
+  min-height: 100dvh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--page-edge-space) 0 0;
+}
+
+.brand {
+  display: flex;
+  min-width: 0;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.brand-mark {
+  color: var(--primary);
+  display: block;
+  flex-shrink: 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.brand h1 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  margin: 0;
+}
+
+.header-actions {
+  display: flex;
+  gap: 17px;
+  align-items: center;
+}
+
+.icon-link {
+  width: 36px;
+  height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--sub);
+  border-radius: 5px;
+}
+
+.icon-link:hover {
+  color: var(--primary);
+  background: transparent;
+}
+
+.header-menu-item {
+  min-height: 44px;
+  padding: 10px;
+  gap: 10px;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.header-menu-item[data-disabled] {
+  cursor: default;
+  opacity: 0.55;
+}

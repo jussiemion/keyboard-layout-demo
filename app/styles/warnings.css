@@ -1,0 +1,44 @@
+.native-layout-warning {
+  --warning-color: light-dark(#806000, #e7c75f);
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  margin-block: 24px 20px;
+  border: 1px solid color-mix(in srgb, var(--warning-color) 45%, transparent);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--warning-color) 8%, var(--background));
+  color: var(--warning-color);
+  text-align: start;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.native-layout-warning > svg {
+  flex-shrink: 0;
+  margin-block-start: 2px;
+}
+
+.native-layout-warning p {
+  margin-block: 8px;
+}
+
+.native-layout-warning kbd {
+  color: var(--foreground);
+}
+
+@font-face {
+  font-family: 'Layout Arabic';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/layout-arabic.woff2') format('woff2');
+  unicode-range:
+    U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+/* Arabic joining must not be interrupted by typographic letter spacing. */
+
+:lang(ar) {
+  letter-spacing: normal;
+}

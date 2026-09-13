@@ -1,0 +1,283 @@
+@import 'tailwindcss';
+
+@import 'tw-animate-css';
+
+@import 'shadcn/tailwind.css';
+
+@font-face {
+  font-family: 'Layout Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/layout-mono.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Layout Symbols';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/layout-symbols.woff2') format('woff2');
+  unicode-range: U+2300, U+2303;
+}
+
+@font-face {
+  font-family: 'Layout Symbols';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/layout-symbols-2.woff2') format('woff2');
+  unicode-range: U+21E7, U+2318, U+2325, U+237D, U+2713;
+}
+
+@font-face {
+  font-family: 'Layout Runic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/layout-runic.woff2') format('woff2');
+  unicode-range: U+16C9;
+}
+
+@font-face {
+  font-family: 'Layout Apple Symbol';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/layout-apple.woff2') format('woff2');
+  unicode-range: U+F8FF;
+}
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--border);
+  --color-ring: var(--primary);
+  --font-sans: var(--font-text);
+  --font-mono: var(--font-text);
+  --font-heading: var(--font-sans);
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+}
+
+/* Monkeytype Vesper / Vesper Light, upstream palette checked 2026-09-09.
+   https://github.com/monkeytypegame/monkeytype/blob/master/frontend/src/ts/constants/themes.ts */
+
+:root {
+  --font-text:
+    'Layout Mono', 'Layout Arabic', 'Layout Hebrew', 'Layout Symbols',
+    'Layout Runic', 'Layout Apple Symbol', monospace;
+  color-scheme: light;
+  --background: #faf9f7;
+  --foreground: #292622;
+  --primary: #fb7100;
+  --caret: #067a6e;
+  --sub: #706a63;
+  --secondary: #ffffff;
+  --destructive: #ed2839;
+  --error-extra: #ff6c72;
+  --colorful-error: #ed2839;
+  --colorful-error-extra: #ff6c72;
+  --primary-foreground: light-dark(#542300, var(--background));
+  --muted: var(--secondary);
+  --muted-foreground: color-mix(in srgb, var(--foreground) 35%, var(--sub));
+  --accent: light-dark(
+    #f2efeb,
+    color-mix(in srgb, var(--foreground) 8%, var(--secondary))
+  );
+  --popover: var(--secondary);
+  --card: var(--secondary);
+  --border: light-dark(
+    #ddd8d2,
+    color-mix(in srgb, var(--foreground) 18%, var(--background))
+  );
+  --faint: var(--sub);
+  --key-base: color-mix(in srgb, var(--foreground) 75%, var(--sub));
+  --key-secondary: var(--sub);
+  --kbd-background: light-dark(#eeebe6, #3a3a3a);
+  --accent-ink: light-dark(#a74600, var(--primary));
+  --mode-neutral-fill: light-dark(#eeebe6, #ccc);
+  --mode-neutral-border: light-dark(#d8d2ca, #000);
+  --mode-neutral-ink: light-dark(#49433d, #000);
+  --mode-accent-fill: light-dark(#ffe1c7, var(--primary));
+  --mode-accent-border: light-dark(#efc09c, #000);
+  --mode-accent-ink: light-dark(#853900, #000);
+  --inactive-symbol-opacity: 0.18;
+  --dialog-shadow:
+    0 28px 90px light-dark(rgb(65 46 28 / 12%), #0005),
+    0 4px 16px light-dark(rgb(65 46 28 / 6%), #0002);
+  --key-border-hover: color-mix(in srgb, var(--primary) 60%, var(--border));
+  --key-alt-border: color-mix(in srgb, var(--primary) 50%, var(--border));
+  --radius: 0.5rem;
+}
+
+:root[data-theme='vesper'] {
+  color-scheme: dark;
+  --background: #101010;
+  --foreground: #ffffff;
+  --primary: #ffc799;
+  --caret: #99ffe4;
+  --sub: #a0a0a0;
+  --secondary: #1c1c1c;
+  --destructive: #ff8080;
+  --error-extra: #b25959;
+  --colorful-error: #ff8080;
+  --colorful-error-extra: #b25959;
+}
+
+:root[data-theme='vesper_light'] {
+  --inactive-symbol-opacity: 0.32;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme]) {
+    --inactive-symbol-opacity: 0.32;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --background: #101010;
+    --foreground: #ffffff;
+    --primary: #ffc799;
+    --caret: #99ffe4;
+    --sub: #a0a0a0;
+    --secondary: #1c1c1c;
+    --destructive: #ff8080;
+    --error-extra: #b25959;
+    --colorful-error: #ff8080;
+    --colorful-error-extra: #b25959;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+
+*::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+html {
+  min-width: 320px;
+  background: var(--background);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-text);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--foreground);
+  background: var(--background);
+}
+
+button,
+a,
+input {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button,
+a {
+  touch-action: manipulation;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.16s ease;
+}
+
+a:hover {
+  color: var(--foreground);
+}
+
+::selection {
+  background: var(--primary);
+  color: var(--primary-foreground);
+}
+
+kbd,
+.result-symbol {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.6em;
+  padding: 0 0.38em;
+  border-radius: 3px;
+  font: inherit;
+  font-size: 0.85em;
+  line-height: 1.55;
+  color: var(--foreground);
+  background: var(--kbd-background);
+  white-space: nowrap;
+}
+
+.document-scroll-area {
+  width: 100%;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.document-scroll-area > [data-slot='scroll-area-viewport'] {
+  overscroll-behavior-y: contain;
+}
+
+.document-scroll-area > [data-slot='scroll-area-scrollbar'] {
+  z-index: 20;
+  width: 12px;
+  padding: 3px;
+  border: 0;
+  background: transparent;
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+
+.document-scroll-area > [data-slot='scroll-area-scrollbar'][data-hovering],
+.document-scroll-area > [data-slot='scroll-area-scrollbar'][data-scrolling] {
+  opacity: 1;
+}
+
+.document-scroll-area [data-slot='scroll-area-thumb'] {
+  background: color-mix(in srgb, var(--sub) 55%, transparent);
+  transition: background-color 180ms ease;
+}
+
+.document-scroll-area [data-slot='scroll-area-thumb']:hover,
+.document-scroll-area [data-slot='scroll-area-thumb']:active {
+  background: var(--sub);
+}

@@ -1,0 +1,272 @@
+/* Guided practice stays in the page so the actual keyboard remains usable. */
+
+.tour-invitation,
+.tour-panel {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--secondary);
+  margin-top: 24px;
+  padding: 18px 20px;
+}
+
+.tour-invitation {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.tour-invitation > svg {
+  flex-shrink: 0;
+  color: var(--accent-ink);
+}
+
+.tour-invitation-copy {
+  flex: 1;
+  min-width: 0;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.tour-invitation-copy p {
+  color: var(--sub);
+  font-size: 12px;
+}
+
+.tour-panel {
+  max-width: 960px;
+  margin-inline: auto;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.tour-panel h2 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-block: 4px 10px;
+  outline: none;
+}
+
+.tour-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.tour-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.tour-panel .tour-buttons {
+  margin-block-start: 18px;
+}
+
+.tour-invitation .tour-buttons {
+  margin-top: 0;
+}
+
+.tour-progress {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  font-size: 11px;
+  color: var(--sub);
+  margin-block: 8px;
+}
+
+.tour-progress progress {
+  width: 120px;
+  height: 4px;
+  accent-color: var(--accent-ink);
+}
+
+.tour-target {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 10px;
+  color: var(--sub);
+}
+
+.tour-touch-keys button {
+  background: var(--kbd-background);
+  box-shadow: 0 1px 0 var(--border);
+}
+
+.tour-target strong {
+  color: var(--foreground);
+  font-weight: 500;
+}
+
+.tour-status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--accent-ink);
+  min-height: 22px;
+  margin-top: 8px;
+}
+
+.tour-challenge-text {
+  max-height: 140px;
+  overflow-y: auto;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
+  font-size: 18px;
+  line-height: 1.9;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 12px;
+  margin-top: 12px;
+  user-select: none;
+}
+
+.tour-challenge-text [data-passed='true'] {
+  color: var(--sub);
+}
+
+.tour-challenge-text [data-error='true'] {
+  color: var(--destructive);
+  text-decoration: underline;
+}
+
+.demo-shell[data-tour-active='true'] .typing-area {
+  margin-top: 18px;
+}
+
+.keycap[data-tour-key='true'] {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 2px;
+}
+
+.mode-indicators[data-tour-mode='true'],
+.demo-shell[data-tour-spotlight='search'] .symbol-search-trigger,
+.demo-shell[data-tour-spotlight='settings'] [data-tour-target='settings'],
+.demo-shell[data-tour-spotlight='help'] [data-tour-target='help'] {
+  outline: 2px solid var(--accent-ink);
+  outline-offset: 4px;
+  border-radius: 6px;
+}
+
+@media (max-width: 600px) {
+  .tour-panel,
+  .tour-invitation {
+    padding: 12px;
+    margin-top: 16px;
+  }
+  .tour-invitation {
+    flex-wrap: wrap;
+  }
+  .tour-panel .tour-buttons {
+    margin-block-start: 18px;
+  }
+  .tour-invitation .tour-buttons {
+    width: 100%;
+  }
+  .tour-panel h2 {
+    font-size: 16px;
+  }
+  .tour-panel {
+    font-size: 12px;
+  }
+  .tour-buttons {
+    gap: 6px;
+  }
+}
+
+@media (min-width: 701px) {
+  .tour-panel[data-stage='exercise'] {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas: 'top top' 'title title' 'progress progress' 'target target' 'instruction instruction' 'status buttons';
+    gap: 10px 16px;
+    padding: 12px 18px;
+  }
+  .tour-panel[data-stage='exercise'] .tour-topline {
+    grid-area: top;
+  }
+  .tour-panel[data-stage='exercise'] h2 {
+    grid-area: title;
+    margin: 0;
+  }
+  .tour-panel[data-stage='exercise'] .tour-progress {
+    grid-area: progress;
+    margin: 0;
+  }
+  .tour-panel[data-stage='exercise'] .tour-instruction {
+    grid-area: instruction;
+  }
+  .tour-panel[data-stage='exercise'] .tour-target {
+    grid-area: target;
+    margin: 0;
+  }
+  .tour-panel[data-stage='exercise'] .tour-status {
+    grid-area: status;
+    margin: 18px 0 0;
+  }
+  .tour-panel[data-stage='exercise'] .tour-buttons {
+    grid-area: buttons;
+    justify-content: flex-end;
+    margin: 18px 0 0;
+  }
+  .demo-shell[data-tour-active='true'] .keyboard-section {
+    max-width: 840px;
+  }
+}
+
+.demo-shell[data-tour-active='true'] main {
+  --keyboard-block-gap: 16px;
+}
+
+.demo-shell[data-tour-active='true'] #typing-input {
+  font-size: 24px;
+}
+
+/* The task replaces hover hints; changing their height must not move keys under the pointer. */
+
+.demo-shell[data-tour-active='true'] .key-detail-region {
+  display: none;
+}
+
+.tour-touch-keys {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .tour-touch-keys {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+    direction: ltr;
+  }
+  .tour-touch-keys button {
+    min-width: 44px;
+    min-height: 44px;
+  }
+}
+
+.tour-progress progress {
+  appearance: none;
+  border: 0;
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--border);
+}
+
+.tour-progress progress::-webkit-progress-bar {
+  background: var(--border);
+}
+
+.tour-progress progress::-webkit-progress-value {
+  background: var(--accent-ink);
+}
+
+.tour-progress progress::-moz-progress-bar {
+  background: var(--accent-ink);
+}

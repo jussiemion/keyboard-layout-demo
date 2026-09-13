@@ -1,8 +1,10 @@
 # Typographic Layout by Semyon Yushkevich
 
-A typographic keyboard layout for punctuation, symbols, diacritics and language switching, with an interactive browser demo.
+A typographic keyboard layout for punctuation, symbols, diacritics and language
+switching, with an interactive browser demo.
 
-Created by **Semyon Yushkevich**. The shared symbol map builds on [Ilya Birman’s Typography Layout](https://ilyabirman.ru/typography-layout/).
+Created by **Semyon Yushkevich**. The shared symbol map builds on
+[Ilya Birman’s Typography Layout](https://ilyabirman.ru/typography-layout/).
 
 ## Run locally
 
@@ -15,34 +17,48 @@ bun run dev
 
 Open [localhost:6699](http://127.0.0.1:6699).
 
-| Command | Purpose |
-| --- | --- |
-| `bun run test` | Run engine, input, localization, search and tour tests |
-| `bun run lint` | Check source code with Oxlint |
-| `bun run typecheck` | Check TypeScript types |
-| `bun run format` | Format source files with Oxfmt |
-| `bun run build` | Generate the static application in `dist/client` |
-| `bun run preview` | Serve the static build locally on port 6699 |
+| Command               | Purpose                                                     |
+| --------------------- | ----------------------------------------------------------- |
+| `bun run test`        | Run engine, input, localization, search and tour tests      |
+| `bun run lint`        | Check source code with Oxlint                               |
+| `bun run typecheck`   | Check TypeScript types                                      |
+| `bun run format`      | Format source files with Oxfmt                              |
+| `bun run build`       | Generate the static application in `dist/client`            |
+| `bun run preview`     | Serve the static build locally on port 6699                 |
 | `bun run build:pages` | Build and validate the GitHub Pages export; does not deploy |
 
-Stop the development server before starting the preview; both use port 6699 by default. Use `PORT=6700 bun run preview` to preview on another port.
+Stop the development server before starting the preview; both use port 6699 by
+default. Use `PORT=6700 bun run preview` to preview on another port.
 
 ## Typing engine
 
-See the [engine guide](docs/typing-engine.md) for modes, data sources and validation.
+See the [engine guide](docs/typing-engine.md) for modes, data sources and
+validation.
 
 ## Browser input
 
-See the [input guide](docs/browser-input.md) for language gestures, saved mappings and native-layout detection.
+See the [input guide](docs/browser-input.md) for language gestures, saved
+mappings and native-layout detection.
 
 ## Localization and learning
 
-See the [localization and learning guide](docs/localization-and-learning.md) for language preferences, symbol search and tour rules.
+See the [localization and learning guide](docs/localization-and-learning.md) for
+language preferences, symbol search and tour rules.
+
+## Interactive demo
+
+The demo includes an on-screen keyboard, physical typing, symbol search, a cheat
+sheet, configurable language slots and a guided tour. It supports light and dark
+themes and RTL interfaces. See the [interface guide](docs/interface.md) for the
+component structure and browser checks.
 
 ## Contributing
 
-Read the [contribution guide](CONTRIBUTING.md). Explain the problem, keep changes focused and include relevant validation.
+Read the [contribution guide](CONTRIBUTING.md). Explain the problem, keep
+changes focused and include relevant validation.
 
 ## License
 
-Original contributions are available under the [MIT license](LICENSE). Preserve copyright and license notices when using or distributing them. [Third-party materials](THIRD_PARTY_NOTICES.md) retain their own terms.
+Original contributions are available under the [MIT license](LICENSE). Preserve
+copyright and license notices when using or distributing them.
+[Third-party materials](THIRD_PARTY_NOTICES.md) retain their own terms.

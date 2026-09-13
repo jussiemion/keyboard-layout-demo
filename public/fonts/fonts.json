@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "description": "Bundled fonts for all supported typographic symbols and 14 interface languages, including Arabic and Hebrew shaping.",
+  "sources": {
+    "NotoSansMono.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmono/NotoSansMono%5Bwdth%2Cwght%5D.ttf",
+      "sha256": "2cb2adb378a8f574213e23df697050b83c54c27df465a2015552740b2769a081"
+    },
+    "NotoSansSymbols.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssymbols/NotoSansSymbols%5Bwght%5D.ttf",
+      "sha256": "f7e7e04b4a24b6c78893d50cbfd2b2f6cae49617ab047bfef668d252adb128f7"
+    },
+    "NotoSansSymbols2.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssymbols2/NotoSansSymbols2-Regular.ttf",
+      "sha256": "7d5fb73b7ca67a6798101741f5d280a3d016a56a197afcd4199dbb57b4b82a21"
+    },
+    "NotoSansRunic.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansrunic/NotoSansRunic-Regular.ttf",
+      "sha256": "615b6c1166a8c51816dc1536784acbf486547e3bed03dbfdd70910e10066793b"
+    },
+    "FontAwesomeBrands.woff2": {
+      "url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/webfonts/fa-brands-400.woff2",
+      "sha256": "3555466788ec0a9c6f05434b353cebeac96dd901ad3b353ef9a5eca3611f6150"
+    },
+    "NotoSansHebrew.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanshebrew/NotoSansHebrew%5Bwdth,wght%5D.ttf",
+      "sha256": "7ef36a2c3593758cdb622e1bdef4f84523e92fbc3ccc667438dd80ff54c2de88"
+    },
+    "NotoSansArabic.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarabic/NotoSansArabic%5Bwdth,wght%5D.ttf",
+      "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    }
+  },
+  "fonts": [
+    {
+      "file": "layout-mono.woff2",
+      "family": "Layout Mono",
+      "source": "NotoSansMono.ttf",
+      "license": "NotoSansMono-OFL.txt",
+      "unicodeRange": null,
+      "weight": "100 900",
+      "modifications": "Width axis instantiated at normal width (100); renamed family. Full character coverage and variable weight axis retained.",
+      "sha256": "d5b38cb53ec56d3b87235f8efbf4c5ca04e9f64a33500189fb03dbd6bdbcb524",
+      "bytes": 411268
+    },
+    {
+      "file": "layout-symbols.woff2",
+      "family": "Layout Symbols",
+      "source": "NotoSansSymbols.ttf",
+      "license": "NotoSansSymbols-OFL.txt",
+      "unicodeRange": "U+2300, U+2303",
+      "weight": "400",
+      "modifications": "Static subset; renamed family; original outlines and shaping retained.",
+      "sha256": "93cc5a4469447cd311eaaecdd6488c102176245df7b7936188a973e3a115cf88",
+      "bytes": 996
+    },
+    {
+      "file": "layout-symbols-2.woff2",
+      "family": "Layout Symbols",
+      "source": "NotoSansSymbols2.ttf",
+      "license": "NotoSansSymbols2-OFL.txt",
+      "unicodeRange": "U+21E7, U+2318, U+2325, U+237D, U+2713",
+      "weight": "400",
+      "modifications": "Static subset; renamed family; original outlines and shaping retained.",
+      "sha256": "fab0833191c47ada487fda42cf9ee98959efbf8433a558f91bdc389325aba0b5",
+      "bytes": 3396
+    },
+    {
+      "file": "layout-runic.woff2",
+      "family": "Layout Runic",
+      "source": "NotoSansRunic.ttf",
+      "license": "NotoSansRunic-OFL.txt",
+      "unicodeRange": "U+16C9",
+      "weight": "400",
+      "modifications": "Static subset; renamed family; original outlines and shaping retained.",
+      "sha256": "43c322f410be4f80e8e7ec9478a2d0380c966c0ee44127b5bf2cb0b394ec4f33",
+      "bytes": 2664
+    },
+    {
+      "file": "layout-apple.woff2",
+      "family": "Layout Apple Symbol",
+      "source": "FontAwesomeBrands.woff2",
+      "license": "FontAwesome-LICENSE.txt",
+      "unicodeRange": "U+F8FF",
+      "weight": "400",
+      "modifications": "Static subset; renamed family; original outlines and shaping retained. Apple glyph mapped from U+F179 to U+F8FF; typed Unicode is unchanged.",
+      "sha256": "eb066f1de2734521eb8648447b1e42c23bb9e4183c4a2c4a0491496f39fa85d4",
+      "bytes": 956
+    },
+    {
+      "file": "layout-hebrew.woff2",
+      "family": "Layout Hebrew",
+      "source": "NotoSansHebrew.ttf",
+      "license": "NotoSansHebrew-OFL.txt",
+      "unicodeRange": "U+0590-05FF, U+FB1D-FB4F",
+      "weight": "100 900",
+      "modifications": "Full coverage, shaping and variable axes retained; renamed family.",
+      "sha256": "5f3c2368bf09ae749c9fe5a692337903d28ed9559f72c602c9eae5cb1c6ef8ea",
+      "bytes": 58620
+    },
+    {
+      "file": "layout-arabic.woff2",
+      "family": "Layout Arabic",
+      "source": "NotoSansArabic.ttf",
+      "license": "NotoSansArabic-OFL.txt",
+      "unicodeRange": "U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF",
+      "weight": "100 900",
+      "modifications": "Full coverage, shaping and variable axes retained; renamed family.",
+      "sha256": "ac8a96819a5b328c94123e51f6b9d39e366258787f737af829649d4934b39f3c",
+      "bytes": 361204
+    }
+  ]
+}

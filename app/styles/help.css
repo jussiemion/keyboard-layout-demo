@@ -1,0 +1,144 @@
+/* A single reference sheet; shortcut sequences retain their physical order in RTL. */
+
+.help-sheet {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  grid-template-areas: 'modes accents' 'quick languages' 'actions languages';
+  align-items: stretch;
+}
+
+.help-card-symbols {
+  grid-area: modes;
+}
+
+.help-card-quick {
+  grid-area: quick;
+}
+
+.help-card-accents {
+  grid-area: accents;
+}
+
+.help-card-languages {
+  grid-area: languages;
+}
+
+.help-card-actions {
+  grid-area: actions;
+}
+
+.help-modes .help-reference-row {
+  display: grid;
+  gap: 7px;
+}
+
+.help-modes .help-reference-row dt {
+  align-items: baseline;
+}
+
+.help-modes .help-reference-row dt > .inline-mode {
+  flex-shrink: 0;
+}
+
+.help-modes .help-reference-row dd {
+  text-align: start;
+  padding-inline-start: 34px;
+}
+
+.help-modes dt {
+  line-height: 1.6;
+}
+
+.help-card {
+  min-width: 0;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  background: var(--secondary);
+}
+
+.help-card h3 {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+
+.help-reference {
+  display: grid;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.help-reference dt {
+  color: var(--sub);
+}
+
+.help-reference dd {
+  margin: 0;
+  min-width: 0;
+}
+
+.help-reference-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.help-reference-row dt {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.help-reference-row dd {
+  text-align: end;
+}
+
+.help-accents dd,
+.help-actions dd {
+  margin-top: 7px;
+  line-height: 1.7;
+}
+
+.help-actions > div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 12px;
+}
+
+.help-actions dd {
+  margin-top: 0;
+}
+
+.help-footer ol {
+  margin-top: 8px;
+  padding-inline-start: 1.6em;
+  list-style: decimal;
+  display: grid;
+  gap: 4px;
+}
+
+.help-footer {
+  font-size: 11px;
+  line-height: 1.7;
+  color: var(--sub);
+}
+
+@media (max-width: 700px) {
+  .help-dialog {
+    padding: 24px 16px;
+    gap: 16px;
+  }
+  .help-sheet {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: 'modes' 'quick' 'accents' 'languages' 'actions';
+    gap: 12px;
+  }
+  .help-card {
+    padding: 14px;
+  }
+}

@@ -1,0 +1,168 @@
+.language-slot-label,
+.mode-key-label {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  font-size: 11px;
+  line-height: 1.15;
+  font-weight: 500;
+  color: var(--sub);
+  pointer-events: none;
+}
+
+.hovered-key-hint > span + span {
+  margin-inline-start: calc(var(--hint-gap) / 2);
+}
+
+.hint-label {
+  color: var(--sub);
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.keycap:is(:hover, :focus-visible):not(:disabled):not(.pressed):not(:active)
+  :is(.primary-symbol, .secondary-symbol, .space-legend) {
+  color: var(--primary);
+  opacity: 1;
+}
+
+/* Mode references share a single palette with Alt/Option. */
+
+.language-mark,
+.key-detail kbd.language-mark,
+:is(
+  .key-detail kbd,
+  .help-sheet kbd,
+  .tour-panel kbd,
+  .symbol-search-dialog kbd,
+  .mode-indicator span,
+  .mode-key-label
+).inline-mode {
+  display: inline-block;
+  padding: 1px 5px;
+  border: 1px solid var(--key-alt-border);
+  border-radius: 4px;
+  background: var(--secondary);
+  color: var(--accent-ink);
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.4;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+:is(
+    .key-detail kbd,
+    .help-sheet kbd,
+    .tour-panel kbd,
+    .symbol-search-dialog kbd,
+    .mode-indicator span,
+    .mode-key-label
+  ).inline-mode[data-mode='1'] {
+  border-color: var(--mode-neutral-border);
+  background: var(--mode-neutral-fill);
+  color: var(--mode-neutral-ink);
+}
+
+:is(
+    .key-detail kbd,
+    .help-sheet kbd,
+    .tour-panel kbd,
+    .symbol-search-dialog kbd,
+    .mode-indicator span,
+    .mode-key-label
+  ).inline-mode[data-mode='2'] {
+  border-color: var(--mode-accent-border);
+  background: var(--mode-accent-fill);
+  color: var(--mode-accent-ink);
+}
+
+/* Filled Alt labels also override the generic key hover/focus/pressed colors. */
+
+.alt-key:is([data-mode='1'], [data-mode='2'], .pressed, :active)
+  :is(.key-base, .key-symbol),
+.alt-key:is([data-mode='1'], [data-mode='2'], .pressed, :active):focus-visible
+  :is(.key-base, .key-symbol) {
+  color: #000;
+}
+
+/* Language references use a neutral outline without a fill. */
+
+.language-mark,
+.key-detail kbd.language-mark {
+  border-color: light-dark(#d8d2ca, #999);
+  background: transparent;
+  color: var(--sub);
+}
+
+/* Typography is paused, but ordinary typing and language selection remain usable. */
+
+.typography-disabled
+  .keycap:not([data-key-code='ControlLeft']):not(
+    [data-key-code='ControlRight']
+  ) {
+  opacity: 0.3;
+}
+
+.ctrl-status {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  line-height: 1;
+  color: inherit;
+  pointer-events: none;
+}
+
+.ctrl-status-led {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: light-dark(#248956, #22e66f);
+  box-shadow: 0 0 5px light-dark(rgb(36 137 86 / 15%), rgb(34 230 111 / 55%));
+}
+
+.ctrl-status[data-enabled='false'] .ctrl-status-led {
+  background: light-dark(#ca4141, #ff4545);
+  box-shadow: 0 0 5px light-dark(rgb(202 65 65 / 15%), rgb(255 69 69 / 55%));
+}
+
+/* Hebrew UI flows RTL; physical keyboard positions retain their geometry. */
+
+html[dir='rtl'] .help-paragraph {
+  text-align: start;
+}
+
+kbd,
+.inline-mode,
+.language-mark {
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+.virtual-keyboard {
+  direction: ltr;
+}
+
+#typing-input {
+  text-align: start;
+}
+
+@font-face {
+  font-family: 'Layout Hebrew';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/layout-hebrew.woff2') format('woff2');
+  unicode-range: U+0590-05FF, U+FB1D-FB4F;
+}
+
+#typing-input[dir='rtl'] {
+  letter-spacing: normal;
+}
+
+/* Output samples share a compact badge shape across inline hints and help. */

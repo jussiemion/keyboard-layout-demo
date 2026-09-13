@@ -21,7 +21,7 @@ export function wrapClasses(file, write = false) {
       while (owner && !ts.isSourceFile(owner)) {
         if (
           ts.isVariableDeclaration(owner) &&
-          owner.name.getText(source) === 'layoutClasses'
+          owner.name.getText(source).endsWith('Classes')
         ) {
           classObject = true;
         }

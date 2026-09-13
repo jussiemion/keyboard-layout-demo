@@ -1,0 +1,252 @@
+'use client';
+
+import {
+  helpKeysClasses,
+  helpTitleClasses,
+  helpCaptionClasses,
+  helpSymbolStripClasses,
+  helpPairClasses,
+} from '@/components/layout-classes';
+
+import { keyboardLabel } from '@/lib/keyboard-locales';
+
+import type { ReactNode } from 'react';
+import {
+  ResultSymbol,
+  ResultSequence,
+  HebrewExamples,
+} from '@/components/result-symbol';
+import { DialogHeader, DialogTitle } from '@/components/ui/dialog';
+import { useLocale } from '@/components/locale-provider';
+import { modifierNames } from '@/lib/keyboard';
+import { TranslatedText } from '@/components/translated-text';
+import { helpExamples, exampleLanguageName } from '@/lib/help-examples';
+import type { KeyboardLocale } from '@/lib/typing-engine';
+import { helpMessages } from '@/lib/help-messages';
+
+function Keys({ children }: { children: ReactNode }) {
+  return (
+    <bdi className={helpKeysClasses} dir="ltr">
+      {children}
+    </bdi>
+  );
+}
+
+export function HelpContent({
+  keyboardLocale,
+  languageConfig,
+}: {
+  keyboardLocale: KeyboardLocale;
+  languageConfig: {
+    order: readonly KeyboardLocale[];
+    slots: readonly KeyboardLocale[];
+  };
+}) {
+  const { m, platform, uiLocale } = useLocale();
+  const h = helpMessages[uiLocale];
+  const sample = helpExamples(keyboardLocale);
+  const modifiers = modifierNames(platform);
+  return (
+    <>
+      <DialogHeader>
+        <DialogTitle className={helpTitleClasses}>{h.title}</DialogTitle>
+      </DialogHeader>
+      <div className="help-sheet">
+        <section
+          className="help-card help-card-symbols"
+          aria-labelledby="help-symbols"
+        >
+          <h3 id="help-symbols">{h.symbols}</h3>
+          <dl className="help-reference help-modes">
+            {[h.hold, h.tap, h.twice].map((label, mode) => (
+              <div className="help-reference-row" key={mode}>
+                <dt>
+                  <kbd className="inline-mode" data-mode={mode}>
+                    M{mode}
+                  </kbd>{' '}
+                  <span>
+                    <TranslatedText
+                      message={label}
+                      values={{ alt: <kbd>{modifiers.alt}</kbd> }}
+                    />
+                  </span>
+                </dt>
+                <dd>
+                  <Keys>
+                    <kbd>{modifiers.alt}</kbd>
+                    {mode === 2 && (
+                      <>
+                        → <kbd>{modifiers.alt}</kbd>
+                      </>
+                    )}
+                    {mode === 0 ? ' + ' : ' → '}
+                    <kbd>{mode === 0 ? '-' : 'C'}</kbd> ={' '}
+                    <ResultSymbol>{['—', '©', '¢'][mode]}</ResultSymbol>
+                  </Keys>
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+        <section
+          className="help-card help-card-quick"
+          aria-labelledby="help-quick"
+        >
+          <h3 id="help-quick">{h.quickSymbols}</h3>
+          <p className={helpCaptionClasses}>
+            <TranslatedText
+              message={h.hold}
+              values={{ alt: <kbd>{modifiers.alt}</kbd> }}
+            />
+          </p>{' '}
+          <div className={helpSymbolStripClasses}>
+            {['-', '/', ',', '.'].map((key, index) => (
+              <Keys key={key}>
+                <kbd>{modifiers.alt}</kbd> + <kbd>{key}</kbd> ={' '}
+                <ResultSymbol>{['—', '…', '«', '»'][index]}</ResultSymbol>
+              </Keys>
+            ))}
+          </div>
+        </section>
+        <section
+          className="help-card help-card-accents"
+          aria-labelledby="help-accents"
+        >
+          <h3 id="help-accents">{h.accents}</h3>
+          {keyboardLocale === 'he' ? (
+            <p className={helpCaptionClasses}>
+              <TranslatedText
+                message={m.hebrewInputNote}
+                values={{
+                  hebrewExamples: <HebrewExamples />,
+                  altGr: <kbd>AltGr</kbd>,
+                  altKey: <kbd>{modifiers.alt}</kbd>,
+                  shiftKey: <kbd>{m.keyShift}</kbd>,
+                }}
+              />
+            </p>
+          ) : (
+            <>
+              <dl className="help-reference help-accents">
+                <div>
+                  <dt>{h.variants}</dt>
+                  <dd>
+                    <Keys>
+                      <kbd>{sample.letter}</kbd> → <kbd>{m.keyShift}</kbd> ={' '}
+                      <ResultSymbol>
+                        {sample.cycle.split(' → ')[1] ?? sample.letter}
+                      </ResultSymbol>
+                    </Keys>
+                  </dd>
+                </div>
+                <div>
+                  <dt>{h.stress}</dt>
+                  <dd>
+                    <Keys>
+                      <kbd>{modifiers.alt}</kbd> → <kbd>{modifiers.alt}</kbd> →{' '}
+                      <kbd>/</kbd> → <kbd>{sample.letter}</kbd> ={' '}
+                      <ResultSymbol>{sample.stressed}</ResultSymbol>
+                    </Keys>
+                  </dd>
+                </div>
+              </dl>
+              <p className={helpCaptionClasses}>
+                {exampleLanguageName(sample.language, uiLocale)}:{' '}
+                <Keys>
+                  <ResultSequence text={sample.cycle} />
+                </Keys>
+              </p>
+            </>
+          )}
+        </section>
+        <section
+          className="help-card help-card-languages"
+          aria-labelledby="help-languages"
+        >
+          <h3 id="help-languages">{h.languages}</h3>
+          <dl className="help-reference help-mapping">
+            <div className="help-reference-row">
+              <dt>
+                <kbd className="language-mark">S0</kbd>
+              </dt>
+              <dd className={helpPairClasses}>
+                {languageConfig.order.map((language, index) => (
+                  <span key={index}>
+                    {index > 0 && <span aria-hidden="true"> ↔ </span>}
+                    {keyboardLabel(language, uiLocale)}
+                  </span>
+                ))}
+              </dd>
+            </div>
+            {languageConfig.slots.map((language, index) => (
+              <div className="help-reference-row" key={index}>
+                <dt>
+                  <kbd className="language-mark">S{index + 1}</kbd>
+                  <Keys>
+                    <kbd className="language-mark">S0</kbd> +{' '}
+                    <kbd>{['J', 'K', 'L', ';'][index]}</kbd>
+                  </Keys>
+                </dt>
+                <dd>{keyboardLabel(language, uiLocale)}</dd>
+              </div>
+            ))}
+          </dl>
+          <p className={helpCaptionClasses}>
+            <TranslatedText
+              message={h.pairNote}
+              values={{ s0: <kbd className="language-mark">S0</kbd> }}
+            />
+          </p>
+          <p className={helpCaptionClasses}>
+            <TranslatedText
+              message={h.mappingNote}
+              values={{ s0: <kbd className="language-mark">S0</kbd> }}
+            />
+          </p>
+        </section>
+        <section
+          className="help-card help-card-actions"
+          aria-labelledby="help-actions"
+        >
+          <h3 id="help-actions">{h.actions}</h3>
+          <dl className="help-reference help-actions">
+            <div>
+              <dt>{h.search}</dt>
+              <dd>
+                <Keys>
+                  <kbd>{modifiers.control}</kbd> + <kbd>K</kbd> / <kbd>F</kbd>
+                </Keys>
+              </dd>
+            </div>
+            <div>
+              <dt>{h.cancel}</dt>
+              <dd>
+                <Keys>
+                  <kbd>Esc</kbd>
+                </Keys>
+              </dd>
+            </div>
+            <div>
+              <dt>{h.toggle}</dt>
+              <dd>
+                <TranslatedText
+                  message={h.toggleKeys}
+                  values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
+                />
+              </dd>
+            </div>
+          </dl>
+        </section>
+      </div>
+      <section className="help-footer" aria-labelledby="help-notes">
+        <h3 id="help-notes" className="hint-label">
+          {h.notes}
+        </h3>
+        <ol>
+          <li>{h.scopeInput}</li>
+          <li>{h.scopeUi}</li>
+        </ol>
+      </section>
+    </>
+  );
+}

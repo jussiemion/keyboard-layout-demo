@@ -1,0 +1,11 @@
+.result-symbol {
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, currentColor 30%, transparent);
+  color: var(--accent-ink);
+  font-weight: 400;
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+.key-detail .result-symbol {
+  font-size: 12px;
+}
