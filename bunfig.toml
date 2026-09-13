@@ -1,0 +1,3 @@
+[install]
+# Keep new direct dependencies reproducible; bun.lock pins the full graph.
+exact = true

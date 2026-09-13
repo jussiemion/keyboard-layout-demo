@@ -1,0 +1,38 @@
+@import 'tailwindcss';
+
+:root {
+  color-scheme: light dark;
+  font-family: ui-monospace, monospace;
+  color: light-dark(#222, #fafafa);
+  background: light-dark(#faf9f6, #101010);
+}
+
+body {
+  margin: 0;
+}
+main {
+  max-width: 48rem;
+  margin: 12vh auto;
+  padding: 0 1.5rem;
+}
+h1 {
+  font-size: clamp(2rem, 7vw, 3.5rem);
+  line-height: 1.15;
+  margin: 1rem 0;
+}
+p {
+  line-height: 1.6;
+  margin: 1rem 0;
+}
+a {
+  color: light-dark(#a33b00, #ffc799);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+.eyebrow {
+  color: light-dark(#666, #aaa);
+}

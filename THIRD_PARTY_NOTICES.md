@@ -13,3 +13,7 @@ The upstream distribution is free of charge. Its author's [FAQ](https://ilyabirm
 ## Additional materials
 
 Third-party code, data, fonts and icons retain their respective terms. Preserve source references and applicable license notices when including or distributing these materials.
+
+## Application dependencies
+
+The application uses React, React DOM, Vinext, Vite and Tailwind CSS, with TypeScript, Oxlint and Oxfmt for development. These packages retain their upstream copyrights and licenses. Exact direct versions are recorded in `package.json`; `bun.lock` pins the resolved dependency graph. Refer to the packages’ distributed license notices for their respective terms.
