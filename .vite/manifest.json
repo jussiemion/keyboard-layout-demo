@@ -18,19 +18,19 @@
     "file": "keyboard-layout-demo/_next/static/chunks/rolldown-runtime-hePW80VL.js",
     "name": "rolldown-runtime"
   },
-  "_vinext-oukHUf9o.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/vinext-oukHUf9o.js",
+  "_vinext-B_Gb2H7c.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/vinext-B_Gb2H7c.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js"
     ],
     "dynamicImports": [
-      "_vinext-oukHUf9o.js"
+      "_vinext-B_Gb2H7c.js"
     ]
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-D0CDz17L.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-DBfiX2Dt.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -63,28 +63,28 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-hxS1zR7t.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-DnnJoq4c.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-oukHUf9o.js"
+      "_vinext-B_Gb2H7c.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-YJP5hLVx.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-BiBcot4x.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-oukHUf9o.js"
+      "_vinext-B_Gb2H7c.js"
     ],
     "dynamicImports": [
-      "_vinext-oukHUf9o.js",
+      "_vinext-B_Gb2H7c.js",
       "components/locale-provider.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/ui/scroll-area.tsx",
