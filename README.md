@@ -17,7 +17,7 @@ Open [localhost:6699](http://127.0.0.1:6699).
 
 | Command | Purpose |
 | --- | --- |
-| `bun run test` | Run engine and input-controller tests |
+| `bun run test` | Run engine, input, localization, search and tour tests |
 | `bun run lint` | Check source code with Oxlint |
 | `bun run typecheck` | Check TypeScript types |
 | `bun run format` | Format source files with Oxfmt |
@@ -34,6 +34,10 @@ See the [engine guide](docs/typing-engine.md) for modes, data sources and valida
 ## Browser input
 
 See the [input guide](docs/browser-input.md) for language gestures, saved mappings and native-layout detection.
+
+## Localization and learning
+
+See the [localization and learning guide](docs/localization-and-learning.md) for language preferences, symbol search and tour rules.
 
 ## Contributing
 

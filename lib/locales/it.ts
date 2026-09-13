@@ -1,0 +1,150 @@
+import type { Messages } from '../messages.ts';
+
+export const it = {
+  productName: 'Layout tipografico di Semyon Yushkevich',
+  pageTitle: 'Layout tipografico di Semyon Yushkevich',
+  pageDescription: 'Simboli tipografici, segni diacritici e cambio di lingua.',
+  brandTitle: 'layout tipografico',
+  headerActions: 'Aspetto, lingua dell’interfaccia e informazioni sul progetto',
+  sourceLabel: 'Codice sorgente su GitHub',
+  sourceTooltip: 'codice sorgente',
+  helpLabel: 'Come usare il layout della tastiera',
+  helpTooltip: 'come funziona',
+  closeHelp: 'Chiudi la guida',
+  helpTitle: 'Un tasto {modifier}. Più possibilità.',
+  helpIntro: 'Il layout è già attivo. Inizia digitando un carattere.',
+  helpPrimaryTitle: 'Modalità simboli: premi {modifier}',
+  helpPrimaryBody:
+    'Poi premi un tasto: {alt} {arrow} {key} produce {symbol}. Non c’è limite di tempo tra le pressioni.',
+  helpSecondaryTitle: 'Modalità estesa: premi di nuovo {modifier}',
+  helpSecondaryBody:
+    '{alt} {alt} {arrow} {key} produce {symbol}. Puoi tenere ancora premuto {modifier} la seconda volta.',
+  helpBasicTitle: 'Modalità di base: una combinazione',
+  helpBasicBody:
+    'Tieni premuto uno dei tasti {alt} insieme a {minus}, {slash}, {comma} o {period} per digitare {symbols}.',
+  helpAccentTitle: 'Prima l’accento, poi la lettera',
+  helpAccentBody:
+    'Per aggiungere un accento, premi {alt} {alt} {slash}, poi la lettera: {letter} → {result}. Puoi accentare anche una lettera con diacritici; per esempio, in {language}: {variant}.',
+  helpLocaleNote:
+    'La lingua della tastiera cambia le etichette e la digitazione a schermo. Per la tastiera fisica, cambia lingua nel sistema. I caratteri nazionali con {modifier} dipendono dal layout scelto.',
+  helpScopeNote:
+    'Digita in qualsiasi punto della finestra: il testo o {modifier} riporta il focus nel campo. Ricerca, finestre di dialogo e navigazione funzionano normalmente. Il sistema può intercettare le scorciatoie; in tal caso usa i tasti a schermo. Esc, {cancelModifiers} e l’uscita dal campo annullano il simbolo in attesa. Shift resta un modificatore normale.',
+  inputSection: 'Prova il layout tipografico',
+  inputLabel: 'Testo per provare il layout',
+  inputPlaceholder: 'Scrivi qualcosa…',
+  resetLabel: 'Svuota il campo di testo',
+  resetTooltip: 'ricomincia',
+  keyboardTitle: 'Birman',
+  keyHint: 'Tasto {key}:',
+  capsInstantHint: 'Tasto {key}, cambio immediato della lingua:',
+  capsQuickHint: 'Tasto {key}, cambio rapido della lingua:',
+  modeLabel: 'Modalità:',
+  languageSlotHint:
+    'Seleziona {slot} — {language}: tieni premuto {caps} e premi {key}.',
+  symbolEntryHint: 'Premi {alt} per attivare la modalità simboli {mode}.',
+  extendedEntryHint:
+    'Premi {alt} due volte per attivare la modalità estesa {mode}.',
+  extendedNextHint:
+    'Premi {alt} ancora una volta per attivare la modalità estesa {mode}.',
+  basicOutputHint:
+    'In modalità di base {mode}, tieni premuto {alt} e premi {key} per digitare {symbol}.',
+  symbolOutputHint: 'In modalità simboli {mode} produce {symbol}.',
+  extendedOutputHint: 'In modalità estesa {mode} produce {symbol}.',
+  chooseMode: 'Scegli la modalità per il prossimo tasto',
+  basicMode: 'di base',
+  primaryMode: 'simboli',
+  secondaryMode: 'estesa',
+  typingModes: 'Modalità di digitazione',
+  keyboardScroll: 'Tastiera a schermo. Scorri in orizzontale se necessario.',
+  space: 'spazio',
+  nonBreakingSpace: 'spazio unificatore',
+  primarySymbol: 'modalità simboli, {modifier} una volta: {symbol}',
+  secondarySymbol: 'modalità estesa, {modifier} due volte: {symbol}',
+  emptyPrimary: 'modalità simboli non assegnata',
+  emptySecondary: 'modalità estesa non assegnata',
+  diacriticCycleHint:
+    'Premi Shift per scorrere le varianti diacritiche della lettera inserita.',
+  languageSlotsHint:
+    'Tieni premuto {caps} e premi {j} — {l1}, {k} — {l2}, {l} — {l3} o {semicolon} — {l4} per scegliere una lingua.',
+  hintLabel: 'Suggerimento:',
+  hintsLabel: 'Suggerimenti:',
+  typographyToggleHint:
+    'Premi entrambi i tasti {ctrl} insieme, poi rilasciali per disattivare o attivare il layout.',
+  typographyDisabledWarning:
+    'Attenzione: il layout è disattivato. Premi entrambi i tasti {ctrl} insieme e rilasciali per attivarlo.',
+  accentModeWarning:
+    'Attenzione: la modalità accento è attiva. Digita una vocale.',
+  keyDetailHelp:
+    'Premi {alt} per la modalità simboli. Premi {alt} due volte per la modalità estesa.',
+  resetMode: 'Premi {esc} per reimpostare la modalità.',
+  entered: 'Inserito: {symbol}',
+  themeLight: 'Chiaro',
+  themeDark: 'Scuro',
+  chooseTheme: 'Passa al tema: {theme}',
+  themeMenu: 'Tema colori',
+  themeTooltip: 'tema: {theme}',
+  interfaceLanguage: 'Lingua dell’interfaccia',
+  interfaceLanguageDescription:
+    'Scegli la lingua dell’interfaccia e la relativa mappa di tastiera di base.',
+  closeInterfaceLanguage: 'Chiudi la selezione della lingua dell’interfaccia',
+  chooseInterfaceLanguage: 'Lingua dell’interfaccia: {language}',
+  keyboardLanguage: 'Lingua della tastiera',
+  chooseKeyboardLanguage: 'Scegli la lingua della tastiera: {language}',
+  keyboardLanguageDescription: 'Per le etichette e la digitazione a schermo.',
+  closeKeyboardLanguage: 'Chiudi la selezione della lingua',
+  keyboardLanguageList: 'Lingue della tastiera',
+  findLanguage: 'Cerca una lingua…',
+  languageNotFound: 'Nessuna lingua trovata',
+  languageRu: 'Russo',
+  languageEn: 'Inglese',
+  languagePl: 'Polacco',
+  languageFr: 'Francese (Francia)',
+  languageDe: 'Tedesco (Germania)',
+  languageEs: 'Spagnolo (Spagna)',
+  languagePt: 'Portoghese (Portogallo)',
+  languageIt: 'Italiano (Italia)',
+  languageRo: 'Rumeno (Romania)',
+  languageHe: 'Ebraico (Israele)',
+  hebrewInputNote:
+    'Ebraico: tieni premuto {altKey} destro ({altGr}) per niqqud e segni nazionali: {hebrewExamples}. Usa {altKey} sinistro per gli accordi tipografici di base. Il ciclo {shiftKey} e l’accento acuto non sostituiscono la vocalizzazione ebraica.',
+  accentGrave: 'accento grave',
+  accentCircumflex: 'accento circonflesso',
+  accentBreve: 'breve',
+  accentRing: 'anello superiore',
+  accentDoubleacute: 'doppio accento acuto',
+  accentDiaeresis: 'dieresi',
+  accentCedilla: 'cediglia',
+  accentCaron: 'caron',
+  accentTilde: 'tilde',
+  accentAcute: 'accento acuto',
+  keyBackspace: 'Backspace',
+  keyTab: 'Tabulazione',
+  keyCapsLock: 'Blocco maiuscole',
+  keyEnter: 'Invio',
+  keyShift: 'Maiusc',
+  keyCtrl: 'Ctrl',
+  keyMeta: 'Super',
+  keyAlt: 'Alt',
+  keyMenu: 'Menu contestuale',
+  platform: 'Piattaforma',
+  choosePlatform: 'Scegli la piattaforma: {platform}',
+  fnKeyInfo: 'Il tasto Fn è gestito da macOS',
+  tabInputHint:
+    'Inserisce una tabulazione; nessuna funzione tipografica aggiuntiva.',
+  backspaceInputHint:
+    'Elimina la selezione o il carattere precedente; nessuna funzione tipografica aggiuntiva.',
+  enterInputHint:
+    'Inserisce un ritorno a capo; nessuna funzione tipografica aggiuntiva.',
+  standardCharacterHint:
+    'Inserisce caratteri normali; non ha funzioni tipografiche aggiuntive.',
+  unusedKeyHint:
+    'Il tasto {key} mantiene il comportamento standard e non fa parte della disposizione tipografica.',
+  shiftUsageHint:
+    'Tieni premuto {shift} per le maiuscole e i simboli superiori dei tasti. Dopo una lettera, premi e rilascia {shift} per scorrere le varianti diacritiche disponibili.',
+  altUsageHint:
+    'Il tasto principale per la digitazione tipografica: dà accesso ai simboli aggiuntivi e permette di inserire simboli rapidi tenendolo premuto.',
+  keyArrowLeft: 'Freccia sinistra',
+  keyArrowRight: 'Freccia destra',
+  keyArrowUp: 'Freccia su',
+  keyArrowDown: 'Freccia giù',
+} satisfies Messages;

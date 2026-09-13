@@ -1,3 +1,4 @@
+import { detectNativeLocale } from '../lib/i18n.ts';
 import { keyboardEventCode } from '../lib/window-typing.ts';
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
@@ -221,4 +222,12 @@ void test('independent pair and slots cover six languages and restore the last p
       );
     }
   }
+});
+
+void test('native defaults use locale preferences, including secondary non-English locales', () => {
+  assert.equal(detectNativeLocale(['fr-CA', 'en-US']), 'fr');
+  assert.equal(detectNativeLocale(['en-US', 'ro-RO']), 'ro');
+  assert.equal(detectNativeLocale(['en-US', 'en-GB']), 'en');
+  assert.equal(detectNativeLocale(['xx-ZZ']), 'en');
+  assert.equal(detectNativeLocale(['pt_BR', 'ru']), 'pt');
 });
