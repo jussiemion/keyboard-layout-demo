@@ -17,7 +17,7 @@ Open [localhost:6699](http://127.0.0.1:6699).
 
 | Command | Purpose |
 | --- | --- |
-| `bun run test` | Run typing-engine regression tests |
+| `bun run test` | Run engine and input-controller tests |
 | `bun run lint` | Check source code with Oxlint |
 | `bun run typecheck` | Check TypeScript types |
 | `bun run format` | Format source files with Oxfmt |
@@ -30,6 +30,10 @@ Stop the development server before starting the preview; both use port 6699 by d
 ## Typing engine
 
 See the [engine guide](docs/typing-engine.md) for modes, data sources and validation.
+
+## Browser input
+
+See the [input guide](docs/browser-input.md) for language gestures, saved mappings and native-layout detection.
 
 ## Contributing
 
