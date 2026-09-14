@@ -28,7 +28,7 @@ export const preferencesGuardCss =
 // markup stays visible; otherwise the typing page reveals its committed UI.
 export const preferencesBootstrap = `${themeBootstrap}\n${localeBootstrap}\n${platformBootstrap}\n(() => {
   const root = document.documentElement;
-  if (root.dataset.keyboardLocale !== '${getServerUiLocale()}' || root.dataset.uiLocale !== '${getServerUiLocale()}' || root.dataset.theme !== '${getServerResolvedTheme()}' || root.dataset.platform !== '${getServerPlatform()}') {
+  if (root.dataset.keyboardLocale !== (root.dataset.renderedLocale || '${getServerUiLocale()}') || root.dataset.uiLocale !== (root.dataset.renderedLocale || '${getServerUiLocale()}') || root.dataset.theme !== '${getServerResolvedTheme()}' || root.dataset.platform !== '${getServerPlatform()}') {
     root.dataset.preferencesPending = 'true';
   }
 })();`;

@@ -4,7 +4,7 @@ export const nl = {
   productName: 'Typografische toetsenbordindeling van Semyon Yushkevich',
   pageTitle: 'Typografische toetsenbordindeling van Semyon Yushkevich',
   pageDescription:
-    'Typografische symbolen, diakritische tekens en taalwisseling.',
+    'Typografisch toetsenbord, typeoefeningen en symbolengids in de browser. Schakel tussen de basis- en uitgebreide symboolmodus voor leestekens, valutatekens en andere speciale tekens.',
   brandTitle: 'typografische indeling',
   headerActions: 'Weergave, interfacetaal en projectinformatie',
   sourceLabel: 'Broncode op GitHub',

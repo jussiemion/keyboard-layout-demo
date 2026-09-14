@@ -4,7 +4,7 @@ export const fr = {
   productName: 'Disposition typographique de Semyon Yushkevich',
   pageTitle: 'Disposition typographique de Semyon Yushkevich',
   pageDescription:
-    'Symboles typographiques, signes diacritiques et changement de langue.',
+    'Un clavier typographique, des exercices de saisie et un guide des symboles dans le navigateur. Passez du mode de symboles de base au mode étendu pour saisir la ponctuation, les devises et d’autres caractères spéciaux.',
   brandTitle: 'disposition typographique',
   headerActions:
     'Apparence, langue de l’interface et informations sur le projet',

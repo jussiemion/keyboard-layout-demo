@@ -3,7 +3,8 @@ import type { Messages } from '../messages.ts';
 export const he = {
   productName: 'פריסת המקלדת הטיפוגרפית של Semyon Yushkevich',
   pageTitle: 'פריסת המקלדת הטיפוגרפית של Semyon Yushkevich',
-  pageDescription: 'סימנים טיפוגרפיים, סימנים דיאקריטיים והחלפת שפות.',
+  pageDescription:
+    'מקלדת טיפוגרפית, תרגול הקלדה ומדריך לסימנים בדפדפן. עברו בין מצב סמלים בסיסי למורחב כדי להקליד סימני פיסוק, מטבע ותווים מיוחדים נוספים.',
   brandTitle: 'פריסה טיפוגרפית',
   headerActions: 'מראה, שפת הממשק ומידע על המיזם',
   sourceLabel: 'קוד המקור ב־GitHub',

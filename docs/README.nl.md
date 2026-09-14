@@ -159,9 +159,9 @@ afzonderlijke interfacevertalingen.
 
 ## Zoeken en uiterlijk
 
-Het vergrootglas, <kbd>Ctrl</kbd> + <kbd>F</kbd> of <kbd>Ctrl</kbd> +
-<kbd>K</kbd> opent zoeken. Zoek een naam, teken, Unicode-code zoals `U+0024`,
-taal of land. De zoekfunctie werkt in 14 talen en verdraagt kleine typefouten.
+Het vergrootglas, <kbd>Ctrl</kbd> + <kbd>F</kbd> opent zoeken. Zoek een naam,
+teken, Unicode-code zoals `U+0024`, taal of land. De zoekfunctie werkt in 14
+talen en verdraagt kleine typefouten.
 
 Het menu biedt een licht en donker thema. Linux/Windows/macOS verandert het
 uiterlijk van het toetsenbord, niet de systeemindeling.

@@ -1,5 +1,7 @@
 'use client';
 
+import { applicationSchema } from '@/lib/seo';
+
 import {
   homeMarkClasses,
   detailKeyClasses,
@@ -18,7 +20,6 @@ import { symbolNames } from '@/lib/symbol-names';
 import {
   getInitialKeyboardLocale,
   getNativeKeyboardLocale,
-  getServerUiLocale,
   subscribeToInitialKeyboardLocale,
 } from '@/lib/i18n';
 import { capturesWindowKey, keyboardEventCode } from '@/lib/window-typing';
@@ -152,7 +153,13 @@ const inactiveKeyCodes = new Set([
   'Fn',
 ]);
 
-export default function Home() {
+export default function Home({
+  initialLocale = 'en',
+  rootPage = true,
+}: {
+  initialLocale?: import('@/lib/messages').UiLocale;
+  rootPage?: boolean;
+}) {
   const { m, t, uiLocale, theme, platform } = useLocale();
   const modifiers = modifierNames(platform);
   const modifierLabel = modifiers.alt.toLowerCase();
@@ -193,12 +200,12 @@ export default function Home() {
   const initialKeyboardLocale = useSyncExternalStore(
     subscribeToInitialKeyboardLocale,
     getInitialKeyboardLocale,
-    getServerUiLocale,
+    () => initialLocale,
   );
   const nativeLocale = useSyncExternalStore(
     subscribeToInitialKeyboardLocale,
     getNativeKeyboardLocale,
-    getServerUiLocale,
+    () => initialLocale,
   );
   const settings = useSyncExternalStore(
     subscribeToSettings,
@@ -1046,6 +1053,14 @@ export default function Home() {
 
   return (
     <TooltipProvider delay={350}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            applicationSchema(uiLocale, rootPage),
+          ).replaceAll('<', '\\u003c'),
+        }}
+      />
       <div
         className="demo-shell"
         data-tour-spotlight={tourTask?.spotlight}
@@ -1059,7 +1074,14 @@ export default function Home() {
           <nav className="header-actions" aria-label={m.headerActions}>
             <SymbolSearchPanel
               modifierLabel={modifiers.alt}
-              onOpenChange={resetState}
+              onOpenChange={() => {
+                setHelpOpen(false);
+                resetState();
+              }}
+              onHelpRequest={() => {
+                setHelpOpen(true);
+                resetState();
+              }}
             />
             <Dialog
               open={helpOpen}
@@ -1076,6 +1098,7 @@ export default function Home() {
                         <Button
                           ref={helpTrigger}
                           data-tour-target="help"
+                          aria-keyshortcuts="Control+k"
                           variant="ghost"
                           size="icon"
                           className="icon-link"

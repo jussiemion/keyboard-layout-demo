@@ -5,7 +5,8 @@ export const tr = {
     'Semyon Yushkevich tarafından geliştirilen tipografik klavye düzeni',
   pageTitle:
     'Semyon Yushkevich tarafından geliştirilen tipografik klavye düzeni',
-  pageDescription: 'Tipografik simgeler, aksan işaretleri ve dil değiştirme.',
+  pageDescription:
+    'Tarayıcıda tipografik klavye, yazma alıştırmaları ve sembol rehberi. Noktalama, para birimi işaretleri ve diğer özel karakterler için temel ve genişletilmiş sembol modları arasında geçiş yapın.',
   brandTitle: 'tipografik düzen',
   headerActions: 'Görünüm, arayüz dili ve proje bilgileri',
   sourceLabel: 'GitHub kaynak kodu',

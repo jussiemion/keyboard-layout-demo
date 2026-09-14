@@ -4,7 +4,7 @@ export const pt = {
   productName: 'Disposição tipográfica de Semyon Yushkevich',
   pageTitle: 'Disposição tipográfica de Semyon Yushkevich',
   pageDescription:
-    'Símbolos tipográficos, sinais diacríticos e mudança de idioma.',
+    'Teclado tipográfico, exercícios de escrita e guia de símbolos no navegador. Alterne entre os modos de símbolos básico e alargado para escrever pontuação, símbolos monetários e outros caracteres especiais.',
   brandTitle: 'disposição tipográfica',
   headerActions: 'Aspeto, idioma da interface e informações do projeto',
   sourceLabel: 'Código-fonte no GitHub',

@@ -1,7 +1,8 @@
 export const en = {
   productName: 'Typographic Layout by Semyon Yushkevich',
   pageTitle: 'Typographic Layout by Semyon Yushkevich',
-  pageDescription: 'Typographic symbols, diacritics and language switching.',
+  pageDescription:
+    'A typographic keyboard, typing trainer and symbol reference in your browser. Switch between basic and extended symbol modes to find punctuation, currency signs and other special characters.',
   brandTitle: 'typographic layout',
   headerActions: 'Appearance, interface language and project information',
   sourceLabel: 'Source code on GitHub',

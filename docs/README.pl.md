@@ -148,9 +148,9 @@ regionalne dzielą tłumaczenie języka bazowego; wszystkie można przypisać do
 
 ## Wyszukiwanie i wygląd
 
-Lupa, <kbd>Ctrl</kbd> + <kbd>F</kbd> lub <kbd>Ctrl</kbd> + <kbd>K</kbd>
-otwierają wyszukiwanie. Wpisz nazwę, znak, `U+0024`, język lub kraj. Drobne
-literówki są tolerowane; karta objaśnia wpisywanie i użycie.
+Lupa, <kbd>Ctrl</kbd> + <kbd>F</kbd> otwierają wyszukiwanie. Wpisz nazwę, znak,
+`U+0024`, język lub kraj. Drobne literówki są tolerowane; karta objaśnia
+wpisywanie i użycie.
 
 Menu pozwala wybrać jasny lub ciemny motyw. Linux/Windows/macOS zmienia wygląd
 klawiatury, nie układ systemowy.

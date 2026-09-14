@@ -43,6 +43,8 @@ import {
   groupSymbolSearchResults,
   symbolCategoryNames,
 } from '@/lib/symbol-search-categories';
+import { referencePath } from '@/lib/seo';
+import seoCopy from '@/lib/seo-copy.json';
 import { symbolSearchMessages } from '@/lib/symbol-search-messages';
 
 // cmdk trims values; encode symbols so the non-breaking space retains its identity.
@@ -55,9 +57,11 @@ function symbolId(symbol: string) {
 export function SymbolSearchPanel({
   modifierLabel,
   onOpenChange,
+  onHelpRequest,
 }: {
   modifierLabel: string;
   onOpenChange: () => void;
+  onHelpRequest: () => void;
 }) {
   const { uiLocale } = useLocale();
   const text = symbolSearchMessages[uiLocale];
@@ -83,7 +87,7 @@ export function SymbolSearchPanel({
   }
 
   useEffect(() => {
-    const openSearch = (event: KeyboardEvent) => {
+    const handleShortcut = (event: KeyboardEvent) => {
       if (
         !event.ctrlKey ||
         event.altKey ||
@@ -101,6 +105,14 @@ export function SymbolSearchPanel({
       // Capture before the typing demo and cmdk (which uses Ctrl+K for navigation).
       event.preventDefault();
       event.stopPropagation();
+      if (
+        event.code === 'KeyK' ||
+        (!event.code && event.key.toLowerCase() === 'k')
+      ) {
+        setOpen(false);
+        onHelpRequest();
+        return;
+      }
       if (open) {
         setMobileDetails(false);
         requestAnimationFrame(() =>
@@ -113,10 +125,13 @@ export function SymbolSearchPanel({
       setMobileDetails(false);
       setOpen(true);
       onOpenChange();
+      requestAnimationFrame(() =>
+        searchInput.current?.focus({ preventScroll: true }),
+      );
     };
-    window.addEventListener('keydown', openSearch, true);
-    return () => window.removeEventListener('keydown', openSearch, true);
-  }, [open, onOpenChange]);
+    window.addEventListener('keydown', handleShortcut, true);
+    return () => window.removeEventListener('keydown', handleShortcut, true);
+  }, [open, onOpenChange, onHelpRequest]);
 
   const results = useMemo(
     () => searchSymbolItems(query, uiLocale),
@@ -170,7 +185,7 @@ export function SymbolSearchPanel({
             render={
               <DialogTrigger
                 aria-label={text.trigger}
-                aria-keyshortcuts="Control+f Control+k"
+                aria-keyshortcuts="Control+f"
                 render={
                   <Button
                     variant="ghost"
@@ -436,8 +451,13 @@ export function SymbolSearchPanel({
                 )}
               </aside>
             </div>
-            <footer className="symbol-search-footer">
-              <span>{text.title}</span>
+            <footer className="symbol-search-footer flex-wrap">
+              <a
+                href={referencePath(uiLocale)}
+                className="text-primary underline underline-offset-4"
+              >
+                {seoCopy[uiLocale].referenceTitle}
+              </a>
               <span>
                 <kbd>↑</kbd> <kbd>↓</kbd> {text.navigate}
                 <span className={symbolSearchFooterSeparatorClasses}>·</span>

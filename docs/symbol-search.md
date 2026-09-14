@@ -10,10 +10,9 @@
 
 [Overview](../README.md) · [Browser behavior](browser-adapter.md)
 
-Open the magnifier, <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> +
-<kbd>K</kbd>. Search a character, name, `U+0024`, language or country. Matching
-covers all **14 languages**, independently of the interface. Queries stay in the
-browser.
+Open the magnifier, <kbd>Ctrl</kbd> + <kbd>F</kbd>. Search a character, name,
+`U+0024`, language or country. Matching covers all **14 languages**,
+independently of the interface. Queries stay in the browser.
 
 Results explain how to type the symbol and where it is used. On desktop, details
 appear beside the list; on mobile, the back button restores the query and list

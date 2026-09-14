@@ -148,9 +148,9 @@ documentația limbii de bază.
 
 ## Căutare și aspect
 
-Lupa din antet, <kbd>Ctrl</kbd> + <kbd>F</kbd> sau <kbd>Ctrl</kbd> +
-<kbd>K</kbd> deschid căutarea locală. Caută după nume, caracter, cod precum
-`U+0024`, limbă sau țară. Sunt tolerate mici greșeli de scriere.
+Lupa din antet, <kbd>Ctrl</kbd> + <kbd>F</kbd> deschid căutarea locală. Caută
+după nume, caracter, cod precum `U+0024`, limbă sau țară. Sunt tolerate mici
+greșeli de scriere.
 
 Meniul oferă teme luminoasă și întunecată. Linux/Windows/macOS schimbă aspectul
 tastaturii, nu dispunerea sistemului.

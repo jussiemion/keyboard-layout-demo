@@ -1,7 +1,5 @@
 'use client';
 
-import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
-
 import {
   helpKeysClasses,
   helpTitleClasses,
@@ -216,7 +214,7 @@ export function HelpContent({
               <dt>{h.search}</dt>
               <dd>
                 <Keys>
-                  <kbd>{modifiers.control}</kbd> + <kbd>K</kbd> / <kbd>F</kbd>
+                  <kbd>{modifiers.control}</kbd> + <kbd>F</kbd>
                 </Keys>
               </dd>
             </div>
@@ -225,6 +223,14 @@ export function HelpContent({
               <dd>
                 <Keys>
                   <kbd>Esc</kbd>
+                </Keys>
+              </dd>
+            </div>
+            <div>
+              <dt>{h.title}</dt>
+              <dd>
+                <Keys>
+                  <kbd>{modifiers.control}</kbd> + <kbd>K</kbd>
                 </Keys>
               </dd>
             </div>
@@ -248,7 +254,6 @@ export function HelpContent({
           <li>{h.scopeInput}</li>
           <li>{h.scopeUi}</li>
         </ol>
-        <ExperimentalLanguageWarning />
       </section>
     </>
   );

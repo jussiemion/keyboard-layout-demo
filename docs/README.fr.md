@@ -149,10 +149,9 @@ occuper **`S0`–`S4`**.
 
 ## Recherche et apparence
 
-La loupe, <kbd>Ctrl</kbd> + <kbd>F</kbd> ou <kbd>Ctrl</kbd> + <kbd>K</kbd>
-ouvrent la recherche. Saisissez un nom, un symbole, `U+0024`, une langue ou un
-pays. Les petites fautes sont tolérées ; chaque fiche explique la saisie et
-l’usage.
+La loupe, <kbd>Ctrl</kbd> + <kbd>F</kbd> ouvrent la recherche. Saisissez un nom,
+un symbole, `U+0024`, une langue ou un pays. Les petites fautes sont tolérées ;
+chaque fiche explique la saisie et l’usage.
 
 Le menu propose les thèmes clair et sombre. Linux/Windows/macOS change
 l’apparence du clavier, pas la disposition du système.

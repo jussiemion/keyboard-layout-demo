@@ -3,7 +3,8 @@ import type { Messages } from '../messages.ts';
 export const ro = {
   productName: 'Aranjament tipografic de Semyon Yushkevich',
   pageTitle: 'Aranjament tipografic de Semyon Yushkevich',
-  pageDescription: 'Simboluri tipografice, diacritice și schimbarea limbii.',
+  pageDescription:
+    'Tastatură tipografică, exerciții de tastare și ghid de simboluri în browser. Comută între modul de simboluri de bază și cel extins pentru punctuație, simboluri monetare și alte caractere speciale.',
   brandTitle: 'dispunere tipografică',
   headerActions: 'Aspect, limba interfeței și informații despre proiect',
   sourceLabel: 'Cod sursă pe GitHub',

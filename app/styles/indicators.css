@@ -36,6 +36,7 @@
   .help-sheet kbd,
   .tour-panel kbd,
   .symbol-search-dialog kbd,
+  .typography-reference kbd,
   .mode-indicator span,
   .mode-key-label
 ).inline-mode {
@@ -57,6 +58,7 @@
     .help-sheet kbd,
     .tour-panel kbd,
     .symbol-search-dialog kbd,
+    .typography-reference kbd,
     .mode-indicator span,
     .mode-key-label
   ).inline-mode[data-mode='1'] {
@@ -70,6 +72,7 @@
     .help-sheet kbd,
     .tour-panel kbd,
     .symbol-search-dialog kbd,
+    .typography-reference kbd,
     .mode-indicator span,
     .mode-key-label
   ).inline-mode[data-mode='2'] {

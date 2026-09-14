@@ -3,7 +3,8 @@ import type { Messages } from '../messages.ts';
 export const de = {
   productName: 'Typografische Tastaturbelegung von Semyon Yushkevich',
   pageTitle: 'Typografische Tastaturbelegung von Semyon Yushkevich',
-  pageDescription: 'Typografische Zeichen, Diakritika und Sprachwechsel.',
+  pageDescription:
+    'Typografische Tastatur, Tippübungen und Zeichenreferenz im Browser. Wechsle zwischen dem einfachen und erweiterten Symbolmodus für Satzzeichen, Währungszeichen und weitere Sonderzeichen.',
   brandTitle: 'typografische Tastaturbelegung',
   headerActions: 'Darstellung, Oberflächensprache und Projektinformationen',
   sourceLabel: 'Quellcode auf GitHub',

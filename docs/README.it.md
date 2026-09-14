@@ -155,10 +155,9 @@ documentazione della propria lingua.
 
 ## Ricerca e aspetto
 
-La lente, <kbd>Ctrl</kbd> + <kbd>F</kbd> o <kbd>Ctrl</kbd> + <kbd>K</kbd> aprono
-la ricerca locale. Cerca per nome, carattere, codice come `U+0024`, lingua o
-paese. La ricerca copre tutte e quattordici le lingue e tollera piccoli errori
-di battitura.
+La lente, <kbd>Ctrl</kbd> + <kbd>F</kbd> aprono la ricerca locale. Cerca per
+nome, carattere, codice come `U+0024`, lingua o paese. La ricerca copre tutte e
+quattordici le lingue e tollera piccoli errori di battitura.
 
 Il menu offre temi chiaro e scuro. Linux/Windows/macOS cambia l’aspetto della
 tastiera, non il layout di sistema.

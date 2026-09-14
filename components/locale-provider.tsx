@@ -7,11 +7,7 @@ import {
   useSyncExternalStore,
   type ReactNode,
 } from 'react';
-import {
-  getServerUiLocale,
-  getUiLocale,
-  subscribeToUiLocale,
-} from '@/lib/i18n';
+import { getUiLocale, subscribeToUiLocale } from '@/lib/i18n';
 import {
   getResolvedTheme,
   getServerResolvedTheme,
@@ -41,11 +37,17 @@ type LocaleContextValue = {
 };
 const LocaleContext = createContext<LocaleContextValue | null>(null);
 
-export function LocaleProvider({ children }: { children: ReactNode }) {
+export function LocaleProvider({
+  children,
+  initialLocale = 'en',
+}: {
+  children: ReactNode;
+  initialLocale?: UiLocale;
+}) {
   const uiLocale = useSyncExternalStore(
     subscribeToUiLocale,
     getUiLocale,
-    getServerUiLocale,
+    () => initialLocale,
   );
   const theme = useSyncExternalStore(
     subscribeToTheme,

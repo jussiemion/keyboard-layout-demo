@@ -149,9 +149,9 @@ Optionen teilen die Übersetzung ihrer Sprache; alle passen in **`S0`–`S4`**.
 
 ## Suche und Darstellung
 
-Lupe, <kbd>Ctrl</kbd> + <kbd>F</kbd> oder <kbd>Ctrl</kbd> + <kbd>K</kbd> öffnen
-die Suche. Suche nach Name, Zeichen, `U+0024`, Sprache oder Land. Kleine
-Tippfehler werden toleriert; Ergebnisse erklären Eingabe und Verwendung.
+Lupe, <kbd>Ctrl</kbd> + <kbd>F</kbd> öffnen die Suche. Suche nach Name, Zeichen,
+`U+0024`, Sprache oder Land. Kleine Tippfehler werden toleriert; Ergebnisse
+erklären Eingabe und Verwendung.
 
 Das Menü bietet ein helles und dunkles Thema. Linux/Windows/macOS verändert die
 Tastaturdarstellung, nicht die Systembelegung.

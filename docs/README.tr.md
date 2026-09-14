@@ -153,9 +153,9 @@ seçenekleridir; ayrı arayüz çevirileri değildir.
 
 ## Arama ve görünüm
 
-Büyüteç, <kbd>Ctrl</kbd> + <kbd>F</kbd> veya <kbd>Ctrl</kbd> + <kbd>K</kbd>
-simge aramasını açar. Ad, simge, `U+0024` gibi Unicode kodu, dil veya ülke
-arayın. Arama 14 dilde çalışır ve küçük yazım hatalarını tolere eder.
+Büyüteç, <kbd>Ctrl</kbd> + <kbd>F</kbd> simge aramasını açar. Ad, simge,
+`U+0024` gibi Unicode kodu, dil veya ülke arayın. Arama 14 dilde çalışır ve
+küçük yazım hatalarını tolere eder.
 
 Menüden açık veya koyu tema seçilir. Linux/Windows/macOS klavyenin görünümünü
 değiştirir; sistem düzenini değiştirmez.

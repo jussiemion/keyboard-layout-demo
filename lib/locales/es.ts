@@ -4,7 +4,7 @@ export const es = {
   productName: 'Distribución tipográfica de Semyon Yushkevich',
   pageTitle: 'Distribución tipográfica de Semyon Yushkevich',
   pageDescription:
-    'Símbolos tipográficos, signos diacríticos y cambio de idioma.',
+    'Teclado tipográfico, práctica de escritura y guía de símbolos en el navegador. Alterna entre los modos de símbolos básico y ampliado para escribir puntuación, signos monetarios y otros caracteres especiales.',
   brandTitle: 'distribución tipográfica',
   headerActions: 'Apariencia, idioma de la interfaz e información del proyecto',
   sourceLabel: 'Código fuente en GitHub',

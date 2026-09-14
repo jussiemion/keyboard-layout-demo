@@ -267,7 +267,7 @@ export function GuidedTour({
     minus: <kbd>−</kbd>,
     searchChord: (
       <span className={tourKeySequenceClasses}>
-        <kbd>Ctrl</kbd> + <kbd>K</kbd>
+        <kbd>Ctrl</kbd> + <kbd>F</kbd>
       </span>
     ),
     copyright: <ResultSymbol>©</ResultSymbol>,

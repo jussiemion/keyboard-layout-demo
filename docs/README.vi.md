@@ -153,9 +153,9 @@ dịch giao diện riêng.
 
 ## Tìm kiếm và giao diện
 
-Kính lúp, <kbd>Ctrl</kbd> + <kbd>F</kbd> hoặc <kbd>Ctrl</kbd> + <kbd>K</kbd> mở
-tìm kiếm ký hiệu. Tìm theo tên, ký tự, mã như `U+0024`, ngôn ngữ hoặc quốc gia.
-Tìm kiếm hoạt động với 14 ngôn ngữ và chấp nhận lỗi gõ nhỏ.
+Kính lúp, <kbd>Ctrl</kbd> + <kbd>F</kbd> mở tìm kiếm ký hiệu. Tìm theo tên, ký
+tự, mã như `U+0024`, ngôn ngữ hoặc quốc gia. Tìm kiếm hoạt động với 14 ngôn ngữ
+và chấp nhận lỗi gõ nhỏ.
 
 Menu có giao diện sáng và tối. Linux/Windows/macOS thay đổi hình dạng bàn phím,
 không đổi bố cục hệ điều hành.

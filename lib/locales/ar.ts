@@ -3,7 +3,8 @@ import type { Messages } from '../messages.ts';
 export const ar = {
   productName: 'تخطيط لوحة المفاتيح الطباعي من Semyon Yushkevich',
   pageTitle: 'تخطيط لوحة المفاتيح الطباعي من Semyon Yushkevich',
-  pageDescription: 'رموز طباعية وعلامات إضافية وتبديل اللغات.',
+  pageDescription:
+    'لوحة مفاتيح طباعية وتدريب على الكتابة ودليل للرموز في المتصفح. تنقّل بين وضع الرموز الأساسي والموسّع لكتابة علامات الترقيم والعملات والرموز الخاصة الأخرى.',
   brandTitle: 'تخطيط طباعي',
   headerActions: 'المظهر ولغة الواجهة ومعلومات المشروع',
   sourceLabel: 'الكود المصدري على GitHub',

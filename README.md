@@ -186,9 +186,10 @@ direct slots.
 
 ## Find and customize
 
-- **Search:** the magnifier, <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> +
-  <kbd>K</kbd>. Enter a name, symbol, `U+0024`, language or country. Small typos
-  are tolerated; results explain usage and input.
+- **Search:** the magnifier, <kbd>Ctrl</kbd> + <kbd>F</kbd>. Enter a name,
+  symbol, `U+0024`, language or country. Small typos are tolerated; results
+  explain usage and input.
+- **Cheat sheet:** the book icon or <kbd>Ctrl</kbd> + <kbd>K</kbd>.
 - **Appearance:** light/dark themes in the menu; Linux, Windows and macOS
   keyboard views above the keys.
 - **Privacy:** the app does not save or transmit practice text or searches.

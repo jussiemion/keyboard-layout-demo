@@ -4,7 +4,7 @@ export const pl = {
   productName: 'Typograficzny układ klawiatury Szymona Juszkiewicza',
   pageTitle: 'Typograficzny układ klawiatury Szymona Juszkiewicza',
   pageDescription:
-    'Symbole typograficzne, znaki diakrytyczne i przełączanie języków.',
+    'Klawiatura typograficzna, ćwiczenia pisania i przewodnik po symbolach w przeglądarce. Przełączaj podstawowy i rozszerzony tryb symboli, aby wpisywać interpunkcję, znaki walut i inne znaki specjalne.',
   brandTitle: 'układ typograficzny',
   headerActions: 'Wygląd, język interfejsu i informacje o projekcie',
   sourceLabel: 'Kod źródłowy na GitHubie',

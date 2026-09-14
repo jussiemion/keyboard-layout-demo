@@ -3,7 +3,8 @@ import type { Messages } from '../messages.ts';
 export const it = {
   productName: 'Layout tipografico di Semyon Yushkevich',
   pageTitle: 'Layout tipografico di Semyon Yushkevich',
-  pageDescription: 'Simboli tipografici, segni diacritici e cambio di lingua.',
+  pageDescription:
+    'Tastiera tipografica, esercizi di digitazione e guida ai simboli nel browser. Passa dalla modalità simboli di base a quella estesa per inserire punteggiatura, simboli di valuta e altri caratteri speciali.',
   brandTitle: 'layout tipografico',
   headerActions: 'Aspetto, lingua dell’interfaccia e informazioni sul progetto',
   sourceLabel: 'Codice sorgente su GitHub',

@@ -10,6 +10,7 @@ import {
 import { useRef, useState, type RefObject } from 'react';
 import {
   Menu,
+  BookOpen,
   Languages,
   Sun,
   Moon,
@@ -37,6 +38,8 @@ import { useLocale } from '@/components/locale-provider';
 import { type UiLocale, nativeLanguageNames } from '@/lib/messages';
 import { headerMenuMessages } from '@/lib/header-menu-messages';
 import { tourMessages } from '@/lib/tour-messages';
+import { referencePath } from '@/lib/seo';
+import seoCopy from '@/lib/seo-copy.json';
 import { setThemePreference } from '@/lib/theme';
 
 export function HeaderMenu({
@@ -157,6 +160,18 @@ export function HeaderMenu({
           >
             <GraduationCap aria-hidden="true" />
             <span>{tourMessages[uiLocale].menu}</span>
+          </DropdownMenuItem>
+          <DropdownMenuItem
+            className="header-menu-item"
+            render={
+              <a
+                href={referencePath(uiLocale)}
+                aria-label={seoCopy[uiLocale].referenceTitle}
+              />
+            }
+          >
+            <BookOpen aria-hidden="true" />
+            <span>{seoCopy[uiLocale].referenceTitle}</span>
           </DropdownMenuItem>
           <DropdownMenuSeparator />
           <DropdownMenuItem

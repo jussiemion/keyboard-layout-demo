@@ -2,21 +2,34 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { LocaleProvider } from '@/components/locale-provider';
-import { buildBrandFavicon, themeBrandAccent } from '@/components/brand-mark';
 import { preferencesBootstrap, preferencesGuardCss } from '@/lib/preferences';
-import { messages } from '@/lib/messages';
+import { parseUiLocale } from '@/lib/i18n';
+import { pageMetadata, SITE_URL } from '@/lib/seo';
 import fontManifest from '@/public/fonts/fonts.json';
 
-export const metadata: Metadata = {
-  title: messages.en.pageTitle,
-  description: messages.en.pageDescription,
-  icons: { icon: buildBrandFavicon(themeBrandAccent('vesper_light')) },
-};
-export default function RootLayout({
-  children,
-}: Readonly<{ children: React.ReactNode }>) {
+type LayoutProps = Readonly<{
+  children: React.ReactNode;
+  params: Promise<{ lang?: string }>;
+}>;
+export async function generateMetadata({
+  params,
+}: LayoutProps): Promise<Metadata> {
+  const locale = parseUiLocale((await params).lang);
+  return {
+    ...pageMetadata(locale ?? 'en', !locale),
+    icons: { icon: { url: `${SITE_URL}logo.svg`, type: 'image/svg+xml' } },
+  };
+}
+export default async function RootLayout({ children, params }: LayoutProps) {
+  const locale = parseUiLocale((await params).lang);
+  const initialLocale = locale ?? 'en';
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html
+      lang={initialLocale}
+      dir={initialLocale === 'ar' || initialLocale === 'he' ? 'rtl' : 'ltr'}
+      data-rendered-locale={initialLocale}
+      suppressHydrationWarning
+    >
       <head>
         {fontManifest.fonts.map((font) => (
           <link
@@ -32,7 +45,7 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: preferencesBootstrap }} />
       </head>
       <body>
-        <LocaleProvider>
+        <LocaleProvider initialLocale={initialLocale}>
           <ScrollArea className="document-scroll-area">{children}</ScrollArea>
         </LocaleProvider>
       </body>

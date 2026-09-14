@@ -3,12 +3,33 @@ import {
   type KeyboardLocale,
 } from './keyboard-locales.ts';
 import { messages, UI_LOCALES, type UiLocale } from './messages.ts';
+import {
+  localePath,
+  localeUrl,
+  referenceUrl,
+  referenceMetadata,
+} from './seo.ts';
 
 export const UI_LOCALE_STORAGE_KEY = 'keyboard-layout-demo.ui-locale';
 const UI_LOCALE_CHANGE_EVENT = 'keyboard-layout-demo:ui-locale-change';
 
 export function parseUiLocale(value: unknown): UiLocale | null {
   return UI_LOCALES.includes(value as UiLocale) ? (value as UiLocale) : null;
+}
+
+export function localeFromPath(pathname: string): UiLocale | null {
+  return parseUiLocale(
+    pathname
+      .split('/')
+      .filter(Boolean)
+      .findLast((part) => parseUiLocale(part) !== null),
+  );
+}
+
+function routeLocale(): UiLocale | null {
+  return typeof window !== 'undefined' && window.location
+    ? localeFromPath(window.location.pathname)
+    : null;
 }
 
 export function detectUiLocale(languages: readonly string[]): UiLocale {
@@ -76,6 +97,7 @@ function getPreference(): UiLocale | null {
 
 export function getUiLocale(): UiLocale {
   return (
+    routeLocale() ??
     parseUiLocale(document.documentElement.dataset.uiLocale) ??
     getPreference() ??
     detectUiLocale(browserLanguages())
@@ -87,22 +109,62 @@ export function getServerUiLocale(): UiLocale {
 }
 
 function applyLocale(preference: UiLocale | null) {
-  const locale = preference ?? detectUiLocale(browserLanguages());
+  const locale =
+    routeLocale() ?? preference ?? detectUiLocale(browserLanguages());
   const root = document.documentElement;
   root.dataset.uiLocalePreference = preference ?? 'auto';
   root.dataset.uiLocale = locale;
   root.lang = locale;
   root.dir = ['he', 'ar'].includes(locale) ? 'rtl' : 'ltr';
-  document.title = messages[locale].pageTitle;
+  const meta =
+    typeof window !== 'undefined' &&
+    window.location?.pathname.includes('/reference')
+      ? referenceMetadata(locale)
+      : {
+          title: messages[locale].pageTitle,
+          description: messages[locale].pageDescription,
+        };
+  document.title = meta.title;
   document
     .querySelector('meta[name="description"]')
-    ?.setAttribute('content', messages[locale].pageDescription);
+    ?.setAttribute('content', meta.description);
+  if (typeof window !== 'undefined' && window.location) {
+    document
+      .querySelector('link[rel="canonical"]')
+      ?.setAttribute(
+        'href',
+        window.location.pathname.includes('/reference')
+          ? referenceUrl(locale)
+          : localeUrl(routeLocale() ?? undefined),
+      );
+    document
+      .querySelector('meta[property="og:title"]')
+      ?.setAttribute('content', meta.title);
+    document
+      .querySelector('meta[property="og:description"]')
+      ?.setAttribute('content', meta.description);
+    document
+      .querySelector('meta[property="og:url"]')
+      ?.setAttribute(
+        'content',
+        window.location.pathname.includes('/reference')
+          ? referenceUrl(locale)
+          : localeUrl(routeLocale() ?? undefined),
+      );
+  }
 }
 
 export function setUiLocale(value: string) {
   const locale = parseUiLocale(value);
   if (!locale) {
     return;
+  }
+  if (window.location && window.history) {
+    window.history.replaceState(
+      window.history.state,
+      '',
+      `${localePath(locale)}${window.location.search}${window.location.hash}`,
+    );
   }
   applyLocale(locale);
   try {
@@ -142,6 +204,8 @@ const metadata = Object.fromEntries(
     {
       title: messages[locale].pageTitle,
       description: messages[locale].pageDescription,
+      referenceTitle: referenceMetadata(locale).title,
+      referenceDescription: referenceMetadata(locale).description,
     },
   ]),
 );
@@ -156,14 +220,17 @@ export const localeBootstrap = `(() => {
   } catch {}
   const languages = navigator.languages?.length ? navigator.languages : [navigator.language];
   const detected = languages.map(language => language.toLowerCase().split(/[-_]/)[0].replace(/^iw$/, 'he')).find(language => supported.includes(language)) || 'en';
-  const locale = preference || detected;
+  const route = window.location?.pathname.split('/').filter(Boolean).findLast(part => supported.includes(part));
+  const explicit = supported.includes(route) ? route : null;
+  const locale = explicit || preference || detected;
   const root = document.documentElement;
-  root.dataset.keyboardLocale = detected;
+  root.dataset.keyboardLocale = explicit || detected;
   root.dataset.uiLocalePreference = preference || 'auto';
   root.dataset.uiLocale = locale;
   root.lang = locale;
   root.dir = ['he', 'ar'].includes(locale) ? 'rtl' : 'ltr';
   const metadata = ${JSON.stringify(metadata)};
-  document.title = metadata[locale].title;
-  document.querySelector('meta[name="description"]')?.setAttribute('content', metadata[locale].description);
+  const reference = window.location?.pathname.includes('/reference');
+  document.title = reference ? metadata[locale].referenceTitle : metadata[locale].title;
+  document.querySelector('meta[name="description"]')?.setAttribute('content', reference ? metadata[locale].referenceDescription : metadata[locale].description);
 })();`;

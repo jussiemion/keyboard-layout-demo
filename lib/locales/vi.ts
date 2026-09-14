@@ -3,7 +3,8 @@ import type { Messages } from '../messages.ts';
 export const vi = {
   productName: 'Bố cục bàn phím kiểu chữ của Semyon Yushkevich',
   pageTitle: 'Bố cục bàn phím kiểu chữ của Semyon Yushkevich',
-  pageDescription: 'Ký hiệu kiểu chữ, dấu phụ và chuyển ngôn ngữ.',
+  pageDescription:
+    'Bàn phím ký hiệu, luyện gõ và tài liệu tra cứu ngay trong trình duyệt. Chuyển giữa chế độ ký hiệu cơ bản và mở rộng để nhập dấu câu, ký hiệu tiền tệ và các ký tự đặc biệt khác.',
   brandTitle: 'bố cục kiểu chữ',
   headerActions: 'Giao diện, ngôn ngữ và thông tin dự án',
   sourceLabel: 'Mã nguồn trên GitHub',

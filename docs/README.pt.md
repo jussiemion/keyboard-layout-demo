@@ -153,9 +153,9 @@ documentação do seu idioma.
 
 ## Pesquisa e aparência
 
-A lupa, <kbd>Ctrl</kbd> + <kbd>F</kbd> ou <kbd>Ctrl</kbd> + <kbd>K</kbd> abrem a
-pesquisa local. Procure por nome, carácter, código como `U+0024`, idioma ou
-país. A pesquisa abrange os catorze idiomas e tolera pequenos erros de escrita.
+A lupa, <kbd>Ctrl</kbd> + <kbd>F</kbd> abrem a pesquisa local. Procure por nome,
+carácter, código como `U+0024`, idioma ou país. A pesquisa abrange os catorze
+idiomas e tolera pequenos erros de escrita.
 
 O menu oferece temas claro e escuro. Linux/Windows/macOS muda o aspeto do
 teclado, não a disposição do sistema.
