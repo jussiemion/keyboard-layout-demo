@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jussiemion.github.io/keyboard-layout-demo/sitemap.xml
