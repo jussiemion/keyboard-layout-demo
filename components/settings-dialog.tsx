@@ -1,5 +1,7 @@
 'use client';
 
+import { languageComparator } from '@/lib/language-priority';
+
 import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
 
 import {
@@ -52,9 +54,12 @@ export function SettingsDialog({
   const [sessionOnly, setSessionOnly] = useState(false);
   const firstSelect = useRef<HTMLSelectElement>(null);
   const mapping = draft.languageMapping ?? defaultLanguageMapping(nativeLocale);
-  const collator = new Intl.Collator(uiLocale);
-  const options = KEYBOARD_LOCALES.toSorted((a, b) =>
-    collator.compare(keyboardLabel(a, uiLocale), keyboardLabel(b, uiLocale)),
+  const options = KEYBOARD_LOCALES.toSorted(
+    languageComparator(
+      uiLocale,
+      [...mapping.order, ...mapping.slots],
+      (locale) => keyboardLabel(locale, uiLocale),
+    ),
   );
 
   function changeLanguage(

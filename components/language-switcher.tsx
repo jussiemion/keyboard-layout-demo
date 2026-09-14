@@ -1,5 +1,7 @@
 'use client';
 
+import { languageComparator } from '@/lib/language-priority';
+
 import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
 
 import {
@@ -49,6 +51,7 @@ const languages = KEYBOARD_LOCALES.map((value) => ({
 }));
 
 type LanguageSwitcherProps = {
+  languagePriority: readonly KeyboardLocale[];
   value: KeyboardLocale;
   onValueChange: (value: KeyboardLocale) => void;
   onOpenChange: (open: boolean) => void;
@@ -56,18 +59,18 @@ type LanguageSwitcherProps = {
 };
 
 export function LanguageSwitcher({
+  languagePriority,
   value,
   onValueChange,
   onOpenChange,
   inputRef,
 }: LanguageSwitcherProps) {
   const { m, t, uiLocale } = useLocale();
-  const collator = new Intl.Collator(uiLocale, { sensitivity: 'base' });
+  const compare = languageComparator(uiLocale, languagePriority, (locale) =>
+    keyboardLabel(locale, uiLocale),
+  );
   const sortedLanguages = languages.toSorted((a, b) =>
-    collator.compare(
-      keyboardLabel(a.value, uiLocale),
-      keyboardLabel(b.value, uiLocale),
-    ),
+    compare(a.value, b.value),
   );
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');

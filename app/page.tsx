@@ -1113,6 +1113,10 @@ export default function Home() {
               </DialogContent>
             </Dialog>
             <HeaderMenu
+              languagePriority={[
+                ...languageConfig.order,
+                ...languageConfig.slots,
+              ]}
               onUiLocaleChange={selectKeyboardLanguage}
               onTourOpen={startTour}
               tourActive={tourOpen}
@@ -1280,6 +1284,10 @@ export default function Home() {
                 </h2>
                 <PlatformSwitcher onOpenChange={resetState} inputRef={input} />
                 <LanguageSwitcher
+                  languagePriority={[
+                    ...languageConfig.order,
+                    ...languageConfig.slots,
+                  ]}
                   value={locale}
                   onValueChange={(next) => {
                     selectKeyboardLanguage(next);

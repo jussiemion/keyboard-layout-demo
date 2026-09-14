@@ -1,5 +1,7 @@
 'use client';
 
+import type { KeyboardLocale } from '@/lib/keyboard-locales';
+
 import {
   headerMenuClasses,
   headerMenuValueClasses,
@@ -38,6 +40,7 @@ import { tourMessages } from '@/lib/tour-messages';
 import { setThemePreference } from '@/lib/theme';
 
 export function HeaderMenu({
+  languagePriority,
   onUiLocaleChange,
   inputRef,
   triggerRef,
@@ -46,6 +49,7 @@ export function HeaderMenu({
   onTourOpen,
   tourActive,
 }: {
+  languagePriority: readonly KeyboardLocale[];
   onUiLocaleChange: (locale: UiLocale) => void;
   inputRef: RefObject<HTMLInputElement | null>;
   triggerRef: RefObject<HTMLButtonElement | null>;
@@ -176,6 +180,7 @@ export function HeaderMenu({
         </DropdownMenuContent>
       </DropdownMenu>
       <InterfaceLanguageSwitcher
+        languagePriority={languagePriority}
         onValueChange={onUiLocaleChange}
         key={languageSession}
         open={languageOpen}

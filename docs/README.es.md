@@ -11,19 +11,19 @@ pulsar las teclas en pantalla.
 <strong>Otros idiomas</strong>
 
 <a href="../README.md"><span dir="auto">English</span></a> ·
-<a href="README.pl.md"><span dir="auto">Polski</span></a> ·
 <a href="README.ru.md"><span dir="auto">Русский</span></a> ·
-<a href="README.fr.md"><span dir="auto">Français</span></a> ·
-<a href="README.de.md"><span dir="auto">Deutsch</span></a> ·
-<a href="README.es.md"><span dir="auto">Español</span></a> ·
+<a href="README.pl.md"><span dir="auto">Polski</span></a> ·
 <a href="README.pt.md"><span dir="auto">Português</span></a> ·
+<a href="README.es.md"><span dir="auto">Español</span></a> ·
+<a href="README.de.md"><span dir="auto">Deutsch</span></a> ·
+<a href="README.fr.md"><span dir="auto">Français</span></a> ·
 <a href="README.it.md"><span dir="auto">Italiano</span></a> ·
+<a href="README.nl.md"><span dir="auto">Nederlands</span></a> ·
 <a href="README.ro.md"><span dir="auto">Română</span></a> ·
-<a href="README.he.md"><span dir="auto">עברית</span></a> ·
 <a href="README.ar.md"><span dir="auto">العربية</span></a> ·
+<a href="README.he.md"><span dir="auto">עברית</span></a> ·
 <a href="README.tr.md"><span dir="auto">Türkçe</span></a> ·
-<a href="README.vi.md"><span dir="auto">Tiếng Việt</span></a> ·
-<a href="README.nl.md"><span dir="auto">Nederlands</span></a>
+<a href="README.vi.md"><span dir="auto">Tiếng Việt</span></a>
 
 </div>
 
@@ -121,29 +121,29 @@ documentación de su idioma.
 <div dir="ltr" align="left">
 
 - `en`
+- `ru`
+- `pl`
+- `pt`
+- `es`
+- `de`
+- `de-CH`
 - `en-AU`
 - `en-NG`
 - `en-NZ`
 - `en-SG`
 - `en-US`
 - `en-ZW`
-- `ru`
-- `pl`
+- `es-MX`
 - `fr`
 - `fr-CA`
-- `de`
-- `de-CH`
-- `es`
-- `es-MX`
-- `pt`
-- `pt-BR`
 - `it`
+- `nl`
+- `pt-BR`
 - `ro`
-- `he`
 - `ar`
+- `he`
 - `tr`
 - `vi`
-- `nl`
 
 </div>
 

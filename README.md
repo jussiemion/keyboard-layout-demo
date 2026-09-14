@@ -36,19 +36,19 @@ you already use.
 <h2>Read in another language</h2>
 
 <a href="README.md"><span dir="auto">English</span></a> ·
-<a href="docs/README.pl.md"><span dir="auto">Polski</span></a> ·
 <a href="docs/README.ru.md"><span dir="auto">Русский</span></a> ·
-<a href="docs/README.fr.md"><span dir="auto">Français</span></a> ·
-<a href="docs/README.de.md"><span dir="auto">Deutsch</span></a> ·
-<a href="docs/README.es.md"><span dir="auto">Español</span></a> ·
+<a href="docs/README.pl.md"><span dir="auto">Polski</span></a> ·
 <a href="docs/README.pt.md"><span dir="auto">Português</span></a> ·
+<a href="docs/README.es.md"><span dir="auto">Español</span></a> ·
+<a href="docs/README.de.md"><span dir="auto">Deutsch</span></a> ·
+<a href="docs/README.fr.md"><span dir="auto">Français</span></a> ·
 <a href="docs/README.it.md"><span dir="auto">Italiano</span></a> ·
+<a href="docs/README.nl.md"><span dir="auto">Nederlands</span></a> ·
 <a href="docs/README.ro.md"><span dir="auto">Română</span></a> ·
-<a href="docs/README.he.md"><span dir="auto">עברית</span></a> ·
 <a href="docs/README.ar.md"><span dir="auto">العربية</span></a> ·
+<a href="docs/README.he.md"><span dir="auto">עברית</span></a> ·
 <a href="docs/README.tr.md"><span dir="auto">Türkçe</span></a> ·
-<a href="docs/README.vi.md"><span dir="auto">Tiếng Việt</span></a> ·
-<a href="docs/README.nl.md"><span dir="auto">Nederlands</span></a>
+<a href="docs/README.vi.md"><span dir="auto">Tiếng Việt</span></a>
 
 </div>
 
@@ -145,19 +145,19 @@ typography is off.
 
 <ul dir="ltr" align="left">
   <li dir="ltr"><span dir="auto">English</span></li>
-  <li dir="ltr"><span dir="auto">Polski</span></li>
   <li dir="ltr"><span dir="auto">Русский</span></li>
-  <li dir="ltr"><span dir="auto">Français</span></li>
-  <li dir="ltr"><span dir="auto">Deutsch</span></li>
-  <li dir="ltr"><span dir="auto">Español</span></li>
+  <li dir="ltr"><span dir="auto">Polski</span></li>
   <li dir="ltr"><span dir="auto">Português</span></li>
+  <li dir="ltr"><span dir="auto">Español</span></li>
+  <li dir="ltr"><span dir="auto">Deutsch</span></li>
+  <li dir="ltr"><span dir="auto">Français</span></li>
   <li dir="ltr"><span dir="auto">Italiano</span></li>
+  <li dir="ltr"><span dir="auto">Nederlands</span></li>
   <li dir="ltr"><span dir="auto">Română</span></li>
-  <li dir="ltr"><span dir="auto">עברית</span></li>
   <li dir="ltr"><span dir="auto">العربية</span></li>
+  <li dir="ltr"><span dir="auto">עברית</span></li>
   <li dir="ltr"><span dir="auto">Türkçe</span></li>
   <li dir="ltr"><span dir="auto">Tiếng Việt</span></li>
-  <li dir="ltr"><span dir="auto">Nederlands</span></li>
 </ul>
 
 - Choosing an **interface language** also selects its base keyboard map.
