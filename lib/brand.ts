@@ -53,7 +53,8 @@ export function buildBrandTimeline() {
     }
     return [{ time: 0, cell: cell ?? 0, opacity: cell === undefined ? 0 : 1 }];
   });
-  let time = 0;
+  // Let the initial T register before the uninterrupted sequence begins.
+  let time = 1.2;
   const pose = (
     tile: number,
     cell: number,
@@ -79,7 +80,6 @@ export function buildBrandTimeline() {
   };
   const holds: { time: number; frame: number }[] = [{ time, frame: 0 }];
   for (let step = 1; step < letters.length; step++) {
-    time += 1.2;
     const frame = step % letters.length;
     const target = new Set(letters[frame]);
     const occupied = () =>
@@ -163,7 +163,7 @@ export function brandSvg(active: string, muted: string, animated = true) {
 
 export function buildBrandAnimation() {
   const { tracks, duration: assemblyDuration } = buildBrandTimeline();
-  const mergeStart = assemblyDuration + 1.2;
+  const mergeStart = assemblyDuration;
   const duration = mergeStart + 0.65;
   const mergePercent = ((mergeStart / duration) * 100).toFixed(5);
   const keyframes = tracks
