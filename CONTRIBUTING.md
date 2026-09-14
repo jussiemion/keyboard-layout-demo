@@ -31,6 +31,21 @@ Preserve the [MIT notice](LICENSE) and applicable
 [Birman’s layout](https://ilyabirman.ru/typography-layout/) to its official
 page. Do not imply authorship of upstream work.
 
+For changes developed with any AI assistant, include a `Co-authored-by` trailer
+for each assistant that contributed, after a blank line in the commit message.
+This applies to all AI tools, not only Codex. Use the assistant’s documented
+attribution name and email; do not invent an identity or use an unrelated
+account. For example, for Codex:
+
+```text
+Co-authored-by: Codex <codex@openai.com>
+```
+
+Only attribute work an assistant actually helped produce. Human contributors
+retain their authorship. GitHub links attribution to accounts through commit
+email addresses; a documentation mention alone does not add an account to its
+contributor statistics.
+
 ## Formatting and commit checks
 
 Run `bun install` to install the local Husky hook. Each commit runs lint-staged:
