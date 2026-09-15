@@ -23,16 +23,16 @@
       "_rolldown-runtime-hePW80VL.js"
     ]
   },
-  "_preferences-BfuXs7Sx.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/preferences-BfuXs7Sx.js",
+  "_preferences-CDTmDxJ3.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/preferences-CDTmDxJ3.js",
     "name": "preferences",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_useRenderElement-F5EF8EXq.js",
-      "_utils-DojpP95n.js",
       "_theme-CVRFaN_P.js",
-      "components/locale-provider.tsx"
+      "components/locale-provider.tsx",
+      "_useRenderElement-F5EF8EXq.js",
+      "_utils-DojpP95n.js"
     ]
   },
   "_rolldown-runtime-hePW80VL.js": {
@@ -55,36 +55,36 @@
     "file": "keyboard-layout-demo/_next/static/chunks/utils-DojpP95n.js",
     "name": "utils"
   },
-  "_vinext-DJknZHTA.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/vinext-DJknZHTA.js",
+  "_vinext-DoqyaXdL.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/vinext-DoqyaXdL.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js"
     ],
     "dynamicImports": [
-      "_vinext-DJknZHTA.js"
+      "_vinext-DoqyaXdL.js"
     ]
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-B4Dvixkz.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-UnT1nqcu.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_preferences-BfuXs7Sx.js",
-      "_useRenderElement-F5EF8EXq.js",
-      "_utils-DojpP95n.js",
+      "_preferences-CDTmDxJ3.js",
       "_theme-CVRFaN_P.js",
       "components/locale-provider.tsx",
+      "_useRenderElement-F5EF8EXq.js",
+      "_utils-DojpP95n.js",
       "_DirectionContext-B6WA8Mc0.js",
       "_brand-mark-CTWd7vDw.js"
     ]
   },
   "components/locale-provider.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-DJ42N-1U.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-POy5FGZf.js",
     "name": "locale-provider",
     "src": "components/locale-provider.tsx",
     "isDynamicEntry": true,
@@ -107,14 +107,14 @@
     ]
   },
   "components/typography-reference.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-DQP4Vfpm.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-DXCa60zD.js",
     "name": "typography-reference",
     "src": "components/typography-reference.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_preferences-BfuXs7Sx.js",
+      "_preferences-CDTmDxJ3.js",
       "_theme-CVRFaN_P.js",
       "components/locale-provider.tsx",
       "_brand-mark-CTWd7vDw.js"
@@ -134,28 +134,28 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-DeDpJipf.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-ByKVSLJp.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-DJknZHTA.js"
+      "_vinext-DoqyaXdL.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-B1eiuVHK.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-DaVdHLxa.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-DJknZHTA.js"
+      "_vinext-DoqyaXdL.js"
     ],
     "dynamicImports": [
-      "_vinext-DJknZHTA.js",
+      "_vinext-DoqyaXdL.js",
       "components/locale-provider.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/ui/scroll-area.tsx",
