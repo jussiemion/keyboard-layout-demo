@@ -55,19 +55,19 @@
     "file": "keyboard-layout-demo/_next/static/chunks/utils-DojpP95n.js",
     "name": "utils"
   },
-  "_vinext-k23RCeIy.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/vinext-k23RCeIy.js",
+  "_vinext-DJknZHTA.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/vinext-DJknZHTA.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js"
     ],
     "dynamicImports": [
-      "_vinext-k23RCeIy.js"
+      "_vinext-DJknZHTA.js"
     ]
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-BRT74jP5.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-B4Dvixkz.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -134,28 +134,28 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-CM3wwbwY.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-DeDpJipf.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-k23RCeIy.js"
+      "_vinext-DJknZHTA.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-C7986Vgh.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-B1eiuVHK.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-k23RCeIy.js"
+      "_vinext-DJknZHTA.js"
     ],
     "dynamicImports": [
-      "_vinext-k23RCeIy.js",
+      "_vinext-DJknZHTA.js",
       "components/locale-provider.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/ui/scroll-area.tsx",
