@@ -63,6 +63,9 @@ Auf macOS entspricht <kbd>Alt</kbd> der Taste <kbd>Option</kbd>.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                          |   `«`    | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                          |   `»`    | **`M0`** |
 
+**`S` — Switcher**: Sprachumschalter (**`S0`–`S4`**). **`M` — Modifier**:
+Modifikator zum Wechseln des Eingabemodus (**`M0`–`M2`**).
+
 **`M0`** ist normales Tippen. **`M1`** und **`M2`** wählen eine Symbolebene für
 die nächste Eingabe. Es gibt kein Zeitlimit zwischen den Tasten. <kbd>Esc</kbd>
 verwirft ein ausstehendes Zeichen oder einen Akzent.

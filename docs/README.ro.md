@@ -65,6 +65,9 @@ menținere împreună. Pozițiile sunt US QWERTY; pe macOS <kbd>Alt</kbd> este
 | <kbd>Alt</kbd> + <kbd>,</kbd>                          |   `«`    | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                          |   `»`    | **`M0`** |
 
+**`S` — Switcher**: comutator de limbă (**`S0`–`S4`**). **`M` — Modifier**:
+modificator al modului de tastare (**`M0`–`M2`**).
+
 **`M0`** este scrierea obișnuită. **`M1`** și **`M2`** aleg un strat de
 simboluri pentru următoarea intrare. Nu există limită de timp. <kbd>Esc</kbd>
 anulează semnul în așteptare.

@@ -1,5 +1,6 @@
 'use client';
 
+import { KeyTerminology } from '@/components/key-terminology';
 import { languageComparator } from '@/lib/language-priority';
 
 import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
@@ -115,6 +116,9 @@ export function SettingsDialog({
           <div className="settings-body">
             <section aria-labelledby="settings-language-map">
               <h3 id="settings-language-map">{text.map}</h3>
+              <p className="text-muted-foreground mb-4 text-xs leading-relaxed">
+                <KeyTerminology kind="switcher" locale={uiLocale} />
+              </p>
               <ExperimentalLanguageWarning />
               <fieldset className="settings-pair mapping-card">
                 <legend>

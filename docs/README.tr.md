@@ -64,6 +64,9 @@ konumlarıdır.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                                  |  `«`  | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                                  |  `»`  | **`M0`** |
 
+**`S` — Switcher**: dil değiştirici (**`S0`–`S4`**). **`M` — Modifier**: yazım
+modunu değiştiren değiştirici (**`M0`–`M2`**).
+
 **`M0`** normal yazımdır; **`M1`** ve **`M2`** sonraki giriş için simge
 katmanını seçer. Basışlar arasında süre sınırı yoktur. <kbd>Esc</kbd> bekleyen
 simgeyi veya aksanı iptal eder. Klavyenin üstündeki `M0`/`M1`/`M2` düğmeleri de

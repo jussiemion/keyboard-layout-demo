@@ -65,6 +65,9 @@ opschriften veranderen.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                              |    `«`    | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                              |    `»`    | **`M0`** |
 
+**`S` — Switcher**: taalschakelaar (**`S0`–`S4`**). **`M` — Modifier**:
+modificatietoets voor de invoermodus (**`M0`–`M2`**).
+
 **`M0`** is gewoon typen; **`M1`** en **`M2`** kiezen een symboollaag voor de
 volgende invoer. Reeksen hebben geen tijdslimiet. <kbd>Esc</kbd> annuleert een
 wachtend symbool of accent. De knoppen `M0`/`M1`/`M2` boven het toetsenbord

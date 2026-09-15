@@ -66,6 +66,9 @@ theo ngôn ngữ.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                        |   `«`   | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                        |   `»`   | **`M0`** |
 
+**`S` — Switcher**: bộ chuyển đổi ngôn ngữ (**`S0`–`S4`**). **`M` — Modifier**:
+phím bổ trợ chuyển chế độ nhập (**`M0`–`M2`**).
+
 **`M0`** là nhập thông thường; **`M1`** và **`M2`** chọn lớp ký hiệu cho lần
 nhập tiếp theo. Không giới hạn thời gian giữa các lần nhấn. <kbd>Esc</kbd> hủy
 ký hiệu hoặc dấu đang chờ. Các nút `M0`/`M1`/`M2` phía trên bàn phím cũng chọn

@@ -63,6 +63,9 @@ macOS, <kbd>Alt</kbd> correspond à <kbd>Option</kbd>.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                          |   `«`    | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                          |   `»`    | **`M0`** |
 
+**`S` — Switcher**: commutateur de langue (**`S0`–`S4`**). **`M` — Modifier**:
+modificateur du mode de saisie (**`M0`–`M2`**).
+
 **`M0`** est la saisie ordinaire. **`M1`** et **`M2`** sélectionnent une couche
 de symboles pour la prochaine saisie. Aucun délai entre les pressions.
 <kbd>Esc</kbd> annule le symbole ou l’accent en attente.

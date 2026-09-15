@@ -74,6 +74,15 @@ Python maintenance scripts use Ruff 0.16.7 with an 80-column target. Install
 files are formatted automatically by pre-commit. Normal demo builds do not
 require Python or uv.
 
+## Key terminology
+
+Use **S — Switcher** for language switching (`S0`–`S4`) and **M — Modifier** for
+typing-mode switching (`M0`–`M2`). Keep the English expansions in every
+localization and translate their explanations. Do not expand M as “Mode” or S as
+“Shift”. M0 means basic typing, while M1 and M2 select symbol layers; the codes
+describe states, not separate physical keys. Use `lib/key-terminology.ts` for
+shared interface explanations.
+
 ## Pull request checks
 
 The `Quality and build` CI check runs on pull requests and pushes to `main` or

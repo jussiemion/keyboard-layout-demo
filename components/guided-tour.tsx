@@ -1,5 +1,6 @@
 'use client';
 
+import { KeyTerminology } from '@/components/key-terminology';
 import {
   tourKeySequenceClasses,
   tourEyebrowClasses,
@@ -363,6 +364,14 @@ export function GuidedTour({
                   <strong>{keyboardLabel(step.targetLocale, uiLocale)}</strong>
                 </div>
               ) : null}
+              {['modes', 'pair', 'slot'].includes(bodyKey ?? '') && (
+                <p className={tourMutedClasses}>
+                  <KeyTerminology
+                    kind={bodyKey === 'modes' ? 'modifier' : 'switcher'}
+                    locale={uiLocale}
+                  />
+                </p>
+              )}
               <p id="tour-instruction" className="tour-instruction">
                 <TranslatedText
                   message={t.steps[bodyKey as keyof typeof t.steps]}

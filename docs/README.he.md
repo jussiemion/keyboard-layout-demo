@@ -82,6 +82,9 @@
 | <span dir="ltr"><kbd dir="ltr">Alt</kbd> + <kbd dir="ltr">,</kbd></span>                                  | <span dir="ltr">`«`</span> | **`M0`** |
 | <span dir="ltr"><kbd dir="ltr">Alt</kbd> + <kbd dir="ltr">.</kbd></span>                                  | <span dir="ltr">`»`</span> | **`M0`** |
 
+**`S` — Switcher**: מחליף שפה (**`S0`–`S4`**). **`M` — Modifier**: מקש משנה
+להחלפת מצב ההקלדה (**`M0`–`M2`**).
+
 **`M0`** הוא הקלדה רגילה; **`M1`** ו־**`M2`** בוחרים שכבת סמלים להזנה הבאה. אין
 מגבלת זמן בין ההקשות. <kbd dir="ltr">Esc</kbd> מבטל סימן או סימן דיאקריטי
 שממתינים להזנה. אפשר לבחור גם במצבים `M0`/`M1`/`M2` מעל המקלדת.

@@ -100,6 +100,9 @@ Keys below use US QWERTY positions; on macOS, <kbd>Alt</kbd> is
 | <kbd>Alt</kbd> + <kbd>,</kbd>                          | `«` | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                          | `»` | **`M0`** |
 
+**`S` — Switcher**: language switcher (**`S0`–`S4`**). **`M` — Modifier**:
+typing-mode modifier (**`M0`–`M2`**).
+
 **`M0`** is ordinary typing. **`M1`** and **`M2`** select a symbol layer for the
 next input. There is no time limit between taps. <kbd>Esc</kbd> cancels a
 pending symbol or accent.

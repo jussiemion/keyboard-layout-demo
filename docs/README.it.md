@@ -66,6 +66,9 @@ cambiano con la lingua.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                        |    `«`    | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                        |    `»`    | **`M0`** |
 
+**`S` — Switcher**: selettore della lingua (**`S0`–`S4`**). **`M` — Modifier**:
+modificatore della modalità di digitazione (**`M0`–`M2`**).
+
 **`M0`** è la scrittura normale; **`M1`** e **`M2`** scelgono uno strato di
 simboli per il prossimo inserimento. Non c’è un limite di tempo tra le
 pressioni. <kbd>Esc</kbd> annulla il simbolo o l’accento in attesa. Puoi

@@ -66,6 +66,9 @@ mudam com o idioma.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                              |    `«`    | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                              |    `»`    | **`M0`** |
 
+**`S` — Switcher**: seletor de idioma (**`S0`–`S4`**). **`M` — Modifier**:
+modificador do modo de escrita (**`M0`–`M2`**).
+
 **`M0`** é a escrita normal; **`M1`** e **`M2`** escolhem uma camada de símbolos
 para a próxima entrada. Não existe limite de tempo entre as teclas.
 <kbd>Esc</kbd> cancela o símbolo ou acento pendente. Também pode selecionar

@@ -81,6 +81,9 @@
 | <span dir="ltr"><kbd dir="ltr">Alt</kbd> + <kbd dir="ltr">,</kbd></span>                                | <span dir="ltr">`«`</span> | **`M0`** |
 | <span dir="ltr"><kbd dir="ltr">Alt</kbd> + <kbd dir="ltr">.</kbd></span>                                | <span dir="ltr">`»`</span> | **`M0`** |
 
+**`S` — Switcher**: مبدّل اللغة (**`S0`–`S4`**). **`M` — Modifier**: معدِّل
+يغيّر وضع الكتابة (**`M0`–`M2`**).
+
 **`M0`** للكتابة العادية؛ ويختار **`M1`** و**`M2`** طبقة رموز للإدخال التالي. لا
 حد زمني بين الضغطات. يلغي <kbd dir="ltr">Esc</kbd> رمزًا أو علامة منتظرة. تتيح
 أزرار `M0`/`M1`/`M2` فوق لوحة المفاتيح اختيار الوضع أيضًا.

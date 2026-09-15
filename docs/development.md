@@ -1,5 +1,8 @@
 # Development
 
+**`S` — Switcher**: language switcher (`S0`–`S4`). **`M` — Modifier**:
+typing-mode modifier (`M0`–`M2`).
+
 [Overview](../README.md) · [Contributing](../CONTRIBUTING.md)
 
 Use **Node.js 24** and **Bun 1.4.0**. Bun manages dependencies and package

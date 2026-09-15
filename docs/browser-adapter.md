@@ -1,5 +1,8 @@
 # Browser adapter
 
+**`S` — Switcher**: language switcher (`S0`–`S4`). **`M` — Modifier**:
+typing-mode modifier (`M0`–`M2`).
+
 [Project overview](../README.md) · [Development](development.md) ·
 [National maps](national-layouts.md)
 

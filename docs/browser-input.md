@@ -1,5 +1,8 @@
 # Browser input
 
+**`S` — Switcher**: language switcher (`S0`–`S4`). **`M` — Modifier**:
+typing-mode modifier (`M0`–`M2`).
+
 Input controllers translate keyboard gestures into demo actions. They do not
 change the operating system’s keyboard layout or Caps Lock state.
 

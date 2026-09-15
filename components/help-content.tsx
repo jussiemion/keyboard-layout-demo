@@ -1,5 +1,6 @@
 'use client';
 
+import { KeyTerminology } from '@/components/key-terminology';
 import {
   helpKeysClasses,
   helpTitleClasses,
@@ -57,6 +58,9 @@ export function HelpContent({
           aria-labelledby="help-symbols"
         >
           <h3 id="help-symbols">{h.symbols}</h3>
+          <p className="text-muted-foreground text-xs leading-relaxed">
+            <KeyTerminology kind="modifier" locale={uiLocale} />
+          </p>
           <dl className="help-reference help-modes">
             {[h.hold, h.tap, h.twice].map((label, mode) => (
               <div className="help-reference-row" key={mode}>
@@ -164,6 +168,9 @@ export function HelpContent({
           aria-labelledby="help-languages"
         >
           <h3 id="help-languages">{h.languages}</h3>
+          <p className="text-muted-foreground text-xs leading-relaxed">
+            <KeyTerminology kind="switcher" locale={uiLocale} />
+          </p>
           <dl className="help-reference help-mapping">
             <div className="help-reference-row">
               <dt>

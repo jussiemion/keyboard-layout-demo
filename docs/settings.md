@@ -1,5 +1,8 @@
 # Settings
 
+**`S` — Switcher**: language switcher (`S0`–`S4`). **`M` — Modifier**:
+typing-mode modifier (`M0`–`M2`).
+
 > [!NOTE]
 >
 > The layout primarily targets European languages. Support for other languages,

@@ -63,6 +63,9 @@ macOS <kbd>Alt</kbd> to <kbd>Option</kbd>.
 | <kbd>Alt</kbd> + <kbd>,</kbd>                            |  `«`  | **`M0`** |
 | <kbd>Alt</kbd> + <kbd>.</kbd>                            |  `»`  | **`M0`** |
 
+**`S` — Switcher**: przełącznik języka (**`S0`–`S4`**). **`M` — Modifier**:
+modyfikator przełączający tryby pisania (**`M0`–`M2`**).
+
 **`M0`** to zwykłe pisanie. **`M1`** i **`M2`** wybierają warstwę symboli dla
 następnego wpisu. Nie ma limitu czasu między naciśnięciami. <kbd>Esc</kbd>
 anuluje oczekujący znak lub akcent.
