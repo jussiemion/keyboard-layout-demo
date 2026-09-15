@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const ro = {
-  productName: 'Aranjament tipografic de Semyon Yushkevich',
-  pageTitle: 'Aranjament tipografic de Semyon Yushkevich',
+  productName: 'Aranjament tipografic de Yushkevich',
+  pageTitle: 'Aranjament tipografic de Yushkevich',
   pageDescription:
-    'Tastatură tipografică, exerciții de tastare și ghid de simboluri în browser. Comută între modul de simboluri de bază și cel extins pentru punctuație, simboluri monetare și alte caractere speciale.',
+    'Linii de pauză, ghilimele, monede și accente fără coduri Alt. Exerciții la tastatură și ghid tipografic pentru autori, designeri și traducători.',
   brandTitle: 'dispunere tipografică',
   headerActions: 'Aspect, limba interfeței și informații despre proiect',
   sourceLabel: 'Cod sursă pe GitHub',
@@ -36,19 +36,7 @@ export const ro = {
   resetLabel: 'Golește câmpul de text',
   resetTooltip: 'începe din nou',
   keyboardTitle: 'Birman',
-  keyHint: 'Tasta {key}:',
-  capsInstantHint: 'Tasta {key}, comutare instantanee a limbii:',
-  capsQuickHint: 'Tasta {key}, comutare rapidă a limbii:',
   modeLabel: 'Mod:',
-  languageSlotHint:
-    'Alege {slot} — {language}: ține apăsat {caps} și apasă {key}.',
-  symbolEntryHint: 'Apasă {alt} pentru modul simboluri {mode}.',
-  extendedEntryHint: 'Apasă {alt} de două ori pentru modul extins {mode}.',
-  extendedNextHint: 'Apasă {alt} încă o dată pentru modul extins {mode}.',
-  basicOutputHint:
-    'În modul de bază {mode}, ține apăsat {alt} și apasă {key} pentru a introduce {symbol}.',
-  symbolOutputHint: 'În modul simboluri {mode} produce {symbol}.',
-  extendedOutputHint: 'În modul extins {mode} produce {symbol}.',
   chooseMode: 'Alege modul de introducere pentru următoarea tastă',
   basicMode: 'de bază',
   primaryMode: 'simboluri',
@@ -61,21 +49,12 @@ export const ro = {
   secondarySymbol: 'modul extins, {modifier} de două ori: {symbol}',
   emptyPrimary: 'modul simboluri nu are o atribuire',
   emptySecondary: 'modul extins nu are o atribuire',
-  diacriticCycleHint:
-    'Apasă Shift pentru a parcurge variantele diacritice ale literei introduse.',
-  languageSlotsHint:
-    'Ține apăsat {caps} și apasă {j} — {l1}, {k} — {l2}, {l} — {l3} sau {semicolon} — {l4} pentru a alege limba.',
-  hintLabel: 'Sugestie:',
-  hintsLabel: 'Sugestii:',
   typographyToggleHint:
     'Apasă simultan ambele taste {ctrl}, apoi eliberează-le pentru a dezactiva sau activa aranjamentul.',
   typographyDisabledWarning:
     'Atenție: aranjamentul este dezactivat. Apasă simultan ambele taste {ctrl} și eliberează-le pentru a-l activa.',
   accentModeWarning:
     'Atenție: modul de accentuare este activ. Introdu o vocală.',
-  keyDetailHelp:
-    'Apasă {alt} pentru modul simboluri. Apasă {alt} de două ori pentru modul extins.',
-  resetMode: 'Apasă {esc} pentru a reseta modul.',
   entered: 'Introdus: {symbol}',
   themeLight: 'Luminoasă',
   themeDark: 'Întunecată',
@@ -132,19 +111,6 @@ export const ro = {
   platform: 'Platformă',
   choosePlatform: 'Alege platforma: {platform}',
   fnKeyInfo: 'Tasta Fn este gestionată de macOS',
-  tabInputHint: 'Inserează o tabulare; fără funcții tipografice suplimentare.',
-  backspaceInputHint:
-    'Șterge selecția sau caracterul anterior; fără funcții tipografice suplimentare.',
-  enterInputHint:
-    'Inserează o linie nouă; fără funcții tipografice suplimentare.',
-  standardCharacterHint:
-    'Introduce caractere obișnuite; nu are funcții tipografice suplimentare.',
-  unusedKeyHint:
-    'Tasta {key} își păstrează comportamentul standard și nu face parte din dispunerea tipografică.',
-  shiftUsageHint:
-    'Ține apăsat {shift} pentru majuscule și simbolurile superioare ale tastelor. După o literă, apasă și eliberează {shift} pentru a parcurge variantele diacritice disponibile.',
-  altUsageHint:
-    'Tasta principală pentru introducerea tipografică: oferă acces la simboluri suplimentare și permite introducerea simbolurilor rapide când este ținută apăsată.',
   keyArrowLeft: 'Săgeată la stânga',
   keyArrowRight: 'Săgeată la dreapta',
   keyArrowUp: 'Săgeată în sus',

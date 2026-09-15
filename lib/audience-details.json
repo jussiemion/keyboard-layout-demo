@@ -1,0 +1,166 @@
+{
+  "ru": {
+    "title": "Типографика и иностранные буквы — под рукой",
+    "intro": "Типографская раскладка Юшкевича помогает набирать выразительные тексты, оформлять макеты и писать на разных языках. Попробуйте её в браузере: без установки и регистрации.",
+    "groups": [
+      {
+        "title": "Для копирайтеров, авторов и редакторов",
+        "items": [
+          [
+            "Длинное тире — и многоточие … без Alt-кодов.",
+            "Короткие сочетания клавиш вместо цифровых комбинаций и поиска символов в интернете."
+          ],
+          [
+            "Кавычки «ёлочки», „лапки“ и “английские”.",
+            "Выбирайте знаки, подходящие языку текста и требованиям редакции."
+          ],
+          [
+            "Неразрывные пробелы.",
+            "Держите число рядом с единицей измерения, а инициалы — рядом с фамилией."
+          ]
+        ]
+      },
+      {
+        "title": "Для UX/UI-, веб- и графических дизайнеров",
+        "items": [
+          [
+            "Символы валют $, €, £, ¥, ¢.",
+            "Готовьте цены, тарифы и карточки товаров для международных макетов."
+          ],
+          [
+            "Копирайт © и товарные знаки ®, ™.",
+            "Находите нужный символ для подписи, интерфейса или презентации."
+          ],
+          [
+            "Справочник типографики с поиском.",
+            "Выберите знак, уточните его назначение и скопируйте в Figma или другой редактор."
+          ]
+        ]
+      },
+      {
+        "title": "Для полиглотов, лингвистов и переводчиков",
+        "items": [
+          [
+            "Умлауты и акценты через Shift.",
+            "Наберите базовую букву, отпустите её клавишу и нажимайте Shift для перебора вариантов: u → ü в немецком или e → é → è → ê → ë во французском."
+          ],
+          [
+            "Национальные буквы на привычной клавиатуре.",
+            "Осваивайте ввод ä, ö, ü, é, è, ç, ñ и других символов выбранного языка."
+          ],
+          [
+            "Несколько языков в одном демо.",
+            "Назначьте до шести языков и переключайтесь между ними внутри страницы, не меняя источник ввода ОС и не устанавливая языковые пакеты для знакомства с раскладкой."
+          ]
+        ]
+      }
+    ],
+    "scope": "14 языков интерфейса и 24 варианта клавиатуры, включая региональные. Доступные буквы и способы ввода зависят от выбранного языка. Поддержка арабского, иврита, турецкого и вьетнамского экспериментальная. Демо работает внутри страницы браузера. Набранный текст можно скопировать в нужное приложение.",
+    "cta": "Попробовать раскладку Юшкевича →",
+    "faqTitle": "Часто задаваемые вопросы",
+    "faq": [
+      [
+        "Как вводить спецсимволы без Alt-кодов?",
+        "В демо раскладки Юшкевича используйте короткие сочетания клавиш. Alt + минус вводит длинное тире —, а Alt + / — многоточие …. Для символа копирайта © нажмите и отпустите Alt, затем нажмите C. На macOS используйте Option вместо Alt. Клавиши указаны по позициям US QWERTY; сочетания для других символов доступны в справочнике."
+      ],
+      [
+        "Как быстро набирать умлауты ä, ö, ü и акценты é, è, ç?",
+        "Выберите язык клавиатуры в демо. Напечатайте базовую букву, отпустите клавишу, затем нажимайте Shift отдельно. В немецком a → ä, o → ö, u → ü; во французском e → é → è → ê → ë, а c → ç. Каждое нажатие Shift выбирает следующий вариант. Набор вариантов зависит от языка."
+      ],
+      [
+        "Чем раскладка Юшкевича отличается от раскладки Бирмана при вводе иностранных букв?",
+        "Главное отличие для такого сценария — перебор вариантов уже набранной буквы через Shift и переключение между назначенными языками внутри демо. Это может быть удобно, если вы часто вводите национальные буквы. Раскладка Бирмана также поддерживает диакритику, а её карта символов послужила основой проекта. Выбор зависит от привычек и рабочих языков."
+      ],
+      [
+        "Как набрать символ евро €, копирайт © или товарный знак ™ для макета?",
+        "Найдите символ по названию или самому знаку в поиске демо. Справочник покажет его назначение и способ ввода. Скопируйте нужный знак в Figma, текстовый редактор или презентацию: он вставляется как обычный текстовый символ."
+      ],
+      [
+        "Можно ли попробовать раскладку без установки в Windows или macOS?",
+        "Да. Откройте демо в браузере и печатайте физической клавиатурой или нажимайте экранные клавиши. Для знакомства с раскладкой не нужны установка и языковые пакеты ОС. Ввод действует внутри страницы; системную раскладку для остальных приложений демо не меняет."
+      ]
+    ]
+  },
+  "en": {
+    "title": "Typography and accented letters at your fingertips",
+    "intro": "Yushkevich Typographic Layout helps you write polished copy, prepare design mockups and type across languages. Try it in your browser: no installation or account required.",
+    "groups": [
+      {
+        "title": "For writers, copywriters and editors",
+        "items": [
+          [
+            "Em dashes — and ellipses … without Alt codes.",
+            "Use short keyboard combinations instead of memorizing numeric codes or searching for symbols."
+          ],
+          [
+            "Quotation marks for different languages.",
+            "Type English “quotes”, French «guillemets» and German „quotes“ to match your editorial style."
+          ],
+          [
+            "Non-breaking spaces.",
+            "Keep numbers with their units and initials with their surnames."
+          ]
+        ]
+      },
+      {
+        "title": "For UI/UX, web and graphic designers",
+        "items": [
+          [
+            "Currency symbols $, €, £, ¥, ¢.",
+            "Prepare prices, subscription plans and product cards for international mockups."
+          ],
+          [
+            "Copyright ©, registered trademark ® and trademark ™ symbols.",
+            "Find the right character for interface copy, credits and presentations."
+          ],
+          [
+            "Searchable typography reference.",
+            "Look up a symbol, learn its purpose and copy it into Figma or another editor."
+          ]
+        ]
+      },
+      {
+        "title": "For polyglots, linguists and translators",
+        "items": [
+          [
+            "Type umlauts and accents with Shift.",
+            "Type a base letter, release its key, then tap Shift to cycle through its variants: u → ü in German or e → é → è → ê → ë in French."
+          ],
+          [
+            "National characters on your familiar keyboard.",
+            "Practise typing ä, ö, ü, é, è, ç, ñ and other characters supported by your selected language."
+          ],
+          [
+            "Explore several languages in one demo.",
+            "Assign up to six languages and switch between them within the page, without changing your OS input source or installing language packs to try the layout."
+          ]
+        ]
+      }
+    ],
+    "scope": "14 interface languages and 24 keyboard options, including regional variants. Available characters and input gestures depend on the selected language. Arabic, Hebrew, Turkish and Vietnamese support is experimental. Typing works inside the browser demo. Copy your text into the app where you need it.",
+    "cta": "Try Yushkevich Typographic Layout →",
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      [
+        "How can I type special characters without Alt codes?",
+        "Use short keyboard combinations in Yushkevich’s layout demo. Alt + minus types an em dash —, and Alt + / types an ellipsis …. For the copyright symbol ©, press and release Alt, then press C. On macOS, use Option instead of Alt. These shortcuts use US QWERTY key positions; the reference lists input sequences for other symbols."
+      ],
+      [
+        "How can I type umlauts ä, ö, ü and accented letters é, è, ç quickly?",
+        "Select a keyboard language in the demo. Type a base letter, release its key, then tap Shift separately. In German, use a → ä, o → ö and u → ü; in French, use e → é → è → ê → ë and c → ç. Each Shift tap selects the next variant. Available variants depend on the language."
+      ],
+      [
+        "How does Yushkevich’s layout compare with Birman’s for foreign languages?",
+        "For this use case, its distinctive features are cycling a previously typed letter with Shift and switching between assigned languages within the demo. These may suit frequent national-character input. Birman’s layout also supports diacritics, and its symbol map forms the foundation of this project. The better fit depends on your habits and working languages."
+      ],
+      [
+        "How do I type euro €, copyright © or trademark ™ symbols for a design?",
+        "Search the demo by a symbol’s name or by the character itself. The reference explains its purpose and input sequence. Copy the symbol into Figma, a text editor or a presentation: it is inserted as an ordinary text character."
+      ],
+      [
+        "Can I try the layout on Windows or macOS without installing it?",
+        "Yes. Open the browser demo and use your physical keyboard or click the on-screen keys. No installation or OS language packs are needed to try it. Typing works within the page; the demo does not change your system keyboard layout for other applications."
+      ]
+    ]
+  }
+}

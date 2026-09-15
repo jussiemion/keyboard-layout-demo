@@ -80,21 +80,32 @@ for (const { name, locale, english, translated } of translationScenarios) {
   });
 }
 
-void test('product names and page titles consistently identify the author', () => {
-  assert.equal(
-    messages.en.productName,
-    'Typographic Layout by Semyon Yushkevich',
-  );
+void test('product names and page titles use the surname without the given name', () => {
+  assert.equal(messages.en.productName, 'Yushkevich Typographic Layout');
   for (const locale of LANGUAGES) {
     const catalog = messages[locale];
-    assert.equal(catalog.pageTitle, catalog.productName, locale);
+    if (locale === 'en' || locale === 'ru') {
+      assert.ok(
+        catalog.pageTitle.includes(locale === 'ru' ? 'Юшкевича' : 'Yushkevich'),
+        locale,
+      );
+      assert.ok(catalog.pageTitle.length <= 60, locale);
+      assert.ok(catalog.pageDescription.length <= 160, locale);
+    } else {
+      assert.equal(catalog.pageTitle, catalog.productName, locale);
+    }
     const author =
       locale === 'ru'
-        ? 'Семёна Юшкевича'
+        ? 'Юшкевича'
         : locale === 'pl'
-          ? 'Szymona Juszkiewicza'
-          : 'Semyon Yushkevich';
+          ? 'Juszkiewicza'
+          : 'Yushkevich';
     assert.ok(catalog.productName.includes(author), locale);
+    assert.doesNotMatch(
+      catalog.productName + catalog.pageTitle,
+      /Semyon|Сем[её]н|Szymon/,
+      locale,
+    );
   }
 });
 
@@ -186,9 +197,7 @@ void test('regional maps survive saved S0 and S1–S4 assignments and gestures',
     order: ['en-AU', 'fr-CA'],
     slots: ['es-MX', 'pt-BR', 'de-CH', 'vi'],
   } as const;
-  const parsed = parseSettings(
-    JSON.stringify({ version: 1, languageMapping, showHints: true }),
-  );
+  const parsed = parseSettings(JSON.stringify({ version: 1, languageMapping }));
   assert.deepEqual(parsed?.languageMapping, languageMapping);
   const controller = new LanguageSwitchController();
   controller.handle(

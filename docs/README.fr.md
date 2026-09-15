@@ -40,13 +40,38 @@ Sans installation ni compte. Utilisez votre clavier ou les touches à l’écran
 </picture>
 
 [Vidéo : thème sombre](assets/demo-dark.mp4) ·
-[thème clair](assets/demo-light.mp4) · MP4 · ≈ 26 s
+[thème clair](assets/demo-light.mp4) · MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
 > Désactivez la disposition typographique du système avant le test : elle peut
 > intercepter <kbd>Alt</kbd> et <kbd>Caps Lock</kbd>. L’absence d’alerte ne
 > prouve pas sa désactivation.
+
+## La typographie au quotidien
+
+### Pour les auteurs et les rédacteurs
+
+Exercez-vous aux tirets cadratins —, guillemets «», “”, „“ et espaces insécables
+sans codes Alt. Dans la démo, Alt + moins donne — sans Alt+0151. Vous choisissez
+les guillemets : ils ne sont pas remplacés automatiquement.
+
+### Pour les graphistes et designers UI/UX
+
+Trouvez et copiez ©, ®, ™ et $, €, £, ¥, ¢ pour les prix, textes d’interface et
+maquettes multilingues. Collez les signes du guide typographique dans Figma ou
+votre éditeur. La démo n’est pas un plugin Figma.
+
+### Pour les polyglottes et traducteurs
+
+Exercez-vous aux trémas allemands ä, ö, ü et aux accents français é, è, ç sur un
+clavier standard. Tapez une lettre puis appuyez sur <kbd>Shift</kbd> pour
+parcourir les variantes de la langue choisie. Aucun pack linguistique système
+n’est nécessaire pour essayer la démo.
+
+14 langues d’interface et 24 variantes de clavier, régionales comprises. La
+saisie reste dans la démo ; les autres applications nécessitent une installation
+système distincte. Les langues non européennes sont expérimentales.
 
 ## Premiers caractères
 

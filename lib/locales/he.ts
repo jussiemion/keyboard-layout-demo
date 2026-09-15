@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const he = {
-  productName: 'פריסת המקלדת הטיפוגרפית של Semyon Yushkevich',
-  pageTitle: 'פריסת המקלדת הטיפוגרפית של Semyon Yushkevich',
+  productName: 'פריסת המקלדת הטיפוגרפית של Yushkevich',
+  pageTitle: 'פריסת המקלדת הטיפוגרפית של Yushkevich',
   pageDescription:
-    'מקלדת טיפוגרפית, תרגול הקלדה ומדריך לסימנים בדפדפן. עברו בין מצב סמלים בסיסי למורחב כדי להקליד סימני פיסוק, מטבע ותווים מיוחדים נוספים.',
+    'מקפים, מירכאות, מטבעות וסימנים דיאקריטיים ללא קודי Alt. תרגול מקלדת ומדריך טיפוגרפי לכותבים, מעצבים ומתרגמים.',
   brandTitle: 'פריסה טיפוגרפית',
   headerActions: 'מראה, שפת הממשק ומידע על המיזם',
   sourceLabel: 'קוד המקור ב־GitHub',
@@ -36,19 +36,7 @@ export const he = {
   resetLabel: 'ניקוי שדה הטקסט',
   resetTooltip: 'להתחיל מחדש',
   keyboardTitle: 'בירמן',
-  keyHint: 'מקש {key}:',
-  capsInstantHint: 'מקש {key}, החלפת שפה מיידית:',
-  capsQuickHint: 'מקש {key}, החלפת שפה מהירה:',
   modeLabel: 'מצב:',
-  languageSlotHint:
-    'לבחירת {slot} — {language}: החזיקו את {caps} ולחצו על {key}.',
-  symbolEntryHint: 'לחצו על {alt} למצב סמלים {mode}.',
-  extendedEntryHint: 'לחצו פעמיים על {alt} למצב מורחב {mode}.',
-  extendedNextHint: 'לחצו שוב על {alt} למצב מורחב {mode}.',
-  basicOutputHint:
-    'במצב בסיסי {mode}, החזיקו את {alt} ולחצו על {key} כדי להקליד {symbol}.',
-  symbolOutputHint: 'במצב סמלים {mode} מקליד ‏{symbol}.',
-  extendedOutputHint: 'במצב מורחב {mode} מקליד ‏{symbol}.',
   chooseMode: 'בחירת מצב ההקלדה למקש הבא',
   basicMode: 'בסיסי',
   primaryMode: 'סמלים',
@@ -61,18 +49,11 @@ export const he = {
   secondarySymbol: 'מצב מורחב, {modifier} פעמיים: {symbol}',
   emptyPrimary: 'אין סימן במצב סמלים',
   emptySecondary: 'אין סימן במצב מורחב',
-  diacriticCycleHint: 'לחצו על Shift להחלפת הסימן הדיאקריטי של האות.',
-  languageSlotsHint:
-    'החזיקו את {caps} ולחצו על {j} — {l1}, ‏{k} — {l2}, ‏{l} — {l3} או {semicolon} — {l4} לבחירת שפה.',
-  hintLabel: 'טיפ:',
-  hintsLabel: 'טיפים:',
   typographyToggleHint:
     'לחצו על שני מקשי {ctrl} יחד ושחררו אותם כדי לכבות או להפעיל את הפריסה.',
   typographyDisabledWarning:
     'שימו לב: הפריסה כבויה. לחצו על שני מקשי {ctrl} יחד ושחררו אותם כדי להפעיל אותה.',
   accentModeWarning: 'שימו לב: מצב ההטעמה פעיל. הקלידו אות תנועה.',
-  keyDetailHelp: 'לחצו על {alt} למצב סמלים. לחצו פעמיים על {alt} למצב מורחב.',
-  resetMode: 'לחצו על {esc} לאיפוס המצב.',
   entered: 'הוקלד: {symbol}',
   themeLight: 'בהיר',
   themeDark: 'כהה',
@@ -125,17 +106,6 @@ export const he = {
   platform: 'מערכת הפעלה',
   choosePlatform: 'בחירת מערכת הפעלה: {platform}',
   fnKeyInfo: 'מקש Fn מנוהל על ידי macOS',
-  tabInputHint: 'מוסיף טאב; ללא פונקציות טיפוגרפיות נוספות.',
-  backspaceInputHint:
-    'מוחק את הבחירה או את התו הקודם; ללא פונקציות טיפוגרפיות נוספות.',
-  enterInputHint: 'מוסיף מעבר שורה; ללא פונקציות טיפוגרפיות נוספות.',
-  standardCharacterHint: 'מקליד תווים רגילים; אין פונקציות טיפוגרפיות נוספות.',
-  unusedKeyHint:
-    'מקש {key} שומר על פעולתו הרגילה ואינו חלק מהפריסה הטיפוגרפית.',
-  shiftUsageHint:
-    'החזיקו {shift} לאותיות גדולות ולסמלים העליונים במקשים. אחרי אות, לחצו ושחררו {shift} כדי לעבור בין הגרסאות הזמינות עם סימנים דיאקריטיים.',
-  altUsageHint:
-    'המקש הראשי לקלט טיפוגרפי: מעניק גישה לסמלים נוספים ומאפשר להקליד סמלים מהירים בזמן החזקתו.',
   keyArrowLeft: 'חץ שמאלה',
   keyArrowRight: 'חץ ימינה',
   keyArrowUp: 'חץ למעלה',

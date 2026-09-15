@@ -506,50 +506,10 @@ main {
   opacity: 1;
 }
 
-/* Preserve the largest hint height at this width. Never anchor scrolling to
-   transient hint text; it must not move the keyboard under a stationary pointer. */
-
-.key-detail-region {
-  flex-shrink: 0;
-  overflow-anchor: none;
-}
-
-.key-detail {
-  --hint-gap: 20px;
-  text-wrap: pretty;
-  flex-shrink: 0;
-  margin-top: 32px;
-  padding-bottom: var(--page-edge-space);
-  display: flex;
-  flex-direction: column;
-  text-align: start;
-  align-items: stretch;
-  gap: 16px;
-  color: var(--sub);
-  font-size: 0.875rem;
-  line-height: 1.6;
-}
-
-.hint-label {
-  margin: 0;
-}
-
-.hovered-key-hint b {
-  font-weight: 400;
-  color: var(--primary);
-}
-
-.key-detail kbd {
+.trainer-status kbd {
   color: var(--foreground);
   background: var(--kbd-background);
   font-size: 12px;
-}
-
-.cancel-hint {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  white-space: nowrap;
 }
 
 .help-dialog {
@@ -620,9 +580,6 @@ main {
   }
   .mode-indicators {
     gap: 14px;
-  }
-  .key-detail {
-    text-align: start;
   }
   .help-dialog {
     width: calc(100% - 32px);
@@ -881,13 +838,6 @@ a:focus-visible {
   }
   .mode-name {
     display: none;
-  }
-  .key-detail {
-    --hint-gap: 12px;
-    align-items: stretch;
-  }
-  .cancel-hint {
-    white-space: normal;
   }
 }
 

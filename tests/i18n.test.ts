@@ -190,10 +190,7 @@ await test('automatic detection honors preference order and regional language ta
 });
 
 await test('formatting keeps repeated values, Unicode and visitor text literal', () => {
-  assert.equal(
-    formatMessage(messages.ru.keyDetailHelp, { alt: 'Alt' }),
-    'Нажмите Alt для символьного режима. Дважды Alt — расширенный режим.',
-  );
+  assert.equal(formatMessage('{alt} → {alt}.', { alt: 'Alt' }), 'Alt → Alt.');
   assert.equal(
     formatMessage(messages.pl.entered, { symbol: 'ą́ {alt} <test>' }),
     'Wpisano: ą́ {alt} <test>',

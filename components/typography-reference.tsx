@@ -11,7 +11,7 @@ import {
   Sun,
   X,
 } from 'lucide-react';
-import { AboutLayout } from '@/components/about-layout';
+import { SeoContent } from '@/components/seo-content';
 import {
   ReferenceSymbolCard,
   referenceSymbolId,
@@ -374,7 +374,7 @@ export function TypographyReference() {
           <div className="mt-6">
             <ExperimentalLanguageWarning />
           </div>
-          <AboutLayout />
+          <SeoContent page="reference" />
         </div>
       </div>
     </main>

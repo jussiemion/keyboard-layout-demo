@@ -13,9 +13,8 @@ adapters may bind Caps behavior to their own enabled state. The demo does not
 modify OS configuration.
 
 The demo dims all keycaps except the two Controls. Control keycaps retain their
-normal pressed state. Hovering or focusing either Control shows the toggle hint.
-When off, a warning replaces the entire ordinary hint area and explains
-re-enabling.
+normal pressed state. When typography is off, a state notification below the
+keyboard explains how to re-enable it.
 
 When the native-layout warning is visible, a trusted physical
 two-<kbd>Ctrl</kbd> gesture is reserved for the system adapter: the demo

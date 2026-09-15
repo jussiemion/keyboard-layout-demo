@@ -236,23 +236,6 @@ export function SettingsDialog({
                 ))}
               </div>
             </section>
-            <label className="settings-hints" htmlFor="settings-show-hints">
-              <span>
-                <strong>{text.hints}</strong>
-                <span>{text.hintsDescription}</span>
-              </span>
-              <input
-                id="settings-show-hints"
-                aria-label={text.hints}
-                type="checkbox"
-                role="switch"
-                aria-checked={draft.showHints}
-                checked={draft.showHints}
-                onChange={(e) =>
-                  setDraft({ ...draft, showHints: e.target.checked })
-                }
-              />
-            </label>
             {sessionOnly && (
               <output className={settingsStorageNoteClasses}>
                 {text.sessionOnly}

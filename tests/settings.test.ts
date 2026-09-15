@@ -19,7 +19,6 @@ import {
 const custom: UserSettings = {
   version: 1,
   languageMapping: { order: ['he', 'fr'], slots: ['de', 'it', 'he', 'de'] },
-  showHints: false,
 };
 
 void test('custom mappings round-trip, including Hebrew and repeated direct slots', () => {
@@ -44,11 +43,10 @@ void test('invalid mappings cannot create a broken S0 pair or incomplete slots',
       JSON.stringify({ ...custom, languageMapping }),
     );
     assert.equal(result.languageMapping, null);
-    assert.equal(result.showHints, false);
   }
-  assert.equal(
-    parseSettings('{"version":1,"showHints":"false"}').showHints,
-    true,
+  assert.deepEqual(
+    parseSettings(JSON.stringify({ ...custom, showHints: false })),
+    custom,
   );
 });
 

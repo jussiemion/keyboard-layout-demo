@@ -40,14 +40,14 @@ identify an OS-consumed key event that never reaches the browser.
 
 ## Source files
 
-| File                                                            | Responsibility                                                |
-| --------------------------------------------------------------- | ------------------------------------------------------------- |
-| [language-switching.ts](../lib/language-switching.ts)           | S0–S4 gestures and remembered pair language                   |
-| [typography-toggle.ts](../lib/typography-toggle.ts)             | Two-Control toggle gesture                                    |
-| [settings.ts](../lib/settings.ts)                               | Validate, store and subscribe to mapping and hint preferences |
-| [window-typing.ts](../lib/window-typing.ts)                     | Normalize key identity and filter window input                |
-| [native-layout-detection.ts](../lib/native-layout-detection.ts) | Recognize native typography output                            |
-| [input-caret.ts](../lib/input-caret.ts)                         | Restore focus, selection and horizontal scrolling             |
+| File                                                            | Responsibility                                     |
+| --------------------------------------------------------------- | -------------------------------------------------- |
+| [language-switching.ts](../lib/language-switching.ts)           | S0–S4 gestures and remembered pair language        |
+| [typography-toggle.ts](../lib/typography-toggle.ts)             | Two-Control toggle gesture                         |
+| [settings.ts](../lib/settings.ts)                               | Validate, store and subscribe to language mappings |
+| [window-typing.ts](../lib/window-typing.ts)                     | Normalize key identity and filter window input     |
+| [native-layout-detection.ts](../lib/native-layout-detection.ts) | Recognize native typography output                 |
+| [input-caret.ts](../lib/input-caret.ts)                         | Restore focus, selection and horizontal scrolling  |
 
 Run `bun run test`, `bun run typecheck` and `bun run lint`. Controller tests use
 event sequences and browser stubs; actual OS remapping still needs manual

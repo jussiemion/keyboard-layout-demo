@@ -11,9 +11,6 @@ export const helpCaptionClasses =
 export const helpPairClasses =
   'flex [flex-wrap:wrap] [justify-content:flex-end]';
 
-export const hintListClasses =
-  '[margin:0] [padding-inline-start:1.2em] min-w-0 grid [gap:8px] [list-style:disc]';
-
 export const languageDialogClasses = [
   'max-w-[min(480px,calc(100%-32px))] sm:max-w-[min(480px,calc(100%-32px))]',
   'max-h-[calc(100dvh-32px)] overflow-y-auto p-5',
@@ -34,10 +31,6 @@ export const homeMarkClasses = [
   '[background:var(--border)] [bottom:3px] [left:calc(50%_-_5px)]',
   '[border-radius:1px]',
 ].join(' ');
-
-export const keyDetailContentClasses = '[display:flow-root]';
-
-export const detailKeyClasses = 'text-foreground';
 
 export const helpCloseClasses = 'absolute top-2.5 end-2.5 text-(--sub)';
 

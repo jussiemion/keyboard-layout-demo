@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const nl = {
-  productName: 'Typografische toetsenbordindeling van Semyon Yushkevich',
-  pageTitle: 'Typografische toetsenbordindeling van Semyon Yushkevich',
+  productName: 'Typografische toetsenbordindeling van Yushkevich',
+  pageTitle: 'Typografische toetsenbordindeling van Yushkevich',
   pageDescription:
-    'Typografisch toetsenbord, typeoefeningen en symbolengids in de browser. Schakel tussen de basis- en uitgebreide symboolmodus voor leestekens, valutatekens en andere speciale tekens.',
+    'Gedachtestreepjes, aanhalingstekens, valuta en accenten zonder Alt-codes. Toetsenbordtrainer en typografiegids voor schrijvers, ontwerpers en vertalers.',
   brandTitle: 'typografische indeling',
   headerActions: 'Weergave, interfacetaal en projectinformatie',
   sourceLabel: 'Broncode op GitHub',
@@ -36,19 +36,7 @@ export const nl = {
   resetLabel: 'Tekstveld wissen',
   resetTooltip: 'opnieuw beginnen',
   keyboardTitle: 'Birman',
-  keyHint: 'Toets {key}:',
-  capsInstantHint: 'Toets {key}, direct van taal wisselen:',
-  capsQuickHint: 'Toets {key}, snel van taal wisselen:',
   modeLabel: 'Modus:',
-  languageSlotHint:
-    'Kies {slot} — {language}: houd {caps} vast en druk op {key}.',
-  symbolEntryHint: 'Druk op {alt} voor symboolmodus {mode}.',
-  extendedEntryHint: 'Druk tweemaal op {alt} voor uitgebreide modus {mode}.',
-  extendedNextHint: 'Druk nogmaals op {alt} voor uitgebreide modus {mode}.',
-  basicOutputHint:
-    'Houd in basismodus {mode} {alt} vast en druk op {key} voor {symbol}.',
-  symbolOutputHint: 'Geeft in symboolmodus {mode} het teken {symbol}.',
-  extendedOutputHint: 'Geeft in uitgebreide modus {mode} het teken {symbol}.',
   chooseMode: 'Kies de modus voor de volgende toets',
   basicMode: 'basis',
   primaryMode: 'symbolen',
@@ -61,20 +49,11 @@ export const nl = {
   secondarySymbol: 'uitgebreide modus, {modifier} tweemaal: {symbol}',
   emptyPrimary: 'symboolmodus is leeg',
   emptySecondary: 'uitgebreide modus is leeg',
-  diacriticCycleHint:
-    'Druk op Shift om de diakritische varianten te doorlopen.',
-  languageSlotsHint:
-    'Houd {caps} vast en druk op {j} — {l1}, {k} — {l2}, {l} — {l3} of {semicolon} — {l4} om een taal te kiezen.',
-  hintLabel: 'Tip:',
-  hintsLabel: 'Tips:',
   typographyToggleHint:
     'Druk beide {ctrl}-toetsen samen in en laat los om de indeling aan of uit te zetten.',
   typographyDisabledWarning:
     'Let op: de indeling staat uit. Druk beide {ctrl}-toetsen samen in en laat los om deze aan te zetten.',
   accentModeWarning: 'Let op: klemtoonmodus is actief. Voer een klinker in.',
-  keyDetailHelp:
-    'Druk op {alt} voor symbolen, tweemaal op {alt} voor uitgebreid.',
-  resetMode: 'Druk op {esc} om de modus te wissen.',
   entered: 'Ingevoerd: {symbol}',
   themeLight: 'Licht',
   themeDark: 'Donker',
@@ -121,18 +100,6 @@ export const nl = {
   platform: 'Platform',
   choosePlatform: 'Kies platform: {platform}',
   fnKeyInfo: 'Fn wordt beheerd door macOS',
-  tabInputHint: 'Voegt een tab in; geen extra typografische functies.',
-  backspaceInputHint:
-    'Wist de selectie of het vorige teken; geen extra typografische functies.',
-  enterInputHint: 'Voegt een regeleinde in; geen extra typografische functies.',
-  standardCharacterHint:
-    'Typt gewone tekens; geen extra typografische functies.',
-  unusedKeyHint:
-    'Toets {key} behoudt zijn normale gedrag en maakt geen deel uit van de typografische indeling.',
-  shiftUsageHint:
-    'Houd {shift} vast voor hoofdletters en bovenste tekens. Druk na een letter op {shift} en laat los om varianten te doorlopen.',
-  altUsageHint:
-    'De hoofdtoets voor typografie: toegang tot extra symbolen en snelle tekens bij ingedrukt houden.',
   keyArrowLeft: 'Pijl links',
   keyArrowRight: 'Pijl rechts',
   keyArrowUp: 'Pijl omhoog',

@@ -10,6 +10,8 @@ import {
   referenceMetadata,
 } from '../lib/seo.ts';
 
+import audienceDetails from '../lib/audience-details.json' with { type: 'json' };
+
 const output = 'dist/client';
 const escapeXml = (text) =>
   text
@@ -67,10 +69,33 @@ for (const locale of UI_LOCALES) {
     const meta = suffix ? referenceMetadata(locale) : pageMetadata(locale);
     if (
       !html.includes(`href="${meta.alternates.canonical}"`) ||
+      !html.includes('id="audience-heading"') ||
       !html.toLowerCase().includes(`hreflang="${locale}"`) ||
       (suffix && (html.match(/<article\b/g)?.length ?? 0) < 70)
     ) {
       throw new Error(`Incomplete SEO content: ${file}`);
+    }
+    if (locale === 'en' || locale === 'ru') {
+      const visibleHtml = html.replace(
+        /<script\b[^>]*>[\s\S]*?<\/script>/g,
+        '',
+      );
+      for (const [question, answer] of audienceDetails[locale].faq) {
+        if (
+          !visibleHtml.includes(escapeXml(question)) ||
+          !visibleHtml.includes(escapeXml(answer))
+        ) {
+          throw new Error(`Missing visible FAQ content: ${file}`);
+        }
+      }
+      if (
+        !suffix &&
+        (meta.title.length > 60 || meta.description.length > 160)
+      ) {
+        throw new Error(
+          `SEO title or description exceeds its length budget: ${file}`,
+        );
+      }
     }
     writeFileSync(file, html);
   }

@@ -185,9 +185,22 @@ export function buildTourSteps(
       enabled: false,
       targetEnabled: true,
     },
-    { id: 'search', locale: 'en', keys: [], target: '©', spotlight: 'search' },
+    {
+      id: 'search',
+      locale: 'en',
+      keys: ['CapsLock', 'KeyF'],
+      chord: ['CapsLock', 'KeyF'],
+      target: '©',
+      spotlight: 'search',
+    },
     { id: 'settings', locale: 'en', keys: [], spotlight: 'settings' },
-    { id: 'help', locale: 'en', keys: [], spotlight: 'help' },
+    {
+      id: 'help',
+      locale: 'en',
+      keys: ['CapsLock', 'KeyH'],
+      chord: ['CapsLock', 'KeyH'],
+      spotlight: 'help',
+    },
   ];
 }
 

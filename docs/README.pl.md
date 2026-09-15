@@ -40,13 +40,38 @@ instalacji i konta. Używaj klawiatury fizycznej lub ekranowej.
 </picture>
 
 [Film: ciemny motyw](assets/demo-dark.mp4) ·
-[jasny motyw](assets/demo-light.mp4) · MP4 · ≈ 26 s
+[jasny motyw](assets/demo-light.mp4) · MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
 > Przed testem wyłącz systemowy układ typograficzny: może przechwytywać
 > <kbd>Alt</kbd> i <kbd>Caps Lock</kbd>. Brak ostrzeżenia nie potwierdza jego
 > wyłączenia.
+
+## Typografia w codziennej pracy
+
+### Dla autorów, copywriterów i redaktorów
+
+Ćwicz pauzę —, cudzysłowy «», “”, „“ i spacje nierozdzielające bez kodów Alt. W
+demo Alt + minus daje pauzę bez Alt+0151. Sam wybierasz cudzysłowy; układ nie
+zamienia ich automatycznie.
+
+### Dla grafików i projektantów UI/UX
+
+Znajdź i skopiuj ©, ®, ™ oraz $, €, £, ¥, ¢ do cen, tekstów interfejsu i
+wielojęzycznych makiet. Wklej znaki z poradnika typografii do Figmy lub edytora.
+Demo nie jest wtyczką do Figmy.
+
+### Dla poliglotów i tłumaczy
+
+Ćwicz niemieckie umlauty ä, ö, ü i francuskie znaki é, è, ç na zwykłej
+klawiaturze. Wpisz literę, potem naciskaj <kbd>Shift</kbd>, aby przechodzić
+przez warianty wybranego języka. Demo nie wymaga instalacji pakietów językowych
+systemu.
+
+14 języków interfejsu i 24 warianty klawiatury, w tym regionalne. Wpisywanie
+działa w demo; inne aplikacje wymagają osobnej instalacji systemowej. Obsługa
+języków pozaeuropejskich jest eksperymentalna.
 
 ## Pierwsze znaki
 

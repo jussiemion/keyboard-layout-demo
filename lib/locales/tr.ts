@@ -1,12 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const tr = {
-  productName:
-    'Semyon Yushkevich tarafından geliştirilen tipografik klavye düzeni',
-  pageTitle:
-    'Semyon Yushkevich tarafından geliştirilen tipografik klavye düzeni',
+  productName: 'Yushkevich tipografik klavye düzeni',
+  pageTitle: 'Yushkevich tipografik klavye düzeni',
   pageDescription:
-    'Tarayıcıda tipografik klavye, yazma alıştırmaları ve sembol rehberi. Noktalama, para birimi işaretleri ve diğer özel karakterler için temel ve genişletilmiş sembol modları arasında geçiş yapın.',
+    'Alt kodları olmadan uzun tire, tırnak, para birimi ve aksanlar. Yazarlar, tasarımcılar ve çevirmenler için klavye alıştırması ve tipografi rehberi.',
   brandTitle: 'tipografik düzen',
   headerActions: 'Görünüm, arayüz dili ve proje bilgileri',
   sourceLabel: 'GitHub kaynak kodu',
@@ -38,21 +36,7 @@ export const tr = {
   resetLabel: 'Metin alanını temizle',
   resetTooltip: 'yeniden başla',
   keyboardTitle: 'Birman',
-  keyHint: '{key} tuşu:',
-  capsInstantHint: '{key} tuşu, anında dil değiştirme:',
-  capsQuickHint: '{key} tuşu, hızlı dil değiştirme:',
   modeLabel: 'Mod:',
-  languageSlotHint:
-    '{slot} — {language} seçimi: {caps} basılıyken {key} tuşuna basın.',
-  symbolEntryHint: 'Simge modu {mode} için {alt} tuşuna basın.',
-  extendedEntryHint:
-    'Genişletilmiş mod {mode} için {alt} tuşuna iki kez basın.',
-  extendedNextHint:
-    'Genişletilmiş mod {mode} için {alt} tuşuna bir kez daha basın.',
-  basicOutputHint:
-    'Temel mod {mode} içinde {alt} basılıyken {key} tuşu {symbol} verir.',
-  symbolOutputHint: 'Simge modu {mode} içinde {symbol} verir.',
-  extendedOutputHint: 'Genişletilmiş mod {mode} içinde {symbol} verir.',
   chooseMode: 'Sonraki tuş için yazım modunu seçin',
   basicMode: 'temel',
   primaryMode: 'simgeler',
@@ -65,19 +49,11 @@ export const tr = {
   secondarySymbol: 'genişletilmiş mod, {modifier} iki kez: {symbol}',
   emptyPrimary: 'simge modu boş',
   emptySecondary: 'genişletilmiş mod boş',
-  diacriticCycleHint:
-    'Harfin aksanları arasında geçiş için Shift tuşuna basın.',
-  languageSlotsHint:
-    'Dil seçmek için {caps} basılıyken {j} — {l1}, {k} — {l2}, {l} — {l3} veya {semicolon} — {l4} tuşuna basın.',
-  hintLabel: 'İpucu:',
-  hintsLabel: 'İpuçları:',
   typographyToggleHint:
     'Düzeni açmak veya kapatmak için iki {ctrl} tuşuna birlikte basıp bırakın.',
   typographyDisabledWarning:
     'Uyarı: düzen kapalı. Açmak için iki {ctrl} tuşuna birlikte basıp bırakın.',
   accentModeWarning: 'Uyarı: vurgu modu etkin. Bir ünlü girin.',
-  keyDetailHelp: 'Simge modu için {alt}, genişletilmiş mod için iki kez {alt}.',
-  resetMode: 'Modu sıfırlamak için {esc} tuşuna basın.',
   entered: 'Girilen: {symbol}',
   themeLight: 'Açık',
   themeDark: 'Koyu',
@@ -124,18 +100,6 @@ export const tr = {
   platform: 'Platform',
   choosePlatform: 'Platform seçin: {platform}',
   fnKeyInfo: 'Fn tuşunu macOS yönetir',
-  tabInputHint: 'Sekme ekler; ek tipografik işlevi yoktur.',
-  backspaceInputHint:
-    'Seçimi veya önceki karakteri siler; ek tipografik işlevi yoktur.',
-  enterInputHint: 'Satır sonu ekler; ek tipografik işlevi yoktur.',
-  standardCharacterHint:
-    'Normal karakterler yazar; ek tipografik işlevi yoktur.',
-  unusedKeyHint:
-    '{key} tuşu normal davranışını korur ve tipografik düzende kullanılmaz.',
-  shiftUsageHint:
-    'Büyük harfler ve üst simgeler için {shift} basılı tutun. Harften sonra aksanları dolaşmak için {shift} tuşuna basıp bırakın.',
-  altUsageHint:
-    'Tipografik girişin ana tuşu: ek simgelere erişim sağlar, basılıyken hızlı simgeler yazar.',
   keyArrowLeft: 'Sol ok',
   keyArrowRight: 'Sağ ok',
   keyArrowUp: 'Yukarı ok',

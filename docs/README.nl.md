@@ -40,7 +40,7 @@ installatie of account nodig. Typ op je toetsenbord of klik op de schermtoetsen.
 </picture>
 
 [Video: donker thema](assets/demo-dark.mp4) ·
-[licht thema](assets/demo-light.mp4) · MP4 · ≈ 26 s
+[licht thema](assets/demo-light.mp4) · MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
@@ -48,6 +48,30 @@ installatie of account nodig. Typ op je toetsenbord of klik op de schermtoetsen.
 > Die kan <kbd>Alt</kbd> of <kbd>Caps Lock</kbd> onderscheppen voordat de
 > browser ze ontvangt. Een waarschuwing verschijnt alleen na kenmerkende invoer;
 > geen waarschuwing betekent niet zeker dat de systeemindeling uitstaat.
+
+## Typografie voor je werk
+
+### Voor auteurs, tekstschrijvers en redacteuren
+
+Oefen gedachtestreepjes —, aanhalingstekens «», “”, „“ en vaste spaties zonder
+Alt-codes. In de demo geeft Alt + min een — zonder Alt+0151. Je kiest de
+aanhalingstekens zelf; ze worden niet automatisch vervangen.
+
+### Voor grafisch, web- en UI/UX-design
+
+Zoek en kopieer ©, ®, ™ en $, €, £, ¥, ¢ voor prijzen, interfaceteksten en
+meertalige ontwerpen. Plak tekens uit de typografiegids in Figma of je editor.
+De demo is geen Figma-plugin.
+
+### Voor polyglotten en vertalers
+
+Oefen Duitse umlauten ä, ö, ü en Franse accenten é, è, ç op een
+standaardtoetsenbord. Typ een letter en druk daarna op <kbd>Shift</kbd> voor
+varianten van de gekozen taal. Voor de demo zijn geen taalpakketten nodig.
+
+14 interfacetalen en 24 toetsenbordvarianten, inclusief regionale. Invoer werkt
+in de demo; andere apps vereisen een aparte systeeminstallatie. Niet-Europese
+talen zijn experimenteel.
 
 ## Eerste symbolen
 

@@ -41,7 +41,7 @@ màn hình.
 </picture>
 
 [Video: giao diện tối](assets/demo-dark.mp4) ·
-[giao diện sáng](assets/demo-light.mp4) · MP4 · ≈ 26 s
+[giao diện sáng](assets/demo-light.mp4) · MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
@@ -49,6 +49,30 @@ màn hình.
 > <kbd>Alt</kbd> hoặc <kbd>Caps Lock</kbd> trước trình duyệt. Cảnh báo chỉ xuất
 > hiện sau tín hiệu rõ ràng; không có cảnh báo chưa chứng minh bố cục hệ thống
 > đã tắt.
+
+## Kiểu chữ cho công việc của bạn
+
+### Dành cho người viết và biên tập viên
+
+Tập gõ gạch ngang dài —, ngoặc kép «», “”, „“ và dấu cách không ngắt mà không
+cần mã Alt. Trong bản demo, Alt + dấu trừ tạo — mà không cần Alt+0151. Bạn tự
+chọn ngoặc kép; chúng không được thay thế tự động.
+
+### Dành cho nhà thiết kế đồ họa, web và UI/UX
+
+Tìm và sao chép ©, ®, ™ cùng $, €, £, ¥, ¢ cho giá, nội dung giao diện và thiết
+kế đa ngôn ngữ. Dán ký hiệu từ cẩm nang vào Figma hoặc trình soạn thảo. Demo
+không phải plugin Figma.
+
+### Dành cho người đa ngôn ngữ và dịch giả
+
+Tập gõ ä, ö, ü tiếng Đức và é, è, ç tiếng Pháp trên bàn phím thông thường. Gõ
+chữ cái rồi nhấn <kbd>Shift</kbd> để duyệt các biến thể của ngôn ngữ đã chọn.
+Demo không cần cài gói ngôn ngữ hệ điều hành.
+
+14 ngôn ngữ giao diện và 24 biến thể bàn phím, gồm các biến thể vùng. Nhập liệu
+hoạt động trong demo; ứng dụng khác cần cài đặt riêng ở cấp hệ thống. Hỗ trợ
+ngôn ngữ ngoài châu Âu còn thử nghiệm.
 
 ## Ký hiệu đầu tiên
 

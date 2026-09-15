@@ -41,7 +41,7 @@ sullo schermo.
 </picture>
 
 [Video: tema scuro](assets/demo-dark.mp4) · [tema chiaro](assets/demo-light.mp4)
-· MP4 · ≈ 26 s
+· MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
@@ -49,6 +49,31 @@ sullo schermo.
 > intercettare <kbd>Alt</kbd> o <kbd>Caps Lock</kbd> prima che raggiungano il
 > browser. L’avviso appare solo dopo eventi caratteristici: la sua assenza non
 > dimostra che il layout sia disattivato.
+
+## La tipografia nel tuo lavoro
+
+### Per autori, copywriter e redattori
+
+Esercitati con lineette —, virgolette «», “”, „“ e spazi unificatori senza
+codici Alt. Nella demo, Alt + meno produce — senza Alt+0151. Scegli tu le
+virgolette: non vengono sostituite automaticamente.
+
+### Per grafici e designer web e UI/UX
+
+Trova e copia ©, ®, ™ e $, €, £, ¥, ¢ per prezzi, testi di interfaccia e
+progetti multilingue. Incolla i segni della guida tipografica in Figma o nel tuo
+editor. La demo non è un plugin Figma.
+
+### Per poliglotti e traduttori
+
+Esercitati con gli umlaut tedeschi ä, ö, ü e gli accenti francesi é, è, ç su una
+tastiera standard. Digita una lettera e premi <kbd>Shift</kbd> per scorrere le
+varianti della lingua scelta. La demo non richiede pacchetti linguistici del
+sistema.
+
+14 lingue di interfaccia e 24 varianti di tastiera, comprese quelle regionali.
+La digitazione funziona nella demo; le altre app richiedono un’installazione di
+sistema separata. Le lingue non europee sono sperimentali.
 
 ## Primi caratteri
 

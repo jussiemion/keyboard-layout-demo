@@ -75,8 +75,8 @@ Dead keys compose the next letter using Unicode NFC, preserving combining
 sequences when needed. A second dead key replaces the pending accent.
 <kbd>Space</kbd> inserts its spacing form; a non-letter cancels the accent and
 is retained. Native `Dead` and IME events reset demo state and continue through
-native composition. Acute stress previews eligible letters; its warning replaces
-ordinary hints while armed.
+native composition. Acute stress previews eligible letters and shows a state
+notification while armed.
 
 Postfix diacritics work after a released letter: tap and release either
 <kbd>Shift</kbd> to cycle its language-specific variants. The on-screen
@@ -147,28 +147,24 @@ synthetic <kbd>Ctrl</kbd>+<kbd>Alt</kbd>; explicitly observed <kbd>Ctrl</kbd> is
 passed through. Full cross-platform physical compatibility is not claimed.
 Virtual controls remain available.
 
-## Layout, hints and accessibility behavior
+## Layout and accessibility behavior
 
-The header contains search, the cheat sheet and a menu for language, appearance,
-settings, tour and source. Toolbar groups are 36px high at every width; mode
-names disappear on narrow screens while their identifiers remain. Controls use
-shared mode and **`S0`**–**`S4`** styling in the toolbar, keycaps, hints and
-tour. Native `title` tooltips are not used.
+The header contains search, the cheat sheet and a grouped menu for preferences,
+learning resources and the project. Toolbar groups are 36px high at every width;
+mode names disappear on narrow screens while their identifiers remain. Controls
+use shared mode and **`S0`**–**`S4`** styling in the toolbar, keycaps and tour.
+Native `title` tooltips are not used.
 
-Ordinary key hints include the key name and applicable mode outputs, with
-localized symbol names. Empty assignments are omitted. **`S1`**–**`S4`** put
-their specific language chord first. Hover takes priority over focus; pointer
-leave restores focused-key hints. Disabled-key warnings and typography/accent
-warnings remain available with ordinary hints turned off. The tour provides its
-own guidance.
+Key hover hints and disabled-key warnings are not shown. Accessible key labels
+remain, while state notifications explain disabled typography, pending acute
+stress and detected system typography. The tour, search and cheat sheet provide
+usage guidance.
 
-The hint region retains its largest measured height at the current width so
-changing text cannot shrink the scroll range and move keys under the pointer.
-The reservation resets on width, UI-language or hint-preference changes. Text is
-not clipped and has no nested scrollbar. The document uses an overlay
-ScrollArea; the keyboard scales from its 960px reference width. The typing field
-uses `inputmode="none"` for the screen keyboard; search fields retain normal
-mobile input.
+The working area has a minimum height of `100dvh` and grows with its contents.
+The document uses an overlay ScrollArea; the keyboard scales from its 960px
+reference width, including during the tour. The typing field uses
+`inputmode="none"` for the screen keyboard; search fields retain normal mobile
+input.
 
 Dialogs restore focus and support <kbd>Escape</kbd>. Search navigation and tour
 <kbd>Enter</kbd> handling are described in [symbol-search.md](symbol-search.md)
@@ -190,9 +186,8 @@ accents, language switching and editing. Other tests cover settings, search, the
 tour, localization and detection. Type checks and a static build are separate
 checks; unit tests do not prove native keyboard compatibility.
 
-For the hint regression, use a short viewport, hover <kbd>Caps Lock</kbd>,
-scroll to the bottom, then move between ordinary keys,
-<kbd>Alt</kbd>/<kbd>Shift</kbd>, disabled <kbd>Meta</kbd>/Menu keys and empty
-space. The keyboard and scroll offset must remain stable. Repeat at narrow
-widths and with hints disabled. Real-device mobile and OS input checks require
-actual hardware events.
+For layout regression checks, use narrow and short viewports, open the tour,
+advance through short and long tasks, and trigger state notifications. The
+keyboard must retain its width, and the page must grow without clipping content
+or overlapping the SEO section. Hovering keys must not change document height.
+Real-device mobile and OS input checks require actual hardware events.

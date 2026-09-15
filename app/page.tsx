@@ -4,18 +4,14 @@ import { applicationSchema } from '@/lib/seo';
 
 import {
   homeMarkClasses,
-  detailKeyClasses,
   helpCloseClasses,
   arrowClusterClasses,
-  hintListClasses,
 } from '@/components/layout-classes';
 
 import { keyboardLabel } from '@/lib/keyboard-locales';
 
-import { ResultSymbol, HebrewExamples } from '@/components/result-symbol';
-
+import { SeoContent } from '@/components/seo-content';
 import { helpMessages } from '@/lib/help-messages';
-import { symbolNames } from '@/lib/symbol-names';
 
 import {
   getInitialKeyboardLocale,
@@ -33,7 +29,6 @@ import {
   useState,
   useSyncExternalStore,
   type CSSProperties,
-  type ReactNode,
 } from 'react';
 import {
   CornerDownLeft,
@@ -48,7 +43,6 @@ import {
   X,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { StableHintArea } from '@/components/stable-hint-area';
 import { SymbolSearchPanel } from '@/components/symbol-search';
 import { GuidedTour, TourInvitation } from '@/components/guided-tour';
 import { rememberTour, type TourStep } from '@/lib/tour';
@@ -85,7 +79,7 @@ import {
 } from '@/lib/language-switching';
 import { HelpContent } from '@/components/help-content';
 import { TranslatedText } from '@/components/translated-text';
-import { accentMessageKeys, keyMessageKeys } from '@/lib/messages';
+import { keyMessageKeys } from '@/lib/messages';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import {
   Dialog,
@@ -109,7 +103,6 @@ import {
   keyMap,
   replaceSelection,
   type Mode,
-  type Action,
   type KeyboardLocale,
 } from '@/lib/typing-engine';
 
@@ -138,7 +131,6 @@ export default function Home({
 }) {
   const { m, t, uiLocale, theme, platform } = useLocale();
   const modifiers = modifierNames(platform);
-  const modifierLabel = modifiers.alt.toLowerCase();
   const modeOptions: {
     value: Mode;
     mark: string;
@@ -192,7 +184,6 @@ export default function Home({
   }, [locale]);
   const rows = getKeyboardRows(platform, locale);
   const [mode, setMode] = useState<Mode>(0);
-  const [canCycleDiacritic, setCanCycleDiacritic] = useState(false);
   const [accent, setAccent] = useState<string | null>(null);
   const [held, setHeld] = useState<string[]>([]);
   const [helpOpen, setHelpOpen] = useState(false);
@@ -202,29 +193,6 @@ export default function Home({
   const helpTrigger = useRef<HTMLButtonElement>(null);
   const [caps, setCaps] = useState(false);
   const [virtualShift, setVirtualShift] = useState(false);
-  const [hoveredCode, setHoveredCode] = useState<string | null>(null);
-  const [focusedCode, setFocusedCode] = useState<string | null>(null);
-  const detailCode = hoveredCode ?? focusedCode;
-  const hovered = detailCode ? keyMap.get(detailCode) : undefined;
-  const hoveredPrimary = hovered ? actionLabel(hovered.primary) : '';
-  const hoveredSecondary = hovered ? actionLabel(hovered.secondary) : '';
-  const hoveredHasSymbols = Boolean(hoveredPrimary || hoveredSecondary);
-  const hoveredUnused = detailCode !== null && inactiveKeyCodes.has(detailCode);
-  const standardHint =
-    detailCode === 'Backslash'
-      ? m.standardCharacterHint
-      : detailCode === 'Tab'
-        ? m.tabInputHint
-        : detailCode === 'Backspace'
-          ? m.backspaceInputHint
-          : detailCode === 'Enter'
-            ? m.enterInputHint
-            : null;
-  const hoveredShift = Boolean(detailCode?.startsWith('Shift'));
-  const hoveredAlt = Boolean(detailCode?.startsWith('Alt'));
-  const hoveredCaps = detailCode === 'CapsLock';
-  const hoveredCtrl =
-    detailCode === 'ControlLeft' || detailCode === 'ControlRight';
   const [lastSymbol, setLastSymbol] = useState('');
   const [tourOpen, setTourOpen] = useState(false);
   const [tourTask, setTourTask] = useState<TourStep | null>(null);
@@ -306,6 +274,29 @@ export default function Home({
       return;
     }
     input.current?.focus({ preventScroll: true });
+    if (keys[0] === 'CapsLock' && ['KeyF', 'KeyH'].includes(keys[1])) {
+      for (const code of keys) {
+        window.dispatchEvent(
+          new KeyboardEvent('keydown', {
+            code,
+            key: code,
+            bubbles: true,
+            cancelable: true,
+          }),
+        );
+      }
+      for (const code of [...keys].reverse()) {
+        window.dispatchEvent(
+          new KeyboardEvent('keyup', {
+            code,
+            key: code,
+            bubbles: true,
+            cancelable: true,
+          }),
+        );
+      }
+      return;
+    }
     // Use the same input path as physical keys, including release-only gestures.
     for (const code of keys) {
       handleKey(new KeyboardEvent('keydown', { code, key: code }), true);
@@ -333,7 +324,6 @@ export default function Home({
   }, []);
 
   function refresh() {
-    setCanCycleDiacritic(engine.current.canCycleDiacritic);
     setAccent(engine.current.accent);
     setMode(engine.current.mode);
     setHeld([
@@ -368,14 +358,11 @@ export default function Home({
       languageController.current.reset();
       setMode(0);
       setAccent(null);
-      setCanCycleDiacritic(false);
       setHeld([]);
       setVirtualShift(false);
     };
     const resetPlatform = () => {
       reset();
-      setHoveredCode(null);
-      setFocusedCode(null);
     };
     const platformStorageChanged = (event: StorageEvent) => {
       if (
@@ -402,7 +389,6 @@ export default function Home({
         return;
       }
       engine.current.resetPostfix();
-      setCanCycleDiacritic(false);
     };
     window.addEventListener('pointerdown', resetPostfix, true);
     window.addEventListener('wheel', resetPostfix, true);
@@ -822,24 +808,6 @@ export default function Home({
     held.some((code) => code.startsWith('Alt')) &&
     !held.some((code) => /^(Control|Meta)/.test(code));
 
-  function symbolHint(action: Action) {
-    const symbol = actionLabel(action);
-    if (!symbol) {
-      return null;
-    }
-    const name = action.dead
-      ? m[accentMessageKeys[action.dead]]
-      : action.text === '\u00a0'
-        ? m.nonBreakingSpace
-        : symbolNames[action.text || '']?.[uiLocale];
-    return (
-      <>
-        <ResultSymbol>{symbol}</ResultSymbol>
-        {name && <> ({name})</>}
-      </>
-    );
-  }
-
   function renderKey(key: Keycap) {
     const entry = keyMap.get(key.code);
     const languageSlot = languageSlotForKey(key.code, languageConfig.slots);
@@ -899,10 +867,6 @@ export default function Home({
         onPointerDown={(event) => event.preventDefault()}
         onMouseDown={(event) => event.preventDefault()}
         onClick={() => virtualKey(key.code)}
-        onPointerEnter={() => setHoveredCode(key.code)}
-        onPointerLeave={() => setHoveredCode(null)}
-        onFocus={() => setFocusedCode(key.code)}
-        onBlur={() => setFocusedCode(null)}
       >
         {ArrowIcon ? (
           <ArrowIcon size={14} aria-hidden="true" />
@@ -986,47 +950,6 @@ export default function Home({
     );
   }
 
-  function afterHintColon(message: string) {
-    return message.charAt(0).toLocaleLowerCase(uiLocale) + message.slice(1);
-  }
-
-  function keyHintPrefix(key: ReactNode, message = m.keyHint) {
-    return (
-      <>
-        <span className={detailKeyClasses}>
-          <TranslatedText message={message} values={{ key }} />
-        </span>{' '}
-      </>
-    );
-  }
-
-  const hoveredSlot = hovered
-    ? languageSlotForKey(hovered.code, languageConfig.slots)
-    : undefined;
-  const referenceHints = typographyEnabled
-    ? [
-        { code: 'KeyF', key: 'F', label: helpMessages[uiLocale].search },
-        { code: 'KeyH', key: 'H', label: helpMessages[uiLocale].title },
-      ].filter(
-        ({ code }) =>
-          hoveredCaps || held.includes('CapsLock') || detailCode === code,
-      )
-    : [];
-  const hintCount =
-    referenceHints.length +
-    (mode === 0 ? 2 : mode === 1 ? 1 : 0) +
-    Number(held.includes('CapsLock') || hoveredCaps) +
-    Number(hoveredCaps) +
-    Number(hoveredCtrl) +
-    Number(hoveredShift) +
-    Number(Boolean(standardHint)) +
-    Number(hoveredAlt) +
-    Number(canCycleDiacritic) +
-    Number(hoveredHasSymbols) +
-    Number(Boolean(hoveredSlot)) +
-    Number(mode !== 0) +
-    Number(locale === 'he');
-
   return (
     <TooltipProvider delay={350}>
       <script
@@ -1042,682 +965,351 @@ export default function Home({
         data-tour-spotlight={tourTask?.spotlight}
         data-tour-active={tourOpen}
       >
-        <header className="site-header">
-          <div className="brand">
-            <BrandMarkIcon className="brand-mark" width={24} height={24} />
-            <h1>{m.brandTitle}</h1>
-          </div>
-          <nav className="header-actions" aria-label={m.headerActions}>
-            <SymbolSearchPanel
-              typographyEnabled={typographyEnabled}
-              modifierLabel={modifiers.alt}
-              onOpenChange={() => {
-                setHelpOpen(false);
-                resetState();
-              }}
-              onHelpRequest={() => {
-                setHelpOpen(true);
-                resetState();
-              }}
-            />
-            <Dialog
-              open={helpOpen}
-              onOpenChange={(open) => {
-                setHelpOpen(open);
-                resetState();
-              }}
-            >
-              <Tooltip>
-                <TooltipTrigger
-                  render={
-                    <DialogTrigger
-                      render={
-                        <Button
-                          ref={helpTrigger}
-                          data-tour-target="help"
-                          variant="ghost"
-                          size="icon"
-                          className="icon-link"
-                          aria-label={helpMessages[uiLocale].title}
-                          aria-keyshortcuts="Control+h"
-                        />
-                      }
-                    >
-                      <BookOpen size={20} aria-hidden="true" />
-                    </DialogTrigger>
-                  }
-                />
-                <TooltipContent>{helpMessages[uiLocale].title}</TooltipContent>
-              </Tooltip>
-              <DialogContent
-                className="help-dialog"
-                showCloseButton={false}
-                finalFocus={() => helpTrigger.current}
+        <div className="trainer-viewport">
+          <header className="site-header">
+            <div className="brand">
+              <BrandMarkIcon className="brand-mark" width={24} height={24} />
+              <h1>{m.brandTitle}</h1>
+            </div>
+            <nav className="header-actions" aria-label={m.headerActions}>
+              <SymbolSearchPanel
+                typographyEnabled={typographyEnabled}
+                modifierLabel={modifiers.alt}
+                onOpenChange={() => {
+                  setHelpOpen(false);
+                  resetState();
+                }}
+                onHelpRequest={() => {
+                  setHelpOpen(true);
+                  resetState();
+                }}
+              />
+              <Dialog
+                open={helpOpen}
+                onOpenChange={(open) => {
+                  setHelpOpen(open);
+                  resetState();
+                }}
               >
-                <DialogClose
-                  render={
-                    <Button
-                      variant="ghost"
-                      size="icon"
-                      className={helpCloseClasses}
-                      aria-label={m.closeHelp}
-                    />
-                  }
-                >
-                  <X />
-                </DialogClose>
-                <HelpContent
-                  keyboardLocale={locale}
-                  languageConfig={languageConfig}
-                />
-              </DialogContent>
-            </Dialog>
-            <HeaderMenu
-              languagePriority={[
-                ...languageConfig.order,
-                ...languageConfig.slots,
-              ]}
-              onUiLocaleChange={selectKeyboardLanguage}
-              onTourOpen={startTour}
-              tourActive={tourOpen}
-              onSettingsOpen={() => {
-                setSettingsSession((session) => session + 1);
-                setSettingsOpen(true);
-                resetState();
-              }}
-              inputRef={input}
-              triggerRef={menuTrigger}
-              onOpenChange={resetState}
-            />
-          </nav>
-        </header>
-
-        <SettingsDialog
-          key={settingsSession}
-          open={settingsOpen}
-          initialSettings={settings}
-          returnFocusRef={menuTrigger}
-          onOpenChange={(open) => {
-            setSettingsOpen(open);
-            resetState();
-          }}
-          onSave={(next) => {
-            resetState();
-            return saveSettings(next);
-          }}
-        />
-
-        <main>
-          {nativeLayoutActive && (
-            <aside className="native-layout-warning" role="alert">
-              <TriangleAlert size={20} aria-hidden="true" />
-              <div>
-                <strong>{nativeMessages.title}</strong>
-                <p>
-                  <TranslatedText
-                    message={nativeMessages.body}
-                    values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
+                <Tooltip>
+                  <TooltipTrigger
+                    render={
+                      <DialogTrigger
+                        render={
+                          <Button
+                            ref={helpTrigger}
+                            data-tour-target="help"
+                            variant="ghost"
+                            size="icon"
+                            className="icon-link"
+                            aria-label={helpMessages[uiLocale].title}
+                            aria-keyshortcuts="Control+h"
+                          />
+                        }
+                      >
+                        <BookOpen size={20} aria-hidden="true" />
+                      </DialogTrigger>
+                    }
                   />
-                </p>
-                {checkingNativeLayout ? (
+                  <TooltipContent>
+                    {helpMessages[uiLocale].title}
+                  </TooltipContent>
+                </Tooltip>
+                <DialogContent
+                  className="help-dialog"
+                  showCloseButton={false}
+                  finalFocus={() => helpTrigger.current}
+                >
+                  <DialogClose
+                    render={
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        className={helpCloseClasses}
+                        aria-label={m.closeHelp}
+                      />
+                    }
+                  >
+                    <X />
+                  </DialogClose>
+                  <HelpContent
+                    keyboardLocale={locale}
+                    languageConfig={languageConfig}
+                  />
+                </DialogContent>
+              </Dialog>
+              <HeaderMenu
+                languagePriority={[
+                  ...languageConfig.order,
+                  ...languageConfig.slots,
+                ]}
+                onUiLocaleChange={selectKeyboardLanguage}
+                onTourOpen={startTour}
+                tourActive={tourOpen}
+                onSettingsOpen={() => {
+                  setSettingsSession((session) => session + 1);
+                  setSettingsOpen(true);
+                  resetState();
+                }}
+                inputRef={input}
+                triggerRef={menuTrigger}
+                onOpenChange={resetState}
+              />
+            </nav>
+          </header>
+
+          <SettingsDialog
+            key={settingsSession}
+            open={settingsOpen}
+            initialSettings={settings}
+            returnFocusRef={menuTrigger}
+            onOpenChange={(open) => {
+              setSettingsOpen(open);
+              resetState();
+            }}
+            onSave={(next) => {
+              resetState();
+              return saveSettings(next);
+            }}
+          />
+
+          <div className="trainer-spacer" aria-hidden="true" />
+          <main>
+            {nativeLayoutActive && (
+              <aside className="native-layout-warning" role="alert">
+                <TriangleAlert size={20} aria-hidden="true" />
+                <div>
+                  <strong>{nativeMessages.title}</strong>
                   <p>
                     <TranslatedText
-                      message={nativeMessages.instruction}
-                      values={{
-                        alt: <kbd>{modifiers.alt}</kbd>,
-                        key: <kbd>C</kbd>,
-                      }}
+                      message={nativeMessages.body}
+                      values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
                     />
                   </p>
-                ) : (
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    onClick={() => {
-                      resetState();
-                      setCheckingNativeLayout(true);
-                      input.current?.focus({ preventScroll: true });
-                    }}
-                  >
-                    {nativeMessages.check}
-                  </Button>
-                )}
-              </div>
-            </aside>
-          )}
-          {tourOpen ? (
-            <GuidedTour
-              config={{
-                order: [languageConfig.order[0], languageConfig.order[1]],
-                slots: [
-                  languageConfig.slots[0],
-                  languageConfig.slots[1],
-                  languageConfig.slots[2],
-                  languageConfig.slots[3],
-                ],
-              }}
-              observation={{
-                value,
-                mode,
-                locale,
-                enabled: typographyEnabled,
-                settingsOpen,
-                helpOpen,
-              }}
-              onPrepare={prepareTour}
-              onFinish={finishTour}
-              onChord={playTourChord}
-              onKey={virtualKey}
-            />
-          ) : (
-            <TourInvitation onStart={startTour} />
-          )}
-          <section className="typing-area" aria-label={m.inputSection}>
-            <label className="sr-only" htmlFor="typing-input">
-              {m.inputLabel}
-            </label>
-            <div className="typing-field">
-              <input
-                type="text"
-                dir={['he', 'ar'].includes(locale) ? 'rtl' : 'ltr'}
-                lang={locale}
-                inputMode="none"
-                id="typing-input"
-                ref={input}
-                value={value}
-                readOnly={tourOpen && !tourTask}
-                aria-describedby={
-                  tourTask
-                    ? 'tour-title tour-instruction'
-                    : tourOpen
-                      ? 'tour-title'
-                      : undefined
-                }
-                spellCheck={false}
-                autoComplete="off"
-                autoCapitalize="off"
-                autoCorrect="off"
-                placeholder={m.inputPlaceholder}
-                onChange={(event) => setValue(event.target.value)}
-                onKeyDown={(event) => handleKey(event.nativeEvent, true)}
-                onKeyUp={(event) => handleKey(event.nativeEvent, false)}
-                onBlur={resetState}
-                onCompositionStart={resetState}
-                onPaste={resetState}
-                onCut={resetState}
-                onDrop={resetState}
-              />
-              <Tooltip>
-                <TooltipTrigger
-                  render={
+                  {checkingNativeLayout ? (
+                    <p>
+                      <TranslatedText
+                        message={nativeMessages.instruction}
+                        values={{
+                          alt: <kbd>{modifiers.alt}</kbd>,
+                          key: <kbd>C</kbd>,
+                        }}
+                      />
+                    </p>
+                  ) : (
                     <Button
-                      variant="ghost"
-                      size="icon"
-                      className="reset-button"
-                      onClick={clear}
-                      aria-label={m.resetLabel}
+                      variant="outline"
+                      size="sm"
+                      onClick={() => {
+                        resetState();
+                        setCheckingNativeLayout(true);
+                        input.current?.focus({ preventScroll: true });
+                      }}
                     >
-                      <RotateCcw size={19} />
+                      {nativeMessages.check}
                     </Button>
-                  }
-                />
-                <TooltipContent>{m.resetTooltip}</TooltipContent>
-              </Tooltip>
-            </div>
-          </section>
+                  )}
+                </div>
+              </aside>
+            )}
 
-          <section
-            className="keyboard-section"
-            aria-labelledby="keyboard-title"
-          >
-            <div className="keyboard-toolbar">
-              <div className="keyboard-heading">
-                <h2 id="keyboard-title">
-                  <a
-                    href="https://ilyabirman.ru/typography-layout/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    {m.keyboardTitle} <span>3.9</span>
-                  </a>
-                </h2>
-                <PlatformSwitcher onOpenChange={resetState} inputRef={input} />
-                <LanguageSwitcher
-                  languagePriority={[
-                    ...languageConfig.order,
-                    ...languageConfig.slots,
-                  ]}
-                  value={locale}
-                  onValueChange={(next) => {
-                    selectKeyboardLanguage(next);
-                    resetState();
-                  }}
-                  onOpenChange={resetState}
-                  inputRef={input}
+            {tourOpen ? (
+              <GuidedTour
+                config={{
+                  order: [languageConfig.order[0], languageConfig.order[1]],
+                  slots: [
+                    languageConfig.slots[0],
+                    languageConfig.slots[1],
+                    languageConfig.slots[2],
+                    languageConfig.slots[3],
+                  ],
+                }}
+                observation={{
+                  value,
+                  mode,
+                  locale,
+                  enabled: typographyEnabled,
+                  settingsOpen,
+                  helpOpen,
+                }}
+                onPrepare={prepareTour}
+                onFinish={finishTour}
+                onChord={playTourChord}
+                onKey={virtualKey}
+              />
+            ) : (
+              <TourInvitation onStart={startTour} />
+            )}
+            <section className="typing-area" aria-label={m.inputSection}>
+              <label className="sr-only" htmlFor="typing-input">
+                {m.inputLabel}
+              </label>
+              <div className="typing-field">
+                <input
+                  type="text"
+                  dir={['he', 'ar'].includes(locale) ? 'rtl' : 'ltr'}
+                  lang={locale}
+                  inputMode="none"
+                  id="typing-input"
+                  ref={input}
+                  value={value}
+                  readOnly={tourOpen && !tourTask}
+                  aria-describedby={
+                    tourTask
+                      ? 'tour-title tour-instruction'
+                      : tourOpen
+                        ? 'tour-title'
+                        : undefined
+                  }
+                  spellCheck={false}
+                  autoComplete="off"
+                  autoCapitalize="off"
+                  autoCorrect="off"
+                  placeholder={m.inputPlaceholder}
+                  onChange={(event) => setValue(event.target.value)}
+                  onKeyDown={(event) => handleKey(event.nativeEvent, true)}
+                  onKeyUp={(event) => handleKey(event.nativeEvent, false)}
+                  onBlur={resetState}
+                  onCompositionStart={resetState}
+                  onPaste={resetState}
+                  onCut={resetState}
+                  onDrop={resetState}
                 />
-              </div>
-              <RadioGroup
-                className="mode-indicators"
-                data-tour-mode={tourTask?.id === 'modes' || undefined}
-                aria-label={m.chooseMode}
-                value={String(mode)}
-                // Keep pointer selection from blurring the input into M0 before the click.
-                onMouseDown={(event) => event.preventDefault()}
-                onValueChange={(next) => chooseMode(Number(next) as Mode)}
-              >
-                {modeOptions.map((option) => (
-                  <label
-                    className="mode-indicator"
-                    key={option.value}
-                    data-mode={option.value}
-                    data-active={mode === option.value}
-                  >
-                    <RadioGroupItem
-                      value={String(option.value)}
-                      className="choice-radio"
-                      aria-label={`${option.label} (${option.mark})`}
-                    />
-                    <span className="mode-name">{option.label}</span>
-                    <span className="inline-mode" data-mode={option.value}>
-                      {option.mark}
-                    </span>
-                  </label>
-                ))}
-              </RadioGroup>
-            </div>
-            <section
-              ref={keyboardFrame}
-              className="keyboard-frame"
-              aria-label={m.keyboardLanguage}
-            >
-              <div
-                dir="ltr"
-                className={`virtual-keyboard platform-${platform} mode-${mode}${typographyEnabled ? '' : ' typography-disabled'}`}
-              >
-                {rows.map((row, index) => (
-                  <div className="keyboard-row" key={index}>
-                    {row.map((key) =>
-                      'keys' in key ? (
-                        <div
-                          key={key.code}
-                          className={arrowClusterClasses}
-                          style={{ '--units': key.width } as CSSProperties}
-                        >
-                          {key.keys.map(renderKey)}
-                        </div>
-                      ) : (
-                        renderKey(key)
-                      ),
-                    )}
-                  </div>
-                ))}
+                <Tooltip>
+                  <TooltipTrigger
+                    render={
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        className="reset-button"
+                        onClick={clear}
+                        aria-label={m.resetLabel}
+                      >
+                        <RotateCcw size={19} />
+                      </Button>
+                    }
+                  />
+                  <TooltipContent>{m.resetTooltip}</TooltipContent>
+                </Tooltip>
               </div>
             </section>
-          </section>
-          <output className="sr-only">
-            {lastSymbol &&
-              t('entered', {
-                symbol:
-                  lastSymbol === '\u00a0' ? m.nonBreakingSpace : lastSymbol,
-              })}
-          </output>
-          <StableHintArea key={`${uiLocale}:${settings.showHints}`}>
-            {(settings.showHints ||
-              hoveredUnused ||
-              !typographyEnabled ||
-              accent === 'acute') && (
-              <div className="key-detail" aria-live="polite">
-                {hoveredUnused || !typographyEnabled || accent === 'acute' ? (
-                  <span className="accent-warning">
-                    <TriangleAlert size={17} aria-hidden="true" />
-                    <strong>
-                      {hoveredUnused ? (
-                        <TranslatedText
-                          message={m.unusedKeyHint}
-                          values={{
-                            key: (
-                              <kbd>
-                                {detailCode?.startsWith('Meta')
-                                  ? modifiers.meta
-                                  : detailCode === 'ContextMenu'
-                                    ? 'Menu'
-                                    : detailCode}
-                              </kbd>
-                            ),
-                          }}
-                        />
-                      ) : typographyEnabled ? (
-                        m.accentModeWarning
-                      ) : (
-                        <TranslatedText
-                          message={m.typographyDisabledWarning}
-                          values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
-                        />
-                      )}
-                    </strong>
-                  </span>
-                ) : (
-                  <>
-                    <strong className="hint-label">
-                      {hintCount > 1 ? m.hintsLabel : m.hintLabel}
-                    </strong>
-                    <ul className={hintListClasses}>
-                      {referenceHints.map(({ code, key, label }) => (
-                        <li key={code}>
-                          {keyHintPrefix(
-                            <kbd>{hoveredCaps ? 'Caps Lock' : key}</kbd>,
-                          )}
-                          <span
-                            dir="ltr"
-                            className="inline-flex items-center gap-1"
-                          >
-                            <kbd>Caps Lock</kbd> + <kbd>{key}</kbd>
-                          </span>
-                          {' — '}
-                          {label}.
-                        </li>
-                      ))}
-                      {hovered && hoveredSlot && (
-                        <li>
-                          {keyHintPrefix(
-                            <kbd>
-                              {hovered.code === 'Semicolon'
-                                ? ';'
-                                : hovered.code.slice(3)}
-                            </kbd>,
-                            m.capsQuickHint,
-                          )}
-                          <TranslatedText
-                            message={afterHintColon(m.languageSlotHint)}
-                            values={{
-                              caps: (
-                                <kbd
-                                  className="language-mark"
-                                  aria-label="Caps Lock"
-                                >
-                                  {LANGUAGE_SWITCH_MARK}
-                                </kbd>
-                              ),
-                              key: (
-                                <kbd>
-                                  {hovered.code === 'Semicolon'
-                                    ? ';'
-                                    : hovered.code.slice(3)}
-                                </kbd>
-                              ),
-                              slot: (
-                                <kbd className="language-mark">
-                                  {hoveredSlot.label}
-                                </kbd>
-                              ),
-                              language: keyboardLabel(
-                                hoveredSlot.locale,
-                                uiLocale,
-                              ),
-                            }}
-                          />
-                        </li>
-                      )}
-                      {standardHint && (
-                        <li>
-                          {keyHintPrefix(
-                            <kbd>
-                              {detailCode === 'Backslash'
-                                ? baseKey('Backslash', locale)
-                                : detailCode}
-                            </kbd>,
-                          )}
-                          {afterHintColon(standardHint)}
-                        </li>
-                      )}
-                      {hoveredShift && (
-                        <li>
-                          {keyHintPrefix(<kbd>{m.keyShift}</kbd>)}
-                          <TranslatedText
-                            message={afterHintColon(m.shiftUsageHint)}
-                            values={{ shift: <kbd>{m.keyShift}</kbd> }}
-                          />
-                        </li>
-                      )}
-                      {hoveredAlt && (
-                        <li>
-                          {keyHintPrefix(<kbd>{modifiers.alt}</kbd>)}
-                          <TranslatedText
-                            message={afterHintColon(m.altUsageHint)}
-                            values={{}}
-                          />
-                        </li>
-                      )}
-                      {hoveredCtrl && (
-                        <li>
-                          {keyHintPrefix(<kbd>{modifiers.control}</kbd>)}
-                          <TranslatedText
-                            message={afterHintColon(m.typographyToggleHint)}
-                            values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
-                          />
-                        </li>
-                      )}
-                      {hovered && hoveredHasSymbols && (
-                        <li className="hovered-key-hint">
-                          <span className={detailKeyClasses}>
-                            <TranslatedText
-                              message={m.keyHint}
-                              values={{
-                                key: (
-                                  <kbd>
-                                    {hovered.label === 'Space'
-                                      ? m.space
-                                      : hovered.label.toUpperCase()}
-                                  </kbd>
-                                ),
-                              }}
-                            />
-                          </span>
-                          {hovered.quick && hoveredPrimary && (
-                            <span>
-                              <TranslatedText
-                                message={afterHintColon(m.basicOutputHint)}
-                                values={{
-                                  mode: (
-                                    <kbd className="inline-mode" data-mode="0">
-                                      M0
-                                    </kbd>
-                                  ),
-                                  alt: (
-                                    <kbd>
-                                      {locale === 'he'
-                                        ? `Left ${modifierLabel}`
-                                        : modifierLabel}
-                                    </kbd>
-                                  ),
-                                  key: <kbd>{hovered.label}</kbd>,
-                                  symbol: symbolHint(hovered.primary),
-                                }}
-                              />
-                            </span>
-                          )}
-                          {hoveredPrimary && (
-                            <span>
-                              <TranslatedText
-                                message={
-                                  hovered.quick && hoveredPrimary
-                                    ? m.symbolOutputHint
-                                    : afterHintColon(m.symbolOutputHint)
-                                }
-                                values={{
-                                  mode: (
-                                    <kbd className="inline-mode" data-mode="1">
-                                      M1
-                                    </kbd>
-                                  ),
-                                  symbol: symbolHint(hovered.primary),
-                                }}
-                              />
-                            </span>
-                          )}
-                          {hoveredSecondary && (
-                            <span>
-                              <TranslatedText
-                                message={
-                                  hoveredPrimary
-                                    ? m.extendedOutputHint
-                                    : afterHintColon(m.extendedOutputHint)
-                                }
-                                values={{
-                                  mode: (
-                                    <kbd className="inline-mode" data-mode="2">
-                                      M2
-                                    </kbd>
-                                  ),
-                                  symbol: symbolHint(hovered.secondary),
-                                }}
-                              />
-                            </span>
-                          )}
-                        </li>
-                      )}
-                      {hoveredCaps && (
-                        <li>
-                          {keyHintPrefix(
-                            <kbd
-                              className="language-mark"
-                              aria-label="Caps Lock"
-                            >
-                              {LANGUAGE_SWITCH_MARK}
-                            </kbd>,
-                            m.capsInstantHint,
-                          )}
-                          <TranslatedText
-                            message={afterHintColon(
-                              helpMessages[uiLocale].cycleBody,
-                            )}
-                            values={{
-                              caps: (
-                                <kbd
-                                  className="language-mark"
-                                  aria-label="Caps Lock"
-                                >
-                                  {LANGUAGE_SWITCH_MARK}
-                                </kbd>
-                              ),
-                              cycle: (
-                                <strong>
-                                  {[
-                                    ...languageConfig.order,
-                                    languageConfig.order[0],
-                                  ]
-                                    .map((language) =>
-                                      keyboardLabel(language, uiLocale),
-                                    )
-                                    .join(' → ')}
-                                </strong>
-                              ),
-                            }}
-                          />
-                        </li>
-                      )}
-                      {(held.includes('CapsLock') || hoveredCaps) && (
-                        <li>
-                          {hoveredCaps &&
-                            keyHintPrefix(
-                              <kbd
-                                className="language-mark"
-                                aria-label="Caps Lock"
-                              >
-                                {LANGUAGE_SWITCH_MARK}
-                              </kbd>,
-                              m.capsQuickHint,
-                            )}
-                          <TranslatedText
-                            message={
-                              hoveredCaps
-                                ? afterHintColon(m.languageSlotsHint)
-                                : m.languageSlotsHint
-                            }
-                            values={{
-                              j: <kbd>J</kbd>,
-                              k: <kbd>K</kbd>,
-                              l: <kbd>L</kbd>,
-                              semicolon: <kbd>;</kbd>,
-                              caps: (
-                                <kbd
-                                  className="language-mark"
-                                  aria-label="Caps Lock"
-                                >
-                                  {LANGUAGE_SWITCH_MARK}
-                                </kbd>
-                              ),
-                              l1: <kbd className="language-mark">S1</kbd>,
-                              l2: <kbd className="language-mark">S2</kbd>,
-                              l3: <kbd className="language-mark">S3</kbd>,
-                              l4: <kbd className="language-mark">S4</kbd>,
-                            }}
-                          />
-                        </li>
-                      )}
-                      {canCycleDiacritic && <li>{m.diacriticCycleHint}</li>}
-                      {mode === 0 && (
-                        <li>
-                          <TranslatedText
-                            message={m.symbolEntryHint}
-                            values={{
-                              alt: <kbd>{modifierLabel}</kbd>,
-                              mode: (
-                                <kbd className="inline-mode" data-mode="1">
-                                  M1
-                                </kbd>
-                              ),
-                            }}
-                          />
-                        </li>
-                      )}
-                      {mode !== 2 && (
-                        <li>
-                          <TranslatedText
-                            message={
-                              mode === 0
-                                ? m.extendedEntryHint
-                                : m.extendedNextHint
-                            }
-                            values={{
-                              alt: <kbd>{modifierLabel}</kbd>,
-                              mode: (
-                                <kbd className="inline-mode" data-mode="2">
-                                  M2
-                                </kbd>
-                              ),
-                            }}
-                          />
-                        </li>
-                      )}
-                      {mode !== 0 && (
-                        <li>
-                          <TranslatedText
-                            message={m.resetMode}
-                            values={{ esc: <kbd>esc</kbd> }}
-                          />
-                        </li>
-                      )}
-                      {locale === 'he' && (
-                        <li>
-                          <TranslatedText
-                            message={m.hebrewInputNote}
-                            values={{
-                              hebrewExamples: <HebrewExamples />,
-                              altGr: <kbd>AltGr</kbd>,
-                              altKey: <kbd>{modifiers.alt}</kbd>,
-                              shiftKey: <kbd>{m.keyShift}</kbd>,
-                            }}
-                          />
-                        </li>
-                      )}
-                    </ul>
-                  </>
-                )}
+
+            <section
+              className="keyboard-section"
+              aria-labelledby="keyboard-title"
+            >
+              <div className="keyboard-toolbar">
+                <div className="keyboard-heading">
+                  <h2 id="keyboard-title">
+                    <a
+                      href="https://ilyabirman.ru/typography-layout/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      {m.keyboardTitle} <span>3.9</span>
+                    </a>
+                  </h2>
+                  <PlatformSwitcher
+                    onOpenChange={resetState}
+                    inputRef={input}
+                  />
+                  <LanguageSwitcher
+                    languagePriority={[
+                      ...languageConfig.order,
+                      ...languageConfig.slots,
+                    ]}
+                    value={locale}
+                    onValueChange={(next) => {
+                      selectKeyboardLanguage(next);
+                      resetState();
+                    }}
+                    onOpenChange={resetState}
+                    inputRef={input}
+                  />
+                </div>
+                <RadioGroup
+                  className="mode-indicators"
+                  data-tour-mode={tourTask?.id === 'modes' || undefined}
+                  aria-label={m.chooseMode}
+                  value={String(mode)}
+                  // Keep pointer selection from blurring the input into M0 before the click.
+                  onMouseDown={(event) => event.preventDefault()}
+                  onValueChange={(next) => chooseMode(Number(next) as Mode)}
+                >
+                  {modeOptions.map((option) => (
+                    <label
+                      className="mode-indicator"
+                      key={option.value}
+                      data-mode={option.value}
+                      data-active={mode === option.value}
+                    >
+                      <RadioGroupItem
+                        value={String(option.value)}
+                        className="choice-radio"
+                        aria-label={`${option.label} (${option.mark})`}
+                      />
+                      <span className="mode-name">{option.label}</span>
+                      <span className="inline-mode" data-mode={option.value}>
+                        {option.mark}
+                      </span>
+                    </label>
+                  ))}
+                </RadioGroup>
               </div>
+              <section
+                ref={keyboardFrame}
+                className="keyboard-frame"
+                aria-label={m.keyboardLanguage}
+              >
+                <div
+                  dir="ltr"
+                  className={`virtual-keyboard platform-${platform} mode-${mode}${typographyEnabled ? '' : ' typography-disabled'}`}
+                >
+                  {rows.map((row, index) => (
+                    <div className="keyboard-row" key={index}>
+                      {row.map((key) =>
+                        'keys' in key ? (
+                          <div
+                            key={key.code}
+                            className={arrowClusterClasses}
+                            style={{ '--units': key.width } as CSSProperties}
+                          >
+                            {key.keys.map(renderKey)}
+                          </div>
+                        ) : (
+                          renderKey(key)
+                        ),
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </section>
+            </section>
+            <output className="sr-only">
+              {lastSymbol &&
+                t('entered', {
+                  symbol:
+                    lastSymbol === '\u00a0' ? m.nonBreakingSpace : lastSymbol,
+                })}
+            </output>
+            {(!typographyEnabled || accent === 'acute') && (
+              <output className="trainer-status accent-warning">
+                <TriangleAlert size={17} aria-hidden="true" />
+                <strong>
+                  {typographyEnabled ? (
+                    m.accentModeWarning
+                  ) : (
+                    <TranslatedText
+                      message={m.typographyDisabledWarning}
+                      values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
+                    />
+                  )}
+                </strong>
+              </output>
             )}
-          </StableHintArea>
-        </main>
+          </main>
+        </div>
+        <SeoContent page="trainer" />
       </div>
     </TooltipProvider>
   );

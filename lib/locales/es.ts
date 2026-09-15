@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const es = {
-  productName: 'Distribución tipográfica de Semyon Yushkevich',
-  pageTitle: 'Distribución tipográfica de Semyon Yushkevich',
+  productName: 'Distribución tipográfica de Yushkevich',
+  pageTitle: 'Distribución tipográfica de Yushkevich',
   pageDescription:
-    'Teclado tipográfico, práctica de escritura y guía de símbolos en el navegador. Alterna entre los modos de símbolos básico y ampliado para escribir puntuación, signos monetarios y otros caracteres especiales.',
+    'Rayas, comillas, monedas y acentos sin códigos Alt. Entrenador de teclado y guía tipográfica para autores, diseñadores y traductores.',
   brandTitle: 'distribución tipográfica',
   headerActions: 'Apariencia, idioma de la interfaz e información del proyecto',
   sourceLabel: 'Código fuente en GitHub',
@@ -37,21 +37,7 @@ export const es = {
   resetLabel: 'Borrar el campo de texto',
   resetTooltip: 'empezar de nuevo',
   keyboardTitle: 'Birman',
-  keyHint: 'Tecla {key}:',
-  capsInstantHint: 'Tecla {key}, cambio instantáneo de idioma:',
-  capsQuickHint: 'Tecla {key}, cambio rápido de idioma:',
   modeLabel: 'Modo:',
-  languageSlotHint:
-    'Selecciona {slot} — {language}: mantén pulsado {caps} y pulsa {key}.',
-  symbolEntryHint: 'Pulsa {alt} para activar el modo de símbolos {mode}.',
-  extendedEntryHint:
-    'Pulsa {alt} dos veces para activar el modo extendido {mode}.',
-  extendedNextHint:
-    'Pulsa {alt} una vez más para activar el modo extendido {mode}.',
-  basicOutputHint:
-    'En el modo básico {mode}, mantén pulsado {alt} y pulsa {key} para escribir {symbol}.',
-  symbolOutputHint: 'En el modo de símbolos {mode} produce {symbol}.',
-  extendedOutputHint: 'En el modo extendido {mode} produce {symbol}.',
   chooseMode: 'Elegir el modo para la siguiente tecla',
   basicMode: 'básico',
   primaryMode: 'símbolos',
@@ -65,21 +51,12 @@ export const es = {
   secondarySymbol: 'modo ampliado, {modifier} dos veces: {symbol}',
   emptyPrimary: 'modo de símbolos sin asignación',
   emptySecondary: 'modo ampliado sin asignación',
-  diacriticCycleHint:
-    'Pulsa Shift para recorrer las variantes diacríticas de la letra introducida.',
-  languageSlotsHint:
-    'Mantén pulsado {caps} y pulsa {j} — {l1}, {k} — {l2}, {l} — {l3} o {semicolon} — {l4} para elegir un idioma.',
-  hintLabel: 'Consejo:',
-  hintsLabel: 'Consejos:',
   typographyToggleHint:
     'Pulsa ambas teclas {ctrl} a la vez y suéltalas para desactivar o activar la distribución.',
   typographyDisabledWarning:
     'Atención: la distribución está desactivada. Pulsa ambas teclas {ctrl} a la vez y suéltalas para activarla.',
   accentModeWarning:
     'Atención: el modo de acento está activado. Escribe una vocal.',
-  keyDetailHelp:
-    'Pulsa {alt} para el modo de símbolos. Pulsa {alt} dos veces para el modo ampliado.',
-  resetMode: 'Pulsa {esc} para restablecer el modo.',
   entered: 'Introducido: {symbol}',
   themeLight: 'Claro',
   themeDark: 'Oscuro',
@@ -135,20 +112,6 @@ export const es = {
   platform: 'Plataforma',
   choosePlatform: 'Elegir plataforma: {platform}',
   fnKeyInfo: 'macOS gestiona la tecla Fn',
-  tabInputHint:
-    'Inserta una tabulación; sin funciones tipográficas adicionales.',
-  backspaceInputHint:
-    'Elimina la selección o el carácter anterior; sin funciones tipográficas adicionales.',
-  enterInputHint:
-    'Inserta un salto de línea; sin funciones tipográficas adicionales.',
-  standardCharacterHint:
-    'Introduce caracteres normales; no tiene funciones tipográficas adicionales.',
-  unusedKeyHint:
-    'La tecla {key} mantiene su comportamiento estándar y no forma parte de la distribución tipográfica.',
-  shiftUsageHint:
-    'Mantén {shift} para escribir mayúsculas y símbolos superiores de las teclas. Después de una letra, pulsa y suelta {shift} para recorrer sus variantes diacríticas disponibles.',
-  altUsageHint:
-    'La tecla principal de entrada tipográfica: da acceso a símbolos adicionales y permite introducir símbolos rápidos al mantenerla pulsada.',
   keyArrowLeft: 'Flecha izquierda',
   keyArrowRight: 'Flecha derecha',
   keyArrowUp: 'Flecha arriba',

@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const pt = {
-  productName: 'Disposição tipográfica de Semyon Yushkevich',
-  pageTitle: 'Disposição tipográfica de Semyon Yushkevich',
+  productName: 'Disposição tipográfica de Yushkevich',
+  pageTitle: 'Disposição tipográfica de Yushkevich',
   pageDescription:
-    'Teclado tipográfico, exercícios de escrita e guia de símbolos no navegador. Alterne entre os modos de símbolos básico e alargado para escrever pontuação, símbolos monetários e outros caracteres especiais.',
+    'Travessões, aspas, moedas e acentos sem códigos Alt. Treino de teclado e guia tipográfico para autores, designers e tradutores.',
   brandTitle: 'disposição tipográfica',
   headerActions: 'Aspeto, idioma da interface e informações do projeto',
   sourceLabel: 'Código-fonte no GitHub',
@@ -37,21 +37,7 @@ export const pt = {
   resetLabel: 'Limpar o campo de texto',
   resetTooltip: 'recomeçar',
   keyboardTitle: 'Birman',
-  keyHint: 'Tecla {key}:',
-  capsInstantHint: 'Tecla {key}, mudança instantânea de idioma:',
-  capsQuickHint: 'Tecla {key}, mudança rápida de idioma:',
   modeLabel: 'Modo:',
-  languageSlotHint:
-    'Selecione {slot} — {language}: mantenha {caps} premido e prima {key}.',
-  symbolEntryHint: 'Prima {alt} para ativar o modo de símbolos {mode}.',
-  extendedEntryHint:
-    'Prima {alt} duas vezes para ativar o modo alargado {mode}.',
-  extendedNextHint:
-    'Prima {alt} mais uma vez para ativar o modo alargado {mode}.',
-  basicOutputHint:
-    'No modo básico {mode}, mantenha {alt} premido e prima {key} para escrever {symbol}.',
-  symbolOutputHint: 'No modo de símbolos {mode} produz {symbol}.',
-  extendedOutputHint: 'No modo alargado {mode} produz {symbol}.',
   chooseMode: 'Escolher o modo para a próxima tecla',
   basicMode: 'básico',
   primaryMode: 'símbolos',
@@ -64,21 +50,12 @@ export const pt = {
   secondarySymbol: 'modo alargado, {modifier} duas vezes: {symbol}',
   emptyPrimary: 'modo de símbolos sem atribuição',
   emptySecondary: 'modo alargado sem atribuição',
-  diacriticCycleHint:
-    'Prima Shift para percorrer as variantes diacríticas da letra introduzida.',
-  languageSlotsHint:
-    'Mantenha {caps} premido e prima {j} — {l1}, {k} — {l2}, {l} — {l3} ou {semicolon} — {l4} para escolher um idioma.',
-  hintLabel: 'Sugestão:',
-  hintsLabel: 'Sugestões:',
   typographyToggleHint:
     'Prima as duas teclas {ctrl} ao mesmo tempo e solte-as para desativar ou ativar a disposição.',
   typographyDisabledWarning:
     'Atenção: a disposição está desativada. Prima as duas teclas {ctrl} ao mesmo tempo e solte-as para a ativar.',
   accentModeWarning:
     'Atenção: o modo de acento está ativo. Introduza uma vogal.',
-  keyDetailHelp:
-    'Prima {alt} para o modo de símbolos. Prima {alt} duas vezes para o modo alargado.',
-  resetMode: 'Prima {esc} para repor o modo.',
   entered: 'Introduzido: {symbol}',
   themeLight: 'Claro',
   themeDark: 'Escuro',
@@ -134,19 +111,6 @@ export const pt = {
   platform: 'Plataforma',
   choosePlatform: 'Escolher plataforma: {platform}',
   fnKeyInfo: 'A tecla Fn é gerida pelo macOS',
-  tabInputHint: 'Insere uma tabulação; sem funções tipográficas adicionais.',
-  backspaceInputHint:
-    'Apaga a seleção ou o caráter anterior; sem funções tipográficas adicionais.',
-  enterInputHint:
-    'Insere uma quebra de linha; sem funções tipográficas adicionais.',
-  standardCharacterHint:
-    'Introduz caracteres normais; não tem funções tipográficas adicionais.',
-  unusedKeyHint:
-    'A tecla {key} mantém o comportamento padrão e não faz parte da disposição tipográfica.',
-  shiftUsageHint:
-    'Mantém {shift} premido para maiúsculas e símbolos superiores das teclas. Depois de uma letra, prime e solta {shift} para percorrer as variantes diacríticas disponíveis.',
-  altUsageHint:
-    'A tecla principal de introdução tipográfica: dá acesso a símbolos adicionais e permite introduzir símbolos rápidos enquanto está premida.',
   keyArrowLeft: 'Seta para a esquerda',
   keyArrowRight: 'Seta para a direita',
   keyArrowUp: 'Seta para cima',

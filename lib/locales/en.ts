@@ -1,8 +1,8 @@
 export const en = {
-  productName: 'Typographic Layout by Semyon Yushkevich',
-  pageTitle: 'Typographic Layout by Semyon Yushkevich',
+  productName: 'Yushkevich Typographic Layout',
+  pageTitle: 'Yushkevich Layout — Typography, Accents and Diacritics',
   pageDescription:
-    'A typographic keyboard, typing trainer and symbol reference in your browser. Switch between basic and extended symbol modes to find punctuation, currency signs and other special characters.',
+    'Type em dashes, quotes, currency symbols and accents with Shift. Yushkevich’s layout for writers, designers and polyglots. Try the browser demo!',
   brandTitle: 'typographic layout',
   headerActions: 'Appearance, interface language and project information',
   sourceLabel: 'Source code on GitHub',
@@ -35,18 +35,7 @@ export const en = {
   resetLabel: 'Clear the text field',
   resetTooltip: 'start over',
   keyboardTitle: 'Birman',
-  keyHint: 'Key {key}:',
-  capsInstantHint: 'Key {key}, instant language switching:',
-  capsQuickHint: 'Key {key}, quick language switching:',
   modeLabel: 'Mode:',
-  languageSlotHint: 'Select {slot} — {language}: hold {caps} and press {key}.',
-  symbolEntryHint: 'Press {alt} to enter Symbol mode {mode}.',
-  extendedEntryHint: 'Press {alt} twice to enter Extended mode {mode}.',
-  extendedNextHint: 'Press {alt} once more to enter Extended mode {mode}.',
-  basicOutputHint:
-    'In Basic mode {mode}, hold {alt} and press {key} to type {symbol}.',
-  symbolOutputHint: 'In Symbol mode {mode}, it produces {symbol}.',
-  extendedOutputHint: 'In Extended mode {mode}, it produces {symbol}.',
   chooseMode: 'Choose the typing mode for the next key',
   basicMode: 'basic',
   primaryMode: 'symbols',
@@ -59,19 +48,11 @@ export const en = {
   secondarySymbol: 'extended mode, {modifier} twice: {symbol}',
   emptyPrimary: 'symbol mode is empty',
   emptySecondary: 'extended mode is empty',
-  diacriticCycleHint: 'Press Shift to cycle this letter’s diacritics.',
-  languageSlotsHint:
-    'While holding {caps}, press {j} — {l1}, {k} — {l2}, {l} — {l3} or {semicolon} — {l4} to select a language.',
-  hintLabel: 'Hint:',
-  hintsLabel: 'Hints:',
   typographyToggleHint:
     'Press both {ctrl} keys together, then release them to turn the layout off or on.',
   typographyDisabledWarning:
     'Warning: the layout is off. Press both {ctrl} keys together and release them to turn it on.',
   accentModeWarning: 'Warning: stress accent mode is active. Enter a vowel.',
-  keyDetailHelp:
-    'Press {alt} for symbol mode. Tap {alt} twice for extended mode.',
-  resetMode: 'Press {esc} to reset the mode.',
   entered: 'Entered: {symbol}',
   themeLight: 'Light',
   themeDark: 'Dark',
@@ -127,18 +108,6 @@ export const en = {
   platform: 'Platform',
   choosePlatform: 'Choose platform: {platform}',
   fnKeyInfo: 'Fn is managed by macOS',
-  tabInputHint: 'Inserts a tab; no additional typographic functions.',
-  backspaceInputHint:
-    'Deletes the selection or the preceding character; no additional typographic functions.',
-  enterInputHint: 'Inserts a line break; no additional typographic functions.',
-  standardCharacterHint:
-    'Types ordinary characters; has no additional typographic functions.',
-  unusedKeyHint:
-    'Key {key} retains its standard behavior and is not part of the typographic layout.',
-  shiftUsageHint:
-    'Hold {shift} for uppercase letters and upper key symbols. After a letter, tap and release {shift} to cycle its available diacritics.',
-  altUsageHint:
-    'The main key for typographic input: gives access to additional symbols and lets you type quick symbols while held.',
   keyArrowLeft: 'Left arrow',
   keyArrowRight: 'Right arrow',
   keyArrowUp: 'Up arrow',

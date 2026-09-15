@@ -1,4 +1,5 @@
 import copy from './seo-copy.json' with { type: 'json' };
+import audienceDetails from './audience-details.json' with { type: 'json' };
 import { messages, UI_LOCALES, type UiLocale } from './messages.ts';
 
 export const SITE_URL = 'https://jussiemion.github.io/keyboard-layout-demo/';
@@ -41,6 +42,7 @@ export function pageMetadata(locale: UiLocale = 'en', root = false) {
     robots: { index: true, follow: true },
     openGraph: {
       type: 'website' as const,
+      locale: locale === 'ru' ? 'ru_RU' : locale === 'en' ? 'en_US' : locale,
       title: m.pageTitle,
       description: m.pageDescription,
       url,
@@ -67,11 +69,19 @@ export function applicationSchema(locale: UiLocale, root = false) {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebApplication',
+    '@id': `${localeUrl(root ? undefined : locale)}#application`,
+    ...(locale === 'en' || locale === 'ru'
+      ? {
+          featureList: audienceDetails[locale].groups.flatMap((group) =>
+            group.items.map(([label]) => label),
+          ),
+        }
+      : {}),
     name: messages[locale].productName,
     description: messages[locale].pageDescription,
     url: localeUrl(root ? undefined : locale),
     applicationCategory: 'UtilitiesApplication',
-    operatingSystem: 'Any',
+    operatingSystem: 'Web browser',
     browserRequirements: 'Requires a modern browser with JavaScript',
     isAccessibleForFree: true,
     inLanguage: locale,

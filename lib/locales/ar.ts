@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const ar = {
-  productName: 'تخطيط لوحة المفاتيح الطباعي من Semyon Yushkevich',
-  pageTitle: 'تخطيط لوحة المفاتيح الطباعي من Semyon Yushkevich',
+  productName: 'تخطيط لوحة المفاتيح الطباعي من Yushkevich',
+  pageTitle: 'تخطيط لوحة المفاتيح الطباعي من Yushkevich',
   pageDescription:
-    'لوحة مفاتيح طباعية وتدريب على الكتابة ودليل للرموز في المتصفح. تنقّل بين وضع الرموز الأساسي والموسّع لكتابة علامات الترقيم والعملات والرموز الخاصة الأخرى.',
+    'شرطات واقتباسات وعملات وعلامات تشكيل دون رموز Alt. تدريب على لوحة المفاتيح ومرجع طباعي للكتّاب والمصممين والمترجمين.',
   brandTitle: 'تخطيط طباعي',
   headerActions: 'المظهر ولغة الواجهة ومعلومات المشروع',
   sourceLabel: 'الكود المصدري على GitHub',
@@ -36,18 +36,7 @@ export const ar = {
   resetLabel: 'مسح حقل النص',
   resetTooltip: 'البدء من جديد',
   keyboardTitle: 'بيرمان',
-  keyHint: 'المفتاح {key}:',
-  capsInstantHint: 'المفتاح {key}، تبديل اللغة الفوري:',
-  capsQuickHint: 'المفتاح {key}، تبديل اللغة السريع:',
   modeLabel: 'الوضع:',
-  languageSlotHint: 'اختر {slot} — {language}: أبقِ {caps} مضغوطًا واضغط {key}.',
-  symbolEntryHint: 'اضغط {alt} للدخول إلى وضع الرموز {mode}.',
-  extendedEntryHint: 'اضغط {alt} مرتين للدخول إلى الوضع الموسّع {mode}.',
-  extendedNextHint: 'اضغط {alt} مرة أخرى للدخول إلى الوضع الموسّع {mode}.',
-  basicOutputHint:
-    'في الوضع الأساسي {mode}، اضغط {alt} مع {key} لكتابة {symbol}.',
-  symbolOutputHint: 'في وضع الرموز {mode} يعطي {symbol}.',
-  extendedOutputHint: 'في الوضع الموسّع {mode} يعطي {symbol}.',
   chooseMode: 'اختر وضع الكتابة للمفتاح التالي',
   basicMode: 'أساسي',
   primaryMode: 'رموز',
@@ -60,18 +49,11 @@ export const ar = {
   secondarySymbol: 'الوضع الموسّع، {modifier} مرتين: {symbol}',
   emptyPrimary: 'وضع الرموز فارغ',
   emptySecondary: 'الوضع الموسّع فارغ',
-  diacriticCycleHint: 'اضغط Shift للتنقل بين علامات الحرف.',
-  languageSlotsHint:
-    'أبقِ {caps} مضغوطًا واضغط {j} — {l1} أو {k} — {l2} أو {l} — {l3} أو {semicolon} — {l4} لاختيار اللغة.',
-  hintLabel: 'تلميح:',
-  hintsLabel: 'تلميحات:',
   typographyToggleHint:
     'اضغط مفتاحَي {ctrl} معًا ثم اتركهما لتشغيل التخطيط أو إيقافه.',
   typographyDisabledWarning:
     'تنبيه: التخطيط متوقف. اضغط مفتاحَي {ctrl} معًا ثم اتركهما لتشغيله.',
   accentModeWarning: 'تنبيه: وضع النبر نشط. أدخل حرف علة.',
-  keyDetailHelp: 'اضغط {alt} لوضع الرموز و{alt} مرتين للوضع الموسّع.',
-  resetMode: 'اضغط {esc} لإعادة ضبط الوضع.',
   entered: 'أُدخل: {symbol}',
   themeLight: 'فاتح',
   themeDark: 'داكن',
@@ -117,16 +99,6 @@ export const ar = {
   platform: 'المنصة',
   choosePlatform: 'اختر المنصة: {platform}',
   fnKeyInfo: 'يتحكم macOS في Fn',
-  tabInputHint: 'يدرج جدولة؛ دون وظائف طباعية إضافية.',
-  backspaceInputHint: 'يحذف التحديد أو الحرف السابق؛ دون وظائف طباعية إضافية.',
-  enterInputHint: 'يدرج سطرًا جديدًا؛ دون وظائف طباعية إضافية.',
-  standardCharacterHint: 'يكتب الأحرف العادية؛ دون وظائف طباعية إضافية.',
-  unusedKeyHint:
-    'يحتفظ المفتاح {key} بسلوكه العادي ولا يشارك في التخطيط الطباعي.',
-  shiftUsageHint:
-    'أبقِ {shift} مضغوطًا للأحرف الكبيرة والرموز العلوية. بعد الحرف، اضغط {shift} واتركه للتنقل بين العلامات المتاحة.',
-  altUsageHint:
-    'المفتاح الأساسي للإدخال الطباعي: يتيح رموزًا إضافية وكتابة رموز سريعة عند إبقائه مضغوطًا.',
   keyArrowLeft: 'سهم لليسار',
   keyArrowRight: 'سهم لليمين',
   keyArrowUp: 'سهم للأعلى',

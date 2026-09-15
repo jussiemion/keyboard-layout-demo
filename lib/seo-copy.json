@@ -1,7 +1,7 @@
 {
   "en": {
     "heading": "Type typographic symbols and accents online",
-    "description": "A typographic keyboard, typing trainer and symbol reference in your browser. Switch between basic and extended symbol modes to find punctuation, currency signs and other special characters.",
+    "description": "Type em dashes, quotation marks, currency symbols and accents without Alt codes. A keyboard trainer and typography reference for writers, designers and translators.",
     "intro": "Explore a typographic keyboard layout directly in your browser. Use your physical keyboard or click the on-screen keys to try symbols such as ©, —, … and accented letters. No installation or account is required.",
     "featuresTitle": "What you can try",
     "symbols": "Switch between basic and extended symbol modes to find punctuation, currency signs and other special characters.",
@@ -24,11 +24,12 @@
     "referencePlaceholder": "Name, symbol, language or U+2014…",
     "referenceLead": "Find a symbol, learn its meaning, copy it into your text.",
     "topics": "Browse by topic",
-    "clearSearch": "Clear search"
+    "clearSearch": "Clear search",
+    "basedOnLayout": "Ilya Birman’s layout"
   },
   "ru": {
     "heading": "Типографские символы и диакритика онлайн",
-    "description": "Типографская раскладка, клавиатурный тренажёр и справочник символов в браузере. Переключайте базовый и расширенный символьные режимы для ввода знаков пунктуации, валют и других специальных символов.",
+    "description": "Длинное тире, кавычки-ёлочки, знаки валют и диакритика без Alt-кодов. Клавиатурный тренажёр и справочник типографики для авторов, дизайнеров и переводчиков.",
     "intro": "Попробуйте типографскую раскладку прямо в браузере. Нажимайте клавиши физической или экранной клавиатуры, чтобы вводить ©, —, … и буквы с диакритикой. Установка и регистрация не нужны.",
     "featuresTitle": "Возможности раскладки",
     "symbols": "Переключайте базовый и расширенный символьные режимы для ввода знаков пунктуации, валют и других специальных символов.",
@@ -51,11 +52,12 @@
     "referencePlaceholder": "Название, символ, язык или U+2014…",
     "referenceLead": "Найдите знак, узнайте его назначение и скопируйте в свой текст.",
     "topics": "Разделы справочника",
-    "clearSearch": "Очистить поиск"
+    "clearSearch": "Очистить поиск",
+    "basedOnLayout": "раскладки Ильи Бирмана"
   },
   "pl": {
     "heading": "Symbole typograficzne i znaki diakrytyczne online",
-    "description": "Klawiatura typograficzna, ćwiczenia pisania i przewodnik po symbolach w przeglądarce. Przełączaj podstawowy i rozszerzony tryb symboli, aby wpisywać interpunkcję, znaki walut i inne znaki specjalne.",
+    "description": "Pauzy, cudzysłowy, waluty i akcenty bez kodów Alt. Trenażer klawiatury i poradnik typografii dla autorów, projektantów i tłumaczy.",
     "intro": "Poznaj układ typograficzny bezpośrednio w przeglądarce. Używaj fizycznej klawiatury lub klikaj klawisze ekranowe, aby wpisywać ©, —, … i litery ze znakami diakrytycznymi. Bez instalacji i konta.",
     "featuresTitle": "Możliwości układu",
     "symbols": "Przełączaj podstawowy i rozszerzony tryb symboli, aby wpisywać interpunkcję, znaki walut i inne znaki specjalne.",
@@ -78,11 +80,12 @@
     "referencePlaceholder": "Nazwa, symbol, język lub U+2014…",
     "referenceLead": "Znajdź symbol, poznaj jego znaczenie i skopiuj do tekstu.",
     "topics": "Tematy",
-    "clearSearch": "Wyczyść wyszukiwanie"
+    "clearSearch": "Wyczyść wyszukiwanie",
+    "basedOnLayout": "układu Ilji Birmana"
   },
   "de": {
     "heading": "Typografische Zeichen und Akzente online eingeben",
-    "description": "Typografische Tastatur, Tippübungen und Zeichenreferenz im Browser. Wechsle zwischen dem einfachen und erweiterten Symbolmodus für Satzzeichen, Währungszeichen und weitere Sonderzeichen.",
+    "description": "Gedankenstriche, Anführungszeichen, Währungen und Umlaute ohne Alt-Codes. Tastaturtrainer und Typografie-Nachschlagewerk für Autoren, Designer und Übersetzer.",
     "intro": "Probiere das typografische Tastaturlayout direkt im Browser aus. Nutze deine Tastatur oder klicke auf die Bildschirmtasten, um ©, —, … und Buchstaben mit Akzenten einzugeben. Ohne Installation und Konto.",
     "featuresTitle": "Funktionen",
     "symbols": "Wechsle zwischen dem einfachen und erweiterten Symbolmodus für Satzzeichen, Währungszeichen und weitere Sonderzeichen.",
@@ -105,11 +108,12 @@
     "referencePlaceholder": "Name, Zeichen, Sprache oder U+2014…",
     "referenceLead": "Finde ein Zeichen, erfahre seine Bedeutung und kopiere es in deinen Text.",
     "topics": "Themen",
-    "clearSearch": "Suche löschen"
+    "clearSearch": "Suche löschen",
+    "basedOnLayout": "der Tastaturbelegung von Ilya Birman"
   },
   "fr": {
     "heading": "Saisir des symboles typographiques et des accents en ligne",
-    "description": "Un clavier typographique, des exercices de saisie et un guide des symboles dans le navigateur. Passez du mode de symboles de base au mode étendu pour saisir la ponctuation, les devises et d’autres caractères spéciaux.",
+    "description": "Tirets, guillemets, devises et accents sans codes Alt. Entraînement au clavier et guide typographique pour auteurs, designers et traducteurs.",
     "intro": "Découvrez une disposition typographique dans votre navigateur. Utilisez votre clavier ou les touches à l’écran pour saisir ©, —, … et des lettres accentuées. Sans installation ni compte.",
     "featuresTitle": "Fonctionnalités",
     "symbols": "Passez du mode de symboles de base au mode étendu pour saisir la ponctuation, les devises et d’autres caractères spéciaux.",
@@ -132,11 +136,12 @@
     "referencePlaceholder": "Nom, signe, langue ou U+2014…",
     "referenceLead": "Trouvez un signe, découvrez son usage et copiez-le dans votre texte.",
     "topics": "Rubriques",
-    "clearSearch": "Effacer la recherche"
+    "clearSearch": "Effacer la recherche",
+    "basedOnLayout": "la disposition d’Ilya Birman"
   },
   "es": {
     "heading": "Símbolos tipográficos y acentos en línea",
-    "description": "Teclado tipográfico, práctica de escritura y guía de símbolos en el navegador. Alterna entre los modos de símbolos básico y ampliado para escribir puntuación, signos monetarios y otros caracteres especiales.",
+    "description": "Rayas, comillas, monedas y acentos sin códigos Alt. Entrenador de teclado y guía tipográfica para autores, diseñadores y traductores.",
     "intro": "Explora una distribución tipográfica en tu navegador. Usa el teclado físico o las teclas en pantalla para escribir ©, —, … y letras acentuadas. Sin instalación ni cuenta.",
     "featuresTitle": "Funciones",
     "symbols": "Alterna entre los modos de símbolos básico y ampliado para escribir puntuación, signos monetarios y otros caracteres especiales.",
@@ -159,17 +164,18 @@
     "referencePlaceholder": "Nombre, símbolo, idioma o U+2014…",
     "referenceLead": "Encuentra un símbolo, conoce su significado y cópialo en tu texto.",
     "topics": "Temas",
-    "clearSearch": "Borrar búsqueda"
+    "clearSearch": "Borrar búsqueda",
+    "basedOnLayout": "la distribución de Ilya Birman"
   },
   "pt": {
     "heading": "Símbolos tipográficos e acentos online",
-    "description": "Teclado tipográfico, exercícios de escrita e guia de símbolos no navegador. Alterne entre os modos de símbolos básico e alargado para escrever pontuação, símbolos monetários e outros caracteres especiais.",
+    "description": "Travessões, aspas, moedas e acentos sem códigos Alt. Treino de teclado e guia tipográfico para autores, designers e tradutores.",
     "intro": "Explore uma disposição tipográfica no navegador. Use o teclado físico ou as teclas no ecrã para escrever ©, —, … e letras acentuadas. Sem instalação nem conta.",
     "featuresTitle": "Funcionalidades",
     "symbols": "Alterne entre os modos de símbolos básico e alargado para escrever pontuação, símbolos monetários e outros caracteres especiais.",
     "languages": "Explore os diacríticos e os mapas de teclado nacionais. Nas definições, atribua dois idiomas a S0 e idiomas adicionais a S1–S4.",
     "search": "Pesquise caracteres por nome, símbolo ou código Unicode. O tutorial e a referência rápida explicam as sequências de teclas.",
-    "basedOn": "Baseado em",
+    "basedOn": "Baseado na",
     "languageLinks": "Escolha o idioma",
     "referenceTitle": "Guia de tipografia",
     "referenceDescription": "Consulte símbolos tipográficos: nomes, códigos Unicode, pontuação, aspas, travessões, sinais monetários e sequências de teclas.",
@@ -186,17 +192,18 @@
     "referencePlaceholder": "Nome, símbolo, idioma ou U+2014…",
     "referenceLead": "Encontre um símbolo, conheça o seu significado e copie-o para o texto.",
     "topics": "Temas",
-    "clearSearch": "Limpar pesquisa"
+    "clearSearch": "Limpar pesquisa",
+    "basedOnLayout": "disposição de Ilya Birman"
   },
   "it": {
     "heading": "Simboli tipografici e accenti online",
-    "description": "Tastiera tipografica, esercizi di digitazione e guida ai simboli nel browser. Passa dalla modalità simboli di base a quella estesa per inserire punteggiatura, simboli di valuta e altri caratteri speciali.",
+    "description": "Lineette, virgolette, valute e accenti senza codici Alt. Allenamento alla tastiera e guida tipografica per autori, designer e traduttori.",
     "intro": "Esplora una disposizione tipografica nel browser. Usa la tastiera fisica o i tasti sullo schermo per scrivere ©, —, … e lettere accentate. Senza installazione né account.",
     "featuresTitle": "Funzionalità",
     "symbols": "Passa dalla modalità simboli di base a quella estesa per inserire punteggiatura, simboli di valuta e altri caratteri speciali.",
     "languages": "Esplora i diacritici e le disposizioni nazionali. Nelle impostazioni, assegna due lingue a S0 e altre lingue a S1–S4.",
     "search": "Cerca i caratteri per nome, simbolo o codice Unicode. Il tutorial e la guida rapida spiegano le sequenze di tasti.",
-    "basedOn": "Basato su",
+    "basedOn": "Basato sul",
     "languageLinks": "Scegli la lingua",
     "referenceTitle": "Guida alla tipografia",
     "referenceDescription": "Consulta i simboli tipografici: nomi, codici Unicode, punteggiatura, virgolette, lineette, valute e sequenze di tasti.",
@@ -213,11 +220,12 @@
     "referencePlaceholder": "Nome, simbolo, lingua o U+2014…",
     "referenceLead": "Trova un simbolo, scoprine il significato e copialo nel tuo testo.",
     "topics": "Argomenti",
-    "clearSearch": "Cancella ricerca"
+    "clearSearch": "Cancella ricerca",
+    "basedOnLayout": "layout di Ilya Birman"
   },
   "ro": {
     "heading": "Simboluri tipografice și diacritice online",
-    "description": "Tastatură tipografică, exerciții de tastare și ghid de simboluri în browser. Comută între modul de simboluri de bază și cel extins pentru punctuație, simboluri monetare și alte caractere speciale.",
+    "description": "Linii de pauză, ghilimele, monede și accente fără coduri Alt. Exerciții la tastatură și ghid tipografic pentru autori, designeri și traducători.",
     "intro": "Explorează un aranjament tipografic direct în browser. Folosește tastatura fizică sau tastele de pe ecran pentru a introduce ©, —, … și litere cu diacritice. Fără instalare sau cont.",
     "featuresTitle": "Funcționalități",
     "symbols": "Comută între modul de simboluri de bază și cel extins pentru punctuație, simboluri monetare și alte caractere speciale.",
@@ -240,11 +248,12 @@
     "referencePlaceholder": "Nume, simbol, limbă sau U+2014…",
     "referenceLead": "Găsește un simbol, află ce înseamnă și copiază-l în text.",
     "topics": "Subiecte",
-    "clearSearch": "Șterge căutarea"
+    "clearSearch": "Șterge căutarea",
+    "basedOnLayout": "aranjamentul lui Ilya Birman"
   },
   "nl": {
     "heading": "Typografische tekens en accenten online typen",
-    "description": "Typografisch toetsenbord, typeoefeningen en symbolengids in de browser. Schakel tussen de basis- en uitgebreide symboolmodus voor leestekens, valutatekens en andere speciale tekens.",
+    "description": "Gedachtestreepjes, aanhalingstekens, valuta en accenten zonder Alt-codes. Toetsenbordtrainer en typografiegids voor schrijvers, ontwerpers en vertalers.",
     "intro": "Ontdek een typografische toetsenbordindeling in je browser. Gebruik je toetsenbord of klik op de schermtoetsen om ©, —, … en letters met accenten te typen. Zonder installatie of account.",
     "featuresTitle": "Mogelijkheden",
     "symbols": "Schakel tussen de basis- en uitgebreide symboolmodus voor leestekens, valutatekens en andere speciale tekens.",
@@ -267,11 +276,12 @@
     "referencePlaceholder": "Naam, symbool, taal of U+2014…",
     "referenceLead": "Vind een symbool, ontdek de betekenis en kopieer het naar je tekst.",
     "topics": "Onderwerpen",
-    "clearSearch": "Zoekopdracht wissen"
+    "clearSearch": "Zoekopdracht wissen",
+    "basedOnLayout": "de toetsenbordindeling van Ilya Birman"
   },
   "he": {
     "heading": "הקלדת סימנים טיפוגרפיים וסימנים דיאקריטיים באינטרנט",
-    "description": "מקלדת טיפוגרפית, תרגול הקלדה ומדריך לסימנים בדפדפן. עברו בין מצב סמלים בסיסי למורחב כדי להקליד סימני פיסוק, מטבע ותווים מיוחדים נוספים.",
+    "description": "מקפים, מירכאות, מטבעות וסימנים דיאקריטיים ללא קודי Alt. תרגול מקלדת ומדריך טיפוגרפי לכותבים, מעצבים ומתרגמים.",
     "intro": "התנסו בפריסת מקלדת טיפוגרפית בדפדפן. השתמשו במקלדת הפיזית או במקשים שעל המסך כדי להקליד ©, —, … ואותיות עם סימנים דיאקריטיים. ללא התקנה או חשבון.",
     "featuresTitle": "אפשרויות",
     "symbols": "עברו בין מצב סמלים בסיסי למורחב כדי להקליד סימני פיסוק, מטבע ותווים מיוחדים נוספים.",
@@ -294,11 +304,12 @@
     "referencePlaceholder": "שם, סימן, שפה או U+2014…",
     "referenceLead": "מצאו סימן, למדו על משמעותו והעתיקו אותו לטקסט שלכם.",
     "topics": "נושאים",
-    "clearSearch": "ניקוי החיפוש"
+    "clearSearch": "ניקוי החיפוש",
+    "basedOnLayout": "פריסת המקלדת של איליה בירמן"
   },
   "ar": {
     "heading": "كتابة الرموز الطباعية والعلامات الصوتية عبر الإنترنت",
-    "description": "لوحة مفاتيح طباعية وتدريب على الكتابة ودليل للرموز في المتصفح. تنقّل بين وضع الرموز الأساسي والموسّع لكتابة علامات الترقيم والعملات والرموز الخاصة الأخرى.",
+    "description": "شرطات واقتباسات وعملات وعلامات تشكيل دون رموز Alt. تدريب على لوحة المفاتيح ومرجع طباعي للكتّاب والمصممين والمترجمين.",
     "intro": "استكشف تخطيط لوحة مفاتيح طباعية في المتصفح. استخدم لوحة المفاتيح الفعلية أو مفاتيح الشاشة لكتابة © و— و… والحروف ذات العلامات الصوتية. لا حاجة إلى تثبيت أو حساب.",
     "featuresTitle": "الإمكانات",
     "symbols": "تنقّل بين وضع الرموز الأساسي والموسّع لكتابة علامات الترقيم والعملات والرموز الخاصة الأخرى.",
@@ -321,17 +332,18 @@
     "referencePlaceholder": "اسم أو رمز أو لغة أو U+2014…",
     "referenceLead": "ابحث عن رمز وتعرّف على معناه وانسخه إلى نصك.",
     "topics": "المواضيع",
-    "clearSearch": "مسح البحث"
+    "clearSearch": "مسح البحث",
+    "basedOnLayout": "تخطيط لوحة المفاتيح لإيليا بيرمان"
   },
   "tr": {
     "heading": "Tipografik sembolleri ve aksanları çevrimiçi yazın",
-    "description": "Tarayıcıda tipografik klavye, yazma alıştırmaları ve sembol rehberi. Noktalama, para birimi işaretleri ve diğer özel karakterler için temel ve genişletilmiş sembol modları arasında geçiş yapın.",
+    "description": "Alt kodları olmadan uzun tire, tırnak, para birimi ve aksanlar. Yazarlar, tasarımcılar ve çevirmenler için klavye alıştırması ve tipografi rehberi.",
     "intro": "Tipografik klavye düzenini doğrudan tarayıcınızda keşfedin. ©, —, … ve aksanlı harfleri yazmak için fiziksel klavyeyi veya ekran tuşlarını kullanın. Kurulum ya da hesap gerekmez.",
     "featuresTitle": "Özellikler",
     "symbols": "Noktalama, para birimi işaretleri ve diğer özel karakterler için temel ve genişletilmiş sembol modları arasında geçiş yapın.",
     "languages": "Aksanları ve ulusal klavye düzenlerini keşfedin. Ayarlarda S0’a iki dil, S1–S4’e ek diller atayın.",
     "search": "Karakterleri ad, sembol veya Unicode koduyla arayın. Etkileşimli rehber ve kısa başvuru, tuş dizilerini açıklar.",
-    "basedOn": "Temel alınan düzen",
+    "basedOn": "Temel alınan:",
     "languageLinks": "Dilinizi seçin",
     "referenceTitle": "Tipografi rehberi",
     "referenceDescription": "Tipografik sembol rehberi: adlar, Unicode kodları, noktalama, tırnak işaretleri, çizgiler, para birimleri ve tuş dizileri.",
@@ -348,11 +360,12 @@
     "referencePlaceholder": "Ad, simge, dil veya U+2014…",
     "referenceLead": "Bir simge bulun, anlamını öğrenin ve metninize kopyalayın.",
     "topics": "Konular",
-    "clearSearch": "Aramayı temizle"
+    "clearSearch": "Aramayı temizle",
+    "basedOnLayout": "Ilya Birman’ın klavye düzeni"
   },
   "vi": {
     "heading": "Gõ ký hiệu và dấu phụ trực tuyến",
-    "description": "Bàn phím ký hiệu, luyện gõ và tài liệu tra cứu ngay trong trình duyệt. Chuyển giữa chế độ ký hiệu cơ bản và mở rộng để nhập dấu câu, ký hiệu tiền tệ và các ký tự đặc biệt khác.",
+    "description": "Gõ gạch ngang, ngoặc kép, tiền tệ và dấu phụ không cần mã Alt. Luyện bàn phím và cẩm nang kiểu chữ cho người viết, nhà thiết kế và dịch giả.",
     "intro": "Khám phá bố cục bàn phím ngay trong trình duyệt. Dùng bàn phím vật lý hoặc các phím trên màn hình để gõ ©, —, … và chữ có dấu. Không cần cài đặt hay tài khoản.",
     "featuresTitle": "Tính năng",
     "symbols": "Chuyển giữa chế độ ký hiệu cơ bản và mở rộng để nhập dấu câu, ký hiệu tiền tệ và các ký tự đặc biệt khác.",
@@ -375,6 +388,7 @@
     "referencePlaceholder": "Tên, ký hiệu, ngôn ngữ hoặc U+2014…",
     "referenceLead": "Tìm ký hiệu, hiểu ý nghĩa và sao chép vào văn bản của bạn.",
     "topics": "Chủ đề",
-    "clearSearch": "Xóa tìm kiếm"
+    "clearSearch": "Xóa tìm kiếm",
+    "basedOnLayout": "bố cục bàn phím của Ilya Birman"
   }
 }

@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const fr = {
-  productName: 'Disposition typographique de Semyon Yushkevich',
-  pageTitle: 'Disposition typographique de Semyon Yushkevich',
+  productName: 'Disposition typographique de Yushkevich',
+  pageTitle: 'Disposition typographique de Yushkevich',
   pageDescription:
-    'Un clavier typographique, des exercices de saisie et un guide des symboles dans le navigateur. Passez du mode de symboles de base au mode étendu pour saisir la ponctuation, les devises et d’autres caractères spéciaux.',
+    'Tirets, guillemets, devises et accents sans codes Alt. Entraînement au clavier et guide typographique pour auteurs, designers et traducteurs.',
   brandTitle: 'disposition typographique',
   headerActions:
     'Apparence, langue de l’interface et informations sur le projet',
@@ -38,21 +38,7 @@ export const fr = {
   resetLabel: 'Effacer le champ de saisie',
   resetTooltip: 'recommencer',
   keyboardTitle: 'Birman',
-  keyHint: 'Touche {key} :',
-  capsInstantHint: 'Touche {key}, changement instantané de langue :',
-  capsQuickHint: 'Touche {key}, changement rapide de langue :',
   modeLabel: 'Mode :',
-  languageSlotHint:
-    'Choisissez {slot} — {language} : maintenez {caps} et appuyez sur {key}.',
-  symbolEntryHint: 'Appuyez sur {alt} pour activer le mode symboles {mode}.',
-  extendedEntryHint:
-    'Appuyez sur {alt} deux fois pour activer le mode étendu {mode}.',
-  extendedNextHint:
-    'Appuyez sur {alt} encore une fois pour activer le mode étendu {mode}.',
-  basicOutputHint:
-    'En mode de base {mode}, maintenez {alt} et appuyez sur {key} pour saisir {symbol}.',
-  symbolOutputHint: 'En mode symboles {mode}, elle produit {symbol}.',
-  extendedOutputHint: 'En mode étendu {mode}, elle produit {symbol}.',
   chooseMode: 'Choisir le mode pour la prochaine touche',
   basicMode: 'de base',
   primaryMode: 'symboles',
@@ -66,21 +52,12 @@ export const fr = {
   secondarySymbol: 'mode étendu, {modifier} deux fois : {symbol}',
   emptyPrimary: 'mode symboles sans affectation',
   emptySecondary: 'mode étendu sans affectation',
-  diacriticCycleHint:
-    'Appuyez sur Shift pour parcourir les variantes diacritiques de la lettre saisie.',
-  languageSlotsHint:
-    'Maintenez {caps} et appuyez sur {j} — {l1}, {k} — {l2}, {l} — {l3} ou {semicolon} — {l4} pour choisir une langue.',
-  hintLabel: 'Conseil :',
-  hintsLabel: 'Conseils :',
   typographyToggleHint:
     'Appuyez sur les deux touches {ctrl} ensemble, puis relâchez-les pour désactiver ou activer la disposition.',
   typographyDisabledWarning:
     'Attention : la disposition est désactivée. Appuyez sur les deux touches {ctrl} ensemble, puis relâchez-les pour la réactiver.',
   accentModeWarning:
     'Attention : le mode accent tonique est activé. Saisissez une voyelle.',
-  keyDetailHelp:
-    'Appuyez sur {alt} pour le mode symboles. Appuyez deux fois sur {alt} pour le mode étendu.',
-  resetMode: 'Appuyez sur {esc} pour réinitialiser le mode.',
   entered: 'Saisi : {symbol}',
   themeLight: 'Clair',
   themeDark: 'Sombre',
@@ -136,20 +113,6 @@ export const fr = {
   platform: 'Plateforme',
   choosePlatform: 'Choisir la plateforme : {platform}',
   fnKeyInfo: 'La touche Fn est gérée par macOS',
-  tabInputHint:
-    'Insère une tabulation; aucune fonction typographique supplémentaire.',
-  backspaceInputHint:
-    'Supprime la sélection ou le caractère précédent; aucune fonction typographique supplémentaire.',
-  enterInputHint:
-    'Insère un saut de ligne; aucune fonction typographique supplémentaire.',
-  standardCharacterHint:
-    'Saisit des caractères ordinaires ; aucune fonction typographique supplémentaire.',
-  unusedKeyHint:
-    'La touche {key} conserve son comportement standard et ne fait pas partie de la disposition typographique.',
-  shiftUsageHint:
-    'Maintenez {shift} pour les majuscules et les symboles supérieurs des touches. Après une lettre, appuyez puis relâchez {shift} pour parcourir ses variantes diacritiques disponibles.',
-  altUsageHint:
-    'La touche principale de saisie typographique : donne accès aux symboles supplémentaires et permet de saisir les symboles rapides lorsqu’elle est maintenue.',
   keyArrowLeft: 'Flèche gauche',
   keyArrowRight: 'Flèche droite',
   keyArrowUp: 'Flèche vers le haut',

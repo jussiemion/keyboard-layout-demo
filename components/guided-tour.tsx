@@ -260,6 +260,8 @@ export function GuidedTour({
     altGr: <kbd>AltGr</kbd>,
     space: <kbd>{m.space}</kbd>,
     keyC: <kbd>C</kbd>,
+    keyF: <kbd>F</kbd>,
+    keyH: <kbd>H</kbd>,
     keyA: <kbd>A</kbd>,
     lowerA: <kbd>a</kbd>,
     key2: <kbd>2</kbd>,
@@ -268,7 +270,12 @@ export function GuidedTour({
     minus: <kbd>−</kbd>,
     searchChord: (
       <span className={tourKeySequenceClasses}>
-        <kbd>Ctrl</kbd> + <kbd>F</kbd>
+        <kbd>Caps Lock</kbd> + <kbd>F</kbd>
+      </span>
+    ),
+    helpChord: (
+      <span className={tourKeySequenceClasses}>
+        <kbd>Caps Lock</kbd> + <kbd>H</kbd>
       </span>
     ),
     copyright: <ResultSymbol>©</ResultSymbol>,
@@ -306,10 +313,27 @@ export function GuidedTour({
       data-stage={stage}
     >
       <div className="tour-topline">
-        <span className={tourEyebrowClasses}>
-          <GraduationCap size={18} aria-hidden="true" />
-          {t.menu}
-        </span>
+        <div className="tour-heading">
+          <div className="tour-meta">
+            <span className={tourEyebrowClasses}>
+              <GraduationCap size={18} aria-hidden="true" />
+              {t.menu}
+            </span>
+            {stage === 'exercise' && (
+              <div className="tour-progress">
+                <span>{progressLabel}</span>
+                <progress
+                  max={steps.length}
+                  value={index + 1}
+                  aria-label={progressLabel}
+                />
+              </div>
+            )}
+          </div>
+          <h2 id="tour-title" ref={heading} tabIndex={-1}>
+            {title}
+          </h2>
+        </div>
         <Button
           variant="outline"
           size="icon"
@@ -319,9 +343,6 @@ export function GuidedTour({
           <X size={18} />
         </Button>
       </div>
-      <h2 id="tour-title" ref={heading} tabIndex={-1}>
-        {title}
-      </h2>
       {stage === 'question' && (
         <>
           <p>{t.questionBody}</p>
@@ -338,14 +359,6 @@ export function GuidedTour({
         <>
           {stage === 'exercise' && (
             <>
-              <div className="tour-progress">
-                <span>{progressLabel}</span>
-                <progress
-                  max={steps.length}
-                  value={index + 1}
-                  aria-label={progressLabel}
-                />
-              </div>
               {step.target !== undefined ? (
                 <div className="tour-target">
                   <span>{t.type}</span>
@@ -458,50 +471,52 @@ export function GuidedTour({
                 ))}
             </div>
           )}
-          <div className="tour-status" aria-live="polite">
-            {success && (
-              <>
-                <Check size={16} aria-hidden="true" />
-                {t.success}
-              </>
-            )}
-          </div>
-          <div className="tour-buttons">
-            {step.chord && !success && (
-              <Button variant="outline" onClick={() => onChord(step.chord!)}>
-                {t.screenChord}
+          <div className="tour-footer">
+            <div className="tour-status" aria-live="polite">
+              {success && (
+                <>
+                  <Check size={16} aria-hidden="true" />
+                  {t.success}
+                </>
+              )}
+            </div>
+            <div className="tour-buttons">
+              {step.chord && !success && (
+                <Button variant="outline" onClick={() => onChord(step.chord!)}>
+                  {t.screenChord}
+                </Button>
+              )}
+              <Button
+                ref={nextButton}
+                aria-keyshortcuts={
+                  stage === 'exercise' && success ? 'Enter' : undefined
+                }
+                disabled={!success}
+                onClick={() =>
+                  stage === 'challenge' ? finishExercises() : visit(index + 1)
+                }
+              >
+                {stage === 'challenge' ? t.finish : t.next}
               </Button>
-            )}
-            <Button
-              ref={nextButton}
-              aria-keyshortcuts={
-                stage === 'exercise' && success ? 'Enter' : undefined
-              }
-              disabled={!success}
-              onClick={() =>
-                stage === 'challenge' ? finishExercises() : visit(index + 1)
-              }
-            >
-              {stage === 'challenge' ? t.finish : t.next}
-            </Button>
-            {stage === 'exercise' && (
-              <Button variant="outline" onClick={() => visit(index + 1)}>
-                {t.skip}
+              {stage === 'exercise' && (
+                <Button variant="outline" onClick={() => visit(index + 1)}>
+                  {t.skip}
+                </Button>
+              )}
+              {stage === 'exercise' && index > 0 && (
+                <Button variant="outline" onClick={() => visit(index - 1)}>
+                  {t.back}
+                </Button>
+              )}
+              <Button
+                variant="outline"
+                onClick={() => {
+                  onPrepare(step);
+                }}
+              >
+                {t.retry}
               </Button>
-            )}
-            {stage === 'exercise' && index > 0 && (
-              <Button variant="outline" onClick={() => visit(index - 1)}>
-                {t.back}
-              </Button>
-            )}
-            <Button
-              variant="outline"
-              onClick={() => {
-                onPrepare(step);
-              }}
-            >
-              {t.retry}
-            </Button>
+            </div>
           </div>
         </>
       )}

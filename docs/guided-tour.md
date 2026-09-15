@@ -29,7 +29,9 @@ the menu.
 
 Exercises use the real typing engine and highlight the relevant controls.
 Physical and screen input both work; narrow screens offer large task-specific
-keys. Normal hover hints are hidden during training.
+keys. The panel combines its heading and progress, keeps the target above the
+instructions, and groups status and navigation in a separated footer. Controls
+wrap on narrow screens; the keyboard retains its usual width.
 
 ## Navigation
 

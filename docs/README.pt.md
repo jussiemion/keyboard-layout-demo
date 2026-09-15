@@ -41,7 +41,7 @@ teclas no ecrã.
 </picture>
 
 [Vídeo: tema escuro](assets/demo-dark.mp4) · [tema claro](assets/demo-light.mp4)
-· MP4 · ≈ 26 s
+· MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
@@ -49,6 +49,31 @@ teclas no ecrã.
 > intercetar <kbd>Alt</kbd> ou <kbd>Caps Lock</kbd> antes de chegarem ao
 > navegador. O alerta só aparece após eventos característicos; a sua ausência
 > não prova que a disposição esteja inativa.
+
+## Tipografia para o seu trabalho
+
+### Para autores, redatores e editores
+
+Pratique travessões —, aspas «», “”, „“ e espaços inseparáveis sem códigos Alt.
+Na demo, Alt + menos escreve — sem Alt+0151. Escolhe as aspas; não são
+substituídas automaticamente.
+
+### Para design gráfico, web e UI/UX
+
+Encontre e copie ©, ®, ™ e $, €, £, ¥, ¢ para preços, textos de interface e
+maquetas multilingues. Cole os sinais do guia tipográfico no Figma ou editor. A
+demo não é um plugin do Figma.
+
+### Para poliglotas e tradutores
+
+Pratique os tremas alemães ä, ö, ü e os acentos franceses é, è, ç num teclado
+normal. Escreva uma letra e prima <kbd>Shift</kbd> para percorrer as variantes
+do idioma selecionado. Não precisa de pacotes de idiomas do sistema para
+experimentar a demo.
+
+14 idiomas de interface e 24 variantes de teclado, incluindo regionais. A
+escrita funciona na demo; outras aplicações precisam de instalação própria no
+sistema. Os idiomas não europeus são experimentais.
 
 ## Primeiros caracteres
 

@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const de = {
-  productName: 'Typografische Tastaturbelegung von Semyon Yushkevich',
-  pageTitle: 'Typografische Tastaturbelegung von Semyon Yushkevich',
+  productName: 'Typografische Tastaturbelegung von Yushkevich',
+  pageTitle: 'Typografische Tastaturbelegung von Yushkevich',
   pageDescription:
-    'Typografische Tastatur, Tippübungen und Zeichenreferenz im Browser. Wechsle zwischen dem einfachen und erweiterten Symbolmodus für Satzzeichen, Währungszeichen und weitere Sonderzeichen.',
+    'Gedankenstriche, Anführungszeichen, Währungen und Umlaute ohne Alt-Codes. Tastaturtrainer und Typografie-Nachschlagewerk für Autoren, Designer und Übersetzer.',
   brandTitle: 'typografische Tastaturbelegung',
   headerActions: 'Darstellung, Oberflächensprache und Projektinformationen',
   sourceLabel: 'Quellcode auf GitHub',
@@ -37,21 +37,7 @@ export const de = {
   resetLabel: 'Eingabefeld leeren',
   resetTooltip: 'Neu beginnen',
   keyboardTitle: 'Birman',
-  keyHint: 'Taste {key}:',
-  capsInstantHint: 'Taste {key}, sofortiger Sprachwechsel:',
-  capsQuickHint: 'Taste {key}, schneller Sprachwechsel:',
   modeLabel: 'Modus:',
-  languageSlotHint:
-    'Wähle {slot} — {language}: Halte {caps} gedrückt und drücke {key}.',
-  symbolEntryHint: 'Drücke {alt}, um den Symbolmodus zu aktivieren {mode}.',
-  extendedEntryHint:
-    'Drücke {alt} zweimal, um den erweiterten Modus zu aktivieren {mode}.',
-  extendedNextHint:
-    'Drücke {alt} erneut, um den erweiterten Modus zu aktivieren {mode}.',
-  basicOutputHint:
-    'Halte im Basismodus {mode} {alt} gedrückt und drücke {key}, um {symbol} einzugeben.',
-  symbolOutputHint: 'Im Symbolmodus {mode} erzeugt sie {symbol}.',
-  extendedOutputHint: 'Im erweiterten Modus {mode} erzeugt sie {symbol}.',
   chooseMode: 'Eingabemodus für die nächste Taste wählen',
   basicMode: 'Basis',
   primaryMode: 'Symbole',
@@ -64,21 +50,12 @@ export const de = {
   secondarySymbol: 'Erweiterter Modus, {modifier} zweimal: {symbol}',
   emptyPrimary: 'Symbolmodus unbelegt',
   emptySecondary: 'Erweiterter Modus unbelegt',
-  diacriticCycleHint:
-    'Drücke Shift, um die diakritischen Varianten des eingegebenen Buchstabens durchzugehen.',
-  languageSlotsHint:
-    'Halte {caps} gedrückt und drücke {j} — {l1}, {k} — {l2}, {l} — {l3} oder {semicolon} — {l4}, um eine Sprache auszuwählen.',
-  hintLabel: 'Hinweis:',
-  hintsLabel: 'Hinweise:',
   typographyToggleHint:
     'Drücke beide {ctrl}-Tasten gleichzeitig und lasse sie los, um das Layout aus- oder einzuschalten.',
   typographyDisabledWarning:
     'Achtung: Das Layout ist ausgeschaltet. Drücke beide {ctrl}-Tasten gleichzeitig und lasse sie los, um es einzuschalten.',
   accentModeWarning:
     'Achtung: Der Betonungsmodus ist aktiv. Geben Sie einen Vokal ein.',
-  keyDetailHelp:
-    'Für den Symbolmodus {alt} drücken. Für den erweiterten Modus {alt} zweimal drücken.',
-  resetMode: 'Mit {esc} den Modus zurücksetzen.',
   entered: 'Eingegeben: {symbol}',
   themeLight: 'Hell',
   themeDark: 'Dunkel',
@@ -134,20 +111,6 @@ export const de = {
   platform: 'Plattform',
   choosePlatform: 'Plattform wählen: {platform}',
   fnKeyInfo: 'Fn wird von macOS verwaltet',
-  tabInputHint:
-    'Fügt einen Tabulator ein; keine zusätzlichen typografischen Funktionen.',
-  backspaceInputHint:
-    'Löscht die Auswahl oder das vorherige Zeichen; keine zusätzlichen typografischen Funktionen.',
-  enterInputHint:
-    'Fügt einen Zeilenumbruch ein; keine zusätzlichen typografischen Funktionen.',
-  standardCharacterHint:
-    'Gibt normale Zeichen ein; keine zusätzlichen typografischen Funktionen.',
-  unusedKeyHint:
-    'Die Taste {key} behält ihre Standardfunktion und ist nicht Teil des typografischen Layouts.',
-  shiftUsageHint:
-    'Halte {shift} für Großbuchstaben und obere Tastensymbole. Drücke und löse {shift} nach einem Buchstaben, um verfügbare diakritische Varianten durchzugehen.',
-  altUsageHint:
-    'Die Haupttaste für typografische Eingaben: ermöglicht zusätzliche Symbole und bei gedrückter Taste die Eingabe schneller Symbole.',
   keyArrowLeft: 'Pfeil nach links',
   keyArrowRight: 'Pfeil nach rechts',
   keyArrowUp: 'Pfeil nach oben',

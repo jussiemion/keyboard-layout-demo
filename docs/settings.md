@@ -13,7 +13,7 @@ typing-mode modifier (`M0`–`M2`).
 
 [Overview](../README.md) · [National maps](national-layouts.md)
 
-Open **Menu → Settings** to assign languages and show or hide typing hints.
+Open **Menu → Settings** to assign keyboard languages.
 
 |   Slot   | Gesture                             | Assignment                                                           |
 | :------: | ----------------------------------- | -------------------------------------------------------------------- |
@@ -27,12 +27,9 @@ All **24 keyboard options** are available. Direct slots may repeat one another
 or an **`S0`** option. Regional choices retain their physical map and share
 their base language’s accent cycle.
 
-- **Save** applies changes to physical input, screen keys, hints and the cheat
-  sheet.
+- **Save** applies changes to physical input, screen keys and the cheat sheet.
 - **Cancel**, <kbd>Esc</kbd> or closing the dialog discards the draft.
-- **Restore defaults** resets the draft and enables hints; **Save** is still
-  required.
-- Hiding hints leaves typography and accent warnings visible.
+- **Restore defaults** resets the draft; **Save** is still required.
 
 ## Defaults
 

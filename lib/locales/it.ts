@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const it = {
-  productName: 'Layout tipografico di Semyon Yushkevich',
-  pageTitle: 'Layout tipografico di Semyon Yushkevich',
+  productName: 'Layout tipografico di Yushkevich',
+  pageTitle: 'Layout tipografico di Yushkevich',
   pageDescription:
-    'Tastiera tipografica, esercizi di digitazione e guida ai simboli nel browser. Passa dalla modalità simboli di base a quella estesa per inserire punteggiatura, simboli di valuta e altri caratteri speciali.',
+    'Lineette, virgolette, valute e accenti senza codici Alt. Allenamento alla tastiera e guida tipografica per autori, designer e traduttori.',
   brandTitle: 'layout tipografico',
   headerActions: 'Aspetto, lingua dell’interfaccia e informazioni sul progetto',
   sourceLabel: 'Codice sorgente su GitHub',
@@ -36,21 +36,7 @@ export const it = {
   resetLabel: 'Svuota il campo di testo',
   resetTooltip: 'ricomincia',
   keyboardTitle: 'Birman',
-  keyHint: 'Tasto {key}:',
-  capsInstantHint: 'Tasto {key}, cambio immediato della lingua:',
-  capsQuickHint: 'Tasto {key}, cambio rapido della lingua:',
   modeLabel: 'Modalità:',
-  languageSlotHint:
-    'Seleziona {slot} — {language}: tieni premuto {caps} e premi {key}.',
-  symbolEntryHint: 'Premi {alt} per attivare la modalità simboli {mode}.',
-  extendedEntryHint:
-    'Premi {alt} due volte per attivare la modalità estesa {mode}.',
-  extendedNextHint:
-    'Premi {alt} ancora una volta per attivare la modalità estesa {mode}.',
-  basicOutputHint:
-    'In modalità di base {mode}, tieni premuto {alt} e premi {key} per digitare {symbol}.',
-  symbolOutputHint: 'In modalità simboli {mode} produce {symbol}.',
-  extendedOutputHint: 'In modalità estesa {mode} produce {symbol}.',
   chooseMode: 'Scegli la modalità per il prossimo tasto',
   basicMode: 'di base',
   primaryMode: 'simboli',
@@ -63,21 +49,12 @@ export const it = {
   secondarySymbol: 'modalità estesa, {modifier} due volte: {symbol}',
   emptyPrimary: 'modalità simboli non assegnata',
   emptySecondary: 'modalità estesa non assegnata',
-  diacriticCycleHint:
-    'Premi Shift per scorrere le varianti diacritiche della lettera inserita.',
-  languageSlotsHint:
-    'Tieni premuto {caps} e premi {j} — {l1}, {k} — {l2}, {l} — {l3} o {semicolon} — {l4} per scegliere una lingua.',
-  hintLabel: 'Suggerimento:',
-  hintsLabel: 'Suggerimenti:',
   typographyToggleHint:
     'Premi entrambi i tasti {ctrl} insieme, poi rilasciali per disattivare o attivare il layout.',
   typographyDisabledWarning:
     'Attenzione: il layout è disattivato. Premi entrambi i tasti {ctrl} insieme e rilasciali per attivarlo.',
   accentModeWarning:
     'Attenzione: la modalità accento è attiva. Digita una vocale.',
-  keyDetailHelp:
-    'Premi {alt} per la modalità simboli. Premi {alt} due volte per la modalità estesa.',
-  resetMode: 'Premi {esc} per reimpostare la modalità.',
   entered: 'Inserito: {symbol}',
   themeLight: 'Chiaro',
   themeDark: 'Scuro',
@@ -133,20 +110,6 @@ export const it = {
   platform: 'Piattaforma',
   choosePlatform: 'Scegli la piattaforma: {platform}',
   fnKeyInfo: 'Il tasto Fn è gestito da macOS',
-  tabInputHint:
-    'Inserisce una tabulazione; nessuna funzione tipografica aggiuntiva.',
-  backspaceInputHint:
-    'Elimina la selezione o il carattere precedente; nessuna funzione tipografica aggiuntiva.',
-  enterInputHint:
-    'Inserisce un ritorno a capo; nessuna funzione tipografica aggiuntiva.',
-  standardCharacterHint:
-    'Inserisce caratteri normali; non ha funzioni tipografiche aggiuntive.',
-  unusedKeyHint:
-    'Il tasto {key} mantiene il comportamento standard e non fa parte della disposizione tipografica.',
-  shiftUsageHint:
-    'Tieni premuto {shift} per le maiuscole e i simboli superiori dei tasti. Dopo una lettera, premi e rilascia {shift} per scorrere le varianti diacritiche disponibili.',
-  altUsageHint:
-    'Il tasto principale per la digitazione tipografica: dà accesso ai simboli aggiuntivi e permette di inserire simboli rapidi tenendolo premuto.',
   keyArrowLeft: 'Freccia sinistra',
   keyArrowRight: 'Freccia destra',
   keyArrowUp: 'Freccia su',

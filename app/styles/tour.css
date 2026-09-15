@@ -35,20 +35,25 @@
 .tour-panel {
   max-width: 960px;
   margin-inline: auto;
+  padding: 16px 20px;
+  background: var(--card);
+  border-radius: 12px;
   font-size: 13px;
-  line-height: 1.7;
+  line-height: 1.65;
 }
 
 .tour-panel h2 {
   font-size: 18px;
   font-weight: 500;
-  margin-block: 4px 10px;
+  margin: 4px 0 0;
+  text-wrap: balance;
   outline: none;
 }
 
 .tour-topline {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  margin-bottom: 14px;
   justify-content: space-between;
   gap: 16px;
 }
@@ -62,7 +67,7 @@
 }
 
 .tour-panel .tour-buttons {
-  margin-block-start: 18px;
+  margin-block-start: 16px;
 }
 
 .tour-invitation .tour-buttons {
@@ -88,8 +93,9 @@
 .tour-target {
   display: flex;
   align-items: center;
-  gap: 14px;
-  margin-top: 10px;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-block: 0 10px;
   color: var(--sub);
 }
 
@@ -162,60 +168,14 @@
   .tour-invitation {
     flex-wrap: wrap;
   }
-  .tour-panel .tour-buttons {
-    margin-block-start: 18px;
-  }
   .tour-invitation .tour-buttons {
     width: 100%;
   }
   .tour-panel h2 {
     font-size: 16px;
   }
-  .tour-panel {
-    font-size: 12px;
-  }
   .tour-buttons {
     gap: 6px;
-  }
-}
-
-@media (min-width: 701px) {
-  .tour-panel[data-stage='exercise'] {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    grid-template-areas: 'top top' 'title title' 'progress progress' 'target target' 'instruction instruction' 'status buttons';
-    gap: 10px 16px;
-    padding: 12px 18px;
-  }
-  .tour-panel[data-stage='exercise'] .tour-topline {
-    grid-area: top;
-  }
-  .tour-panel[data-stage='exercise'] h2 {
-    grid-area: title;
-    margin: 0;
-  }
-  .tour-panel[data-stage='exercise'] .tour-progress {
-    grid-area: progress;
-    margin: 0;
-  }
-  .tour-panel[data-stage='exercise'] .tour-instruction {
-    grid-area: instruction;
-  }
-  .tour-panel[data-stage='exercise'] .tour-target {
-    grid-area: target;
-    margin: 0;
-  }
-  .tour-panel[data-stage='exercise'] .tour-status {
-    grid-area: status;
-    margin: 18px 0 0;
-  }
-  .tour-panel[data-stage='exercise'] .tour-buttons {
-    grid-area: buttons;
-    justify-content: flex-end;
-    margin: 18px 0 0;
-  }
-  .demo-shell[data-tour-active='true'] .keyboard-section {
-    max-width: 840px;
   }
 }
 
@@ -225,12 +185,6 @@
 
 .demo-shell[data-tour-active='true'] #typing-input {
   font-size: 24px;
-}
-
-/* The task replaces hover hints; changing their height must not move keys under the pointer. */
-
-.demo-shell[data-tour-active='true'] .key-detail-region {
-  display: none;
 }
 
 .tour-touch-keys {
@@ -269,4 +223,63 @@
 
 .tour-progress progress::-moz-progress-bar {
   background: var(--accent-ink);
+}
+
+.tour-heading {
+  min-width: 0;
+  flex: 1;
+}
+
+.tour-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 20px;
+}
+
+.tour-meta .tour-progress {
+  margin: 0;
+  gap: 8px;
+}
+
+.tour-meta progress {
+  width: 72px;
+}
+
+.tour-topline > button {
+  flex-shrink: 0;
+}
+
+.tour-instruction {
+  text-wrap: pretty;
+}
+
+.tour-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px 20px;
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.tour-footer .tour-status,
+.tour-footer .tour-buttons {
+  margin: 0;
+}
+
+.tour-footer .tour-status:empty {
+  display: none;
+}
+
+.tour-footer .tour-buttons {
+  margin-inline-start: auto;
+}
+
+@media (max-width: 600px) {
+  .tour-footer .tour-buttons {
+    margin-inline-start: 0;
+  }
 }

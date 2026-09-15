@@ -95,8 +95,8 @@ Use real physical input with OS typography disabled when changing keyboard
 behavior: synthetic events bypass OS remapping. Compare with screen keys and
 record the OS/browser. For UI changes, check both themes, narrow/short screens,
 RTL and keyboard navigation. The
-[browser reference](browser-adapter.md#data-and-validation) includes the
-stable-hint regression.
+[browser reference](browser-adapter.md#data-and-validation) includes the layout
+regression checks.
 
 ## Documentation media
 

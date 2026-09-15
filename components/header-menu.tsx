@@ -26,6 +26,8 @@ import {
   DropdownMenuTrigger,
   DropdownMenuContent,
   DropdownMenuItem,
+  DropdownMenuGroup,
+  DropdownMenuLabel,
   DropdownMenuSeparator,
 } from '@/components/ui/dropdown-menu';
 import {
@@ -110,88 +112,104 @@ export function HeaderMenu({
             openingDialog.current ? false : triggerRef.current
           }
         >
-          <DropdownMenuItem
-            className="header-menu-item"
-            onClick={() => {
-              openingDialog.current = true;
-              setLanguageSession((session) => session + 1);
-              setLanguageOpen(true);
-            }}
-          >
-            <Languages aria-hidden="true" />
-            <span>{text.language}</span>
-            <bdi className={headerMenuValueClasses}>
-              {nativeLanguageNames[uiLocale]}
-            </bdi>
-          </DropdownMenuItem>
-          <DropdownMenuItem
-            className="header-menu-item"
-            closeOnClick={false}
-            aria-label={`${text.theme}. ${t('chooseTheme', {
-              theme: isDark ? m.themeLight : m.themeDark,
-            })}`}
-            onClick={() =>
-              setThemePreference(isDark ? 'vesper_light' : 'vesper')
-            }
-          >
-            <ThemeIcon aria-hidden="true" />
-            <span>{text.theme}</span>
-            <span className={headerMenuValueClasses}>
-              {isDark ? m.themeDark : m.themeLight}
-            </span>
-          </DropdownMenuItem>
-          <DropdownMenuItem
-            className="header-menu-item"
-            onClick={() => {
-              openingDialog.current = true;
-              onSettingsOpen();
-            }}
-          >
-            <Settings aria-hidden="true" />
-            <span>{text.settings}</span>
-          </DropdownMenuItem>
-          <DropdownMenuItem
-            className="header-menu-item"
-            disabled={tourActive}
-            onClick={() => {
-              openingDialog.current = true;
-              onTourOpen();
-            }}
-          >
-            <GraduationCap aria-hidden="true" />
-            <span>{tourMessages[uiLocale].menu}</span>
-          </DropdownMenuItem>
-          <DropdownMenuItem
-            className="header-menu-item"
-            render={
-              <a
-                href={referencePath(uiLocale)}
-                aria-label={seoCopy[uiLocale].referenceTitle}
+          <DropdownMenuGroup>
+            <DropdownMenuLabel className="px-2.5 pt-2 pb-1.5">
+              {text.preferencesGroup}
+            </DropdownMenuLabel>
+            <DropdownMenuItem
+              className="header-menu-item"
+              onClick={() => {
+                openingDialog.current = true;
+                setLanguageSession((session) => session + 1);
+                setLanguageOpen(true);
+              }}
+            >
+              <Languages aria-hidden="true" />
+              <span>{text.language}</span>
+              <bdi className={headerMenuValueClasses}>
+                {nativeLanguageNames[uiLocale]}
+              </bdi>
+            </DropdownMenuItem>
+            <DropdownMenuItem
+              className="header-menu-item"
+              closeOnClick={false}
+              aria-label={`${text.theme}. ${t('chooseTheme', {
+                theme: isDark ? m.themeLight : m.themeDark,
+              })}`}
+              onClick={() =>
+                setThemePreference(isDark ? 'vesper_light' : 'vesper')
+              }
+            >
+              <ThemeIcon aria-hidden="true" />
+              <span>{text.theme}</span>
+              <span className={headerMenuValueClasses}>
+                {isDark ? m.themeDark : m.themeLight}
+              </span>
+            </DropdownMenuItem>
+            <DropdownMenuItem
+              className="header-menu-item"
+              onClick={() => {
+                openingDialog.current = true;
+                onSettingsOpen();
+              }}
+            >
+              <Settings aria-hidden="true" />
+              <span>{text.settings}</span>
+            </DropdownMenuItem>
+          </DropdownMenuGroup>
+          <DropdownMenuSeparator className="mx-1 my-2" />
+          <DropdownMenuGroup>
+            <DropdownMenuLabel className="px-2.5 pb-1.5">
+              {text.learningGroup}
+            </DropdownMenuLabel>
+            <DropdownMenuItem
+              className="header-menu-item"
+              disabled={tourActive}
+              onClick={() => {
+                openingDialog.current = true;
+                onTourOpen();
+              }}
+            >
+              <GraduationCap aria-hidden="true" />
+              <span>{tourMessages[uiLocale].menu}</span>
+            </DropdownMenuItem>
+            <DropdownMenuItem
+              className="header-menu-item"
+              render={
+                <a
+                  href={referencePath(uiLocale)}
+                  aria-label={seoCopy[uiLocale].referenceTitle}
+                />
+              }
+            >
+              <BookOpen aria-hidden="true" />
+              <span>{seoCopy[uiLocale].referenceTitle}</span>
+            </DropdownMenuItem>
+          </DropdownMenuGroup>
+          <DropdownMenuSeparator className="mx-1 my-2" />
+          <DropdownMenuGroup>
+            <DropdownMenuLabel className="px-2.5 pb-1.5">
+              {text.projectGroup}
+            </DropdownMenuLabel>
+            <DropdownMenuItem
+              className="header-menu-item"
+              render={
+                <a
+                  aria-label={text.source}
+                  href="https://github.com/jussiemion/keyboard-layout-demo"
+                  target="_blank"
+                  rel="noreferrer"
+                />
+              }
+            >
+              <CodeXml aria-hidden="true" />
+              <span>{text.source}</span>
+              <ArrowUpRight
+                className={headerMenuValueClasses}
+                aria-hidden="true"
               />
-            }
-          >
-            <BookOpen aria-hidden="true" />
-            <span>{seoCopy[uiLocale].referenceTitle}</span>
-          </DropdownMenuItem>
-          <DropdownMenuSeparator />
-          <DropdownMenuItem
-            className="header-menu-item"
-            render={
-              <a
-                aria-label={text.source}
-                href="https://github.com/jussiemion/keyboard-layout-demo"
-                target="_blank"
-                rel="noreferrer"
-              />
-            }
-          >
-            <CodeXml aria-hidden="true" />
-            <span>{text.source}</span>
-            <ArrowUpRight
-              className={headerMenuValueClasses}
-              aria-hidden="true"
-            />
-          </DropdownMenuItem>
+            </DropdownMenuItem>
+          </DropdownMenuGroup>
         </DropdownMenuContent>
       </DropdownMenu>
       <InterfaceLanguageSwitcher

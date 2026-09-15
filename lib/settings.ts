@@ -13,7 +13,6 @@ export type LanguageMapping = {
 export type UserSettings = {
   version: 1;
   languageMapping: LanguageMapping | null;
-  showHints: boolean;
 };
 
 export const SETTINGS_STORAGE_KEY = 'keyboard-layout-demo.settings';
@@ -21,7 +20,6 @@ export const SETTINGS_CHANGE_EVENT = 'keyboard-layout-demo:settings-change';
 export const DEFAULT_SETTINGS: UserSettings = {
   version: 1,
   languageMapping: null,
-  showHints: true,
 };
 
 export function defaultLanguageMapping(): LanguageMapping {
@@ -69,7 +67,6 @@ export function parseSettings(raw: string | null): UserSettings {
             ],
           }
         : null,
-      showHints: typeof data.showHints === 'boolean' ? data.showHints : true,
     };
   } catch {
     return DEFAULT_SETTINGS;

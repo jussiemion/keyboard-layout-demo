@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const vi = {
-  productName: 'Bố cục bàn phím kiểu chữ của Semyon Yushkevich',
-  pageTitle: 'Bố cục bàn phím kiểu chữ của Semyon Yushkevich',
+  productName: 'Bố cục bàn phím kiểu chữ của Yushkevich',
+  pageTitle: 'Bố cục bàn phím kiểu chữ của Yushkevich',
   pageDescription:
-    'Bàn phím ký hiệu, luyện gõ và tài liệu tra cứu ngay trong trình duyệt. Chuyển giữa chế độ ký hiệu cơ bản và mở rộng để nhập dấu câu, ký hiệu tiền tệ và các ký tự đặc biệt khác.',
+    'Gõ gạch ngang, ngoặc kép, tiền tệ và dấu phụ không cần mã Alt. Luyện bàn phím và cẩm nang kiểu chữ cho người viết, nhà thiết kế và dịch giả.',
   brandTitle: 'bố cục kiểu chữ',
   headerActions: 'Giao diện, ngôn ngữ và thông tin dự án',
   sourceLabel: 'Mã nguồn trên GitHub',
@@ -36,18 +36,7 @@ export const vi = {
   resetLabel: 'Xóa ô nhập',
   resetTooltip: 'bắt đầu lại',
   keyboardTitle: 'Birman',
-  keyHint: 'Phím {key}:',
-  capsInstantHint: 'Phím {key}, đổi ngôn ngữ tức thì:',
-  capsQuickHint: 'Phím {key}, đổi ngôn ngữ nhanh:',
   modeLabel: 'Chế độ:',
-  languageSlotHint: 'Chọn {slot} — {language}: giữ {caps} và nhấn {key}.',
-  symbolEntryHint: 'Nhấn {alt} để vào chế độ ký hiệu {mode}.',
-  extendedEntryHint: 'Nhấn {alt} hai lần để vào chế độ mở rộng {mode}.',
-  extendedNextHint: 'Nhấn {alt} lần nữa để vào chế độ mở rộng {mode}.',
-  basicOutputHint:
-    'Ở chế độ cơ bản {mode}, giữ {alt} và nhấn {key} để gõ {symbol}.',
-  symbolOutputHint: 'Ở chế độ ký hiệu {mode}, cho ra {symbol}.',
-  extendedOutputHint: 'Ở chế độ mở rộng {mode}, cho ra {symbol}.',
   chooseMode: 'Chọn chế độ cho phím tiếp theo',
   basicMode: 'cơ bản',
   primaryMode: 'ký hiệu',
@@ -60,19 +49,11 @@ export const vi = {
   secondarySymbol: 'chế độ mở rộng, {modifier} hai lần: {symbol}',
   emptyPrimary: 'chế độ ký hiệu trống',
   emptySecondary: 'chế độ mở rộng trống',
-  diacriticCycleHint: 'Nhấn Shift để chuyển qua các biến thể có dấu của chữ.',
-  languageSlotsHint:
-    'Giữ {caps}, nhấn {j} — {l1}, {k} — {l2}, {l} — {l3} hoặc {semicolon} — {l4} để chọn ngôn ngữ.',
-  hintLabel: 'Gợi ý:',
-  hintsLabel: 'Gợi ý:',
   typographyToggleHint:
     'Nhấn đồng thời hai phím {ctrl}, rồi thả để bật hoặc tắt bố cục.',
   typographyDisabledWarning:
     'Chú ý: bố cục đã tắt. Nhấn đồng thời hai phím {ctrl}, rồi thả để bật lại.',
   accentModeWarning: 'Chú ý: chế độ dấu nhấn đang bật. Nhập một nguyên âm.',
-  keyDetailHelp:
-    'Nhấn {alt} cho chế độ ký hiệu, nhấn {alt} hai lần cho chế độ mở rộng.',
-  resetMode: 'Nhấn {esc} để đặt lại chế độ.',
   entered: 'Đã nhập: {symbol}',
   themeLight: 'Sáng',
   themeDark: 'Tối',
@@ -119,18 +100,6 @@ export const vi = {
   platform: 'Nền tảng',
   choosePlatform: 'Chọn nền tảng: {platform}',
   fnKeyInfo: 'Fn do macOS quản lý',
-  tabInputHint: 'Chèn ký tự tab; không có chức năng kiểu chữ bổ sung.',
-  backspaceInputHint:
-    'Xóa vùng chọn hoặc ký tự trước; không có chức năng kiểu chữ bổ sung.',
-  enterInputHint: 'Chèn xuống dòng; không có chức năng kiểu chữ bổ sung.',
-  standardCharacterHint:
-    'Nhập ký tự thông thường; không có chức năng kiểu chữ bổ sung.',
-  unusedKeyHint:
-    'Phím {key} giữ chức năng thông thường và không tham gia bố cục kiểu chữ.',
-  shiftUsageHint:
-    'Giữ {shift} để nhập chữ hoa và ký hiệu phía trên. Sau chữ, nhấn rồi thả {shift} để chuyển các biến thể có dấu.',
-  altUsageHint:
-    'Phím chính cho kiểu chữ: truy cập ký hiệu bổ sung và nhập nhanh ký hiệu khi giữ.',
   keyArrowLeft: 'Mũi tên trái',
   keyArrowRight: 'Mũi tên phải',
   keyArrowUp: 'Mũi tên lên',

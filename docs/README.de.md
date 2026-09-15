@@ -40,13 +40,38 @@ oder Konto. Tippe auf der physischen Tastatur oder nutze die Bildschirmtasten.
 </picture>
 
 [Video: dunkles Thema](assets/demo-dark.mp4) ·
-[helles Thema](assets/demo-light.mp4) · MP4 · ≈ 26 s
+[helles Thema](assets/demo-light.mp4) · MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
 > Deaktiviere vor dem Test die systemweite typografische Belegung: Sie kann
 > <kbd>Alt</kbd> und <kbd>Caps Lock</kbd> abfangen. Eine fehlende Warnung
 > bestätigt nicht, dass sie ausgeschaltet ist.
+
+## Typografie für deinen Alltag
+
+### Für Autoren und Redaktionen
+
+Übe Gedankenstriche —, Anführungszeichen «», “”, „“ und geschützte Leerzeichen
+ohne Alt-Codes. Alt + Minus erzeugt im Demo einen Gedankenstrich ohne Alt+0151.
+Anführungszeichen wählst du selbst; sie werden nicht automatisch ersetzt.
+
+### Für Grafik-, Web- und UI/UX-Design
+
+Finde und kopiere ©, ®, ™ und $, €, £, ¥, ¢ für Preise, Oberflächentexte und
+mehrsprachige Entwürfe. Füge Zeichen aus dem Typografie-Nachschlagewerk in Figma
+oder einen Editor ein. Das Demo ist kein Figma-Plugin.
+
+### Für Polyglotte und Übersetzer
+
+Übe Umlaute ä, ö, ü und französische Akzente é, è, ç auf einer Standardtastatur.
+Tippe einen Buchstaben und drücke danach <kbd>Shift</kbd>, um seine Varianten in
+der gewählten Sprache durchzugehen. Zum Ausprobieren brauchst du keine
+Sprachpakete im Betriebssystem.
+
+14 Oberflächensprachen und 24 Tastaturvarianten einschließlich regionaler
+Varianten. Die Eingabe gilt im Demo; andere Apps benötigen eine separate
+Systeminstallation. Außereuropäische Sprachen werden experimentell unterstützt.
 
 ## Erste Zeichen
 

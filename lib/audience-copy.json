@@ -1,0 +1,142 @@
+{
+  "en": {
+    "title": "Typography for the work you do",
+    "writersTitle": "For writers, copywriters and editors",
+    "writersBody": "How do you type an em dash or guillemets without Alt codes? Practise —, «», “”, „“ and non-breaking spaces on your keyboard. In the demo, Alt + minus types an em dash without entering Alt+0151. Choose the quotation marks your text needs; the layout does not replace them automatically.",
+    "designersTitle": "For graphic, web and UI/UX designers",
+    "designersBody": "Find and copy copyright ©, registered trademark ®, trademark ™ and currency symbols $, €, £, ¥, ¢ for interface copy, prices and multilingual mockups. Use the typography reference to choose a sign, then paste it into Figma or your editor. This browser demo is not a Figma plugin.",
+    "translatorsTitle": "For polyglots and translators",
+    "translatorsBody": "Practise German umlauts ä, ö, ü and French accents é, è, ç on a standard keyboard. Type a base letter, then tap Shift to cycle the variants supported by the selected language. Explore a keyboard layout for polyglots without installing OS language packs to try the demo.",
+    "scope": "14 interface languages and 24 keyboard options, including regional variants — not 24 distinct languages. Input stays inside the browser demo; system-wide typing requires a separate native installation. Non-European language support is experimental."
+  },
+  "ru": {
+    "title": "Типографика для ваших задач",
+    "writersTitle": "Для авторов, копирайтеров и редакторов",
+    "writersBody": "Как быстро ставить длинное тире и набирать кавычки-ёлочки на клавиатуре без Alt-кодов? Попробуйте —, «», “”, „“ и неразрывные пробелы. В демо Alt + минус даёт длинное тире без ввода Alt+0151. Выбирайте нужные кавычки для текста: раскладка не подменяет их автоматически.",
+    "designersTitle": "Для графических, веб- и UX/UI-дизайнеров",
+    "designersBody": "Найдите и скопируйте символ копирайта ©, знаки ®, ™ и валют $, €, £, ¥, ¢ для цен, текстов интерфейса и многоязычных макетов. Справочник типографики поможет выбрать знак, который можно вставить в Figma или редактор. Веб-демо не является плагином для Figma.",
+    "translatorsTitle": "Для полиглотов и переводчиков",
+    "translatorsBody": "Освойте ввод немецких умлаутов ä, ö, ü и французских акцентов é, è, ç на стандартной клавиатуре. Наберите базовую букву, затем нажимайте Shift для перебора вариантов выбранного языка. Попробовать диакритику и раскладку для нескольких европейских языков можно без установки языковых пакетов ОС.",
+    "scope": "14 языков интерфейса и 24 варианта клавиатуры, включая региональные, — не 24 отдельных языка. Ввод работает внутри веб-демо; для работы во всех приложениях нужна отдельная системная установка. Поддержка неевропейских языков экспериментальная."
+  },
+  "pl": {
+    "title": "Typografia w codziennej pracy",
+    "writersTitle": "Dla autorów, copywriterów i redaktorów",
+    "writersBody": "Ćwicz pauzę —, cudzysłowy «», “”, „“ i spacje nierozdzielające bez kodów Alt. W demo Alt + minus daje pauzę bez Alt+0151. Sam wybierasz cudzysłowy; układ nie zamienia ich automatycznie.",
+    "designersTitle": "Dla grafików i projektantów UI/UX",
+    "designersBody": "Znajdź i skopiuj ©, ®, ™ oraz $, €, £, ¥, ¢ do cen, tekstów interfejsu i wielojęzycznych makiet. Wklej znaki z poradnika typografii do Figmy lub edytora. Demo nie jest wtyczką do Figmy.",
+    "translatorsTitle": "Dla poliglotów i tłumaczy",
+    "translatorsBody": "Ćwicz niemieckie umlauty ä, ö, ü i francuskie znaki é, è, ç na zwykłej klawiaturze. Wpisz literę, potem naciskaj Shift, aby przechodzić przez warianty wybranego języka. Demo nie wymaga instalacji pakietów językowych systemu.",
+    "scope": "14 języków interfejsu i 24 warianty klawiatury, w tym regionalne. Wpisywanie działa w demo; inne aplikacje wymagają osobnej instalacji systemowej. Obsługa języków pozaeuropejskich jest eksperymentalna."
+  },
+  "de": {
+    "title": "Typografie für deinen Alltag",
+    "writersTitle": "Für Autoren und Redaktionen",
+    "writersBody": "Übe Gedankenstriche —, Anführungszeichen «», “”, „“ und geschützte Leerzeichen ohne Alt-Codes. Alt + Minus erzeugt im Demo einen Gedankenstrich ohne Alt+0151. Anführungszeichen wählst du selbst; sie werden nicht automatisch ersetzt.",
+    "designersTitle": "Für Grafik-, Web- und UI/UX-Design",
+    "designersBody": "Finde und kopiere ©, ®, ™ und $, €, £, ¥, ¢ für Preise, Oberflächentexte und mehrsprachige Entwürfe. Füge Zeichen aus dem Typografie-Nachschlagewerk in Figma oder einen Editor ein. Das Demo ist kein Figma-Plugin.",
+    "translatorsTitle": "Für Polyglotte und Übersetzer",
+    "translatorsBody": "Übe Umlaute ä, ö, ü und französische Akzente é, è, ç auf einer Standardtastatur. Tippe einen Buchstaben und drücke danach Shift, um seine Varianten in der gewählten Sprache durchzugehen. Zum Ausprobieren brauchst du keine Sprachpakete im Betriebssystem.",
+    "scope": "14 Oberflächensprachen und 24 Tastaturvarianten einschließlich regionaler Varianten. Die Eingabe gilt im Demo; andere Apps benötigen eine separate Systeminstallation. Außereuropäische Sprachen werden experimentell unterstützt."
+  },
+  "fr": {
+    "title": "La typographie au quotidien",
+    "writersTitle": "Pour les auteurs et les rédacteurs",
+    "writersBody": "Exercez-vous aux tirets cadratins —, guillemets «», “”, „“ et espaces insécables sans codes Alt. Dans la démo, Alt + moins donne — sans Alt+0151. Vous choisissez les guillemets : ils ne sont pas remplacés automatiquement.",
+    "designersTitle": "Pour les graphistes et designers UI/UX",
+    "designersBody": "Trouvez et copiez ©, ®, ™ et $, €, £, ¥, ¢ pour les prix, textes d’interface et maquettes multilingues. Collez les signes du guide typographique dans Figma ou votre éditeur. La démo n’est pas un plugin Figma.",
+    "translatorsTitle": "Pour les polyglottes et traducteurs",
+    "translatorsBody": "Exercez-vous aux trémas allemands ä, ö, ü et aux accents français é, è, ç sur un clavier standard. Tapez une lettre puis appuyez sur Shift pour parcourir les variantes de la langue choisie. Aucun pack linguistique système n’est nécessaire pour essayer la démo.",
+    "scope": "14 langues d’interface et 24 variantes de clavier, régionales comprises. La saisie reste dans la démo ; les autres applications nécessitent une installation système distincte. Les langues non européennes sont expérimentales."
+  },
+  "es": {
+    "title": "Tipografía para tu trabajo",
+    "writersTitle": "Para autores, redactores y editores",
+    "writersBody": "Practica rayas —, comillas «», “”, „“ y espacios inseparables sin códigos Alt. En la demo, Alt + menos escribe — sin Alt+0151. Tú eliges las comillas; no se sustituyen automáticamente.",
+    "designersTitle": "Para diseño gráfico, web y UI/UX",
+    "designersBody": "Busca y copia ©, ®, ™ y $, €, £, ¥, ¢ para precios, textos de interfaz y maquetas multilingües. Pega los signos de la guía tipográfica en Figma o tu editor. La demo no es un plugin de Figma.",
+    "translatorsTitle": "Para políglotas y traductores",
+    "translatorsBody": "Practica las diéresis alemanas ä, ö, ü y los acentos franceses é, è, ç en un teclado estándar. Escribe una letra y pulsa Shift para recorrer las variantes del idioma elegido. La demo no necesita paquetes de idiomas del sistema.",
+    "scope": "14 idiomas de interfaz y 24 variantes de teclado, incluidas las regionales. La escritura funciona dentro de la demo; otras aplicaciones requieren una instalación de sistema independiente. Los idiomas no europeos son experimentales."
+  },
+  "pt": {
+    "title": "Tipografia para o seu trabalho",
+    "writersTitle": "Para autores, redatores e editores",
+    "writersBody": "Pratique travessões —, aspas «», “”, „“ e espaços inseparáveis sem códigos Alt. Na demo, Alt + menos escreve — sem Alt+0151. Escolhe as aspas; não são substituídas automaticamente.",
+    "designersTitle": "Para design gráfico, web e UI/UX",
+    "designersBody": "Encontre e copie ©, ®, ™ e $, €, £, ¥, ¢ para preços, textos de interface e maquetas multilingues. Cole os sinais do guia tipográfico no Figma ou editor. A demo não é um plugin do Figma.",
+    "translatorsTitle": "Para poliglotas e tradutores",
+    "translatorsBody": "Pratique os tremas alemães ä, ö, ü e os acentos franceses é, è, ç num teclado normal. Escreva uma letra e prima Shift para percorrer as variantes do idioma selecionado. Não precisa de pacotes de idiomas do sistema para experimentar a demo.",
+    "scope": "14 idiomas de interface e 24 variantes de teclado, incluindo regionais. A escrita funciona na demo; outras aplicações precisam de instalação própria no sistema. Os idiomas não europeus são experimentais."
+  },
+  "it": {
+    "title": "La tipografia nel tuo lavoro",
+    "writersTitle": "Per autori, copywriter e redattori",
+    "writersBody": "Esercitati con lineette —, virgolette «», “”, „“ e spazi unificatori senza codici Alt. Nella demo, Alt + meno produce — senza Alt+0151. Scegli tu le virgolette: non vengono sostituite automaticamente.",
+    "designersTitle": "Per grafici e designer web e UI/UX",
+    "designersBody": "Trova e copia ©, ®, ™ e $, €, £, ¥, ¢ per prezzi, testi di interfaccia e progetti multilingue. Incolla i segni della guida tipografica in Figma o nel tuo editor. La demo non è un plugin Figma.",
+    "translatorsTitle": "Per poliglotti e traduttori",
+    "translatorsBody": "Esercitati con gli umlaut tedeschi ä, ö, ü e gli accenti francesi é, è, ç su una tastiera standard. Digita una lettera e premi Shift per scorrere le varianti della lingua scelta. La demo non richiede pacchetti linguistici del sistema.",
+    "scope": "14 lingue di interfaccia e 24 varianti di tastiera, comprese quelle regionali. La digitazione funziona nella demo; le altre app richiedono un’installazione di sistema separata. Le lingue non europee sono sperimentali."
+  },
+  "ro": {
+    "title": "Tipografie pentru munca ta",
+    "writersTitle": "Pentru autori, copywriteri și redactori",
+    "writersBody": "Exersează liniile de pauză —, ghilimelele «», “”, „“ și spațiile inseparabile fără coduri Alt. În demo, Alt + minus produce — fără Alt+0151. Alegi ghilimelele; nu sunt înlocuite automat.",
+    "designersTitle": "Pentru designeri grafici, web și UI/UX",
+    "designersBody": "Găsește și copiază ©, ®, ™ și $, €, £, ¥, ¢ pentru prețuri, texte de interfață și machete multilingve. Lipește semnele din ghidul tipografic în Figma sau editor. Demo-ul nu este un plugin Figma.",
+    "translatorsTitle": "Pentru poligloți și traducători",
+    "translatorsBody": "Exersează umlauturile germane ä, ö, ü și accentele franceze é, è, ç pe o tastatură standard. Scrie o literă, apoi apasă Shift pentru variantele limbii selectate. Demo-ul nu necesită pachete de limbă în sistem.",
+    "scope": "14 limbi de interfață și 24 de variante de tastatură, inclusiv regionale. Introducerea funcționează în demo; alte aplicații necesită instalare separată în sistem. Limbile neeuropene sunt experimentale."
+  },
+  "nl": {
+    "title": "Typografie voor je werk",
+    "writersTitle": "Voor auteurs, tekstschrijvers en redacteuren",
+    "writersBody": "Oefen gedachtestreepjes —, aanhalingstekens «», “”, „“ en vaste spaties zonder Alt-codes. In de demo geeft Alt + min een — zonder Alt+0151. Je kiest de aanhalingstekens zelf; ze worden niet automatisch vervangen.",
+    "designersTitle": "Voor grafisch, web- en UI/UX-design",
+    "designersBody": "Zoek en kopieer ©, ®, ™ en $, €, £, ¥, ¢ voor prijzen, interfaceteksten en meertalige ontwerpen. Plak tekens uit de typografiegids in Figma of je editor. De demo is geen Figma-plugin.",
+    "translatorsTitle": "Voor polyglotten en vertalers",
+    "translatorsBody": "Oefen Duitse umlauten ä, ö, ü en Franse accenten é, è, ç op een standaardtoetsenbord. Typ een letter en druk daarna op Shift voor varianten van de gekozen taal. Voor de demo zijn geen taalpakketten nodig.",
+    "scope": "14 interfacetalen en 24 toetsenbordvarianten, inclusief regionale. Invoer werkt in de demo; andere apps vereisen een aparte systeeminstallatie. Niet-Europese talen zijn experimenteel."
+  },
+  "tr": {
+    "title": "İşiniz için tipografi",
+    "writersTitle": "Yazarlar ve editörler için",
+    "writersBody": "Alt kodları olmadan uzun tire —, tırnak «», “”, „“ ve bölünmez boşluk yazmayı deneyin. Demoda Alt + eksi, Alt+0151 girmeden — üretir. Tırnakları siz seçersiniz; otomatik değiştirilmezler.",
+    "designersTitle": "Grafik, web ve UI/UX tasarımcıları için",
+    "designersBody": "Fiyatlar, arayüz metinleri ve çok dilli taslaklar için ©, ®, ™ ve $, €, £, ¥, ¢ işaretlerini bulun ve kopyalayın. Tipografi rehberindeki işaretleri Figma veya düzenleyiciye yapıştırın. Demo bir Figma eklentisi değildir.",
+    "translatorsTitle": "Çok dil bilenler ve çevirmenler için",
+    "translatorsBody": "Standart klavyede Almanca ä, ö, ü ve Fransızca é, è, ç yazmayı deneyin. Bir harf yazıp Shift tuşuna basarak seçili dilin varyantlarını dolaşın. Demoyu denemek için sisteme dil paketi kurmanız gerekmez.",
+    "scope": "14 arayüz dili ve bölgesel seçenekler dahil 24 klavye varyantı. Yazım demo içinde çalışır; diğer uygulamalar ayrı sistem kurulumu gerektirir. Avrupa dışı dillerin desteği deneyseldir."
+  },
+  "vi": {
+    "title": "Kiểu chữ cho công việc của bạn",
+    "writersTitle": "Dành cho người viết và biên tập viên",
+    "writersBody": "Tập gõ gạch ngang dài —, ngoặc kép «», “”, „“ và dấu cách không ngắt mà không cần mã Alt. Trong bản demo, Alt + dấu trừ tạo — mà không cần Alt+0151. Bạn tự chọn ngoặc kép; chúng không được thay thế tự động.",
+    "designersTitle": "Dành cho nhà thiết kế đồ họa, web và UI/UX",
+    "designersBody": "Tìm và sao chép ©, ®, ™ cùng $, €, £, ¥, ¢ cho giá, nội dung giao diện và thiết kế đa ngôn ngữ. Dán ký hiệu từ cẩm nang vào Figma hoặc trình soạn thảo. Demo không phải plugin Figma.",
+    "translatorsTitle": "Dành cho người đa ngôn ngữ và dịch giả",
+    "translatorsBody": "Tập gõ ä, ö, ü tiếng Đức và é, è, ç tiếng Pháp trên bàn phím thông thường. Gõ chữ cái rồi nhấn Shift để duyệt các biến thể của ngôn ngữ đã chọn. Demo không cần cài gói ngôn ngữ hệ điều hành.",
+    "scope": "14 ngôn ngữ giao diện và 24 biến thể bàn phím, gồm các biến thể vùng. Nhập liệu hoạt động trong demo; ứng dụng khác cần cài đặt riêng ở cấp hệ thống. Hỗ trợ ngôn ngữ ngoài châu Âu còn thử nghiệm."
+  },
+  "ar": {
+    "title": "الطباعة لعملك اليومي",
+    "writersTitle": "للكتّاب والمحررين",
+    "writersBody": "تدرّب على كتابة الشرطة الطويلة — وعلامات الاقتباس «» و“” و„“ والمسافات غير القابلة للكسر دون رموز Alt. في العرض، ينتج Alt مع مفتاح الناقص — دون Alt+0151. تختار علامات الاقتباس بنفسك؛ لا تُستبدل تلقائيًا.",
+    "designersTitle": "لمصممي الجرافيك والويب وواجهات المستخدم",
+    "designersBody": "ابحث عن © و® و™ والعملات $ و€ و£ و¥ و¢ وانسخها للأسعار ونصوص الواجهات والتصاميم متعددة اللغات. الصق رموز المرجع في Figma أو المحرر. العرض ليس إضافة لـFigma.",
+    "translatorsTitle": "لمتعددي اللغات والمترجمين",
+    "translatorsBody": "تدرّب على ä وö وü الألمانية وé وè وç الفرنسية بلوحة مفاتيح عادية. اكتب الحرف ثم اضغط Shift للتنقل بين بدائل اللغة المختارة. لا تحتاج إلى حزم لغات للنظام لتجربة العرض.",
+    "scope": "14 لغة للواجهة و24 خيارًا للوحة المفاتيح تشمل خيارات إقليمية. الإدخال يعمل داخل العرض؛ التطبيقات الأخرى تحتاج إلى تثبيت مستقل على النظام. دعم اللغات غير الأوروبية تجريبي."
+  },
+  "he": {
+    "title": "טיפוגרפיה לעבודה שלך",
+    "writersTitle": "לכותבים ולעורכים",
+    "writersBody": "תרגלו מקף ארוך —, מירכאות «», “”, „“ ורווחים קשיחים ללא קודי Alt. בהדגמה Alt עם מקש המינוס מפיק — ללא Alt+0151. אתם בוחרים את המירכאות; הן אינן מוחלפות אוטומטית.",
+    "designersTitle": "למעצבים גרפיים, מעצבי אתרים ומעצבי UI/UX",
+    "designersBody": "מצאו והעתיקו ©, ®, ™ וגם $, €, £, ¥, ¢ למחירים, טקסטי ממשק ועיצובים רב־לשוניים. הדביקו סימנים מהמדריך ב־Figma או בעורך. ההדגמה אינה תוסף ל־Figma.",
+    "translatorsTitle": "לדוברי שפות ולמתרגמים",
+    "translatorsBody": "תרגלו ä, ö, ü בגרמנית ו־é, è, ç בצרפתית במקלדת רגילה. הקלידו אות ואז לחצו Shift למעבר בין החלופות בשפה שנבחרה. אין צורך בחבילות שפה של מערכת ההפעלה כדי לנסות את ההדגמה.",
+    "scope": "14 שפות ממשק ו־24 אפשרויות מקלדת, כולל גרסאות אזוריות. ההקלדה פועלת בהדגמה; יישומים אחרים דורשים התקנה נפרדת במערכת. התמיכה בשפות שאינן אירופיות ניסיונית."
+  }
+}

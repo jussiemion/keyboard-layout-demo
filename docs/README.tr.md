@@ -39,7 +39,7 @@ veya hesap gerekmez. Fiziksel klavyeyi ve ekran tuşlarını kullanabilirsiniz.
 </picture>
 
 [Video: koyu tema](assets/demo-dark.mp4) · [açık tema](assets/demo-light.mp4) ·
-MP4 · ≈ 26 s
+MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
@@ -47,6 +47,30 @@ MP4 · ≈ 26 s
 > <kbd>Alt</kbd> veya <kbd>Caps Lock</kbd> tarayıcıya ulaşmadan yakalanabilir.
 > Uyarı yalnız belirgin olaylardan sonra çıkar; uyarının yokluğu düzenin kapalı
 > olduğunu kanıtlamaz.
+
+## İşiniz için tipografi
+
+### Yazarlar ve editörler için
+
+Alt kodları olmadan uzun tire —, tırnak «», “”, „“ ve bölünmez boşluk yazmayı
+deneyin. Demoda Alt + eksi, Alt+0151 girmeden — üretir. Tırnakları siz
+seçersiniz; otomatik değiştirilmezler.
+
+### Grafik, web ve UI/UX tasarımcıları için
+
+Fiyatlar, arayüz metinleri ve çok dilli taslaklar için ©, ®, ™ ve $, €, £, ¥, ¢
+işaretlerini bulun ve kopyalayın. Tipografi rehberindeki işaretleri Figma veya
+düzenleyiciye yapıştırın. Demo bir Figma eklentisi değildir.
+
+### Çok dil bilenler ve çevirmenler için
+
+Standart klavyede Almanca ä, ö, ü ve Fransızca é, è, ç yazmayı deneyin. Bir harf
+yazıp <kbd>Shift</kbd> tuşuna basarak seçili dilin varyantlarını dolaşın. Demoyu
+denemek için sisteme dil paketi kurmanız gerekmez.
+
+14 arayüz dili ve bölgesel seçenekler dahil 24 klavye varyantı. Yazım demo
+içinde çalışır; diğer uygulamalar ayrı sistem kurulumu gerektirir. Avrupa dışı
+dillerin desteği deneyseldir.
 
 ## İlk simgeler
 

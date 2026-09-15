@@ -110,10 +110,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Tipografiyi kapatmak için iki {ctrl} tuşuna birlikte basıp bırakın. Normal yazım devam eder.',
       on: 'Tipografiyi açmak için iki {ctrl} birleşimini tekrarlayın.',
       search:
-        'Üst çubuktaki aramayı açın ({searchChord}) ve {copyright} bulun. Kısayolu inceleyin, aramayı kapatıp simgeyi yazın.',
+        'Aramayı {capsLock} + {keyF} ile açın. {copyright} işaretini bulun, kısayoluna bakın, aramayı kapatıp simgeyi yazın.',
       settings:
-        "Menüden Ayarlar'ı açın: {s0} çifti, {slots} dilleri ve ipuçları burada. Açmak yeterli; kaydetmeniz gerekmez.",
-      help: 'Üst çubuktaki kitapla kısa başvuruyu açın. Birleşimleri hızla hatırlatır. Devam etmek için kapatın.',
+        "Menüden Ayarlar'ı açın: {s0} çifti, {slots} dilleri burada. Açmak yeterli; kaydetmeniz gerekmez.",
+      help: '{capsLock} + {keyH} ile kısayol rehberini açın. Kombinasyonlara bakın, ardından devam etmek için kapatın.',
     },
   },
   nl: {
@@ -176,10 +176,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Druk beide {ctrl}-toetsen samen in en laat los om typografie uit te zetten. Gewoon typen blijft werken.',
       on: 'Herhaal de combinatie met beide {ctrl}-toetsen om typografie aan te zetten.',
       search:
-        'Open zoeken bovenaan ({searchChord}) en zoek {copyright}. Bekijk de combinatie, sluit zoeken en typ het symbool.',
+        'Open zoeken met {capsLock} + {keyF}. Zoek {copyright}, bekijk de combinatie, sluit zoeken en typ het symbool.',
       settings:
-        'Open Instellingen in het menu voor het {s0}-paar, {slots}-talen en tips. Alleen openen is voldoende; wijzigen hoeft niet.',
-      help: 'Open de spiekbrief via het boek bovenaan. Hier vind je snel de combinaties. Sluit hem om verder te gaan.',
+        'Open Instellingen in het menu voor het {s0}-paar, {slots}-talen. Alleen openen is voldoende; wijzigen hoeft niet.',
+      help: 'Open het spiekbriefje met {capsLock} + {keyH}. Bekijk de combinaties en sluit het om verder te gaan.',
     },
   },
   vi: {
@@ -242,10 +242,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Nhấn đồng thời hai phím {ctrl}, rồi thả để tắt kiểu chữ. Vẫn nhập được văn bản thông thường.',
       on: 'Lặp lại tổ hợp hai phím {ctrl} để bật kiểu chữ.',
       search:
-        'Mở tìm kiếm ở đầu trang ({searchChord}) và tìm {copyright}. Xem phím tắt, đóng tìm kiếm rồi nhập ký hiệu.',
+        'Mở tìm kiếm bằng {capsLock} + {keyF}. Tìm {copyright}, xem phím tắt, đóng tìm kiếm rồi nhập ký hiệu.',
       settings:
-        'Mở Cài đặt trong menu để xem cặp {s0}, ngôn ngữ {slots} và gợi ý. Chỉ cần mở là hoàn thành; không cần lưu thay đổi.',
-      help: 'Mở bảng tra nhanh bằng biểu tượng sách ở đầu trang. Đây là nơi xem nhanh tổ hợp phím. Đóng để tiếp tục.',
+        'Mở Cài đặt trong menu để xem cặp {s0}, ngôn ngữ {slots}. Chỉ cần mở là hoàn thành; không cần lưu thay đổi.',
+      help: 'Mở bảng phím tắt bằng {capsLock} + {keyH}. Xem các tổ hợp rồi đóng để tiếp tục.',
     },
   },
   ar: {
@@ -305,10 +305,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'اضغط مفتاحَي {ctrl} معًا ثم اتركهما لإيقاف الطباعة الخاصة. تبقى الكتابة العادية متاحة.',
       on: 'كرّر مجموعة مفتاحَي {ctrl} لتشغيل الطباعة الخاصة.',
       search:
-        'افتح البحث في الترويسة ({searchChord}) وابحث عن {copyright}. اقرأ الاختصار وأغلق البحث ثم اكتب الرمز.',
+        'افتح البحث باستخدام {capsLock} + {keyF}. ابحث عن {copyright}، واقرأ اختصاره، ثم أغلق البحث واكتب الرمز.',
       settings:
-        'افتح الإعدادات من القائمة: فيها زوج {s0} ولغات {slots} والتلميحات. يكفي فتحها؛ لا حاجة لحفظ تغييرات.',
-      help: 'افتح الورقة المرجعية عبر رمز الكتاب في الترويسة. تذكّرك بالاختصارات بسرعة. أغلقها للمتابعة.',
+        'افتح الإعدادات من القائمة: فيها زوج {s0} ولغات {slots}. يكفي فتحها؛ لا حاجة لحفظ تغييرات.',
+      help: 'افتح دليل الاختصارات باستخدام {capsLock} + {keyH}. راجع الاختصارات ثم أغلقه للمتابعة.',
     },
   },
 
@@ -373,10 +373,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Нажмите оба {ctrl} одновременно и отпустите: типографика выключится. Обычный ввод останется доступен.',
       on: 'Повторите сочетание обоих {ctrl}, чтобы снова включить типографику.',
       search:
-        'Откройте поиск в шапке ({searchChord}) и найдите {copyright}. Посмотрите сочетание, закройте поиск и наберите этот символ.',
+        'Удерживайте {capsLock} и нажмите {keyF}, чтобы открыть поиск. Найдите {copyright}, посмотрите сочетание, закройте поиск и наберите символ.',
       settings:
-        'Откройте «Настройки» в меню: здесь меняются пара {s0}, языки {slots} и подсказки. Для задания достаточно открыть окно; сохранять изменения не нужно.',
-      help: 'Откройте шпаргалку кнопкой с книгой в шапке. Здесь можно быстро вспомнить сочетания. После просмотра закройте её и продолжите.',
+        'Откройте «Настройки» в меню: здесь меняются пара {s0}, языки {slots}. Для задания достаточно открыть окно; сохранять изменения не нужно.',
+      help: 'Удерживайте {capsLock} и нажмите {keyH}, чтобы открыть шпаргалку. Посмотрите сочетания и закройте её, чтобы продолжить.',
     },
   },
   en: {
@@ -439,10 +439,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Press both {ctrl} keys together and release them to turn typography off. Ordinary typing remains available.',
       on: 'Repeat the chord with both {ctrl} keys to turn typography back on.',
       search:
-        'Open header search ({searchChord}) and find {copyright}. Read its shortcut, close search and type the symbol.',
+        'Hold {capsLock} and press {keyF} to open search. Find {copyright}, read its shortcut, close search and type the symbol.',
       settings:
-        'Open Settings in the menu to find the {s0} pair, {slots} languages and hints. Just opening it completes this task; no changes are needed.',
-      help: 'Open the cheat sheet using the book in the header. It is a quick shortcut reference. Close it to continue.',
+        'Open Settings in the menu to find the {s0} pair, {slots} languages. Just opening it completes this task; no changes are needed.',
+      help: 'Hold {capsLock} and press {keyH} to open the cheat sheet. Explore the shortcuts, then close it to continue.',
     },
   },
   he: {
@@ -503,10 +503,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'לחצו על שני מקשי {ctrl} יחד ושחררו כדי לכבות טיפוגרפיה. הקלדה רגילה נשארת זמינה.',
       on: 'חזרו על הצירוף של שני מקשי {ctrl} להפעלת הטיפוגרפיה.',
       search:
-        'פתחו חיפוש בראש העמוד ({searchChord}) ומצאו {copyright}. קראו את הצירוף, סגרו את החיפוש והקלידו את הסמל.',
+        'פתחו חיפוש עם {capsLock} + {keyF}. מצאו {copyright}, קראו את הצירוף, סגרו את החיפוש והקלידו את הסמל.',
       settings:
-        'פתחו הגדרות בתפריט: זוג {s0}, שפות {slots} וטיפים. די לפתוח את החלון; אין צורך לשמור שינויים.',
-      help: 'פתחו את דף העזר דרך הספר בראש העמוד. שם מופיעים הקיצורים. סגרו אותו כדי להמשיך.',
+        'פתחו הגדרות בתפריט: זוג {s0}, שפות {slots}. די לפתוח את החלון; אין צורך לשמור שינויים.',
+      help: 'פתחו את דף העזר עם {capsLock} + {keyH}. עיינו בצירופים וסגרו אותו כדי להמשיך.',
     },
   },
   de: {
@@ -567,10 +567,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Beide {ctrl} zusammen drücken und loslassen: Typografie aus, normales Tippen bleibt möglich.',
       on: 'Beide {ctrl} erneut zusammen drücken und loslassen: Typografie an.',
       search:
-        'Suche oben öffnen ({searchChord}) und {copyright} suchen. Tastenkürzel ansehen, Suche schließen und das Symbol tippen.',
+        'Suche mit {capsLock} + {keyF} öffnen. {copyright} suchen, Tastenkürzel ansehen, Suche schließen und das Symbol tippen.',
       settings:
-        'Einstellungen im Menü öffnen: {s0}, {slots} und Hinweise. Öffnen genügt; nichts speichern.',
-      help: 'Spickzettel über das Buch oben öffnen, ansehen und schließen.',
+        'Einstellungen im Menü öffnen: {s0}, {slots}. Öffnen genügt; nichts speichern.',
+      help: 'Den Spickzettel mit {capsLock} + {keyH} öffnen. Tastenkürzel ansehen und zum Fortfahren schließen.',
     },
   },
   fr: {
@@ -633,10 +633,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Appuyez sur les deux {ctrl} ensemble, puis relâchez : typographie désactivée, saisie normale disponible.',
       on: 'Répétez avec les deux {ctrl} pour réactiver la typographie.',
       search:
-        'Ouvrez la recherche en haut ({searchChord}), cherchez {copyright}, lisez son raccourci, fermez la recherche et tapez le symbole.',
+        'Ouvrez la recherche avec {capsLock} + {keyF}. Cherchez {copyright}, lisez son raccourci, fermez la recherche et tapez le symbole.',
       settings:
-        'Ouvrez les paramètres du menu : {s0}, {slots} et conseils. Il suffit d’ouvrir ; inutile d’enregistrer.',
-      help: 'Ouvrez l’aide-mémoire avec le livre en haut, puis fermez-le pour continuer.',
+        'Ouvrez les paramètres du menu : {s0}, {slots}. Il suffit d’ouvrir ; inutile d’enregistrer.',
+      help: 'Ouvrez le mémo avec {capsLock} + {keyH}. Consultez les raccourcis, puis fermez-le pour continuer.',
     },
   },
   es: {
@@ -697,10 +697,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Pulsa ambos {ctrl} juntos y suéltalos: se desactiva la tipografía y sigue la escritura normal.',
       on: 'Repite con ambos {ctrl} para activar de nuevo la tipografía.',
       search:
-        'Abre la búsqueda superior ({searchChord}), busca {copyright}, mira su atajo, cierra la búsqueda y escribe el símbolo.',
+        'Abre la búsqueda con {capsLock} + {keyF}. Busca {copyright}, mira su atajo, cierra la búsqueda y escribe el símbolo.',
       settings:
-        'Abre Ajustes en el menú: {s0}, {slots} y consejos. Basta con abrir; no guardes cambios.',
-      help: 'Abre la guía rápida con el libro superior y ciérrala para continuar.',
+        'Abre Ajustes en el menú: {s0}, {slots}. Basta con abrir; no guardes cambios.',
+      help: 'Abre la chuleta con {capsLock} + {keyH}. Consulta los atajos y ciérrala para continuar.',
     },
   },
   it: {
@@ -761,10 +761,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Premi entrambi i {ctrl} insieme e rilasciali: tipografia disattivata, digitazione normale disponibile.',
       on: 'Ripeti con entrambi i {ctrl} per riattivare la tipografia.',
       search:
-        'Apri la ricerca in alto ({searchChord}), cerca {copyright}, leggi la scorciatoia, chiudi la ricerca e digita il simbolo.',
+        'Apri la ricerca con {capsLock} + {keyF}. Cerca {copyright}, leggi la scorciatoia, chiudi la ricerca e digita il simbolo.',
       settings:
-        'Apri Impostazioni nel menu: {s0}, {slots} e suggerimenti. Basta aprire; non occorre salvare.',
-      help: 'Apri il promemoria con il libro in alto, poi chiudilo per continuare.',
+        'Apri Impostazioni nel menu: {s0}, {slots}. Basta aprire; non occorre salvare.',
+      help: 'Apri il promemoria con {capsLock} + {keyH}. Consulta le scorciatoie e chiudilo per continuare.',
     },
   },
   pl: {
@@ -826,10 +826,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Naciśnij oba {ctrl} razem i zwolnij: typografia wyłączona, zwykłe pisanie nadal działa.',
       on: 'Powtórz z oboma {ctrl}, aby włączyć typografię.',
       search:
-        'Otwórz wyszukiwanie u góry ({searchChord}), znajdź {copyright}, sprawdź skrót, zamknij wyszukiwanie i wpisz symbol.',
+        'Otwórz wyszukiwanie przez {capsLock} + {keyF}. Znajdź {copyright}, sprawdź skrót, zamknij wyszukiwanie i wpisz symbol.',
       settings:
-        'Otwórz Ustawienia w menu: {s0}, {slots} i podpowiedzi. Wystarczy otworzyć, bez zapisywania.',
-      help: 'Otwórz ściągawkę książką u góry, potem zamknij ją i kontynuuj.',
+        'Otwórz Ustawienia w menu: {s0}, {slots}. Wystarczy otworzyć, bez zapisywania.',
+      help: 'Otwórz ściągawkę przez {capsLock} + {keyH}. Sprawdź skróty i zamknij ją, aby kontynuować.',
     },
   },
   pt: {
@@ -890,10 +890,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Prime ambos os {ctrl} juntos e solta: tipografia desligada, escrita normal disponível.',
       on: 'Repete com ambos os {ctrl} para voltar a ligar a tipografia.',
       search:
-        'Abre a pesquisa no topo ({searchChord}), procura {copyright}, vê o atalho, fecha a pesquisa e escreve o símbolo.',
+        'Abre a pesquisa com {capsLock} + {keyF}. Procura {copyright}, vê o atalho, fecha a pesquisa e escreve o símbolo.',
       settings:
-        'Abre Definições no menu: {s0}, {slots} e dicas. Basta abrir, sem guardar alterações.',
-      help: 'Abre o guia rápido com o livro no topo e fecha-o para continuar.',
+        'Abre Definições no menu: {s0}, {slots}. Basta abrir, sem guardar alterações.',
+      help: 'Abre a cábula com {capsLock} + {keyH}. Consulta os atalhos e fecha-a para continuar.',
     },
   },
   ro: {
@@ -953,10 +953,10 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       off: 'Apasă ambele {ctrl} împreună și eliberează: tipografia se oprește, tastarea obișnuită rămâne disponibilă.',
       on: 'Repetă cu ambele {ctrl} pentru a reporni tipografia.',
       search:
-        'Deschide căutarea de sus ({searchChord}), găsește {copyright}, citește combinația, închide căutarea și tastează simbolul.',
+        'Deschide căutarea cu {capsLock} + {keyF}. Găsește {copyright}, citește combinația, închide căutarea și tastează simbolul.',
       settings:
-        'Deschide Setări în meniu: {s0}, {slots} și sugestii. Este suficient să deschizi, fără să salvezi.',
-      help: 'Deschide fișa cu cartea de sus, apoi închide-o pentru a continua.',
+        'Deschide Setări în meniu: {s0}, {slots}. Este suficient să deschizi, fără să salvezi.',
+      help: 'Deschide fișa cu {capsLock} + {keyH}. Consultă combinațiile, apoi închide-o pentru a continua.',
     },
   },
 };

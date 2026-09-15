@@ -10,17 +10,6 @@
   pointer-events: none;
 }
 
-.hovered-key-hint > span + span {
-  margin-inline-start: calc(var(--hint-gap) / 2);
-}
-
-.hint-label {
-  color: var(--sub);
-  font-size: 0.875rem;
-  font-weight: 600;
-  line-height: 1.6;
-}
-
 .keycap:is(:hover, :focus-visible):not(:disabled):not(.pressed):not(:active)
   :is(.primary-symbol, .secondary-symbol, .space-legend) {
   color: var(--primary);
@@ -30,9 +19,9 @@
 /* Mode references share a single palette with Alt/Option. */
 
 .language-mark,
-.key-detail kbd.language-mark,
+.trainer-status kbd.language-mark,
 :is(
-  .key-detail kbd,
+  .trainer-status kbd,
   .help-sheet kbd,
   .tour-panel kbd,
   .symbol-search-dialog kbd,
@@ -54,7 +43,7 @@
 }
 
 :is(
-    .key-detail kbd,
+    .trainer-status kbd,
     .help-sheet kbd,
     .tour-panel kbd,
     .symbol-search-dialog kbd,
@@ -68,7 +57,7 @@
 }
 
 :is(
-    .key-detail kbd,
+    .trainer-status kbd,
     .help-sheet kbd,
     .tour-panel kbd,
     .symbol-search-dialog kbd,
@@ -93,7 +82,7 @@
 /* Language references use a neutral outline without a fill. */
 
 .language-mark,
-.key-detail kbd.language-mark {
+.trainer-status kbd.language-mark {
   border-color: light-dark(#d8d2ca, #999);
   background: transparent;
   color: var(--sub);

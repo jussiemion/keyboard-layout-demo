@@ -8,8 +8,6 @@ type SettingsMessages = {
   first: string;
   second: string;
   swap: string;
-  hints: string;
-  hintsDescription: string;
   reset: string;
   cancel: string;
   save: string;
@@ -26,9 +24,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Birinci dil',
     second: 'İkinci dil',
     swap: 'Dilleri yer değiştir',
-    hints: 'Yazım ipuçları',
-    hintsDescription:
-      'Klavyenin altında açıklamaları göster. Durum uyarıları görünür kalır.',
     reset: 'Varsayılanları geri yükle',
     cancel: 'İptal',
     save: 'Kaydet',
@@ -45,9 +40,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Eerste taal',
     second: 'Tweede taal',
     swap: 'Talen omwisselen',
-    hints: 'Typtips',
-    hintsDescription:
-      'Toon uitleg onder het toetsenbord. Statusmeldingen blijven zichtbaar.',
     reset: 'Standaardwaarden herstellen',
     cancel: 'Annuleren',
     save: 'Opslaan',
@@ -63,9 +55,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Ngôn ngữ thứ nhất',
     second: 'Ngôn ngữ thứ hai',
     swap: 'Đổi chỗ ngôn ngữ',
-    hints: 'Gợi ý khi nhập',
-    hintsDescription:
-      'Hiển thị giải thích dưới bàn phím. Cảnh báo trạng thái vẫn hiển thị.',
     reset: 'Khôi phục mặc định',
     cancel: 'Hủy',
     save: 'Lưu',
@@ -81,9 +70,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'اللغة الأولى',
     second: 'اللغة الثانية',
     swap: 'تبديل ترتيب اللغتين',
-    hints: 'تلميحات الكتابة',
-    hintsDescription:
-      'إظهار الشروحات أسفل لوحة المفاتيح. تبقى تنبيهات الحالة ظاهرة.',
     reset: 'استعادة الافتراضيات',
     cancel: 'إلغاء',
     save: 'حفظ',
@@ -101,9 +87,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'First language',
     second: 'Second language',
     swap: 'Swap languages',
-    hints: 'Typing hints',
-    hintsDescription:
-      'Show explanations below the keyboard. Status warnings remain visible.',
     reset: 'Restore defaults',
     cancel: 'Cancel',
     save: 'Save',
@@ -120,9 +103,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Первый язык',
     second: 'Второй язык',
     swap: 'Поменять языки местами',
-    hints: 'Подсказки при наборе',
-    hintsDescription:
-      'Показывать пояснения под клавиатурой. Сообщения о состоянии останутся видны.',
     reset: 'По умолчанию',
     cancel: 'Отмена',
     save: 'Сохранить',
@@ -138,8 +118,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'שפה ראשונה',
     second: 'שפה שנייה',
     swap: 'החלפת סדר השפות',
-    hints: 'עזרה בהקלדה',
-    hintsDescription: 'הצגת הסברים מתחת למקלדת. הודעות מצב יישארו גלויות.',
     reset: 'ברירת מחדל',
     cancel: 'ביטול',
     save: 'שמירה',
@@ -156,9 +134,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Erste Sprache',
     second: 'Zweite Sprache',
     swap: 'Sprachen tauschen',
-    hints: 'Tipphinweise',
-    hintsDescription:
-      'Erklärungen unter der Tastatur anzeigen. Statusmeldungen bleiben sichtbar.',
     reset: 'Standardwerte',
     cancel: 'Abbrechen',
     save: 'Speichern',
@@ -175,9 +150,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Première langue',
     second: 'Deuxième langue',
     swap: 'Inverser les langues',
-    hints: 'Aide à la saisie',
-    hintsDescription:
-      'Afficher les explications sous le clavier. Les messages d’état restent visibles.',
     reset: 'Valeurs par défaut',
     cancel: 'Annuler',
     save: 'Enregistrer',
@@ -194,9 +166,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Primer idioma',
     second: 'Segundo idioma',
     swap: 'Intercambiar idiomas',
-    hints: 'Ayuda de escritura',
-    hintsDescription:
-      'Mostrar explicaciones bajo el teclado. Los avisos de estado seguirán visibles.',
     reset: 'Restablecer valores',
     cancel: 'Cancelar',
     save: 'Guardar',
@@ -213,9 +182,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Prima lingua',
     second: 'Seconda lingua',
     swap: 'Scambia lingue',
-    hints: 'Suggerimenti di digitazione',
-    hintsDescription:
-      'Mostra spiegazioni sotto la tastiera. Gli avvisi di stato restano visibili.',
     reset: 'Ripristina predefiniti',
     cancel: 'Annulla',
     save: 'Salva',
@@ -232,9 +198,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Pierwszy język',
     second: 'Drugi język',
     swap: 'Zamień języki',
-    hints: 'Podpowiedzi pisania',
-    hintsDescription:
-      'Pokazuj objaśnienia pod klawiaturą. Komunikaty stanu pozostaną widoczne.',
     reset: 'Przywróć domyślne',
     cancel: 'Anuluj',
     save: 'Zapisz',
@@ -251,9 +214,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Primeiro idioma',
     second: 'Segundo idioma',
     swap: 'Trocar idiomas',
-    hints: 'Dicas de escrita',
-    hintsDescription:
-      'Mostrar explicações sob o teclado. Os avisos de estado permanecem visíveis.',
     reset: 'Repor predefinições',
     cancel: 'Cancelar',
     save: 'Guardar',
@@ -270,9 +230,6 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
     first: 'Prima limbă',
     second: 'A doua limbă',
     swap: 'Inversează limbile',
-    hints: 'Indicații de tastare',
-    hintsDescription:
-      'Afișează explicații sub tastatură. Mesajele de stare rămân vizibile.',
     reset: 'Valori implicite',
     cancel: 'Anulează',
     save: 'Salvează',

@@ -1,10 +1,10 @@
 import type { Messages } from '../messages.ts';
 
 export const pl = {
-  productName: 'Typograficzny układ klawiatury Szymona Juszkiewicza',
-  pageTitle: 'Typograficzny układ klawiatury Szymona Juszkiewicza',
+  productName: 'Typograficzny układ klawiatury Juszkiewicza',
+  pageTitle: 'Typograficzny układ klawiatury Juszkiewicza',
   pageDescription:
-    'Klawiatura typograficzna, ćwiczenia pisania i przewodnik po symbolach w przeglądarce. Przełączaj podstawowy i rozszerzony tryb symboli, aby wpisywać interpunkcję, znaki walut i inne znaki specjalne.',
+    'Pauzy, cudzysłowy, waluty i akcenty bez kodów Alt. Trenażer klawiatury i poradnik typografii dla autorów, projektantów i tłumaczy.',
   brandTitle: 'układ typograficzny',
   headerActions: 'Wygląd, język interfejsu i informacje o projekcie',
   sourceLabel: 'Kod źródłowy na GitHubie',
@@ -36,21 +36,7 @@ export const pl = {
   resetLabel: 'Wyczyść pole tekstowe',
   resetTooltip: 'zacznij od nowa',
   keyboardTitle: 'Birman',
-  keyHint: 'Klawisz {key}:',
-  capsInstantHint: 'Klawisz {key}, natychmiastowe przełączanie języka:',
-  capsQuickHint: 'Klawisz {key}, szybkie przełączanie języka:',
   modeLabel: 'Tryb:',
-  languageSlotHint:
-    'Wybierz {slot} — {language}: przytrzymaj {caps} i naciśnij {key}.',
-  symbolEntryHint: 'Naciśnij {alt}, aby włączyć tryb symboli {mode}.',
-  extendedEntryHint:
-    'Dwukrotnie naciśnij {alt}, aby włączyć tryb rozszerzony {mode}.',
-  extendedNextHint:
-    'Naciśnij {alt} jeszcze raz, aby włączyć tryb rozszerzony {mode}.',
-  basicOutputHint:
-    'W trybie podstawowym {mode} przytrzymaj {alt} i naciśnij {key}, aby wpisać {symbol}.',
-  symbolOutputHint: 'W trybie symboli {mode} wpisuje {symbol}.',
-  extendedOutputHint: 'W trybie rozszerzonym {mode} wpisuje {symbol}.',
   chooseMode: 'Wybierz tryb wpisywania dla następnego klawisza',
   basicMode: 'podstawowy',
   primaryMode: 'symboli',
@@ -63,20 +49,11 @@ export const pl = {
   secondarySymbol: 'tryb rozszerzony, {modifier} dwa razy: {symbol}',
   emptyPrimary: 'tryb symboli jest pusty',
   emptySecondary: 'tryb rozszerzony jest pusty',
-  diacriticCycleHint:
-    'Naciśnij Shift, aby zmienić znak diakrytyczny wpisanej litery.',
-  languageSlotsHint:
-    'Przytrzymując {caps}, naciśnij {j} — {l1}, {k} — {l2}, {l} — {l3} lub {semicolon} — {l4}, aby wybrać język.',
-  hintLabel: 'Wskazówka:',
-  hintsLabel: 'Wskazówki:',
   typographyToggleHint:
     'Naciśnij oba klawisze {ctrl} jednocześnie, a następnie je zwolnij, aby wyłączyć lub włączyć układ.',
   typographyDisabledWarning:
     'Uwaga: układ jest wyłączony. Naciśnij oba klawisze {ctrl} jednocześnie i zwolnij je, aby go włączyć.',
   accentModeWarning: 'Uwaga: tryb akcentu jest aktywny. Wpisz samogłoskę.',
-  keyDetailHelp:
-    'Naciśnij i puść {alt}, aby wybrać tryb symboli. Dwa naciśnięcia {alt} wybierają tryb rozszerzony.',
-  resetMode: 'Naciśnij {esc}, aby zresetować tryb.',
   entered: 'Wpisano: {symbol}',
   themeLight: 'Jasny',
   themeDark: 'Ciemny',
@@ -132,19 +109,6 @@ export const pl = {
   platform: 'Platforma',
   choosePlatform: 'Wybierz platformę: {platform}',
   fnKeyInfo: 'Klawiszem Fn zarządza macOS',
-  tabInputHint: 'Wstawia tabulator; bez dodatkowych funkcji typograficznych.',
-  backspaceInputHint:
-    'Usuwa zaznaczenie lub poprzedni znak; bez dodatkowych funkcji typograficznych.',
-  enterInputHint:
-    'Wstawia nowy wiersz; bez dodatkowych funkcji typograficznych.',
-  standardCharacterHint:
-    'Wpisuje zwykłe znaki; nie ma dodatkowych funkcji typograficznych.',
-  unusedKeyHint:
-    'Klawisz {key} zachowuje standardowe działanie i nie jest częścią układu typograficznego.',
-  shiftUsageHint:
-    'Przytrzymaj {shift}, aby wpisywać wielkie litery i górne symbole klawiszy. Po literze naciskaj i zwalniaj {shift}, aby przełączać dostępne warianty diakrytyczne.',
-  altUsageHint:
-    'Główny klawisz wprowadzania typograficznego: daje dostęp do dodatkowych symboli, a przytrzymany pozwala wpisywać szybkie symbole.',
   keyArrowLeft: 'Strzałka w lewo',
   keyArrowRight: 'Strzałka w prawo',
   keyArrowUp: 'Strzałka w górę',

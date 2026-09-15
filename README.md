@@ -61,7 +61,7 @@ you already use.
 </a>
 
 **Video with playback controls:** [Dark theme](docs/assets/demo-dark.mp4) ·
-[Light theme](docs/assets/demo-light.mp4) · About 26 seconds each, no audio.
+[Light theme](docs/assets/demo-light.mp4) · About 20 seconds each, no audio.
 
 ## A little more from every key
 
@@ -75,6 +75,89 @@ language map your own.
 | **Accents and national characters** with language-specific gestures | **Search and cheat sheet** for a quick reminder   | **Light and dark themes**, plus Linux, Windows and macOS keyboard views |
 
 No installation or account is needed. Practice text stays in the browser.
+
+## Typography and accented letters at your fingertips
+
+Typographic Layout by Semyon Yushkevich helps you write polished copy, prepare
+design mockups and type across languages. Try it in your browser: no
+installation or account required.
+
+### For writers, copywriters and editors
+
+- **Em dashes — and ellipses … without <kbd>Alt</kbd> codes.** Use short
+  keyboard combinations instead of memorizing numeric codes or searching for
+  symbols.
+- **Quotation marks for different languages.** Type English “quotes”, French
+  «guillemets» and German „quotes“ to match your editorial style.
+- **Non-breaking spaces.** Keep numbers with their units and initials with their
+  surnames.
+
+### For UI/UX, web and graphic designers
+
+- **Currency symbols $, €, £, ¥, ¢.** Prepare prices, subscription plans and
+  product cards for international mockups.
+- **Copyright ©, registered trademark ® and trademark ™ symbols.** Find the
+  right character for interface copy, credits and presentations.
+- **Searchable typography reference.** Look up a symbol, learn its purpose and
+  copy it into Figma or another editor.
+
+### For polyglots, linguists and translators
+
+- **Type umlauts and accents with <kbd>Shift</kbd>.** Type a base letter,
+  release its key, then tap <kbd>Shift</kbd> to cycle through its variants: u →
+  ü in German or e → é → è → ê → ë in French.
+- **National characters on your familiar keyboard.** Practise typing ä, ö, ü, é,
+  è, ç, ñ and other characters supported by your selected language.
+- **Explore several languages in one demo.** Assign up to six languages and
+  switch between them within the page, without changing your OS input source or
+  installing language packs to try the layout.
+
+14 interface languages and 24 keyboard options, including regional variants.
+Available characters and input gestures depend on the selected language. Arabic,
+Hebrew, Turkish and Vietnamese support is experimental. Typing works inside the
+browser demo. Copy your text into the app where you need it.
+
+**[Try Typographic Layout by Semyon Yushkevich →](https://jussiemion.github.io/keyboard-layout-demo/en/)**
+
+## Frequently asked questions
+
+### How can I type special characters without <kbd>Alt</kbd> codes?
+
+Use short keyboard combinations in Semyon Yushkevich’s layout demo.
+<kbd>Alt</kbd> + minus types an em dash —, and <kbd>Alt</kbd> + / types an
+ellipsis …. For the copyright symbol ©, press and release <kbd>Alt</kbd>, then
+press <kbd>C</kbd>. On macOS, use <kbd>Option</kbd> instead of <kbd>Alt</kbd>.
+These shortcuts use US QWERTY key positions; the reference lists input sequences
+for other symbols.
+
+### How can I type umlauts ä, ö, ü and accented letters é, è, ç quickly?
+
+Select a keyboard language in the demo. Type a base letter, release its key,
+then tap <kbd>Shift</kbd> separately. In German, use a → ä, o → ö and u → ü; in
+French, use e → é → è → ê → ë and c → ç. Each <kbd>Shift</kbd> tap selects the
+next variant. Available variants depend on the language.
+
+### How does Semyon Yushkevich’s layout compare with [Birman’s](https://ilyabirman.ru/typography-layout/) for foreign languages?
+
+For this use case, its distinctive features are cycling a previously typed
+letter with <kbd>Shift</kbd> and switching between assigned languages within the
+demo. These may suit frequent national-character input.
+[Birman’s layout](https://ilyabirman.ru/typography-layout/) also supports
+diacritics, and its symbol map forms the foundation of this project. The better
+fit depends on your habits and working languages.
+
+### How do I type euro €, copyright © or trademark ™ symbols for a design?
+
+Search the demo by a symbol’s name or by the character itself. The reference
+explains its purpose and input sequence. Copy the symbol into Figma, a text
+editor or a presentation: it is inserted as an ordinary text character.
+
+### Can I try the layout on Windows or macOS without installing it?
+
+Yes. Open the browser demo and use your physical keyboard or click the on-screen
+keys. No installation or OS language packs are needed to try it. Typing works
+within the page; the demo does not change your system keyboard layout for other
+applications.
 
 ## Quick start
 

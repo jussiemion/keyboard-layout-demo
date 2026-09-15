@@ -2,6 +2,9 @@ import type { UiLocale } from './messages';
 
 type MenuMessages = {
   menu: string;
+  preferencesGroup: string;
+  learningGroup: string;
+  projectGroup: string;
   language: string;
   theme: string;
   help: string;
@@ -12,6 +15,9 @@ type MenuMessages = {
 
 export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
   tr: {
+    preferencesGroup: 'Kişiselleştirme',
+    learningGroup: 'Öğrenme ve başvuru',
+    projectGroup: 'Proje',
     menu: 'Menü',
     language: 'Arayüz dili',
     theme: 'Görünüm',
@@ -21,6 +27,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Yakında',
   },
   nl: {
+    preferencesGroup: 'Personalisatie',
+    learningGroup: 'Leren en naslag',
+    projectGroup: 'Project',
     menu: 'Menu',
     language: 'Interfacetaal',
     theme: 'Weergave',
@@ -30,6 +39,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Binnenkort',
   },
   vi: {
+    preferencesGroup: 'Tùy chỉnh',
+    learningGroup: 'Học và tra cứu',
+    projectGroup: 'Dự án',
     menu: 'Menu',
     language: 'Ngôn ngữ giao diện',
     theme: 'Giao diện',
@@ -39,6 +51,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Sắp ra mắt',
   },
   ar: {
+    preferencesGroup: 'التخصيص',
+    learningGroup: 'التعلّم والمراجع',
+    projectGroup: 'المشروع',
     menu: 'القائمة',
     language: 'لغة الواجهة',
     theme: 'المظهر',
@@ -49,6 +64,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
   },
 
   en: {
+    preferencesGroup: 'Preferences',
+    learningGroup: 'Learning & reference',
+    projectGroup: 'Project',
     menu: 'Menu',
     language: 'Language',
     theme: 'Appearance',
@@ -58,6 +76,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Coming soon',
   },
   ru: {
+    preferencesGroup: 'Персонализация',
+    learningGroup: 'Обучение и справка',
+    projectGroup: 'Проект',
     menu: 'Меню',
     language: 'Язык интерфейса',
     theme: 'Оформление',
@@ -67,6 +88,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Скоро',
   },
   he: {
+    preferencesGroup: 'התאמה אישית',
+    learningGroup: 'למידה ועזרה',
+    projectGroup: 'הפרויקט',
     menu: 'תפריט',
     language: 'שפת הממשק',
     theme: 'מראה',
@@ -76,6 +100,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'בקרוב',
   },
   de: {
+    preferencesGroup: 'Anpassung',
+    learningGroup: 'Lernen und Nachschlagen',
+    projectGroup: 'Projekt',
     menu: 'Menü',
     language: 'Sprache',
     theme: 'Darstellung',
@@ -85,6 +112,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Demnächst',
   },
   fr: {
+    preferencesGroup: 'Personnalisation',
+    learningGroup: 'Apprentissage et aide',
+    projectGroup: 'Projet',
     menu: 'Menu',
     language: 'Langue',
     theme: 'Apparence',
@@ -94,6 +124,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Bientôt',
   },
   es: {
+    preferencesGroup: 'Personalización',
+    learningGroup: 'Aprendizaje y ayuda',
+    projectGroup: 'Proyecto',
     menu: 'Menú',
     language: 'Idioma',
     theme: 'Apariencia',
@@ -103,6 +136,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Próximamente',
   },
   it: {
+    preferencesGroup: 'Personalizzazione',
+    learningGroup: 'Apprendimento e guida',
+    projectGroup: 'Progetto',
     menu: 'Menu',
     language: 'Lingua',
     theme: 'Aspetto',
@@ -112,6 +148,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Prossimamente',
   },
   pl: {
+    preferencesGroup: 'Personalizacja',
+    learningGroup: 'Nauka i pomoc',
+    projectGroup: 'Projekt',
     menu: 'Menu',
     language: 'Język',
     theme: 'Wygląd',
@@ -121,6 +160,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Wkrótce',
   },
   pt: {
+    preferencesGroup: 'Personalização',
+    learningGroup: 'Aprendizagem e ajuda',
+    projectGroup: 'Projeto',
     menu: 'Menu',
     language: 'Idioma',
     theme: 'Aparência',
@@ -130,6 +172,9 @@ export const headerMenuMessages: Record<UiLocale, MenuMessages> = {
     soon: 'Em breve',
   },
   ro: {
+    preferencesGroup: 'Personalizare',
+    learningGroup: 'Învățare și ajutor',
+    projectGroup: 'Proiect',
     menu: 'Meniu',
     language: 'Limbă',
     theme: 'Aspect',

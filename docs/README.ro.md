@@ -41,7 +41,7 @@ ecran.
 </picture>
 
 [Video: tema întunecată](assets/demo-dark.mp4) ·
-[tema luminoasă](assets/demo-light.mp4) · MP4 · ≈ 26 s
+[tema luminoasă](assets/demo-light.mp4) · MP4 · ≈ 20 s
 
 > [!IMPORTANT]
 >
@@ -49,6 +49,30 @@ ecran.
 > intercepta <kbd>Alt</kbd> și <kbd>Caps Lock</kbd>. Avertizarea apare numai
 > după indicii clare în evenimentele de tastatură; absența ei nu dovedește că
 > dispunerea este inactivă.
+
+## Tipografie pentru munca ta
+
+### Pentru autori, copywriteri și redactori
+
+Exersează liniile de pauză —, ghilimelele «», “”, „“ și spațiile inseparabile
+fără coduri Alt. În demo, Alt + minus produce — fără Alt+0151. Alegi
+ghilimelele; nu sunt înlocuite automat.
+
+### Pentru designeri grafici, web și UI/UX
+
+Găsește și copiază ©, ®, ™ și $, €, £, ¥, ¢ pentru prețuri, texte de interfață
+și machete multilingve. Lipește semnele din ghidul tipografic în Figma sau
+editor. Demo-ul nu este un plugin Figma.
+
+### Pentru poligloți și traducători
+
+Exersează umlauturile germane ä, ö, ü și accentele franceze é, è, ç pe o
+tastatură standard. Scrie o literă, apoi apasă <kbd>Shift</kbd> pentru
+variantele limbii selectate. Demo-ul nu necesită pachete de limbă în sistem.
+
+14 limbi de interfață și 24 de variante de tastatură, inclusiv regionale.
+Introducerea funcționează în demo; alte aplicații necesită instalare separată în
+sistem. Limbile neeuropene sunt experimentale.
 
 ## Primele caractere
 
