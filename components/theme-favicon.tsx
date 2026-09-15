@@ -17,7 +17,7 @@ function syncThemeFavicon(theme: string) {
     getComputedStyle(document.documentElement)
       .getPropertyValue('--primary')
       .trim() || '#fb7100';
-  const icon = buildBrandFavicon(primaryColor, theme);
+  const icon = buildBrandFavicon(primaryColor);
   const existing = document.querySelector<HTMLLinkElement>('link[rel="icon"]');
   if (existing) {
     existing.type = 'image/svg+xml';

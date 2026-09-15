@@ -17,7 +17,7 @@
 .brand {
   display: flex;
   min-width: 0;
-  gap: 1.25rem;
+  gap: 16px;
   align-items: center;
 }
 
@@ -25,8 +25,8 @@
   color: var(--primary);
   display: block;
   flex-shrink: 0;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 2.25rem;
+  height: 2.25rem;
 }
 
 .brand h1 {

@@ -170,9 +170,9 @@ export function TypographyReference() {
       <header className="border-border flex flex-wrap items-center justify-between gap-4 border-b py-5">
         <a
           href={localePath(uiLocale)}
-          className="hover:text-primary inline-flex min-h-10 items-center gap-5 text-sm font-semibold"
+          className="hover:text-primary inline-flex min-h-10 items-center gap-4 text-sm font-semibold"
         >
-          <BrandMarkIcon width={28} height={28} />
+          <BrandMarkIcon width={36} height={36} />
           <span>{text.openDemo}</span>
           <ArrowLeft className="size-4 rtl:rotate-180" aria-hidden="true" />
         </a>

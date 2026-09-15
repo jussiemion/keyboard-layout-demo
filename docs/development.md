@@ -100,7 +100,7 @@ stable-hint regression.
 | Files in `docs/assets/`           | Content                                                                                                              |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | `demo-dark.png`, `demo-light.png` | 1280 × 820 screenshots, English, Linux, captured directly from the current production demo with the sample text      |
-| `demo-dark.mp4`, `demo-light.mp4` | Continuous tab recordings, 1280 × 820, 30 fps, about 26 seconds, no audio                                            |
+| `demo-dark.mp4`, `demo-light.mp4` | Continuous tab recordings, 1280 × 820, 30 fps, about 20 seconds, no audio                                            |
 | `demo-dark.gif`, `demo-light.gif` | 960 × 615, 15 fps conversions of those recordings for inline README playback                                         |
 | `logo-dark.svg`, `logo-light.svg` | One-shot 5 × 5 T → L → S → Y animation, ending in a solid Y on a transparent background; solid Y with reduced motion |
 
@@ -118,9 +118,8 @@ and the same videos. Regenerate GIFs from the final recordings; do not record a
 separate synthetic animation.
 
 The logo geometry and animation live in `lib/brand.ts`. Generate README SVGs
-with `brandSvg(activeColor, mutedColor)`; use
-`brandSvg(activeColor, mutedColor, false)` for the static demo asset and
-favicon.
+with `brandSvg(activeColor, mutedColor)`; use `brandSymbolSvg(activeColor)` for
+the static demo asset and favicon.
 
 ## README badges and statistics
 

@@ -19,7 +19,7 @@ export async function generateMetadata({
   return {
     ...pageMetadata(locale ?? 'en', !locale),
     icons: {
-      icon: { url: `${SITE_PATH}/logo.svg?v=accent`, type: 'image/svg+xml' },
+      icon: { url: `${SITE_PATH}/logo.svg?v=letter-y`, type: 'image/svg+xml' },
     },
   };
 }
