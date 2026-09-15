@@ -100,12 +100,12 @@ stable-hint regression.
 
 ## Documentation media
 
-| Files in `docs/assets/`           | Content                                                                                                              |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| `demo-dark.png`, `demo-light.png` | 1280 × 820 screenshots, English, Linux, captured directly from the current production demo with the sample text      |
-| `demo-dark.mp4`, `demo-light.mp4` | Continuous tab recordings, 1280 × 820, 30 fps, about 20 seconds, no audio                                            |
-| `demo-dark.gif`, `demo-light.gif` | 960 × 615, 15 fps conversions of those recordings for inline README playback                                         |
-| `logo-dark.svg`, `logo-light.svg` | One-shot 5 × 5 T → L → S → Y animation, ending in a solid Y on a transparent background; solid Y with reduced motion |
+| Files in `docs/assets/`           | Content                                                                                                         |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| `demo-dark.png`, `demo-light.png` | 1280 × 820 screenshots, English, Linux, captured directly from the current production demo with the sample text |
+| `demo-dark.mp4`, `demo-light.mp4` | Continuous tab recordings, 1280 × 820, 30 fps, about 20 seconds, no audio                                       |
+| `demo-dark.gif`, `demo-light.gif` | 960 × 615, 15 fps conversions of those recordings for inline README playback                                    |
+| `logo-dark.svg`, `logo-light.svg` | Static Y logo on a transparent background, with theme-specific accent colors                                    |
 
 Refresh both themes after visible changes. Use the actual app styles, dismiss
 the tour and keep the pointer off controls. Example text:
@@ -120,9 +120,9 @@ recordings for playback controls. Localized guides use the matching still images
 and the same videos. Regenerate GIFs from the final recordings; do not record a
 separate synthetic animation.
 
-The logo geometry and animation live in `lib/brand.ts`. Generate README SVGs
-with `brandSvg(activeColor, mutedColor)`; use `brandSymbolSvg(activeColor)` for
-the static demo asset and favicon.
+The static logo geometry lives in `lib/brand.ts`. Use
+`brandSymbolSvg(activeColor)` for README SVGs, the static demo asset and
+favicon.
 
 ## README badges and statistics
 
