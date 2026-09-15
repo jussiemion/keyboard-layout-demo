@@ -36,14 +36,12 @@ import { settingsMessages } from '@/lib/settings-messages';
 export function SettingsDialog({
   open,
   initialSettings,
-  nativeLocale,
   returnFocusRef,
   onOpenChange,
   onSave,
 }: {
   open: boolean;
   initialSettings: UserSettings;
-  nativeLocale: KeyboardLocale;
   returnFocusRef: RefObject<HTMLButtonElement | null>;
   onOpenChange: (open: boolean) => void;
   onSave: (settings: UserSettings) => boolean;
@@ -53,7 +51,7 @@ export function SettingsDialog({
   const [draft, setDraft] = useState(initialSettings);
   const [sessionOnly, setSessionOnly] = useState(false);
   const firstSelect = useRef<HTMLSelectElement>(null);
-  const mapping = draft.languageMapping ?? defaultLanguageMapping(nativeLocale);
+  const mapping = draft.languageMapping ?? defaultLanguageMapping();
   const options = KEYBOARD_LOCALES.toSorted(
     languageComparator(
       uiLocale,

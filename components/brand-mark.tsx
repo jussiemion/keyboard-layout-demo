@@ -1,4 +1,5 @@
 import type { SVGProps } from 'react';
+import { cn } from '@/lib/utils';
 import {
   BRAND_VIEW_BOX,
   BRAND_MUTED_LIGHT,
@@ -24,7 +25,7 @@ export function BrandMarkIcon({
       viewBox={BRAND_VIEW_BOX}
       xmlns="http://www.w3.org/2000/svg"
       fill="currentColor"
-      className={className}
+      className={cn('text-primary shrink-0', className)}
       aria-hidden="true"
       {...props}
     >

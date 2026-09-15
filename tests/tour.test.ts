@@ -20,7 +20,7 @@ import {
 import { tourMessages } from '../lib/tour-messages.ts';
 
 void test('familiarity only skips the Birman introduction', () => {
-  const config = defaultLanguageMapping('ru');
+  const config = defaultLanguageMapping();
   const full = buildTourSteps(false, config);
   const familiar = buildTourSteps(true, config);
   assert.deepEqual(
@@ -59,7 +59,7 @@ void test('exercise checks require the intended result, preserving NBSP and norm
     settingsOpen: false,
     helpOpen: false,
   };
-  const plan = buildTourSteps(false, defaultLanguageMapping('ru'));
+  const plan = buildTourSteps(false, defaultLanguageMapping());
   assert.equal(tourStepComplete(plan[0], state), false);
   assert.equal(tourStepComplete(plan[0], { ...state, value: '©' }), true);
   assert.equal(tourStepComplete(plan[0], { ...state, value: '©x' }), false);
@@ -206,7 +206,7 @@ void test('declines persist, and denied storage still remembers the choice in th
 });
 
 void test('successful steps stay complete after edits, retries and revisits', () => {
-  const steps = buildTourSteps(false, defaultLanguageMapping('ru'));
+  const steps = buildTourSteps(false, defaultLanguageMapping());
   const state = {
     value: '',
     mode: 0 as const,

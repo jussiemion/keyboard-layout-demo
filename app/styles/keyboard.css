@@ -516,6 +516,7 @@ main {
 
 .key-detail {
   --hint-gap: 20px;
+  text-wrap: pretty;
   flex-shrink: 0;
   margin-top: 32px;
   padding-bottom: var(--page-edge-space);

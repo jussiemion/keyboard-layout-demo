@@ -74,7 +74,7 @@ export function TypographyReference() {
   useEffect(() => {
     revealInitialPreferences(uiLocale, theme, platform);
   }, [uiLocale, theme, platform]);
-  const mapping = defaultLanguageMapping('en');
+  const mapping = defaultLanguageMapping();
   const languages = UI_LOCALES.toSorted(
     languageComparator(
       uiLocale,
@@ -170,7 +170,7 @@ export function TypographyReference() {
       <header className="border-border flex flex-wrap items-center justify-between gap-4 border-b py-5">
         <a
           href={localePath(uiLocale)}
-          className="hover:text-primary inline-flex min-h-10 items-center gap-3 text-sm font-semibold"
+          className="hover:text-primary inline-flex min-h-10 items-center gap-5 text-sm font-semibold"
         >
           <BrandMarkIcon width={28} height={28} />
           <span>{text.openDemo}</span>

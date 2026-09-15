@@ -61,7 +61,7 @@ for (const nativeLayoutActive of [false, true]) {
           input: { current: null },
           capsManaged: { current: false },
           logicalCaps: { current: false },
-          languageConfig: defaultLanguageConfig('ru'),
+          languageConfig: defaultLanguageConfig(),
           keyboardEventCode,
           baseKey,
           nationalKeyAction,

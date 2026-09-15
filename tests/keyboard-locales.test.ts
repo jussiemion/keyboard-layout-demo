@@ -230,7 +230,7 @@ void test('regional maps survive saved S0 and S1–S4 assignments and gestures',
     ).locale,
     undefined,
   );
-  assert.deepEqual(defaultLanguageMapping('ar').order, ['en', 'ar']);
+  assert.deepEqual(defaultLanguageMapping().order, ['en', 'ru']);
 });
 
 void test('new-language search includes localized names and national associations', () => {

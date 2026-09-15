@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import { ThemeFavicon } from '@/components/theme-favicon';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { LocaleProvider } from '@/components/locale-provider';
 import { preferencesBootstrap, preferencesGuardCss } from '@/lib/preferences';
 import { parseUiLocale } from '@/lib/i18n';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, SITE_PATH } from '@/lib/seo';
 import fontManifest from '@/public/fonts/fonts.json';
 
 type LayoutProps = Readonly<{
@@ -17,7 +18,9 @@ export async function generateMetadata({
   const locale = parseUiLocale((await params).lang);
   return {
     ...pageMetadata(locale ?? 'en', !locale),
-    icons: { icon: { url: `${SITE_URL}logo.svg`, type: 'image/svg+xml' } },
+    icons: {
+      icon: { url: `${SITE_PATH}/logo.svg?v=accent`, type: 'image/svg+xml' },
+    },
   };
 }
 export default async function RootLayout({ children, params }: LayoutProps) {
@@ -45,6 +48,7 @@ export default async function RootLayout({ children, params }: LayoutProps) {
         <script dangerouslySetInnerHTML={{ __html: preferencesBootstrap }} />
       </head>
       <body>
+        <ThemeFavicon />
         <LocaleProvider initialLocale={initialLocale}>
           <ScrollArea className="document-scroll-area">{children}</ScrollArea>
         </LocaleProvider>

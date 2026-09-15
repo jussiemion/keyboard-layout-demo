@@ -28,7 +28,7 @@ void test('Hebrew reference positions, finals, Shift Latin and punctuation', () 
     assert.equal(baseKey(code, 'he', true), shifted);
   }
   assert.equal(nextDiacritic('ש', 'he'), '');
-  assert.deepEqual(defaultLanguageConfig('he').order, ['en', 'he']);
+  assert.deepEqual(defaultLanguageConfig().order, ['en', 'ru']);
 });
 
 void test('Hebrew AltGr outputs niqqud, punctuation and direction controls without arming a prefix', () => {

@@ -24,10 +24,8 @@ export const DEFAULT_SETTINGS: UserSettings = {
   showHints: true,
 };
 
-export function defaultLanguageMapping(
-  native: KeyboardLocale,
-): LanguageMapping {
-  const { order, slots } = defaultLanguageConfig(native);
+export function defaultLanguageMapping(): LanguageMapping {
+  const { order, slots } = defaultLanguageConfig();
   return {
     order: [order[0], order[1]],
     slots: [slots[0], slots[1], slots[2], slots[3]],

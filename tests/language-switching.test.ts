@@ -167,62 +167,49 @@ void test('four switch labels; unassigned Quote is captured during Caps', () => 
 });
 
 void test('independent pair and slots cover six languages and restore the last pair member', () => {
-  for (const native of [
-    'en',
-    'ru',
-    'pl',
-    'fr',
-    'de',
-    'es',
-    'pt',
-    'it',
-    'ro',
-  ] as const) {
-    const { order, slots } = defaultLanguageConfig(native);
-    assert.deepEqual(order, ['en', native === 'en' ? 'ru' : native]);
-    assert.equal(new Set([...order, ...slots]).size, 6);
-    for (const remembered of order) {
-      const s = new LanguageSwitchController();
-      s.handle({ code: 'CapsLock', down: true }, remembered, order, slots);
-      let current = remembered;
-      for (let i = 0; i < 4; i++) {
-        const code = LANGUAGE_SLOT_CODES[i];
-        const result = s.handle({ code, down: true }, current, order, slots);
-        assert.equal(result.locale, slots[i]);
-        current = result.locale!;
-        assert.equal(
-          s.handle({ code, down: false }, current, order, slots).prevent,
-          true,
+  const { order, slots } = defaultLanguageConfig();
+  assert.deepEqual(order, ['en', 'ru']);
+  assert.equal(new Set([...order, ...slots]).size, 6);
+  for (const remembered of order) {
+    const s = new LanguageSwitchController();
+    s.handle({ code: 'CapsLock', down: true }, remembered, order, slots);
+    let current = remembered;
+    for (let i = 0; i < 4; i++) {
+      const code = LANGUAGE_SLOT_CODES[i];
+      const result = s.handle({ code, down: true }, current, order, slots);
+      assert.equal(result.locale, slots[i]);
+      current = result.locale!;
+      assert.equal(
+        s.handle({ code, down: false }, current, order, slots).prevent,
+        true,
+      );
+      for (const blocked of [
+        'KeyA',
+        'Space',
+        'AltLeft',
+        'ControlLeft',
+        'Quote',
+      ]) {
+        assert.deepEqual(
+          s.handle({ code: blocked, down: true }, current, order, slots),
+          { prevent: true },
         );
-        for (const blocked of [
-          'KeyA',
-          'Space',
-          'AltLeft',
-          'ControlLeft',
-          'Quote',
-        ]) {
-          assert.deepEqual(
-            s.handle({ code: blocked, down: true }, current, order, slots),
-            { prevent: true },
-          );
-          assert.deepEqual(
-            s.handle({ code: blocked, down: false }, current, order, slots),
-            { prevent: true },
-          );
-        }
+        assert.deepEqual(
+          s.handle({ code: blocked, down: false }, current, order, slots),
+          { prevent: true },
+        );
       }
-      assert.equal(
-        s.handle({ code: 'CapsLock', down: false }, current, order, slots)
-          .locale,
-        undefined,
-      );
-      s.reset(); // UI resets must retain pair history.
-      assert.equal(s.nextLanguage(current, order), remembered);
-      assert.equal(
-        s.nextLanguage(remembered, order),
-        order.find((value) => value !== remembered),
-      );
     }
+    assert.equal(
+      s.handle({ code: 'CapsLock', down: false }, current, order, slots).locale,
+      undefined,
+    );
+    s.reset(); // UI resets must retain pair history.
+    assert.equal(s.nextLanguage(current, order), remembered);
+    assert.equal(
+      s.nextLanguage(remembered, order),
+      order.find((value) => value !== remembered),
+    );
   }
 });
 

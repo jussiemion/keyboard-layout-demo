@@ -25,23 +25,18 @@ export const LANGUAGE_SLOTS: readonly KeyboardLocale[] = [
   'pl',
   'pt',
 ];
-export function defaultLanguageConfig(native: KeyboardLocale) {
-  const order: readonly KeyboardLocale[] =
-    native === 'en' ? ['en', 'ru'] : ['en', native];
-  const candidates: readonly KeyboardLocale[] = [
-    'pl',
-    'pt',
-    'es',
-    'de',
-    'fr',
-    'it',
-    'ro',
-    'ru',
-    'en',
+export function defaultLanguageConfig(): {
+  order: readonly [KeyboardLocale, KeyboardLocale];
+  slots: readonly [
+    KeyboardLocale,
+    KeyboardLocale,
+    KeyboardLocale,
+    KeyboardLocale,
   ];
+} {
   return {
-    order,
-    slots: candidates.filter((locale) => !order.includes(locale)).slice(0, 4),
+    order: ['en', 'ru'] as const,
+    slots: ['pl', 'pt', 'es', 'de'] as const,
   };
 }
 export function languageSlotForKey(code: string, slots = LANGUAGE_SLOTS) {

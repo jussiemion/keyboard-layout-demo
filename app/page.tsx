@@ -19,7 +19,6 @@ import { symbolNames } from '@/lib/symbol-names';
 
 import {
   getInitialKeyboardLocale,
-  getNativeKeyboardLocale,
   subscribeToInitialKeyboardLocale,
 } from '@/lib/i18n';
 import { capturesWindowKey, keyboardEventCode } from '@/lib/window-typing';
@@ -66,7 +65,7 @@ import {
 import { LanguageSwitcher } from '@/components/language-switcher';
 import { PlatformSwitcher } from '@/components/platform-switcher';
 import { PLATFORM_CHANGE_EVENT, PLATFORM_STORAGE_KEY } from '@/lib/platform';
-import { buildBrandFavicon, BrandMarkIcon } from '@/components/brand-mark';
+import { BrandMarkIcon } from '@/components/brand-mark';
 import {
   getKeyboardRows,
   modifierNames,
@@ -122,29 +121,6 @@ const arrowIcons: Partial<Record<string, typeof ArrowLeft>> = {
   ArrowUp,
   ArrowDown,
 };
-
-function syncThemeFavicon(theme: string) {
-  // Read the palette only after this theme has been applied to the document.
-  if (document.documentElement.dataset.theme !== theme) {
-    return;
-  }
-  const primaryColor =
-    getComputedStyle(document.documentElement)
-      .getPropertyValue('--primary')
-      .trim() || '#fb7100';
-  const icon = buildBrandFavicon(primaryColor, theme);
-  const existing = document.querySelector<HTMLLinkElement>('link[rel="icon"]');
-  if (existing) {
-    existing.type = 'image/svg+xml';
-    existing.href = icon;
-    return;
-  }
-  const created = document.createElement('link');
-  created.rel = 'icon';
-  created.type = 'image/svg+xml';
-  created.href = icon;
-  document.head.appendChild(created);
-}
 
 const inactiveKeyCodes = new Set([
   'MetaLeft',
@@ -202,18 +178,12 @@ export default function Home({
     getInitialKeyboardLocale,
     () => initialLocale,
   );
-  const nativeLocale = useSyncExternalStore(
-    subscribeToInitialKeyboardLocale,
-    getNativeKeyboardLocale,
-    () => initialLocale,
-  );
   const settings = useSyncExternalStore(
     subscribeToSettings,
     getSettings,
     getServerSettings,
   );
-  const languageConfig =
-    settings.languageMapping ?? defaultLanguageConfig(nativeLocale);
+  const languageConfig = settings.languageMapping ?? defaultLanguageConfig();
   const [selectedLocale, setLocale] = useState<KeyboardLocale | null>(null);
   const locale = selectedLocale ?? initialKeyboardLocale;
   const activeLocale = useRef(locale);
@@ -386,10 +356,6 @@ export default function Home({
   useLayoutEffect(() => {
     revealInitialPreferences(uiLocale, theme, platform, initialKeyboardLocale);
   }, [uiLocale, theme, platform, initialKeyboardLocale]);
-
-  useEffect(() => {
-    syncThemeFavicon(theme);
-  }, [theme]);
 
   useEffect(() => {
     const focusInput = () => input.current?.focus({ preventScroll: true });
@@ -1159,7 +1125,6 @@ export default function Home({
           key={settingsSession}
           open={settingsOpen}
           initialSettings={settings}
-          nativeLocale={nativeLocale}
           returnFocusRef={menuTrigger}
           onOpenChange={(open) => {
             setSettingsOpen(open);

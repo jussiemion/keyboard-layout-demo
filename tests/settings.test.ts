@@ -52,16 +52,9 @@ void test('invalid mappings cannot create a broken S0 pair or incomplete slots',
   );
 });
 
-void test('default mappings follow the native language with exactly two distinct S0 languages', () => {
-  assert.deepEqual(defaultLanguageMapping('he').order, ['en', 'he']);
-  assert.deepEqual(defaultLanguageMapping('en').order, ['en', 'ru']);
-  assert.deepEqual(defaultLanguageMapping('ru').slots, [
-    'pl',
-    'pt',
-    'es',
-    'de',
-  ]);
-  assert.equal(defaultLanguageMapping('fr').slots.length, 4);
+void test('default mappings provide EN/RU and PL/PT/ES/DE', () => {
+  assert.deepEqual(defaultLanguageMapping().order, ['en', 'ru']);
+  assert.deepEqual(defaultLanguageMapping().slots, ['pl', 'pt', 'es', 'de']);
 });
 
 void test('saved S0 and all four direct assignments drive physical keyboard gestures', () => {
