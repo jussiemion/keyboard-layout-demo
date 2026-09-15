@@ -553,7 +553,8 @@ main {
 }
 
 .help-dialog {
-  max-width: min(860px, calc(100% - 32px));
+  width: min(960px, calc(100% - 80px));
+  max-width: min(960px, calc(100% - 80px));
   max-height: calc(100svh - 50px);
   overflow-y: auto;
   padding: 32px;
@@ -569,6 +570,10 @@ main {
 }
 
 @media (max-width: 900px) {
+  .help-dialog {
+    width: calc(100% - 40px);
+    max-width: 960px;
+  }
   .demo-shell {
     width: calc(100% - 40px);
   }
@@ -620,6 +625,8 @@ main {
     text-align: start;
   }
   .help-dialog {
+    width: calc(100% - 32px);
+    max-width: 960px;
     padding: 25px 20px;
   }
 }

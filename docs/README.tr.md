@@ -160,6 +160,11 @@ Büyüteç, <kbd>Ctrl</kbd> + <kbd>F</kbd> simge aramasını açar. Ad, simge,
 `U+0024` gibi Unicode kodu, dil veya ülke arayın. Arama 14 dilde çalışır ve
 küçük yazım hatalarını tolere eder.
 
+- **Simge bul:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Kısa başvuru:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Menüden açık veya koyu tema seçilir. Linux/Windows/macOS klavyenin görünümünü
 değiştirir; sistem düzenini değiştirmez.
 

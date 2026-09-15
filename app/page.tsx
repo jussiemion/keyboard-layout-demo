@@ -1003,7 +1003,17 @@ export default function Home({
   const hoveredSlot = hovered
     ? languageSlotForKey(hovered.code, languageConfig.slots)
     : undefined;
+  const referenceHints = typographyEnabled
+    ? [
+        { code: 'KeyF', key: 'F', label: helpMessages[uiLocale].search },
+        { code: 'KeyH', key: 'H', label: helpMessages[uiLocale].title },
+      ].filter(
+        ({ code }) =>
+          hoveredCaps || held.includes('CapsLock') || detailCode === code,
+      )
+    : [];
   const hintCount =
+    referenceHints.length +
     (mode === 0 ? 2 : mode === 1 ? 1 : 0) +
     Number(held.includes('CapsLock') || hoveredCaps) +
     Number(hoveredCaps) +
@@ -1039,6 +1049,7 @@ export default function Home({
           </div>
           <nav className="header-actions" aria-label={m.headerActions}>
             <SymbolSearchPanel
+              typographyEnabled={typographyEnabled}
               modifierLabel={modifiers.alt}
               onOpenChange={() => {
                 setHelpOpen(false);
@@ -1064,11 +1075,11 @@ export default function Home({
                         <Button
                           ref={helpTrigger}
                           data-tour-target="help"
-                          aria-keyshortcuts="Control+k"
                           variant="ghost"
                           size="icon"
                           className="icon-link"
                           aria-label={helpMessages[uiLocale].title}
+                          aria-keyshortcuts="Control+h"
                         />
                       }
                     >
@@ -1391,6 +1402,21 @@ export default function Home({
                       {hintCount > 1 ? m.hintsLabel : m.hintLabel}
                     </strong>
                     <ul className={hintListClasses}>
+                      {referenceHints.map(({ code, key, label }) => (
+                        <li key={code}>
+                          {keyHintPrefix(
+                            <kbd>{hoveredCaps ? 'Caps Lock' : key}</kbd>,
+                          )}
+                          <span
+                            dir="ltr"
+                            className="inline-flex items-center gap-1"
+                          >
+                            <kbd>Caps Lock</kbd> + <kbd>{key}</kbd>
+                          </span>
+                          {' — '}
+                          {label}.
+                        </li>
+                      ))}
                       {hovered && hoveredSlot && (
                         <li>
                           {keyHintPrefix(

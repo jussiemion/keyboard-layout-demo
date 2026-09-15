@@ -155,6 +155,11 @@ Lupa din antet, <kbd>Ctrl</kbd> + <kbd>F</kbd> deschid căutarea locală. Caută
 după nume, caracter, cod precum `U+0024`, limbă sau țară. Sunt tolerate mici
 greșeli de scriere.
 
+- **Caută un simbol:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Fișă de referință:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Meniul oferă teme luminoasă și întunecată. Linux/Windows/macOS schimbă aspectul
 tastaturii, nu dispunerea sistemului.
 

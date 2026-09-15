@@ -43,6 +43,7 @@ import {
   groupSymbolSearchResults,
   symbolCategoryNames,
 } from '@/lib/symbol-search-categories';
+import { ReferenceShortcuts } from '@/lib/reference-shortcuts';
 import { referencePath } from '@/lib/seo';
 import seoCopy from '@/lib/seo-copy.json';
 import { symbolSearchMessages } from '@/lib/symbol-search-messages';
@@ -56,15 +57,18 @@ function symbolId(symbol: string) {
 
 export function SymbolSearchPanel({
   modifierLabel,
+  typographyEnabled,
   onOpenChange,
   onHelpRequest,
 }: {
   modifierLabel: string;
+  typographyEnabled: boolean;
   onOpenChange: () => void;
   onHelpRequest: () => void;
 }) {
   const { uiLocale } = useLocale();
   const text = symbolSearchMessages[uiLocale];
+  const shortcuts = useRef(new ReferenceShortcuts());
   const [open, setOpen] = useState(false);
   const searchInput = useRef<HTMLInputElement>(null);
   const [query, setQuery] = useState('');
@@ -88,27 +92,30 @@ export function SymbolSearchPanel({
 
   useEffect(() => {
     const handleShortcut = (event: KeyboardEvent) => {
-      if (
-        !event.ctrlKey ||
-        event.altKey ||
-        event.shiftKey ||
-        event.metaKey ||
-        event.isComposing ||
-        event.getModifierState('AltGraph') ||
-        !(
-          ['KeyF', 'KeyK'].includes(event.code) ||
-          (!event.code && ['f', 'k'].includes(event.key.toLowerCase()))
-        )
-      ) {
+      const result = shortcuts.current.handle(
+        {
+          code: event.code,
+          key: event.key,
+          repeat: event.repeat,
+          ctrlKey: event.ctrlKey,
+          altKey: event.altKey,
+          shiftKey: event.shiftKey,
+          metaKey: event.metaKey,
+          isComposing: event.isComposing,
+          altGraph: event.getModifierState('AltGraph'),
+        },
+        event.type === 'keydown',
+        typographyEnabled,
+      );
+      if (!result.prevent) {
         return;
       }
-      // Capture before the typing demo and cmdk (which uses Ctrl+K for navigation).
       event.preventDefault();
       event.stopPropagation();
-      if (
-        event.code === 'KeyK' ||
-        (!event.code && event.key.toLowerCase() === 'k')
-      ) {
+      if (!result.action) {
+        return;
+      }
+      if (result.action === 'help') {
         setOpen(false);
         onHelpRequest();
         return;
@@ -130,8 +137,15 @@ export function SymbolSearchPanel({
       );
     };
     window.addEventListener('keydown', handleShortcut, true);
-    return () => window.removeEventListener('keydown', handleShortcut, true);
-  }, [open, onOpenChange, onHelpRequest]);
+    window.addEventListener('keyup', handleShortcut, true);
+    const reset = () => shortcuts.current.reset();
+    window.addEventListener('blur', reset);
+    return () => {
+      window.removeEventListener('keydown', handleShortcut, true);
+      window.removeEventListener('keyup', handleShortcut, true);
+      window.removeEventListener('blur', reset);
+    };
+  }, [open, onOpenChange, onHelpRequest, typographyEnabled]);
 
   const results = useMemo(
     () => searchSymbolItems(query, uiLocale),

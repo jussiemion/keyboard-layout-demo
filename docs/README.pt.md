@@ -160,6 +160,11 @@ A lupa, <kbd>Ctrl</kbd> + <kbd>F</kbd> abrem a pesquisa local. Procure por nome,
 carácter, código como `U+0024`, idioma ou país. A pesquisa abrange os catorze
 idiomas e tolera pequenos erros de escrita.
 
+- **Procurar símbolo:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Guia rápido:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 O menu oferece temas claro e escuro. Linux/Windows/macOS muda o aspeto do
 teclado, não a disposição do sistema.
 

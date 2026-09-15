@@ -156,6 +156,11 @@ Lupe, <kbd>Ctrl</kbd> + <kbd>F</kbd> öffnen die Suche. Suche nach Name, Zeichen
 `U+0024`, Sprache oder Land. Kleine Tippfehler werden toleriert; Ergebnisse
 erklären Eingabe und Verwendung.
 
+- **Symbol suchen:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Spickzettel:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Das Menü bietet ein helles und dunkles Thema. Linux/Windows/macOS verändert die
 Tastaturdarstellung, nicht die Systembelegung.
 

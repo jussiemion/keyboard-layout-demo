@@ -58,7 +58,7 @@ export function HelpContent({
           aria-labelledby="help-symbols"
         >
           <h3 id="help-symbols">{h.symbols}</h3>
-          <p className="text-muted-foreground text-xs leading-relaxed">
+          <p className="text-muted-foreground mb-4 text-xs leading-relaxed">
             <KeyTerminology kind="modifier" locale={uiLocale} />
           </p>
           <dl className="help-reference help-modes">
@@ -168,7 +168,7 @@ export function HelpContent({
           aria-labelledby="help-languages"
         >
           <h3 id="help-languages">{h.languages}</h3>
-          <p className="text-muted-foreground text-xs leading-relaxed">
+          <p className="text-muted-foreground mb-4 text-xs leading-relaxed">
             <KeyTerminology kind="switcher" locale={uiLocale} />
           </p>
           <dl className="help-reference help-mapping">
@@ -207,7 +207,16 @@ export function HelpContent({
           <p className={helpCaptionClasses}>
             <TranslatedText
               message={h.mappingNote}
-              values={{ s0: <kbd className="language-mark">S0</kbd> }}
+              values={{
+                s0: <kbd className="language-mark">S0</kbd>,
+                keys: (
+                  <Keys>
+                    {['J', 'K', 'L', ';'].map((key) => (
+                      <kbd key={key}>{key}</kbd>
+                    ))}
+                  </Keys>
+                ),
+              }}
             />
           </p>
         </section>
@@ -221,7 +230,13 @@ export function HelpContent({
               <dt>{h.search}</dt>
               <dd>
                 <Keys>
-                  <kbd>{modifiers.control}</kbd> + <kbd>F</kbd>
+                  <span className="inline-flex items-center gap-1 whitespace-nowrap">
+                    <kbd>Ctrl</kbd> + <kbd>F</kbd>
+                  </span>{' '}
+                  /{' '}
+                  <span className="inline-flex items-center gap-1 whitespace-nowrap">
+                    <kbd>Caps Lock</kbd> + <kbd>F</kbd>
+                  </span>
                 </Keys>
               </dd>
             </div>
@@ -237,7 +252,13 @@ export function HelpContent({
               <dt>{h.title}</dt>
               <dd>
                 <Keys>
-                  <kbd>{modifiers.control}</kbd> + <kbd>K</kbd>
+                  <span className="inline-flex items-center gap-1 whitespace-nowrap">
+                    <kbd>Ctrl</kbd> + <kbd>H</kbd>
+                  </span>{' '}
+                  /{' '}
+                  <span className="inline-flex items-center gap-1 whitespace-nowrap">
+                    <kbd>Caps Lock</kbd> + <kbd>H</kbd>
+                  </span>
                 </Keys>
               </dd>
             </div>
@@ -253,15 +274,6 @@ export function HelpContent({
           </dl>
         </section>
       </div>
-      <section className="help-footer" aria-labelledby="help-notes">
-        <h3 id="help-notes" className="hint-label">
-          {h.notes}
-        </h3>
-        <ol>
-          <li>{h.scopeInput}</li>
-          <li>{h.scopeUi}</li>
-        </ol>
-      </section>
     </>
   );
 }

@@ -90,3 +90,9 @@ composition events. A repeated shortcut focuses the search field.
 The catalog also covers Arabic, Turkish, Vietnamese and Dutch usage. No single
 country is assigned to Arabic. Examples are curated references, not universal
 style rules.
+
+## Search and cheat-sheet shortcuts
+
+See the [agreed search and cheat-sheet shortcuts](planned-shortcuts.md): Ctrl +
+F/H and Caps Lock + F/H in the web demo; only Caps Lock + F/H in the native
+layout. The web shortcuts are implemented; the native shortcuts remain planned.

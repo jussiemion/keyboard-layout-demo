@@ -152,6 +152,11 @@
 `U+0024`, язык или страну. Небольшие опечатки допустимы; карточка объясняет ввод
 и употребление.
 
+- **Найти символ:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Шпаргалка:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 В меню доступны светлая и тёмная темы. Селектор Linux/Windows/macOS меняет вид
 клавиатуры, а не раскладку ОС.
 

@@ -36,10 +36,9 @@ their base language’s accent cycle.
 
 ## Defaults
 
-The main pair is English and the native browser language, with English/Russian
-as fallback. The four direct slots take the first candidates outside that pair
-from `PL → PT → ES → DE → FR → IT → RO → RU → EN`. For English/Russian, they are
-Polish, Portuguese, Spanish and German.
+The main pair is English/Russian. S1–S4 use Polish, Portuguese, Spanish and
+German, respectively. Defaults do not depend on browser or interface language;
+saved custom assignments remain in effect.
 
 ## Persistence
 

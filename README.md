@@ -179,9 +179,9 @@ The 14 base options are joined by:
 - French (Canada) — Canadian French; German (Switzerland) — Swiss QWERTZ.
 
 Regional options share their language’s interface and documentation. Any option
-can occupy **`S0`–`S4`**. Defaults follow browser preferences; the fallback pair
-is English/Russian, with Polish, Portuguese, Spanish and German in the four
-direct slots.
+can occupy **`S0`–`S4`**. Defaults are English/Russian on **`S0`**, with Polish,
+Portuguese, Spanish and German on **`S1`–`S4`**, independently of browser or
+interface language.
 
 [Map references and complete accent cycles](docs/national-layouts.md).
 
@@ -189,10 +189,11 @@ direct slots.
 
 ## Find and customize
 
-- **Search:** the magnifier, <kbd>Ctrl</kbd> + <kbd>F</kbd>. Enter a name,
-  symbol, `U+0024`, language or country. Small typos are tolerated; results
-  explain usage and input.
-- **Cheat sheet:** the book icon or <kbd>Ctrl</kbd> + <kbd>K</kbd>.
+- **Search:** the magnifier, <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Caps
+  Lock</kbd> + <kbd>F</kbd>. Enter a name, symbol, `U+0024`, language or
+  country. Small typos are tolerated; results explain usage and input.
+- **Cheat sheet:** the book icon, <kbd>Ctrl</kbd> + <kbd>H</kbd> or <kbd>Caps
+  Lock</kbd> + <kbd>H</kbd>.
 - **Appearance:** light/dark themes in the menu; Linux, Windows and macOS
   keyboard views above the keys.
 - **Privacy:** the app does not save or transmit practice text or searches.

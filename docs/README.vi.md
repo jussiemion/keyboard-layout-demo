@@ -160,6 +160,11 @@ Kính lúp, <kbd>Ctrl</kbd> + <kbd>F</kbd> mở tìm kiếm ký hiệu. Tìm the
 tự, mã như `U+0024`, ngôn ngữ hoặc quốc gia. Tìm kiếm hoạt động với 14 ngôn ngữ
 và chấp nhận lỗi gõ nhỏ.
 
+- **Tìm ký hiệu:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Bảng tra nhanh:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Menu có giao diện sáng và tối. Linux/Windows/macOS thay đổi hình dạng bàn phím,
 không đổi bố cục hệ điều hành.
 

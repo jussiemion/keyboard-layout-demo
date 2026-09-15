@@ -100,9 +100,8 @@ its remembered language. Resets keep that pair memory.
 
 [Settings](settings.md) expose both **`S0`** languages and all four direct
 slots. The pair must contain two different languages; direct slots may repeat.
-Defaults use English and the detected native browser language, with EN/RU as
-fallback. Additional slots use the first four candidates in
-PL/PT/ES/DE/FR/IT/RO/RU/EN outside that pair.
+Defaults use EN/RU for S0 and PL/PT/ES/DE for S1–S4, independently of browser
+and interface language. Saved custom assignments remain in effect.
 
 The browser accepts semantic `key: CapsLock` even when a remapper supplies
 `code: F24`. A genuine <kbd>F24</kbd> is not treated as <kbd>Caps Lock</kbd>.

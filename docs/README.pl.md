@@ -155,6 +155,11 @@ Lupa, <kbd>Ctrl</kbd> + <kbd>F</kbd> otwierają wyszukiwanie. Wpisz nazwę, znak
 `U+0024`, język lub kraj. Drobne literówki są tolerowane; karta objaśnia
 wpisywanie i użycie.
 
+- **Znajdź symbol:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Ściągawka:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Menu pozwala wybrać jasny lub ciemny motyw. Linux/Windows/macOS zmienia wygląd
 klawiatury, nie układ systemowy.
 

@@ -19,11 +19,10 @@ change the operating system’s keyboard layout or Caps Lock state.
   typography. Separate taps, autorepeat and combinations with other keys do not
   trigger the toggle.
 
-The default mapping uses English and the supplied native language for S0
-(English and Russian when the native language is English). Four additional
-languages fill S1–S4. Saved mappings require two distinct S0 languages and four
-valid slots; direct slots may repeat. Invalid or unsupported settings fall back
-to defaults.
+The default mapping uses English/Russian for S0 and Polish, Portuguese, Spanish
+and German for S1–S4, independently of browser or interface language. Saved
+mappings require two distinct S0 languages and four valid slots; direct slots
+may repeat. Invalid or unsupported settings fall back to defaults.
 
 ## Browser boundaries
 
@@ -53,3 +52,9 @@ identify an OS-consumed key event that never reaches the browser.
 Run `bun run test`, `bun run typecheck` and `bun run lint`. Controller tests use
 event sequences and browser stubs; actual OS remapping still needs manual
 browser verification.
+
+## Search and cheat-sheet shortcuts
+
+See the [agreed search and cheat-sheet shortcuts](planned-shortcuts.md): Ctrl +
+F/H and Caps Lock + F/H in the web demo; only Caps Lock + F/H in the native
+layout. The web shortcuts are implemented; the native shortcuts remain planned.

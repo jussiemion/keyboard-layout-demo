@@ -166,6 +166,11 @@ Het vergrootglas, <kbd>Ctrl</kbd> + <kbd>F</kbd> opent zoeken. Zoek een naam,
 teken, Unicode-code zoals `U+0024`, taal of land. De zoekfunctie werkt in 14
 talen en verdraagt kleine typefouten.
 
+- **Symbool zoeken:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Spiekbrief:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Het menu biedt een licht en donker thema. Linux/Windows/macOS verandert het
 uiterlijk van het toetsenbord, niet de systeemindeling.
 

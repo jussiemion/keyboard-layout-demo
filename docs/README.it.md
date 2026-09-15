@@ -162,6 +162,11 @@ La lente, <kbd>Ctrl</kbd> + <kbd>F</kbd> aprono la ricerca locale. Cerca per
 nome, carattere, codice come `U+0024`, lingua o paese. La ricerca copre tutte e
 quattordici le lingue e tollera piccoli errori di battitura.
 
+- **Cercare un simbolo:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Promemoria:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Il menu offre temi chiaro e scuro. Linux/Windows/macOS cambia l’aspetto della
 tastiera, non il layout di sistema.
 

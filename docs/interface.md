@@ -50,3 +50,9 @@ Browser review should cover physical and on-screen typing, menu and dialog
 focus, search insertion, language settings, tour progression, light/dark themes,
 mobile widths and RTL. Controller tests cannot reproduce operating-system
 remapping or every browser’s native keyboard behavior.
+
+## Search and cheat-sheet shortcuts
+
+See the [agreed search and cheat-sheet shortcuts](planned-shortcuts.md): Ctrl +
+F/H and Caps Lock + F/H in the web demo; only Caps Lock + F/H in the native
+layout. The web shortcuts are implemented; the native shortcuts remain planned.

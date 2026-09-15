@@ -180,6 +180,11 @@
 מקומי. אפשר לחפש לפי שם, סימן, קוד כמו <span dir="ltr">`U+0024`</span>, שפה או
 מדינה. החיפוש מכסה את כל 14 השפות וסובל שגיאות הקלדה קטנות.
 
+- **חיפוש סמל:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **דף עזר:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 בתפריט אפשר לבחור מראה בהיר או כהה. Linux/Windows/macOS משנה את מראה המקלדת, לא
 את פריסת המערכת.
 

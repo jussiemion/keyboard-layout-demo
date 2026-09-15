@@ -156,6 +156,11 @@ La loupe, <kbd>Ctrl</kbd> + <kbd>F</kbd> ouvrent la recherche. Saisissez un nom,
 un symbole, `U+0024`, une langue ou un pays. Les petites fautes sont tolérées ;
 chaque fiche explique la saisie et l’usage.
 
+- **Chercher un symbole:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **Aide-mémoire:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 Le menu propose les thèmes clair et sombre. Linux/Windows/macOS change
 l’apparence du clavier, pas la disposition du système.
 

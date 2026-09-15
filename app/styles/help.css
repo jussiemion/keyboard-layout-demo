@@ -97,6 +97,11 @@
 }
 
 .help-accents dd,
+.help-actions dt {
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
 .help-actions dd {
   margin-top: 7px;
   line-height: 1.7;
@@ -110,22 +115,14 @@
   column-gap: 12px;
 }
 
+.help-actions dt {
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
 .help-actions dd {
+  min-width: 0;
   margin-top: 0;
-}
-
-.help-footer ol {
-  margin-top: 8px;
-  padding-inline-start: 1.6em;
-  list-style: decimal;
-  display: grid;
-  gap: 4px;
-}
-
-.help-footer {
-  font-size: 11px;
-  line-height: 1.7;
-  color: var(--sub);
 }
 
 @media (max-width: 700px) {

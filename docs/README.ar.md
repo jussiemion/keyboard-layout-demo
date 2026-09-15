@@ -187,6 +187,11 @@
 الرموز. ابحث بالاسم أو الرمز أو كود مثل `U+0024` أو اللغة أو الدولة. يعمل البحث
 باللغات الأربع عشرة ويتحمّل الأخطاء الكتابية الصغيرة.
 
+- **البحث عن رمز:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">F</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">F</kbd>.
+- **ورقة مرجعية:** <kbd dir="ltr">Ctrl</kbd> + <kbd dir="ltr">H</kbd> /
+  <kbd dir="ltr">Caps Lock</kbd> + <kbd dir="ltr">H</kbd>.
+
 تتيح القائمة المظهر الفاتح والداكن. يغيّر Linux/Windows/macOS شكل لوحة المفاتيح،
 لا تخطيط النظام.
 
