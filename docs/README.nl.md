@@ -215,3 +215,7 @@ Auteur: **Semyon Yushkevich (jussiemion)**. De symbolenkaart is gebaseerd op
 bijdragen van de auteur vallen onder [MIT](../LICENSE);
 [materiaal van derden](../THIRD_PARTY_NOTICES.md) behoudt zijn eigen
 voorwaarden.
+
+💡 **Het project gekloond en lokaal gestart?** Als de architectuur je bevalt,
+geef het project dan een ⭐ **Star** en deel je feedback in onze
+[discussie](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)!

@@ -206,3 +206,8 @@ la [disposition d’Ilya Birman 3.9](https://ilyabirman.ru/typography-layout/).
 Les contributions originales de l’auteur sont sous [licence MIT](../LICENSE) ;
 les [éléments tiers](../THIRD_PARTY_NOTICES.md) conservent leurs conditions
 respectives.
+
+💡 **Vous avez cloné le projet et le faites tourner en local ?** Si son
+architecture vous plaît, pensez à lui attribuer une étoile ⭐ **Star** et
+partagez vos retours dans notre
+[discussion](https://github.com/jussiemion/keyboard-layout-demo/discussions/1) !

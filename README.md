@@ -341,3 +341,7 @@ Original contributions are free software under [MIT](LICENSE): use, modify and
 redistribute them, including commercially, while retaining the copyright and
 license notices. [Third-party materials](THIRD_PARTY_NOTICES.md) retain their
 own terms.
+
+💡 **Cloned the project and running it locally?** Please consider dropping a ⭐
+**Star** if you like the architecture, and share your feedback in our
+[Discussions](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)!

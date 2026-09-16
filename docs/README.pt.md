@@ -210,3 +210,7 @@ Autor: **Semyon Yushkevich (jussiemion)**. O mapa de símbolos baseia-se na
 contribuições originais do autor estão sob [MIT](../LICENSE); os
 [materiais de terceiros](../THIRD_PARTY_NOTICES.md) mantêm as respetivas
 condições.
+
+💡 **Clonou o projeto e está a executá-lo localmente?** Se gosta da arquitetura,
+considere deixar uma estrela ⭐ **Star** e partilhe a sua opinião na nossa
+[discussão](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)!

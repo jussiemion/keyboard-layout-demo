@@ -205,3 +205,7 @@ Autor: **Szymon Juszkiewicz (jussiemion)**. Mapa symboli opiera się na
 [układzie Ilyi Birmana 3.9](https://ilyabirman.ru/typography-layout/).
 Oryginalny wkład autora jest dostępny na licencji [MIT](../LICENSE);
 [materiały osób trzecich](../THIRD_PARTY_NOTICES.md) mają osobne warunki.
+
+💡 **Projekt sklonowany i uruchomiony lokalnie?** Jeśli podoba Ci się
+architektura, zostaw ⭐ **Star** i podziel się opinią w naszej
+[dyskusji](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)!

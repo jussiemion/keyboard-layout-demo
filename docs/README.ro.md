@@ -201,3 +201,7 @@ Autor: **Semyon Yushkevich (jussiemion)**. Harta simbolurilor se bazează pe
 [dispunerea Ilya Birman 3.9](https://ilyabirman.ru/typography-layout/).
 Contribuțiile originale ale autorului sunt sub [MIT](../LICENSE);
 [materialele terților](../THIRD_PARTY_NOTICES.md) au condiții separate.
+
+💡 **Ai clonat proiectul și îl rulezi local?** Dacă îți place arhitectura,
+acordă-i o stea ⭐ **Star** și împărtășește-ne părerea în
+[discuție](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)!

@@ -206,3 +206,7 @@ Autor: **Semyon Yushkevich (jussiemion)**. Die Symbolkarte basiert auf
 eigenen Beiträge des Autors stehen unter [MIT](../LICENSE);
 [Drittmaterialien](../THIRD_PARTY_NOTICES.md) behalten ihre jeweiligen
 Bedingungen.
+
+💡 **Projekt geklont und lokal gestartet?** Wenn dir die Architektur gefällt,
+gib dem Projekt gerne einen ⭐ **Star** und teile dein Feedback in unserer
+[Diskussion](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)!

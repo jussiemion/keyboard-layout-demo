@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import { ThemeFavicon } from '@/components/theme-favicon';
+import { LocalConsoleMessage } from '@/components/local-console-message';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { LocaleProvider } from '@/components/locale-provider';
 import { preferencesBootstrap, preferencesGuardCss } from '@/lib/preferences';
@@ -52,6 +53,7 @@ export default async function RootLayout({ children, params }: LayoutProps) {
         <script dangerouslySetInnerHTML={{ __html: preferencesBootstrap }} />
       </head>
       <body>
+        <LocalConsoleMessage />
         <ThemeFavicon />
         <LocaleProvider initialLocale={initialLocale}>
           <ScrollArea className="document-scroll-area">{children}</ScrollArea>

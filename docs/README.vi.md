@@ -208,3 +208,7 @@ Tác giả: **Semyon Yushkevich (jussiemion)**. Bản đồ ký hiệu dựa tr�
 [bố cục Ilya Birman 3.9](https://ilyabirman.ru/typography-layout/). Đóng góp gốc
 của tác giả theo [MIT](../LICENSE);
 [tài liệu bên thứ ba](../THIRD_PARTY_NOTICES.md) giữ điều kiện riêng.
+
+💡 **Bạn đã clone dự án và chạy trên máy của mình?** Nếu thích kiến trúc của dự
+án, hãy cân nhắc tặng một ⭐ **Star** và chia sẻ phản hồi trong
+[phần thảo luận](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)!

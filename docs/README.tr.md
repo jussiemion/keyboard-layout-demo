@@ -208,3 +208,8 @@ Yazar: **Semyon Yushkevich (jussiemion)**. Simge haritası
 [Ilya Birman 3.9](https://ilyabirman.ru/typography-layout/) düzenine dayanır.
 Yazarın özgün katkıları [MIT](../LICENSE) lisanslıdır;
 [üçüncü taraf malzemeler](../THIRD_PARTY_NOTICES.md) kendi koşullarını korur.
+
+💡 **Projeyi klonlayıp yerel olarak mı çalıştırıyorsunuz?** Mimarisini
+beğendiyseniz projeye ⭐ **Star** vermeyi düşünebilir, görüşlerinizi
+[tartışmamızda](https://github.com/jussiemion/keyboard-layout-demo/discussions/1)
+paylaşabilirsiniz!
