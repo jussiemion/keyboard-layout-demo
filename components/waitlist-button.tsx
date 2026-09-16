@@ -227,9 +227,14 @@ export function WaitlistButton({ onOpen }: { onOpen?: () => void }) {
         }
       }}
     >
-      <DialogTrigger render={<Button className="min-h-10 gap-2" />}>
+      <DialogTrigger
+        aria-label={text.cta}
+        render={
+          <Button size="icon" className="size-10 xl:w-auto xl:gap-2 xl:px-3" />
+        }
+      >
         <BellPlus className="size-4 shrink-0" aria-hidden="true" />
-        {text.cta}
+        <span className="hidden xl:inline">{text.cta}</span>
       </DialogTrigger>
       <DialogContent
         className={[
