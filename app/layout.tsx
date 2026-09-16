@@ -34,6 +34,10 @@ export default async function RootLayout({ children, params }: LayoutProps) {
       suppressHydrationWarning
     >
       <head>
+        <meta
+          name="google-site-verification"
+          content="OYzmOHxqWZwiQfEVvGtC0NnjUlVAvpUX6kV6byZHHH8"
+        />
         {fontManifest.fonts.map((font) => (
           <link
             key={font.file}
