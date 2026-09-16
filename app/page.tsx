@@ -47,6 +47,7 @@ import { SymbolSearchPanel } from '@/components/symbol-search';
 import { GuidedTour, TourInvitation } from '@/components/guided-tour';
 import { rememberTour, type TourStep } from '@/lib/tour';
 import { HeaderMenu } from '@/components/header-menu';
+import { WaitlistButton } from '@/components/waitlist-button';
 import { SettingsDialog } from '@/components/settings-dialog';
 import {
   getSettings,
@@ -972,6 +973,7 @@ export default function Home({
               <h1>{m.brandTitle}</h1>
             </div>
             <nav className="header-actions" aria-label={m.headerActions}>
+              <WaitlistButton onOpen={resetState} />
               <SymbolSearchPanel
                 typographyEnabled={typographyEnabled}
                 modifierLabel={modifiers.alt}

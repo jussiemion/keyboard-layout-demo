@@ -1,5 +1,7 @@
 'use client';
 
+import { WaitlistButton } from '@/components/waitlist-button';
+
 import { useEffect, useRef, useState } from 'react';
 import {
   ArrowLeft,
@@ -176,7 +178,8 @@ export function TypographyReference() {
           <span>{text.openDemo}</span>
           <ArrowLeft className="size-4 rtl:rotate-180" aria-hidden="true" />
         </a>
-        <div className="flex items-center gap-2">
+        <div className="flex flex-wrap items-center gap-2">
+          <WaitlistButton />
           <label className="border-border bg-secondary flex min-h-10 items-center gap-2 rounded-lg border px-3">
             <Languages
               className="text-muted-foreground size-4"
