@@ -22,8 +22,8 @@
       "_rolldown-runtime-hePW80VL.js"
     ]
   },
-  "_preferences-xgNA_mU2.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/preferences-xgNA_mU2.js",
+  "_preferences-DJmo-14m.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/preferences-DJmo-14m.js",
     "name": "preferences",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
@@ -59,19 +59,19 @@
     "file": "keyboard-layout-demo/_next/static/chunks/utils-DojpP95n.js",
     "name": "utils"
   },
-  "_vinext-1WJqM-qg.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/vinext-1WJqM-qg.js",
+  "_vinext-D5URtASc.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/vinext-D5URtASc.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js"
     ],
     "dynamicImports": [
-      "_vinext-1WJqM-qg.js"
+      "_vinext-D5URtASc.js"
     ]
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-DeWsSAFV.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-CMe5GgPm.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -79,7 +79,7 @@
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
       "_seo-DhuooNDZ.js",
-      "_preferences-xgNA_mU2.js",
+      "_preferences-DJmo-14m.js",
       "_theme-CVRFaN_P.js",
       "components/locale-provider.tsx",
       "_useBaseUiId-CQzsLfx3.js",
@@ -124,7 +124,7 @@
     ]
   },
   "components/typography-reference.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-BflsvqHr.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-C_4Gx11x.js",
     "name": "typography-reference",
     "src": "components/typography-reference.tsx",
     "isDynamicEntry": true,
@@ -132,7 +132,7 @@
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
       "_seo-DhuooNDZ.js",
-      "_preferences-xgNA_mU2.js",
+      "_preferences-DJmo-14m.js",
       "_theme-CVRFaN_P.js",
       "components/locale-provider.tsx",
       "_brand-mark-CTWd7vDw.js"
@@ -152,28 +152,28 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-DVfXD2K7.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-D6_ttt7F.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-1WJqM-qg.js"
+      "_vinext-D5URtASc.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-DfbyRi0D.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-DltK88qL.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-1WJqM-qg.js"
+      "_vinext-D5URtASc.js"
     ],
     "dynamicImports": [
-      "_vinext-1WJqM-qg.js",
+      "_vinext-D5URtASc.js",
       "components/locale-provider.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/ui/scroll-area.tsx",
