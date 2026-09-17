@@ -281,8 +281,24 @@ export class TypingEngine {
   private postfixShift: string | null = null;
   private postfixLocale: KeyboardLocale | null = null;
 
+  /** UTF-16 range of the editable grapheme, including combining stress marks. */
+  get preliminaryRange() {
+    const candidate = this.postfix;
+    return candidate && this.canCycleDiacritic
+      ? {
+          start: candidate.caret - candidate.text.length,
+          end: candidate.caret,
+          value: candidate.value,
+        }
+      : null;
+  }
+
   get canCycleDiacritic() {
-    return this.postfix !== null;
+    if (!this.enabled || !this.postfix || !this.postfixLocale) {
+      return false;
+    }
+    const next = nextDiacritic(this.postfix.base, this.postfixLocale);
+    return Boolean(next && next !== this.postfix.base);
   }
 
   resetPostfix() {

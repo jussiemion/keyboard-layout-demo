@@ -102,7 +102,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         'Önce vurgu, sonra ünlü: {alt}, {alt}, {slash}, {lowerA} → {stressed}. {esc} bekleyen işareti iptal eder.',
       postfix:
-        'Şimdi Lehçe seçili. {lowerA} yazıp {shift} tuşuna basıp bırakın: {plainA}, {ogonek} olur. Tekrar basmak döngüyü sürdürür. Ekranda {shift} tuşuna iki kez tıklayın: bas ve bırak.',
+        'Şimdi Lehçe seçili. {lowerA} yazıp {shift} tuşuna basıp bırakın: {plainA}, {ogonek} olur. Tekrar basmak döngüyü sürdürür. Ekranda {shift} tuşuna iki kez tıklayın: bas ve bırak. Altı çizili harfi hâlâ {shift} ile değiştirebilirsiniz.',
       hebrew:
         'Şimdi İbranice seçili; bir harf hazır. Şeva eklemek için sağ {alt} ({altGr}) basılıyken fiziksel {keyA} tuşuna basın. Sol {alt} tipografi içindir.',
       pair: 'Çiftinizdeki ikinci dile geçmek için {s0} ({capsLock}) tuşuna basın. Tekrar basmak geri döner.',
@@ -168,7 +168,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         'Eerst klemtoon: {alt}, {alt}, {slash}, {lowerA} → {stressed}. {esc} annuleert het wachtende accent.',
       postfix:
-        'Pools is nu geselecteerd. Typ {lowerA} en druk op {shift}, laat los: {plainA} wordt {ogonek}. Herhaal voor de volgende variant. Klik op het scherm tweemaal op {shift}: indrukken en loslaten.',
+        'Pools is nu geselecteerd. Typ {lowerA} en druk op {shift}, laat los: {plainA} wordt {ogonek}. Herhaal voor de volgende variant. Klik op het scherm tweemaal op {shift}: indrukken en loslaten. De onderstreepte letter kun je nog met {shift} wijzigen.',
       hebrew:
         'Hebreeuws is geselecteerd; er staat al een letter. Houd rechter {alt} ({altGr}) vast en druk op fysieke {keyA} voor sjwa. Linker {alt} is voor typografie.',
       pair: 'Druk op {s0} ({capsLock}) voor de tweede taal van je paar. Druk nogmaals om terug te gaan.',
@@ -234,7 +234,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         'Dấu nhấn trước: {alt}, {alt}, {slash}, {lowerA} → {stressed}. {esc} hủy dấu đang chờ.',
       postfix:
-        'Đang chọn tiếng Ba Lan. Nhập {lowerA}, rồi nhấn và thả {shift}: {plainA} thành {ogonek}. Nhấn tiếp để chuyển biến thể. Trên màn hình, nhấn {shift} hai lần: giữ và thả.',
+        'Đang chọn tiếng Ba Lan. Nhập {lowerA}, rồi nhấn và thả {shift}: {plainA} thành {ogonek}. Nhấn tiếp để chuyển biến thể. Trên màn hình, nhấn {shift} hai lần: giữ và thả. Bạn vẫn có thể đổi chữ được gạch chân bằng {shift}.',
       hebrew:
         'Đang chọn tiếng Hebrew; đã có sẵn một chữ. Giữ {alt} phải ({altGr}) và nhấn phím vật lý {keyA} để thêm sheva. {alt} trái dùng cho kiểu chữ.',
       pair: 'Nhấn {s0} ({capsLock}) để sang ngôn ngữ thứ hai trong cặp. Nhấn lại để quay về.',
@@ -297,7 +297,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         'النبر أولًا ثم حرف العلة: {alt}، {alt}، {slash}، {lowerA} → {stressed}. يلغي {esc} العلامة المنتظرة.',
       postfix:
-        'البولندية مختارة الآن. اكتب {lowerA} ثم اضغط {shift} واتركه: يصبح {plainA} هو {ogonek}. كرّر لمتابعة الدورة. على الشاشة انقر {shift} مرتين: ضغط ثم تحرير.',
+        'البولندية مختارة الآن. اكتب {lowerA} ثم اضغط {shift} واتركه: يصبح {plainA} هو {ogonek}. كرّر لمتابعة الدورة. على الشاشة انقر {shift} مرتين: ضغط ثم تحرير. يمكنك تغيير الحرف المسطّر باستخدام {shift}.',
       hebrew:
         'العبرية مختارة الآن وحرف مُدخل مسبقًا. اضغط {alt} الأيمن ({altGr}) مع {keyA} الفعلي لإضافة الشِّوا. {alt} الأيسر للرموز الطباعية.',
       pair: 'اضغط {s0} ({capsLock}) للانتقال إلى اللغة الثانية في زوجك. اضغط مجددًا للعودة.',
@@ -365,7 +365,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         'Сначала ударение, затем гласная: {alt}, {alt}, {slash}, {lowerA} → {stressed}. {esc} отменяет ожидающий знак.',
       postfix:
-        'Сейчас включён польский. Наберите {lowerA}, затем нажмите и отпустите {shift}: {plainA} превратится в {ogonek}. Следующее нажатие продолжает цикл. На экране нажмите {shift} дважды: зажать и отпустить.',
+        'Сейчас включён польский. Наберите {lowerA}, затем нажмите и отпустите {shift}: {plainA} превратится в {ogonek}. Следующее нажатие продолжает цикл. На экране нажмите {shift} дважды: зажать и отпустить. Подчёркнутую букву ещё можно изменить клавишей {shift}.',
       hebrew:
         'Сейчас включён иврит; буква уже введена. Удерживайте правый {alt} ({altGr}) и нажмите физическую {keyA}, чтобы добавить шва. Левый {alt} служит для типографики.',
       pair: 'Нажмите {s0} ({capsLock}), чтобы перейти ко второму языку вашей пары. Повторное нажатие вернёт первый.',
@@ -431,7 +431,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         'Stress first, then vowel: {alt}, {alt}, {slash}, {lowerA} → {stressed}. {esc} cancels the pending mark.',
       postfix:
-        'Polish is now selected. Type {lowerA}, then press and release {shift}: {plainA} becomes {ogonek}. Another press continues the cycle. On screen, click {shift} twice: press and release.',
+        'Polish is now selected. Type {lowerA}, then press and release {shift}: {plainA} becomes {ogonek}. Another press continues the cycle. On screen, click {shift} twice: press and release. The underlined letter can still be changed with {shift}.',
       hebrew:
         'Hebrew is now selected; a letter is already entered. Hold Right {alt} ({altGr}) and press physical {keyA} to add sheva. Left {alt} is for typography.',
       pair: 'Press {s0} ({capsLock}) to switch to the second language of your pair. Another press switches back.',
@@ -495,7 +495,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         'הטעמה ואז תנועה: {alt}, {alt}, {slash}, {lowerA} → {stressed}. {esc} מבטל סימן ממתין.',
       postfix:
-        'פולנית נבחרה. הקלידו {lowerA} ואז לחצו ושחררו {shift}: האות {plainA} תהפוך ל־{ogonek}. לחיצה נוספת ממשיכה במחזור. במסך לחצו על {shift} פעמיים: לחיצה ושחרור.',
+        'פולנית נבחרה. הקלידו {lowerA} ואז לחצו ושחררו {shift}: האות {plainA} תהפוך ל־{ogonek}. לחיצה נוספת ממשיכה במחזור. במסך לחצו על {shift} פעמיים: לחיצה ושחרור. אפשר עדיין לשנות את האות המסומנת בקו תחתון באמצעות {shift}.',
       hebrew:
         'עברית נבחרה; אות כבר הוזנה. החזיקו {alt} ימני ({altGr}) ולחצו על {keyA} הפיזית להוספת שווא. {alt} שמאלי משמש לטיפוגרפיה.',
       pair: 'לחצו על {s0} ({capsLock}) למעבר לשפה השנייה בזוג. לחיצה נוספת מחזירה לראשונה.',
@@ -559,7 +559,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         '{alt}, {alt}, {slash}, {lowerA}: {stressed}. {esc} verwirft den wartenden Akzent.',
       postfix:
-        'Polnisch: {lowerA} tippen, dann {shift} drücken und loslassen: {ogonek}. Weitere Betätigungen wechseln die Variante. Am Bildschirm {shift} zweimal anklicken: drücken und loslassen.',
+        'Polnisch: {lowerA} tippen, dann {shift} drücken und loslassen: {ogonek}. Weitere Betätigungen wechseln die Variante. Am Bildschirm {shift} zweimal anklicken: drücken und loslassen. Den unterstrichenen Buchstaben kannst du noch mit {shift} ändern.',
       hebrew:
         'Hebräisch: Rechts-{alt} ({altGr}) halten und die physische {keyA}-Taste drücken. So erhält der vorbereitete Buchstabe ein Schwa. Links-{alt} dient der Typografie.',
       pair: '{s0} ({capsLock}) wechselt zur zweiten Sprache deines Paars. Erneut drücken wechselt zurück.',
@@ -625,7 +625,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         '{alt}, {alt}, {slash}, {lowerA} : {stressed}. {esc} annule le signe en attente.',
       postfix:
-        'Polonais : tapez {lowerA}, puis appuyez et relâchez {shift} : {ogonek}. Répétez pour parcourir les variantes. À l’écran, cliquez deux fois sur {shift} : appuyer et relâcher.',
+        'Polonais : tapez {lowerA}, puis appuyez et relâchez {shift} : {ogonek}. Répétez pour parcourir les variantes. À l’écran, cliquez deux fois sur {shift} : appuyer et relâcher. La lettre soulignée peut encore être modifiée avec {shift}.',
       hebrew:
         'Hébreu : maintenez {alt} droit ({altGr}) et appuyez sur {keyA} physique pour ajouter un sheva à la lettre préparée. {alt} gauche sert à la typographie.',
       pair: '{s0} ({capsLock}) passe à la seconde langue de votre paire. Répétez pour revenir.',
@@ -689,7 +689,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         '{alt}, {alt}, {slash}, {lowerA}: {stressed}. {esc} cancela el acento pendiente.',
       postfix:
-        'Polaco: escribe {lowerA}, pulsa y suelta {shift}: {ogonek}. Repite para recorrer las variantes. En pantalla, pulsa {shift} dos veces: pulsar y soltar.',
+        'Polaco: escribe {lowerA}, pulsa y suelta {shift}: {ogonek}. Repite para recorrer las variantes. En pantalla, pulsa {shift} dos veces: pulsar y soltar. La letra subrayada todavía se puede cambiar con {shift}.',
       hebrew:
         'Hebreo: mantén {alt} derecho ({altGr}) y pulsa {keyA} física para añadir sheva a la letra preparada. {alt} izquierdo sirve para tipografía.',
       pair: '{s0} ({capsLock}) pasa al segundo idioma de tu par. Repite para volver.',
@@ -753,7 +753,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         '{alt}, {alt}, {slash}, {lowerA}: {stressed}. {esc} annulla l’accento in attesa.',
       postfix:
-        'Polacco: digita {lowerA}, premi e rilascia {shift}: {ogonek}. Ripeti per scorrere le varianti. Sullo schermo, premi {shift} due volte: premere e rilasciare.',
+        'Polacco: digita {lowerA}, premi e rilascia {shift}: {ogonek}. Ripeti per scorrere le varianti. Sullo schermo, premi {shift} due volte: premere e rilasciare. La lettera sottolineata può ancora essere modificata con {shift}.',
       hebrew:
         'Ebraico: tieni {alt} destro ({altGr}) e premi {keyA} fisica per aggiungere sheva alla lettera preparata. {alt} sinistro serve alla tipografia.',
       pair: '{s0} ({capsLock}) passa alla seconda lingua della coppia. Ripeti per tornare.',
@@ -818,7 +818,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         '{alt}, {alt}, {slash}, {lowerA}: {stressed}. {esc} anuluje oczekujący akcent.',
       postfix:
-        'Polski: wpisz {lowerA}, naciśnij i zwolnij {shift}: {ogonek}. Kolejne naciśnięcie zmienia wariant. Na ekranie kliknij {shift} dwa razy: naciśnij i zwolnij.',
+        'Polski: wpisz {lowerA}, naciśnij i zwolnij {shift}: {ogonek}. Kolejne naciśnięcie zmienia wariant. Na ekranie kliknij {shift} dwa razy: naciśnij i zwolnij. Podkreśloną literę nadal można zmienić klawiszem {shift}.',
       hebrew:
         'Hebrajski: trzymaj prawy {alt} ({altGr}) i naciśnij fizyczne {keyA}, aby dodać szwa do przygotowanej litery. Lewy {alt} służy typografii.',
       pair: '{s0} ({capsLock}) wybiera drugi język pary. Kolejne naciśnięcie wraca do pierwszego.',
@@ -882,7 +882,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         '{alt}, {alt}, {slash}, {lowerA}: {stressed}. {esc} cancela o acento pendente.',
       postfix:
-        'Polaco: escreve {lowerA}, prime e solta {shift}: {ogonek}. Repete para percorrer variantes. No ecrã, prime {shift} duas vezes: premir e soltar.',
+        'Polaco: escreve {lowerA}, prime e solta {shift}: {ogonek}. Repete para percorrer variantes. No ecrã, prime {shift} duas vezes: premir e soltar. A letra sublinhada ainda pode ser alterada com {shift}.',
       hebrew:
         'Hebraico: mantém {alt} direito ({altGr}) e prime {keyA} físico para adicionar sheva à letra preparada. {alt} esquerdo serve para tipografia.',
       pair: '{s0} ({capsLock}) muda para o segundo idioma do par. Repete para voltar.',
@@ -945,7 +945,7 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       stress:
         '{alt}, {alt}, {slash}, {lowerA}: {stressed}. {esc} anulează accentul în așteptare.',
       postfix:
-        'Poloneză: tastează {lowerA}, apasă și eliberează {shift}: {ogonek}. Repetă pentru alte variante. Pe ecran, apasă {shift} de două ori: apăsare și eliberare.',
+        'Poloneză: tastează {lowerA}, apasă și eliberează {shift}: {ogonek}. Repetă pentru alte variante. Pe ecran, apasă {shift} de două ori: apăsare și eliberare. Litera subliniată poate fi modificată în continuare cu {shift}.',
       hebrew:
         'Ebraică: ține {alt} dreapta ({altGr}) și apasă {keyA} fizic pentru a adăuga șva literei pregătite. {alt} stânga servește tipografiei.',
       pair: '{s0} ({capsLock}) trece la a doua limbă din pereche. Repetă pentru a reveni.',

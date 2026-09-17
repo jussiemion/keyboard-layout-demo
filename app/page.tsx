@@ -1,5 +1,6 @@
 'use client';
 
+import { PreliminaryIndicator } from '@/components/preliminary-indicator';
 import { applicationSchema } from '@/lib/seo';
 
 import {
@@ -166,6 +167,8 @@ export default function Home({
   const input = useRef<HTMLInputElement>(null);
   const keyboardFrame = useRef<HTMLElement>(null);
   const [value, setValue] = useState('');
+  const [preliminary, setPreliminary] =
+    useState<TypingEngine['preliminaryRange']>(null);
   const initialKeyboardLocale = useSyncExternalStore(
     subscribeToInitialKeyboardLocale,
     getInitialKeyboardLocale,
@@ -325,6 +328,7 @@ export default function Home({
   }, []);
 
   function refresh() {
+    setPreliminary(engine.current.preliminaryRange);
     setAccent(engine.current.accent);
     setMode(engine.current.mode);
     setHeld([
@@ -357,6 +361,7 @@ export default function Home({
       toggleController.current.reset();
       engine.current.reset();
       languageController.current.reset();
+      setPreliminary(null);
       setMode(0);
       setAccent(null);
       setHeld([]);
@@ -390,6 +395,7 @@ export default function Home({
         return;
       }
       engine.current.resetPostfix();
+      setPreliminary(null);
     };
     window.addEventListener('pointerdown', resetPostfix, true);
     window.addEventListener('wheel', resetPostfix, true);
@@ -426,6 +432,7 @@ export default function Home({
         target.selectionEnd !== replacement.end)
     ) {
       engine.current.resetPostfix();
+      setPreliminary(null);
       return;
     }
     const next = replaceSelection(
@@ -463,6 +470,7 @@ export default function Home({
     activeLocale.current = next;
     setLocale(next);
     engine.current.reset();
+    setPreliminary(null);
     setVirtualShift(false);
   }
 
@@ -1171,11 +1179,29 @@ export default function Home({
                   onChange={(event) => setValue(event.target.value)}
                   onKeyDown={(event) => handleKey(event.nativeEvent, true)}
                   onKeyUp={(event) => handleKey(event.nativeEvent, false)}
+                  onSelect={(event) => {
+                    const candidate = engine.current.preliminaryRange;
+                    const target = event.currentTarget;
+                    if (
+                      candidate &&
+                      (target.value !== candidate.value ||
+                        target.selectionStart !== candidate.end ||
+                        target.selectionEnd !== candidate.end)
+                    ) {
+                      engine.current.resetPostfix();
+                      setPreliminary(null);
+                    }
+                  }}
                   onBlur={resetState}
                   onCompositionStart={resetState}
                   onPaste={resetState}
                   onCut={resetState}
                   onDrop={resetState}
+                />
+                <PreliminaryIndicator
+                  input={input}
+                  value={value}
+                  range={preliminary}
                 />
                 <Tooltip>
                   <TooltipTrigger
@@ -1294,21 +1320,45 @@ export default function Home({
                     lastSymbol === '\u00a0' ? m.nonBreakingSpace : lastSymbol,
                 })}
             </output>
-            {(!typographyEnabled || accent === 'acute') && (
-              <output className="trainer-status accent-warning">
-                <TriangleAlert size={17} aria-hidden="true" />
-                <strong>
-                  {typographyEnabled ? (
-                    m.accentModeWarning
-                  ) : (
-                    <TranslatedText
-                      message={m.typographyDisabledWarning}
-                      values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
-                    />
-                  )}
-                </strong>
-              </output>
-            )}
+            <div className="grid">
+              {/* Measure both messages without hiding the actual live output. */}
+              <div
+                aria-hidden="true"
+                className="pointer-events-none invisible col-start-1 row-start-1 grid"
+              >
+                {[
+                  m.accentModeWarning,
+                  <TranslatedText
+                    key="disabled"
+                    message={m.typographyDisabledWarning}
+                    values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
+                  />,
+                ].map((message, index) => (
+                  <div
+                    key={index}
+                    className="trainer-status accent-warning col-start-1 row-start-1"
+                  >
+                    <TriangleAlert size={17} aria-hidden="true" />
+                    <strong>{message}</strong>
+                  </div>
+                ))}
+              </div>
+              {(!typographyEnabled || accent === 'acute') && (
+                <output className="trainer-status accent-warning col-start-1 row-start-1">
+                  <TriangleAlert size={17} aria-hidden="true" />
+                  <strong>
+                    {typographyEnabled ? (
+                      m.accentModeWarning
+                    ) : (
+                      <TranslatedText
+                        message={m.typographyDisabledWarning}
+                        values={{ ctrl: <kbd>{modifiers.control}</kbd> }}
+                      />
+                    )}
+                  </strong>
+                </output>
+              )}
+            </div>
           </main>
         </div>
         <SeoContent page="trainer" />

@@ -253,3 +253,65 @@ for (const { locale, row, shift } of nationalScenarios) {
     });
   }
 }
+
+void test('preliminary range follows the editable grapheme and clears on commit', () => {
+  const f = field('pl');
+  f.acute();
+  f.tap('KeyA', 'a');
+  assert.deepEqual(f.engine.preliminaryRange, {
+    start: 1,
+    end: 2,
+    value: 'bá',
+  });
+  f.tap('ShiftLeft');
+  assert.deepEqual(f.engine.preliminaryRange, {
+    start: 1,
+    end: 3,
+    value: 'bą́',
+  });
+  f.tap('Space', ' ');
+  assert.equal(f.engine.preliminaryRange, null);
+});
+
+void test('preliminary range disappears after moving the caret or resetting', () => {
+  const f = field();
+  f.tap('KeyZ', 'z');
+  f.state.start = f.state.end = 0;
+  f.tap('ShiftLeft');
+  assert.equal(f.engine.preliminaryRange, null);
+  f.tap('KeyA', 'a');
+  assert.ok(f.engine.preliminaryRange);
+  f.engine.reset();
+  assert.equal(f.engine.preliminaryRange, null);
+});
+
+void test('Russian vowels without a Shift cycle never get a preliminary range', () => {
+  for (const letter of 'аоуыэюяАОУЫЭЮЯ') {
+    const f = field('ru');
+    f.tap('KeyE', letter);
+    assert.equal(f.engine.canCycleDiacritic, false, letter);
+    assert.equal(f.engine.preliminaryRange, null, letter);
+    f.acute();
+    f.tap('KeyE', letter);
+    assert.equal(f.engine.preliminaryRange, null, `stressed ${letter}`);
+  }
+});
+
+void test('a non-cycling Russian letter clears the preceding indicator', () => {
+  const f = field('ru');
+  f.tap('KeyT', 'е');
+  assert.ok(f.engine.preliminaryRange);
+  f.tap('KeyE', 'у');
+  assert.equal(f.engine.preliminaryRange, null);
+  f.tap('ShiftLeft');
+  assert.equal(f.state.value, 'bеу');
+});
+
+void test('disabled typography does not advertise an editable character', () => {
+  const f = field('ru');
+  f.tap('KeyT', 'е');
+  assert.ok(f.engine.preliminaryRange);
+  f.engine.enabled = false;
+  assert.equal(f.engine.canCycleDiacritic, false);
+  assert.equal(f.engine.preliminaryRange, null);
+});
