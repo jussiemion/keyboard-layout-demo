@@ -88,7 +88,12 @@ export function applicationSchema(locale: UiLocale, root = false) {
     license: `${REPOSITORY_URL}/blob/main/LICENSE`,
     author: {
       '@type': 'Person',
-      name: 'Semyon Yushkevich',
+      name:
+        locale === 'pl'
+          ? 'Szymon Juszkiewicz'
+          : locale === 'ru'
+            ? 'Семён Юшкевич'
+            : 'Semyon Yushkevich',
       url: 'https://github.com/jussiemion',
     },
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },

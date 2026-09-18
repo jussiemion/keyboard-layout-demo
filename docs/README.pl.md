@@ -95,7 +95,7 @@ pozycji US QWERTY, a potem samogłoskę: np. rosyjskie а → а́. Naciskaj kla
 kolejno, nie jednocześnie. Akcent wybierz przed literą. Na macOS użyj
 <kbd>Option</kbd>; <kbd>Esc</kbd> anuluje oczekujący akcent.
 
-### Czym układ Yushkevicha różni się od układu [Birman](https://ilyabirman.ru/typography-layout/)a przy wpisywaniu obcych liter?
+### Czym układ Juszkiewicza różni się od układu [Birmana](https://ilyabirman.ru/typography-layout/) przy wpisywaniu obcych liter?
 
 Pozwala zmieniać wariant już wpisanej litery za pomocą <kbd>Shift</kbd> i
 przełączać przypisane języki w demo. Układ

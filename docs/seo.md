@@ -111,3 +111,12 @@ without promising enhanced snippets or AI citations. See the
 overview, features, audience scenarios, FAQ and attribution. Its `page` prop
 links to the reference from the trainer and back to the trainer from the
 reference.
+
+## Author names in translations
+
+Use **Szymon Juszkiewicz** in Polish, with inflected forms such as **układ
+Juszkiewicza** and **układ Szymona Juszkiewicza**. Use **Семён Юшкевич** in
+Russian and **Semyon Yushkevich** in English. Other languages use the English
+spelling, inflected where appropriate. Interface layout names omit the given
+name; author credits retain it. Apply these conventions to visible text and
+structured metadata alike.
