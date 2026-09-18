@@ -1,0 +1,1 @@
+import{n as e,t}from"./locale-provider-BCSvDgt6.js";export{t as LocaleProvider,e as useLocale};

@@ -1,0 +1,1 @@
+import{o as e}from"./vinext-ChaXSgvk.js";export{e as resolveAppPrefetchRscRequest};
