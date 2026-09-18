@@ -1,5 +1,24 @@
 # Development
 
+## Project identity and desktop architecture
+
+The layout project is `keyboard-layout`; the author's handle is `jussiemion`.
+Platform projects and distributions use these names:
+
+- Linux: `keyboard-layout-linux`.
+- Windows: `keyboard-layout-windows`.
+- macOS: `keyboard-layout-macos`.
+
+The desktop product is a cross-platform Tauri application with native bindings
+for operating-system input integration. Its application shell is shared across
+platforms; native adapters provide platform-specific behavior. This describes
+the target desktop architecture, not completed support for every platform.
+
+This repository remains the web demo, `keyboard-layout-demo`. Its existing URLs
+and configuration-link format are unchanged. Author handles are not project-name
+prefixes. See the [configuration contract](configuration-protocol.md) for
+interoperability between the demo and desktop clients.
+
 **`S` — Switcher**: language switcher (`S0`–`S4`). **`M` — Modifier**:
 typing-mode modifier (`M0`–`M2`).
 

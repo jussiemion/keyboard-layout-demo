@@ -65,6 +65,12 @@ waitlist form data are not settings and are not exported.
 
 ## Import contract for desktop clients
 
+The desktop clients are `keyboard-layout-linux`, `keyboard-layout-windows`, and
+`keyboard-layout-macos`: platform versions of the cross-platform
+`keyboard-layout` Tauri application with native bindings. They share this
+configuration contract. The existing payload format identifier above is a
+wire-format value, not a package or project name.
+
 1. Accept an HTTP(S) URL no longer than 32,768 characters. Do not fetch it.
 2. Require exactly `#config=` followed by Base64url data. Reject malformed
    encoding and invalid UTF-8 before parsing JSON.
