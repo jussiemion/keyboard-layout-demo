@@ -236,3 +236,25 @@ void test('successful steps stay complete after edits, retries and revisits', ()
   assert.equal(retainTourCompletion(next, steps[0], state), next);
   assert.equal(next.has('postfix'), false);
 });
+
+void test('customization step completes on opening settings and retains completion', () => {
+  const plan = buildTourSteps(false, defaultLanguageMapping());
+  const step = plan.find((item) => item.id === 'customize')!;
+  assert.ok(step);
+  const observation = {
+    value: '',
+    mode: 0 as const,
+    locale: 'en' as const,
+    enabled: true,
+    settingsOpen: false,
+    helpOpen: false,
+  };
+  assert.equal(tourStepComplete(step, observation), false);
+  const completed = retainTourCompletion(new Set(), step, {
+    ...observation,
+    settingsOpen: true,
+  });
+  assert.ok(completed.has('customize'));
+  assert.equal(retainTourCompletion(completed, step, observation), completed);
+  assert.ok(!completed.has('settings'));
+});

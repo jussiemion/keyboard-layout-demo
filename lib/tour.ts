@@ -51,6 +51,7 @@ export type TourStepId =
   | 'on'
   | 'search'
   | 'settings'
+  | 'customize'
   | 'help'
   | 'challenge';
 export type TourStep = {
@@ -194,6 +195,7 @@ export function buildTourSteps(
       spotlight: 'search',
     },
     { id: 'settings', locale: 'en', keys: [], spotlight: 'settings' },
+    { id: 'customize', locale: 'en', keys: [], spotlight: 'settings' },
     {
       id: 'help',
       locale: 'en',

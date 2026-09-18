@@ -1,5 +1,7 @@
 'use client';
 
+import { configurationMessages } from '@/lib/configuration-messages';
+
 import { KeyTerminology } from '@/components/key-terminology';
 import {
   tourKeySequenceClasses,
@@ -236,6 +238,7 @@ export function GuidedTour({
     on: h.toggle,
     search: h.search,
     settings: menu.settings,
+    customize: configurationMessages[uiLocale].symbols,
     help: h.title,
   };
   const title =

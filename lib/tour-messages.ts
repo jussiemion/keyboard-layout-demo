@@ -47,6 +47,7 @@ type TourMessages = {
     | 'on'
     | 'search'
     | 'settings'
+    | 'customize'
     | 'help',
     string
   >;
@@ -111,6 +112,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Tipografiyi açmak için iki {ctrl} birleşimini tekrarlayın.',
       search:
         'Aramayı {capsLock} + {keyF} ile açın. {copyright} işaretini bulun, kısayoluna bakın, aramayı kapatıp simgeyi yazın.',
+      customize:
+        'Farklı simgeler mi istiyorsunuz? Ayarları açıp simge haritasını bulun. Atamalarını değiştirmek için bir tuşa tıklayın. Ayarları bir bağlantıyla paylaşabilirsiniz. Şimdilik bakıp pencereyi kapatmanız yeterli; değişiklik gerekmez.',
       settings:
         "Menüden Ayarlar'ı açın: {s0} çifti, {slots} dilleri burada. Açmak yeterli; kaydetmeniz gerekmez.",
       help: '{capsLock} + {keyH} ile kısayol rehberini açın. Kombinasyonlara bakın, ardından devam etmek için kapatın.',
@@ -177,6 +180,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Herhaal de combinatie met beide {ctrl}-toetsen om typografie aan te zetten.',
       search:
         'Open zoeken met {capsLock} + {keyF}. Zoek {copyright}, bekijk de combinatie, sluit zoeken en typ het symbool.',
+      customize:
+        'Wil je andere tekens? Open de instellingen en zoek de tekenkaart. Klik op een toets om de toewijzingen te wijzigen. Je kunt instellingen delen met een link. Bekijk het nu alleen en sluit het venster; wijzigen hoeft niet.',
       settings:
         'Open Instellingen in het menu voor het {s0}-paar, {slots}-talen. Alleen openen is voldoende; wijzigen hoeft niet.',
       help: 'Open het spiekbriefje met {capsLock} + {keyH}. Bekijk de combinaties en sluit het om verder te gaan.',
@@ -243,6 +248,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Lặp lại tổ hợp hai phím {ctrl} để bật kiểu chữ.',
       search:
         'Mở tìm kiếm bằng {capsLock} + {keyF}. Tìm {copyright}, xem phím tắt, đóng tìm kiếm rồi nhập ký hiệu.',
+      customize:
+        'Muốn dùng ký hiệu khác? Mở cài đặt và tìm bản đồ ký hiệu. Nhấp vào một phím để đổi nội dung được gán. Bạn có thể chia sẻ cài đặt bằng liên kết. Bây giờ chỉ cần xem rồi đóng cửa sổ, không cần thay đổi.',
       settings:
         'Mở Cài đặt trong menu để xem cặp {s0}, ngôn ngữ {slots}. Chỉ cần mở là hoàn thành; không cần lưu thay đổi.',
       help: 'Mở bảng phím tắt bằng {capsLock} + {keyH}. Xem các tổ hợp rồi đóng để tiếp tục.',
@@ -306,6 +313,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'كرّر مجموعة مفتاحَي {ctrl} لتشغيل الطباعة الخاصة.',
       search:
         'افتح البحث باستخدام {capsLock} + {keyF}. ابحث عن {copyright}، واقرأ اختصاره، ثم أغلق البحث واكتب الرمز.',
+      customize:
+        'تريد رموزًا أخرى؟ افتح الإعدادات وابحث عن خريطة الرموز. انقر على مفتاح لتغيير تعييناته. يمكنك مشاركة الإعدادات عبر رابط. الآن يكفي الاطلاع وإغلاق النافذة دون تغيير أي شيء.',
       settings:
         'افتح الإعدادات من القائمة: فيها زوج {s0} ولغات {slots}. يكفي فتحها؛ لا حاجة لحفظ تغييرات.',
       help: 'افتح دليل الاختصارات باستخدام {capsLock} + {keyH}. راجع الاختصارات ثم أغلقه للمتابعة.',
@@ -374,6 +383,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Повторите сочетание обоих {ctrl}, чтобы снова включить типографику.',
       search:
         'Удерживайте {capsLock} и нажмите {keyF}, чтобы открыть поиск. Найдите {copyright}, посмотрите сочетание, закройте поиск и наберите символ.',
+      customize:
+        'Хотите другие символы? Откройте настройки и найдите «Карту символов». Нажмите на клавишу, чтобы изменить её назначения. Настройки можно перенести ссылкой. Сейчас достаточно посмотреть и закрыть окно — менять ничего не нужно.',
       settings:
         'Откройте «Настройки» в меню: здесь меняются пара {s0}, языки {slots}. Для задания достаточно открыть окно; сохранять изменения не нужно.',
       help: 'Удерживайте {capsLock} и нажмите {keyH}, чтобы открыть шпаргалку. Посмотрите сочетания и закройте её, чтобы продолжить.',
@@ -440,6 +451,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Repeat the chord with both {ctrl} keys to turn typography back on.',
       search:
         'Hold {capsLock} and press {keyF} to open search. Find {copyright}, read its shortcut, close search and type the symbol.',
+      customize:
+        'Want different symbols? Open Settings and find Symbol map. Click a key to change its assignments. You can share your settings with a link. For now, just look around and close the window; no changes are needed.',
       settings:
         'Open Settings in the menu to find the {s0} pair, {slots} languages. Just opening it completes this task; no changes are needed.',
       help: 'Hold {capsLock} and press {keyH} to open the cheat sheet. Explore the shortcuts, then close it to continue.',
@@ -504,6 +517,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'חזרו על הצירוף של שני מקשי {ctrl} להפעלת הטיפוגרפיה.',
       search:
         'פתחו חיפוש עם {capsLock} + {keyF}. מצאו {copyright}, קראו את הצירוף, סגרו את החיפוש והקלידו את הסמל.',
+      customize:
+        'רוצים סמלים אחרים? פתחו את ההגדרות ומצאו את מפת הסמלים. לחצו על מקש כדי לשנות את ההקצאות שלו. אפשר להעביר הגדרות באמצעות קישור. כרגע מספיק להציץ ולסגור את החלון, בלי לשנות דבר.',
       settings:
         'פתחו הגדרות בתפריט: זוג {s0}, שפות {slots}. די לפתוח את החלון; אין צורך לשמור שינויים.',
       help: 'פתחו את דף העזר עם {capsLock} + {keyH}. עיינו בצירופים וסגרו אותו כדי להמשיך.',
@@ -568,6 +583,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Beide {ctrl} erneut zusammen drücken und loslassen: Typografie an.',
       search:
         'Suche mit {capsLock} + {keyF} öffnen. {copyright} suchen, Tastenkürzel ansehen, Suche schließen und das Symbol tippen.',
+      customize:
+        'Andere Zeichen gewünscht? Öffne die Einstellungen und die Zeichenbelegung. Klicke auf eine Taste, um ihre Belegung zu ändern. Einstellungen lassen sich per Link übertragen. Jetzt reicht es, nachzusehen und das Fenster ohne Änderungen zu schließen.',
       settings:
         'Einstellungen im Menü öffnen: {s0}, {slots}. Öffnen genügt; nichts speichern.',
       help: 'Den Spickzettel mit {capsLock} + {keyH} öffnen. Tastenkürzel ansehen und zum Fortfahren schließen.',
@@ -634,6 +651,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Répétez avec les deux {ctrl} pour réactiver la typographie.',
       search:
         'Ouvrez la recherche avec {capsLock} + {keyF}. Cherchez {copyright}, lisez son raccourci, fermez la recherche et tapez le symbole.',
+      customize:
+        'Vous souhaitez d’autres symboles ? Ouvrez les paramètres et la carte des symboles. Cliquez sur une touche pour modifier ses affectations. Les paramètres se partagent par lien. Pour le moment, regardez puis fermez la fenêtre, sans rien modifier.',
       settings:
         'Ouvrez les paramètres du menu : {s0}, {slots}. Il suffit d’ouvrir ; inutile d’enregistrer.',
       help: 'Ouvrez le mémo avec {capsLock} + {keyH}. Consultez les raccourcis, puis fermez-le pour continuer.',
@@ -698,6 +717,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Repite con ambos {ctrl} para activar de nuevo la tipografía.',
       search:
         'Abre la búsqueda con {capsLock} + {keyF}. Busca {copyright}, mira su atajo, cierra la búsqueda y escribe el símbolo.',
+      customize:
+        '¿Quieres otros símbolos? Abre los ajustes y busca el mapa de símbolos. Pulsa una tecla para cambiar sus asignaciones. Puedes compartir los ajustes mediante un enlace. Ahora basta con mirar y cerrar la ventana, sin cambiar nada.',
       settings:
         'Abre Ajustes en el menú: {s0}, {slots}. Basta con abrir; no guardes cambios.',
       help: 'Abre la chuleta con {capsLock} + {keyH}. Consulta los atajos y ciérrala para continuar.',
@@ -762,6 +783,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Ripeti con entrambi i {ctrl} per riattivare la tipografia.',
       search:
         'Apri la ricerca con {capsLock} + {keyF}. Cerca {copyright}, leggi la scorciatoia, chiudi la ricerca e digita il simbolo.',
+      customize:
+        'Vuoi altri simboli? Apri le impostazioni e cerca la mappa dei simboli. Fai clic su un tasto per cambiarne le assegnazioni. Puoi condividere le impostazioni tramite un link. Per ora basta guardare e chiudere la finestra, senza modifiche.',
       settings:
         'Apri Impostazioni nel menu: {s0}, {slots}. Basta aprire; non occorre salvare.',
       help: 'Apri il promemoria con {capsLock} + {keyH}. Consulta le scorciatoie e chiudilo per continuare.',
@@ -827,6 +850,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Powtórz z oboma {ctrl}, aby włączyć typografię.',
       search:
         'Otwórz wyszukiwanie przez {capsLock} + {keyF}. Znajdź {copyright}, sprawdź skrót, zamknij wyszukiwanie i wpisz symbol.',
+      customize:
+        'Chcesz innych symboli? Otwórz ustawienia i znajdź mapę symboli. Kliknij klawisz, aby zmienić jego przypisania. Ustawienia można przenieść za pomocą linku. Teraz wystarczy obejrzeć i zamknąć okno, bez zmian.',
       settings:
         'Otwórz Ustawienia w menu: {s0}, {slots}. Wystarczy otworzyć, bez zapisywania.',
       help: 'Otwórz ściągawkę przez {capsLock} + {keyH}. Sprawdź skróty i zamknij ją, aby kontynuować.',
@@ -891,6 +916,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Repete com ambos os {ctrl} para voltar a ligar a tipografia.',
       search:
         'Abre a pesquisa com {capsLock} + {keyF}. Procura {copyright}, vê o atalho, fecha a pesquisa e escreve o símbolo.',
+      customize:
+        'Quer outros símbolos? Abra as definições e encontre o mapa de símbolos. Clique numa tecla para alterar as suas atribuições. Pode partilhar as definições por ligação. Por agora, basta ver e fechar a janela, sem alterações.',
       settings:
         'Abre Definições no menu: {s0}, {slots}. Basta abrir, sem guardar alterações.',
       help: 'Abre a cábula com {capsLock} + {keyH}. Consulta os atalhos e fecha-a para continuar.',
@@ -954,6 +981,8 @@ export const tourMessages: Record<UiLocale, TourMessages> = {
       on: 'Repetă cu ambele {ctrl} pentru a reporni tipografia.',
       search:
         'Deschide căutarea cu {capsLock} + {keyF}. Găsește {copyright}, citește combinația, închide căutarea și tastează simbolul.',
+      customize:
+        'Vrei alte simboluri? Deschide setările și găsește harta simbolurilor. Apasă o tastă pentru a-i schimba atribuirile. Poți transfera setările printr-un link. Acum este suficient să privești și să închizi fereastra, fără modificări.',
       settings:
         'Deschide Setări în meniu: {s0}, {slots}. Este suficient să deschizi, fără să salvezi.',
       help: 'Deschide fișa cu {capsLock} + {keyH}. Consultă combinațiile, apoi închide-o pentru a continua.',
