@@ -136,6 +136,9 @@ def verify(project):
         samples.extend(char for char in path.read_text() if ord(char) > 127)
     for folder in ['app', 'components']:
         for path in (project / folder).glob('*.tsx'):
+            # DevTools uses browser fonts, not the application's bundled stack.
+            if path.name == 'local-console-message.tsx':
+                continue
             samples.extend(char for char in path.read_text() if ord(char) > 127)
     for entry in layout['keys']:
         for action in [entry['primary'], entry['secondary']]:
@@ -149,6 +152,7 @@ def verify(project):
                 letter + mark,
                 unicodedata.normalize('NFC', letter + mark),
             ]
+    samples += ['◌' + chr(code) for code in range(0x20D0, 0x20F0)]
     graphemes = sorted(
         {cluster for text in samples for cluster in clusters(text)}
     )

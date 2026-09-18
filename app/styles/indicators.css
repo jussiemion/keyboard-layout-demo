@@ -10,7 +10,10 @@
   pointer-events: none;
 }
 
-.keycap:is(:hover, :focus-visible):not(:disabled):not(.pressed):not(:active)
+.virtual-keyboard:not([data-appearance='editor'])
+  .keycap:is(:hover, :focus-visible, [aria-pressed='true']):not(:disabled):not(
+    .pressed
+  ):not(:active)
   :is(.primary-symbol, .secondary-symbol, .space-legend) {
   color: var(--primary);
   opacity: 1;
@@ -25,6 +28,8 @@
   .help-sheet kbd,
   .tour-panel kbd,
   .symbol-search-dialog kbd,
+  .settings-dialog span,
+  .symbol-palette-dialog span,
   .typography-reference kbd,
   .mode-indicator span,
   .mode-key-label
@@ -47,6 +52,8 @@
     .help-sheet kbd,
     .tour-panel kbd,
     .symbol-search-dialog kbd,
+    .settings-dialog span,
+    .symbol-palette-dialog span,
     .typography-reference kbd,
     .mode-indicator span,
     .mode-key-label
@@ -61,6 +68,8 @@
     .help-sheet kbd,
     .tour-panel kbd,
     .symbol-search-dialog kbd,
+    .settings-dialog span,
+    .symbol-palette-dialog span,
     .typography-reference kbd,
     .mode-indicator span,
     .mode-key-label

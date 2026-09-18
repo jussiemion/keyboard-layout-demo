@@ -71,7 +71,7 @@ export const symbolSearchShortcutKeysClasses =
 export const symbolSearchFooterSeparatorClasses = '[margin-inline:6px]';
 
 export const settingsFormClasses =
-  'flex [flex-direction:column] [max-height:calc(100dvh_-_34px)] min-h-0';
+  'flex [flex-direction:column] [max-height:calc(100dvh_-_34px)] min-h-0 min-w-0';
 
 export const settingsSlotsDescriptionClasses = '[margin-block:18px_12px]';
 

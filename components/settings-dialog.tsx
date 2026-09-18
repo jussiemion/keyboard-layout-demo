@@ -1,7 +1,18 @@
 'use client';
 
+import { SettingsLanguagePicker } from '@/components/settings-language-picker';
+
+import { SymbolMapEditor } from '@/components/symbol-map-editor';
+import { ConfigurationTransfer } from '@/components/configuration-transfer';
+import {
+  configuration,
+  type Configuration,
+  type DisplayPreferences,
+} from '@/lib/configuration-link';
+import { configurationMessages } from '@/lib/configuration-messages';
+import { UI_LOCALES } from '@/lib/messages';
+import { platformNames, PLATFORMS, detectPlatform } from '@/lib/platform';
 import { KeyTerminology } from '@/components/key-terminology';
-import { languageComparator } from '@/lib/language-priority';
 
 import { ExperimentalLanguageWarning } from '@/components/experimental-language-warning';
 
@@ -11,8 +22,6 @@ import {
   settingsSlotHeadingClasses,
   settingsStorageNoteClasses,
 } from '@/components/layout-classes';
-
-import { keyboardLabel, isExperimentalKeyboard } from '@/lib/keyboard-locales';
 
 import { useRef, useState, type RefObject } from 'react';
 import { ArrowLeftRight, RotateCcw, X } from 'lucide-react';
@@ -37,29 +46,37 @@ import { settingsMessages } from '@/lib/settings-messages';
 export function SettingsDialog({
   open,
   initialSettings,
+  initialPreferences,
+  importedConfiguration,
+  importError,
   returnFocusRef,
   onOpenChange,
   onSave,
 }: {
   open: boolean;
   initialSettings: UserSettings;
+  initialPreferences: DisplayPreferences;
+  importedConfiguration?: Configuration | null;
+  importError?: boolean;
   returnFocusRef: RefObject<HTMLButtonElement | null>;
   onOpenChange: (open: boolean) => void;
-  onSave: (settings: UserSettings) => boolean;
+  onSave: (settings: UserSettings, preferences: DisplayPreferences) => boolean;
 }) {
   const { uiLocale, m } = useLocale();
   const text = settingsMessages[uiLocale];
-  const [draft, setDraft] = useState(initialSettings);
-  const [sessionOnly, setSessionOnly] = useState(false);
-  const firstSelect = useRef<HTMLSelectElement>(null);
-  const mapping = draft.languageMapping ?? defaultLanguageMapping();
-  const options = KEYBOARD_LOCALES.toSorted(
-    languageComparator(
-      uiLocale,
-      [...mapping.order, ...mapping.slots],
-      (locale) => keyboardLabel(locale, uiLocale),
-    ),
+  const copy = configurationMessages[uiLocale];
+  const [draft, setDraft] = useState(
+    importedConfiguration?.settings ?? initialSettings,
   );
+  const [preferences, setPreferences] = useState(
+    importedConfiguration?.preferences ?? initialPreferences,
+  );
+  const [selectedKey, setSelectedKey] = useState<string | null>(null);
+  const dialogRef = useRef<HTMLDivElement>(null);
+  const [sessionOnly, setSessionOnly] = useState(false);
+  const firstSelect = useRef<HTMLButtonElement>(null);
+  const mapping = draft.languageMapping ?? defaultLanguageMapping();
+  const priority = [...mapping.order, ...mapping.slots];
 
   function changeLanguage(
     group: 'order' | 'slots',
@@ -72,8 +89,22 @@ export function SettingsDialog({
   }
 
   return (
-    <Dialog open={open} onOpenChange={onOpenChange}>
+    <Dialog
+      open={open}
+      onOpenChange={(nextOpen, details) => {
+        if (!nextOpen && details.reason === 'escape-key' && selectedKey) {
+          details.cancel();
+          dialogRef.current
+            ?.querySelector<HTMLButtonElement>('.keycap[aria-pressed="true"]')
+            ?.focus({ preventScroll: true });
+          setSelectedKey(null);
+          return;
+        }
+        onOpenChange(nextOpen);
+      }}
+    >
       <DialogContent
+        ref={dialogRef}
         className="settings-dialog"
         showCloseButton={false}
         dir={['he', 'ar'].includes(uiLocale) ? 'rtl' : 'ltr'}
@@ -90,7 +121,7 @@ export function SettingsDialog({
           className={settingsFormClasses}
           onSubmit={(event) => {
             event.preventDefault();
-            if (onSave(draft)) {
+            if (onSave(draft, preferences)) {
               onOpenChange(false);
             } else {
               setSessionOnly(true);
@@ -114,6 +145,78 @@ export function SettingsDialog({
             <X size={18} />
           </DialogClose>
           <div className="settings-body">
+            <section className="mb-8" aria-labelledby="settings-general">
+              <h3 id="settings-general">{copy.general}</h3>
+              <div className="grid gap-4 sm:grid-cols-2">
+                <div className="grid min-w-0 gap-2 text-sm">
+                  <span>{copy.interface}</span>
+                  <SettingsLanguagePicker
+                    value={preferences.uiLocale}
+                    options={UI_LOCALES}
+                    priority={priority}
+                    label={copy.interface}
+                    triggerRef={firstSelect}
+                    onValueChange={(uiLocale) =>
+                      setPreferences({
+                        ...preferences,
+                        uiLocale,
+                        keyboardLocale: uiLocale,
+                      })
+                    }
+                  />
+                </div>
+                <div className="grid min-w-0 gap-2 text-sm">
+                  <span>{copy.keyboard}</span>
+                  <SettingsLanguagePicker
+                    value={preferences.keyboardLocale}
+                    options={KEYBOARD_LOCALES}
+                    priority={priority}
+                    label={copy.keyboard}
+                    onValueChange={(keyboardLocale) =>
+                      setPreferences({ ...preferences, keyboardLocale })
+                    }
+                  />
+                </div>
+
+                {(
+                  [
+                    [
+                      'platform',
+                      copy.platform,
+                      PLATFORMS.map((id) => [id, platformNames[id]]),
+                    ],
+                    [
+                      'theme',
+                      copy.theme,
+                      [
+                        ['system', copy.system],
+                        ['vesper', m.themeDark],
+                        ['vesper_light', m.themeLight],
+                      ],
+                    ],
+                  ] as const
+                ).map(([field, label, values]) => (
+                  <label key={field} className="grid min-w-0 gap-2 text-sm">
+                    {label}
+                    <select
+                      value={preferences[field]}
+                      onChange={(event) =>
+                        setPreferences({
+                          ...preferences,
+                          [field]: event.target.value,
+                        })
+                      }
+                    >
+                      {values.map(([id, name]) => (
+                        <option key={id} value={id}>
+                          {name}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                ))}
+              </div>
+            </section>
             <section aria-labelledby="settings-language-map">
               <h3 id="settings-language-map">{text.map}</h3>
               <p className="text-muted-foreground mb-4 text-xs leading-relaxed">
@@ -126,33 +229,19 @@ export function SettingsDialog({
                 </legend>
                 <p>{text.pairHint}</p>
                 <div className="settings-pair-fields">
-                  <label>
+                  <div className="settings-language-field">
                     <span>{text.first}</span>
-                    <select
-                      ref={firstSelect}
+                    <SettingsLanguagePicker
                       value={mapping.order[0]}
-                      onChange={(e) =>
-                        changeLanguage(
-                          'order',
-                          0,
-                          e.target.value as KeyboardLocale,
-                        )
+                      options={KEYBOARD_LOCALES}
+                      priority={priority}
+                      label={text.first}
+                      disabledValue={mapping.order[1]}
+                      onValueChange={(locale) =>
+                        changeLanguage('order', 0, locale)
                       }
-                    >
-                      {options.map((locale) => (
-                        <option
-                          key={locale}
-                          value={locale}
-                          disabled={locale === mapping.order[1]}
-                        >
-                          {keyboardLabel(locale, uiLocale)}
-                          {isExperimentalKeyboard(locale)
-                            ? ` — ${m.experimental}`
-                            : ''}
-                        </option>
-                      ))}
-                    </select>
-                  </label>
+                    />
+                  </div>
                   <Button
                     type="button"
                     variant="ghost"
@@ -171,32 +260,19 @@ export function SettingsDialog({
                   >
                     <ArrowLeftRight size={18} />
                   </Button>
-                  <label>
+                  <div className="settings-language-field">
                     <span>{text.second}</span>
-                    <select
+                    <SettingsLanguagePicker
                       value={mapping.order[1]}
-                      onChange={(e) =>
-                        changeLanguage(
-                          'order',
-                          1,
-                          e.target.value as KeyboardLocale,
-                        )
+                      options={KEYBOARD_LOCALES}
+                      priority={priority}
+                      label={text.second}
+                      disabledValue={mapping.order[0]}
+                      onValueChange={(locale) =>
+                        changeLanguage('order', 1, locale)
                       }
-                    >
-                      {options.map((locale) => (
-                        <option
-                          key={locale}
-                          value={locale}
-                          disabled={locale === mapping.order[0]}
-                        >
-                          {keyboardLabel(locale, uiLocale)}
-                          {isExperimentalKeyboard(locale)
-                            ? ` — ${m.experimental}`
-                            : ''}
-                        </option>
-                      ))}
-                    </select>
-                  </label>
+                    />
+                  </div>
                 </div>
               </fieldset>
               <p className={settingsSlotsDescriptionClasses}>
@@ -204,7 +280,7 @@ export function SettingsDialog({
               </p>
               <div className="settings-slots-grid">
                 {mapping.slots.map((locale, index) => (
-                  <label className="mapping-card settings-slot" key={index}>
+                  <div className="mapping-card settings-slot" key={index}>
                     <span className={settingsSlotHeadingClasses}>
                       <span className="language-mark">S{index + 1}</span>
                       <bdi dir="ltr">
@@ -212,30 +288,40 @@ export function SettingsDialog({
                         <kbd>{['J', 'K', 'L', ';'][index]}</kbd>
                       </bdi>
                     </span>
-                    <select
+                    <SettingsLanguagePicker
                       value={locale}
-                      aria-label={`S${index + 1}`}
-                      onChange={(e) =>
-                        changeLanguage(
-                          'slots',
-                          index,
-                          e.target.value as KeyboardLocale,
-                        )
+                      options={KEYBOARD_LOCALES}
+                      priority={priority}
+                      label={`S${index + 1}`}
+                      onValueChange={(locale) =>
+                        changeLanguage('slots', index, locale)
                       }
-                    >
-                      {options.map((option) => (
-                        <option key={option} value={option}>
-                          {keyboardLabel(option, uiLocale)}
-                          {isExperimentalKeyboard(option)
-                            ? ` — ${m.experimental}`
-                            : ''}
-                        </option>
-                      ))}
-                    </select>
-                  </label>
+                    />
+                  </div>
                 ))}
               </div>
             </section>
+            <SymbolMapEditor
+              selected={selectedKey}
+              onSelect={setSelectedKey}
+              languageSlots={mapping.slots}
+              platform={preferences.platform}
+              keyboardLocale={preferences.keyboardLocale}
+              value={draft.symbolMap ?? {}}
+              onChange={(symbolMap) => setDraft({ ...draft, symbolMap })}
+            />
+            <ConfigurationTransfer
+              value={configuration(draft, preferences)}
+              initialError={importError}
+              onImport={(value) => {
+                setDraft(value.settings);
+                setPreferences(value.preferences);
+                setSessionOnly(false);
+              }}
+            />
+            {importedConfiguration && (
+              <output className="mt-4 block text-sm">{copy.loaded}</output>
+            )}
             {sessionOnly && (
               <output className={settingsStorageNoteClasses}>
                 {text.sessionOnly}
@@ -247,7 +333,15 @@ export function SettingsDialog({
               type="button"
               variant="ghost"
               className="settings-reset"
-              onClick={() => setDraft(DEFAULT_SETTINGS)}
+              onClick={() => {
+                setDraft(DEFAULT_SETTINGS);
+                setPreferences({
+                  uiLocale,
+                  keyboardLocale: uiLocale,
+                  theme: 'system',
+                  platform: detectPlatform(navigator),
+                });
+              }}
             >
               <RotateCcw size={16} />
               {text.reset}

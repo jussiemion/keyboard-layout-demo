@@ -1,6 +1,6 @@
 .settings-dialog {
-  width: min(720px, calc(100vw - 32px));
-  max-width: min(720px, calc(100vw - 32px));
+  width: min(920px, calc(100vw - 32px));
+  max-width: min(920px, calc(100vw - 32px));
   max-height: calc(100dvh - 32px);
   padding: 0;
   gap: 0;
@@ -67,7 +67,7 @@
   margin-top: 14px;
 }
 
-.settings-pair-fields label {
+.settings-pair-fields .settings-language-field {
   display: grid;
   gap: 8px;
   min-width: 0;
@@ -176,4 +176,258 @@
 
 main {
   flex: 1;
+}
+
+@media (max-width: 640px) {
+  .settings-dialog {
+    width: calc(100vw - 16px);
+    max-width: calc(100vw - 16px);
+  }
+}
+
+/* Selected keys reveal their layer colors; custom assignments have a yellow tint. */
+.virtual-keyboard[data-appearance='editor'] .keycap {
+  --editor-base: var(--key-base);
+  --editor-primary: var(--accent-ink);
+  --editor-secondary: var(--key-secondary);
+  --editor-base-opacity: 0.75;
+  --editor-primary-opacity: 0.55;
+  --editor-secondary-opacity: 0.6;
+}
+
+.virtual-keyboard[data-appearance='editor'] .keycap[data-customized='true'] {
+  --custom-key-color: light-dark(#a67c00, #e7c75f);
+}
+
+.virtual-keyboard[data-appearance='editor']
+  .keycap[data-customized='true']:not([aria-pressed='true']):not(
+    :focus-visible
+  ) {
+  background-color: color-mix(
+    in srgb,
+    var(--custom-key-color) 12%,
+    var(--secondary)
+  );
+  border-color: color-mix(in srgb, var(--custom-key-color) 55%, var(--border));
+}
+
+.custom-key-marker {
+  background-color: var(--custom-key-color, var(--primary));
+}
+
+.keycap[aria-pressed='true'] .custom-key-marker {
+  background-color: var(--primary);
+}
+
+.virtual-keyboard[data-appearance='editor'] .keycap.quick-key {
+  --editor-primary: var(--accent-ink);
+  --editor-primary-opacity: 0.9;
+}
+
+.virtual-keyboard[data-appearance='editor'] .keycap[aria-pressed='true'] {
+  --editor-base-opacity: 1;
+  --editor-primary-opacity: 1;
+  --editor-secondary-opacity: 1;
+  --editor-base: var(--key-base);
+  --editor-primary: light-dark(
+    var(--mode-neutral-ink),
+    var(--mode-neutral-fill)
+  );
+  --editor-secondary: var(--accent-ink);
+}
+
+.virtual-keyboard[data-appearance='editor'] .keycap .key-base,
+.virtual-keyboard[data-appearance='editor'] .keycap .key-alternate,
+.virtual-keyboard[data-appearance='editor'] .keycap .space-legend {
+  color: var(--editor-base);
+  opacity: var(--editor-base-opacity);
+}
+
+.virtual-keyboard[data-appearance='editor'] .keycap .primary-symbol {
+  color: var(--editor-primary);
+  opacity: var(--editor-primary-opacity);
+}
+
+.virtual-keyboard[data-appearance='editor'] .keycap .secondary-symbol {
+  color: var(--editor-secondary);
+  opacity: var(--editor-secondary-opacity);
+}
+
+/* Returning focus from the picker must not turn a form field into a link. */
+.settings-language-trigger,
+.settings-language-trigger:focus-visible {
+  color: var(--foreground);
+  background-color: var(--card);
+  border-color: var(--border);
+}
+
+.settings-dialog,
+.settings-dialog select,
+.settings-language-trigger {
+  text-align: start;
+}
+
+/* Content may determine bidi direction; alignment follows the surrounding UI. */
+.settings-dialog[dir='ltr'] .settings-symbol-input {
+  text-align: left;
+}
+
+.settings-dialog[dir='rtl'] .settings-symbol-input {
+  text-align: right;
+}
+
+.symbol-palette-dialog {
+  width: min(760px, calc(100vw - 24px));
+  max-width: none;
+  height: min(800px, calc(100dvh - 48px));
+  max-height: calc(100dvh - 24px);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.symbol-palette-results {
+  flex: 1;
+  position: relative;
+  min-height: 100px;
+  min-width: 0;
+  padding-inline: 4px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.symbol-palette-dialog > :not(.symbol-palette-results) {
+  flex-shrink: 0;
+}
+
+.symbol-palette-search:focus-within {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--primary) 14%, transparent);
+}
+
+.symbol-palette-category,
+.symbol-palette-category:focus-visible {
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--sub);
+}
+
+.symbol-palette-category:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: -2px;
+}
+
+.symbol-palette-category[aria-pressed='true'] {
+  border-color: var(--primary);
+  background: color-mix(in srgb, var(--primary) 10%, var(--background));
+  color: var(--accent-ink);
+}
+
+.symbol-palette-preview {
+  height: 61px;
+  border-top: 1px solid var(--border);
+  padding-top: 12px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  overflow: hidden;
+}
+
+.symbol-palette-preview-glyph {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--accent-ink);
+  font-size: 28px;
+}
+
+.symbol-palette-grid {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+
+.symbol-palette-row {
+  position: absolute;
+  inset-inline: 0;
+  display: grid;
+  gap: 6px;
+  height: 48px;
+}
+
+.symbol-palette-tile {
+  display: block;
+  width: 100%;
+  height: 48px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--foreground);
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.symbol-palette-tile:hover,
+.symbol-palette-tile[aria-pressed='true'],
+.symbol-palette-tile:focus-visible {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: var(--background);
+  outline: 2px solid var(--primary);
+  outline-offset: -2px;
+}
+
+@media (width <= 640px) {
+  .symbol-palette-dialog {
+    height: min(800px, calc(100dvh - 32px));
+    padding: 16px;
+    gap: 10px;
+  }
+}
+
+@font-face {
+  font-family: 'Palette Math';
+  src: url('/fonts/palette-math.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+20D0-20EF, U+25CC;
+}
+
+[data-symbol-font='math'] {
+  font-family: 'Palette Math', var(--font-text);
+}
+
+@font-face {
+  font-family: 'Palette Symbols';
+  src: url('/fonts/palette-symbols.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+20D0-20EF, U+25CC;
+}
+
+[data-symbol-font='symbols'] {
+  font-family: 'Palette Symbols', var(--font-text);
+}
+
+@font-face {
+  font-family: 'Palette Symbols2';
+  src: url('/fonts/palette-symbols2.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+20D0-20EF, U+25CC;
+}
+
+[data-symbol-font='symbols2'] {
+  font-family: 'Palette Symbols2', var(--font-text);
 }

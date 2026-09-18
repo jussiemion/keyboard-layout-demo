@@ -22,7 +22,13 @@ import { useLocale } from '@/components/locale-provider';
 import { modifierNames } from '@/lib/keyboard';
 import { TranslatedText } from '@/components/translated-text';
 import { helpExamples, exampleLanguageName } from '@/lib/help-examples';
-import type { KeyboardLocale } from '@/lib/typing-engine';
+import {
+  layout,
+  actionLabel,
+  type LayoutKey,
+  type KeyboardLocale,
+} from '@/lib/typing-engine';
+import { configurationMessages } from '@/lib/configuration-messages';
 import { helpMessages } from '@/lib/help-messages';
 
 function Keys({ children }: { children: ReactNode }) {
@@ -34,9 +40,11 @@ function Keys({ children }: { children: ReactNode }) {
 }
 
 export function HelpContent({
+  layoutKeys = layout,
   keyboardLocale,
   languageConfig,
 }: {
+  layoutKeys?: readonly LayoutKey[];
   keyboardLocale: KeyboardLocale;
   languageConfig: {
     order: readonly KeyboardLocale[];
@@ -47,6 +55,17 @@ export function HelpContent({
   const h = helpMessages[uiLocale];
   const sample = helpExamples(keyboardLocale);
   const modifiers = modifierNames(platform);
+  const modeExamples = [
+    layoutKeys.find(
+      (key) => key.quick && (key.primary.text || key.primary.dead),
+    ),
+    layoutKeys.find((key) => key.code === 'KeyC'),
+    layoutKeys.find((key) => key.code === 'KeyC'),
+  ];
+  const stressKey =
+    layoutKeys.find((key) => key.secondary.dead === 'acute') ??
+    layoutKeys.find((key) => key.primary.dead === 'acute');
+
   return (
     <>
       <DialogHeader>
@@ -84,8 +103,19 @@ export function HelpContent({
                       </>
                     )}
                     {mode === 0 ? ' + ' : ' → '}
-                    <kbd>{mode === 0 ? '-' : 'C'}</kbd> ={' '}
-                    <ResultSymbol>{['—', '©', '¢'][mode]}</ResultSymbol>
+                    {modeExamples[mode] ? (
+                      <kbd>{modeExamples[mode].label}</kbd>
+                    ) : (
+                      <em>{configurationMessages[uiLocale].empty}</em>
+                    )}{' '}
+                    ={' '}
+                    <ResultSymbol>
+                      {actionLabel(
+                        modeExamples[mode]?.[
+                          mode === 2 ? 'secondary' : 'primary'
+                        ] ?? {},
+                      ) || <em>{configurationMessages[uiLocale].empty}</em>}
+                    </ResultSymbol>
                   </Keys>
                 </dd>
               </div>
@@ -104,12 +134,16 @@ export function HelpContent({
             />
           </p>{' '}
           <div className={helpSymbolStripClasses}>
-            {['-', '/', ',', '.'].map((key, index) => (
-              <Keys key={key}>
-                <kbd>{modifiers.alt}</kbd> + <kbd>{key}</kbd> ={' '}
-                <ResultSymbol>{['—', '…', '«', '»'][index]}</ResultSymbol>
-              </Keys>
-            ))}
+            {layoutKeys
+              .filter(
+                (key) => key.quick && (key.primary.text || key.primary.dead),
+              )
+              .map((entry) => (
+                <Keys key={entry.key}>
+                  <kbd>{modifiers.alt}</kbd> + <kbd>{entry.label}</kbd> ={' '}
+                  <ResultSymbol>{actionLabel(entry.primary)}</ResultSymbol>
+                </Keys>
+              ))}
           </div>
         </section>
         <section
@@ -143,16 +177,24 @@ export function HelpContent({
                     </Keys>
                   </dd>
                 </div>
-                <div>
-                  <dt>{h.stress}</dt>
-                  <dd>
-                    <Keys>
-                      <kbd>{modifiers.alt}</kbd> → <kbd>{modifiers.alt}</kbd> →{' '}
-                      <kbd>/</kbd> → <kbd>{sample.letter}</kbd> ={' '}
-                      <ResultSymbol>{sample.stressed}</ResultSymbol>
-                    </Keys>
-                  </dd>
-                </div>
+                {stressKey && (
+                  <div>
+                    <dt>{h.stress}</dt>
+                    <dd>
+                      <Keys>
+                        <kbd>{modifiers.alt}</kbd> →{' '}
+                        {stressKey.secondary.dead === 'acute' && (
+                          <>
+                            <kbd>{modifiers.alt}</kbd> →{' '}
+                          </>
+                        )}
+                        <kbd>{stressKey.label}</kbd> →{' '}
+                        <kbd>{sample.letter}</kbd> ={' '}
+                        <ResultSymbol>{sample.stressed}</ResultSymbol>
+                      </Keys>
+                    </dd>
+                  </div>
+                )}
               </dl>
               <p className={helpCaptionClasses}>
                 {exampleLanguageName(sample.language, uiLocale)}:{' '}

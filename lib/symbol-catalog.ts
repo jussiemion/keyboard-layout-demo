@@ -1,3 +1,4 @@
+import { qualifyEmojiKeycap } from './symbol-presentation.ts';
 import { isPopularSymbol, popularSymbolPosition } from './symbol-popular.ts';
 import { loadData as loadStandardNames } from './symbol-standard-names/index.ts';
 import { searchCatalogItems } from './symbol-catalog-search.ts';
@@ -33,9 +34,11 @@ const standardNameBySymbol = standardNames as Record<string, string>;
 const categories = new Map<string, SymbolCategory>();
 const records = data as unknown as Record<string, CatalogRecord>;
 const items = new Map<string, SymbolSearchItem>();
-for (const [symbol, [category, unicodeName, translations]] of Object.entries(
-  records,
-).sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0))) {
+for (const [
+  sourceSymbol,
+  [category, unicodeName, translations],
+] of Object.entries(records).sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0))) {
+  const symbol = qualifyEmojiKeycap(sourceSymbol);
   if (!validAction({ text: symbol })) {
     continue;
   }
@@ -55,7 +58,8 @@ for (const [symbol, [category, unicodeName, translations]] of Object.entries(
   ) as Record<UiLocale, string>;
   items.set(symbol, {
     symbol,
-    standardName: standardNameBySymbol[symbol],
+    standardName:
+      standardNameBySymbol[symbol] ?? standardNameBySymbol[sourceSymbol],
     names,
     aliases: Object.fromEntries(
       UI_LOCALES.map((locale) => [

@@ -38,6 +38,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from '@/components/ui/dialog';
+import { layout, type LayoutKey } from '@/lib/typing-engine';
 import { searchSymbolItems } from '@/lib/symbol-search-index';
 import {
   groupSymbolSearchResults,
@@ -56,11 +57,13 @@ function symbolId(symbol: string) {
 }
 
 export function SymbolSearchPanel({
+  layoutKeys = layout,
   modifierLabel,
   typographyEnabled,
   onOpenChange,
   onHelpRequest,
 }: {
+  layoutKeys?: readonly LayoutKey[];
   modifierLabel: string;
   typographyEnabled: boolean;
   onOpenChange: () => void;
@@ -148,8 +151,8 @@ export function SymbolSearchPanel({
   }, [open, onOpenChange, onHelpRequest, typographyEnabled]);
 
   const results = useMemo(
-    () => searchSymbolItems(query, uiLocale),
-    [query, uiLocale],
+    () => searchSymbolItems(query, uiLocale, layoutKeys),
+    [query, uiLocale, layoutKeys],
   );
   const groups = useMemo(
     () => groupSymbolSearchResults(results, Boolean(query.trim())),

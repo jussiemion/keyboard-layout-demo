@@ -4322,7 +4322,7 @@
       "bindings": []
     },
     {
-      "symbol": "#⃣",
+      "symbol": "#️⃣",
       "standardName": "keycap: #",
       "names": {
         "ru": "клавиши: #",
@@ -4466,7 +4466,7 @@
       "bindings": []
     },
     {
-      "symbol": "*⃣",
+      "symbol": "*️⃣",
       "standardName": "keycap: *",
       "names": {
         "ru": "клавиши: *",
@@ -4634,7 +4634,7 @@
       "bindings": []
     },
     {
-      "symbol": "0⃣",
+      "symbol": "0️⃣",
       "standardName": "keycap: 0",
       "names": {
         "ru": "клавиша 0",
@@ -4682,7 +4682,7 @@
       "bindings": []
     },
     {
-      "symbol": "1⃣",
+      "symbol": "1️⃣",
       "standardName": "keycap: 1",
       "names": {
         "ru": "клавиша 1",
@@ -4730,7 +4730,7 @@
       "bindings": []
     },
     {
-      "symbol": "2⃣",
+      "symbol": "2️⃣",
       "standardName": "keycap: 2",
       "names": {
         "ru": "клавиша 2",
@@ -4778,7 +4778,7 @@
       "bindings": []
     },
     {
-      "symbol": "3⃣",
+      "symbol": "3️⃣",
       "standardName": "keycap: 3",
       "names": {
         "ru": "клавиша 3",
@@ -4826,7 +4826,7 @@
       "bindings": []
     },
     {
-      "symbol": "4⃣",
+      "symbol": "4️⃣",
       "standardName": "keycap: 4",
       "names": {
         "ru": "клавиша 4",
@@ -4874,7 +4874,7 @@
       "bindings": []
     },
     {
-      "symbol": "5⃣",
+      "symbol": "5️⃣",
       "standardName": "keycap: 5",
       "names": {
         "ru": "клавиша 5",
@@ -4922,7 +4922,7 @@
       "bindings": []
     },
     {
-      "symbol": "6⃣",
+      "symbol": "6️⃣",
       "standardName": "keycap: 6",
       "names": {
         "ru": "клавиша 6",
@@ -4970,7 +4970,7 @@
       "bindings": []
     },
     {
-      "symbol": "7⃣",
+      "symbol": "7️⃣",
       "standardName": "keycap: 7",
       "names": {
         "ru": "клавиша 7",
@@ -5018,7 +5018,7 @@
       "bindings": []
     },
     {
-      "symbol": "8⃣",
+      "symbol": "8️⃣",
       "standardName": "keycap: 8",
       "names": {
         "ru": "клавиша 8",
@@ -5066,7 +5066,7 @@
       "bindings": []
     },
     {
-      "symbol": "9⃣",
+      "symbol": "9️⃣",
       "standardName": "keycap: 9",
       "names": {
         "ru": "клавиша 9",
@@ -6337,28 +6337,28 @@
     " ": "punctuation",
     "!": "punctuation",
     "\"": "punctuation",
-    "#⃣": "emoji",
+    "#️⃣": "emoji",
     "&": "punctuation",
     "'": "punctuation",
     "(": "punctuation",
     ")": "punctuation",
     "*": "punctuation",
-    "*⃣": "emoji",
+    "*️⃣": "emoji",
     "+": "math",
     ",": "punctuation",
     "-": "punctuation",
     ".": "punctuation",
     "/": "punctuation",
-    "0⃣": "emoji",
-    "1⃣": "emoji",
-    "2⃣": "emoji",
-    "3⃣": "emoji",
-    "4⃣": "emoji",
-    "5⃣": "emoji",
-    "6⃣": "emoji",
-    "7⃣": "emoji",
-    "8⃣": "emoji",
-    "9⃣": "emoji",
+    "0️⃣": "emoji",
+    "1️⃣": "emoji",
+    "2️⃣": "emoji",
+    "3️⃣": "emoji",
+    "4️⃣": "emoji",
+    "5️⃣": "emoji",
+    "6️⃣": "emoji",
+    "7️⃣": "emoji",
+    "8️⃣": "emoji",
+    "9️⃣": "emoji",
     ":": "punctuation",
     ";": "punctuation",
     "<": "math",

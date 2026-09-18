@@ -22,8 +22,8 @@ stack. No `local()` source or external font service is used.
 The main font keeps all upstream characters and the variable weight axis
 (100–900). Its width axis is fixed at normal width to reduce the download. Small
 symbol subsets use Unicode ranges so they only participate for the listed
-characters. All modified fonts have new family names. Every WOFF2 is preloaded
-and uses `font-display: swap`.
+characters. All modified fonts have new family names. The original interface
+WOFF2 files are preloaded and uses `font-display: swap`.
 
 Letters and combining marks are provided together by the main font, including
 double acute U+030B. OpenType accent composition and mark positioning remain
@@ -105,3 +105,28 @@ The Arabic fallback follows Layout Mono in the stack and handles Arabic blocks.
 Arabic UI text disables letter spacing so joining is preserved. Font checks
 include Arabic marks and lam-alef, Turkish dotted/dotless i, and Vietnamese tone
 combinations. No remote font requests are made by the application.
+
+## Symbol palette
+
+Three small, renamed Noto subsets (`Palette Math`, `Palette Symbols`, and
+`Palette Symbols2`) display U+20D0–U+20EF on a dotted circle independently of
+installed system fonts. CSS selects a family that contains the complete cluster.
+These fonts load on demand when the corresponding marks are displayed; they are
+not preloaded. Rebuild them from the sources and licenses in `fonts.json`:
+
+```sh
+python3 tools/build-palette-fonts.py /path/to/palette-font-sources
+bun run check:fonts
+```
+
+The builder expects `Math.ttf`, `Symbols.ttf`, `Symbols2.ttf` and matching
+`Math-OFL.txt`, `Symbols-OFL.txt`, `Symbols2-OFL.txt` files in that directory.
+
+The full Unicode catalog is larger than the bundled font coverage. In
+particular, U+1F8D0–U+1F8D8 are not present in these Noto sources; their display
+still depends on a suitable system font. Emoji also depend on system emoji
+support. Arch-based systems can install `noto-fonts-emoji` in addition to
+`noto-fonts` and `noto-fonts-cjk`. These packages do not guarantee coverage of
+every catalog entry. Keycap selections use the fully qualified base + U+FE0F +
+U+20E3 sequence. Bundled fonts affect the demo, not text rendering in other
+applications.

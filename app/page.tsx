@@ -1,20 +1,24 @@
 'use client';
 
+import { OnScreenKeyboard } from '@/components/on-screen-keyboard';
+
+import { resolveSymbolMap } from '@/lib/symbol-map';
+import {
+  decodeConfiguration,
+  type Configuration,
+} from '@/lib/configuration-link';
+import { configurationMessages } from '@/lib/configuration-messages';
+import { getThemePreference, setThemePreference } from '@/lib/theme';
 import { PreliminaryIndicator } from '@/components/preliminary-indicator';
 import { applicationSchema } from '@/lib/seo';
 
-import {
-  homeMarkClasses,
-  helpCloseClasses,
-  arrowClusterClasses,
-} from '@/components/layout-classes';
-
-import { keyboardLabel } from '@/lib/keyboard-locales';
+import { helpCloseClasses } from '@/components/layout-classes';
 
 import { SeoContent } from '@/components/seo-content';
 import { helpMessages } from '@/lib/help-messages';
 
 import {
+  setUiLocale,
   getInitialKeyboardLocale,
   subscribeToInitialKeyboardLocale,
 } from '@/lib/i18n';
@@ -25,24 +29,13 @@ import { restoreInputCaret } from '@/lib/input-caret';
 
 import {
   useEffect,
+  useMemo,
   useLayoutEffect,
   useRef,
   useState,
   useSyncExternalStore,
-  type CSSProperties,
 } from 'react';
-import {
-  CornerDownLeft,
-  ArrowLeft,
-  ArrowRight,
-  ArrowUp,
-  ArrowDown,
-  Delete,
-  RotateCcw,
-  TriangleAlert,
-  BookOpen,
-  X,
-} from 'lucide-react';
+import { RotateCcw, TriangleAlert, BookOpen, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { SymbolSearchPanel } from '@/components/symbol-search';
 import { GuidedTour, TourInvitation } from '@/components/guided-tour';
@@ -60,14 +53,13 @@ import {
 } from '@/lib/settings';
 import { LanguageSwitcher } from '@/components/language-switcher';
 import { PlatformSwitcher } from '@/components/platform-switcher';
-import { PLATFORM_CHANGE_EVENT, PLATFORM_STORAGE_KEY } from '@/lib/platform';
-import { BrandMarkIcon } from '@/components/brand-mark';
 import {
-  getKeyboardRows,
-  modifierNames,
-  moveSelection,
-  type Keycap,
-} from '@/lib/keyboard';
+  setPlatform,
+  PLATFORM_CHANGE_EVENT,
+  PLATFORM_STORAGE_KEY,
+} from '@/lib/platform';
+import { BrandMarkIcon } from '@/components/brand-mark';
+import { modifierNames, moveSelection } from '@/lib/keyboard';
 import { useLocale } from '@/components/locale-provider';
 import {
   PREFERENCES_READY_EVENT,
@@ -76,12 +68,9 @@ import {
 import {
   defaultLanguageConfig,
   LanguageSwitchController,
-  languageSlotForKey,
-  LANGUAGE_SWITCH_MARK,
 } from '@/lib/language-switching';
 import { HelpContent } from '@/components/help-content';
 import { TranslatedText } from '@/components/translated-text';
-import { keyMessageKeys } from '@/lib/messages';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import {
   Dialog,
@@ -97,12 +86,10 @@ import {
 } from '@/components/ui/tooltip';
 import {
   TypingEngine,
-  actionLabel,
-  accentKeyLabel,
   baseKey,
   nationalKeyAction,
   deleteBackward,
-  keyMap,
+  layout,
   replaceSelection,
   type Mode,
   type KeyboardLocale,
@@ -110,19 +97,9 @@ import {
 
 import { TypographyToggle } from '@/lib/typography-toggle';
 
-const arrowIcons: Partial<Record<string, typeof ArrowLeft>> = {
-  ArrowLeft,
-  ArrowRight,
-  ArrowUp,
-  ArrowDown,
-};
-
-const inactiveKeyCodes = new Set([
-  'MetaLeft',
-  'MetaRight',
-  'ContextMenu',
-  'Fn',
-]);
+function getThemePreferenceSafe() {
+  return typeof document === 'undefined' ? 'system' : getThemePreference();
+}
 
 export default function Home({
   initialLocale = 'en',
@@ -181,16 +158,19 @@ export default function Home({
   );
   const languageConfig = settings.languageMapping ?? defaultLanguageConfig();
   const [selectedLocale, setLocale] = useState<KeyboardLocale | null>(null);
-  const locale = selectedLocale ?? initialKeyboardLocale;
+  const locale =
+    selectedLocale ?? settings.keyboardLocale ?? initialKeyboardLocale;
   const activeLocale = useRef(locale);
   useEffect(() => {
     activeLocale.current = locale;
   }, [locale]);
-  const rows = getKeyboardRows(platform, locale);
   const [mode, setMode] = useState<Mode>(0);
   const [accent, setAccent] = useState<string | null>(null);
   const [held, setHeld] = useState<string[]>([]);
   const [helpOpen, setHelpOpen] = useState(false);
+  const [importedConfiguration, setImportedConfiguration] =
+    useState<Configuration | null>(null);
+  const [importError, setImportError] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [settingsSession, setSettingsSession] = useState(0);
   const menuTrigger = useRef<HTMLButtonElement>(null);
@@ -200,6 +180,38 @@ export default function Home({
   const [lastSymbol, setLastSymbol] = useState('');
   const [tourOpen, setTourOpen] = useState(false);
   const [tourTask, setTourTask] = useState<TourStep | null>(null);
+  const effectiveLayout = useMemo(
+    () => (tourOpen ? layout : resolveSymbolMap(settings.symbolMap)),
+    [settings.symbolMap, tourOpen],
+  );
+  useEffect(() => {
+    engine.current.setLayout(effectiveLayout);
+  }, [effectiveLayout]);
+  useEffect(() => {
+    const load = () => {
+      if (!window.location.hash.startsWith('#config=')) {
+        return;
+      }
+      try {
+        setImportedConfiguration(decodeConfiguration(window.location.href));
+        setImportError(false);
+      } catch {
+        setImportedConfiguration(null);
+        setImportError(true);
+      }
+      window.history.replaceState(
+        window.history.state,
+        '',
+        window.location.pathname + window.location.search,
+      );
+      setSettingsSession((session) => session + 1);
+      setSettingsOpen(true);
+    };
+    load();
+    window.addEventListener('hashchange', load);
+    return () => window.removeEventListener('hashchange', load);
+  }, []);
+
   const tourSnapshot = useRef<{
     value: string;
     locale: KeyboardLocale;
@@ -817,148 +829,6 @@ export default function Home({
     held.some((code) => code.startsWith('Alt')) &&
     !held.some((code) => /^(Control|Meta)/.test(code));
 
-  function renderKey(key: Keycap) {
-    const entry = keyMap.get(key.code);
-    const languageSlot = languageSlotForKey(key.code, languageConfig.slots);
-    const ArrowIcon = arrowIcons[key.code];
-    const isAlt = key.code.startsWith('Alt');
-    const isDisabled = Boolean(key.disabled || inactiveKeyCodes.has(key.code));
-    // Held keys share the pressed fill; released Alt/Option shows the mode.
-    const isPressed = !isDisabled && held.includes(key.code);
-    const base =
-      key.label ||
-      (key.code === 'Space'
-        ? ''
-        : accentKeyLabel(
-            baseKey(
-              key.code,
-              locale,
-              shifted,
-              caps,
-              nationalAlt &&
-                (locale !== 'he' || !entry?.quick || held.includes('AltRight')),
-            ),
-            accent,
-          ));
-    const alternateBase =
-      key.code === 'Backslash' ? baseKey(key.code, locale, !shifted, caps) : '';
-    const primary = entry ? actionLabel(entry.primary) : '';
-    const secondary = entry ? actionLabel(entry.secondary) : '';
-    const keyName = key.code.startsWith('Meta')
-      ? modifiers.meta
-      : key.code.startsWith('Alt')
-        ? modifiers.alt
-        : key.code.startsWith('Control')
-          ? modifiers.control
-          : key.code === 'Fn'
-            ? m.fnKeyInfo
-            : key.code === 'Enter' && platform === 'macos'
-              ? 'Return'
-              : keyMessageKeys[key.code]
-                ? m[keyMessageKeys[key.code]]
-                : entry?.label || key.code;
-    const accessible = `${keyName}${key.code.startsWith('Control') ? `: ${typographyEnabled ? t('typographyToggleHint', { ctrl: modifiers.control }) : t('typographyDisabledWarning', { ctrl: modifiers.control })}` : ''}${isAlt ? `: ${modeOptions[mode].mark} — ${modeOptions[mode].label}` : ''}${entry ? `: ${primary ? t('primarySymbol', { symbol: primary, modifier: modifiers.alt }) : m.emptyPrimary}; ${secondary ? t('secondarySymbol', { symbol: secondary, modifier: modifiers.alt }) : m.emptySecondary}` : ''}`;
-    return (
-      <button
-        key={key.code}
-        type="button"
-        className={`keycap ${key.label ? 'modifier' : ''} ${isAlt ? 'alt-key' : ''} ${key.code === 'Space' ? 'space-key' : ''} ${isPressed ? 'pressed' : ''} ${entry?.quick ? 'quick-key' : ''} ${key.symbol ? 'mac-modifier' : ''} ${ArrowIcon ? 'arrow-key' : ''}`}
-        style={{ '--units': key.width || 1 } as CSSProperties}
-        aria-label={
-          languageSlot
-            ? `${accessible}; ${languageSlot.label}: Caps Lock + ${key.code === 'Semicolon' ? ';' : key.code.slice(3)} — ${keyboardLabel(languageSlot.locale, uiLocale)}`
-            : accessible
-        }
-        data-key-code={key.code}
-        data-tour-key={tourTask?.keys.includes(key.code) || undefined}
-        data-mode={isAlt ? mode : undefined}
-        disabled={isDisabled}
-        onPointerDown={(event) => event.preventDefault()}
-        onMouseDown={(event) => event.preventDefault()}
-        onClick={() => virtualKey(key.code)}
-      >
-        {ArrowIcon ? (
-          <ArrowIcon size={14} aria-hidden="true" />
-        ) : key.code === 'Backspace' ? (
-          platform === 'macos' ? (
-            <span className="enter-label">
-              delete <Delete size={18} aria-hidden="true" />
-            </span>
-          ) : (
-            <Delete className="key-icon" size={18} aria-hidden="true" />
-          )
-        ) : key.code === 'Enter' ? (
-          <span className="enter-label">
-            {key.label} <CornerDownLeft size={15} />
-          </span>
-        ) : (
-          <>
-            {key.symbol && (
-              <span className="key-symbol" aria-hidden="true">
-                {key.symbol}
-              </span>
-            )}
-            <span className="key-base">
-              {base}
-              {alternateBase && alternateBase !== base && (
-                <span className="key-alternate">{alternateBase}</span>
-              )}
-            </span>
-            {key.code.startsWith('Control') && (
-              <span
-                className="ctrl-status"
-                data-enabled={typographyEnabled}
-                aria-hidden="true"
-              >
-                <span className="ctrl-status-led" />
-              </span>
-            )}
-            {isAlt && (
-              <span
-                className="mode-key-label inline-mode"
-                data-mode={mode}
-                aria-hidden="true"
-              >
-                {modeOptions[mode].mark}
-              </span>
-            )}
-          </>
-        )}
-        {(languageSlot || key.code === 'CapsLock') && (
-          <span
-            className="language-slot-label language-mark"
-            aria-hidden="true"
-          >
-            {languageSlot?.label ?? LANGUAGE_SWITCH_MARK}
-          </span>
-        )}
-        {key.code === 'Space' ? (
-          <span className="space-legend">
-            {mode === 0 ? m.space : m.nonBreakingSpace}
-          </span>
-        ) : (
-          entry && (
-            <span className="type-legends">
-              <span
-                className={`primary-symbol ${!primary ? 'empty-symbol' : ''}`}
-              >
-                {primary}
-              </span>
-              <span
-                className={`secondary-symbol ${entry.secondary.dead ? 'dead-symbol' : ''}`}
-              >
-                {secondary}
-              </span>
-            </span>
-          )
-        )}
-        {(key.code === 'KeyF' || key.code === 'KeyJ') && (
-          <span className={homeMarkClasses} />
-        )}
-      </button>
-    );
-  }
-
   return (
     <TooltipProvider delay={350}>
       <script
@@ -983,6 +853,7 @@ export default function Home({
             <nav className="header-actions" aria-label={m.headerActions}>
               <WaitlistButton onOpen={resetState} />
               <SymbolSearchPanel
+                layoutKeys={effectiveLayout}
                 typographyEnabled={typographyEnabled}
                 modifierLabel={modifiers.alt}
                 onOpenChange={() => {
@@ -1043,6 +914,7 @@ export default function Home({
                     <X />
                   </DialogClose>
                   <HelpContent
+                    layoutKeys={effectiveLayout}
                     keyboardLocale={locale}
                     languageConfig={languageConfig}
                   />
@@ -1072,14 +944,34 @@ export default function Home({
             key={settingsSession}
             open={settingsOpen}
             initialSettings={settings}
+            initialPreferences={{
+              uiLocale,
+              keyboardLocale: locale,
+              theme: getThemePreferenceSafe(),
+              platform,
+            }}
+            importedConfiguration={importedConfiguration}
+            importError={importError}
             returnFocusRef={menuTrigger}
             onOpenChange={(open) => {
               setSettingsOpen(open);
+              if (!open) {
+                setImportedConfiguration(null);
+                setImportError(false);
+              }
               resetState();
             }}
-            onSave={(next) => {
+            onSave={(next, preferences) => {
               resetState();
-              return saveSettings(next);
+              setUiLocale(preferences.uiLocale);
+              setThemePreference(preferences.theme);
+              setPlatform(preferences.platform);
+              setLocale(preferences.keyboardLocale);
+              activeLocale.current = preferences.keyboardLocale;
+              return saveSettings({
+                ...next,
+                keyboardLocale: preferences.keyboardLocale,
+              });
             }}
           />
 
@@ -1234,7 +1126,14 @@ export default function Home({
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {m.keyboardTitle} <span>3.9</span>
+                      {Object.keys(settings.symbolMap ?? {}).length &&
+                      !tourOpen ? (
+                        configurationMessages[uiLocale].custom
+                      ) : (
+                        <>
+                          {m.keyboardTitle} <span>3.9</span>
+                        </>
+                      )}
                     </a>
                   </h2>
                   <PlatformSwitcher
@@ -1289,28 +1188,21 @@ export default function Home({
                 className="keyboard-frame"
                 aria-label={m.keyboardLanguage}
               >
-                <div
-                  dir="ltr"
-                  className={`virtual-keyboard platform-${platform} mode-${mode}${typographyEnabled ? '' : ' typography-disabled'}`}
-                >
-                  {rows.map((row, index) => (
-                    <div className="keyboard-row" key={index}>
-                      {row.map((key) =>
-                        'keys' in key ? (
-                          <div
-                            key={key.code}
-                            className={arrowClusterClasses}
-                            style={{ '--units': key.width } as CSSProperties}
-                          >
-                            {key.keys.map(renderKey)}
-                          </div>
-                        ) : (
-                          renderKey(key)
-                        ),
-                      )}
-                    </div>
-                  ))}
-                </div>
+                <OnScreenKeyboard
+                  platform={platform}
+                  locale={locale}
+                  layoutKeys={effectiveLayout}
+                  mode={mode}
+                  held={held}
+                  shifted={shifted}
+                  caps={caps}
+                  nationalAlt={nationalAlt}
+                  accent={accent}
+                  typographyEnabled={typographyEnabled}
+                  languageSlots={languageConfig.slots}
+                  highlightedKeys={tourTask?.keys}
+                  onKeyPress={virtualKey}
+                />
               </section>
             </section>
             <output className="sr-only">

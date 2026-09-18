@@ -155,3 +155,11 @@ void test('emoji category recognizes complete Unicode sequences without ordinary
     assert.equal(isEmoji(symbol), false, symbol);
   }
 });
+
+void test('keycap selections are fully qualified emoji without duplicate variants', () => {
+  for (const base of '#*0123456789') {
+    const qualified = `${base}\ufe0f\u20e3`;
+    assert.ok(symbolCatalog.some((item) => item.symbol === qualified));
+    assert.ok(!symbolCatalog.some((item) => item.symbol === `${base}\u20e3`));
+  }
+});

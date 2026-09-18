@@ -293,6 +293,11 @@ main {
 
 .keycap {
   position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: 16px 20px;
+  gap: 4px 2px;
+  align-content: start;
   flex: var(--units) 1 0;
   min-width: 0;
   height: 57px;
@@ -317,7 +322,7 @@ main {
   background: var(--accent);
 }
 
-.keycap:focus-visible {
+.keycap:is(:focus-visible, [aria-pressed='true']) {
   z-index: 2;
 }
 
@@ -327,12 +332,18 @@ main {
 .key-icon,
 .enter-label,
 .space-legend {
+  grid-area: 1 / 1 / 2 / -1;
   transition:
     color 180ms ease,
     opacity 180ms ease;
 }
 
 .key-base {
+  grid-area: 1 / 1 / 2 / -1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   display: block;
   font-size: 14px;
   line-height: 1.15;
@@ -340,16 +351,26 @@ main {
 }
 
 .type-legends {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 1px;
-  margin-top: 4px;
+  display: contents;
   font-family: var(--font-text);
-  line-height: 1.1;
+}
+
+.primary-symbol,
+.secondary-symbol {
+  grid-column: 2;
+  text-align: right;
+  grid-row: 2;
+  min-width: 0;
+  height: 20px;
+  line-height: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .primary-symbol {
+  grid-column: 1;
+  text-align: left;
   font-size: 18px;
   color: var(--accent-ink);
   opacity: 0.9;
@@ -388,9 +409,9 @@ main {
 }
 
 .modifier {
-  display: flex;
+  grid-template-rows: minmax(0, 1fr);
+  align-content: stretch;
   align-items: center;
-  justify-content: flex-start;
 }
 
 .modifier .key-base {
@@ -399,11 +420,14 @@ main {
 }
 
 .key-icon {
+  grid-area: 1 / 1 / 2 / -1;
+  justify-self: end;
   color: var(--sub);
   margin-left: auto;
 }
 
 .enter-label {
+  grid-area: 1 / 1 / 2 / -1;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -453,9 +477,9 @@ main {
 }
 
 .space-key {
-  display: flex;
+  grid-template-rows: minmax(0, 1fr);
+  align-content: stretch;
   align-items: center;
-  justify-content: center;
 }
 
 .space-legend {
@@ -609,13 +633,17 @@ main {
 }
 
 .mac-modifier {
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: space-between;
+  grid-template-rows: 16px 20px;
+  align-items: start;
+}
+
+.mac-modifier .key-base {
+  grid-row: 2;
 }
 
 .key-symbol {
-  align-self: flex-end;
+  grid-area: 1 / 1 / 2 / -1;
+  justify-self: end;
   color: var(--sub);
   font-size: 14px;
   line-height: 1;
@@ -625,7 +653,7 @@ main {
 }
 
 .alt-key .key-symbol {
-  align-self: flex-start;
+  justify-self: start;
   color: var(--primary);
 }
 
@@ -642,6 +670,9 @@ main {
 }
 
 .arrow-key {
+  grid-template: minmax(0, 1fr) / minmax(0, 1fr);
+  align-content: stretch;
+  gap: 0;
   height: auto;
   min-height: 0;
   padding: 0;
@@ -679,7 +710,11 @@ main {
   box-shadow: none;
 }
 
-button:not(.keycap):not(.choice-radio):focus-visible,
+button:not(.keycap):not(.choice-radio):not(
+    .settings-language-trigger,
+    .symbol-palette-category,
+    .symbol-palette-tile
+  ):focus-visible,
 a:focus-visible {
   color: var(--primary);
   border-color: transparent;
@@ -695,12 +730,14 @@ a:focus-visible {
 
 /* A gentle tint distinguishes navigation from the solid pressed fill. */
 
-.keycap:not(.pressed):focus-visible {
+.keycap:not(.pressed):is(:focus-visible, [aria-pressed='true']) {
   background-color: color-mix(in srgb, var(--primary) 12%, var(--secondary));
   border-color: var(--key-border-hover);
 }
 
-.keycap:not(.pressed):focus-visible :is(.key-base, .key-icon, .key-symbol) {
+.virtual-keyboard:not([data-appearance='editor'])
+  .keycap:not(.pressed):is(:focus-visible, [aria-pressed='true'])
+  :is(.key-base, .key-icon, .key-symbol) {
   color: var(--primary);
   opacity: 1;
 }

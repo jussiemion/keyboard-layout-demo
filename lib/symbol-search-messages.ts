@@ -9,6 +9,7 @@ export const symbolSearchMessages: Record<
     trigger: string;
     placeholder: string;
     empty: string;
+    unavailable: string;
     howTo: string;
     about: string;
     aliasesLabel: string;
@@ -19,6 +20,7 @@ export const symbolSearchMessages: Record<
   }
 > = {
   tr: {
+    unavailable: 'Katalog yüklenemedi. Popüler simgeler kullanılabilir.',
     backToResults: 'Sonuçlara dön',
     leftModifier: 'Sol {alt}',
     title: 'Simge arama',
@@ -34,6 +36,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Gezin',
   },
   nl: {
+    unavailable:
+      'De catalogus kon niet worden geladen. Populaire symbolen blijven beschikbaar.',
     backToResults: 'Terug naar resultaten',
     leftModifier: 'Linker {alt}',
     title: 'Symbolen zoeken',
@@ -49,6 +53,7 @@ export const symbolSearchMessages: Record<
     navigate: 'Navigeren',
   },
   vi: {
+    unavailable: 'Không thể tải danh mục. Các ký hiệu phổ biến vẫn có sẵn.',
     backToResults: 'Về kết quả',
     leftModifier: '{alt} trái',
     title: 'Tìm ký hiệu',
@@ -64,6 +69,7 @@ export const symbolSearchMessages: Record<
     navigate: 'Điều hướng',
   },
   ar: {
+    unavailable: 'تعذر تحميل القائمة. لا تزال الرموز الشائعة متاحة.',
     backToResults: 'العودة إلى النتائج',
     leftModifier: '{alt} الأيسر',
     title: 'البحث عن رموز',
@@ -80,6 +86,8 @@ export const symbolSearchMessages: Record<
   },
 
   en: {
+    unavailable:
+      'Could not load the catalog. Popular symbols are still available.',
     backToResults: 'Back to results',
     leftModifier: 'Left {alt}',
     title: 'Symbol search',
@@ -95,12 +103,14 @@ export const symbolSearchMessages: Record<
     navigate: 'Navigate',
   },
   ru: {
+    unavailable:
+      'Не удалось загрузить каталог. Популярные символы по-прежнему доступны.',
     backToResults: 'К результатам поиска',
     leftModifier: 'Левый {alt}',
     title: 'Поиск знаков',
     trigger: 'Найти знак…',
     placeholder: 'Название, ассоциация или сам знак…',
-    empty: 'Знаки не найдены',
+    empty: 'Ничего не найдено',
     howTo: 'Как набирать',
     about: 'Что это за знак',
     aliasesLabel: 'Также известен как',
@@ -110,6 +120,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Выбор',
   },
   pl: {
+    unavailable:
+      'Nie udało się wczytać katalogu. Popularne symbole są nadal dostępne.',
     backToResults: 'Wróć do wyników',
     leftModifier: 'Lewy {alt}',
     title: 'Wyszukiwanie znaków',
@@ -125,6 +137,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Wybierz',
   },
   fr: {
+    unavailable:
+      'Impossible de charger le catalogue. Les symboles populaires restent disponibles.',
     backToResults: 'Retour aux résultats',
     leftModifier: '{alt} gauche',
     title: 'Recherche de signes',
@@ -140,6 +154,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Parcourir',
   },
   de: {
+    unavailable:
+      'Der Katalog konnte nicht geladen werden. Beliebte Zeichen bleiben verfügbar.',
     backToResults: 'Zurück zu den Ergebnissen',
     leftModifier: 'Linke {alt}-Taste',
     title: 'Zeichensuche',
@@ -155,6 +171,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Auswählen',
   },
   es: {
+    unavailable:
+      'No se pudo cargar el catálogo. Los símbolos populares siguen disponibles.',
     backToResults: 'Volver a los resultados',
     leftModifier: '{alt} izquierdo',
     title: 'Buscar signos',
@@ -170,6 +188,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Navegar',
   },
   pt: {
+    unavailable:
+      'Não foi possível carregar o catálogo. Os símbolos populares continuam disponíveis.',
     backToResults: 'Voltar aos resultados',
     leftModifier: '{alt} esquerdo',
     title: 'Pesquisar sinais',
@@ -185,6 +205,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Navegar',
   },
   it: {
+    unavailable:
+      'Impossibile caricare il catalogo. I simboli popolari restano disponibili.',
     backToResults: 'Torna ai risultati',
     leftModifier: '{alt} sinistro',
     title: 'Ricerca simboli',
@@ -200,6 +222,8 @@ export const symbolSearchMessages: Record<
     navigate: 'Naviga',
   },
   ro: {
+    unavailable:
+      'Catalogul nu a putut fi încărcat. Simbolurile populare rămân disponibile.',
     backToResults: 'Înapoi la rezultate',
     leftModifier: '{alt} din stânga',
     title: 'Căutare simboluri',
@@ -215,6 +239,7 @@ export const symbolSearchMessages: Record<
     navigate: 'Navigare',
   },
   he: {
+    unavailable: 'לא ניתן לטעון את הקטלוג. הסימנים הנפוצים עדיין זמינים.',
     backToResults: 'חזרה לתוצאות',
     leftModifier: '{alt} שמאלי',
     title: 'חיפוש סימנים',
