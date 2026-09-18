@@ -80,7 +80,10 @@ The picker opens immediately on **Popular** using a small bundled collection.
 Searching or choosing another category loads the full catalog; searches then run
 in a background worker. **All symbols** is the last category. No query or
 configuration is sent to a search service. Arrow keys navigate the symbol grid,
-Enter chooses a symbol, and Esc closes only the picker.
+and Enter chooses a symbol. The palette replaces the settings content inside the
+same dialog. Its header identifies the edited key and mode. Choosing a symbol
+returns to the editor; **Back** or <kbd>Esc</kbd> returns without changing the
+assignment. The draft and editor scroll position are preserved.
 
 Changes affect physical typing, screen keys, symbol search and cheat-sheet
 examples. National M0 letters and Shift cycles stay unchanged. The guided tour

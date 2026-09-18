@@ -1,6 +1,9 @@
 'use client';
 
-import { SymbolActionPicker } from '@/components/symbol-action-picker';
+import {
+  SymbolActionPicker,
+  type PaletteRequest,
+} from '@/components/symbol-action-picker';
 import { OnScreenKeyboard } from '@/components/on-screen-keyboard';
 
 import { useState, useCallback } from 'react';
@@ -33,7 +36,9 @@ export function SymbolMapEditor({
   keyboardLocale,
   languageSlots,
   onChange,
+  onOpenPalette,
 }: {
+  onOpenPalette: (request: PaletteRequest) => void;
   value: SymbolMap;
   selected: string | null;
   onSelect: (key: string | null) => void;
@@ -58,6 +63,9 @@ export function SymbolMapEditor({
       return;
     }
     const fit = () => {
+      if (!frame.clientWidth) {
+        return;
+      }
       frame.style.setProperty(
         '--keyboard-scale',
         String(frame.clientWidth / 960),
@@ -175,6 +183,8 @@ export function SymbolMapEditor({
                 </legend>
                 <SymbolActionPicker
                   value={entry[field]}
+                  keyLabel={entry.label || entry.code}
+                  onOpenPalette={onOpenPalette}
                   label={`M${index + 1}`}
                   onChange={(action) => update(field, action)}
                 />

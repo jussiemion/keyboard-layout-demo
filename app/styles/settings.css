@@ -1,4 +1,6 @@
 .settings-dialog {
+  display: flex;
+  flex-direction: column;
   width: min(920px, calc(100vw - 32px));
   max-width: min(920px, calc(100vw - 32px));
   max-height: calc(100dvh - 32px);
@@ -276,12 +278,10 @@ main {
   text-align: right;
 }
 
-.symbol-palette-dialog {
-  width: min(760px, calc(100vw - 24px));
-  max-width: none;
-  height: min(800px, calc(100dvh - 48px));
-  max-height: calc(100dvh - 24px);
+.symbol-palette-screen {
   display: flex;
+  flex: 1;
+  min-height: 0;
   flex-direction: column;
   gap: 12px;
   padding: 20px;
@@ -298,7 +298,7 @@ main {
   overscroll-behavior: contain;
 }
 
-.symbol-palette-dialog > :not(.symbol-palette-results) {
+.symbol-palette-screen > :not(.symbol-palette-results) {
   flex-shrink: 0;
 }
 
@@ -386,8 +386,7 @@ main {
 }
 
 @media (width <= 640px) {
-  .symbol-palette-dialog {
-    height: min(800px, calc(100dvh - 32px));
+  .symbol-palette-screen {
     padding: 16px;
     gap: 10px;
   }

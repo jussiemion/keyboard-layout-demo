@@ -1,5 +1,10 @@
 'use client';
 
+import SymbolPalette from '@/components/symbol-palette';
+import type { PaletteRequest } from '@/components/symbol-action-picker';
+import { symbolSearchMessages } from '@/lib/symbol-search-messages';
+import { tourMessages } from '@/lib/tour-messages';
+
 import { SettingsLanguagePicker } from '@/components/settings-language-picker';
 
 import { SymbolMapEditor } from '@/components/symbol-map-editor';
@@ -23,8 +28,8 @@ import {
   settingsStorageNoteClasses,
 } from '@/components/layout-classes';
 
-import { useRef, useState, type RefObject } from 'react';
-import { ArrowLeftRight, RotateCcw, X } from 'lucide-react';
+import { useRef, useState, useLayoutEffect, type RefObject } from 'react';
+import { ArrowLeft, ArrowLeftRight, RotateCcw, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import {
   Dialog,
@@ -75,6 +80,23 @@ export function SettingsDialog({
   const dialogRef = useRef<HTMLDivElement>(null);
   const [sessionOnly, setSessionOnly] = useState(false);
   const firstSelect = useRef<HTMLButtonElement>(null);
+  const [palette, setPalette] = useState<
+    (PaletteRequest & { height?: number }) | null
+  >(null);
+  const paletteTrigger = useRef<HTMLButtonElement | null>(null);
+  useLayoutEffect(() => {
+    if (palette) {
+      dialogRef.current
+        ?.querySelector<HTMLInputElement>('.symbol-palette-search input')
+        ?.focus({ preventScroll: true });
+    } else if (paletteTrigger.current) {
+      paletteTrigger.current.focus({ preventScroll: true });
+      paletteTrigger.current = null;
+    }
+  }, [palette]);
+  function closePalette() {
+    setPalette(null);
+  }
   const mapping = draft.languageMapping ?? defaultLanguageMapping();
   const priority = [...mapping.order, ...mapping.slots];
 
@@ -92,6 +114,11 @@ export function SettingsDialog({
     <Dialog
       open={open}
       onOpenChange={(nextOpen, details) => {
+        if (!nextOpen && details.reason === 'escape-key' && palette) {
+          details.cancel();
+          closePalette();
+          return;
+        }
         if (!nextOpen && details.reason === 'escape-key' && selectedKey) {
           details.cancel();
           dialogRef.current
@@ -106,6 +133,7 @@ export function SettingsDialog({
       <DialogContent
         ref={dialogRef}
         className="settings-dialog"
+        style={palette ? { height: palette.height } : undefined}
         showCloseButton={false}
         dir={['he', 'ar'].includes(uiLocale) ? 'rtl' : 'ltr'}
         initialFocus={(interaction) => {
@@ -117,8 +145,69 @@ export function SettingsDialog({
         }}
         finalFocus={() => returnFocusRef.current}
       >
+        <DialogHeader className="settings-header">
+          <div className="flex min-w-0 items-center gap-3">
+            {palette && (
+              <Button
+                type="button"
+                variant="outline"
+                size="icon"
+                onClick={closePalette}
+                aria-label={tourMessages[uiLocale].back}
+              >
+                <ArrowLeft size={18} className="rtl:rotate-180" />
+              </Button>
+            )}
+            <DialogTitle className="flex flex-wrap items-center gap-x-3 gap-y-1">
+              {palette ? (
+                <>
+                  <span>{symbolSearchMessages[uiLocale].title}</span>
+                  <span
+                    className="inline-flex items-center gap-2 whitespace-nowrap"
+                    dir="ltr"
+                  >
+                    <kbd>{palette.keyLabel}</kbd> ·{' '}
+                    <span
+                      className="inline-mode"
+                      data-mode={palette.label.slice(1)}
+                    >
+                      {palette.label}
+                    </span>
+                  </span>
+                </>
+              ) : (
+                text.title
+              )}
+            </DialogTitle>
+          </div>
+        </DialogHeader>
+        <DialogClose
+          render={
+            <Button
+              type="button"
+              variant="ghost"
+              size="icon"
+              className="settings-close"
+              aria-label={text.close}
+            />
+          }
+        >
+          <X size={18} />
+        </DialogClose>
+        {palette && (
+          <div className="symbol-palette-screen">
+            <SymbolPalette
+              value={palette.value}
+              onChoose={(action) => {
+                palette.onChoose(action);
+                closePalette();
+              }}
+            />
+          </div>
+        )}
         <form
           className={settingsFormClasses}
+          style={palette ? { display: 'none' } : undefined}
           onSubmit={(event) => {
             event.preventDefault();
             if (onSave(draft, preferences)) {
@@ -128,22 +217,6 @@ export function SettingsDialog({
             }
           }}
         >
-          <DialogHeader className="settings-header">
-            <DialogTitle>{text.title}</DialogTitle>
-          </DialogHeader>
-          <DialogClose
-            render={
-              <Button
-                type="button"
-                variant="ghost"
-                size="icon"
-                className="settings-close"
-                aria-label={text.close}
-              />
-            }
-          >
-            <X size={18} />
-          </DialogClose>
           <div className="settings-body">
             <section className="mb-8" aria-labelledby="settings-general">
               <h3 id="settings-general">{copy.general}</h3>
@@ -302,6 +375,13 @@ export function SettingsDialog({
               </div>
             </section>
             <SymbolMapEditor
+              onOpenPalette={(request) => {
+                paletteTrigger.current = request.trigger;
+                setPalette({
+                  ...request,
+                  height: dialogRef.current?.getBoundingClientRect().height,
+                });
+              }}
               selected={selectedKey}
               onSelect={setSelectedKey}
               languageSlots={mapping.slots}
@@ -331,7 +411,7 @@ export function SettingsDialog({
           <footer className="settings-footer">
             <Button
               type="button"
-              variant="ghost"
+              variant="outline"
               className="settings-reset"
               onClick={() => {
                 setDraft(DEFAULT_SETTINGS);
