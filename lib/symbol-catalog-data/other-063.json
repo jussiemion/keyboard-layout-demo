@@ -1,0 +1,2778 @@
+{
+  "🧑‍🍳": [
+    "other",
+    "",
+    {
+      "en": ["cook", "chef | cook"],
+      "ru": ["повар", "повар | шеф | шеф-повар"],
+      "pl": ["kucharz", "kucharz | szef kuchni"],
+      "fr": [
+        "cuisinier (tous genres)",
+        "chef | cuisinier | cuisinier (tous genres) | cuisinière"
+      ],
+      "de": ["Koch/Köchin", "Koch/Köchin | Kochen"],
+      "es": ["chef", "chef | cocinero | cocinillas | guisandero | pinche"],
+      "pt": ["chef de cozinha", "chef | chef de cozinha | cozinheiro"],
+      "it": ["persona che cucina", "chef | cuoco | persona che cucina"],
+      "ro": [
+        "bucătar sau bucătăreasă",
+        "bucătar | bucătar sau bucătăreasă | bucătăreasă | chef"
+      ],
+      "he": ["טבח/ית", "טבח | טבח/ית | טבחית | שף | שפית"],
+      "ar": ["طاهي", "شيف | طاه | طاهي | طباخ"],
+      "tr": ["aşçı", "aşçı | yemek pişirme"],
+      "vi": ["đầu bếp", "đầu bếp | nấu ăn"],
+      "nl": ["kok", "chef-kok | kok"]
+    }
+  ],
+  "🧑‍🍼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person feeding baby",
+        "baby | feed | feeding | nanny | newborn | nursing | parent"
+      ],
+      "ru": [
+        "кормящий человек",
+        "забота | кормление | кормящий | малыш | новорожденный | няня | ребенок | родитель | человек"
+      ],
+      "pl": [
+        "osoba karmiąca niemowlę",
+        "karmienie | karmienie butelką | karmienie piersią | mama | mężczyzna | niemowlę | osoba | osoba karmiąca niemowlę | rodzic | tata"
+      ],
+      "fr": [
+        "personne allaitant un bébé",
+        "allaitement | bébé | biberon | homme | maman | mère | nounou | nouveau-né | papa | père | personne | personne allaitant un bébé"
+      ],
+      "de": [
+        "Person, die Baby die Flasche gibt",
+        "Baby | Flasche geben | Flasche gebende Person | Person"
+      ],
+      "es": [
+        "persona alimentando a bebé",
+        "alimentar | amamantar | bebé | lactancia | persona | persona alimentando a bebé"
+      ],
+      "pt": [
+        "pessoa alimentando bebê",
+        "alimentando | amamentação | amamentar | bebê | homem | mãe | mulher | neném | pai | pessoa | recém-nascido"
+      ],
+      "it": [
+        "persona che allatta",
+        "allattamento | babysitter | bebè | mamma | neonato | nutrire | papà | persona | persona che allatta"
+      ],
+      "ro": [
+        "persoană hrănind un bebeluș",
+        "alăptare | bărbat | bebeluș | biberon | bonă | femeie | hrănire | îngrijire | mama | nou‑născut | persoană | persoană hrănind un bebeluș | tata"
+      ],
+      "he": [
+        "הנקה של תינוק",
+        "אבא | איש | אישה | בקבוק | האכלה | הנקה | הנקה של תינוק | חלב | תינוק"
+      ],
+      "ar": [
+        "شخص يُرضع طفلاً",
+        "أبوة | أمومة | تربية | رضاعة | رضيع | رعاية | شخص | شخص يُرضع طفلاً | طفل | مرضعة | مولود"
+      ],
+      "tr": [
+        "bebek emziren kişi",
+        "anne | baba | bakıcı | bakıcılık | bebek | bebek bakıcısı | bebek emziren kişi | beslemek | emzirme | erkek | insan | kadın | kişi | yenidoğan"
+      ],
+      "vi": [
+        "người cho em bé bú",
+        "bố | cho bú | cho con bú | đàn ông | em bé | mẹ | người | người cho con bú | người cho em bé bú | phụ nữ | trẻ sơ sinh"
+      ],
+      "nl": [
+        "persoon die een baby voedt",
+        "baby | borstvoeding | oppas | ouder | pasgeboren | voeden | voeding"
+      ]
+    }
+  ],
+  "🧑‍🎄": [
+    "other",
+    "",
+    {
+      "en": [
+        "Mx Claus",
+        "celebration | Christmas | claus | fairy | fantasy | holiday | merry | Mx | santa | tale | xmas"
+      ],
+      "ru": ["Санта", "Дед Мороз | Клаус | Новый год | Рождество | Санта"],
+      "pl": [
+        "Mikołajka",
+        "Boże Narodzenie | Dziadek Mróz | Gwiazdor | Mikołaj | Mikołajka | mikołajki | osoba | prezenty | święta | Wigilia"
+      ],
+      "fr": [
+        "santa",
+        "joyeux Noël | noël | Noël | Papa Noël | Père Noël | personne | Saint-Nicolas | Santa"
+      ],
+      "de": [
+        "Weihnachtsperson",
+        "Gesicht | Gesicht mit Hut | Person | Santa Claus | Weihnachten | Weihnachtsfrau | Weihnachtshut | Weihnachtsmann | Weihnachtsmütze | Weihnachtsperson"
+      ],
+      "es": [
+        "Noel",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | Noel | santa"
+      ],
+      "pt": [
+        "noel",
+        "chapéu | feliz | festas | gorro | mamãe | natal | Noel | pessoa"
+      ],
+      "it": [
+        "Santa Claus",
+        "Babbo Natale | buon Natale | cappello di Babbo Natale | Claus | Natale | persona | Santa Claus | vacanze di Natale"
+      ],
+      "ro": [
+        "Crăciun",
+        "căciulă | Crăciun | Crăciuniță | iarnă | Moș Crăciun | poveste | sărbătoare"
+      ],
+      "he": [
+        "קלאוס",
+        "איש | אישה | גב׳ סנטה | גב’ קלאוס | חג המולד | כריסמס | סנטה | קלאוס | קריסמס"
+      ],
+      "ar": [
+        "كلوز",
+        "أمنيات | بابا نويل | بهجة | رأس السنة | سانتا كلوز | شخص | عام جديد | عيد الميلاد | كريسماس | كلوز | هدايا"
+      ],
+      "tr": [
+        "cinsiyet belirtmeyen noel karakteri",
+        "christmas | cinsiyet belirtmeyen noel karakteri | insan | mutlu noeller | mutlu yıllar | noel | noel baba | Noel figürü | santa claus | şapka | tatil | yılbaşı"
+      ],
+      "vi": [
+        "bà già Noel",
+        "bà già Noel | chúc mừng giáng sinh | giáng sinh | mũ | người | Noel | ông già noel"
+      ],
+      "nl": [
+        "kersttransgender",
+        "feestdagen | kerst | kerstdagen | kerstman | Kerstman | kerstmis | kerstmuts | kersttransgender | kerstvrouw | persoon"
+      ]
+    }
+  ],
+  "🧑‍🎓": [
+    "other",
+    "",
+    {
+      "en": ["student", "graduate | student"],
+      "ru": ["учащийся", "бакалавр | выпускник | студент | учащийся"],
+      "pl": ["student", "absolwent | student"],
+      "fr": [
+        "étudiant (tous genres)",
+        "diplôme | étudiant | étudiant (tous genres) | étudiante"
+      ],
+      "de": ["Student(in)", "Absolvent(in) | Doktorhut | Student(in) | Uni"],
+      "es": [
+        "estudiante",
+        "estudiante | graduado | licenciado | universitario"
+      ],
+      "pt": ["aluno", "aluno | estudante | graduando"],
+      "it": ["studente", "diploma | studente | studentessa"],
+      "ro": [
+        "student sau studentă",
+        "absolvent | absolventă | student | student sau studentă | studentă"
+      ],
+      "he": ["סטודנט/ית", "בוגר | בוגרת | סטודנט | סטודנט/ית | סטודנטית"],
+      "ar": ["طالِب", "خريج | طالب | طالِب"],
+      "tr": ["öğrenci", "mezun | öğrenci | talebe"],
+      "vi": ["sinh viên", "sinh viên | tốt nghiệp"],
+      "nl": ["student", "scholier | student"]
+    }
+  ],
+  "🧑‍🎤": [
+    "other",
+    "",
+    {
+      "en": ["singer", "actor | entertainer | rock | rockstar | singer | star"],
+      "ru": ["певец", "актер | звезда | певец | пение | развлечения | рок"],
+      "pl": ["piosenkarz", "aktor | artysta | gwiazda | muzyka | piosenkarz"],
+      "fr": [
+        "chanteur (tous genres)",
+        "artiste | chanteur | chanteur (tous genres) | chanteuse | rock | star"
+      ],
+      "de": ["Sänger(in)", "Entertainer(in) | Rock | Sänger(in) | Star"],
+      "es": ["cantante", "artista | cantante | estrella | rock"],
+      "pt": ["cantor", "ator | cantor | entretenimento | estrela | rock"],
+      "it": ["cantante", "attore | cantante | intrattenitore | rock | star"],
+      "ro": [
+        "cântăreț sau cântăreață",
+        "actor | actriță | cântăreață | cântăreț | cântăreț sau cântăreață | comediant | comediantă | rock | solist | solistă | vedetă"
+      ],
+      "he": [
+        "זמר/ת",
+        "אומן | אמן | אמנית | זמר | זמר/ת | זמרת | שחקן | שחקנית"
+      ],
+      "ar": ["مغنّي", "استعراضي | فنان | مطرب | مغني | مغنّي | نجم"],
+      "tr": ["şarkıcı", "aktör | aktris | gösterici | şarkıcı | star | yıldız"],
+      "vi": ["ca sĩ", "ca sĩ | diễn viên | nghệ sĩ | ngôi sao | nhạc rock"],
+      "nl": ["zanger", "acteur | entertainer | rock | ster | zanger"]
+    }
+  ],
+  "🧑‍🎨": [
+    "other",
+    "",
+    {
+      "en": ["artist", "artist | palette"],
+      "ru": ["художник", "кисти | палитра | художник"],
+      "pl": ["artysta", "artysta | malarz | paleta"],
+      "fr": ["artiste", "artiste | palette"],
+      "de": ["Künstler(in)", "Farbpalette | Künstler(in) | Maler(in)"],
+      "es": ["artista", "artista | paleta | pintor | pinturas"],
+      "pt": ["artista", "artista | paleta"],
+      "it": ["artista", "artista | tavolozza"],
+      "ro": [
+        "artist sau artistă",
+        "artist | artist sau artistă | artistă | paletă"
+      ],
+      "he": [
+        "אומן/ית",
+        "אומן | אומן/ית | אומנות | אומנית | אמן | אמנות | אמנית | צבעים"
+      ],
+      "ar": ["فنان رسم", "رسام | فنان | فنان رسم"],
+      "tr": ["ressam", "palet | ressam | sanatçı"],
+      "vi": ["họa sĩ", "bảng màu | họa sĩ"],
+      "nl": ["kunstenaar", "kunstenaar | palet"]
+    }
+  ],
+  "🧑‍🏫": [
+    "other",
+    "",
+    {
+      "en": ["teacher", "instructor | lecturer | professor | teacher"],
+      "ru": [
+        "педагог",
+        "инструктор | педагог | преподаватель | профессор | учитель"
+      ],
+      "pl": ["nauczyciel", "instruktor | nauczyciel | pedagog | profesor"],
+      "fr": [
+        "personnel enseignant",
+        "enseignant | enseignante | formateur | formatrice | personnel enseignant | professeur"
+      ],
+      "de": ["Lehrer(in)", "Dozent(in) | Lehrer(in) | Professor(in)"],
+      "es": [
+        "docente",
+        "docente | educador | enseñanza | instructor | maestro | profesor"
+      ],
+      "pt": [
+        "professora na escola",
+        "instrutora | professora | professora na escola"
+      ],
+      "it": [
+        "insegnante",
+        "insegnante | maestra | maestro | professore | professoressa"
+      ],
+      "ro": [
+        "profesor sau profesoară",
+        "instructor | învățător | profesoară | profesor | profesor sau profesoară"
+      ],
+      "he": [
+        "מצוות המורים",
+        "מדריך | מדריכה | מורה | מלמדת | מרצה | עוזר הוראה | צוות הוראה"
+      ],
+      "ar": ["أستاذ", "أستاذ | مدرس | معلم"],
+      "tr": ["öğretmen", "doçent | eğitimci | öğretmen | profesör"],
+      "vi": ["giáo viên", "giáo sư | giáo viên | người hướng dẫn"],
+      "nl": ["docent", "docent | leraar | professor"]
+    }
+  ],
+  "🧑‍🏭": [
+    "other",
+    "",
+    {
+      "en": ["factory worker", "assembly | factory | industrial | worker"],
+      "ru": ["рабочий", "завод | промышленность | рабочий"],
+      "pl": [
+        "pracownik fabryki",
+        "fabryka | montażysta | pracownik | pracownik fabryki"
+      ],
+      "fr": [
+        "ouvrier (tous genres)",
+        "assemblage | industrie | ouvrier | ouvrier (tous genres) | ouvrière | usine"
+      ],
+      "de": [
+        "Fabrikarbeiter(in)",
+        "Arbeiter(in) | Fabrik | Fabrikarbeiter(in) | industriell | Montage"
+      ],
+      "es": [
+        "profesional industrial",
+        "fábrica | montaje | obrero | operario | profesional industrial | trabajador"
+      ],
+      "pt": [
+        "funcionário de fábrica",
+        "fábrica | funcionário de fábrica | industrial | montagem | trabalhador"
+      ],
+      "it": [
+        "persona che lavora in fabbrica",
+        "assemblaggio | fabbrica | industria | operaio | persona che lavora in fabbrica"
+      ],
+      "ro": [
+        "muncitor sau muncitoare în fabrică",
+        "colectiv | fabrică | industrial | muncitoare | muncitor | muncitor sau muncitoare în fabrică"
+      ],
+      "he": ["פועל/ת", "בית חרושת | מפעל | פועל | פועל/ת | פועלת | תעשייה"],
+      "ar": ["عامل في مصنع", "تجميع | صناعة | عامل | عامل في مصنع | مصنع"],
+      "tr": [
+        "fabrika işçisi",
+        "endüstri | fabrika | fabrika işçisi | işçi | montaj | sanayi"
+      ],
+      "vi": [
+        "công nhân nhà máy",
+        "công nghiệp | công nhân | công nhân nhà máy | lắp ráp | nhà máy"
+      ],
+      "nl": [
+        "fabrieksarbeider",
+        "arbeider | fabriek | industrieel | lopende band"
+      ]
+    }
+  ],
+  "🧑‍💻": [
+    "other",
+    "",
+    {
+      "en": [
+        "technologist",
+        "coder | computer | developer | inventor | software | technologist"
+      ],
+      "ru": [
+        "инженер",
+        "инженер | ноутбук | программист | разработчик | технарь"
+      ],
+      "pl": [
+        "technolog",
+        "deweloper | oprogramowanie | programista | technolog | wynalazca"
+      ],
+      "fr": [
+        "informaticien (tous genres)",
+        "développeur | développeuse | informaticien | informaticien (tous genres) | informaticienne | logiciels | technologie"
+      ],
+      "de": [
+        "IT-Experte/IT-Expertin",
+        "Bildschirm | Computer | Entwickler(in) | IT-Experte/IT-Expertin"
+      ],
+      "es": [
+        "profesional de la tecnología",
+        "desarrollador | informático | profesional de la tecnología | programador | software | tecnólogo"
+      ],
+      "pt": [
+        "programador",
+        "desenvolvedor | inventor | programador | software | tecnólogo"
+      ],
+      "it": [
+        "persona esperta di tecnologia",
+        "inventore | persona esperta di tecnologia | programmatore | software | sviluppatore | tecnologo"
+      ],
+      "ro": [
+        "specialist sau specialistă IT",
+        "dezvoltator | inventatoare | inventator | programatoare | programator | software | specialist IT | specialist sau specialistă IT | specialistă IT | tehnic | tehnolog | tehnologă"
+      ],
+      "he": [
+        "טכנולוג/ית",
+        "טכנולוג | טכנולוג/ית | טכנולוגית | ממציא | מפתח | מפתחת | מתכנת | מתכנתת"
+      ],
+      "ar": [
+        "خبير تكنولوجيا",
+        "تقني | خبير تكنولوجيا | عالم تكنولوجيا | مبرمج | مصمم أكواد"
+      ],
+      "tr": [
+        "teknoloji uzmanı",
+        "geliştirici | kodlayıcı | mucit | teknolog | teknoloji uzmanı | yazılım | yazılımcı"
+      ],
+      "vi": [
+        "kỹ sư công nghệ",
+        "kỹ sư công nghệ | lập trình viên | người phát minh | nhà phát triển | phần mềm"
+      ],
+      "nl": [
+        "technoloog",
+        "ontwikkelaar | programmeur | techneut | technoloog | uitvinder"
+      ]
+    }
+  ],
+  "🧑‍💼": [
+    "other",
+    "",
+    {
+      "en": [
+        "office worker",
+        "architect | business | manager | office | white-collar | worker"
+      ],
+      "ru": [
+        "офисный работник",
+        "белый воротничок | бизнес | менеджер | офис | офисный работник"
+      ],
+      "pl": [
+        "pracownik biurowy",
+        "architekt | biznesmen | menedżer | praca biurowa | pracownik biurowy"
+      ],
+      "fr": [
+        "employé de bureau (tous genres)",
+        "affaires | architecte | bureau | employé de bureau | employé de bureau (tous genres) | employée de bureau"
+      ],
+      "de": [
+        "Büroangestellte(r)",
+        "Architekt(in) | Büroangestellte(r) | Business | Manager(in) | Schlips und Kragen"
+      ],
+      "es": [
+        "oficinista",
+        "arquitecto | director | ejecutivo | empresa | oficinista"
+      ],
+      "pt": [
+        "trabalhador de escritório",
+        "arquiteto | colarinho branco | gerente | negócios | trabalhador de escritório"
+      ],
+      "it": [
+        "persona che fa un lavoro d’ufficio",
+        "architetto | business | impiegato | manager | persona che fa un lavoro d’ufficio"
+      ],
+      "ro": [
+        "funcționar sau funcționară",
+        "arhitect | director | funcționar | funcționar sau funcționară | funcționară | guler alb | manager"
+      ],
+      "he": [
+        "עובד/ת משרד",
+        "אדריכל | אדריכלית | מנהל | מנהלת | עבודה משרדית | עובד/ת משרד | עסק | צווארון לבן"
+      ],
+      "ar": ["موظف مكتب", "شركة | مدير | مهندس | موظف | موظف مكتب"],
+      "tr": [
+        "ofis çalışanı",
+        "beyaz yakalı | iş yeri | mimar | müdür | ofis çalışanı | yönetici"
+      ],
+      "vi": [
+        "nhân viên văn phòng",
+        "công việc văn phòng | kiến trúc sư | kinh doanh | người quản lý | nhân viên văn phòng"
+      ],
+      "nl": [
+        "kantoormedewerker",
+        "architect | bedrijf | kantoormedewerker | manager"
+      ]
+    }
+  ],
+  "🧑‍🔧": [
+    "other",
+    "",
+    {
+      "en": ["mechanic", "electrician | mechanic | plumber | tradesperson"],
+      "ru": ["механик", "механик | сантехник | специалист | электрик"],
+      "pl": ["mechanik", "elektryk | hydraulik | mechanik"],
+      "fr": [
+        "mécanicien (tous genres)",
+        "artisan | électricien | électricienne | mécanicien | mécanicien (tous genres) | mécanicienne | plombier"
+      ],
+      "de": [
+        "Mechaniker(in)",
+        "Elektriker(in) | Klempner(in) | Mechaniker(in)"
+      ],
+      "es": [
+        "profesional de la mecánica",
+        "electricista | fontanero | mecánico | operario | profesional de la mecánica | técnico"
+      ],
+      "pt": [
+        "mecânico trabalhando",
+        "eletricista | encanador | mecânico | mecânico trabalhando | prestador de serviço"
+      ],
+      "it": [
+        "meccanico",
+        "elettricista | idraulico | meccanico | tecnico specializzato"
+      ],
+      "ro": ["mecanic", "electrician | instalator | mecanic | meseriaș"],
+      "he": [
+        "מכונאי/ת",
+        "אינסטלטור | אינסטלטורית | חשמלאי | חשמלאית | מכונאי | מכונאי/ת | מכונאית | שרברב"
+      ],
+      "ar": [
+        "خبير ميكانيكي",
+        "تاجر | حرفي | خبير ميكانيكي | سباك | كهربائي | ميكانيكي"
+      ],
+      "tr": ["tamirci", "elektrikçi | tamirci | tesisatçı"],
+      "vi": ["thợ máy", "thợ điện | thợ máy | thợ sửa ống nước | thợ thủ công"],
+      "nl": ["monteur", "elektricien | handelsman | loodgieter | monteur"]
+    }
+  ],
+  "🧑‍🔬": [
+    "other",
+    "",
+    {
+      "en": [
+        "scientist",
+        "biologist | chemist | engineer | mathematician | physicist | scientist"
+      ],
+      "ru": ["ученый", "биолог | инженер | наука | ученый | физик | химик"],
+      "pl": ["naukowiec", "biolog | chemik | fizyk | inżynier | naukowiec"],
+      "fr": ["scientifique", "chimiste | scientifique"],
+      "de": [
+        "Wissenschaftler(in)",
+        "Forscher(in) | Labor | Wissenschaftler(in)"
+      ],
+      "es": [
+        "profesional de la ciencia",
+        "biólogo | científico | físico | investigador | profesional de la ciencia | químico"
+      ],
+      "pt": [
+        "cientista",
+        "biólogo | cientista | engenheiro | físico | químico"
+      ],
+      "it": [
+        "persona che lavora in campo scientifico",
+        "biologo | chimico | fisico | ingegnere | persona che lavora in campo scientifico | scienziato"
+      ],
+      "ro": [
+        "om de știință",
+        "biolog | chimist | fizician | inginer | om de știință"
+      ],
+      "he": [
+        "מדען/ית",
+        "ביולוג | ביולוגית | מדען | מדען/ית | מדענית | מהנדס | מהנדסת"
+      ],
+      "ar": ["عالِم", "بيولوجي | عالم | عالِم | فيزيائي | كيميائي | مهندس"],
+      "tr": [
+        "bilim insanı",
+        "bilim insanı | biyolog | fizikçi | kimyacı | kimyager"
+      ],
+      "vi": [
+        "nhà khoa học",
+        "kỹ sư | nhà hóa học | nhà khoa học | nhà sinh vật học | nhà vật lý"
+      ],
+      "nl": [
+        "wetenschapper",
+        "bioloog | ingenieur | natuurkundige | scheikundige | wetenschapper"
+      ]
+    }
+  ],
+  "🧑‍🚀": [
+    "other",
+    "",
+    {
+      "en": ["astronaut", "astronaut | rocket | space"],
+      "ru": ["космонавт", "астронавт | космонавт | ракета"],
+      "pl": ["astronauta", "astronauta | rakieta | statek kosmiczny"],
+      "fr": ["astronaute", "astronaute | fusée"],
+      "de": ["Astronaut(in)", "Astronaut(in) | Raumfahrt | Weltraum"],
+      "es": ["astronauta", "astronauta | cohete | espacio"],
+      "pt": ["astronauta", "astronauta | foguete"],
+      "it": ["astronauta", "astronauta | razzo"],
+      "ro": [
+        "astronaut sau astronaută",
+        "astronaut | astronaut sau astronaută | astronaută | rachetă"
+      ],
+      "he": [
+        "אסטרונאוט/ית",
+        "אסטרונאוט | אסטרונאוט/ית | אסטרונאוטית | חלל | חללית"
+      ],
+      "ar": ["رائد الفضاء", "رائد الفضاء | رائد فضاء | صاروخ"],
+      "tr": ["astronot", "astronot | roket | uzay"],
+      "vi": ["phi hành gia", "phi hành gia | tên lửa"],
+      "nl": ["astronaut", "astronaut | raket"]
+    }
+  ],
+  "🧑‍🚒": [
+    "other",
+    "",
+    {
+      "en": ["firefighter", "fire | firefighter | firetruck"],
+      "ru": ["пожарный", "пожарная машина | пожарный"],
+      "pl": ["strażak", "straż pożarna | strażak | wóz strażacki"],
+      "fr": ["pompier", "camion de pompiers | pompier"],
+      "de": ["Feuerwehrmann/-frau", "Feuerwehrhelm | Feuerwehrmann/-frau"],
+      "es": ["bombero", "bombero | camión | manguera"],
+      "pt": ["bombeiro", "bombeiro | caminhão de bombeiros"],
+      "it": ["pompiere", "pompiere | vigile del fuoco"],
+      "ro": ["pompier", "mașină de pompieri | pompier"],
+      "he": [
+        "לוחם/ת אש",
+        "כבאות | כבאי | כבאית | כיבוי | לוחם אש | לוחמת אש | מכבי אש"
+      ],
+      "ar": ["إطفائي", "إطفائي | عربة إطفاء"],
+      "tr": ["itfaiyeci", "itfaiye aracı | itfaiyeci"],
+      "vi": ["lính cứu hỏa", "lính cứu hỏa | xe cứu hỏa"],
+      "nl": ["brandweerman", "brandweerman | brandweerwagen"]
+    }
+  ],
+  "🧑‍🤝‍🧑": [
+    "other",
+    "",
+    {
+      "en": [
+        "people holding hands",
+        "bae | bestie | bff | couple | dating | flirt | friends | hand | hold | people | twins"
+      ],
+      "ru": [
+        "люди, держащиеся за руки",
+        "держаться | держащиеся | друзья | лучшие | люди | пара | руки | семья"
+      ],
+      "pl": [
+        "osoby trzymające się za ręce",
+        "ludzie | osoby trzymające się za ręce | para | rękę | za ręce"
+      ],
+      "fr": [
+        "deux personnes se tenant la main",
+        "couple | couple homosexuel | deux personnes se tenant la main | gay | main | personne | personnes se tenant par la main | poignée de main | tenir la main"
+      ],
+      "de": [
+        "sich an den Händen haltende Personen",
+        "Händchen halten | Hände | Hände halten | Menschen | Paar | Pärchen | Personen | sich an den Händen haltende Personen"
+      ],
+      "es": [
+        "dos personas de la mano",
+        "dos personas de la mano | mano | pareja | persona"
+      ],
+      "pt": [
+        "pessoas de mãos dadas",
+        "amigos | casal | dadas | gêmeos | mãos | parceiros | parceria | pessoa"
+      ],
+      "it": [
+        "persone che si tengono per mano",
+        "coppia | coppia che si tiene per mano | coppia per mano | insieme | mano nella mano | persona | persone che si tengono per mano | tenersi per mano | uniti"
+      ],
+      "ro": [
+        "persoane ținându-se de mână",
+        "a se ține de mână | cuplu | mână | persoană | persoane care se țin de mână | persoane ținându-se de mână | ținându-se de mână | ține | ținut de mână"
+      ],
+      "he": [
+        "אנשים מחזיקים ידיים",
+        "אנשים מחזיקים ידיים | זוג | יד | ידיים | מחזיקים ידיים | תאומים"
+      ],
+      "ar": [
+        "أشخاص يمسكون بأيدي بعضهم",
+        "أشخاص | أيدي | توأم | زوجان | شخص | شريكان | صداقة | ولدان | يد | يدان"
+      ],
+      "tr": [
+        "el ele tutuşan insanlar",
+        "çift | el | el ele | el ele tutuşan insanlar | kişi | tutmak | tutuşan eller"
+      ],
+      "vi": [
+        "hai người nắm tay",
+        "cặp đôi | giữ | hai người nắm tay | nắm tay | người | người nắm tay | tay"
+      ],
+      "nl": [
+        "personen hand in hand",
+        "hand | hand in hand | handen vasthouden | koppeltje | paar | personen hand in hand | persoon | samen | stel | vasthouden"
+      ]
+    }
+  ],
+  "🧑‍🦯": [
+    "other",
+    "",
+    {
+      "en": [
+        "person with white cane",
+        "accessibility | blind | cane | person | probing | white"
+      ],
+      "ru": [
+        "человек с белой тростью",
+        "инвалид | слепой | человек с белой тростью"
+      ],
+      "pl": [
+        "osoba z białą laską",
+        "dostępność | niewidoma | niewidomy | osoba z białą laską"
+      ],
+      "fr": [
+        "personne avec une canne blanche",
+        "accessibilité | aveugle | personne avec une canne blanche"
+      ],
+      "de": [
+        "Person mit Langstock",
+        "Barrierefreiheit | blind | Person mit Blindenstock | Person mit Langstock"
+      ],
+      "es": [
+        "persona con bastón",
+        "accesibilidad | ciego | invidente | persona con bastón"
+      ],
+      "pt": [
+        "pessoa com bengala para cego",
+        "acessibilidade | cego | pessoa com bengala para cego"
+      ],
+      "it": [
+        "persona con bastone di orientamento",
+        "accessibilità | cecità | persona con bastone di orientamento"
+      ],
+      "ro": [
+        "persoană cu baston pentru nevăzători",
+        "accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători"
+      ],
+      "he": [
+        "אדם עם מקל נחייה",
+        "אדם עם מקל נחייה | לקוי ראייה | נגישות | עיוור"
+      ],
+      "ar": [
+        "شخص مع عصا سير",
+        "أعمى | احتياجات خاصة | شخص مع عصا سير | ضرير | كفيف"
+      ],
+      "tr": [
+        "görme engelli bastonlu kişi",
+        "erişilebilirlik | görme engelli | görme engelli bastonlu kişi | kör"
+      ],
+      "vi": [
+        "người với gậy dò đường",
+        "khả năng tiếp cận | mù | người với gậy dò đường"
+      ],
+      "nl": [
+        "persoon met taststok",
+        "blind | persoon met taststok | toegankelijkheid"
+      ]
+    }
+  ],
+  "🧑‍🦯‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "person with white cane: facing right",
+        "accessibility | blind | cane | facing | person | probing | right | white"
+      ],
+      "ru": [
+        "человек с белой тростью: , направленные вправо",
+        ", | вправо | инвалид | направленные | слепой | человек с белой тростью"
+      ],
+      "pl": [
+        "osoba z białą laską: zwrócony w prawo",
+        "dostępność | niewidoma | niewidomy | osoba z białą laską | prawo | w | zwrócony"
+      ],
+      "fr": [
+        "personne avec une canne blanche : vers la droite",
+        "accessibilité | aveugle | droite | la | personne avec une canne blanche | vers"
+      ],
+      "de": [
+        "Person mit Langstock: nach rechts",
+        "Barrierefreiheit | blind | nach | Person mit Blindenstock | Person mit Langstock | rechts"
+      ],
+      "es": [
+        "persona con bastón: hacia la derecha",
+        "accesibilidad | ciego | derecha | hacia | invidente | la | persona con bastón"
+      ],
+      "pt": [
+        "pessoa com bengala para cego: de frente para a direita",
+        "a | acessibilidade | cego | de | direita | frente | para | pessoa com bengala para cego"
+      ],
+      "it": [
+        "persona con bastone di orientamento: a destra",
+        "a | accessibilità | cecità | destra | persona con bastone di orientamento"
+      ],
+      "ro": [
+        "persoană cu baston pentru nevăzători: orientate spre dreapta",
+        "accesibilitate | dreapta | nevăzător | orb | orientate | persoană cu baston pentru nevăzători | spre"
+      ],
+      "he": [
+        "אדם עם מקל נחייה: פונה ימינה",
+        "אדם עם מקל נחייה | ימינה | לקוי ראייה | נגישות | עיוור | פונה"
+      ],
+      "ar": [
+        "شخص مع عصا سير: متجه لليمين",
+        "أعمى | احتياجات خاصة | شخص مع عصا سير | ضرير | كفيف | لليمين | متجه"
+      ],
+      "tr": [
+        "görme engelli bastonlu kişi: sağa dönük",
+        "dönük | erişilebilirlik | görme engelli | görme engelli bastonlu kişi | kör | sağa"
+      ],
+      "vi": [
+        "người với gậy dò đường: hướng sang phải",
+        "hướng | khả năng tiếp cận | mù | người với gậy dò đường | phải | sang"
+      ],
+      "nl": [
+        "persoon met taststok: naar rechts gericht",
+        "blind | gericht | naar | persoon met taststok | rechts | toegankelijkheid"
+      ]
+    }
+  ],
+  "🧑‍🦰": [
+    "other",
+    "",
+    {
+      "en": ["person: red hair", "adult | person | red hair"],
+      "ru": [
+        "взрослый: рыжие волосы",
+        "взрослый | гендерно нейтральный | рыжие волосы | совершеннолетний"
+      ],
+      "pl": [
+        "dorosły: rude włosy",
+        "człowiek | dorosły | głowa | osoba | płeć neutralna | rude włosy | twarz"
+      ],
+      "fr": [
+        "adulte : cheveux roux",
+        "adulte | cheveux roux | genre neutre | non-genré"
+      ],
+      "de": [
+        "Person: rotes Haar",
+        "erwachsen | erwachsene Person | Mensch | Person | rotes Haar"
+      ],
+      "es": [
+        "persona adulta: pelo pelirrojo",
+        "género | neutro | pelo pelirrojo | persona adulta"
+      ],
+      "pt": [
+        "pessoa: cabelo vermelho",
+        "adulta | adulto | cabelo vermelho | pessoa"
+      ],
+      "it": [
+        "persona: capelli rossi",
+        "adulta | adulto | capelli rossi | persona"
+      ],
+      "ro": ["adult: păr roșcat", "adult | neutru | păr roșcat | persoană"],
+      "he": [
+        "אדם: שיער ג׳ינג׳י",
+        "אדם | בגיר | ללא מגדר | מבוגר | מגדר נייטרלי | שיער ג׳ינג׳י"
+      ],
+      "ar": ["بالغ: شعر أحمر", "بالغ | راشد | شخص | شعر أحمر | كبير | وجه"],
+      "tr": [
+        "yetişkin: kızıl saç",
+        "adam | insan | kişi | kızıl saç | yetişkin | yüz"
+      ],
+      "vi": [
+        "người: tóc đỏ",
+        "giới tính chung | giới tính không xác định | người | người lớn | tóc đỏ"
+      ],
+      "nl": ["volwassene: rood haar", "persoon | rood haar | volwassene"]
+    }
+  ],
+  "🧑‍🦱": [
+    "other",
+    "",
+    {
+      "en": ["person: curly hair", "adult | curly hair | person"],
+      "ru": [
+        "взрослый: кудрявые волосы",
+        "взрослый | гендерно нейтральный | кудрявые волосы | совершеннолетний"
+      ],
+      "pl": [
+        "dorosły: kręcone włosy",
+        "człowiek | dorosły | głowa | kręcone włosy | osoba | płeć neutralna | twarz"
+      ],
+      "fr": [
+        "adulte : cheveux bouclés",
+        "adulte | cheveux bouclés | genre neutre | non-genré"
+      ],
+      "de": [
+        "Person: lockiges Haar",
+        "erwachsen | erwachsene Person | lockiges Haar | Mensch | Person"
+      ],
+      "es": [
+        "persona adulta: pelo rizado",
+        "género | neutro | pelo rizado | persona adulta"
+      ],
+      "pt": [
+        "pessoa: cabelo cacheado",
+        "adulta | adulto | cabelo cacheado | pessoa"
+      ],
+      "it": [
+        "persona: capelli ricci",
+        "adulta | adulto | capelli ricci | persona"
+      ],
+      "ro": ["adult: păr creț", "adult | neutru | păr creț | persoană"],
+      "he": [
+        "אדם: שיער מתולתל",
+        "אדם | בגיר | ללא מגדר | מבוגר | מגדר נייטרלי | שיער מתולתל"
+      ],
+      "ar": ["بالغ: شعر مجعد", "بالغ | راشد | شخص | شعر مجعد | كبير | وجه"],
+      "tr": [
+        "yetişkin: kıvırcık saç",
+        "adam | insan | kişi | kıvırcık saç | yetişkin | yüz"
+      ],
+      "vi": [
+        "người: tóc xoăn",
+        "giới tính chung | giới tính không xác định | người | người lớn | tóc xoăn"
+      ],
+      "nl": [
+        "volwassene: krullend haar",
+        "krullend haar | persoon | volwassene"
+      ]
+    }
+  ],
+  "🧑‍🦲": [
+    "other",
+    "",
+    {
+      "en": ["person: bald", "adult | bald | person"],
+      "ru": [
+        "взрослый: без волос",
+        "без волос | взрослый | гендерно нейтральный | совершеннолетний"
+      ],
+      "pl": [
+        "dorosły: łysy",
+        "człowiek | dorosły | głowa | łysy | osoba | płeć neutralna | twarz"
+      ],
+      "fr": ["adulte : chauve", "adulte | chauve | genre neutre | non-genré"],
+      "de": [
+        "Person: Glatze",
+        "erwachsen | erwachsene Person | Glatze | Mensch | Person"
+      ],
+      "es": [
+        "persona adulta: sin pelo",
+        "género | neutro | persona adulta | sin pelo"
+      ],
+      "pt": ["pessoa: careca", "adulta | adulto | careca | pessoa"],
+      "it": ["persona: calvo", "adulta | adulto | calvo | persona"],
+      "ro": ["adult: chelie", "adult | chelie | neutru | persoană"],
+      "he": [
+        "אדם: קירח",
+        "אדם | בגיר | ללא מגדר | מבוגר | מגדר נייטרלי | קירח"
+      ],
+      "ar": ["بالغ: أصلع", "أصلع | بالغ | راشد | شخص | كبير | وجه"],
+      "tr": ["yetişkin: kel", "adam | insan | kel | kişi | yetişkin | yüz"],
+      "vi": [
+        "người: hói",
+        "giới tính chung | giới tính không xác định | hói | người | người lớn"
+      ],
+      "nl": ["volwassene: kaal", "kaal | persoon | volwassene"]
+    }
+  ],
+  "🧑‍🦳": [
+    "other",
+    "",
+    {
+      "en": ["person: white hair", "adult | person | white hair"],
+      "ru": [
+        "взрослый: седые волосы",
+        "взрослый | гендерно нейтральный | седые волосы | совершеннолетний"
+      ],
+      "pl": [
+        "dorosły: białe włosy",
+        "białe włosy | człowiek | dorosły | głowa | osoba | płeć neutralna | twarz"
+      ],
+      "fr": [
+        "adulte : cheveux blancs",
+        "adulte | cheveux blancs | genre neutre | non-genré"
+      ],
+      "de": [
+        "Person: weißes Haar",
+        "erwachsen | erwachsene Person | Mensch | Person | weißes Haar"
+      ],
+      "es": [
+        "persona adulta: pelo blanco",
+        "género | neutro | pelo blanco | persona adulta"
+      ],
+      "pt": [
+        "pessoa: cabelo branco",
+        "adulta | adulto | cabelo branco | pessoa"
+      ],
+      "it": [
+        "persona: capelli bianchi",
+        "adulta | adulto | capelli bianchi | persona"
+      ],
+      "ro": ["adult: păr alb", "adult | neutru | păr alb | persoană"],
+      "he": [
+        "אדם: שיער לבן",
+        "אדם | בגיר | ללא מגדר | מבוגר | מגדר נייטרלי | שיער לבן"
+      ],
+      "ar": ["بالغ: شعر أبيض", "بالغ | راشد | شخص | شعر أبيض | كبير | وجه"],
+      "tr": [
+        "yetişkin: beyaz saç",
+        "adam | beyaz saç | insan | kişi | yetişkin | yüz"
+      ],
+      "vi": [
+        "người: tóc trắng",
+        "giới tính chung | giới tính không xác định | người | người lớn | tóc trắng"
+      ],
+      "nl": ["volwassene: wit haar", "persoon | volwassene | wit haar"]
+    }
+  ],
+  "🧑‍🦼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in motorized wheelchair",
+        "accessibility | motorized | person | wheelchair"
+      ],
+      "ru": [
+        "человек в кресле-коляске с мотором",
+        "инвалид | инвалидная коляска | человек в кресле-коляске с мотором"
+      ],
+      "pl": [
+        "osoba na elektrycznym wózku inwalidzkim",
+        "dostępność | osoba na elektrycznym wózku inwalidzkim | wózek inwalidzki"
+      ],
+      "fr": [
+        "personne en fauteuil motorisé",
+        "accessibilité | fauteuil roulant | personne en fauteuil motorisé"
+      ],
+      "de": [
+        "Person in elektrischem Rollstuhl",
+        "Barrierefreiheit | Person in elektrischem Rollstuhl | Rollstuhl"
+      ],
+      "es": [
+        "persona en silla de ruedas eléctrica",
+        "accesibilidad | persona en silla de ruedas eléctrica | silla de ruedas"
+      ],
+      "pt": [
+        "pessoa em cadeira de rodas motorizada",
+        "acessibilidade | cadeira de rodas | pessoa em cadeira de rodas motorizada"
+      ],
+      "it": [
+        "persona su sedia a rotelle motorizzata",
+        "accessibilità | persona su sedia a rotelle motorizzata | sedia a rotelle"
+      ],
+      "ro": [
+        "persoană în scaun cu rotile motorizat",
+        "accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile"
+      ],
+      "he": [
+        "אדם בכסא גלגלים ממונע",
+        "אדם בכסא גלגלים ממונע | כסא גלגלים | נגישות | נכה"
+      ],
+      "ar": [
+        "شخص على كرسي متحرك كهربائي",
+        "احتياجات خاصة | شخص على كرسي متحرك كهربائي | كرسي متحرك"
+      ],
+      "tr": [
+        "elektrikli tekerlekli sandalyede kişi",
+        "elektrikli tekerlekli sandalyede kişi | erişilebilirlik | tekerlekli sandalye"
+      ],
+      "vi": [
+        "người trên xe lăn điện",
+        "khả năng tiếp cận | người trên xe lăn điện | xe lăn"
+      ],
+      "nl": [
+        "persoon in elektrische rolstoel",
+        "persoon in elektrische rolstoel | rolstoel | toegankelijkheid"
+      ]
+    }
+  ],
+  "🧑‍🦼‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in motorized wheelchair: facing right",
+        "accessibility | facing | motorized | person | right | wheelchair"
+      ],
+      "ru": [
+        "человек в кресле-коляске с мотором: , направленные вправо",
+        ", | вправо | инвалид | инвалидная коляска | направленные | человек в кресле-коляске с мотором"
+      ],
+      "pl": [
+        "osoba na elektrycznym wózku inwalidzkim: zwrócony w prawo",
+        "dostępność | osoba na elektrycznym wózku inwalidzkim | prawo | w | wózek inwalidzki | zwrócony"
+      ],
+      "fr": [
+        "personne en fauteuil motorisé : vers la droite",
+        "accessibilité | droite | fauteuil roulant | la | personne en fauteuil motorisé | vers"
+      ],
+      "de": [
+        "Person in elektrischem Rollstuhl: nach rechts",
+        "Barrierefreiheit | nach | Person in elektrischem Rollstuhl | rechts | Rollstuhl"
+      ],
+      "es": [
+        "persona en silla de ruedas eléctrica: hacia la derecha",
+        "accesibilidad | derecha | hacia | la | persona en silla de ruedas eléctrica | silla de ruedas"
+      ],
+      "pt": [
+        "pessoa em cadeira de rodas motorizada: de frente para a direita",
+        "a | acessibilidade | cadeira de rodas | de | direita | frente | para | pessoa em cadeira de rodas motorizada"
+      ],
+      "it": [
+        "persona su sedia a rotelle motorizzata: a destra",
+        "a | accessibilità | destra | persona su sedia a rotelle motorizzata | sedia a rotelle"
+      ],
+      "ro": [
+        "persoană în scaun cu rotile motorizat: orientate spre dreapta",
+        "accesibilitate | dreapta | orientate | persoană în scaun cu rotile motorizat | scaun cu rotile | spre"
+      ],
+      "he": [
+        "אדם בכסא גלגלים ממונע: פונה ימינה",
+        "אדם בכסא גלגלים ממונע | ימינה | כסא גלגלים | נגישות | נכה | פונה"
+      ],
+      "ar": [
+        "شخص على كرسي متحرك كهربائي: متجه لليمين",
+        "احتياجات خاصة | شخص على كرسي متحرك كهربائي | كرسي متحرك | لليمين | متجه"
+      ],
+      "tr": [
+        "elektrikli tekerlekli sandalyede kişi: sağa dönük",
+        "dönük | elektrikli tekerlekli sandalyede kişi | erişilebilirlik | sağa | tekerlekli sandalye"
+      ],
+      "vi": [
+        "người trên xe lăn điện: hướng sang phải",
+        "hướng | khả năng tiếp cận | người trên xe lăn điện | phải | sang | xe lăn"
+      ],
+      "nl": [
+        "persoon in elektrische rolstoel: naar rechts gericht",
+        "gericht | naar | persoon in elektrische rolstoel | rechts | rolstoel | toegankelijkheid"
+      ]
+    }
+  ],
+  "🧑‍🦽": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in manual wheelchair",
+        "accessibility | manual | person | wheelchair"
+      ],
+      "ru": [
+        "человек в кресле-коляске с ручным приводом",
+        "инвалид | инвалидная коляска | человек в кресле-коляске с ручным приводом"
+      ],
+      "pl": [
+        "osoba na wózku inwalidzkim",
+        "dostępność | osoba na wózku inwalidzkim | wózek inwalidzki"
+      ],
+      "fr": [
+        "personne en fauteuil roulant manuel",
+        "accessibilité | fauteuil roulant | personne en fauteuil roulant manuel"
+      ],
+      "de": [
+        "Person in manuellem Rollstuhl",
+        "Barrierefreiheit | Person in manuellem Rollstuhl | Rollstuhl"
+      ],
+      "es": [
+        "persona en silla de ruedas manual",
+        "accesibilidad | persona en silla de ruedas manual | silla de ruedas"
+      ],
+      "pt": [
+        "pessoa em cadeira de rodas manual",
+        "acessibilidade | cadeira de rodas | pessoa em cadeira de rodas manual"
+      ],
+      "it": [
+        "persona su sedia a rotelle manuale",
+        "accessibilità | persona su sedia a rotelle manuale | sedia a rotelle"
+      ],
+      "ro": [
+        "persoană în scaun cu rotile manual",
+        "accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile"
+      ],
+      "he": [
+        "אדם בכסא גלגלים ידני",
+        "אדם בכסא גלגלים ידני | כסא גלגלים | נגישות | נכה"
+      ],
+      "ar": [
+        "شخص على كرسي متحرك يدوي",
+        "احتياجات خاصة | شخص على كرسي متحرك يدوي | كرسي متحرك"
+      ],
+      "tr": [
+        "tekerlekli sandalyede kişi",
+        "erişilebilirlik | tekerlekli sandalye | tekerlekli sandalyede kişi"
+      ],
+      "vi": [
+        "người trên xe lăn tay",
+        "khả năng tiếp cận | người trên xe lăn tay | xe lăn"
+      ],
+      "nl": [
+        "persoon in rolstoel",
+        "persoon in rolstoel | rolstoel | toegankelijkheid"
+      ]
+    }
+  ],
+  "🧑‍🦽‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in manual wheelchair: facing right",
+        "accessibility | facing | manual | person | right | wheelchair"
+      ],
+      "ru": [
+        "человек в кресле-коляске с ручным приводом: , направленные вправо",
+        ", | вправо | инвалид | инвалидная коляска | направленные | человек в кресле-коляске с ручным приводом"
+      ],
+      "pl": [
+        "osoba na wózku inwalidzkim: zwrócony w prawo",
+        "dostępność | osoba na wózku inwalidzkim | prawo | w | wózek inwalidzki | zwrócony"
+      ],
+      "fr": [
+        "personne en fauteuil roulant manuel : vers la droite",
+        "accessibilité | droite | fauteuil roulant | la | personne en fauteuil roulant manuel | vers"
+      ],
+      "de": [
+        "Person in manuellem Rollstuhl: nach rechts",
+        "Barrierefreiheit | nach | Person in manuellem Rollstuhl | rechts | Rollstuhl"
+      ],
+      "es": [
+        "persona en silla de ruedas manual: hacia la derecha",
+        "accesibilidad | derecha | hacia | la | persona en silla de ruedas manual | silla de ruedas"
+      ],
+      "pt": [
+        "pessoa em cadeira de rodas manual: de frente para a direita",
+        "a | acessibilidade | cadeira de rodas | de | direita | frente | para | pessoa em cadeira de rodas manual"
+      ],
+      "it": [
+        "persona su sedia a rotelle manuale: a destra",
+        "a | accessibilità | destra | persona su sedia a rotelle manuale | sedia a rotelle"
+      ],
+      "ro": [
+        "persoană în scaun cu rotile manual: orientate spre dreapta",
+        "accesibilitate | dreapta | orientate | persoană în scaun cu rotile manual | scaun cu rotile | spre"
+      ],
+      "he": [
+        "אדם בכסא גלגלים ידני: פונה ימינה",
+        "אדם בכסא גלגלים ידני | ימינה | כסא גלגלים | נגישות | נכה | פונה"
+      ],
+      "ar": [
+        "شخص على كرسي متحرك يدوي: متجه لليمين",
+        "احتياجات خاصة | شخص على كرسي متحرك يدوي | كرسي متحرك | لليمين | متجه"
+      ],
+      "tr": [
+        "tekerlekli sandalyede kişi: sağa dönük",
+        "dönük | erişilebilirlik | sağa | tekerlekli sandalye | tekerlekli sandalyede kişi"
+      ],
+      "vi": [
+        "người trên xe lăn tay: hướng sang phải",
+        "hướng | khả năng tiếp cận | người trên xe lăn tay | phải | sang | xe lăn"
+      ],
+      "nl": [
+        "persoon in rolstoel: naar rechts gericht",
+        "gericht | naar | persoon in rolstoel | rechts | rolstoel | toegankelijkheid"
+      ]
+    }
+  ],
+  "🧑‍🧑‍🧒": [
+    "other",
+    "",
+    {
+      "en": ["family: adult, adult, child", "adult | child | family"],
+      "ru": [
+        "семья: двое взрослых и ребенок",
+        "семья с одним ребенком | семья: двое взрослых и ребенок"
+      ],
+      "pl": [
+        "rodzina: dorosły, dorosły, dziecko",
+        "dorosły | dziecko | rodzina: dorosły, dorosły, dziecko"
+      ],
+      "fr": [
+        "famille : adulte, adulte, enfant",
+        "adulte | enfant | famille : adulte | famille : adulte, adulte, enfant"
+      ],
+      "de": [
+        "Familie: 2 Erwachsene, 1 Kind",
+        "Erwachsene | Erwachsener | Familie | Kind"
+      ],
+      "es": ["familia: adulto, adulto, niño", "adulto | familia | niño"],
+      "pt": ["família: adulto, adulto, criança", "adulto | criança | família"],
+      "it": [
+        "famiglia: persone adulte, minore",
+        "famiglia | minore | persona adulta"
+      ],
+      "ro": ["familie: adult, adult, copil", "familie: adult, adult, copil"],
+      "he": [
+        "משפחה: הורה, הורה, ילד",
+        "הורה | ילד | ילדה | מבוגר | מבוגרת | משפחה: הורה | משפחה: הורה, הורה, ילד"
+      ],
+      "ar": [
+        "أسرة: بالغ، بالغة، طفل",
+        "أب | أسرة | أم | بالغ | بالغة | بالغين | طفل | عائلة | والد | والدة"
+      ],
+      "tr": ["aile: yetişkin, yetişkin, çocuk", "aile | çocuk | yetişkin"],
+      "vi": [
+        "gia đình: người lớn, người lớn, trẻ em",
+        "gia đình: người lớn | gia đình: người lớn, người lớn, trẻ em | người lớn | trẻ em"
+      ],
+      "nl": ["gezin: volwassene, volwassene, kind", "gezin | kind | volwassene"]
+    }
+  ],
+  "🧑‍🧑‍🧒‍🧒": [
+    "other",
+    "",
+    {
+      "en": ["family: adult, adult, child, child", "adult | child | family"],
+      "ru": [
+        "семья: двое взрослых и двое детей",
+        "семья с двумя детьми | семья: двое взрослых и двое детей"
+      ],
+      "pl": [
+        "rodzina: dorosły, dorosły, dziecko, dziecko",
+        "dorosły | dziecko | rodzina: dorosły, dorosły, dziecko, dziecko"
+      ],
+      "fr": [
+        "famille : adulte, adulte, enfant, enfant",
+        "adulte | enfant | famille : adulte | famille : adulte, adulte, enfant, enfant"
+      ],
+      "de": [
+        "Familie: 2 Erwachsene, 2 Kinder",
+        "Erwachsene | Erwachsener | Familie | Kind"
+      ],
+      "es": ["familia: adulto, adulto, niño, niño", "adulto | familia | niño"],
+      "pt": [
+        "família: adulto, adulto, criança, criança",
+        "adulto | adultos | criança | crianças | família | filha | filho"
+      ],
+      "it": [
+        "famiglia: persone adulte, minori",
+        "famiglia: persona adulta | famiglia: persona adulta, persona adulta, minore, minore | minore | persona adulta"
+      ],
+      "ro": [
+        "familie: adult, adult, copil, copil",
+        "familie: adult, adult, copil, copil"
+      ],
+      "he": [
+        "משפחה: הורה, הורה, ילד, ילד",
+        "הורה | ילד | ילדה | מבוגר | משפחה: הורה | משפחה: הורה, הורה, ילד, ילד"
+      ],
+      "ar": [
+        "أسرة: بالغ، بالغة، طفل، طفلة",
+        "أب | أخ | أخت | أسرة | أم | بنت | طفل | طفلة | عائلة | والد | والدة | ولد"
+      ],
+      "tr": [
+        "aile: yetişkin, yetişkin, çocuk, çocuk",
+        "aile | çocuk | yetişkin"
+      ],
+      "vi": [
+        "gia đình: người lớn, người lớn, trẻ em, trẻ em",
+        "gia đình: người lớn | gia đình: người lớn, người lớn, trẻ em, trẻ em | người lớn | trẻ em"
+      ],
+      "nl": [
+        "gezin: volwassene, volwassene, kind, kind",
+        "gezin | kind | volwassene"
+      ]
+    }
+  ],
+  "🧑‍🧒": [
+    "other",
+    "",
+    {
+      "en": ["family: adult, child", "adult | child | family"],
+      "ru": [
+        "семья: взрослый и ребенок",
+        "неполная семья с одним ребенком | родитель-одиночка с одним ребенком | семья: взрослый и ребенок"
+      ],
+      "pl": [
+        "rodzina: dorosły, dziecko",
+        "dorosły | dziecko | rodzina: dorosły, dziecko"
+      ],
+      "fr": [
+        "famille : adulte, enfant",
+        "enfant | famille : adulte | famille : adulte, enfant | famille monoparentale"
+      ],
+      "de": [
+        "Familie: 1 Erwachsene(r), 1 Kind",
+        "Erwachsene | Erwachsener | Familie | Kind"
+      ],
+      "es": ["familia: adulto, niño", "adulto | familia | niño"],
+      "pt": ["família: adulto, criança", "adulto | criança | família"],
+      "it": [
+        "famiglia: persona adulta, minore",
+        "famiglia: persona adulta | famiglia: persona adulta, minore | minore"
+      ],
+      "ro": ["familie: adult, copil", "familie: adult, copil"],
+      "he": [
+        "משפחה: הורה, ילד",
+        "ילד | ילדה | מבוגרת | משפחה: הורה | משפחה: הורה, ילד | משפחה: מבוגר"
+      ],
+      "ar": ["أسرة: بالغ، طفل", "أسرة | بالغ | طفل | عائلة"],
+      "tr": ["aile: yetişkin, çocuk", "aile | çocuk | yetişkin"],
+      "vi": [
+        "gia đình: người lớn, trẻ em",
+        "gia đình: người lớn | gia đình: người lớn, trẻ em | trẻ em"
+      ],
+      "nl": ["gezin: volwassene, kind", "gezin | kind | volwassene"]
+    }
+  ],
+  "🧑‍🧒‍🧒": [
+    "other",
+    "",
+    {
+      "en": ["family: adult, child, child", "adult | child | family"],
+      "ru": [
+        "семья: взрослый и двое детей",
+        "неполная семья с двумя детьми | родитель-одиночка с двумя детьми | семья: взрослый и двое детей"
+      ],
+      "pl": [
+        "rodzina: dorosły, dziecko, dziecko",
+        "dorosły | dziecko | rodzina: dorosły, dziecko, dziecko"
+      ],
+      "fr": [
+        "famille : adulte, enfant, enfant",
+        "enfant | famille : adulte | famille : adulte, enfant, enfant | famille monoparentale"
+      ],
+      "de": [
+        "Familie: 1 Erwachsene(r), 2 Kinder",
+        "Erwachsene | Erwachsener | Familie | Kind"
+      ],
+      "es": ["familia: adulto, niño, niño", "adulto | familia | niño"],
+      "pt": [
+        "família: adulto, criança, criança",
+        "adulto | crianças | família"
+      ],
+      "it": [
+        "famiglia: persona adulta, minore, minore",
+        "famiglia: persona adulta | famiglia: persona adulta, minore, minore | minore"
+      ],
+      "ro": ["familie: adult, copil, copil", "familie: adult, copil, copil"],
+      "he": [
+        "משפחה: מבוגר, מבוגרת, ילד, ילדה",
+        "ילד | ילדה | מבוגרת | משפחה: מבוגר | משפחה: מבוגר, מבוגרת, ילד, ילדה"
+      ],
+      "ar": [
+        "أسرة: بالغ، طفل، طفلة",
+        "أسرة | بالغ | بالغة | طفل | طفلة | عائلة"
+      ],
+      "tr": ["aile: yetişkin, çocuk, çocuk", "aile | çocuk | yetişkin"],
+      "vi": [
+        "gia đình: người lớn, trẻ em, trẻ em",
+        "gia đình: người lớn | gia đình: người lớn, trẻ em, trẻ em | trẻ em"
+      ],
+      "nl": ["gezin: volwassene, kind, kind", "gezin | kind | volwassene"]
+    }
+  ],
+  "🧑‍🩰": [
+    "other",
+    "",
+    {
+      "en": ["ballet dancer", "ballet | dancer"],
+      "ru": [
+        "артист балета",
+        "артист | балерина | балет | искусство | пуанты | сцена | танец | танцор"
+      ],
+      "pl": ["baletnica", "balet | tancerka | tancerz"],
+      "fr": [
+        "danseuse de ballet",
+        "ballerine | ballet | danse classique | danseuse"
+      ],
+      "de": ["Balletttänzerin", "Ballett | Tänzerin"],
+      "es": ["bailarina de ballet", "bailarín | bailarina | ballet"],
+      "pt": ["bailarina", "bailarino | balé | ballet | dançarina | dançarino"],
+      "it": ["persona che danza", "ballerina | ballerino | balletto"],
+      "ro": ["balerin sau balerină", "balet | dansatoare | dansator"],
+      "he": ["רקדן בלט", "בלט | מחול | ריקוד | רקדנית"],
+      "ar": ["راقصة باليه", "الباليه | راقصة"],
+      "tr": ["bale dansçısı", "bale | dansçı"],
+      "vi": ["vũ công ba lê", "ba lê | vũ công"],
+      "nl": ["balletdanser", "ballet | danser"]
+    }
+  ],
+  "🧑🏻": [
+    "other",
+    "",
+    {
+      "en": ["person: light skin tone", "adult | light skin tone | person"],
+      "ru": [
+        "взрослый: очень светлый тон кожи",
+        "взрослый | гендерно нейтральный | очень светлый тон кожи | совершеннолетний"
+      ],
+      "pl": [
+        "dorosły: karnacja jasna",
+        "człowiek | dorosły | głowa | karnacja jasna | osoba | płeć neutralna | twarz"
+      ],
+      "fr": [
+        "adulte : peau claire",
+        "adulte | genre neutre | non-genré | peau claire"
+      ],
+      "de": [
+        "Person: helle Hautfarbe",
+        "erwachsen | erwachsene Person | helle Hautfarbe | Mensch | Person"
+      ],
+      "es": [
+        "persona adulta: tono de piel claro",
+        "género | neutro | persona adulta | tono de piel claro"
+      ],
+      "pt": ["pessoa: pele clara", "adulta | adulto | pele clara | pessoa"],
+      "it": [
+        "persona: carnagione chiara",
+        "adulta | adulto | carnagione chiara | persona"
+      ],
+      "ro": [
+        "adult: ton deschis al pielii",
+        "adult | neutru | persoană | ton deschis al pielii"
+      ],
+      "he": [
+        "אדם: גוון עור בהיר",
+        "אדם | בגיר | גוון עור בהיר | ללא מגדר | מבוגר | מגדר נייטרלי"
+      ],
+      "ar": [
+        "بالغ: بشرة بلون فاتح",
+        "بالغ | بشرة بلون فاتح | راشد | شخص | كبير | وجه"
+      ],
+      "tr": [
+        "yetişkin: açık cilt tonu",
+        "açık cilt tonu | adam | insan | kişi | yetişkin | yüz"
+      ],
+      "vi": [
+        "người: màu da sáng",
+        "giới tính chung | giới tính không xác định | màu da sáng | người | người lớn"
+      ],
+      "nl": [
+        "volwassene: lichte huidskleur",
+        "lichte huidskleur | persoon | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍⚕": [
+    "other",
+    "",
+    {
+      "en": [
+        "health worker: light skin tone",
+        "doctor | health | healthcare | light skin tone | nurse | therapist | worker"
+      ],
+      "ru": [
+        "медицинский работник: очень светлый тон кожи",
+        "врач | доктор | медбрат | медицина | медицинский работник | медсестра | очень светлый тон кожи | терапевт"
+      ],
+      "pl": [
+        "pracownik służby zdrowia: karnacja jasna",
+        "karnacja jasna | lekarz | opieka zdrowotna | pracownik służby zdrowia | terapeuta"
+      ],
+      "fr": [
+        "professionnel de la santé (tous genres) : peau claire",
+        "docteur | infirmier | médecin | peau claire | professionnel de la santé (tous genres) | santé | thérapeute"
+      ],
+      "de": [
+        "Arzt/Ärztin: helle Hautfarbe",
+        "Arzt/Ärztin | Arztkittel | Doktor(in) | helle Hautfarbe"
+      ],
+      "es": [
+        "profesional sanitario: tono de piel claro",
+        "doctor | enfermero | médico | profesional sanitario | salud | terapeuta | tono de piel claro"
+      ],
+      "pt": [
+        "profissional de saúde: pele clara",
+        "cuidados de saúde | enfermeira | médico | pele clara | profissional de saúde | terapeuta"
+      ],
+      "it": [
+        "persona che lavora nella sanità: carnagione chiara",
+        "carnagione chiara | infermiera | infermiere | medico | persona che lavora nella sanità | sanità | terapista"
+      ],
+      "ro": [
+        "persoană lucrătoare în domeniul sănătății: ton deschis al pielii",
+        "asistentă | doctor | medic | persoană lucrătoare în domeniul sănătății | soră medicală | terapeut | ton deschis al pielii"
+      ],
+      "he": [
+        "עובד בשירותי הבריאות: גוון עור בהיר",
+        "אח | גוון עור בהיר | דוקטור | מטפל | עובד בשירותי הבריאות | רופא | תרפיסט"
+      ],
+      "ar": [
+        "موظف بقطاع الصحة: بشرة بلون فاتح",
+        "بشرة بلون فاتح | رعاية صحية | طبيب | معالج | ممرض | موظف بقطاع الصحة"
+      ],
+      "tr": [
+        "sağlık çalışanı: açık cilt tonu",
+        "açık cilt tonu | doktor | hasta bakıcı | hemşire | sağlık çalışanı | sağlık personeli | terapist"
+      ],
+      "vi": [
+        "nhân viên y tế: màu da sáng",
+        "bác sĩ | chăm sóc sức khỏe | màu da sáng | nhà trị liệu | nhân viên y tế | y tá"
+      ],
+      "nl": [
+        "gezondheidsmedewerker: lichte huidskleur",
+        "dokter | gezondheidsmedewerker | gezondheidszorg | lichte huidskleur | therapeut | verpleegster"
+      ]
+    }
+  ],
+  "🧑🏻‍⚖": [
+    "other",
+    "",
+    {
+      "en": [
+        "judge: light skin tone",
+        "judge | justice | law | light skin tone | scales"
+      ],
+      "ru": [
+        "судья: очень светлый тон кожи",
+        "весы | очень светлый тон кожи | правосудие | судья | фемида"
+      ],
+      "pl": ["sędzia: karnacja jasna", "karnacja jasna | orzekać | sędzia"],
+      "fr": ["juge : peau claire", "balance | juge | peau claire"],
+      "de": [
+        "Richter(in): helle Hautfarbe",
+        "helle Hautfarbe | Richter(in) | Waage"
+      ],
+      "es": [
+        "fiscal: tono de piel claro",
+        "fiscal | juez | juicio | magistrado | tono de piel claro"
+      ],
+      "pt": [
+        "juiz no tribunal: pele clara",
+        "balança | juiz | juiz no tribunal | pele clara"
+      ],
+      "it": [
+        "giudice: carnagione chiara",
+        "bilancia | carnagione chiara | giudice | giustizia"
+      ],
+      "ro": [
+        "judecător sau judecătoare: ton deschis al pielii",
+        "balanță | judecătoare | judecător | judecător sau judecătoare | ton deschis al pielii"
+      ],
+      "he": [
+        "שופט/ת: גוון עור בהיר",
+        "גוון עור בהיר | מאזני הצדק | מאזניים | משפט | משפטים | שופט | שופט/ת | שופטת"
+      ],
+      "ar": ["قاضي: بشرة بلون فاتح", "بشرة بلون فاتح | عدالة | عدل | قاضي"],
+      "tr": [
+        "hakim: açık cilt tonu",
+        "açık cilt tonu | adalet | hakim | terazi | yargıç"
+      ],
+      "vi": [
+        "thẩm phán: màu da sáng",
+        "cầm cân nảy mực | màu da sáng | thẩm phán"
+      ],
+      "nl": [
+        "rechter: lichte huidskleur",
+        "lichte huidskleur | recht | rechter | weegschaal"
+      ]
+    }
+  ],
+  "🧑🏻‍✈": [
+    "other",
+    "",
+    {
+      "en": ["pilot: light skin tone", "light skin tone | pilot | plane"],
+      "ru": [
+        "пилот: очень светлый тон кожи",
+        "летчик | очень светлый тон кожи | пилот | самолет"
+      ],
+      "pl": [
+        "pilot: karnacja jasna",
+        "karnacja jasna | pilot | pilotować | samolot"
+      ],
+      "fr": ["pilote : peau claire", "avion | peau claire | pilote"],
+      "de": [
+        "Pilot(in): helle Hautfarbe",
+        "Flugzeug | helle Hautfarbe | Pilot(in)"
+      ],
+      "es": [
+        "piloto: tono de piel claro",
+        "avión | capitán | piloto | tono de piel claro | vuelo"
+      ],
+      "pt": ["piloto: pele clara", "avião | pele clara | piloto"],
+      "it": ["pilota: carnagione chiara", "aereo | carnagione chiara | pilota"],
+      "ro": [
+        "pilot: ton deschis al pielii",
+        "avion | pilot | ton deschis al pielii"
+      ],
+      "he": [
+        "טייס/ת: גוון עור בהיר",
+        "גוון עור בהיר | טייס | טייס/ת | טייסת | טיסה | מטוס"
+      ],
+      "ar": [
+        "ربان طائرة: بشرة بلون فاتح",
+        "بشرة بلون فاتح | ربان | طائرة | طيار"
+      ],
+      "tr": ["pilot: açık cilt tonu", "açık cilt tonu | pilot | uçak"],
+      "vi": ["phi công: màu da sáng", "màu da sáng | máy bay | phi công"],
+      "nl": [
+        "piloot: lichte huidskleur",
+        "lichte huidskleur | piloot | vliegtuig"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍💋‍🧑🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "kiss: person, person, light skin tone, medium-light skin tone",
+        "anniversary | babe | bae | couple | date | dating | heart | kiss | light skin tone | love | medium-light skin tone | mwah | person | romance | together | xoxo"
+      ],
+      "ru": [
+        "поцелуй: взрослый взрослый очень светлый тон кожи светлый тон кожи",
+        "взрослый | любовь | очень светлый тон кожи | пара | поцелуй | романтика | светлый тон кожи | чувства"
+      ],
+      "pl": [
+        "pocałunek: dorosły, dorosły, karnacja jasna i karnacja średnio jasna",
+        "buziaki | całusy | dorosły | karnacja jasna | karnacja średnio jasna | kocham | miłość | osoba | osoby | para | pocałunek | zakochani | związek"
+      ],
+      "fr": [
+        "bisou : adulte, adulte, peau claire et peau moyennement claire",
+        "adulte | amour | anniversaire | baiser | bisou | couple | femme | homme | peau claire | peau moyennement claire"
+      ],
+      "de": [
+        "sich küssendes Paar: Person, Person, helle Hautfarbe und mittelhelle Hautfarbe",
+        "Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | mittelhelle Hautfarbe | Person | sich küssendes Paar"
+      ],
+      "es": [
+        "beso: persona adulta, persona adulta, tono de piel claro, tono de piel claro medio",
+        "beso | persona adulta | personas | romance | tono de piel claro | tono de piel claro medio"
+      ],
+      "pt": [
+        "beijo: pessoa, pessoa, pele clara e pele morena clara",
+        "amor | beijar | beijo | casal | coração | pele clara | pele morena clara | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "bacio tra coppia: persona, persona, carnagione chiara e carnagione abbastanza chiara",
+        "amore | appuntamento | baciarsi | bacio | bacio tra coppia | carnagione abbastanza chiara | carnagione chiara | coppia | coppietta | fidanzati | persona | persone | romanticismo | romantico"
+      ],
+      "ro": [
+        "sărut: adult, adult, ton deschis al pielii, ton semi‑deschis al pielii",
+        "adult | aniversare | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "נשיקה: אדם, אדם, גוון עור בהיר, גוון עור בהיר בינוני",
+        "אדם | אהבה | גוון עור בהיר | גוון עור בהיר בינוני | ולנטיין | זוג | טו באב | לב | נשיקה | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "قبلة: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون فاتح ومعتدل",
+        "أشخاص | بالغ | بشرة بلون فاتح | بشرة بلون فاتح ومعتدل | تقبيل | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | عيد | عيد زواج | غرام | قبلة | قلب | موعد"
+      ],
+      "tr": [
+        "öpücük: yetişkin yetişkin açık cilt tonu orta açık cilt tonu",
+        "açık cilt tonu | aşk | kişiler | öpücük | öpüşme | orta açık cilt tonu | romantizm | seni seviyorum | yetişkin | yıldönümü"
+      ],
+      "vi": [
+        "nụ hôn: người, người, màu da sáng, màu da sáng trung bình",
+        "cặp đôi | hẹn hò | màu da sáng | màu da sáng trung bình | người | nụ hôn | yêu"
+      ],
+      "nl": [
+        "kus: volwassene, volwassene, lichte huidskleur, lichtgetinte huidskleur",
+        "afspraakje | date | kus | kussen | lichte huidskleur | lichtgetinte huidskleur | liefde | personen | romantiek | stel | stelletje | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍💋‍🧑🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "kiss: person, person, light skin tone, medium skin tone",
+        "anniversary | babe | bae | couple | date | dating | heart | kiss | light skin tone | love | medium skin tone | mwah | person | romance | together | xoxo"
+      ],
+      "ru": [
+        "поцелуй: взрослый взрослый очень светлый тон кожи средний тон кожи",
+        "взрослый | любовь | очень светлый тон кожи | пара | поцелуй | романтика | средний тон кожи | чувства"
+      ],
+      "pl": [
+        "pocałunek: dorosły, dorosły, karnacja jasna i karnacja średnia",
+        "buziaki | całusy | dorosły | karnacja jasna | karnacja średnia | kocham | miłość | osoba | osoby | para | pocałunek | zakochani | związek"
+      ],
+      "fr": [
+        "bisou : adulte, adulte, peau claire et peau légèrement mate",
+        "adulte | amour | anniversaire | baiser | bisou | couple | femme | homme | peau claire | peau légèrement mate"
+      ],
+      "de": [
+        "sich küssendes Paar: Person, Person, helle Hautfarbe und mittlere Hautfarbe",
+        "Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | mittlere Hautfarbe | Person | sich küssendes Paar"
+      ],
+      "es": [
+        "beso: persona adulta, persona adulta, tono de piel claro, tono de piel medio",
+        "beso | persona adulta | personas | romance | tono de piel claro | tono de piel medio"
+      ],
+      "pt": [
+        "beijo: pessoa, pessoa, pele clara e pele morena",
+        "amor | beijar | beijo | casal | coração | pele clara | pele morena | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "bacio tra coppia: persona, persona, carnagione chiara e carnagione olivastra",
+        "amore | appuntamento | baciarsi | bacio | bacio tra coppia | carnagione chiara | carnagione olivastra | coppia | coppietta | fidanzati | persona | persone | romanticismo | romantico"
+      ],
+      "ro": [
+        "sărut: adult, adult, ton deschis al pielii, ton mediu al pielii",
+        "adult | aniversare | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton mediu al pielii"
+      ],
+      "he": [
+        "נשיקה: אדם, אדם, גוון עור בהיר, גוון עור בינוני",
+        "אדם | אהבה | גוון עור בהיר | גוון עור בינוני | ולנטיין | זוג | טו באב | לב | נשיקה | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "قبلة: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون معتدل",
+        "أشخاص | بالغ | بشرة بلون فاتح | بشرة بلون معتدل | تقبيل | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | عيد | عيد زواج | غرام | قبلة | قلب | موعد"
+      ],
+      "tr": [
+        "öpücük: yetişkin yetişkin açık cilt tonu orta cilt tonu",
+        "açık cilt tonu | aşk | kişiler | öpücük | öpüşme | orta cilt tonu | romantizm | seni seviyorum | yetişkin | yıldönümü"
+      ],
+      "vi": [
+        "nụ hôn: người, người, màu da sáng, màu da trung bình",
+        "cặp đôi | hẹn hò | màu da sáng | màu da trung bình | người | nụ hôn | yêu"
+      ],
+      "nl": [
+        "kus: volwassene, volwassene, lichte huidskleur, getinte huidskleur",
+        "afspraakje | date | getinte huidskleur | kus | kussen | lichte huidskleur | liefde | personen | romantiek | stel | stelletje | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍💋‍🧑🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "kiss: person, person, light skin tone, medium-dark skin tone",
+        "anniversary | babe | bae | couple | date | dating | heart | kiss | light skin tone | love | medium-dark skin tone | mwah | person | romance | together | xoxo"
+      ],
+      "ru": [
+        "поцелуй: взрослый взрослый очень светлый тон кожи темный тон кожи",
+        "взрослый | любовь | очень светлый тон кожи | пара | поцелуй | романтика | темный тон кожи | чувства"
+      ],
+      "pl": [
+        "pocałunek: dorosły, dorosły, karnacja jasna i karnacja średnio ciemna",
+        "buziaki | całusy | dorosły | karnacja jasna | karnacja średnio ciemna | kocham | miłość | osoba | osoby | para | pocałunek | zakochani | związek"
+      ],
+      "fr": [
+        "bisou : adulte, adulte, peau claire et peau mate",
+        "adulte | amour | anniversaire | baiser | bisou | couple | femme | homme | peau claire | peau mate"
+      ],
+      "de": [
+        "sich küssendes Paar: Person, Person, helle Hautfarbe und mitteldunkle Hautfarbe",
+        "Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | mitteldunkle Hautfarbe | Person | sich küssendes Paar"
+      ],
+      "es": [
+        "beso: persona adulta, persona adulta, tono de piel claro, tono de piel oscuro medio",
+        "beso | persona adulta | personas | romance | tono de piel claro | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "beijo: pessoa, pessoa, pele clara e pele morena escura",
+        "amor | beijar | beijo | casal | coração | pele clara | pele morena escura | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "bacio tra coppia: persona, persona, carnagione chiara e carnagione abbastanza scura",
+        "amore | appuntamento | baciarsi | bacio | bacio tra coppia | carnagione abbastanza scura | carnagione chiara | coppia | coppietta | fidanzati | persona | persone | romanticismo | romantico"
+      ],
+      "ro": [
+        "sărut: adult, adult, ton deschis al pielii, ton semi‑închis al pielii",
+        "adult | aniversare | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "נשיקה: אדם, אדם, גוון עור בהיר, גוון עור כהה בינוני",
+        "אדם | אהבה | גוון עור בהיר | גוון עור כהה בינוני | ולנטיין | זוג | טו באב | לב | נשיקה | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "قبلة: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون معتدل مائل للغامق",
+        "أشخاص | بالغ | بشرة بلون فاتح | بشرة بلون معتدل مائل للغامق | تقبيل | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | عيد | عيد زواج | غرام | قبلة | قلب | موعد"
+      ],
+      "tr": [
+        "öpücük: yetişkin yetişkin açık cilt tonu orta koyu cilt tonu",
+        "açık cilt tonu | aşk | kişiler | öpücük | öpüşme | orta koyu cilt tonu | romantizm | seni seviyorum | yetişkin | yıldönümü"
+      ],
+      "vi": [
+        "nụ hôn: người, người, màu da sáng, màu da tối trung bình",
+        "cặp đôi | hẹn hò | màu da sáng | màu da tối trung bình | người | nụ hôn | yêu"
+      ],
+      "nl": [
+        "kus: volwassene, volwassene, lichte huidskleur, donkergetinte huidskleur",
+        "afspraakje | date | donkergetinte huidskleur | kus | kussen | lichte huidskleur | liefde | personen | romantiek | stel | stelletje | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍💋‍🧑🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "kiss: person, person, light skin tone, dark skin tone",
+        "anniversary | babe | bae | couple | dark skin tone | date | dating | heart | kiss | light skin tone | love | mwah | person | romance | together | xoxo"
+      ],
+      "ru": [
+        "поцелуй: взрослый взрослый очень светлый тон кожи очень темный тон кожи",
+        "взрослый | любовь | очень светлый тон кожи | очень темный тон кожи | пара | поцелуй | романтика | чувства"
+      ],
+      "pl": [
+        "pocałunek: dorosły, dorosły, karnacja jasna i karnacja ciemna",
+        "buziaki | całusy | dorosły | karnacja ciemna | karnacja jasna | kocham | miłość | osoba | osoby | para | pocałunek | zakochani | związek"
+      ],
+      "fr": [
+        "bisou : adulte, adulte, peau claire et peau foncée",
+        "adulte | amour | anniversaire | baiser | bisou | couple | femme | homme | peau claire | peau foncée"
+      ],
+      "de": [
+        "sich küssendes Paar: Person, Person, helle Hautfarbe und dunkle Hautfarbe",
+        "dunkle Hautfarbe | Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | Person | sich küssendes Paar"
+      ],
+      "es": [
+        "beso: persona adulta, persona adulta, tono de piel claro, tono de piel oscuro",
+        "beso | persona adulta | personas | romance | tono de piel claro | tono de piel oscuro"
+      ],
+      "pt": [
+        "beijo: pessoa, pessoa, pele clara e pele escura",
+        "amor | beijar | beijo | casal | coração | pele clara | pele escura | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "bacio tra coppia: persona, persona, carnagione chiara e carnagione scura",
+        "amore | appuntamento | baciarsi | bacio | bacio tra coppia | carnagione chiara | carnagione scura | coppia | coppietta | fidanzati | persona | persone | romanticismo | romantico"
+      ],
+      "ro": [
+        "sărut: adult, adult, ton deschis al pielii, ton închis al pielii",
+        "adult | aniversare | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton închis al pielii"
+      ],
+      "he": [
+        "נשיקה: אדם, אדם, גוון עור בהיר, גוון עור כהה",
+        "אדם | אהבה | גוון עור בהיר | גוון עור כהה | ולנטיין | זוג | טו באב | לב | נשיקה | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "قبلة: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون غامق",
+        "أشخاص | بالغ | بشرة بلون غامق | بشرة بلون فاتح | تقبيل | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | عيد | عيد زواج | غرام | قبلة | قلب | موعد"
+      ],
+      "tr": [
+        "öpücük: yetişkin yetişkin açık cilt tonu koyu cilt tonu",
+        "açık cilt tonu | aşk | kişiler | koyu cilt tonu | öpücük | öpüşme | romantizm | seni seviyorum | yetişkin | yıldönümü"
+      ],
+      "vi": [
+        "nụ hôn: người, người, màu da sáng, màu da tối",
+        "cặp đôi | hẹn hò | màu da sáng | màu da tối | người | nụ hôn | yêu"
+      ],
+      "nl": [
+        "kus: volwassene, volwassene, lichte huidskleur, donkere huidskleur",
+        "afspraakje | date | donkere huidskleur | kus | kussen | lichte huidskleur | liefde | personen | romantiek | stel | stelletje | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍🧑🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "couple with heart: person, person, light skin tone, medium-light skin tone",
+        "anniversary | babe | bae | couple | dating | heart | kiss | light skin tone | love | medium-light skin tone | person | relationship | romance | together | you"
+      ],
+      "ru": [
+        "влюбленная пара: взрослый взрослый очень светлый тон кожи светлый тон кожи",
+        "взрослый | влюбленные | любовь | люди | очень светлый тон кожи | пара | светлый тон кожи | свидание | сердце | чувства"
+      ],
+      "pl": [
+        "para z sercem: dorosły, dorosły, karnacja jasna i karnacja średnio jasna",
+        "dorosły | karnacja jasna | karnacja średnio jasna | kocham | miłość | osoba | osoby | para | para z sercem | pocałunek | randka | razem | serce | zakochani | związek"
+      ],
+      "fr": [
+        "couple avec cœur : adulte, adulte, peau claire et peau moyennement claire",
+        "adulte | amour | anniversaire | cœur | couple | couple avec cœur | femme | homme | peau claire | peau moyennement claire | rendez-vous"
+      ],
+      "de": [
+        "Liebespaar: Person, Person, helle Hautfarbe und mittelhelle Hautfarbe",
+        "Frau | helle Hautfarbe | Herz | Liebe | Liebespaar | Mann | mittelhelle Hautfarbe | Paar | Person"
+      ],
+      "es": [
+        "pareja enamorada: persona adulta, persona adulta, tono de piel claro, tono de piel claro medio",
+        "amor | pareja | pareja enamorada | persona adulta | personas enamoradas | tono de piel claro | tono de piel claro medio"
+      ],
+      "pt": [
+        "casal apaixonado: pessoa, pessoa, pele clara e pele morena clara",
+        "casal | casal apaixonado | casal com um coração | coração | pele clara | pele morena clara | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "coppia con cuore: persona, persona, carnagione chiara e carnagione abbastanza chiara",
+        "amore | anniversario | bacio | carnagione abbastanza chiara | carnagione chiara | coppia | coppia con cuore | cuore | innamorati | insieme | persona | persone | romanticismo"
+      ],
+      "ro": [
+        "cuplu cu inimă: adult, adult, ton deschis al pielii, ton semi‑deschis al pielii",
+        "adult | aniversare | cuplu | cuplu cu inimă | doi | dragoste | inimă | inimioară | iubire | pupic | romantic | sărut | ton deschis al pielii | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "זוג עם לב: אדם, אדם, גוון עור בהיר, גוון עור בהיר בינוני",
+        "אדם | אהבה | גוון עור בהיר | גוון עור בהיר בינוני | זוג | זוג עם לב | לב | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "زوج وقلب: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون فاتح ومعتدل",
+        "أشخاص | بالغ | بشرة بلون فاتح | بشرة بلون فاتح ومعتدل | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | زوج وقلب | غرام | قلب"
+      ],
+      "tr": [
+        "kalpli çift: yetişkin yetişkin açık cilt tonu orta açık cilt tonu",
+        "açık cilt tonu | aşk | kadın erkek | kalp | kalpli çift | kişiler | orta açık cilt tonu | romantizm | yetişkin"
+      ],
+      "vi": [
+        "cặp đôi với trái tim: người, người, màu da sáng, màu da sáng trung bình",
+        "cặp đôi | cặp đôi với trái tim | màu da sáng | màu da sáng trung bình | người | yêu"
+      ],
+      "nl": [
+        "stel met hart: volwassene, volwassene, lichte huidskleur, lichtgetinte huidskleur",
+        "hart | jubileum | lichte huidskleur | lichtgetinte huidskleur | liefde | personen | relatie | romantiek | stel | stel met hart | stelletje | stelletje met hart | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍🧑🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "couple with heart: person, person, light skin tone, medium skin tone",
+        "anniversary | babe | bae | couple | dating | heart | kiss | light skin tone | love | medium skin tone | person | relationship | romance | together | you"
+      ],
+      "ru": [
+        "влюбленная пара: взрослый взрослый очень светлый тон кожи средний тон кожи",
+        "взрослый | влюбленные | любовь | люди | очень светлый тон кожи | пара | свидание | сердце | средний тон кожи | чувства"
+      ],
+      "pl": [
+        "para z sercem: dorosły, dorosły, karnacja jasna i karnacja średnia",
+        "dorosły | karnacja jasna | karnacja średnia | kocham | miłość | osoba | osoby | para | para z sercem | pocałunek | randka | razem | serce | zakochani | związek"
+      ],
+      "fr": [
+        "couple avec cœur : adulte, adulte, peau claire et peau légèrement mate",
+        "adulte | amour | anniversaire | cœur | couple | couple avec cœur | femme | homme | peau claire | peau légèrement mate | rendez-vous"
+      ],
+      "de": [
+        "Liebespaar: Person, Person, helle Hautfarbe und mittlere Hautfarbe",
+        "Frau | helle Hautfarbe | Herz | Liebe | Liebespaar | Mann | mittlere Hautfarbe | Paar | Person"
+      ],
+      "es": [
+        "pareja enamorada: persona adulta, persona adulta, tono de piel claro, tono de piel medio",
+        "amor | pareja | pareja enamorada | persona adulta | personas enamoradas | tono de piel claro | tono de piel medio"
+      ],
+      "pt": [
+        "casal apaixonado: pessoa, pessoa, pele clara e pele morena",
+        "casal | casal apaixonado | casal com um coração | coração | pele clara | pele morena | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "coppia con cuore: persona, persona, carnagione chiara e carnagione olivastra",
+        "amore | anniversario | bacio | carnagione chiara | carnagione olivastra | coppia | coppia con cuore | cuore | innamorati | insieme | persona | persone | romanticismo"
+      ],
+      "ro": [
+        "cuplu cu inimă: adult, adult, ton deschis al pielii, ton mediu al pielii",
+        "adult | aniversare | cuplu | cuplu cu inimă | doi | dragoste | inimă | inimioară | iubire | pupic | romantic | sărut | ton deschis al pielii | ton mediu al pielii"
+      ],
+      "he": [
+        "זוג עם לב: אדם, אדם, גוון עור בהיר, גוון עור בינוני",
+        "אדם | אהבה | גוון עור בהיר | גוון עור בינוני | זוג | זוג עם לב | לב | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "زوج وقلب: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون معتدل",
+        "أشخاص | بالغ | بشرة بلون فاتح | بشرة بلون معتدل | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | زوج وقلب | غرام | قلب"
+      ],
+      "tr": [
+        "kalpli çift: yetişkin yetişkin açık cilt tonu orta cilt tonu",
+        "açık cilt tonu | aşk | kadın erkek | kalp | kalpli çift | kişiler | orta cilt tonu | romantizm | yetişkin"
+      ],
+      "vi": [
+        "cặp đôi với trái tim: người, người, màu da sáng, màu da trung bình",
+        "cặp đôi | cặp đôi với trái tim | màu da sáng | màu da trung bình | người | yêu"
+      ],
+      "nl": [
+        "stel met hart: volwassene, volwassene, lichte huidskleur, getinte huidskleur",
+        "getinte huidskleur | hart | jubileum | lichte huidskleur | liefde | personen | relatie | romantiek | stel | stel met hart | stelletje | stelletje met hart | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍🧑🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "couple with heart: person, person, light skin tone, medium-dark skin tone",
+        "anniversary | babe | bae | couple | dating | heart | kiss | light skin tone | love | medium-dark skin tone | person | relationship | romance | together | you"
+      ],
+      "ru": [
+        "влюбленная пара: взрослый взрослый очень светлый тон кожи темный тон кожи",
+        "взрослый | влюбленные | любовь | люди | очень светлый тон кожи | пара | свидание | сердце | темный тон кожи | чувства"
+      ],
+      "pl": [
+        "para z sercem: dorosły, dorosły, karnacja jasna i karnacja średnio ciemna",
+        "dorosły | karnacja jasna | karnacja średnio ciemna | kocham | miłość | osoba | osoby | para | para z sercem | pocałunek | randka | razem | serce | zakochani | związek"
+      ],
+      "fr": [
+        "couple avec cœur : adulte, adulte, peau claire et peau mate",
+        "adulte | amour | anniversaire | cœur | couple | couple avec cœur | femme | homme | peau claire | peau mate | rendez-vous"
+      ],
+      "de": [
+        "Liebespaar: Person, Person, helle Hautfarbe und mitteldunkle Hautfarbe",
+        "Frau | helle Hautfarbe | Herz | Liebe | Liebespaar | Mann | mitteldunkle Hautfarbe | Paar | Person"
+      ],
+      "es": [
+        "pareja enamorada: persona adulta, persona adulta, tono de piel claro, tono de piel oscuro medio",
+        "amor | pareja | pareja enamorada | persona adulta | personas enamoradas | tono de piel claro | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "casal apaixonado: pessoa, pessoa, pele clara e pele morena escura",
+        "casal | casal apaixonado | casal com um coração | coração | pele clara | pele morena escura | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "coppia con cuore: persona, persona, carnagione chiara e carnagione abbastanza scura",
+        "amore | anniversario | bacio | carnagione abbastanza scura | carnagione chiara | coppia | coppia con cuore | cuore | innamorati | insieme | persona | persone | romanticismo"
+      ],
+      "ro": [
+        "cuplu cu inimă: adult, adult, ton deschis al pielii, ton semi‑închis al pielii",
+        "adult | aniversare | cuplu | cuplu cu inimă | doi | dragoste | inimă | inimioară | iubire | pupic | romantic | sărut | ton deschis al pielii | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "זוג עם לב: אדם, אדם, גוון עור בהיר, גוון עור כהה בינוני",
+        "אדם | אהבה | גוון עור בהיר | גוון עור כהה בינוני | זוג | זוג עם לב | לב | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "زوج وقلب: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون معتدل مائل للغامق",
+        "أشخاص | بالغ | بشرة بلون فاتح | بشرة بلون معتدل مائل للغامق | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | زوج وقلب | غرام | قلب"
+      ],
+      "tr": [
+        "kalpli çift: yetişkin yetişkin açık cilt tonu orta koyu cilt tonu",
+        "açık cilt tonu | aşk | kadın erkek | kalp | kalpli çift | kişiler | orta koyu cilt tonu | romantizm | yetişkin"
+      ],
+      "vi": [
+        "cặp đôi với trái tim: người, người, màu da sáng, màu da tối trung bình",
+        "cặp đôi | cặp đôi với trái tim | màu da sáng | màu da tối trung bình | người | yêu"
+      ],
+      "nl": [
+        "stel met hart: volwassene, volwassene, lichte huidskleur, donkergetinte huidskleur",
+        "donkergetinte huidskleur | hart | jubileum | lichte huidskleur | liefde | personen | relatie | romantiek | stel | stel met hart | stelletje | stelletje met hart | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍❤‍🧑🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "couple with heart: person, person, light skin tone, dark skin tone",
+        "anniversary | babe | bae | couple | dark skin tone | dating | heart | kiss | light skin tone | love | person | relationship | romance | together | you"
+      ],
+      "ru": [
+        "влюбленная пара: взрослый взрослый очень светлый тон кожи очень темный тон кожи",
+        "взрослый | влюбленные | любовь | люди | очень светлый тон кожи | очень темный тон кожи | пара | свидание | сердце | чувства"
+      ],
+      "pl": [
+        "para z sercem: dorosły, dorosły, karnacja jasna i karnacja ciemna",
+        "dorosły | karnacja ciemna | karnacja jasna | kocham | miłość | osoba | osoby | para | para z sercem | pocałunek | randka | razem | serce | zakochani | związek"
+      ],
+      "fr": [
+        "couple avec cœur : adulte, adulte, peau claire et peau foncée",
+        "adulte | amour | anniversaire | cœur | couple | couple avec cœur | femme | homme | peau claire | peau foncée | rendez-vous"
+      ],
+      "de": [
+        "Liebespaar: Person, Person, helle Hautfarbe und dunkle Hautfarbe",
+        "dunkle Hautfarbe | Frau | helle Hautfarbe | Herz | Liebe | Liebespaar | Mann | Paar | Person"
+      ],
+      "es": [
+        "pareja enamorada: persona adulta, persona adulta, tono de piel claro, tono de piel oscuro",
+        "amor | pareja | pareja enamorada | persona adulta | personas enamoradas | tono de piel claro | tono de piel oscuro"
+      ],
+      "pt": [
+        "casal apaixonado: pessoa, pessoa, pele clara e pele escura",
+        "casal | casal apaixonado | casal com um coração | coração | pele clara | pele escura | pessoa | pessoas | romance"
+      ],
+      "it": [
+        "coppia con cuore: persona, persona, carnagione chiara e carnagione scura",
+        "amore | anniversario | bacio | carnagione chiara | carnagione scura | coppia | coppia con cuore | cuore | innamorati | insieme | persona | persone | romanticismo"
+      ],
+      "ro": [
+        "cuplu cu inimă: adult, adult, ton deschis al pielii, ton închis al pielii",
+        "adult | aniversare | cuplu | cuplu cu inimă | doi | dragoste | inimă | inimioară | iubire | pupic | romantic | sărut | ton deschis al pielii | ton închis al pielii"
+      ],
+      "he": [
+        "זוג עם לב: אדם, אדם, גוון עור בהיר, גוון עור כהה",
+        "אדם | אהבה | גוון עור בהיר | גוון עור כהה | זוג | זוג עם לב | לב | רומנטי | רומנטיקה"
+      ],
+      "ar": [
+        "زوج وقلب: بالغ، وبالغ، وبشرة بلون فاتح، وبشرة بلون غامق",
+        "أشخاص | بالغ | بشرة بلون غامق | بشرة بلون فاتح | ثنائي | حب | حبيبي | رومانس | رومانسية | رومنس | زوج | زوج وقلب | غرام | قلب"
+      ],
+      "tr": [
+        "kalpli çift: yetişkin yetişkin açık cilt tonu koyu cilt tonu",
+        "açık cilt tonu | aşk | kadın erkek | kalp | kalpli çift | kişiler | koyu cilt tonu | romantizm | yetişkin"
+      ],
+      "vi": [
+        "cặp đôi với trái tim: người, người, màu da sáng, màu da tối",
+        "cặp đôi | cặp đôi với trái tim | màu da sáng | màu da tối | người | yêu"
+      ],
+      "nl": [
+        "stel met hart: volwassene, volwassene, lichte huidskleur, donkere huidskleur",
+        "donkere huidskleur | hart | jubileum | lichte huidskleur | liefde | personen | relatie | romantiek | stel | stel met hart | stelletje | stelletje met hart | verliefd | volwassene"
+      ]
+    }
+  ],
+  "🧑🏻‍🌾": [
+    "other",
+    "",
+    {
+      "en": [
+        "farmer: light skin tone",
+        "farmer | gardener | light skin tone | rancher"
+      ],
+      "ru": [
+        "фермер: очень светлый тон кожи",
+        "дачник | очень светлый тон кожи | садовник | скотовод | фермер"
+      ],
+      "pl": [
+        "rolnik: karnacja jasna",
+        "farmer | karnacja jasna | ogrodnik | rolnik"
+      ],
+      "fr": [
+        "fermier (tous genres) : peau claire",
+        "fermier | fermier (tous genres) | fermière | jardinier | jardinière | peau claire"
+      ],
+      "de": [
+        "Bauer/Bäuerin: helle Hautfarbe",
+        "Bauer/Bäuerin | Farmer(in) | Gärtner(in) | helle Hautfarbe | Landwirt(in)"
+      ],
+      "es": [
+        "profesional de la agricultura: tono de piel claro",
+        "agricultor | cultivador | granjero | jardinero | labrador | profesional de la agricultura | tono de piel claro"
+      ],
+      "pt": [
+        "agricultor: pele clara",
+        "agricultor | jardineiro | pele clara | rancheiro"
+      ],
+      "it": [
+        "agricoltore: carnagione chiara",
+        "agricoltore | allevatore | carnagione chiara | contadino | giardiniere"
+      ],
+      "ro": [
+        "fermier sau fermieră: ton deschis al pielii",
+        "crescător de vite | fermier | fermier sau fermieră | fermieră | grădinar | ton deschis al pielii"
+      ],
+      "he": [
+        "חקלאי/ת: גוון עור בהיר",
+        "גוון עור בהיר | גנן | גננת | חווה | חקלאות | חקלאי | חקלאי/ת | חקלאית"
+      ],
+      "ar": [
+        "مُزارع: بشرة بلون فاتح",
+        "بشرة بلون فاتح | عامل زراعي | فلاح | مزارع | مُزارع | منسق حدائق"
+      ],
+      "tr": [
+        "çiftçi: açık cilt tonu",
+        "açık cilt tonu | bahçıvan | çiftçi | rençper"
+      ],
+      "vi": [
+        "nông dân: màu da sáng",
+        "chủ trang trại | màu da sáng | người làm vườn | nông dân"
+      ],
+      "nl": [
+        "boer: lichte huidskleur",
+        "boer | lichte huidskleur | tuinder | veehouder"
+      ]
+    }
+  ],
+  "🧑🏻‍🍳": [
+    "other",
+    "",
+    {
+      "en": ["cook: light skin tone", "chef | cook | light skin tone"],
+      "ru": [
+        "повар: очень светлый тон кожи",
+        "очень светлый тон кожи | повар | шеф | шеф-повар"
+      ],
+      "pl": [
+        "kucharz: karnacja jasna",
+        "karnacja jasna | kucharz | szef kuchni"
+      ],
+      "fr": [
+        "cuisinier (tous genres) : peau claire",
+        "chef | cuisinier | cuisinier (tous genres) | cuisinière | peau claire"
+      ],
+      "de": [
+        "Koch/Köchin: helle Hautfarbe",
+        "helle Hautfarbe | Koch/Köchin | Kochen"
+      ],
+      "es": [
+        "chef: tono de piel claro",
+        "chef | cocinero | cocinillas | guisandero | pinche | tono de piel claro"
+      ],
+      "pt": [
+        "chef de cozinha: pele clara",
+        "chef | chef de cozinha | cozinheiro | pele clara"
+      ],
+      "it": [
+        "persona che cucina: carnagione chiara",
+        "carnagione chiara | chef | cuoco | persona che cucina"
+      ],
+      "ro": [
+        "bucătar sau bucătăreasă: ton deschis al pielii",
+        "bucătar | bucătar sau bucătăreasă | bucătăreasă | chef | ton deschis al pielii"
+      ],
+      "he": [
+        "טבח/ית: גוון עור בהיר",
+        "גוון עור בהיר | טבח | טבח/ית | טבחית | שף | שפית"
+      ],
+      "ar": [
+        "طاهي: بشرة بلون فاتح",
+        "بشرة بلون فاتح | شيف | طاه | طاهي | طباخ"
+      ],
+      "tr": ["aşçı: açık cilt tonu", "açık cilt tonu | aşçı | yemek pişirme"],
+      "vi": ["đầu bếp: màu da sáng", "đầu bếp | màu da sáng | nấu ăn"],
+      "nl": ["kok: lichte huidskleur", "chef-kok | kok | lichte huidskleur"]
+    }
+  ],
+  "🧑🏻‍🍼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person feeding baby: light skin tone",
+        "baby | feed | feeding | light skin tone | nanny | newborn | nursing | parent"
+      ],
+      "ru": [
+        "кормящий человек: очень светлый тон кожи",
+        "забота | кормление | кормящий | малыш | новорожденный | няня | очень светлый тон кожи | ребенок | родитель | человек"
+      ],
+      "pl": [
+        "osoba karmiąca niemowlę: karnacja jasna",
+        "karmienie | karmienie butelką | karmienie piersią | karnacja jasna | mama | mężczyzna | niemowlę | osoba | osoba karmiąca niemowlę | rodzic | tata"
+      ],
+      "fr": [
+        "personne allaitant un bébé : peau claire",
+        "allaitement | bébé | biberon | homme | maman | mère | nounou | nouveau-né | papa | peau claire | père | personne | personne allaitant un bébé"
+      ],
+      "de": [
+        "Person, die Baby die Flasche gibt: helle Hautfarbe",
+        "Baby | Flasche geben | Flasche gebende Person | helle Hautfarbe | Person"
+      ],
+      "es": [
+        "persona alimentando a bebé: tono de piel claro",
+        "alimentar | amamantar | bebé | lactancia | persona | persona alimentando a bebé | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa alimentando bebê: pele clara",
+        "alimentando | amamentação | amamentar | bebê | homem | mãe | mulher | neném | pai | pele clara | pessoa | recém-nascido"
+      ],
+      "it": [
+        "persona che allatta: carnagione chiara",
+        "allattamento | babysitter | bebè | carnagione chiara | mamma | neonato | nutrire | papà | persona | persona che allatta"
+      ],
+      "ro": [
+        "persoană hrănind un bebeluș: ton deschis al pielii",
+        "alăptare | bărbat | bebeluș | biberon | bonă | femeie | hrănire | îngrijire | mama | nou‑născut | persoană | persoană hrănind un bebeluș | tata | ton deschis al pielii"
+      ],
+      "he": [
+        "הנקה של תינוק: גוון עור בהיר",
+        "אבא | איש | אישה | בקבוק | גוון עור בהיר | האכלה | הנקה | הנקה של תינוק | חלב | תינוק"
+      ],
+      "ar": [
+        "شخص يُرضع طفلاً: بشرة بلون فاتح",
+        "أبوة | أمومة | بشرة بلون فاتح | تربية | رضاعة | رضيع | رعاية | شخص | شخص يُرضع طفلاً | طفل | مرضعة | مولود"
+      ],
+      "tr": [
+        "bebek emziren kişi: açık cilt tonu",
+        "açık cilt tonu | anne | baba | bakıcı | bakıcılık | bebek | bebek bakıcısı | bebek emziren kişi | beslemek | emzirme | erkek | insan | kadın | kişi | yenidoğan"
+      ],
+      "vi": [
+        "người cho em bé bú: màu da sáng",
+        "bố | cho bú | cho con bú | đàn ông | em bé | màu da sáng | mẹ | người | người cho con bú | người cho em bé bú | phụ nữ | trẻ sơ sinh"
+      ],
+      "nl": [
+        "persoon die een baby voedt: lichte huidskleur",
+        "baby | borstvoeding | lichte huidskleur | oppas | ouder | pasgeboren | voeden | voeding"
+      ]
+    }
+  ],
+  "🧑🏻‍🎄": [
+    "other",
+    "",
+    {
+      "en": [
+        "Mx Claus: light skin tone",
+        "celebration | Christmas | claus | fairy | fantasy | holiday | light skin tone | merry | Mx | santa | tale | xmas"
+      ],
+      "ru": [
+        "Санта: очень светлый тон кожи",
+        "Дед Мороз | Клаус | Новый год | очень светлый тон кожи | Рождество | Санта"
+      ],
+      "pl": [
+        "Mikołajka: karnacja jasna",
+        "Boże Narodzenie | Dziadek Mróz | Gwiazdor | karnacja jasna | Mikołaj | Mikołajka | mikołajki | osoba | prezenty | święta | Wigilia"
+      ],
+      "fr": [
+        "santa : peau claire",
+        "joyeux Noël | noël | Noël | Papa Noël | peau claire | Père Noël | personne | Saint-Nicolas | Santa"
+      ],
+      "de": [
+        "Weihnachtsperson: helle Hautfarbe",
+        "Gesicht | Gesicht mit Hut | helle Hautfarbe | Person | Santa Claus | Weihnachten | Weihnachtsfrau | Weihnachtshut | Weihnachtsmann | Weihnachtsmütze | Weihnachtsperson"
+      ],
+      "es": [
+        "Noel: tono de piel claro",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | Noel | santa | tono de piel claro"
+      ],
+      "pt": [
+        "noel: pele clara",
+        "chapéu | feliz | festas | gorro | mamãe | natal | Noel | pele clara | pessoa"
+      ],
+      "it": [
+        "Santa Claus: carnagione chiara",
+        "Babbo Natale | buon Natale | cappello di Babbo Natale | carnagione chiara | Claus | Natale | persona | Santa Claus | vacanze di Natale"
+      ],
+      "ro": [
+        "Crăciun: ton deschis al pielii",
+        "căciulă | Crăciun | Crăciuniță | iarnă | Moș Crăciun | poveste | sărbătoare | ton deschis al pielii"
+      ],
+      "he": [
+        "קלאוס: גוון עור בהיר",
+        "איש | אישה | גב׳ סנטה | גב’ קלאוס | גוון עור בהיר | חג המולד | כריסמס | סנטה | קלאוס | קריסמס"
+      ],
+      "ar": [
+        "كلوز: بشرة بلون فاتح",
+        "أمنيات | بابا نويل | بشرة بلون فاتح | بهجة | رأس السنة | سانتا كلوز | شخص | عام جديد | عيد الميلاد | كريسماس | كلوز | هدايا"
+      ],
+      "tr": [
+        "cinsiyet belirtmeyen noel karakteri: açık cilt tonu",
+        "açık cilt tonu | christmas | cinsiyet belirtmeyen noel karakteri | insan | mutlu noeller | mutlu yıllar | noel | noel baba | Noel figürü | santa claus | şapka | tatil | yılbaşı"
+      ],
+      "vi": [
+        "bà già Noel: màu da sáng",
+        "bà già Noel | chúc mừng giáng sinh | giáng sinh | màu da sáng | mũ | người | Noel | ông già noel"
+      ],
+      "nl": [
+        "kersttransgender: lichte huidskleur",
+        "feestdagen | kerst | kerstdagen | kerstman | Kerstman | kerstmis | kerstmuts | kersttransgender | kerstvrouw | lichte huidskleur | persoon"
+      ]
+    }
+  ],
+  "🧑🏻‍🎓": [
+    "other",
+    "",
+    {
+      "en": [
+        "student: light skin tone",
+        "graduate | light skin tone | student"
+      ],
+      "ru": [
+        "учащийся: очень светлый тон кожи",
+        "бакалавр | выпускник | очень светлый тон кожи | студент | учащийся"
+      ],
+      "pl": ["student: karnacja jasna", "absolwent | karnacja jasna | student"],
+      "fr": [
+        "étudiant (tous genres) : peau claire",
+        "diplôme | étudiant | étudiant (tous genres) | étudiante | peau claire"
+      ],
+      "de": [
+        "Student(in): helle Hautfarbe",
+        "Absolvent(in) | Doktorhut | helle Hautfarbe | Student(in) | Uni"
+      ],
+      "es": [
+        "estudiante: tono de piel claro",
+        "estudiante | graduado | licenciado | tono de piel claro | universitario"
+      ],
+      "pt": ["aluno: pele clara", "aluno | estudante | graduando | pele clara"],
+      "it": [
+        "studente: carnagione chiara",
+        "carnagione chiara | diploma | studente | studentessa"
+      ],
+      "ro": [
+        "student sau studentă: ton deschis al pielii",
+        "absolvent | absolventă | student | student sau studentă | studentă | ton deschis al pielii"
+      ],
+      "he": [
+        "סטודנט/ית: גוון עור בהיר",
+        "בוגר | בוגרת | גוון עור בהיר | סטודנט | סטודנט/ית | סטודנטית"
+      ],
+      "ar": ["طالِب: بشرة بلون فاتح", "بشرة بلون فاتح | خريج | طالب | طالِب"],
+      "tr": [
+        "öğrenci: açık cilt tonu",
+        "açık cilt tonu | mezun | öğrenci | talebe"
+      ],
+      "vi": ["sinh viên: màu da sáng", "màu da sáng | sinh viên | tốt nghiệp"],
+      "nl": [
+        "student: lichte huidskleur",
+        "lichte huidskleur | scholier | student"
+      ]
+    }
+  ],
+  "🧑🏻‍🎤": [
+    "other",
+    "",
+    {
+      "en": [
+        "singer: light skin tone",
+        "actor | entertainer | light skin tone | rock | rockstar | singer | star"
+      ],
+      "ru": [
+        "певец: очень светлый тон кожи",
+        "актер | звезда | очень светлый тон кожи | певец | пение | развлечения | рок"
+      ],
+      "pl": [
+        "piosenkarz: karnacja jasna",
+        "aktor | artysta | gwiazda | karnacja jasna | muzyka | piosenkarz"
+      ],
+      "fr": [
+        "chanteur (tous genres) : peau claire",
+        "artiste | chanteur | chanteur (tous genres) | chanteuse | peau claire | rock | star"
+      ],
+      "de": [
+        "Sänger(in): helle Hautfarbe",
+        "Entertainer(in) | helle Hautfarbe | Rock | Sänger(in) | Star"
+      ],
+      "es": [
+        "cantante: tono de piel claro",
+        "artista | cantante | estrella | rock | tono de piel claro"
+      ],
+      "pt": [
+        "cantor: pele clara",
+        "ator | cantor | entretenimento | estrela | pele clara | rock"
+      ],
+      "it": [
+        "cantante: carnagione chiara",
+        "attore | cantante | carnagione chiara | intrattenitore | rock | star"
+      ],
+      "ro": [
+        "cântăreț sau cântăreață: ton deschis al pielii",
+        "actor | actriță | cântăreață | cântăreț | cântăreț sau cântăreață | comediant | comediantă | rock | solist | solistă | ton deschis al pielii | vedetă"
+      ],
+      "he": [
+        "זמר/ת: גוון עור בהיר",
+        "אומן | אמן | אמנית | גוון עור בהיר | זמר | זמר/ת | זמרת | שחקן | שחקנית"
+      ],
+      "ar": [
+        "مغنّي: بشرة بلون فاتح",
+        "استعراضي | بشرة بلون فاتح | فنان | مطرب | مغني | مغنّي | نجم"
+      ],
+      "tr": [
+        "şarkıcı: açık cilt tonu",
+        "açık cilt tonu | aktör | aktris | gösterici | şarkıcı | star | yıldız"
+      ],
+      "vi": [
+        "ca sĩ: màu da sáng",
+        "ca sĩ | diễn viên | màu da sáng | nghệ sĩ | ngôi sao | nhạc rock"
+      ],
+      "nl": [
+        "zanger: lichte huidskleur",
+        "acteur | entertainer | lichte huidskleur | rock | ster | zanger"
+      ]
+    }
+  ],
+  "🧑🏻‍🎨": [
+    "other",
+    "",
+    {
+      "en": ["artist: light skin tone", "artist | light skin tone | palette"],
+      "ru": [
+        "художник: очень светлый тон кожи",
+        "кисти | очень светлый тон кожи | палитра | художник"
+      ],
+      "pl": [
+        "artysta: karnacja jasna",
+        "artysta | karnacja jasna | malarz | paleta"
+      ],
+      "fr": ["artiste : peau claire", "artiste | palette | peau claire"],
+      "de": [
+        "Künstler(in): helle Hautfarbe",
+        "Farbpalette | helle Hautfarbe | Künstler(in) | Maler(in)"
+      ],
+      "es": [
+        "artista: tono de piel claro",
+        "artista | paleta | pintor | pinturas | tono de piel claro"
+      ],
+      "pt": ["artista: pele clara", "artista | paleta | pele clara"],
+      "it": [
+        "artista: carnagione chiara",
+        "artista | carnagione chiara | tavolozza"
+      ],
+      "ro": [
+        "artist sau artistă: ton deschis al pielii",
+        "artist | artist sau artistă | artistă | paletă | ton deschis al pielii"
+      ],
+      "he": [
+        "אומן/ית: גוון עור בהיר",
+        "אומן | אומן/ית | אומנות | אומנית | אמן | אמנות | אמנית | גוון עור בהיר | צבעים"
+      ],
+      "ar": [
+        "فنان رسم: بشرة بلون فاتح",
+        "بشرة بلون فاتح | رسام | فنان | فنان رسم"
+      ],
+      "tr": [
+        "ressam: açık cilt tonu",
+        "açık cilt tonu | palet | ressam | sanatçı"
+      ],
+      "vi": ["họa sĩ: màu da sáng", "bảng màu | họa sĩ | màu da sáng"],
+      "nl": [
+        "kunstenaar: lichte huidskleur",
+        "kunstenaar | lichte huidskleur | palet"
+      ]
+    }
+  ],
+  "🧑🏻‍🏫": [
+    "other",
+    "",
+    {
+      "en": [
+        "teacher: light skin tone",
+        "instructor | lecturer | light skin tone | professor | teacher"
+      ],
+      "ru": [
+        "педагог: очень светлый тон кожи",
+        "инструктор | очень светлый тон кожи | педагог | преподаватель | профессор | учитель"
+      ],
+      "pl": [
+        "nauczyciel: karnacja jasna",
+        "instruktor | karnacja jasna | nauczyciel | pedagog | profesor"
+      ],
+      "fr": [
+        "personnel enseignant : peau claire",
+        "enseignant | enseignante | formateur | formatrice | peau claire | personnel enseignant | professeur"
+      ],
+      "de": [
+        "Lehrer(in): helle Hautfarbe",
+        "Dozent(in) | helle Hautfarbe | Lehrer(in) | Professor(in)"
+      ],
+      "es": [
+        "docente: tono de piel claro",
+        "docente | educador | enseñanza | instructor | maestro | profesor | tono de piel claro"
+      ],
+      "pt": [
+        "professora na escola: pele clara",
+        "instrutora | pele clara | professora | professora na escola"
+      ],
+      "it": [
+        "insegnante: carnagione chiara",
+        "carnagione chiara | insegnante | maestra | maestro | professore | professoressa"
+      ],
+      "ro": [
+        "profesor sau profesoară: ton deschis al pielii",
+        "instructor | învățător | profesoară | profesor | profesor sau profesoară | ton deschis al pielii"
+      ],
+      "he": [
+        "מצוות המורים: גוון עור בהיר",
+        "גוון עור בהיר | מדריך | מדריכה | מורה | מלמדת | מרצה | עוזר הוראה | צוות הוראה"
+      ],
+      "ar": ["أستاذ: بشرة بلون فاتح", "أستاذ | بشرة بلون فاتح | مدرس | معلم"],
+      "tr": [
+        "öğretmen: açık cilt tonu",
+        "açık cilt tonu | doçent | eğitimci | öğretmen | profesör"
+      ],
+      "vi": [
+        "giáo viên: màu da sáng",
+        "giáo sư | giáo viên | màu da sáng | người hướng dẫn"
+      ],
+      "nl": [
+        "docent: lichte huidskleur",
+        "docent | leraar | lichte huidskleur | professor"
+      ]
+    }
+  ],
+  "🧑🏻‍🏭": [
+    "other",
+    "",
+    {
+      "en": [
+        "factory worker: light skin tone",
+        "assembly | factory | industrial | light skin tone | worker"
+      ],
+      "ru": [
+        "рабочий: очень светлый тон кожи",
+        "завод | очень светлый тон кожи | промышленность | рабочий"
+      ],
+      "pl": [
+        "pracownik fabryki: karnacja jasna",
+        "fabryka | karnacja jasna | montażysta | pracownik | pracownik fabryki"
+      ],
+      "fr": [
+        "ouvrier (tous genres) : peau claire",
+        "assemblage | industrie | ouvrier | ouvrier (tous genres) | ouvrière | peau claire | usine"
+      ],
+      "de": [
+        "Fabrikarbeiter(in): helle Hautfarbe",
+        "Arbeiter(in) | Fabrik | Fabrikarbeiter(in) | helle Hautfarbe | industriell | Montage"
+      ],
+      "es": [
+        "profesional industrial: tono de piel claro",
+        "fábrica | montaje | obrero | operario | profesional industrial | tono de piel claro | trabajador"
+      ],
+      "pt": [
+        "funcionário de fábrica: pele clara",
+        "fábrica | funcionário de fábrica | industrial | montagem | pele clara | trabalhador"
+      ],
+      "it": [
+        "persona che lavora in fabbrica: carnagione chiara",
+        "assemblaggio | carnagione chiara | fabbrica | industria | operaio | persona che lavora in fabbrica"
+      ],
+      "ro": [
+        "muncitor sau muncitoare în fabrică: ton deschis al pielii",
+        "colectiv | fabrică | industrial | muncitoare | muncitor | muncitor sau muncitoare în fabrică | ton deschis al pielii"
+      ],
+      "he": [
+        "פועל/ת: גוון עור בהיר",
+        "בית חרושת | גוון עור בהיר | מפעל | פועל | פועל/ת | פועלת | תעשייה"
+      ],
+      "ar": [
+        "عامل في مصنع: بشرة بلون فاتح",
+        "بشرة بلون فاتح | تجميع | صناعة | عامل | عامل في مصنع | مصنع"
+      ],
+      "tr": [
+        "fabrika işçisi: açık cilt tonu",
+        "açık cilt tonu | endüstri | fabrika | fabrika işçisi | işçi | montaj | sanayi"
+      ],
+      "vi": [
+        "công nhân nhà máy: màu da sáng",
+        "công nghiệp | công nhân | công nhân nhà máy | lắp ráp | màu da sáng | nhà máy"
+      ],
+      "nl": [
+        "fabrieksarbeider: lichte huidskleur",
+        "arbeider | fabriek | industrieel | lichte huidskleur | lopende band"
+      ]
+    }
+  ],
+  "🧑🏻‍🐰‍🧑🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "people with bunny ears: light skin tone, medium-light skin tone",
+        "bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-light skin tone | pair | party | partying | people | soulmate | twin | twinsies"
+      ],
+      "ru": [
+        "люди с ушами кролика: очень светлый тон кожи светлый тон кожи",
+        "близкие | вечеринка | двое | двойняшки | кордебалет | кролик | очень светлый тон кожи | парочка | подруги | светлый тон кожи | танец | уши"
+      ],
+      "pl": [
+        "osoby z uszami królika na przyjęciu: karnacja jasna i karnacja średnio jasna",
+        "bliźniaczki | dziewczyny | impreza | karnacja jasna | karnacja średnio jasna | kobiety | króliczki | osoby z uszami królika na przyjęciu | przyjaciółki | takie same | tancerki | taniec | uszy"
+      ],
+      "fr": [
+        "personnes avec des oreilles de lapin : peau claire et peau moyennement claire",
+        "amies | bunny | danseuse | déguisement | double | femme | femmes | fête | fille | filles | jumelles | oreilles de lapin | peau claire | peau moyennement claire | personnes avec des oreilles de lapin | synchro"
+      ],
+      "de": [
+        "Personen mit Hasenohren: helle Hautfarbe, mittelhelle Hautfarbe",
+        "Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge"
+      ],
+      "es": [
+        "personas con orejas de conejo: tono de piel claro y tono de piel claro medio",
+        "bailar | fiesta | orejas de conejo | personas | personas con orejas de conejo | tono de piel claro | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoas com orelhas de coelho: pele clara e pele morena clara",
+        "amigas | coelho | dançar | dançarinas | festa | gêmeas | melhores | orelhas | pele clara | pele morena clara"
+      ],
+      "it": [
+        "persone con orecchie da coniglio: carnagione chiara e carnagione abbastanza chiara",
+        "amicizia | anima gemella | ballare | carnagione abbastanza chiara | carnagione chiara | festa | orecchie da coniglio | party | persone con orecchie da coniglio | uguali"
+      ],
+      "ro": [
+        "persoane care poartă urechi de iepuraș: ton deschis al pielii, ton semi‑deschis al pielii",
+        "bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton semi‑deschis al pielii | urechi de iepuraș"
+      ],
+      "he": [
+        "נשים עם אוזני ארנב רוקדות: גוון עור בהיר, גוון עור בהיר בינוני",
+        "אוזני ארנב | אוזני שפן | אישה | ארנבות | גוון עור בהיר | גוון עור בהיר בינוני | מסיבה | רוקדות | רקדניות | שפנפנות | תאומות"
+      ],
+      "ar": [
+        "شخصان يرقصان: بشرة بلون فاتح وبشرة بلون فاتح ومعتدل",
+        "أذن أرنبية | أشخاص | احتفال | امرأة | بشرة بلون فاتح | بشرة بلون فاتح ومعتدل | بنات راقصة | توأم | رفيق | رقص | شخصان يرقصان | صديق | متماثل"
+      ],
+      "tr": [
+        "tavşan kulaklı kişiler: açık cilt tonu orta açık cilt tonu",
+        "açık cilt tonu | aynısı | dans | dansçı | ikiz | kadın | orta açık cilt tonu | parti | ruh ikizi | tavşan kulak | tavşan kulaklar | tavşan kulaklı kişiler | vücut"
+      ],
+      "vi": [
+        "những người đeo tai thỏ: màu da sáng, màu da sáng trung bình",
+        "bản sao | bạn tâm giao | bạn thân | bộ đôi | màu da sáng | màu da sáng trung bình | những người đeo tai thỏ | phụ nữ đeo tai thỏ | sinh đôi | tai thỏ | tiệc tùng | vũ công"
+      ],
+      "nl": [
+        "mensen met konijnenoren: lichte huidskleur, lichtgetinte huidskleur",
+        "bestie | bff | dansen | danser | danseressen | feesten | konijnenoor | konijnenoren | lichte huidskleur | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw"
+      ]
+    }
+  ],
+  "🧑🏻‍🐰‍🧑🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "people with bunny ears: light skin tone, medium skin tone",
+        "bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium skin tone | pair | party | partying | people | soulmate | twin | twinsies"
+      ],
+      "ru": [
+        "люди с ушами кролика: очень светлый тон кожи средний тон кожи",
+        "близкие | вечеринка | двое | двойняшки | кордебалет | кролик | очень светлый тон кожи | парочка | подруги | средний тон кожи | танец | уши"
+      ],
+      "pl": [
+        "osoby z uszami królika na przyjęciu: karnacja jasna i karnacja średnia",
+        "bliźniaczki | dziewczyny | impreza | karnacja jasna | karnacja średnia | kobiety | króliczki | osoby z uszami królika na przyjęciu | przyjaciółki | takie same | tancerki | taniec | uszy"
+      ],
+      "fr": [
+        "personnes avec des oreilles de lapin : peau claire et peau légèrement mate",
+        "amies | bunny | danseuse | déguisement | double | femme | femmes | fête | fille | filles | jumelles | oreilles de lapin | peau claire | peau légèrement mate | personnes avec des oreilles de lapin | synchro"
+      ],
+      "de": [
+        "Personen mit Hasenohren: helle Hautfarbe, mittlere Hautfarbe",
+        "Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge"
+      ],
+      "es": [
+        "personas con orejas de conejo: tono de piel claro y tono de piel medio",
+        "bailar | fiesta | orejas de conejo | personas | personas con orejas de conejo | tono de piel claro | tono de piel medio"
+      ],
+      "pt": [
+        "pessoas com orelhas de coelho: pele clara e pele morena",
+        "amigas | coelho | dançar | dançarinas | festa | gêmeas | melhores | orelhas | pele clara | pele morena"
+      ],
+      "it": [
+        "persone con orecchie da coniglio: carnagione chiara e carnagione olivastra",
+        "amicizia | anima gemella | ballare | carnagione chiara | carnagione olivastra | festa | orecchie da coniglio | party | persone con orecchie da coniglio | uguali"
+      ],
+      "ro": [
+        "persoane care poartă urechi de iepuraș: ton deschis al pielii, ton mediu al pielii",
+        "bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton mediu al pielii | urechi de iepuraș"
+      ],
+      "he": [
+        "נשים עם אוזני ארנב רוקדות: גוון עור בהיר, גוון עור בינוני",
+        "אוזני ארנב | אוזני שפן | אישה | ארנבות | גוון עור בהיר | גוון עור בינוני | מסיבה | רוקדות | רקדניות | שפנפנות | תאומות"
+      ],
+      "ar": [
+        "شخصان يرقصان: بشرة بلون فاتح وبشرة بلون معتدل",
+        "أذن أرنبية | أشخاص | احتفال | امرأة | بشرة بلون فاتح | بشرة بلون معتدل | بنات راقصة | توأم | رفيق | رقص | شخصان يرقصان | صديق | متماثل"
+      ],
+      "tr": [
+        "tavşan kulaklı kişiler: açık cilt tonu orta cilt tonu",
+        "açık cilt tonu | aynısı | dans | dansçı | ikiz | kadın | orta cilt tonu | parti | ruh ikizi | tavşan kulak | tavşan kulaklar | tavşan kulaklı kişiler | vücut"
+      ],
+      "vi": [
+        "những người đeo tai thỏ: màu da sáng, màu da trung bình",
+        "bản sao | bạn tâm giao | bạn thân | bộ đôi | màu da sáng | màu da trung bình | những người đeo tai thỏ | phụ nữ đeo tai thỏ | sinh đôi | tai thỏ | tiệc tùng | vũ công"
+      ],
+      "nl": [
+        "mensen met konijnenoren: lichte huidskleur, getinte huidskleur",
+        "bestie | bff | dansen | danser | danseressen | feesten | getinte huidskleur | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw"
+      ]
+    }
+  ]
+}

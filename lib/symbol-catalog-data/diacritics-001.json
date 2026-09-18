@@ -1,0 +1,639 @@
+{
+  "^": [
+    "diacritics",
+    "circumflex accent",
+    {
+      "en": [
+        "circumflex accent",
+        "accent | caret | chevron | circumflex | control | hat | pointer | power | sign | wedge | xor"
+      ],
+      "ru": [
+        "циркумфлекс",
+        "домик | исключающее или | карет | крышечка | оператор | циркумфлекс"
+      ],
+      "pl": [
+        "akcent przeciągły",
+        "akcent | akcent przeciągły | cyrkumfleks | daszek | znak diakrytyczny"
+      ],
+      "fr": [
+        "accent circonflexe",
+        "accent circonflexe | caret | chapeau | chevron | circonflexe | puissance | symbole xor"
+      ],
+      "de": ["Zirkumflex", "Akzentzeichen | Caret | Dach | Zirkumflex"],
+      "es": [
+        "acento circunflejo",
+        "acento | circunflejo | control | intercalación | potencia"
+      ],
+      "pt": [
+        "acento circunflexo",
+        "acento | chapéu | circunflexo | cunha | divisão | potência | seta | sinal xor"
+      ],
+      "it": [
+        "accento circonflesso",
+        "accento | caret | chevron | circonflesso | potenza | puntatore | segno xor"
+      ],
+      "ro": [
+        "accent circumflex",
+        "accent | căciuliță | circumflex | indicator | putere"
+      ],
+      "he": ["סימן גג", "גג | חזקה | סימן גג | סימן דיאקריטי | קארט"],
+      "ar": [
+        "مدة معقوفة",
+        "الضرب المنطقي | رفع | علامة الاستثناء | مدة معقوفة | معقوفة"
+      ],
+      "tr": [
+        "inceltme işareti",
+        "aksan | inceltme | inceltme işareti | şapka işareti | xor | zikzak çıta"
+      ],
+      "vi": [
+        "dấu mũ",
+        "con trỏ | dấu | dấu tuyển loại trừ | điều khiển | lũy thừa | mũ | nêm | nón"
+      ],
+      "nl": [
+        "accent circonflexe",
+        "aan/uit | aanwijzer | accent | caret | chevron | circonflexe | dakje"
+      ]
+    }
+  ],
+  "`": [
+    "diacritics",
+    "grave accent",
+    {
+      "en": ["grave accent", "accent | grave | tone"],
+      "ru": ["гравис", "гравис | ударение"],
+      "pl": ["grawis", "akcent | grawis | znak diakrytyczny"],
+      "fr": ["accent grave", "accent grave | grave"],
+      "de": ["Gravis", "Akzent | Betonung | Gravis"],
+      "es": ["acento grave", "acento | grave | tono"],
+      "pt": ["acento grave", "acento | acentuação | grave | tom"],
+      "it": ["accento grave", "accento | grave | tono"],
+      "ro": ["accent grav", "accent | grav | ton"],
+      "he": ["סימן הטעמה משני", "הטעמה | סימן דיאקריטי | סימן הטעמה משני"],
+      "ar": ["نبر الإطالة", "إطالة | نبر | نبر الإطالة | نبرة"],
+      "tr": ["aksan işareti", "aksan | aksan işareti | işaret | ton | vurgu"],
+      "vi": ["dấu huyền", "dấu | huyền | nốt"],
+      "nl": ["accent grave", "accent | grave | toon"]
+    }
+  ],
+  "¨": [
+    "diacritics",
+    "diaeresis",
+    {
+      "en": ["diaeresis", "diaeresis | tréma | umlaut"],
+      "ru": ["диерезис", "диерезис | трема | умлаут | умляут"],
+      "pl": ["diereza", "diereza | umlaut"],
+      "fr": ["diérèse", "diérèse | tréma | umlaut"],
+      "de": ["Trema", "Diärese | Trema | Umlaut"],
+      "es": ["diéresis", "crema | diéresis | tréma | umlaut"],
+      "pt": ["trema", "diérese | trema | umlaut"],
+      "it": ["dieresi", "dieresi | simbolo"],
+      "ro": ["tremă", "tremă | umlaut"],
+      "he": ["אוּמְלַאוּט", "אומלאוט | אוּמְלַאוּט | טרמה | סימן דיאקריטי"],
+      "ar": ["نقطتان على الحرف", "علامة فك | نقطتان | نقطتان على الحرف"],
+      "tr": ["ikilenme", "çift nokta | ikilenme | umlaut"],
+      "vi": ["dấu tách đôi", "dấu tách đôi"],
+      "nl": ["trema", "trema | umlaut"]
+    }
+  ],
+  "¯": ["diacritics", "macron", {}],
+  "´": [
+    "diacritics",
+    "acute accent",
+    {
+      "en": ["acute accent", "accent | acute | tone"],
+      "ru": ["акут", "акут | ударение"],
+      "pl": [
+        "akcent ostry",
+        "akcent | akcent ostry | akcent silny | akut | znak diakrytyczny"
+      ],
+      "fr": ["accent aigu", "accent | aigu | ton"],
+      "de": ["Akut", "Akut | Akzent | Betonung"],
+      "es": ["acento agudo", "acento | agudo | tono"],
+      "pt": ["acento agudo", "acento | agudo | tom"],
+      "it": ["accento acuto", "accento | acuto | tono"],
+      "ro": ["accent ascuțit", "accent | ascuțit | ton"],
+      "he": ["סימן הטעמה", "הטעמה | סימן דיאקריטי | סימן הטעמה"],
+      "ar": ["نبرة حادة", "حادة | نبر | نبرة"],
+      "tr": ["tiz aksan", "aksan | tiz aksan | tiz vurgu"],
+      "vi": ["dấu sắc", "dấu | nốt | sắc"],
+      "nl": ["accent aigu", "accent | aigu | toon"]
+    }
+  ],
+  "¸": ["diacritics", "cedilla", {}],
+  "̀": ["diacritics", "combining grave accent", {}],
+  "́": ["diacritics", "combining acute accent", {}],
+  "̂": ["diacritics", "combining circumflex accent", {}],
+  "̃": ["diacritics", "combining tilde", {}],
+  "̄": ["diacritics", "combining macron", {}],
+  "̅": ["diacritics", "combining overline", {}],
+  "̆": ["diacritics", "combining breve", {}],
+  "̇": ["diacritics", "combining dot above", {}],
+  "̈": ["diacritics", "combining diaeresis", {}],
+  "̉": ["diacritics", "combining hook above", {}],
+  "̊": ["diacritics", "combining ring above", {}],
+  "̋": ["diacritics", "combining double acute accent", {}],
+  "̌": ["diacritics", "combining caron", {}],
+  "̍": ["diacritics", "combining vertical line above", {}],
+  "̎": ["diacritics", "combining double vertical line above", {}],
+  "̏": ["diacritics", "combining double grave accent", {}],
+  "̐": ["diacritics", "combining candrabindu", {}],
+  "̑": ["diacritics", "combining inverted breve", {}],
+  "̒": ["diacritics", "combining turned comma above", {}],
+  "̓": ["diacritics", "combining comma above", {}],
+  "̔": ["diacritics", "combining reversed comma above", {}],
+  "̕": ["diacritics", "combining comma above right", {}],
+  "̖": ["diacritics", "combining grave accent below", {}],
+  "̗": ["diacritics", "combining acute accent below", {}],
+  "̘": ["diacritics", "combining left tack below", {}],
+  "̙": ["diacritics", "combining right tack below", {}],
+  "̚": ["diacritics", "combining left angle above", {}],
+  "̛": ["diacritics", "combining horn", {}],
+  "̜": ["diacritics", "combining left half ring below", {}],
+  "̝": ["diacritics", "combining up tack below", {}],
+  "̞": ["diacritics", "combining down tack below", {}],
+  "̟": ["diacritics", "combining plus sign below", {}],
+  "̠": ["diacritics", "combining minus sign below", {}],
+  "̡": ["diacritics", "combining palatalized hook below", {}],
+  "̢": ["diacritics", "combining retroflex hook below", {}],
+  "̣": ["diacritics", "combining dot below", {}],
+  "̤": ["diacritics", "combining diaeresis below", {}],
+  "̥": ["diacritics", "combining ring below", {}],
+  "̦": ["diacritics", "combining comma below", {}],
+  "̧": ["diacritics", "combining cedilla", {}],
+  "̨": ["diacritics", "combining ogonek", {}],
+  "̩": ["diacritics", "combining vertical line below", {}],
+  "̪": ["diacritics", "combining bridge below", {}],
+  "̫": ["diacritics", "combining inverted double arch below", {}],
+  "̬": ["diacritics", "combining caron below", {}],
+  "̭": ["diacritics", "combining circumflex accent below", {}],
+  "̮": ["diacritics", "combining breve below", {}],
+  "̯": ["diacritics", "combining inverted breve below", {}],
+  "̰": ["diacritics", "combining tilde below", {}],
+  "̱": ["diacritics", "combining macron below", {}],
+  "̲": ["diacritics", "combining low line", {}],
+  "̳": ["diacritics", "combining double low line", {}],
+  "̴": ["diacritics", "combining tilde overlay", {}],
+  "̵": ["diacritics", "combining short stroke overlay", {}],
+  "̶": ["diacritics", "combining long stroke overlay", {}],
+  "̷": ["diacritics", "combining short solidus overlay", {}],
+  "̸": ["diacritics", "combining long solidus overlay", {}],
+  "̹": ["diacritics", "combining right half ring below", {}],
+  "̺": ["diacritics", "combining inverted bridge below", {}],
+  "̻": ["diacritics", "combining square below", {}],
+  "̼": ["diacritics", "combining seagull below", {}],
+  "̽": ["diacritics", "combining x above", {}],
+  "̾": ["diacritics", "combining vertical tilde", {}],
+  "̿": ["diacritics", "combining double overline", {}],
+  "̀": ["diacritics", "combining grave tone mark", {}],
+  "́": ["diacritics", "combining acute tone mark", {}],
+  "͂": ["diacritics", "combining greek perispomeni", {}],
+  "̓": ["diacritics", "combining greek koronis", {}],
+  "̈́": ["diacritics", "combining greek dialytika tonos", {}],
+  "ͅ": ["diacritics", "combining greek ypogegrammeni", {}],
+  "͆": ["diacritics", "combining bridge above", {}],
+  "͇": ["diacritics", "combining equals sign below", {}],
+  "͈": ["diacritics", "combining double vertical line below", {}],
+  "͉": ["diacritics", "combining left angle below", {}],
+  "͊": ["diacritics", "combining not tilde above", {}],
+  "͋": ["diacritics", "combining homothetic above", {}],
+  "͌": ["diacritics", "combining almost equal to above", {}],
+  "͍": ["diacritics", "combining left right arrow below", {}],
+  "͎": ["diacritics", "combining upwards arrow below", {}],
+  "͏": ["diacritics", "combining grapheme joiner", {}],
+  "͐": ["diacritics", "combining right arrowhead above", {}],
+  "͑": ["diacritics", "combining left half ring above", {}],
+  "͒": ["diacritics", "combining fermata", {}],
+  "͓": ["diacritics", "combining x below", {}],
+  "͔": ["diacritics", "combining left arrowhead below", {}],
+  "͕": ["diacritics", "combining right arrowhead below", {}],
+  "͖": ["diacritics", "combining right arrowhead and up arrowhead below", {}],
+  "͗": ["diacritics", "combining right half ring above", {}],
+  "͘": ["diacritics", "combining dot above right", {}],
+  "͙": ["diacritics", "combining asterisk below", {}],
+  "͚": ["diacritics", "combining double ring below", {}],
+  "͛": ["diacritics", "combining zigzag above", {}],
+  "͜": ["diacritics", "combining double breve below", {}],
+  "͝": ["diacritics", "combining double breve", {}],
+  "͞": ["diacritics", "combining double macron", {}],
+  "͟": ["diacritics", "combining double macron below", {}],
+  "͠": ["diacritics", "combining double tilde", {}],
+  "͡": ["diacritics", "combining double inverted breve", {}],
+  "͢": ["diacritics", "combining double rightwards arrow below", {}],
+  "ͣ": ["diacritics", "combining latin small letter a", {}],
+  "ͤ": ["diacritics", "combining latin small letter e", {}],
+  "ͥ": ["diacritics", "combining latin small letter i", {}],
+  "ͦ": ["diacritics", "combining latin small letter o", {}],
+  "ͧ": ["diacritics", "combining latin small letter u", {}],
+  "ͨ": ["diacritics", "combining latin small letter c", {}],
+  "ͩ": ["diacritics", "combining latin small letter d", {}],
+  "ͪ": ["diacritics", "combining latin small letter h", {}],
+  "ͫ": ["diacritics", "combining latin small letter m", {}],
+  "ͬ": ["diacritics", "combining latin small letter r", {}],
+  "ͭ": ["diacritics", "combining latin small letter t", {}],
+  "ͮ": ["diacritics", "combining latin small letter v", {}],
+  "ͯ": ["diacritics", "combining latin small letter x", {}],
+  "͵": ["diacritics", "greek lower numeral sign", {}],
+  "΄": ["diacritics", "greek tonos", {}],
+  "΅": ["diacritics", "greek dialytika tonos", {}],
+  "҃": ["diacritics", "combining cyrillic titlo", {}],
+  "҄": ["diacritics", "combining cyrillic palatalization", {}],
+  "҅": ["diacritics", "combining cyrillic dasia pneumata", {}],
+  "҆": ["diacritics", "combining cyrillic psili pneumata", {}],
+  "҇": ["diacritics", "combining cyrillic pokrytie", {}],
+  "҈": ["diacritics", "combining cyrillic hundred thousands sign", {}],
+  "҉": ["diacritics", "combining cyrillic millions sign", {}],
+  "֑": ["diacritics", "hebrew accent etnahta", {}],
+  "֒": ["diacritics", "hebrew accent segol", {}],
+  "֓": ["diacritics", "hebrew accent shalshelet", {}],
+  "֔": ["diacritics", "hebrew accent zaqef qatan", {}],
+  "֕": ["diacritics", "hebrew accent zaqef gadol", {}],
+  "֖": ["diacritics", "hebrew accent tipeha", {}],
+  "֗": ["diacritics", "hebrew accent revia", {}],
+  "֘": ["diacritics", "hebrew accent zarqa", {}],
+  "֙": ["diacritics", "hebrew accent pashta", {}],
+  "֚": ["diacritics", "hebrew accent yetiv", {}],
+  "֛": ["diacritics", "hebrew accent tevir", {}],
+  "֜": ["diacritics", "hebrew accent geresh", {}],
+  "֝": ["diacritics", "hebrew accent geresh muqdam", {}],
+  "֞": ["diacritics", "hebrew accent gershayim", {}],
+  "֟": ["diacritics", "hebrew accent qarney para", {}],
+  "֠": ["diacritics", "hebrew accent telisha gedola", {}],
+  "֡": ["diacritics", "hebrew accent pazer", {}],
+  "֢": ["diacritics", "hebrew accent atnah hafukh", {}],
+  "֣": ["diacritics", "hebrew accent munah", {}],
+  "֤": ["diacritics", "hebrew accent mahapakh", {}],
+  "֥": ["diacritics", "hebrew accent merkha", {}],
+  "֦": ["diacritics", "hebrew accent merkha kefula", {}],
+  "֧": ["diacritics", "hebrew accent darga", {}],
+  "֨": ["diacritics", "hebrew accent qadma", {}],
+  "֩": ["diacritics", "hebrew accent telisha qetana", {}],
+  "֪": ["diacritics", "hebrew accent yerah ben yomo", {}],
+  "֫": ["diacritics", "hebrew accent ole", {}],
+  "֬": ["diacritics", "hebrew accent iluy", {}],
+  "֭": ["diacritics", "hebrew accent dehi", {}],
+  "֮": ["diacritics", "hebrew accent zinor", {}],
+  "֯": ["diacritics", "hebrew mark masora circle", {}],
+  "ְ": ["diacritics", "hebrew point sheva", {}],
+  "ֱ": ["diacritics", "hebrew point hataf segol", {}],
+  "ֲ": ["diacritics", "hebrew point hataf patah", {}],
+  "ֳ": ["diacritics", "hebrew point hataf qamats", {}],
+  "ִ": ["diacritics", "hebrew point hiriq", {}],
+  "ֵ": ["diacritics", "hebrew point tsere", {}],
+  "ֶ": ["diacritics", "hebrew point segol", {}],
+  "ַ": ["diacritics", "hebrew point patah", {}],
+  "ָ": ["diacritics", "hebrew point qamats", {}],
+  "ֹ": ["diacritics", "hebrew point holam", {}],
+  "ֺ": ["diacritics", "hebrew point holam haser for vav", {}],
+  "ֻ": ["diacritics", "hebrew point qubuts", {}],
+  "ּ": ["diacritics", "hebrew point dagesh or mapiq", {}],
+  "ֽ": ["diacritics", "hebrew point meteg", {}],
+  "ֿ": ["diacritics", "hebrew point rafe", {}],
+  "ׁ": ["diacritics", "hebrew point shin dot", {}],
+  "ׂ": ["diacritics", "hebrew point sin dot", {}],
+  "ׄ": ["diacritics", "hebrew mark upper dot", {}],
+  "ׅ": ["diacritics", "hebrew mark lower dot", {}],
+  "ׇ": ["diacritics", "hebrew point qamats qatan", {}],
+  "ؐ": ["diacritics", "arabic sign sallallahou alayhe wassallam", {}],
+  "ؑ": ["diacritics", "arabic sign alayhe assallam", {}],
+  "ؒ": ["diacritics", "arabic sign rahmatullah alayhe", {}],
+  "ؓ": ["diacritics", "arabic sign radi allahou anhu", {}],
+  "ؔ": ["diacritics", "arabic sign takhallus", {}],
+  "ؕ": ["diacritics", "arabic small high tah", {}],
+  "ؖ": ["diacritics", "arabic small high ligature alef with lam with yeh", {}],
+  "ؗ": ["diacritics", "arabic small high zain", {}],
+  "ؘ": ["diacritics", "arabic small fatha", {}],
+  "ؙ": ["diacritics", "arabic small damma", {}],
+  "ؚ": ["diacritics", "arabic small kasra", {}],
+  "ً": ["diacritics", "arabic fathatan", {}],
+  "ٌ": ["diacritics", "arabic dammatan", {}],
+  "ٍ": ["diacritics", "arabic kasratan", {}],
+  "َ": ["diacritics", "arabic fatha", {}],
+  "ُ": ["diacritics", "arabic damma", {}],
+  "ِ": ["diacritics", "arabic kasra", {}],
+  "ّ": ["diacritics", "arabic shadda", {}],
+  "ْ": ["diacritics", "arabic sukun", {}],
+  "ٓ": ["diacritics", "arabic maddah above", {}],
+  "ٔ": ["diacritics", "arabic hamza above", {}],
+  "ٕ": ["diacritics", "arabic hamza below", {}],
+  "ٖ": ["diacritics", "arabic subscript alef", {}],
+  "ٗ": ["diacritics", "arabic inverted damma", {}],
+  "٘": ["diacritics", "arabic mark noon ghunna", {}],
+  "ٙ": ["diacritics", "arabic zwarakay", {}],
+  "ٚ": ["diacritics", "arabic vowel sign small v above", {}],
+  "ٛ": ["diacritics", "arabic vowel sign inverted small v above", {}],
+  "ٜ": ["diacritics", "arabic vowel sign dot below", {}],
+  "ٝ": ["diacritics", "arabic reversed damma", {}],
+  "ٞ": ["diacritics", "arabic fatha with two dots", {}],
+  "ٟ": ["diacritics", "arabic wavy hamza below", {}],
+  "ٰ": ["diacritics", "arabic letter superscript alef", {}],
+  "ۖ": [
+    "diacritics",
+    "arabic small high ligature sad with lam with alef maksura",
+    {}
+  ],
+  "ۗ": [
+    "diacritics",
+    "arabic small high ligature qaf with lam with alef maksura",
+    {}
+  ],
+  "ۘ": ["diacritics", "arabic small high meem initial form", {}],
+  "ۙ": ["diacritics", "arabic small high lam alef", {}],
+  "ۚ": ["diacritics", "arabic small high jeem", {}],
+  "ۛ": ["diacritics", "arabic small high three dots", {}],
+  "ۜ": ["diacritics", "arabic small high seen", {}],
+  "۟": ["diacritics", "arabic small high rounded zero", {}],
+  "۠": ["diacritics", "arabic small high upright rectangular zero", {}],
+  "ۡ": ["diacritics", "arabic small high dotless head of khah", {}],
+  "ۢ": ["diacritics", "arabic small high meem isolated form", {}],
+  "ۣ": ["diacritics", "arabic small low seen", {}],
+  "ۤ": ["diacritics", "arabic small high madda", {}],
+  "ۧ": ["diacritics", "arabic small high yeh", {}],
+  "ۨ": ["diacritics", "arabic small high noon", {}],
+  "۪": ["diacritics", "arabic empty centre low stop", {}],
+  "۫": ["diacritics", "arabic empty centre high stop", {}],
+  "۬": ["diacritics", "arabic rounded high stop with filled centre", {}],
+  "ۭ": ["diacritics", "arabic small low meem", {}],
+  "⃐": ["diacritics", "combining left harpoon above", {}],
+  "⃑": ["diacritics", "combining right harpoon above", {}],
+  "⃒": ["diacritics", "combining long vertical line overlay", {}],
+  "⃓": ["diacritics", "combining short vertical line overlay", {}],
+  "⃔": ["diacritics", "combining anticlockwise arrow above", {}],
+  "⃕": ["diacritics", "combining clockwise arrow above", {}],
+  "⃖": ["diacritics", "combining left arrow above", {}],
+  "⃗": ["diacritics", "combining right arrow above", {}],
+  "⃘": ["diacritics", "combining ring overlay", {}],
+  "⃙": ["diacritics", "combining clockwise ring overlay", {}],
+  "⃚": ["diacritics", "combining anticlockwise ring overlay", {}],
+  "⃛": ["diacritics", "combining three dots above", {}],
+  "⃜": ["diacritics", "combining four dots above", {}],
+  "⃝": ["diacritics", "combining enclosing circle", {}],
+  "⃞": ["diacritics", "combining enclosing square", {}],
+  "⃟": ["diacritics", "combining enclosing diamond", {}],
+  "⃠": ["diacritics", "combining enclosing circle backslash", {}],
+  "⃡": ["diacritics", "combining left right arrow above", {}],
+  "⃢": ["diacritics", "combining enclosing screen", {}],
+  "⃣": ["diacritics", "combining enclosing keycap", {}],
+  "⃤": ["diacritics", "combining enclosing upward pointing triangle", {}],
+  "⃥": ["diacritics", "combining reverse solidus overlay", {}],
+  "⃦": ["diacritics", "combining double vertical stroke overlay", {}],
+  "⃧": ["diacritics", "combining annuity symbol", {}],
+  "⃨": ["diacritics", "combining triple underdot", {}],
+  "⃩": ["diacritics", "combining wide bridge above", {}],
+  "⃪": ["diacritics", "combining leftwards arrow overlay", {}],
+  "⃫": ["diacritics", "combining long double solidus overlay", {}],
+  "⃬": ["diacritics", "combining rightwards harpoon with barb downwards", {}],
+  "⃭": ["diacritics", "combining leftwards harpoon with barb downwards", {}],
+  "⃮": ["diacritics", "combining left arrow below", {}],
+  "⃯": ["diacritics", "combining right arrow below", {}],
+  "⃰": ["diacritics", "combining asterisk above", {}],
+  "〪": ["diacritics", "ideographic level tone mark", {}],
+  "〫": ["diacritics", "ideographic rising tone mark", {}],
+  "〬": ["diacritics", "ideographic departing tone mark", {}],
+  "〭": ["diacritics", "ideographic entering tone mark", {}],
+  "〮": ["diacritics", "hangul single dot tone mark", {}],
+  "〯": ["diacritics", "hangul double dot tone mark", {}],
+  "𝅥": ["diacritics", "musical symbol combining stem", {}],
+  "𝅦": ["diacritics", "musical symbol combining sprechgesang stem", {}],
+  "𝅧": ["diacritics", "musical symbol combining tremolo-1", {}],
+  "𝅨": ["diacritics", "musical symbol combining tremolo-2", {}],
+  "𝅩": ["diacritics", "musical symbol combining tremolo-3", {}],
+  "𝅭": ["diacritics", "musical symbol combining augmentation dot", {}],
+  "𝅮": ["diacritics", "musical symbol combining flag-1", {}],
+  "𝅯": ["diacritics", "musical symbol combining flag-2", {}],
+  "𝅰": ["diacritics", "musical symbol combining flag-3", {}],
+  "𝅱": ["diacritics", "musical symbol combining flag-4", {}],
+  "𝅲": ["diacritics", "musical symbol combining flag-5", {}],
+  "𝅻": ["diacritics", "musical symbol combining accent", {}],
+  "𝅼": ["diacritics", "musical symbol combining staccato", {}],
+  "𝅽": ["diacritics", "musical symbol combining tenuto", {}],
+  "𝅾": ["diacritics", "musical symbol combining staccatissimo", {}],
+  "𝅿": ["diacritics", "musical symbol combining marcato", {}],
+  "𝆀": ["diacritics", "musical symbol combining marcato-staccato", {}],
+  "𝆁": ["diacritics", "musical symbol combining accent-staccato", {}],
+  "𝆂": ["diacritics", "musical symbol combining loure", {}],
+  "𝆅": ["diacritics", "musical symbol combining doit", {}],
+  "𝆆": ["diacritics", "musical symbol combining rip", {}],
+  "𝆇": ["diacritics", "musical symbol combining flip", {}],
+  "𝆈": ["diacritics", "musical symbol combining smear", {}],
+  "𝆉": ["diacritics", "musical symbol combining bend", {}],
+  "𝆊": ["diacritics", "musical symbol combining double tongue", {}],
+  "𝆋": ["diacritics", "musical symbol combining triple tongue", {}],
+  "𝆪": ["diacritics", "musical symbol combining down bow", {}],
+  "𝆫": ["diacritics", "musical symbol combining up bow", {}],
+  "𝆬": ["diacritics", "musical symbol combining harmonic", {}],
+  "𝆭": ["diacritics", "musical symbol combining snap pizzicato", {}],
+  "𝉂": ["diacritics", "combining greek musical triseme", {}],
+  "𝉃": ["diacritics", "combining greek musical tetraseme", {}],
+  "𝉄": ["diacritics", "combining greek musical pentaseme", {}],
+  "🏻": [
+    "diacritics",
+    "emoji modifier fitzpatrick type-1-2",
+    {
+      "en": ["light skin tone", "1–2 | light | skin | tone | type"],
+      "ru": [
+        "очень светлый тон кожи",
+        "кожа | оттенок | очень светлый тон кожи | светлый | тело | цвет | цвет кожи | цвет кожи 1–2"
+      ],
+      "pl": [
+        "karnacja jasna",
+        "karnacja | karnacja jasna | odcień skóry | typ 1–2"
+      ],
+      "fr": ["peau claire", "peau | peau claire"],
+      "de": ["helle Hautfarbe", "Hautfarbe | Hauttyp 1–2 | helle Hautfarbe"],
+      "es": [
+        "tono de piel claro",
+        "piel | tipo 1 | tipo 2 | tono | tono de piel | tono de piel claro"
+      ],
+      "pt": ["pele clara", "pele | pele clara | tipo 1–2 | tom"],
+      "it": [
+        "carnagione chiara",
+        "carnagione chiara | colore della pelle | fototipo | pelle chiara | tonalità"
+      ],
+      "ro": [
+        "ton deschis al pielii",
+        "nuanță | piele | tipul 1–2 | ton deschis al pielii"
+      ],
+      "he": ["גוון עור בהיר", "גוון עור | גוון עור בהיר | סוג 1–2"],
+      "ar": [
+        "بشرة بلون فاتح",
+        "بشرة بلون فاتح | تعديل | جلد | رمز | لون | نوع جلد 1–2"
+      ],
+      "tr": ["açık cilt tonu", "açık cilt tonu | cilt tonu | tip 1–2"],
+      "vi": ["màu da sáng", "loại 1–2 | màu da | màu da sáng"],
+      "nl": ["lichte huidskleur", "huidskleur | lichte huidskleur | type 1–2"]
+    }
+  ],
+  "🏼": [
+    "diacritics",
+    "emoji modifier fitzpatrick type-3",
+    {
+      "en": ["medium-light skin tone", "3 | medium-light | skin | tone | type"],
+      "ru": [
+        "светлый тон кожи",
+        "кожа | оттенок | светлый | светлый тон кожи | тело | цвет | цвет кожи | цвет кожи 3"
+      ],
+      "pl": [
+        "karnacja średnio jasna",
+        "karnacja | karnacja średnio jasna | odcień skóry | typ 3"
+      ],
+      "fr": ["peau moyennement claire", "peau | peau moyennement claire"],
+      "de": [
+        "mittelhelle Hautfarbe",
+        "Hautfarbe | Hauttyp 3 | mittelhelle Hautfarbe"
+      ],
+      "es": [
+        "tono de piel claro medio",
+        "piel | tipo 3 | tono | tono de piel | tono de piel claro medio"
+      ],
+      "pt": ["pele morena clara", "clara | morena | pele | tipo 3 | tom"],
+      "it": [
+        "carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | colore della pelle | fototipo | pelle abbastanza chiara | tonalità"
+      ],
+      "ro": [
+        "ton semi‑deschis al pielii",
+        "nuanță | piele | tipul 3 | ton semi‑deschis al pielii"
+      ],
+      "he": ["גוון עור בהיר בינוני", "גוון עור | גוון עור בהיר בינוני | סוג 3"],
+      "ar": [
+        "بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | تعديل | جلد | رمز | لون | نوع جلد 3"
+      ],
+      "tr": ["orta açık cilt tonu", "cilt tonu | orta açık cilt tonu | tip 3"],
+      "vi": [
+        "màu da sáng trung bình",
+        "loại 3 | màu da | màu da sáng trung bình"
+      ],
+      "nl": [
+        "lichtgetinte huidskleur",
+        "huidskleur | lichtgetinte huidskleur | type 3"
+      ]
+    }
+  ],
+  "🏽": [
+    "diacritics",
+    "emoji modifier fitzpatrick type-4",
+    {
+      "en": ["medium skin tone", "4 | medium | skin | tone | type"],
+      "ru": [
+        "средний тон кожи",
+        "кожа | оттенок | смуглый | средний тон кожи | тело | цвет | цвет кожи | цвет кожи 4"
+      ],
+      "pl": [
+        "karnacja średnia",
+        "karnacja | karnacja średnia | odcień skóry | typ 4"
+      ],
+      "fr": ["peau légèrement mate", "peau | peau légèrement mate"],
+      "de": [
+        "mittlere Hautfarbe",
+        "Hautfarbe | Hauttyp 4 | mittlere Hautfarbe"
+      ],
+      "es": [
+        "tono de piel medio",
+        "piel | tipo 4 | tono | tono de piel | tono de piel medio"
+      ],
+      "pt": ["pele morena", "pele | pele morena | tipo 4 | tom"],
+      "it": [
+        "carnagione olivastra",
+        "carnagione olivastra | colore della pelle | fototipo | pelle olivastra | tonalità"
+      ],
+      "ro": [
+        "ton mediu al pielii",
+        "nuanță | piele | tipul 4 | ton mediu al pielii"
+      ],
+      "he": ["גוון עור בינוני", "גוון עור | גוון עור בינוני | סוג 4"],
+      "ar": [
+        "بشرة بلون معتدل",
+        "بشرة بلون معتدل | تعديل | جلد | رمز | لون | نوع جلد 4"
+      ],
+      "tr": ["orta cilt tonu", "cilt tonu | orta cilt tonu | tip 4"],
+      "vi": ["màu da trung bình", "loại 4 | màu da | màu da trung bình"],
+      "nl": ["getinte huidskleur", "getinte huidskleur | huidskleur | type 4"]
+    }
+  ],
+  "🏾": [
+    "diacritics",
+    "emoji modifier fitzpatrick type-5",
+    {
+      "en": ["medium-dark skin tone", "5 | medium-dark | skin | tone | type"],
+      "ru": [
+        "темный тон кожи",
+        "кожа | оттенок | тело | темный | темный тон кожи | цвет | цвет кожи | цвет кожи 5"
+      ],
+      "pl": [
+        "karnacja średnio ciemna",
+        "karnacja | karnacja średnio ciemna | odcień skóry | typ 5"
+      ],
+      "fr": ["peau mate", "peau | peau mate"],
+      "de": [
+        "mitteldunkle Hautfarbe",
+        "Hautfarbe | Hauttyp 5 | mitteldunkle Hautfarbe"
+      ],
+      "es": [
+        "tono de piel oscuro medio",
+        "piel | tipo 5 | tono | tono de piel | tono de piel oscuro medio"
+      ],
+      "pt": ["pele morena escura", "escura | morena | pele | tipo 5 | tom"],
+      "it": [
+        "carnagione abbastanza scura",
+        "carnagione abbastanza scura | colore della pelle | fototipo | pelle abbastanza scura | tonalità"
+      ],
+      "ro": [
+        "ton semi‑închis al pielii",
+        "nuanță | piele | tipul 5 | ton semi‑închis al pielii"
+      ],
+      "he": ["גוון עור כהה בינוני", "גוון עור | גוון עור כהה בינוני | סוג 5"],
+      "ar": [
+        "بشرة بلون معتدل مائل للغامق",
+        "بشرة بلون معتدل مائل للغامق | تعديل | جلد | رمز | لون | نوع جلد 5"
+      ],
+      "tr": ["orta koyu cilt tonu", "cilt tonu | orta koyu cilt tonu | tip 5"],
+      "vi": [
+        "màu da tối trung bình",
+        "loại 5 | màu da | màu da tối trung bình"
+      ],
+      "nl": [
+        "donkergetinte huidskleur",
+        "donkergetinte huidskleur | huidskleur | type 5"
+      ]
+    }
+  ],
+  "🏿": [
+    "diacritics",
+    "emoji modifier fitzpatrick type-6",
+    {
+      "en": ["dark skin tone", "6 | dark | skin | tone | type"],
+      "ru": [
+        "очень темный тон кожи",
+        "кожа | оттенок | очень темный тон кожи | тело | темный | цвет | цвет кожи | цвет кожи 6"
+      ],
+      "pl": [
+        "karnacja ciemna",
+        "karnacja | karnacja ciemna | odcień skóry | typ 6"
+      ],
+      "fr": ["peau foncée", "peau | peau foncée | peau mate"],
+      "de": ["dunkle Hautfarbe", "dunkle Hautfarbe | Hautfarbe | Hauttyp 6"],
+      "es": [
+        "tono de piel oscuro",
+        "piel | tipo 6 | tono | tono de piel | tono de piel oscuro"
+      ],
+      "pt": ["pele escura", "pele escura | tipo 6 | tom de pele"],
+      "it": [
+        "carnagione scura",
+        "carnagione scura | colore della pelle | fototipo | pelle scura | tonalità"
+      ],
+      "ro": [
+        "ton închis al pielii",
+        "nuanță | piele | tipul 6 | ton închis al pielii"
+      ],
+      "he": ["גוון עור כהה", "גוון עור | גוון עור כהה | סוג 6"],
+      "ar": [
+        "بشرة بلون غامق",
+        "بشرة بلون غامق | تعديل | جلد | رمز | لون | نوع جلد 6"
+      ],
+      "tr": ["koyu cilt tonu", "cilt tonu | koyu cilt tonu | tip 6"],
+      "vi": ["màu da tối", "loại 6 | màu da | màu da tối"],
+      "nl": ["donkere huidskleur", "donkere huidskleur | huidskleur | type 6"]
+    }
+  ]
+}

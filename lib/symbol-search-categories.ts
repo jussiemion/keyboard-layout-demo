@@ -1,7 +1,9 @@
+import emojiSymbols from './symbol-emoji.json' with { type: 'json' };
 import type { Locale } from './typing-engine.ts';
 import type { SymbolSearchItem } from './symbol-search-index.ts';
 
 export const SYMBOL_CATEGORIES = [
+  'emoji',
   'currency',
   'diacritics',
   'math',
@@ -18,6 +20,7 @@ export const symbolCategoryNames: Record<
   Record<SymbolCategory, string>
 > = {
   tr: {
+    emoji: 'Emoji',
     currency: 'Para birimleri',
     diacritics: 'Aksan işaretleri',
     math: 'Matematik',
@@ -28,6 +31,7 @@ export const symbolCategoryNames: Record<
     other: 'Diğer simgeler',
   },
   nl: {
+    emoji: 'Emoji',
     currency: 'Valuta',
     diacritics: 'Diakritische tekens',
     math: 'Wiskunde',
@@ -38,6 +42,7 @@ export const symbolCategoryNames: Record<
     other: 'Andere symbolen',
   },
   vi: {
+    emoji: 'Biểu tượng cảm xúc',
     currency: 'Tiền tệ',
     diacritics: 'Dấu phụ',
     math: 'Toán học',
@@ -48,6 +53,7 @@ export const symbolCategoryNames: Record<
     other: 'Ký hiệu khác',
   },
   ar: {
+    emoji: 'إيموجي',
     currency: 'العملات',
     diacritics: 'العلامات الإضافية',
     math: 'الرياضيات',
@@ -59,6 +65,7 @@ export const symbolCategoryNames: Record<
   },
 
   en: {
+    emoji: 'Emoji',
     currency: 'Currencies',
     diacritics: 'Diacritics',
     math: 'Mathematics',
@@ -69,6 +76,7 @@ export const symbolCategoryNames: Record<
     other: 'Other symbols',
   },
   ru: {
+    emoji: 'Эмодзи',
     currency: 'Валюты',
     diacritics: 'Диакритические знаки',
     math: 'Математические символы',
@@ -79,6 +87,7 @@ export const symbolCategoryNames: Record<
     other: 'Другие символы',
   },
   pl: {
+    emoji: 'Emoji',
     currency: 'Waluty',
     diacritics: 'Znaki diakrytyczne',
     math: 'Symbole matematyczne',
@@ -89,6 +98,7 @@ export const symbolCategoryNames: Record<
     other: 'Inne symbole',
   },
   fr: {
+    emoji: 'Émojis',
     currency: 'Devises',
     diacritics: 'Signes diacritiques',
     math: 'Symboles mathématiques',
@@ -99,6 +109,7 @@ export const symbolCategoryNames: Record<
     other: 'Autres symboles',
   },
   de: {
+    emoji: 'Emojis',
     currency: 'Währungen',
     diacritics: 'Diakritische Zeichen',
     math: 'Mathematische Zeichen',
@@ -109,6 +120,7 @@ export const symbolCategoryNames: Record<
     other: 'Weitere Symbole',
   },
   es: {
+    emoji: 'Emojis',
     currency: 'Monedas',
     diacritics: 'Signos diacríticos',
     math: 'Símbolos matemáticos',
@@ -119,6 +131,7 @@ export const symbolCategoryNames: Record<
     other: 'Otros símbolos',
   },
   pt: {
+    emoji: 'Emojis',
     currency: 'Moedas',
     diacritics: 'Sinais diacríticos',
     math: 'Símbolos matemáticos',
@@ -129,6 +142,7 @@ export const symbolCategoryNames: Record<
     other: 'Outros símbolos',
   },
   it: {
+    emoji: 'Emoji',
     currency: 'Valute',
     diacritics: 'Segni diacritici',
     math: 'Simboli matematici',
@@ -139,6 +153,7 @@ export const symbolCategoryNames: Record<
     other: 'Altri simboli',
   },
   ro: {
+    emoji: 'Emoji',
     currency: 'Valute',
     diacritics: 'Semne diacritice',
     math: 'Simboluri matematice',
@@ -149,6 +164,7 @@ export const symbolCategoryNames: Record<
     other: 'Alte simboluri',
   },
   he: {
+    emoji: 'אימוג׳י',
     currency: 'מטבעות',
     diacritics: 'סימנים דיאקריטיים',
     math: 'סימנים מתמטיים',
@@ -159,6 +175,9 @@ export const symbolCategoryNames: Record<
     other: 'סימנים אחרים',
   },
 };
+
+const emojiSet = new Set(emojiSymbols);
+export const isEmoji = (symbol: string) => emojiSet.has(symbol);
 
 export function symbolCategory(item: SymbolSearchItem): SymbolCategory {
   if (item.bindings.some((binding) => binding.finishWithSpace)) {

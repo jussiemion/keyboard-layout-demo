@@ -1,0 +1,2511 @@
+{
+  "🅶": ["other", "negative squared latin capital letter g", {}],
+  "🅷": ["other", "negative squared latin capital letter h", {}],
+  "🅸": ["other", "negative squared latin capital letter i", {}],
+  "🅹": ["other", "negative squared latin capital letter j", {}],
+  "🅺": ["other", "negative squared latin capital letter k", {}],
+  "🅻": ["other", "negative squared latin capital letter l", {}],
+  "🅼": ["other", "negative squared latin capital letter m", {}],
+  "🅽": ["other", "negative squared latin capital letter n", {}],
+  "🅾": [
+    "other",
+    "negative squared latin capital letter o",
+    {
+      "en": ["O button (blood type)", "blood | button | O | type"],
+      "ru": [
+        "I группа крови",
+        "1 группа крови | I группа крови | буква О | группа крови | группа крови O | кнопка с О | кровь | О | первая группа крови"
+      ],
+      "pl": ["grupa krwi 0", "0 | grupa 0 | grupa krwi 0 | krew"],
+      "fr": ["groupe sanguin O", "groupe sanguin | groupe sanguin O | O"],
+      "de": [
+        "Großbuchstabe O in rotem Quadrat",
+        "0 | Blut | Blutgruppe | Großbuchstabe | negativ | O | positiv"
+      ],
+      "es": [
+        "grupo sanguíneo tipo O",
+        "grupo sanguíneo | grupo sanguíneo tipo O | o"
+      ],
+      "pt": [
+        "botão O (tipo sanguíneo)",
+        "botão O (tipo sanguíneo) | O | sangue | tipo O | tipo sanguíneo | tipo sanguíneo O"
+      ],
+      "it": [
+        "gruppo sanguigno 0",
+        "gruppo 0 | gruppo O | gruppo sanguigno 0 | gruppo sanguigno O | pulsante O | zero"
+      ],
+      "ro": [
+        "buton 0 (grupă sanguină)",
+        "0 | buton | buton 0 (grupă sanguină) | grupă sanguină | grupă sangvină | o"
+      ],
+      "he": ["לחצן O (סוג דם)", "o | לחצן O (סוג דם) | סוג דם"],
+      "ar": ["زر O", "رمز | زر O | فئة دم | فصيلة أو | فصيلة دم"],
+      "tr": [
+        "0 düğmesi (kan grubu)",
+        "0 düğmesi (kan grubu) | kan | kan grubu | kan grubu O | O | O grubu kan"
+      ],
+      "vi": [
+        "nút O (nhóm máu)",
+        "nhóm máu | nhóm máu O | nút O | nút O (nhóm máu) | o"
+      ],
+      "nl": ["bloedgroep O", "bloed | groep | knop | O"]
+    }
+  ],
+  "🅿": [
+    "other",
+    "negative squared latin capital letter p",
+    {
+      "en": ["P button", "button | P | parking"],
+      "ru": [
+        "парковка",
+        "автостоянка | машины | парковаться | парковка | припарковаться | стоянка"
+      ],
+      "pl": ["parking", "parking | postój | znak"],
+      "fr": ["bouton P", "bouton | P | panneau parking | parking"],
+      "de": [
+        "Großbuchstabe P in blauem Quadrat",
+        "Großbuchstabe | P | parken | Parkplatz | Taste"
+      ],
+      "es": ["aparcamiento", "aparcamiento | p | parking"],
+      "pt": [
+        "botão P",
+        "botão P | estacionamento | estacionar | garagem de carros"
+      ],
+      "it": [
+        "pulsante P",
+        "area di parcheggio | P | parcheggio | pulsante | tasto"
+      ],
+      "ro": ["buton P", "buton | P | parcare"],
+      "he": ["לחצן P", "P | חניה | חניון | חנייה | לחצן P"],
+      "ar": [
+        "انتظار سيارات",
+        "انتظار | انتظار سيارات | رمز | زر | كاراج | موقف"
+      ],
+      "tr": ["P düğmesi", "p düğmesi | P düğmesi | park yeri"],
+      "vi": ["nút P", "đỗ xe | nút P"],
+      "nl": ["P-knop", "knop | P | parkeren"]
+    }
+  ],
+  "🆀": ["other", "negative squared latin capital letter q", {}],
+  "🆁": ["other", "negative squared latin capital letter r", {}],
+  "🆂": ["other", "negative squared latin capital letter s", {}],
+  "🆃": ["other", "negative squared latin capital letter t", {}],
+  "🆄": ["other", "negative squared latin capital letter u", {}],
+  "🆅": ["other", "negative squared latin capital letter v", {}],
+  "🆆": ["other", "negative squared latin capital letter w", {}],
+  "🆇": ["other", "negative squared latin capital letter x", {}],
+  "🆈": ["other", "negative squared latin capital letter y", {}],
+  "🆉": ["other", "negative squared latin capital letter z", {}],
+  "🆊": ["other", "crossed negative squared latin capital letter p", {}],
+  "🆋": ["other", "negative squared ic", {}],
+  "🆌": ["other", "negative squared pa", {}],
+  "🆍": ["other", "negative squared sa", {}],
+  "🆎": [
+    "other",
+    "negative squared ab",
+    {
+      "en": ["AB button (blood type)", "AB | blood | button | type"],
+      "ru": [
+        "IV группа крови",
+        "4 группа крови | IV группа крови | буквы АВ | группа крови | группа крови AB | кровь | четвертая группа крови"
+      ],
+      "pl": ["grupa krwi AB", "AB | grupa AB | grupa krwi AB | krew"],
+      "fr": ["groupe sanguin AB", "AB | groupe sanguin | groupe sanguin AB"],
+      "de": [
+        "Großbuchstaben AB in rotem Quadrat",
+        "ab | Blut | Blutgruppe | Großbuchstaben AB in rotem Quadrat | negativ | positiv"
+      ],
+      "es": ["grupo sanguíneo AB", "AB | grupo | sanguíneo | tipo AB"],
+      "pt": [
+        "botão AB (tipo sanguíneo)",
+        "AB | botão AB (tipo sanguíneo) | sangue | tipo AB | tipo sanguíneo | tipo sanguíneo AB"
+      ],
+      "it": ["gruppo sanguigno AB", "AB | gruppo AB | gruppo sanguigno AB"],
+      "ro": [
+        "buton AB (grupă sanguină)",
+        "ab | buton | buton AB (grupă sanguină) | grupă de sânge | grupă sanguină | grupă sangvină"
+      ],
+      "he": ["לחצן AB (סוג דם)", "ab | לחצן AB (סוג דם) | סוג דם"],
+      "ar": [
+        "زر AB (فئة الدم)",
+        "إيه بي | رمز | زر AB | زر AB (فئة الدم) | فئة دم | فصيلة | فصيلة دم"
+      ],
+      "tr": [
+        "AB düğmesi (kan grubu)",
+        "AB | AB düğmesi (kan grubu) | AB grubu kan | kan | kan grubu | kan grubu AB"
+      ],
+      "vi": [
+        "nút AB (nhóm máu)",
+        "ab | nhóm máu | nhóm máu AB | nút AB (nhóm máu)"
+      ],
+      "nl": ["bloedgroep AB", "AB | bloed | groep | knop"]
+    }
+  ],
+  "🆏": ["other", "negative squared wc", {}],
+  "🆐": ["other", "square dj", {}],
+  "🆑": [
+    "other",
+    "squared cl",
+    {
+      "en": ["CL button", "button | CL"],
+      "ru": [
+        "кнопка «очистить»",
+        "CL | значок «понятно» | кнопка | кнопка \"очистить\" | кнопка \"стереть\" | кнопка «очистить» | очистить | стереть | ясно"
+      ],
+      "pl": ["przycisk CL", "przycisk CL | znak CL"],
+      "fr": ["bouton Effacer", "bouton Effacer | CL | effacer | icône Effacer"],
+      "de": [
+        "Großbuchstaben CL in rotem Quadrat",
+        "CL | Großbuchstaben CL in rotem Quadrat"
+      ],
+      "es": ["borrar", "borrar | símbolo"],
+      "pt": ["botão CL", "botão CL | cl | CL | limpar | símbolo do CL"],
+      "it": ["pulsante CL", "bottone | CL | pulsante | simbolo"],
+      "ro": ["buton CL", "buton | cl"],
+      "he": ["לחצן CL", "cl | לחצן cl | לחצן CL | מחיקה | מחק"],
+      "ar": ["مسح داخل مربع", "زر | مسح | مسح داخل مربع"],
+      "tr": ["CL düğmesi", "CL | CL düğmesi | CL işareti | sil"],
+      "vi": ["nút CL", "cl | nút CL"],
+      "nl": ["CL-knop", "CL | knop"]
+    }
+  ],
+  "🆒": [
+    "other",
+    "squared cool",
+    {
+      "en": ["COOL button", "button | COOL"],
+      "ru": [
+        "значок «круто»",
+        "здорово | значок | значок «круто» | кнопка | круто"
+      ],
+      "pl": [
+        "przycisk COOL",
+        "aprobata | cool | przycisk COOL | świetnie | zachwyt | znak"
+      ],
+      "fr": ["bouton Cool", "bouton Cool | cool | icône Cool"],
+      "de": [
+        "Wort „Cool“ in blauem Quadrat",
+        "Cool | Wort „Cool“ in blauem Quadrat"
+      ],
+      "es": ["botón COOL", "botón | cool | mola"],
+      "pt": [
+        "botão \"COOL\"",
+        "botão \"COOL\" | botão cool | cool | legal | símbolo “cool”"
+      ],
+      "it": ["pulsante COOL", "cool | pulsante | simbolo | tasto"],
+      "ro": [
+        "buton cu textul COOL",
+        "buton cool | buton cu textul COOL | cool | ok | tare"
+      ],
+      "he": ["לחצן cool", "cool | לחצן cool | לחצן COOL | מגניב"],
+      "ar": [
+        "بارد داخل مربع",
+        "بارد | بارد داخل مربع | حلو | رائع | لطيف | يا عين"
+      ],
+      "tr": [
+        "COOL düğmesi",
+        "COOL düğmesi | harika | hoş | serin | serin işareti"
+      ],
+      "vi": ["nút COOL", "cool | mát | nút COOL"],
+      "nl": ["COOL-knop", "COOL | knop"]
+    }
+  ],
+  "🆓": [
+    "other",
+    "squared free",
+    {
+      "en": ["FREE button", "button | FREE"],
+      "ru": ["значок «бесплатно»", "бесплатно | значок | кнопка"],
+      "pl": [
+        "przycisk FREE",
+        "przycisk FREE | za darmo | znak braku opłaty | znak FREE"
+      ],
+      "fr": ["bouton Gratuit", "bouton Gratuit | gratuit | icône Gratuit"],
+      "de": [
+        "Wort „Free“ in blauem Quadrat",
+        "Free | Wort „Free“ in blauem Quadrat"
+      ],
+      "es": ["botón FREE", "botón FREE | gratis | símbolo gratis"],
+      "pt": [
+        "botão \"FREE\"",
+        "botão \"FREE\" | free | grátis | gratuito | símbolo | símbolo “Free”"
+      ],
+      "it": [
+        "pulsante FREE",
+        "free | gratis | libero | pulsante | simbolo | tasto"
+      ],
+      "ro": [
+        "buton cu textul FREE",
+        "buton cu textul FREE | buton FREE | free | gratis | liber"
+      ],
+      "he": ["לחצן free", "FREE | חופשי | חינם | לחצן free"],
+      "ar": [
+        "زر \"مجاني\"",
+        "free | حر | زر | زر \"مجاني\" | كلمة free في مربع | مجاني"
+      ],
+      "tr": [
+        "FREE düğmesi",
+        "bedava | bedelsiz | FREE düğmesi | işaret | ücretsiz | ücretsiz işareti"
+      ],
+      "vi": ["nút FREE", "free | nút FREE"],
+      "nl": ["FREE-knop", "FREE | knop"]
+    }
+  ],
+  "🆔": [
+    "other",
+    "squared id",
+    {
+      "en": ["ID button", "button | ID | identity"],
+      "ru": [
+        "значок «идентификация»",
+        "значок | значок «идентификация» | идентификатор | идентификация | кнопка"
+      ],
+      "pl": ["przycisk ID", "ID | identyfikator | przycisk ID | znak ID"],
+      "fr": [
+        "bouton Identifiant",
+        "bouton | icône Identifiant | ID | identifiant"
+      ],
+      "de": [
+        "Großbuchstaben ID in lila Quadrat",
+        "Großbuchstaben ID in lila Quadrat | ID"
+      ],
+      "es": [
+        "símbolo de identificación",
+        "ID | identidad | símbolo de identificación | símbolo identidad"
+      ],
+      "pt": ["botão ID", "botão ID | ID | identidade | símbolo | símbolo “ID”"],
+      "it": ["pulsante ID", "ID | identità | pulsante ID | simbolo ID"],
+      "ro": ["buton ID", "buton | id | ID | identitate"],
+      "he": ["לחצן ID", "זהות | זיהוי | לחצן ID | מזהה | תעודת זהות"],
+      "ar": [
+        "زر \"معرّف الهويّة\"",
+        "id | ID في مربع | رمز | زر \"معرّف الهويّة\" | هوية"
+      ],
+      "tr": ["ID düğmesi", "ID düğmesi | işaret | kimlik | kimlik işareti"],
+      "vi": ["nút ID", "danh tính | id | nút ID"],
+      "nl": ["ID-knop", "ID | identiteit | knop"]
+    }
+  ],
+  "🆕": [
+    "other",
+    "squared new",
+    {
+      "en": ["NEW button", "button | NEW"],
+      "ru": [
+        "значок «новинка»",
+        "значок | значок \"новинка\" | значок «новинка» | новинка | новое | новый"
+      ],
+      "pl": ["przycisk NEW", "NEW | nowość | nowy | przycisk NEW"],
+      "fr": [
+        "bouton Nouveau",
+        "bouton Nouveau | icône Nouveau | nouveau | nouveauté"
+      ],
+      "de": [
+        "Wort „New“ in blauem Quadrat",
+        "Neu | New | Wort „New“ in blauem Quadrat"
+      ],
+      "es": ["botón NEW", "botón | NEW | nuevo"],
+      "pt": ["botão \"NEW\"", "botão \"NEW\" | new | Novo | símbolo"],
+      "it": ["pulsante NEW", "new | nuovo | pulsante | simbolo | tasto"],
+      "ro": ["buton cu textul NEW", "buton cu textul NEW | buton NEW | nou"],
+      "he": ["לחצן NEW", "הוספה | חדש | לחצן"],
+      "ar": [
+        "زر \"جديد\"",
+        "new | جديد | رمز | زر | زر \"جديد\" | كلمة new في مربع"
+      ],
+      "tr": ["NEW düğmesi", "işaret | NEW düğmesi | yeni | Yeni işareti"],
+      "vi": ["nút NEW", "mới | new | nút NEW"],
+      "nl": ["NEW-knop", "knop | NEW"]
+    }
+  ],
+  "🆖": [
+    "other",
+    "squared ng",
+    {
+      "en": ["NG button", "button | NG"],
+      "ru": [
+        "значок «не годится»",
+        "значок | значок \"не годится\" | не годится | нехорошо | плохо"
+      ],
+      "pl": ["przycisk NG", "NG | niedobrze | przycisk NG | źle | znak"],
+      "fr": [
+        "bouton Pas bien",
+        "bouton NG | bouton Pas bien | interdit | mauvais | NG"
+      ],
+      "de": [
+        "Großbuchstaben NG in blauem Quadrat",
+        "Großbuchstaben NG in blauem Quadrat | NG"
+      ],
+      "es": ["botón NG", "botón | ng | nuevo"],
+      "pt": ["botão NG", "botão NG | NG | símbolo | símbolo “NG”"],
+      "it": ["pulsante NG", "NG | pulsante | simbolo NG | tasto"],
+      "ro": ["buton NG", "buton | ng"],
+      "he": ["לחצן NG", "ng | לחצן NG"],
+      "ar": [
+        "زر \"غير جيد\"",
+        "ng | ng في مربع | رمز | زر \"غير جيد\" | غير جيد | غير صالح | ما زابط | مش منيح | مو زابط | مو منيح"
+      ],
+      "tr": ["NG düğmesi", "işaret | ng | NG düğmesi | NG işareti"],
+      "vi": ["nút NG", "ng | nút NG"],
+      "nl": ["NG-knop", "knop | NG"]
+    }
+  ],
+  "🆗": [
+    "other",
+    "squared ok",
+    {
+      "en": ["OK button", "button | OK | okay"],
+      "ru": [
+        "значок «ОК»",
+        "значок | значок «ОК» | о’кей | ОК | окей | хорошо"
+      ],
+      "pl": [
+        "przycisk OK",
+        "dobrze | OK | przycisk | tak | w porządku | zgoda"
+      ],
+      "fr": ["bouton OK", "bouton OK | icône OK | OK"],
+      "de": [
+        "Großbuchstaben OK in blauem Quadrat",
+        "Großbuchstaben | keycap | OK | okay | Taste | Tastenkappe"
+      ],
+      "es": ["botón OK", "botón | ok"],
+      "pt": ["botão OK", "botão OK | ok | sim | símbolo “OK”"],
+      "it": ["pulsante OK", "OK | pulsante | simbolo | tasto"],
+      "ro": ["buton cu textul OK", "bine | buton cu textul OK | OK"],
+      "he": ["לחצן OK", "ok | אוקיי | אישור | בסדר | טוב | לחצן OK"],
+      "ar": [
+        "زر \"موافق\"",
+        "ok | ok في مربع | اوكي | رمز | زر \"موافق\" | موافق"
+      ],
+      "tr": ["OK düğmesi", "OK düğmesi | OK işareti | tamam | tamam işareti"],
+      "vi": ["nút OK", "nút OK | ok"],
+      "nl": ["OK-knop", "knop | OK | oké"]
+    }
+  ],
+  "🆘": [
+    "other",
+    "squared sos",
+    {
+      "en": ["SOS button", "button | help | SOS"],
+      "ru": [
+        "значок SOS",
+        "sos | SOS | значок SOS | помогите | помощь | сос | спасите"
+      ],
+      "pl": ["przycisk SOS", "na pomoc | przycisk | ratunek | ratunku | SOS"],
+      "fr": [
+        "bouton SOS",
+        "à l’aide | au secours | bouton SOS | icône SOS | SOS"
+      ],
+      "de": ["SOS-Zeichen", "Hilfe | SOS | SOS-Zeichen"],
+      "es": [
+        "símbolo de socorro",
+        "ayuda | símbolo | símbolo de socorro | socorro | sos"
+      ],
+      "pt": [
+        "botão SOS",
+        "Ajuda | botão SOS | símbolo | símbolo “SOS” | Socorro | SOS"
+      ],
+      "it": [
+        "pulsante SOS",
+        "aiuto | pulsante SOS | Segnale di SOS | simbolo di SOS | simbolo SOS | soccorsi | soccorso | SOS"
+      ],
+      "ro": [
+        "buton S.O.S.",
+        "ajutor | buton S.O.S. | buton SOS | S.O.S. | sos"
+      ],
+      "he": ["לחצן SOS", "sos | אס או אס | הצילו | לחצן | מצוקה | עזרה"],
+      "ar": [
+        "زر \"طوارئ\"",
+        "sos | sos في مربع | أنقذوني | إسعاف | النجدة | زر \"طوارئ\" | مساعدة | نجدة"
+      ],
+      "tr": [
+        "SOS düğmesi",
+        "işaret | SOS | SOS düğmesi | SOS işareti | Yardım"
+      ],
+      "vi": ["nút SOS", "nút SOS | sos | trợ giúp"],
+      "nl": ["SOS-knop", "help | knop | SOS"]
+    }
+  ],
+  "🆙": [
+    "other",
+    "squared up with exclamation mark",
+    {
+      "en": ["UP! button", "button | mark | UP | UP!"],
+      "ru": [
+        "значок «обновление»",
+        "вверх | значок | значок \"обновление\" | значок «обновление» | обновление"
+      ],
+      "pl": ["przycisk UP!", "do góry | przycisk UP! | znak UP!"],
+      "fr": [
+        "bouton Vers le haut",
+        "bouton Vers le haut | icône Nouveauté | nouveau | nouveauté | up"
+      ],
+      "de": [
+        "Schriftzug „UP!“ im blauen Quadrat",
+        "Keycap | Taste | Tastenkappe | UP | UP!"
+      ],
+      "es": [
+        "botón UP!",
+        "arriba | botón UP! | información | novedad | símbolo | up"
+      ],
+      "pt": [
+        "botão \"UP!\"",
+        "botão \"UP!\" | para cima | símbolo | símbolo “UP!” | up | UP!"
+      ],
+      "it": [
+        "pulsante UP!",
+        "alto | in alto | pulsante | simbolo UP! | sù | tasto UP! | UP!"
+      ],
+      "ro": [
+        "buton cu textul UP!",
+        "buton | buton cu textul UP! | buton UP! | exclamare | sus"
+      ],
+      "he": ["לחצן up!", "UP | לחצן up! | למעלה | מעלה"],
+      "ar": ["أعلى", "أعلى | رمز | علامة | فوق"],
+      "tr": ["UP! düğmesi", "işaret | UP! düğmesi | YUKARI! | YUKARI! işareti"],
+      "vi": ["nút UP!", "dấu | nút UP! | up"],
+      "nl": ["UP!-knop", "knop | teken | UP | UP!"]
+    }
+  ],
+  "🆚": [
+    "other",
+    "squared vs",
+    {
+      "en": ["VS button", "button | versus | VS"],
+      "ru": ["значок «против»", "значок | кнопка | против | сравнение"],
+      "pl": ["przycisk VS", "kontra | przycisk VS | versus | VS"],
+      "fr": ["bouton VS", "bouton VS | contre | icône Contre | versus | vs"],
+      "de": ["Schriftzug VS in orangem Quadrat", "gegen | Taste | versus | VS"],
+      "es": [
+        "botón VS",
+        "botón VS | contra | frente a | símbolo | versus | vs"
+      ],
+      "pt": [
+        "botão VS",
+        "botão vs | botão VS | símbolo | símbolo “vs” | versus | vs"
+      ],
+      "it": [
+        "pulsante VS",
+        "contro | pulsante | simbolo contro | tasto | versus | vs"
+      ],
+      "ro": [
+        "buton cu textul VS",
+        "buton cu textul VS | buton VS | contra | împotriva | versus | vs."
+      ],
+      "he": ["לחצן VS", "לחצן VS | לעומת | מול | נגד"],
+      "ar": ["ضد", "زر | ضد | في مقابل | مقابل"],
+      "tr": [
+        "VS düğmesi",
+        "işaret | karşılaştırma | karşılaştırma işareti | vs | VS düğmesi"
+      ],
+      "vi": ["nút VS", "đấu với | nút VS | vs"],
+      "nl": ["VS-knop", "knop | versus | VS"]
+    }
+  ],
+  "🆛": ["other", "squared three d", {}],
+  "🆜": ["other", "squared second screen", {}],
+  "🆝": ["other", "squared two k", {}],
+  "🆞": ["other", "squared four k", {}],
+  "🆟": ["other", "squared eight k", {}],
+  "🆠": ["other", "squared five point one", {}],
+  "🆡": ["other", "squared seven point one", {}],
+  "🆢": ["other", "squared twenty-two point two", {}],
+  "🆣": ["other", "squared sixty p", {}],
+  "🆤": ["other", "squared one hundred twenty p", {}],
+  "🆥": ["other", "squared latin small letter d", {}],
+  "🆦": ["other", "squared hc", {}],
+  "🆧": ["other", "squared hdr", {}],
+  "🆨": ["other", "squared hi-res", {}],
+  "🆩": ["other", "squared lossless", {}],
+  "🆪": ["other", "squared shv", {}],
+  "🆫": ["other", "squared uhd", {}],
+  "🆬": ["other", "squared vod", {}],
+  "🆭": ["other", "mask work symbol", {}],
+  "🇦": ["other", "regional indicator symbol letter a", {}],
+  "🇦🇨": [
+    "other",
+    "",
+    {
+      "en": ["flag: Ascension Island", "flag"],
+      "ru": ["флаг: о-в Вознесения", "флаг"],
+      "pl": ["flaga: Wyspa Wniebowstąpienia", "flaga"],
+      "fr": ["drapeau : Île de l’Ascension", "drapeau"],
+      "de": ["Flagge: Ascension", "Flagge"],
+      "es": ["Bandera: Isla de la Ascensión", "Bandera"],
+      "pt": ["bandeira: Ilha de Ascensão", "bandeira"],
+      "it": ["bandiera: Isola Ascensione", "bandiera"],
+      "ro": ["steag: Insula Ascension", "steag"],
+      "he": ["דגל: האי אסנשן", "דגל"],
+      "ar": ["علم: جزيرة أسينشيون", "علم"],
+      "tr": ["bayrak: Ascension Adası", "bayrak"],
+      "vi": ["cờ: Đảo Ascension", "cờ"],
+      "nl": ["vlag: Ascension", "vlag"]
+    }
+  ],
+  "🇦🇩": [
+    "other",
+    "",
+    {
+      "en": ["flag: Andorra", "flag"],
+      "ru": ["флаг: Андорра", "флаг"],
+      "pl": ["flaga: Andora", "flaga"],
+      "fr": ["drapeau : Andorre", "drapeau"],
+      "de": ["Flagge: Andorra", "Flagge"],
+      "es": ["Bandera: Andorra", "Bandera"],
+      "pt": ["bandeira: Andorra", "bandeira"],
+      "it": ["bandiera: Andorra", "bandiera"],
+      "ro": ["steag: Andorra", "steag"],
+      "he": ["דגל: אנדורה", "דגל"],
+      "ar": ["علم: أندورا", "علم"],
+      "tr": ["bayrak: Andorra", "bayrak"],
+      "vi": ["cờ: Andorra", "cờ"],
+      "nl": ["vlag: Andorra", "vlag"]
+    }
+  ],
+  "🇦🇪": [
+    "other",
+    "",
+    {
+      "en": ["flag: United Arab Emirates", "flag"],
+      "ru": ["флаг: ОАЭ", "флаг"],
+      "pl": ["flaga: Zjednoczone Emiraty Arabskie", "flaga"],
+      "fr": ["drapeau : Émirats arabes unis", "drapeau"],
+      "de": ["Flagge: Vereinigte Arabische Emirate", "Flagge"],
+      "es": ["Bandera: Emiratos Árabes Unidos", "Bandera"],
+      "pt": ["bandeira: Emirados Árabes Unidos", "bandeira"],
+      "it": ["bandiera: Emirati Arabi Uniti", "bandiera"],
+      "ro": ["steag: Emiratele Arabe Unite", "steag"],
+      "he": ["דגל: איחוד האמירויות הערביות", "דגל"],
+      "ar": ["علم: الإمارات العربية المتحدة", "علم"],
+      "tr": ["bayrak: Birleşik Arap Emirlikleri", "bayrak"],
+      "vi": ["cờ: Các Tiểu Vương quốc Ả Rập Thống nhất", "cờ"],
+      "nl": ["vlag: Verenigde Arabische Emiraten", "vlag"]
+    }
+  ],
+  "🇦🇫": [
+    "other",
+    "",
+    {
+      "en": ["flag: Afghanistan", "flag"],
+      "ru": ["флаг: Афганистан", "флаг"],
+      "pl": ["flaga: Afganistan", "flaga"],
+      "fr": ["drapeau : Afghanistan", "drapeau"],
+      "de": ["Flagge: Afghanistan", "Flagge"],
+      "es": ["Bandera: Afganistán", "Bandera"],
+      "pt": ["bandeira: Afeganistão", "bandeira"],
+      "it": ["bandiera: Afghanistan", "bandiera"],
+      "ro": ["steag: Afganistan", "steag"],
+      "he": ["דגל: אפגניסטן", "דגל"],
+      "ar": ["علم: أفغانستان", "علم"],
+      "tr": ["bayrak: Afganistan", "bayrak"],
+      "vi": ["cờ: Afghanistan", "cờ"],
+      "nl": ["vlag: Afghanistan", "vlag"]
+    }
+  ],
+  "🇦🇬": [
+    "other",
+    "",
+    {
+      "en": ["flag: Antigua & Barbuda", "flag"],
+      "ru": ["флаг: Антигуа и Барбуда", "флаг"],
+      "pl": ["flaga: Antigua i Barbuda", "flaga"],
+      "fr": ["drapeau : Antigua-et-Barbuda", "drapeau"],
+      "de": ["Flagge: Antigua und Barbuda", "Flagge"],
+      "es": ["Bandera: Antigua y Barbuda", "Bandera"],
+      "pt": ["bandeira: Antígua e Barbuda", "bandeira"],
+      "it": ["bandiera: Antigua e Barbuda", "bandiera"],
+      "ro": ["steag: Antigua și Barbuda", "steag"],
+      "he": ["דגל: אנטיגואה וברבודה", "דגל"],
+      "ar": ["علم: أنتيغوا وبربودا", "علم"],
+      "tr": ["bayrak: Antigua ve Barbuda", "bayrak"],
+      "vi": ["cờ: Antigua và Barbuda", "cờ"],
+      "nl": ["vlag: Antigua en Barbuda", "vlag"]
+    }
+  ],
+  "🇦🇮": [
+    "other",
+    "",
+    {
+      "en": ["flag: Anguilla", "flag"],
+      "ru": ["флаг: Ангилья", "флаг"],
+      "pl": ["flaga: Anguilla", "flaga"],
+      "fr": ["drapeau : Anguilla", "drapeau"],
+      "de": ["Flagge: Anguilla", "Flagge"],
+      "es": ["Bandera: Anguila", "Bandera"],
+      "pt": ["bandeira: Anguila", "bandeira"],
+      "it": ["bandiera: Anguilla", "bandiera"],
+      "ro": ["steag: Anguilla", "steag"],
+      "he": ["דגל: אנגווילה", "דגל"],
+      "ar": ["علم: أنغويلا", "علم"],
+      "tr": ["bayrak: Anguilla", "bayrak"],
+      "vi": ["cờ: Anguilla", "cờ"],
+      "nl": ["vlag: Anguilla", "vlag"]
+    }
+  ],
+  "🇦🇱": [
+    "other",
+    "",
+    {
+      "en": ["flag: Albania", "flag"],
+      "ru": ["флаг: Албания", "флаг"],
+      "pl": ["flaga: Albania", "flaga"],
+      "fr": ["drapeau : Albanie", "drapeau"],
+      "de": ["Flagge: Albanien", "Flagge"],
+      "es": ["Bandera: Albania", "Bandera"],
+      "pt": ["bandeira: Albânia", "bandeira"],
+      "it": ["bandiera: Albania", "bandiera"],
+      "ro": ["steag: Albania", "steag"],
+      "he": ["דגל: אלבניה", "דגל"],
+      "ar": ["علم: ألبانيا", "علم"],
+      "tr": ["bayrak: Arnavutluk", "bayrak"],
+      "vi": ["cờ: Albania", "cờ"],
+      "nl": ["vlag: Albanië", "vlag"]
+    }
+  ],
+  "🇦🇲": [
+    "other",
+    "",
+    {
+      "en": ["flag: Armenia", "flag"],
+      "ru": ["флаг: Армения", "флаг"],
+      "pl": ["flaga: Armenia", "flaga"],
+      "fr": ["drapeau : Arménie", "drapeau"],
+      "de": ["Flagge: Armenien", "Flagge"],
+      "es": ["Bandera: Armenia", "Bandera"],
+      "pt": ["bandeira: Armênia", "bandeira"],
+      "it": ["bandiera: Armenia", "bandiera"],
+      "ro": ["steag: Armenia", "steag"],
+      "he": ["דגל: ארמניה", "דגל"],
+      "ar": ["علم: أرمينيا", "علم"],
+      "tr": ["bayrak: Ermenistan", "bayrak"],
+      "vi": ["cờ: Armenia", "cờ"],
+      "nl": ["vlag: Armenië", "vlag"]
+    }
+  ],
+  "🇦🇴": [
+    "other",
+    "",
+    {
+      "en": ["flag: Angola", "flag"],
+      "ru": ["флаг: Ангола", "флаг"],
+      "pl": ["flaga: Angola", "flaga"],
+      "fr": ["drapeau : Angola", "drapeau"],
+      "de": ["Flagge: Angola", "Flagge"],
+      "es": ["Bandera: Angola", "Bandera"],
+      "pt": ["bandeira: Angola", "bandeira"],
+      "it": ["bandiera: Angola", "bandiera"],
+      "ro": ["steag: Angola", "steag"],
+      "he": ["דגל: אנגולה", "דגל"],
+      "ar": ["علم: أنغولا", "علم"],
+      "tr": ["bayrak: Angola", "bayrak"],
+      "vi": ["cờ: Angola", "cờ"],
+      "nl": ["vlag: Angola", "vlag"]
+    }
+  ],
+  "🇦🇶": [
+    "other",
+    "",
+    {
+      "en": ["flag: Antarctica", "flag"],
+      "ru": ["флаг: Антарктида", "флаг"],
+      "pl": ["flaga: Antarktyda", "flaga"],
+      "fr": ["drapeau : Antarctique", "drapeau"],
+      "de": ["Flagge: Antarktis", "Flagge"],
+      "es": ["Bandera: Antártida", "Bandera"],
+      "pt": ["bandeira: Antártida", "bandeira"],
+      "it": ["bandiera: Antartide", "bandiera"],
+      "ro": ["steag: Antarctica", "steag"],
+      "he": ["דגל: אנטארקטיקה", "דגל"],
+      "ar": ["علم: أنتاركتيكا", "علم"],
+      "tr": ["bayrak: Antarktika", "bayrak"],
+      "vi": ["cờ: Nam Cực", "cờ"],
+      "nl": ["vlag: Antarctica", "vlag"]
+    }
+  ],
+  "🇦🇷": [
+    "other",
+    "",
+    {
+      "en": ["flag: Argentina", "flag"],
+      "ru": ["флаг: Аргентина", "флаг"],
+      "pl": ["flaga: Argentyna", "flaga"],
+      "fr": ["drapeau : Argentine", "drapeau"],
+      "de": ["Flagge: Argentinien", "Flagge"],
+      "es": ["Bandera: Argentina", "Bandera"],
+      "pt": ["bandeira: Argentina", "bandeira"],
+      "it": ["bandiera: Argentina", "bandiera"],
+      "ro": ["steag: Argentina", "steag"],
+      "he": ["דגל: ארגנטינה", "דגל"],
+      "ar": ["علم: الأرجنتين", "علم"],
+      "tr": ["bayrak: Arjantin", "bayrak"],
+      "vi": ["cờ: Argentina", "cờ"],
+      "nl": ["vlag: Argentinië", "vlag"]
+    }
+  ],
+  "🇦🇸": [
+    "other",
+    "",
+    {
+      "en": ["flag: American Samoa", "flag"],
+      "ru": ["флаг: Американское Самоа", "флаг"],
+      "pl": ["flaga: Samoa Amerykańskie", "flaga"],
+      "fr": ["drapeau : Samoa américaines", "drapeau"],
+      "de": ["Flagge: Amerikanisch-Samoa", "Flagge"],
+      "es": ["Bandera: Samoa Americana", "Bandera"],
+      "pt": ["bandeira: Samoa Americana", "bandeira"],
+      "it": ["bandiera: Samoa Americane", "bandiera"],
+      "ro": ["steag: Samoa Americană", "steag"],
+      "he": ["דגל: סמואה האמריקנית", "דגל"],
+      "ar": ["علم: ساموا الأمريكية", "علم"],
+      "tr": ["bayrak: Amerikan Samoası", "bayrak"],
+      "vi": ["cờ: Samoa thuộc Mỹ", "cờ"],
+      "nl": ["vlag: Amerikaans-Samoa", "vlag"]
+    }
+  ],
+  "🇦🇹": [
+    "other",
+    "",
+    {
+      "en": ["flag: Austria", "flag"],
+      "ru": ["флаг: Австрия", "флаг"],
+      "pl": ["flaga: Austria", "flaga"],
+      "fr": ["drapeau : Autriche", "drapeau"],
+      "de": ["Flagge: Österreich", "Flagge"],
+      "es": ["Bandera: Austria", "Bandera"],
+      "pt": ["bandeira: Áustria", "bandeira"],
+      "it": ["bandiera: Austria", "bandiera"],
+      "ro": ["steag: Austria", "steag"],
+      "he": ["דגל: אוסטריה", "דגל"],
+      "ar": ["علم: النمسا", "علم"],
+      "tr": ["bayrak: Avusturya", "bayrak"],
+      "vi": ["cờ: Áo", "cờ"],
+      "nl": ["vlag: Oostenrijk", "vlag"]
+    }
+  ],
+  "🇦🇺": [
+    "other",
+    "",
+    {
+      "en": ["flag: Australia", "flag"],
+      "ru": ["флаг: Австралия", "флаг"],
+      "pl": ["flaga: Australia", "flaga"],
+      "fr": ["drapeau : Australie", "drapeau"],
+      "de": ["Flagge: Australien", "Flagge"],
+      "es": ["Bandera: Australia", "Bandera"],
+      "pt": ["bandeira: Austrália", "bandeira"],
+      "it": ["bandiera: Australia", "bandiera"],
+      "ro": ["steag: Australia", "steag"],
+      "he": ["דגל: אוסטרליה", "דגל"],
+      "ar": ["علم: أستراليا", "علم"],
+      "tr": ["bayrak: Avustralya", "bayrak"],
+      "vi": ["cờ: Úc", "cờ"],
+      "nl": ["vlag: Australië", "vlag"]
+    }
+  ],
+  "🇦🇼": [
+    "other",
+    "",
+    {
+      "en": ["flag: Aruba", "flag"],
+      "ru": ["флаг: Аруба", "флаг"],
+      "pl": ["flaga: Aruba", "flaga"],
+      "fr": ["drapeau : Aruba", "drapeau"],
+      "de": ["Flagge: Aruba", "Flagge"],
+      "es": ["Bandera: Aruba", "Bandera"],
+      "pt": ["bandeira: Aruba", "bandeira"],
+      "it": ["bandiera: Aruba", "bandiera"],
+      "ro": ["steag: Aruba", "steag"],
+      "he": ["דגל: ארובה", "דגל"],
+      "ar": ["علم: أروبا", "علم"],
+      "tr": ["bayrak: Aruba", "bayrak"],
+      "vi": ["cờ: Aruba", "cờ"],
+      "nl": ["vlag: Aruba", "vlag"]
+    }
+  ],
+  "🇦🇽": [
+    "other",
+    "",
+    {
+      "en": ["flag: Åland Islands", "flag"],
+      "ru": ["флаг: Аландские о-ва", "флаг"],
+      "pl": ["flaga: Wyspy Alandzkie", "flaga"],
+      "fr": ["drapeau : Îles Åland", "drapeau"],
+      "de": ["Flagge: Ålandinseln", "Flagge"],
+      "es": ["Bandera: Islas Aland", "Bandera"],
+      "pt": ["bandeira: Ilhas Aland", "bandeira"],
+      "it": ["bandiera: Isole Åland", "bandiera"],
+      "ro": ["steag: Insulele Åland", "steag"],
+      "he": ["דגל: איי אולנד", "דגל"],
+      "ar": ["علم: جزر آلاند", "علم"],
+      "tr": ["bayrak: Åland Adaları", "bayrak"],
+      "vi": ["cờ: Quần đảo Åland", "cờ"],
+      "nl": ["vlag: Åland", "vlag"]
+    }
+  ],
+  "🇦🇿": [
+    "other",
+    "",
+    {
+      "en": ["flag: Azerbaijan", "flag"],
+      "ru": ["флаг: Азербайджан", "флаг"],
+      "pl": ["flaga: Azerbejdżan", "flaga"],
+      "fr": ["drapeau : Azerbaïdjan", "drapeau"],
+      "de": ["Flagge: Aserbaidschan", "Flagge"],
+      "es": ["Bandera: Azerbaiyán", "Bandera"],
+      "pt": ["bandeira: Azerbaijão", "bandeira"],
+      "it": ["bandiera: Azerbaigian", "bandiera"],
+      "ro": ["steag: Azerbaidjan", "steag"],
+      "he": ["דגל: אזרבייג׳ן", "דגל"],
+      "ar": ["علم: أذربيجان", "علم"],
+      "tr": ["bayrak: Azerbaycan", "bayrak"],
+      "vi": ["cờ: Azerbaijan", "cờ"],
+      "nl": ["vlag: Azerbeidzjan", "vlag"]
+    }
+  ],
+  "🇧": ["other", "regional indicator symbol letter b", {}],
+  "🇧🇦": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bosnia & Herzegovina", "flag"],
+      "ru": ["флаг: Босния и Герцеговина", "флаг"],
+      "pl": ["flaga: Bośnia i Hercegowina", "flaga"],
+      "fr": ["drapeau : Bosnie-Herzégovine", "drapeau"],
+      "de": ["Flagge: Bosnien und Herzegowina", "Flagge"],
+      "es": ["Bandera: Bosnia y Herzegovina", "Bandera"],
+      "pt": ["bandeira: Bósnia e Herzegovina", "bandeira"],
+      "it": ["bandiera: Bosnia ed Erzegovina", "bandiera"],
+      "ro": ["steag: Bosnia și Herțegovina", "steag"],
+      "he": ["דגל: בוסניה והרצגובינה", "דגל"],
+      "ar": ["علم: البوسنة والهرسك", "علم"],
+      "tr": ["bayrak: Bosna-Hersek", "bayrak"],
+      "vi": ["cờ: Bosnia và Herzegovina", "cờ"],
+      "nl": ["vlag: Bosnië en Herzegovina", "vlag"]
+    }
+  ],
+  "🇧🇧": [
+    "other",
+    "",
+    {
+      "en": ["flag: Barbados", "flag"],
+      "ru": ["флаг: Барбадос", "флаг"],
+      "pl": ["flaga: Barbados", "flaga"],
+      "fr": ["drapeau : Barbade", "drapeau"],
+      "de": ["Flagge: Barbados", "Flagge"],
+      "es": ["Bandera: Barbados", "Bandera"],
+      "pt": ["bandeira: Barbados", "bandeira"],
+      "it": ["bandiera: Barbados", "bandiera"],
+      "ro": ["steag: Barbados", "steag"],
+      "he": ["דגל: ברבדוס", "דגל"],
+      "ar": ["علم: بربادوس", "علم"],
+      "tr": ["bayrak: Barbados", "bayrak"],
+      "vi": ["cờ: Barbados", "cờ"],
+      "nl": ["vlag: Barbados", "vlag"]
+    }
+  ],
+  "🇧🇩": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bangladesh", "flag"],
+      "ru": ["флаг: Бангладеш", "флаг"],
+      "pl": ["flaga: Bangladesz", "flaga"],
+      "fr": ["drapeau : Bangladesh", "drapeau"],
+      "de": ["Flagge: Bangladesch", "Flagge"],
+      "es": ["Bandera: Bangladés", "Bandera"],
+      "pt": ["bandeira: Bangladesh", "bandeira"],
+      "it": ["bandiera: Bangladesh", "bandiera"],
+      "ro": ["steag: Bangladesh", "steag"],
+      "he": ["דגל: בנגלדש", "דגל"],
+      "ar": ["علم: بنغلاديش", "علم"],
+      "tr": ["bayrak: Bangladeş", "bayrak"],
+      "vi": ["cờ: Bangladesh", "cờ"],
+      "nl": ["vlag: Bangladesh", "vlag"]
+    }
+  ],
+  "🇧🇪": [
+    "other",
+    "",
+    {
+      "en": ["flag: Belgium", "flag"],
+      "ru": ["флаг: Бельгия", "флаг"],
+      "pl": ["flaga: Belgia", "flaga"],
+      "fr": ["drapeau : Belgique", "drapeau"],
+      "de": ["Flagge: Belgien", "Flagge"],
+      "es": ["Bandera: Bélgica", "Bandera"],
+      "pt": ["bandeira: Bélgica", "bandeira"],
+      "it": ["bandiera: Belgio", "bandiera"],
+      "ro": ["steag: Belgia", "steag"],
+      "he": ["דגל: בלגיה", "דגל"],
+      "ar": ["علم: بلجيكا", "علم"],
+      "tr": ["bayrak: Belçika", "bayrak"],
+      "vi": ["cờ: Bỉ", "cờ"],
+      "nl": ["vlag: België", "vlag"]
+    }
+  ],
+  "🇧🇫": [
+    "other",
+    "",
+    {
+      "en": ["flag: Burkina Faso", "flag"],
+      "ru": ["флаг: Буркина-Фасо", "флаг"],
+      "pl": ["flaga: Burkina Faso", "flaga"],
+      "fr": ["drapeau : Burkina Faso", "drapeau"],
+      "de": ["Flagge: Burkina Faso", "Flagge"],
+      "es": ["Bandera: Burkina Faso", "Bandera"],
+      "pt": ["bandeira: Burquina Faso", "bandeira"],
+      "it": ["bandiera: Burkina Faso", "bandiera"],
+      "ro": ["steag: Burkina Faso", "steag"],
+      "he": ["דגל: בורקינה פאסו", "דגל"],
+      "ar": ["علم: بوركينا فاسو", "علم"],
+      "tr": ["bayrak: Burkina Faso", "bayrak"],
+      "vi": ["cờ: Burkina Faso", "cờ"],
+      "nl": ["vlag: Burkina Faso", "vlag"]
+    }
+  ],
+  "🇧🇬": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bulgaria", "flag"],
+      "ru": ["флаг: Болгария", "флаг"],
+      "pl": ["flaga: Bułgaria", "flaga"],
+      "fr": ["drapeau : Bulgarie", "drapeau"],
+      "de": ["Flagge: Bulgarien", "Flagge"],
+      "es": ["Bandera: Bulgaria", "Bandera"],
+      "pt": ["bandeira: Bulgária", "bandeira"],
+      "it": ["bandiera: Bulgaria", "bandiera"],
+      "ro": ["steag: Bulgaria", "steag"],
+      "he": ["דגל: בולגריה", "דגל"],
+      "ar": ["علم: بلغاريا", "علم"],
+      "tr": ["bayrak: Bulgaristan", "bayrak"],
+      "vi": ["cờ: Bulgaria", "cờ"],
+      "nl": ["vlag: Bulgarije", "vlag"]
+    }
+  ],
+  "🇧🇭": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bahrain", "flag"],
+      "ru": ["флаг: Бахрейн", "флаг"],
+      "pl": ["flaga: Bahrajn", "flaga"],
+      "fr": ["drapeau : Bahreïn", "drapeau"],
+      "de": ["Flagge: Bahrain", "Flagge"],
+      "es": ["Bandera: Baréin", "Bandera"],
+      "pt": ["bandeira: Barein", "bandeira"],
+      "it": ["bandiera: Bahrein", "bandiera"],
+      "ro": ["steag: Bahrain", "steag"],
+      "he": ["דגל: בחריין", "דגל"],
+      "ar": ["علم: البحرين", "علم"],
+      "tr": ["bayrak: Bahreyn", "bayrak"],
+      "vi": ["cờ: Bahrain", "cờ"],
+      "nl": ["vlag: Bahrein", "vlag"]
+    }
+  ],
+  "🇧🇮": [
+    "other",
+    "",
+    {
+      "en": ["flag: Burundi", "flag"],
+      "ru": ["флаг: Бурунди", "флаг"],
+      "pl": ["flaga: Burundi", "flaga"],
+      "fr": ["drapeau : Burundi", "drapeau"],
+      "de": ["Flagge: Burundi", "Flagge"],
+      "es": ["Bandera: Burundi", "Bandera"],
+      "pt": ["bandeira: Burundi", "bandeira"],
+      "it": ["bandiera: Burundi", "bandiera"],
+      "ro": ["steag: Burundi", "steag"],
+      "he": ["דגל: בורונדי", "דגל"],
+      "ar": ["علم: بوروندي", "علم"],
+      "tr": ["bayrak: Burundi", "bayrak"],
+      "vi": ["cờ: Burundi", "cờ"],
+      "nl": ["vlag: Burundi", "vlag"]
+    }
+  ],
+  "🇧🇯": [
+    "other",
+    "",
+    {
+      "en": ["flag: Benin", "flag"],
+      "ru": ["флаг: Бенин", "флаг"],
+      "pl": ["flaga: Benin", "flaga"],
+      "fr": ["drapeau : Bénin", "drapeau"],
+      "de": ["Flagge: Benin", "Flagge"],
+      "es": ["Bandera: Benín", "Bandera"],
+      "pt": ["bandeira: Benin", "bandeira"],
+      "it": ["bandiera: Benin", "bandiera"],
+      "ro": ["steag: Benin", "steag"],
+      "he": ["דגל: בנין", "דגל"],
+      "ar": ["علم: بنين", "علم"],
+      "tr": ["bayrak: Benin", "bayrak"],
+      "vi": ["cờ: Benin", "cờ"],
+      "nl": ["vlag: Benin", "vlag"]
+    }
+  ],
+  "🇧🇱": [
+    "other",
+    "",
+    {
+      "en": ["flag: St. Barthélemy", "flag"],
+      "ru": ["флаг: Сен-Бартелеми", "флаг"],
+      "pl": ["flaga: Saint-Barthélemy", "flaga"],
+      "fr": ["drapeau : Saint-Barthélemy", "drapeau"],
+      "de": ["Flagge: St. Barthélemy", "Flagge"],
+      "es": ["Bandera: San Bartolomé", "Bandera"],
+      "pt": ["bandeira: São Bartolomeu", "bandeira"],
+      "it": ["bandiera: Saint-Barthélemy", "bandiera"],
+      "ro": ["steag: Saint-Barthélemy", "steag"],
+      "he": ["דגל: סנט ברתולומיאו", "דגל"],
+      "ar": ["علم: سان بارتليمي", "علم"],
+      "tr": ["bayrak: Saint Barthelemy", "bayrak"],
+      "vi": ["cờ: St. Barthélemy", "cờ"],
+      "nl": ["vlag: Saint-Barthélemy", "vlag"]
+    }
+  ],
+  "🇧🇲": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bermuda", "flag"],
+      "ru": ["флаг: Бермудские о-ва", "флаг"],
+      "pl": ["flaga: Bermudy", "flaga"],
+      "fr": ["drapeau : Bermudes", "drapeau"],
+      "de": ["Flagge: Bermuda", "Flagge"],
+      "es": ["Bandera: Bermudas", "Bandera"],
+      "pt": ["bandeira: Bermudas", "bandeira"],
+      "it": ["bandiera: Bermuda", "bandiera"],
+      "ro": ["steag: Bermuda", "steag"],
+      "he": ["דגל: ברמודה", "דגל"],
+      "ar": ["علم: برمودا", "علم"],
+      "tr": ["bayrak: Bermuda", "bayrak"],
+      "vi": ["cờ: Bermuda", "cờ"],
+      "nl": ["vlag: Bermuda", "vlag"]
+    }
+  ],
+  "🇧🇳": [
+    "other",
+    "",
+    {
+      "en": ["flag: Brunei", "flag"],
+      "ru": ["флаг: Бруней", "флаг"],
+      "pl": ["flaga: Brunei", "flaga"],
+      "fr": ["drapeau : Brunei", "drapeau"],
+      "de": ["Flagge: Brunei Darussalam", "Flagge"],
+      "es": ["Bandera: Brunéi", "Bandera"],
+      "pt": ["bandeira: Brunei", "bandeira"],
+      "it": ["bandiera: Brunei", "bandiera"],
+      "ro": ["steag: Brunei", "steag"],
+      "he": ["דגל: ברוניי", "דגל"],
+      "ar": ["علم: بروناي", "علم"],
+      "tr": ["bayrak: Brunei", "bayrak"],
+      "vi": ["cờ: Brunei", "cờ"],
+      "nl": ["vlag: Brunei", "vlag"]
+    }
+  ],
+  "🇧🇴": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bolivia", "flag"],
+      "ru": ["флаг: Боливия", "флаг"],
+      "pl": ["flaga: Boliwia", "flaga"],
+      "fr": ["drapeau : Bolivie", "drapeau"],
+      "de": ["Flagge: Bolivien", "Flagge"],
+      "es": ["Bandera: Bolivia", "Bandera"],
+      "pt": ["bandeira: Bolívia", "bandeira"],
+      "it": ["bandiera: Bolivia", "bandiera"],
+      "ro": ["steag: Bolivia", "steag"],
+      "he": ["דגל: בוליביה", "דגל"],
+      "ar": ["علم: بوليفيا", "علم"],
+      "tr": ["bayrak: Bolivya", "bayrak"],
+      "vi": ["cờ: Bolivia", "cờ"],
+      "nl": ["vlag: Bolivia", "vlag"]
+    }
+  ],
+  "🇧🇶": [
+    "other",
+    "",
+    {
+      "en": ["flag: Caribbean Netherlands", "flag"],
+      "ru": ["флаг: Бонэйр, Синт-Эстатиус и Саба", "флаг"],
+      "pl": ["flaga: Niderlandy Karaibskie", "flaga"],
+      "fr": ["drapeau : Pays-Bas caribéens", "drapeau"],
+      "de": ["Flagge: Karibische Niederlande", "Flagge"],
+      "es": ["Bandera: Caribe neerlandés", "Bandera"],
+      "pt": ["bandeira: Países Baixos Caribenhos", "bandeira"],
+      "it": ["bandiera: Caraibi Olandesi", "bandiera"],
+      "ro": ["steag: Insulele Caraibe Olandeze", "steag"],
+      "he": ["דגל: האיים הקריביים ההולנדיים", "דגל"],
+      "ar": ["علم: هولندا الكاريبية", "علم"],
+      "tr": ["bayrak: Karayip Hollandası", "bayrak"],
+      "vi": ["cờ: Ca-ri-bê Hà Lan", "cờ"],
+      "nl": ["vlag: Caribisch Nederland", "vlag"]
+    }
+  ],
+  "🇧🇷": [
+    "other",
+    "",
+    {
+      "en": ["flag: Brazil", "flag"],
+      "ru": ["флаг: Бразилия", "флаг"],
+      "pl": ["flaga: Brazylia", "flaga"],
+      "fr": ["drapeau : Brésil", "drapeau"],
+      "de": ["Flagge: Brasilien", "Flagge"],
+      "es": ["Bandera: Brasil", "Bandera"],
+      "pt": ["bandeira: Brasil", "bandeira"],
+      "it": ["bandiera: Brasile", "bandiera"],
+      "ro": ["steag: Brazilia", "steag"],
+      "he": ["דגל: ברזיל", "דגל"],
+      "ar": ["علم: البرازيل", "علم"],
+      "tr": ["bayrak: Brezilya", "bayrak"],
+      "vi": ["cờ: Brazil", "cờ"],
+      "nl": ["vlag: Brazilië", "vlag"]
+    }
+  ],
+  "🇧🇸": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bahamas", "flag"],
+      "ru": ["флаг: Багамы", "флаг"],
+      "pl": ["flaga: Bahamy", "flaga"],
+      "fr": ["drapeau : Bahamas", "drapeau"],
+      "de": ["Flagge: Bahamas", "Flagge"],
+      "es": ["Bandera: Bahamas", "Bandera"],
+      "pt": ["bandeira: Bahamas", "bandeira"],
+      "it": ["bandiera: Bahamas", "bandiera"],
+      "ro": ["steag: Bahamas", "steag"],
+      "he": ["דגל: איי בהאמה", "דגל"],
+      "ar": ["علم: جزر البهاما", "علم"],
+      "tr": ["bayrak: Bahamalar", "bayrak"],
+      "vi": ["cờ: Bahamas", "cờ"],
+      "nl": ["vlag: Bahama’s", "vlag"]
+    }
+  ],
+  "🇧🇹": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bhutan", "flag"],
+      "ru": ["флаг: Бутан", "флаг"],
+      "pl": ["flaga: Bhutan", "flaga"],
+      "fr": ["drapeau : Bhoutan", "drapeau"],
+      "de": ["Flagge: Bhutan", "Flagge"],
+      "es": ["Bandera: Bután", "Bandera"],
+      "pt": ["bandeira: Butão", "bandeira"],
+      "it": ["bandiera: Bhutan", "bandiera"],
+      "ro": ["steag: Bhutan", "steag"],
+      "he": ["דגל: בהוטן", "דגל"],
+      "ar": ["علم: بوتان", "علم"],
+      "tr": ["bayrak: Butan", "bayrak"],
+      "vi": ["cờ: Bhutan", "cờ"],
+      "nl": ["vlag: Bhutan", "vlag"]
+    }
+  ],
+  "🇧🇻": [
+    "other",
+    "",
+    {
+      "en": ["flag: Bouvet Island", "flag"],
+      "ru": ["флаг: о-в Буве", "флаг"],
+      "pl": ["flaga: Wyspa Bouveta", "flaga"],
+      "fr": ["drapeau : Île Bouvet", "drapeau"],
+      "de": ["Flagge: Bouvetinsel", "Flagge"],
+      "es": ["Bandera: Isla Bouvet", "Bandera"],
+      "pt": ["bandeira: Ilha Bouvet", "bandeira"],
+      "it": ["bandiera: Isola Bouvet", "bandiera"],
+      "ro": ["steag: Insula Bouvet", "steag"],
+      "he": ["דגל: האי בובה", "דגל"],
+      "ar": ["علم: جزيرة بوفيه", "علم"],
+      "tr": ["bayrak: Bouvet Adası", "bayrak"],
+      "vi": ["cờ: Đảo Bouvet", "cờ"],
+      "nl": ["vlag: Bouveteiland", "vlag"]
+    }
+  ],
+  "🇧🇼": [
+    "other",
+    "",
+    {
+      "en": ["flag: Botswana", "flag"],
+      "ru": ["флаг: Ботсвана", "флаг"],
+      "pl": ["flaga: Botswana", "flaga"],
+      "fr": ["drapeau : Botswana", "drapeau"],
+      "de": ["Flagge: Botsuana", "Flagge"],
+      "es": ["Bandera: Botsuana", "Bandera"],
+      "pt": ["bandeira: Botsuana", "bandeira"],
+      "it": ["bandiera: Botswana", "bandiera"],
+      "ro": ["steag: Botswana", "steag"],
+      "he": ["דגל: בוטסואנה", "דגל"],
+      "ar": ["علم: بوتسوانا", "علم"],
+      "tr": ["bayrak: Botsvana", "bayrak"],
+      "vi": ["cờ: Botswana", "cờ"],
+      "nl": ["vlag: Botswana", "vlag"]
+    }
+  ],
+  "🇧🇾": [
+    "other",
+    "",
+    {
+      "en": ["flag: Belarus", "flag"],
+      "ru": ["флаг: Беларусь", "флаг"],
+      "pl": ["flaga: Białoruś", "flaga"],
+      "fr": ["drapeau : Biélorussie", "drapeau"],
+      "de": ["Flagge: Belarus", "Flagge"],
+      "es": ["Bandera: Bielorrusia", "Bandera"],
+      "pt": ["bandeira: Bielorrússia", "bandeira"],
+      "it": ["bandiera: Bielorussia", "bandiera"],
+      "ro": ["steag: Belarus", "steag"],
+      "he": ["דגל: בלארוס", "דגל"],
+      "ar": ["علم: بيلاروس", "علم"],
+      "tr": ["bayrak: Belarus", "bayrak"],
+      "vi": ["cờ: Belarus", "cờ"],
+      "nl": ["vlag: Belarus", "vlag"]
+    }
+  ],
+  "🇧🇿": [
+    "other",
+    "",
+    {
+      "en": ["flag: Belize", "flag"],
+      "ru": ["флаг: Белиз", "флаг"],
+      "pl": ["flaga: Belize", "flaga"],
+      "fr": ["drapeau : Belize", "drapeau"],
+      "de": ["Flagge: Belize", "Flagge"],
+      "es": ["Bandera: Belice", "Bandera"],
+      "pt": ["bandeira: Belize", "bandeira"],
+      "it": ["bandiera: Belize", "bandiera"],
+      "ro": ["steag: Belize", "steag"],
+      "he": ["דגל: בליז", "דגל"],
+      "ar": ["علم: بليز", "علم"],
+      "tr": ["bayrak: Belize", "bayrak"],
+      "vi": ["cờ: Belize", "cờ"],
+      "nl": ["vlag: Belize", "vlag"]
+    }
+  ],
+  "🇨": ["other", "regional indicator symbol letter c", {}],
+  "🇨🇦": [
+    "other",
+    "",
+    {
+      "en": ["flag: Canada", "flag"],
+      "ru": ["флаг: Канада", "флаг"],
+      "pl": ["flaga: Kanada", "flaga"],
+      "fr": ["drapeau : Canada", "drapeau"],
+      "de": ["Flagge: Kanada", "Flagge"],
+      "es": ["Bandera: Canadá", "Bandera"],
+      "pt": ["bandeira: Canadá", "bandeira"],
+      "it": ["bandiera: Canada", "bandiera"],
+      "ro": ["steag: Canada", "steag"],
+      "he": ["דגל: קנדה", "דגל"],
+      "ar": ["علم: كندا", "علم"],
+      "tr": ["bayrak: Kanada", "bayrak"],
+      "vi": ["cờ: Canada", "cờ"],
+      "nl": ["vlag: Canada", "vlag"]
+    }
+  ],
+  "🇨🇨": [
+    "other",
+    "",
+    {
+      "en": ["flag: Cocos (Keeling) Islands", "flag"],
+      "ru": ["флаг: Кокосовые о-ва", "флаг"],
+      "pl": ["flaga: Wyspy Kokosowe", "flaga"],
+      "fr": ["drapeau : Îles Cocos", "drapeau"],
+      "de": ["Flagge: Kokosinseln", "Flagge"],
+      "es": ["Bandera: Islas Cocos", "Bandera"],
+      "pt": ["bandeira: Ilhas Cocos (Keeling)", "bandeira"],
+      "it": ["bandiera: Isole Cocos (Keeling)", "bandiera"],
+      "ro": ["steag: Insulele Cocos (Keeling)", "steag"],
+      "he": ["דגל: איי קוקוס (קילינג)", "דגל"],
+      "ar": ["علم: جزر كوكوس (كيلينغ)", "علم"],
+      "tr": ["bayrak: Cocos (Keeling) Adaları", "bayrak"],
+      "vi": ["cờ: Quần đảo Cocos (Keeling)", "cờ"],
+      "nl": ["vlag: Cocoseilanden", "vlag"]
+    }
+  ],
+  "🇨🇩": [
+    "other",
+    "",
+    {
+      "en": ["flag: Congo - Kinshasa", "flag"],
+      "ru": ["флаг: Конго - Киншаса", "флаг"],
+      "pl": ["flaga: Demokratyczna Republika Konga", "flaga"],
+      "fr": ["drapeau : Congo-Kinshasa", "drapeau"],
+      "de": ["Flagge: Kongo-Kinshasa", "Flagge"],
+      "es": ["Bandera: República Democrática del Congo", "Bandera"],
+      "pt": ["bandeira: Congo - Kinshasa", "bandeira"],
+      "it": ["bandiera: Congo - Kinshasa", "bandiera"],
+      "ro": ["steag: Congo - Kinshasa", "steag"],
+      "he": ["דגל: קונגו - קינשאסה", "דגל"],
+      "ar": ["علم: الكونغو - كينشاسا", "علم"],
+      "tr": ["bayrak: Kongo - Kinşasa", "bayrak"],
+      "vi": ["cờ: Congo - Kinshasa", "cờ"],
+      "nl": ["vlag: Congo-Kinshasa", "vlag"]
+    }
+  ],
+  "🇨🇫": [
+    "other",
+    "",
+    {
+      "en": ["flag: Central African Republic", "flag"],
+      "ru": ["флаг: Центрально-Африканская Республика", "флаг"],
+      "pl": ["flaga: Republika Środkowoafrykańska", "flaga"],
+      "fr": ["drapeau : République centrafricaine", "drapeau"],
+      "de": ["Flagge: Zentralafrikanische Republik", "Flagge"],
+      "es": ["Bandera: República Centroafricana", "Bandera"],
+      "pt": ["bandeira: República Centro-Africana", "bandeira"],
+      "it": ["bandiera: Repubblica Centrafricana", "bandiera"],
+      "ro": ["steag: Republica Centrafricană", "steag"],
+      "he": ["דגל: הרפובליקה המרכז-אפריקאית", "דגל"],
+      "ar": ["علم: جمهورية أفريقيا الوسطى", "علم"],
+      "tr": ["bayrak: Orta Afrika Cumhuriyeti", "bayrak"],
+      "vi": ["cờ: Cộng hòa Trung Phi", "cờ"],
+      "nl": ["vlag: Centraal-Afrikaanse Republiek", "vlag"]
+    }
+  ],
+  "🇨🇬": [
+    "other",
+    "",
+    {
+      "en": ["flag: Congo - Brazzaville", "flag"],
+      "ru": ["флаг: Конго - Браззавиль", "флаг"],
+      "pl": ["flaga: Kongo", "flaga"],
+      "fr": ["drapeau : Congo-Brazzaville", "drapeau"],
+      "de": ["Flagge: Kongo-Brazzaville", "Flagge"],
+      "es": ["Bandera: Congo", "Bandera"],
+      "pt": ["bandeira: República do Congo", "bandeira"],
+      "it": ["bandiera: Congo-Brazzaville", "bandiera"],
+      "ro": ["steag: Congo - Brazzaville", "steag"],
+      "he": ["דגל: קונגו - ברזאויל", "דגל"],
+      "ar": ["علم: الكونغو - برازافيل", "علم"],
+      "tr": ["bayrak: Kongo - Brazavil", "bayrak"],
+      "vi": ["cờ: Congo - Brazzaville", "cờ"],
+      "nl": ["vlag: Congo-Brazzaville", "vlag"]
+    }
+  ],
+  "🇨🇭": [
+    "other",
+    "",
+    {
+      "en": ["flag: Switzerland", "flag"],
+      "ru": ["флаг: Швейцария", "флаг"],
+      "pl": ["flaga: Szwajcaria", "flaga"],
+      "fr": ["drapeau : Suisse", "drapeau"],
+      "de": ["Flagge: Schweiz", "Flagge"],
+      "es": ["Bandera: Suiza", "Bandera"],
+      "pt": ["bandeira: Suíça", "bandeira"],
+      "it": ["bandiera: Svizzera", "bandiera"],
+      "ro": ["steag: Elveția", "steag"],
+      "he": ["דגל: שווייץ", "דגל"],
+      "ar": ["علم: سويسرا", "علم"],
+      "tr": ["bayrak: İsviçre", "bayrak"],
+      "vi": ["cờ: Thụy Sĩ", "cờ"],
+      "nl": ["vlag: Zwitserland", "vlag"]
+    }
+  ],
+  "🇨🇮": [
+    "other",
+    "",
+    {
+      "en": ["flag: Côte d’Ivoire", "flag"],
+      "ru": ["флаг: Кот-д’Ивуар", "флаг"],
+      "pl": ["flaga: Côte d’Ivoire", "flaga"],
+      "fr": ["drapeau : Côte d’Ivoire", "drapeau"],
+      "de": ["Flagge: Côte d’Ivoire", "Flagge"],
+      "es": ["Bandera: Côte d’Ivoire", "Bandera"],
+      "pt": ["bandeira: Costa do Marfim", "bandeira"],
+      "it": ["bandiera: Costa d’Avorio", "bandiera"],
+      "ro": ["steag: Côte d’Ivoire", "steag"],
+      "he": ["דגל: חוף השנהב", "דגל"],
+      "ar": ["علم: ساحل العاج", "علم"],
+      "tr": ["bayrak: Côte d’Ivoire", "bayrak"],
+      "vi": ["cờ: Côte d’Ivoire", "cờ"],
+      "nl": ["vlag: Ivoorkust", "vlag"]
+    }
+  ],
+  "🇨🇰": [
+    "other",
+    "",
+    {
+      "en": ["flag: Cook Islands", "flag"],
+      "ru": ["флаг: о-ва Кука", "флаг"],
+      "pl": ["flaga: Wyspy Cooka", "flaga"],
+      "fr": ["drapeau : Îles Cook", "drapeau"],
+      "de": ["Flagge: Cookinseln", "Flagge"],
+      "es": ["Bandera: Islas Cook", "Bandera"],
+      "pt": ["bandeira: Ilhas Cook", "bandeira"],
+      "it": ["bandiera: Isole Cook", "bandiera"],
+      "ro": ["steag: Insulele Cook", "steag"],
+      "he": ["דגל: איי קוק", "דגל"],
+      "ar": ["علم: جزر كوك", "علم"],
+      "tr": ["bayrak: Cook Adaları", "bayrak"],
+      "vi": ["cờ: Quần đảo Cook", "cờ"],
+      "nl": ["vlag: Cookeilanden", "vlag"]
+    }
+  ],
+  "🇨🇱": [
+    "other",
+    "",
+    {
+      "en": ["flag: Chile", "flag"],
+      "ru": ["флаг: Чили", "флаг"],
+      "pl": ["flaga: Chile", "flaga"],
+      "fr": ["drapeau : Chili", "drapeau"],
+      "de": ["Flagge: Chile", "Flagge"],
+      "es": ["Bandera: Chile", "Bandera"],
+      "pt": ["bandeira: Chile", "bandeira"],
+      "it": ["bandiera: Cile", "bandiera"],
+      "ro": ["steag: Chile", "steag"],
+      "he": ["דגל: צ׳ילה", "דגל"],
+      "ar": ["علم: تشيلي", "علم"],
+      "tr": ["bayrak: Şili", "bayrak"],
+      "vi": ["cờ: Chile", "cờ"],
+      "nl": ["vlag: Chili", "vlag"]
+    }
+  ],
+  "🇨🇲": [
+    "other",
+    "",
+    {
+      "en": ["flag: Cameroon", "flag"],
+      "ru": ["флаг: Камерун", "флаг"],
+      "pl": ["flaga: Kamerun", "flaga"],
+      "fr": ["drapeau : Cameroun", "drapeau"],
+      "de": ["Flagge: Kamerun", "Flagge"],
+      "es": ["Bandera: Camerún", "Bandera"],
+      "pt": ["bandeira: Camarões", "bandeira"],
+      "it": ["bandiera: Camerun", "bandiera"],
+      "ro": ["steag: Camerun", "steag"],
+      "he": ["דגל: קמרון", "דגל"],
+      "ar": ["علم: الكاميرون", "علم"],
+      "tr": ["bayrak: Kamerun", "bayrak"],
+      "vi": ["cờ: Cameroon", "cờ"],
+      "nl": ["vlag: Kameroen", "vlag"]
+    }
+  ],
+  "🇨🇳": [
+    "other",
+    "",
+    {
+      "en": ["flag: China", "flag"],
+      "ru": ["флаг: Китай", "флаг"],
+      "pl": ["flaga: Chiny", "flaga"],
+      "fr": ["drapeau : Chine", "drapeau"],
+      "de": ["Flagge: China", "Flagge"],
+      "es": ["Bandera: China", "Bandera"],
+      "pt": ["bandeira: China", "bandeira"],
+      "it": ["bandiera: Cina", "bandiera"],
+      "ro": ["steag: China", "steag"],
+      "he": ["דגל: סין", "דגל"],
+      "ar": ["علم: الصين", "علم"],
+      "tr": ["bayrak: Çin", "bayrak"],
+      "vi": ["cờ: Trung Quốc", "cờ"],
+      "nl": ["vlag: China", "vlag"]
+    }
+  ],
+  "🇨🇴": [
+    "other",
+    "",
+    {
+      "en": ["flag: Colombia", "flag"],
+      "ru": ["флаг: Колумбия", "флаг"],
+      "pl": ["flaga: Kolumbia", "flaga"],
+      "fr": ["drapeau : Colombie", "drapeau"],
+      "de": ["Flagge: Kolumbien", "Flagge"],
+      "es": ["Bandera: Colombia", "Bandera"],
+      "pt": ["bandeira: Colômbia", "bandeira"],
+      "it": ["bandiera: Colombia", "bandiera"],
+      "ro": ["steag: Columbia", "steag"],
+      "he": ["דגל: קולומביה", "דגל"],
+      "ar": ["علم: كولومبيا", "علم"],
+      "tr": ["bayrak: Kolombiya", "bayrak"],
+      "vi": ["cờ: Colombia", "cờ"],
+      "nl": ["vlag: Colombia", "vlag"]
+    }
+  ],
+  "🇨🇵": [
+    "other",
+    "",
+    {
+      "en": ["flag: Clipperton Island", "flag"],
+      "ru": ["флаг: о-в Клиппертон", "флаг"],
+      "pl": ["flaga: Wyspa Clippertona", "flaga"],
+      "fr": ["drapeau : Île Clipperton", "drapeau"],
+      "de": ["Flagge: Clipperton-Insel", "Flagge"],
+      "es": ["Bandera: Isla Clipperton", "Bandera"],
+      "pt": ["bandeira: Ilha de Clipperton", "bandeira"],
+      "it": ["bandiera: Isola di Clipperton", "bandiera"],
+      "ro": ["steag: Insula Clipperton", "steag"],
+      "he": ["דגל: האי קליפרטון", "דגל"],
+      "ar": ["علم: جزيرة كليبيرتون", "علم"],
+      "tr": ["bayrak: Clipperton Adası", "bayrak"],
+      "vi": ["cờ: Đảo Clipperton", "cờ"],
+      "nl": ["vlag: Clipperton", "vlag"]
+    }
+  ],
+  "🇨🇶": [
+    "other",
+    "",
+    {
+      "en": ["flag: Sark", "flag"],
+      "ru": ["флаг: Сарк", "флаг"],
+      "pl": ["flaga: Sark", "flaga"],
+      "fr": ["drapeau : Sercq", "drapeau"],
+      "de": ["Flagge: Sark", "Flagge"],
+      "es": ["Bandera: Sark", "Bandera"],
+      "pt": ["bandeira: Sark", "bandeira"],
+      "it": ["bandiera: Sark", "bandiera"],
+      "ro": ["steag: Sark", "steag"],
+      "he": ["דגל: סרק", "דגל"],
+      "ar": ["علم: سارك", "علم"],
+      "tr": ["bayrak: Sark", "bayrak"],
+      "vi": ["cờ: Sark", "cờ"],
+      "nl": ["vlag: Sark", "vlag"]
+    }
+  ],
+  "🇨🇷": [
+    "other",
+    "",
+    {
+      "en": ["flag: Costa Rica", "flag"],
+      "ru": ["флаг: Коста-Рика", "флаг"],
+      "pl": ["flaga: Kostaryka", "flaga"],
+      "fr": ["drapeau : Costa Rica", "drapeau"],
+      "de": ["Flagge: Costa Rica", "Flagge"],
+      "es": ["Bandera: Costa Rica", "Bandera"],
+      "pt": ["bandeira: Costa Rica", "bandeira"],
+      "it": ["bandiera: Costa Rica", "bandiera"],
+      "ro": ["steag: Costa Rica", "steag"],
+      "he": ["דגל: קוסטה ריקה", "דגל"],
+      "ar": ["علم: كوستاريكا", "علم"],
+      "tr": ["bayrak: Kosta Rika", "bayrak"],
+      "vi": ["cờ: Costa Rica", "cờ"],
+      "nl": ["vlag: Costa Rica", "vlag"]
+    }
+  ],
+  "🇨🇺": [
+    "other",
+    "",
+    {
+      "en": ["flag: Cuba", "flag"],
+      "ru": ["флаг: Куба", "флаг"],
+      "pl": ["flaga: Kuba", "flaga"],
+      "fr": ["drapeau : Cuba", "drapeau"],
+      "de": ["Flagge: Kuba", "Flagge"],
+      "es": ["Bandera: Cuba", "Bandera"],
+      "pt": ["bandeira: Cuba", "bandeira"],
+      "it": ["bandiera: Cuba", "bandiera"],
+      "ro": ["steag: Cuba", "steag"],
+      "he": ["דגל: קובה", "דגל"],
+      "ar": ["علم: كوبا", "علم"],
+      "tr": ["bayrak: Küba", "bayrak"],
+      "vi": ["cờ: Cuba", "cờ"],
+      "nl": ["vlag: Cuba", "vlag"]
+    }
+  ],
+  "🇨🇻": [
+    "other",
+    "",
+    {
+      "en": ["flag: Cape Verde", "flag"],
+      "ru": ["флаг: Кабо-Верде", "флаг"],
+      "pl": ["flaga: Republika Zielonego Przylądka", "flaga"],
+      "fr": ["drapeau : Cap-Vert", "drapeau"],
+      "de": ["Flagge: Cabo Verde", "Flagge"],
+      "es": ["Bandera: Cabo Verde", "Bandera"],
+      "pt": ["bandeira: Cabo Verde", "bandeira"],
+      "it": ["bandiera: Capo Verde", "bandiera"],
+      "ro": ["steag: Capul Verde", "steag"],
+      "he": ["דגל: כף ורדה", "דגל"],
+      "ar": ["علم: الرأس الأخضر", "علم"],
+      "tr": ["bayrak: Cabo Verde", "bayrak"],
+      "vi": ["cờ: Cape Verde", "cờ"],
+      "nl": ["vlag: Kaapverdië", "vlag"]
+    }
+  ],
+  "🇨🇼": [
+    "other",
+    "",
+    {
+      "en": ["flag: Curaçao", "flag"],
+      "ru": ["флаг: Кюрасао", "флаг"],
+      "pl": ["flaga: Curaçao", "flaga"],
+      "fr": ["drapeau : Curaçao", "drapeau"],
+      "de": ["Flagge: Curaçao", "Flagge"],
+      "es": ["Bandera: Curazao", "Bandera"],
+      "pt": ["bandeira: Curaçao", "bandeira"],
+      "it": ["bandiera: Curaçao", "bandiera"],
+      "ro": ["steag: Curaçao", "steag"],
+      "he": ["דגל: קוראסאו", "דגל"],
+      "ar": ["علم: كوراساو", "علم"],
+      "tr": ["bayrak: Curaçao", "bayrak"],
+      "vi": ["cờ: Curaçao", "cờ"],
+      "nl": ["vlag: Curaçao", "vlag"]
+    }
+  ],
+  "🇨🇽": [
+    "other",
+    "",
+    {
+      "en": ["flag: Christmas Island", "flag"],
+      "ru": ["флаг: о-в Рождества", "флаг"],
+      "pl": ["flaga: Wyspa Bożego Narodzenia", "flaga"],
+      "fr": ["drapeau : Île Christmas", "drapeau"],
+      "de": ["Flagge: Weihnachtsinsel", "Flagge"],
+      "es": ["Bandera: Isla de Navidad", "Bandera"],
+      "pt": ["bandeira: Ilha Christmas", "bandeira"],
+      "it": ["bandiera: Isola Christmas", "bandiera"],
+      "ro": ["steag: Insula Christmas", "steag"],
+      "he": ["דגל: אי חג המולד", "דגל"],
+      "ar": ["علم: جزيرة كريسماس", "علم"],
+      "tr": ["bayrak: Christmas Adası", "bayrak"],
+      "vi": ["cờ: Đảo Giáng Sinh", "cờ"],
+      "nl": ["vlag: Christmaseiland", "vlag"]
+    }
+  ],
+  "🇨🇾": [
+    "other",
+    "",
+    {
+      "en": ["flag: Cyprus", "flag"],
+      "ru": ["флаг: Кипр", "флаг"],
+      "pl": ["flaga: Cypr", "flaga"],
+      "fr": ["drapeau : Chypre", "drapeau"],
+      "de": ["Flagge: Zypern", "Flagge"],
+      "es": ["Bandera: Chipre", "Bandera"],
+      "pt": ["bandeira: Chipre", "bandeira"],
+      "it": ["bandiera: Cipro", "bandiera"],
+      "ro": ["steag: Cipru", "steag"],
+      "he": ["דגל: קפריסין", "דגל"],
+      "ar": ["علم: قبرص", "علم"],
+      "tr": ["bayrak: Kıbrıs", "bayrak"],
+      "vi": ["cờ: Síp", "cờ"],
+      "nl": ["vlag: Cyprus", "vlag"]
+    }
+  ],
+  "🇨🇿": [
+    "other",
+    "",
+    {
+      "en": ["flag: Czechia", "flag"],
+      "ru": ["флаг: Чехия", "флаг"],
+      "pl": ["flaga: Czechy", "flaga"],
+      "fr": ["drapeau : Tchéquie", "drapeau"],
+      "de": ["Flagge: Tschechien", "Flagge"],
+      "es": ["Bandera: Chequia", "Bandera"],
+      "pt": ["bandeira: Tchéquia", "bandeira"],
+      "it": ["bandiera: Cechia", "bandiera"],
+      "ro": ["steag: Cehia", "steag"],
+      "he": ["דגל: צ׳כיה", "דגל"],
+      "ar": ["علم: التشيك", "علم"],
+      "tr": ["bayrak: Çekya", "bayrak"],
+      "vi": ["cờ: Séc", "cờ"],
+      "nl": ["vlag: Tsjechië", "vlag"]
+    }
+  ],
+  "🇩": ["other", "regional indicator symbol letter d", {}],
+  "🇩🇪": [
+    "other",
+    "",
+    {
+      "en": ["flag: Germany", "flag"],
+      "ru": ["флаг: Германия", "флаг"],
+      "pl": ["flaga: Niemcy", "flaga"],
+      "fr": ["drapeau : Allemagne", "drapeau"],
+      "de": ["Flagge: Deutschland", "Flagge"],
+      "es": ["Bandera: Alemania", "Bandera"],
+      "pt": ["bandeira: Alemanha", "bandeira"],
+      "it": ["bandiera: Germania", "bandiera"],
+      "ro": ["steag: Germania", "steag"],
+      "he": ["דגל: גרמניה", "דגל"],
+      "ar": ["علم: ألمانيا", "علم"],
+      "tr": ["bayrak: Almanya", "bayrak"],
+      "vi": ["cờ: Đức", "cờ"],
+      "nl": ["vlag: Duitsland", "vlag"]
+    }
+  ],
+  "🇩🇬": [
+    "other",
+    "",
+    {
+      "en": ["flag: Diego Garcia", "flag"],
+      "ru": ["флаг: Диего-Гарсия", "флаг"],
+      "pl": ["flaga: Diego Garcia", "flaga"],
+      "fr": ["drapeau : Diego Garcia", "drapeau"],
+      "de": ["Flagge: Diego Garcia", "Flagge"],
+      "es": ["Bandera: Diego García", "Bandera"],
+      "pt": ["bandeira: Diego Garcia", "bandeira"],
+      "it": ["bandiera: Diego Garcia", "bandiera"],
+      "ro": ["steag: Diego Garcia", "steag"],
+      "he": ["דגל: דייגו גרסיה", "דגל"],
+      "ar": ["علم: دييغو غارسيا", "علم"],
+      "tr": ["bayrak: Diego Garcia", "bayrak"],
+      "vi": ["cờ: Diego Garcia", "cờ"],
+      "nl": ["vlag: Diego Garcia", "vlag"]
+    }
+  ],
+  "🇩🇯": [
+    "other",
+    "",
+    {
+      "en": ["flag: Djibouti", "flag"],
+      "ru": ["флаг: Джибути", "флаг"],
+      "pl": ["flaga: Dżibuti", "flaga"],
+      "fr": ["drapeau : Djibouti", "drapeau"],
+      "de": ["Flagge: Dschibuti", "Flagge"],
+      "es": ["Bandera: Yibuti", "Bandera"],
+      "pt": ["bandeira: Djibuti", "bandeira"],
+      "it": ["bandiera: Gibuti", "bandiera"],
+      "ro": ["steag: Djibouti", "steag"],
+      "he": ["דגל: ג׳יבוטי", "דגל"],
+      "ar": ["علم: جيبوتي", "علم"],
+      "tr": ["bayrak: Cibuti", "bayrak"],
+      "vi": ["cờ: Djibouti", "cờ"],
+      "nl": ["vlag: Djibouti", "vlag"]
+    }
+  ],
+  "🇩🇰": [
+    "other",
+    "",
+    {
+      "en": ["flag: Denmark", "flag"],
+      "ru": ["флаг: Дания", "флаг"],
+      "pl": ["flaga: Dania", "flaga"],
+      "fr": ["drapeau : Danemark", "drapeau"],
+      "de": ["Flagge: Dänemark", "Flagge"],
+      "es": ["Bandera: Dinamarca", "Bandera"],
+      "pt": ["bandeira: Dinamarca", "bandeira"],
+      "it": ["bandiera: Danimarca", "bandiera"],
+      "ro": ["steag: Danemarca", "steag"],
+      "he": ["דגל: דנמרק", "דגל"],
+      "ar": ["علم: الدانمرك", "علم"],
+      "tr": ["bayrak: Danimarka", "bayrak"],
+      "vi": ["cờ: Đan Mạch", "cờ"],
+      "nl": ["vlag: Denemarken", "vlag"]
+    }
+  ],
+  "🇩🇲": [
+    "other",
+    "",
+    {
+      "en": ["flag: Dominica", "flag"],
+      "ru": ["флаг: Доминика", "флаг"],
+      "pl": ["flaga: Dominika", "flaga"],
+      "fr": ["drapeau : Dominique", "drapeau"],
+      "de": ["Flagge: Dominica", "Flagge"],
+      "es": ["Bandera: Dominica", "Bandera"],
+      "pt": ["bandeira: Dominica", "bandeira"],
+      "it": ["bandiera: Dominica", "bandiera"],
+      "ro": ["steag: Dominica", "steag"],
+      "he": ["דגל: דומיניקה", "דגל"],
+      "ar": ["علم: دومينيكا", "علم"],
+      "tr": ["bayrak: Dominika", "bayrak"],
+      "vi": ["cờ: Dominica", "cờ"],
+      "nl": ["vlag: Dominica", "vlag"]
+    }
+  ],
+  "🇩🇴": [
+    "other",
+    "",
+    {
+      "en": ["flag: Dominican Republic", "flag"],
+      "ru": ["флаг: Доминиканская Республика", "флаг"],
+      "pl": ["flaga: Dominikana", "flaga"],
+      "fr": ["drapeau : République dominicaine", "drapeau"],
+      "de": ["Flagge: Dominikanische Republik", "Flagge"],
+      "es": ["Bandera: República Dominicana", "Bandera"],
+      "pt": ["bandeira: República Dominicana", "bandeira"],
+      "it": ["bandiera: Repubblica Dominicana", "bandiera"],
+      "ro": ["steag: Republica Dominicană", "steag"],
+      "he": ["דגל: הרפובליקה הדומיניקנית", "דגל"],
+      "ar": ["علم: جمهورية الدومينيكان", "علم"],
+      "tr": ["bayrak: Dominik Cumhuriyeti", "bayrak"],
+      "vi": ["cờ: Cộng hòa Dominica", "cờ"],
+      "nl": ["vlag: Dominicaanse Republiek", "vlag"]
+    }
+  ],
+  "🇩🇿": [
+    "other",
+    "",
+    {
+      "en": ["flag: Algeria", "flag"],
+      "ru": ["флаг: Алжир", "флаг"],
+      "pl": ["flaga: Algieria", "flaga"],
+      "fr": ["drapeau : Algérie", "drapeau"],
+      "de": ["Flagge: Algerien", "Flagge"],
+      "es": ["Bandera: Argelia", "Bandera"],
+      "pt": ["bandeira: Argélia", "bandeira"],
+      "it": ["bandiera: Algeria", "bandiera"],
+      "ro": ["steag: Algeria", "steag"],
+      "he": ["דגל: אלג׳יריה", "דגל"],
+      "ar": ["علم: الجزائر", "علم"],
+      "tr": ["bayrak: Cezayir", "bayrak"],
+      "vi": ["cờ: Algeria", "cờ"],
+      "nl": ["vlag: Algerije", "vlag"]
+    }
+  ],
+  "🇪": ["other", "regional indicator symbol letter e", {}],
+  "🇪🇦": [
+    "other",
+    "",
+    {
+      "en": ["flag: Ceuta & Melilla", "flag"],
+      "ru": ["флаг: Сеута и Мелилья", "флаг"],
+      "pl": ["flaga: Ceuta i Melilla", "flaga"],
+      "fr": ["drapeau : Ceuta et Melilla", "drapeau"],
+      "de": ["Flagge: Ceuta und Melilla", "Flagge"],
+      "es": ["Bandera: Ceuta y Melilla", "Bandera"],
+      "pt": ["bandeira: Ceuta e Melilla", "bandeira"],
+      "it": ["bandiera: Ceuta e Melilla", "bandiera"],
+      "ro": ["steag: Ceuta și Melilla", "steag"],
+      "he": ["דגל: סאוטה ומלייה", "דגל"],
+      "ar": ["علم: سيوتا وميليلا", "علم"],
+      "tr": ["bayrak: Ceuta ve Melilla", "bayrak"],
+      "vi": ["cờ: Ceuta và Melilla", "cờ"],
+      "nl": ["vlag: Ceuta en Melilla", "vlag"]
+    }
+  ],
+  "🇪🇨": [
+    "other",
+    "",
+    {
+      "en": ["flag: Ecuador", "flag"],
+      "ru": ["флаг: Эквадор", "флаг"],
+      "pl": ["flaga: Ekwador", "flaga"],
+      "fr": ["drapeau : Équateur", "drapeau"],
+      "de": ["Flagge: Ecuador", "Flagge"],
+      "es": ["Bandera: Ecuador", "Bandera"],
+      "pt": ["bandeira: Equador", "bandeira"],
+      "it": ["bandiera: Ecuador", "bandiera"],
+      "ro": ["steag: Ecuador", "steag"],
+      "he": ["דגל: אקוודור", "דגל"],
+      "ar": ["علم: الإكوادور", "علم"],
+      "tr": ["bayrak: Ekvador", "bayrak"],
+      "vi": ["cờ: Ecuador", "cờ"],
+      "nl": ["vlag: Ecuador", "vlag"]
+    }
+  ],
+  "🇪🇪": [
+    "other",
+    "",
+    {
+      "en": ["flag: Estonia", "flag"],
+      "ru": ["флаг: Эстония", "флаг"],
+      "pl": ["flaga: Estonia", "flaga"],
+      "fr": ["drapeau : Estonie", "drapeau"],
+      "de": ["Flagge: Estland", "Flagge"],
+      "es": ["Bandera: Estonia", "Bandera"],
+      "pt": ["bandeira: Estônia", "bandeira"],
+      "it": ["bandiera: Estonia", "bandiera"],
+      "ro": ["steag: Estonia", "steag"],
+      "he": ["דגל: אסטוניה", "דגל"],
+      "ar": ["علم: إستونيا", "علم"],
+      "tr": ["bayrak: Estonya", "bayrak"],
+      "vi": ["cờ: Estonia", "cờ"],
+      "nl": ["vlag: Estland", "vlag"]
+    }
+  ],
+  "🇪🇬": [
+    "other",
+    "",
+    {
+      "en": ["flag: Egypt", "flag"],
+      "ru": ["флаг: Египет", "флаг"],
+      "pl": ["flaga: Egipt", "flaga"],
+      "fr": ["drapeau : Égypte", "drapeau"],
+      "de": ["Flagge: Ägypten", "Flagge"],
+      "es": ["Bandera: Egipto", "Bandera"],
+      "pt": ["bandeira: Egito", "bandeira"],
+      "it": ["bandiera: Egitto", "bandiera"],
+      "ro": ["steag: Egipt", "steag"],
+      "he": ["דגל: מצרים", "דגל"],
+      "ar": ["علم: مصر", "علم"],
+      "tr": ["bayrak: Mısır", "bayrak"],
+      "vi": ["cờ: Ai Cập", "cờ"],
+      "nl": ["vlag: Egypte", "vlag"]
+    }
+  ],
+  "🇪🇭": [
+    "other",
+    "",
+    {
+      "en": ["flag: Western Sahara", "flag"],
+      "ru": ["флаг: Западная Сахара", "флаг"],
+      "pl": ["flaga: Sahara Zachodnia", "flaga"],
+      "fr": ["drapeau : Sahara occidental", "drapeau"],
+      "de": ["Flagge: Westsahara", "Flagge"],
+      "es": ["Bandera: Sáhara Occidental", "Bandera"],
+      "pt": ["bandeira: Saara Ocidental", "bandeira"],
+      "it": ["bandiera: Sahara Occidentale", "bandiera"],
+      "ro": ["steag: Sahara Occidentală", "steag"],
+      "he": ["דגל: סהרה המערבית", "דגל"],
+      "ar": ["علم: الصحراء الغربية", "علم"],
+      "tr": ["bayrak: Batı Sahra", "bayrak"],
+      "vi": ["cờ: Tây Sahara", "cờ"],
+      "nl": ["vlag: Westelijke Sahara", "vlag"]
+    }
+  ],
+  "🇪🇷": [
+    "other",
+    "",
+    {
+      "en": ["flag: Eritrea", "flag"],
+      "ru": ["флаг: Эритрея", "флаг"],
+      "pl": ["flaga: Erytrea", "flaga"],
+      "fr": ["drapeau : Érythrée", "drapeau"],
+      "de": ["Flagge: Eritrea", "Flagge"],
+      "es": ["Bandera: Eritrea", "Bandera"],
+      "pt": ["bandeira: Eritreia", "bandeira"],
+      "it": ["bandiera: Eritrea", "bandiera"],
+      "ro": ["steag: Eritreea", "steag"],
+      "he": ["דגל: אריתריאה", "דגל"],
+      "ar": ["علم: إريتريا", "علم"],
+      "tr": ["bayrak: Eritre", "bayrak"],
+      "vi": ["cờ: Eritrea", "cờ"],
+      "nl": ["vlag: Eritrea", "vlag"]
+    }
+  ],
+  "🇪🇸": [
+    "other",
+    "",
+    {
+      "en": ["flag: Spain", "flag"],
+      "ru": ["флаг: Испания", "флаг"],
+      "pl": ["flaga: Hiszpania", "flaga"],
+      "fr": ["drapeau : Espagne", "drapeau"],
+      "de": ["Flagge: Spanien", "Flagge"],
+      "es": ["Bandera: España", "Bandera"],
+      "pt": ["bandeira: Espanha", "bandeira"],
+      "it": ["bandiera: Spagna", "bandiera"],
+      "ro": ["steag: Spania", "steag"],
+      "he": ["דגל: ספרד", "דגל"],
+      "ar": ["علم: إسبانيا", "علم"],
+      "tr": ["bayrak: İspanya", "bayrak"],
+      "vi": ["cờ: Tây Ban Nha", "cờ"],
+      "nl": ["vlag: Spanje", "vlag"]
+    }
+  ],
+  "🇪🇹": [
+    "other",
+    "",
+    {
+      "en": ["flag: Ethiopia", "flag"],
+      "ru": ["флаг: Эфиопия", "флаг"],
+      "pl": ["flaga: Etiopia", "flaga"],
+      "fr": ["drapeau : Éthiopie", "drapeau"],
+      "de": ["Flagge: Äthiopien", "Flagge"],
+      "es": ["Bandera: Etiopía", "Bandera"],
+      "pt": ["bandeira: Etiópia", "bandeira"],
+      "it": ["bandiera: Etiopia", "bandiera"],
+      "ro": ["steag: Etiopia", "steag"],
+      "he": ["דגל: אתיופיה", "דגל"],
+      "ar": ["علم: إثيوبيا", "علم"],
+      "tr": ["bayrak: Etiyopya", "bayrak"],
+      "vi": ["cờ: Ethiopia", "cờ"],
+      "nl": ["vlag: Ethiopië", "vlag"]
+    }
+  ],
+  "🇪🇺": [
+    "other",
+    "",
+    {
+      "en": ["flag: European Union", "flag"],
+      "ru": ["флаг: Европейский союз", "флаг"],
+      "pl": ["flaga: Unia Europejska", "flaga"],
+      "fr": ["drapeau : Union européenne", "drapeau"],
+      "de": ["Flagge: Europäische Union", "Flagge"],
+      "es": ["Bandera: Unión Europea", "Bandera"],
+      "pt": ["bandeira: União Europeia", "bandeira"],
+      "it": ["bandiera: Unione europea", "bandiera"],
+      "ro": ["steag: Uniunea Europeană", "steag"],
+      "he": ["דגל: האיחוד האירופי", "דגל"],
+      "ar": ["علم: الاتحاد الأوروبي", "علم"],
+      "tr": ["bayrak: Avrupa Birliği", "bayrak"],
+      "vi": ["cờ: Liên Minh Châu Âu", "cờ"],
+      "nl": ["vlag: Europese Unie", "vlag"]
+    }
+  ],
+  "🇫": ["other", "regional indicator symbol letter f", {}],
+  "🇫🇮": [
+    "other",
+    "",
+    {
+      "en": ["flag: Finland", "flag"],
+      "ru": ["флаг: Финляндия", "флаг"],
+      "pl": ["flaga: Finlandia", "flaga"],
+      "fr": ["drapeau : Finlande", "drapeau"],
+      "de": ["Flagge: Finnland", "Flagge"],
+      "es": ["Bandera: Finlandia", "Bandera"],
+      "pt": ["bandeira: Finlândia", "bandeira"],
+      "it": ["bandiera: Finlandia", "bandiera"],
+      "ro": ["steag: Finlanda", "steag"],
+      "he": ["דגל: פינלנד", "דגל"],
+      "ar": ["علم: فنلندا", "علم"],
+      "tr": ["bayrak: Finlandiya", "bayrak"],
+      "vi": ["cờ: Phần Lan", "cờ"],
+      "nl": ["vlag: Finland", "vlag"]
+    }
+  ],
+  "🇫🇯": [
+    "other",
+    "",
+    {
+      "en": ["flag: Fiji", "flag"],
+      "ru": ["флаг: Фиджи", "флаг"],
+      "pl": ["flaga: Fidżi", "flaga"],
+      "fr": ["drapeau : Fidji", "drapeau"],
+      "de": ["Flagge: Fidschi", "Flagge"],
+      "es": ["Bandera: Fiyi", "Bandera"],
+      "pt": ["bandeira: Fiji", "bandeira"],
+      "it": ["bandiera: Figi", "bandiera"],
+      "ro": ["steag: Fiji", "steag"],
+      "he": ["דגל: פיג׳י", "דגל"],
+      "ar": ["علم: فيجي", "علم"],
+      "tr": ["bayrak: Fiji", "bayrak"],
+      "vi": ["cờ: Fiji", "cờ"],
+      "nl": ["vlag: Fiji", "vlag"]
+    }
+  ],
+  "🇫🇰": [
+    "other",
+    "",
+    {
+      "en": ["flag: Falkland Islands", "flag"],
+      "ru": ["флаг: Фолклендские о-ва", "флаг"],
+      "pl": ["flaga: Falklandy", "flaga"],
+      "fr": ["drapeau : Îles Malouines", "drapeau"],
+      "de": ["Flagge: Falklandinseln", "Flagge"],
+      "es": ["Bandera: Islas Malvinas", "Bandera"],
+      "pt": ["bandeira: Ilhas Malvinas", "bandeira"],
+      "it": ["bandiera: Isole Falkland", "bandiera"],
+      "ro": ["steag: Insulele Falkland", "steag"],
+      "he": ["דגל: איי פוקלנד", "דגל"],
+      "ar": ["علم: جزر فوكلاند", "علم"],
+      "tr": ["bayrak: Falkland Adaları", "bayrak"],
+      "vi": ["cờ: Quần đảo Falkland", "cờ"],
+      "nl": ["vlag: Falklandeilanden", "vlag"]
+    }
+  ],
+  "🇫🇲": [
+    "other",
+    "",
+    {
+      "en": ["flag: Micronesia", "flag"],
+      "ru": ["флаг: Федеративные Штаты Микронезии", "флаг"],
+      "pl": ["flaga: Mikronezja", "flaga"],
+      "fr": ["drapeau : Micronésie", "drapeau"],
+      "de": ["Flagge: Mikronesien", "Flagge"],
+      "es": ["Bandera: Micronesia", "Bandera"],
+      "pt": ["bandeira: Micronésia", "bandeira"],
+      "it": ["bandiera: Micronesia", "bandiera"],
+      "ro": ["steag: Micronezia", "steag"],
+      "he": ["דגל: מיקרונזיה", "דגל"],
+      "ar": ["علم: ميكرونيزيا", "علم"],
+      "tr": ["bayrak: Mikronezya", "bayrak"],
+      "vi": ["cờ: Micronesia", "cờ"],
+      "nl": ["vlag: Micronesia", "vlag"]
+    }
+  ],
+  "🇫🇴": [
+    "other",
+    "",
+    {
+      "en": ["flag: Faroe Islands", "flag"],
+      "ru": ["флаг: Фарерские о-ва", "флаг"],
+      "pl": ["flaga: Wyspy Owcze", "flaga"],
+      "fr": ["drapeau : Îles Féroé", "drapeau"],
+      "de": ["Flagge: Färöer", "Flagge"],
+      "es": ["Bandera: Islas Feroe", "Bandera"],
+      "pt": ["bandeira: Ilhas Faroé", "bandeira"],
+      "it": ["bandiera: Isole Fær Øer", "bandiera"],
+      "ro": ["steag: Insulele Feroe", "steag"],
+      "he": ["דגל: איי פארו", "דגל"],
+      "ar": ["علم: جزر فارو", "علم"],
+      "tr": ["bayrak: Faroe Adaları", "bayrak"],
+      "vi": ["cờ: Quần đảo Faroe", "cờ"],
+      "nl": ["vlag: Faeröer", "vlag"]
+    }
+  ],
+  "🇫🇷": [
+    "other",
+    "",
+    {
+      "en": ["flag: France", "flag"],
+      "ru": ["флаг: Франция", "флаг"],
+      "pl": ["flaga: Francja", "flaga"],
+      "fr": ["drapeau : France", "drapeau"],
+      "de": ["Flagge: Frankreich", "Flagge"],
+      "es": ["Bandera: Francia", "Bandera"],
+      "pt": ["bandeira: França", "bandeira"],
+      "it": ["bandiera: Francia", "bandiera"],
+      "ro": ["steag: Franța", "steag"],
+      "he": ["דגל: צרפת", "דגל"],
+      "ar": ["علم: فرنسا", "علم"],
+      "tr": ["bayrak: Fransa", "bayrak"],
+      "vi": ["cờ: Pháp", "cờ"],
+      "nl": ["vlag: Frankrijk", "vlag"]
+    }
+  ],
+  "🇬": ["other", "regional indicator symbol letter g", {}],
+  "🇬🇦": [
+    "other",
+    "",
+    {
+      "en": ["flag: Gabon", "flag"],
+      "ru": ["флаг: Габон", "флаг"],
+      "pl": ["flaga: Gabon", "flaga"],
+      "fr": ["drapeau : Gabon", "drapeau"],
+      "de": ["Flagge: Gabun", "Flagge"],
+      "es": ["Bandera: Gabón", "Bandera"],
+      "pt": ["bandeira: Gabão", "bandeira"],
+      "it": ["bandiera: Gabon", "bandiera"],
+      "ro": ["steag: Gabon", "steag"],
+      "he": ["דגל: גבון", "דגל"],
+      "ar": ["علم: الغابون", "علم"],
+      "tr": ["bayrak: Gabon", "bayrak"],
+      "vi": ["cờ: Gabon", "cờ"],
+      "nl": ["vlag: Gabon", "vlag"]
+    }
+  ],
+  "🇬🇧": [
+    "other",
+    "",
+    {
+      "en": ["flag: United Kingdom", "flag"],
+      "ru": ["флаг: Великобритания", "флаг"],
+      "pl": ["flaga: Wielka Brytania", "flaga"],
+      "fr": ["drapeau : Royaume-Uni", "drapeau"],
+      "de": ["Flagge: Vereinigtes Königreich", "Flagge"],
+      "es": ["Bandera: Reino Unido", "Bandera"],
+      "pt": ["bandeira: Reino Unido", "bandeira"],
+      "it": ["bandiera: Regno Unito", "bandiera"],
+      "ro": ["steag: Regatul Unit", "steag"],
+      "he": ["דגל: בריטניה", "דגל"],
+      "ar": ["علم: المملكة المتحدة", "علم"],
+      "tr": ["bayrak: Birleşik Krallık", "bayrak"],
+      "vi": ["cờ: Vương quốc Anh", "cờ"],
+      "nl": ["vlag: Verenigd Koninkrijk", "vlag"]
+    }
+  ],
+  "🇬🇩": [
+    "other",
+    "",
+    {
+      "en": ["flag: Grenada", "flag"],
+      "ru": ["флаг: Гренада", "флаг"],
+      "pl": ["flaga: Grenada", "flaga"],
+      "fr": ["drapeau : Grenade", "drapeau"],
+      "de": ["Flagge: Grenada", "Flagge"],
+      "es": ["Bandera: Granada", "Bandera"],
+      "pt": ["bandeira: Granada", "bandeira"],
+      "it": ["bandiera: Grenada", "bandiera"],
+      "ro": ["steag: Grenada", "steag"],
+      "he": ["דגל: גרנדה", "דגל"],
+      "ar": ["علم: غرينادا", "علم"],
+      "tr": ["bayrak: Grenada", "bayrak"],
+      "vi": ["cờ: Grenada", "cờ"],
+      "nl": ["vlag: Grenada", "vlag"]
+    }
+  ],
+  "🇬🇪": [
+    "other",
+    "",
+    {
+      "en": ["flag: Georgia", "flag"],
+      "ru": ["флаг: Грузия", "флаг"],
+      "pl": ["flaga: Gruzja", "flaga"],
+      "fr": ["drapeau : Géorgie", "drapeau"],
+      "de": ["Flagge: Georgien", "Flagge"],
+      "es": ["Bandera: Georgia", "Bandera"],
+      "pt": ["bandeira: Geórgia", "bandeira"],
+      "it": ["bandiera: Georgia", "bandiera"],
+      "ro": ["steag: Georgia", "steag"],
+      "he": ["דגל: גאורגיה", "דגל"],
+      "ar": ["علم: جورجيا", "علم"],
+      "tr": ["bayrak: Gürcistan", "bayrak"],
+      "vi": ["cờ: Georgia", "cờ"],
+      "nl": ["vlag: Georgië", "vlag"]
+    }
+  ],
+  "🇬🇫": [
+    "other",
+    "",
+    {
+      "en": ["flag: French Guiana", "flag"],
+      "ru": ["флаг: Французская Гвиана", "флаг"],
+      "pl": ["flaga: Gujana Francuska", "flaga"],
+      "fr": ["drapeau : Guyane française", "drapeau"],
+      "de": ["Flagge: Französisch-Guayana", "Flagge"],
+      "es": ["Bandera: Guayana Francesa", "Bandera"],
+      "pt": ["bandeira: Guiana Francesa", "bandeira"],
+      "it": ["bandiera: Guyana Francese", "bandiera"],
+      "ro": ["steag: Guyana Franceză", "steag"],
+      "he": ["דגל: גיאנה הצרפתית", "דגל"],
+      "ar": ["علم: غويانا الفرنسية", "علم"],
+      "tr": ["bayrak: Fransız Guyanası", "bayrak"],
+      "vi": ["cờ: Guiana thuộc Pháp", "cờ"],
+      "nl": ["vlag: Frans-Guyana", "vlag"]
+    }
+  ],
+  "🇬🇬": [
+    "other",
+    "",
+    {
+      "en": ["flag: Guernsey", "flag"],
+      "ru": ["флаг: Гернси", "флаг"],
+      "pl": ["flaga: Guernsey", "flaga"],
+      "fr": ["drapeau : Guernesey", "drapeau"],
+      "de": ["Flagge: Guernsey", "Flagge"],
+      "es": ["Bandera: Guernesey", "Bandera"],
+      "pt": ["bandeira: Guernsey", "bandeira"],
+      "it": ["bandiera: Guernsey", "bandiera"],
+      "ro": ["steag: Guernsey", "steag"],
+      "he": ["דגל: גרנזי", "דגל"],
+      "ar": ["علم: غيرنزي", "علم"],
+      "tr": ["bayrak: Guernsey", "bayrak"],
+      "vi": ["cờ: Guernsey", "cờ"],
+      "nl": ["vlag: Guernsey", "vlag"]
+    }
+  ],
+  "🇬🇭": [
+    "other",
+    "",
+    {
+      "en": ["flag: Ghana", "flag"],
+      "ru": ["флаг: Гана", "флаг"],
+      "pl": ["flaga: Ghana", "flaga"],
+      "fr": ["drapeau : Ghana", "drapeau"],
+      "de": ["Flagge: Ghana", "Flagge"],
+      "es": ["Bandera: Ghana", "Bandera"],
+      "pt": ["bandeira: Gana", "bandeira"],
+      "it": ["bandiera: Ghana", "bandiera"],
+      "ro": ["steag: Ghana", "steag"],
+      "he": ["דגל: גאנה", "דגל"],
+      "ar": ["علم: غانا", "علم"],
+      "tr": ["bayrak: Gana", "bayrak"],
+      "vi": ["cờ: Ghana", "cờ"],
+      "nl": ["vlag: Ghana", "vlag"]
+    }
+  ],
+  "🇬🇮": [
+    "other",
+    "",
+    {
+      "en": ["flag: Gibraltar", "flag"],
+      "ru": ["флаг: Гибралтар", "флаг"],
+      "pl": ["flaga: Gibraltar", "flaga"],
+      "fr": ["drapeau : Gibraltar", "drapeau"],
+      "de": ["Flagge: Gibraltar", "Flagge"],
+      "es": ["Bandera: Gibraltar", "Bandera"],
+      "pt": ["bandeira: Gibraltar", "bandeira"],
+      "it": ["bandiera: Gibilterra", "bandiera"],
+      "ro": ["steag: Gibraltar", "steag"],
+      "he": ["דגל: גיברלטר", "דגל"],
+      "ar": ["علم: جبل طارق", "علم"],
+      "tr": ["bayrak: Cebelitarık", "bayrak"],
+      "vi": ["cờ: Gibraltar", "cờ"],
+      "nl": ["vlag: Gibraltar", "vlag"]
+    }
+  ],
+  "🇬🇱": [
+    "other",
+    "",
+    {
+      "en": ["flag: Greenland", "flag"],
+      "ru": ["флаг: Гренландия", "флаг"],
+      "pl": ["flaga: Grenlandia", "flaga"],
+      "fr": ["drapeau : Groenland", "drapeau"],
+      "de": ["Flagge: Grönland", "Flagge"],
+      "es": ["Bandera: Groenlandia", "Bandera"],
+      "pt": ["bandeira: Groenlândia", "bandeira"],
+      "it": ["bandiera: Groenlandia", "bandiera"],
+      "ro": ["steag: Groenlanda", "steag"],
+      "he": ["דגל: גרינלנד", "דגל"],
+      "ar": ["علم: غرينلاند", "علم"],
+      "tr": ["bayrak: Grönland", "bayrak"],
+      "vi": ["cờ: Greenland", "cờ"],
+      "nl": ["vlag: Groenland", "vlag"]
+    }
+  ],
+  "🇬🇲": [
+    "other",
+    "",
+    {
+      "en": ["flag: Gambia", "flag"],
+      "ru": ["флаг: Гамбия", "флаг"],
+      "pl": ["flaga: Gambia", "flaga"],
+      "fr": ["drapeau : Gambie", "drapeau"],
+      "de": ["Flagge: Gambia", "Flagge"],
+      "es": ["Bandera: Gambia", "Bandera"],
+      "pt": ["bandeira: Gâmbia", "bandeira"],
+      "it": ["bandiera: Gambia", "bandiera"],
+      "ro": ["steag: Gambia", "steag"],
+      "he": ["דגל: גמביה", "דגל"],
+      "ar": ["علم: غامبيا", "علم"],
+      "tr": ["bayrak: Gambiya", "bayrak"],
+      "vi": ["cờ: Gambia", "cờ"],
+      "nl": ["vlag: Gambia", "vlag"]
+    }
+  ],
+  "🇬🇳": [
+    "other",
+    "",
+    {
+      "en": ["flag: Guinea", "flag"],
+      "ru": ["флаг: Гвинея", "флаг"],
+      "pl": ["flaga: Gwinea", "flaga"],
+      "fr": ["drapeau : Guinée", "drapeau"],
+      "de": ["Flagge: Guinea", "Flagge"],
+      "es": ["Bandera: Guinea", "Bandera"],
+      "pt": ["bandeira: Guiné", "bandeira"],
+      "it": ["bandiera: Guinea", "bandiera"],
+      "ro": ["steag: Guineea", "steag"],
+      "he": ["דגל: גינאה", "דגל"],
+      "ar": ["علم: غينيا", "علم"],
+      "tr": ["bayrak: Gine", "bayrak"],
+      "vi": ["cờ: Guinea", "cờ"],
+      "nl": ["vlag: Guinee", "vlag"]
+    }
+  ],
+  "🇬🇵": [
+    "other",
+    "",
+    {
+      "en": ["flag: Guadeloupe", "flag"],
+      "ru": ["флаг: Гваделупа", "флаг"],
+      "pl": ["flaga: Gwadelupa", "flaga"],
+      "fr": ["drapeau : Guadeloupe", "drapeau"],
+      "de": ["Flagge: Guadeloupe", "Flagge"],
+      "es": ["Bandera: Guadalupe", "Bandera"],
+      "pt": ["bandeira: Guadalupe", "bandeira"],
+      "it": ["bandiera: Guadalupa", "bandiera"],
+      "ro": ["steag: Guadelupa", "steag"],
+      "he": ["דגל: גוואדלופ", "דגל"],
+      "ar": ["علم: غوادلوب", "علم"],
+      "tr": ["bayrak: Guadeloupe", "bayrak"],
+      "vi": ["cờ: Guadeloupe", "cờ"],
+      "nl": ["vlag: Guadeloupe", "vlag"]
+    }
+  ],
+  "🇬🇶": [
+    "other",
+    "",
+    {
+      "en": ["flag: Equatorial Guinea", "flag"],
+      "ru": ["флаг: Экваториальная Гвинея", "флаг"],
+      "pl": ["flaga: Gwinea Równikowa", "flaga"],
+      "fr": ["drapeau : Guinée équatoriale", "drapeau"],
+      "de": ["Flagge: Äquatorialguinea", "Flagge"],
+      "es": ["Bandera: Guinea Ecuatorial", "Bandera"],
+      "pt": ["bandeira: Guiné Equatorial", "bandeira"],
+      "it": ["bandiera: Guinea Equatoriale", "bandiera"],
+      "ro": ["steag: Guineea Ecuatorială", "steag"],
+      "he": ["דגל: גינאה המשוונית", "דגל"],
+      "ar": ["علم: غينيا الاستوائية", "علم"],
+      "tr": ["bayrak: Ekvator Ginesi", "bayrak"],
+      "vi": ["cờ: Guinea Xích Đạo", "cờ"],
+      "nl": ["vlag: Equatoriaal-Guinea", "vlag"]
+    }
+  ],
+  "🇬🇷": [
+    "other",
+    "",
+    {
+      "en": ["flag: Greece", "flag"],
+      "ru": ["флаг: Греция", "флаг"],
+      "pl": ["flaga: Grecja", "flaga"],
+      "fr": ["drapeau : Grèce", "drapeau"],
+      "de": ["Flagge: Griechenland", "Flagge"],
+      "es": ["Bandera: Grecia", "Bandera"],
+      "pt": ["bandeira: Grécia", "bandeira"],
+      "it": ["bandiera: Grecia", "bandiera"],
+      "ro": ["steag: Grecia", "steag"],
+      "he": ["דגל: יוון", "דגל"],
+      "ar": ["علم: اليونان", "علم"],
+      "tr": ["bayrak: Yunanistan", "bayrak"],
+      "vi": ["cờ: Hy Lạp", "cờ"],
+      "nl": ["vlag: Griekenland", "vlag"]
+    }
+  ],
+  "🇬🇸": [
+    "other",
+    "",
+    {
+      "en": ["flag: South Georgia & South Sandwich Islands", "flag"],
+      "ru": ["флаг: Южная Георгия и Южные Сандвичевы о-ва", "флаг"],
+      "pl": ["flaga: Georgia Południowa i Sandwich Południowy", "flaga"],
+      "fr": ["drapeau : Géorgie du Sud-et-les Îles Sandwich du Sud", "drapeau"],
+      "de": ["Flagge: Südgeorgien und die Südlichen Sandwichinseln", "Flagge"],
+      "es": ["Bandera: Islas Georgia del Sur y Sandwich del Sur", "Bandera"],
+      "pt": ["bandeira: Ilhas Geórgia do Sul e Sandwich do Sul", "bandeira"],
+      "it": ["bandiera: Georgia del Sud e Sandwich Australi", "bandiera"],
+      "ro": ["steag: Georgia de Sud și Insulele Sandwich de Sud", "steag"],
+      "he": ["דגל: ג׳ורג׳יה הדרומית ואיי סנדוויץ׳ הדרומיים", "דגל"],
+      "ar": ["علم: جورجيا الجنوبية وجزر ساندويتش الجنوبية", "علم"],
+      "tr": ["bayrak: Güney Georgia ve Güney Sandwich Adaları", "bayrak"],
+      "vi": ["cờ: Nam Georgia & Quần đảo Nam Sandwich", "cờ"],
+      "nl": ["vlag: Zuid-Georgia en Zuidelijke Sandwicheilanden", "vlag"]
+    }
+  ],
+  "🇬🇹": [
+    "other",
+    "",
+    {
+      "en": ["flag: Guatemala", "flag"],
+      "ru": ["флаг: Гватемала", "флаг"],
+      "pl": ["flaga: Gwatemala", "flaga"],
+      "fr": ["drapeau : Guatemala", "drapeau"],
+      "de": ["Flagge: Guatemala", "Flagge"],
+      "es": ["Bandera: Guatemala", "Bandera"],
+      "pt": ["bandeira: Guatemala", "bandeira"],
+      "it": ["bandiera: Guatemala", "bandiera"],
+      "ro": ["steag: Guatemala", "steag"],
+      "he": ["דגל: גואטמלה", "דגל"],
+      "ar": ["علم: غواتيمالا", "علم"],
+      "tr": ["bayrak: Guatemala", "bayrak"],
+      "vi": ["cờ: Guatemala", "cờ"],
+      "nl": ["vlag: Guatemala", "vlag"]
+    }
+  ],
+  "🇬🇺": [
+    "other",
+    "",
+    {
+      "en": ["flag: Guam", "flag"],
+      "ru": ["флаг: Гуам", "флаг"],
+      "pl": ["flaga: Guam", "flaga"],
+      "fr": ["drapeau : Guam", "drapeau"],
+      "de": ["Flagge: Guam", "Flagge"],
+      "es": ["Bandera: Guam", "Bandera"],
+      "pt": ["bandeira: Guam", "bandeira"],
+      "it": ["bandiera: Guam", "bandiera"],
+      "ro": ["steag: Guam", "steag"],
+      "he": ["דגל: גואם", "דגל"],
+      "ar": ["علم: غوام", "علم"],
+      "tr": ["bayrak: Guam", "bayrak"],
+      "vi": ["cờ: Guam", "cờ"],
+      "nl": ["vlag: Guam", "vlag"]
+    }
+  ],
+  "🇬🇼": [
+    "other",
+    "",
+    {
+      "en": ["flag: Guinea-Bissau", "flag"],
+      "ru": ["флаг: Гвинея-Бисау", "флаг"],
+      "pl": ["flaga: Gwinea Bissau", "flaga"],
+      "fr": ["drapeau : Guinée-Bissau", "drapeau"],
+      "de": ["Flagge: Guinea-Bissau", "Flagge"],
+      "es": ["Bandera: Guinea-Bisáu", "Bandera"],
+      "pt": ["bandeira: Guiné-Bissau", "bandeira"],
+      "it": ["bandiera: Guinea-Bissau", "bandiera"],
+      "ro": ["steag: Guineea-Bissau", "steag"],
+      "he": ["דגל: גינאה-ביסאו", "דגל"],
+      "ar": ["علم: غينيا بيساو", "علم"],
+      "tr": ["bayrak: Gine-Bissau", "bayrak"],
+      "vi": ["cờ: Guinea-Bissau", "cờ"],
+      "nl": ["vlag: Guinee-Bissau", "vlag"]
+    }
+  ]
+}

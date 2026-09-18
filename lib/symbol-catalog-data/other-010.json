@@ -1,0 +1,3146 @@
+{
+  "🍥": [
+    "other",
+    "fish cake with swirl design",
+    {
+      "en": [
+        "fish cake with swirl",
+        "cake | fish | food | pastry | restaurant | swirl"
+      ],
+      "ru": [
+        "камабоко",
+        "камабоко | начинка | рыба | рыбная котлета | сурими | юла"
+      ],
+      "pl": [
+        "ciastko rybne",
+        "ciastko | jedzenie | Narutomaki | ramen | ryba | rybne | spirala"
+      ],
+      "fr": [
+        "croquette de poisson",
+        "croquette de poisson | gâteau | narutomaki | nourriture | poisson | restaurant | surimi"
+      ],
+      "de": [
+        "Fischfrikadelle",
+        "Fisch | Fischfrikadelle | Restaurant | Spirale"
+      ],
+      "es": [
+        "pastel de pescado japonés",
+        "comida japonesa | pastel | pastel de pescado japonés | pescado"
+      ],
+      "pt": [
+        "bolinho de peixe",
+        "bolinho de peixe | croquete | peixe | redemoinho | restaurante"
+      ],
+      "it": [
+        "tortino di pesce a spirale",
+        "cibo | crocchetta di pesce | cucina giapponese | giapponese | pesce | ristorante | rotolo di pesce | spirale | tortino di pesce a spirale"
+      ],
+      "ro": [
+        "ruladă japoneză cu pește",
+        "desert | mâncare | paste | pateu | patiserie | pește | restaurant | ruladă | ruladă japoneză cu pește"
+      ],
+      "he": [
+        "עוגיית אורז עם עיטור",
+        "מאפה | עוגייה | עוגיית אורז עם עיטור | עיטור | קישוט"
+      ],
+      "ar": [
+        "كعكة سمك بشكل حلزوني",
+        "أكل | سمك | طعام | كعكة سمك بشكل حلزوني | كفتة سمك | كفتة سمك ملفوفة | مأكولات | مطعم"
+      ],
+      "tr": [
+        "balık köftesi",
+        "balık | balık köftesi | çörek | gıda | restoran | rulo balık köftesi | yiyecek"
+      ],
+      "vi": [
+        "bánh cá có hình xoắn",
+        "bánh | bánh cá có hình xoắn | bánh ngọt | cá | xoáy"
+      ],
+      "nl": [
+        "viskoekje met krul",
+        "koekje | krul | vis | viskoekje | viskoekje met krul"
+      ]
+    }
+  ],
+  "🍦": [
+    "other",
+    "soft ice cream",
+    {
+      "en": [
+        "soft ice cream",
+        "cream | dessert | food | ice | icecream | restaurant | serve | soft | sweet"
+      ],
+      "ru": [
+        "мороженое в стаканчике",
+        "ванильное мороженое | вафельный стаканчик | вафля | десерт | мороженое | мороженое в стаканчике | мягкое мороженое | рожок"
+      ],
+      "pl": [
+        "lody włoskie",
+        "jedzenie | lody | śmietankowe | świderek | w kubku | włoskie"
+      ],
+      "fr": [
+        "glace italienne",
+        "cornet de glace | dessert | glace | glace italienne | nourriture | sucré"
+      ],
+      "de": ["Softeis", "Eis | Softeis"],
+      "es": [
+        "cucurucho de helado",
+        "cucurucho | cucurucho de helado | dulce | helado | helado de cucurucho | restaurante"
+      ],
+      "pt": [
+        "sorvete italiano",
+        "doce | fome | sobremesa | sorvete | sorvete de casquinha | sorvete de massa | sorvete italiano | sorvete na casquinha"
+      ],
+      "it": [
+        "cono gelato",
+        "bar | cono | crema | dessert | dolce | estate | gelateria | gelato | ristorante | zucchero"
+      ],
+      "ro": [
+        "înghețată cremă",
+        "cornet | desert | dulce | înghețată | înghețată cremă | mâncare | restaurant"
+      ],
+      "he": [
+        "גלידה בגביע",
+        "גביע | גלידה | גלידה אמריקאית | גלידה בגביע | מתוק"
+      ],
+      "ar": [
+        "آيس كريم مخفف",
+        "آيس كريم | آيس كريم مخفف | أيس كريم | بررد | بوظة | حلو | حلويات | مطعم | ميري كريم"
+      ],
+      "tr": [
+        "yumuşak dondurma",
+        "dondurma | dondurma külahı | gıda | krema | külah | restoran | vanilyalı dondurma | yumuşak dondurma"
+      ],
+      "vi": ["kem mềm", "cái kem | kem | mềm | món tráng miệng | ngọt"],
+      "nl": [
+        "softijs",
+        "dessert | eten | ijs | restaurant | room | softijs | zoet"
+      ]
+    }
+  ],
+  "🍧": [
+    "other",
+    "shaved ice",
+    {
+      "en": ["shaved ice", "dessert | ice | restaurant | shaved | sweet"],
+      "ru": [
+        "мороженое в креманке",
+        "десерт | креманка | мороженое | мороженое в креманке | строганый лед"
+      ],
+      "pl": ["lody hawajskie", "deser | hawajskie | jedzenie | lody"],
+      "fr": [
+        "granité",
+        "coupe de glace | crème glacée | dessert | glace | granité | nourriture | restaurant | sucré"
+      ],
+      "de": ["Wassereis", "Eis | Sorbet | Wassereis | zerstoßen"],
+      "es": [
+        "granizado hawaiano",
+        "granizado hawaiano | helado | hielo | postre | raspado"
+      ],
+      "pt": [
+        "raspadinha de gelo",
+        "gelo | raspadinha | raspadinha de gelo | restaurante | sobremesa"
+      ],
+      "it": [
+        "granita",
+        "cibo | estate | ghiaccio | granita | granita siciliana | Sicilia"
+      ],
+      "ro": [
+        "desert din fulgi de gheață",
+        "desert | desert din fulgi de gheață | dulce | gheață | înghețată | restaurant"
+      ],
+      "he": ["קערית ברד", "ברד | ממותק | קינוח | קערית ברד | קרח"],
+      "ar": [
+        "آيس كريم مجروش",
+        "آيس كريم مجروش | ايس كريم | بررد | بوظة | مطعم"
+      ],
+      "tr": ["meyveli buz", "buz | meyveli | restoran"],
+      "vi": ["đá bào", "bào | đá bào | kem | món tráng miệng | ngọt"],
+      "nl": ["geschaafd ijs", "dessert | geschaafd | ijs | restaurant | zoet"]
+    }
+  ],
+  "🍨": [
+    "other",
+    "ice cream",
+    {
+      "en": ["ice cream", "cream | dessert | food | ice | restaurant | sweet"],
+      "ru": ["мороженое", "десерт | мороженое | сладкое | холодное"],
+      "pl": ["lody", "deser | jedzenie | lody"],
+      "fr": [
+        "glace",
+        "coupe de glace | crème | crème glacée | dessert | glace | nourriture | restaurant | sucré"
+      ],
+      "de": ["Eiscreme", "Eis | Eisbecher | Eiscreme | Eisdiele"],
+      "es": ["helado", "helado | postre | sorbete"],
+      "pt": ["sorvete", "creme | gelo | restaurante | sobremesa | sorvete"],
+      "it": [
+        "coppa di gelato",
+        "cibo | coppa di gelato | crema | dessert | dolce | estate | gelateria | gelato | ristorante | zucchero"
+      ],
+      "ro": [
+        "înghețată",
+        "cremă | desert | dulce | înghețată | mâncare | restaurant"
+      ],
+      "he": ["גלידה", "גלידה | מתוק | קינוח | קיץ | קר"],
+      "ar": [
+        "آيس كريم",
+        "آيس كريم | أيس كريم | بارد | برد | بوظة | حلو | حلويات | مطعم"
+      ],
+      "tr": [
+        "dondurma",
+        "buz | dondurma | gıda | krema | kup | restoran | tatlı"
+      ],
+      "vi": ["kem", "kem | món tráng miệng | ngọt"],
+      "nl": ["ijs", "dessert | eten | ijs | restaurant | room | zoet"]
+    }
+  ],
+  "🍩": [
+    "other",
+    "doughnut",
+    {
+      "en": [
+        "doughnut",
+        "breakfast | dessert | donut | doughnut | food | sweet"
+      ],
+      "ru": ["пончик", "глазурь | пирожок | пончик | сладкое"],
+      "pl": [
+        "pączek z dziurką",
+        "ciasto | deser | jedzenie | pączek | słodki | z dziurką"
+      ],
+      "fr": [
+        "doughnut",
+        "dessert | donut | doughnut | goûter | nourriture | sucré | sucrerie"
+      ],
+      "de": ["Donut", "Donut | Doughnut | Essen | Kuchen | süß"],
+      "es": ["dónut", "berlina | dónut | pastel | rosquilla"],
+      "pt": [
+        "donut",
+        "comida | donut | fome | restaurante | rosquinha | sonho doce"
+      ],
+      "it": [
+        "ciambella",
+        "ciambella | cibo | cioccolato | dolce | donut | ristorante | zucchero"
+      ],
+      "ro": [
+        "gogoașă americană",
+        "desert | dulce | glazură | gogoașă | gogoașă americană | mâncare"
+      ],
+      "he": ["סופגניה", "דונט | מאפה | מתוק | סופגניה"],
+      "ar": ["كعكة محلاة", "حلو | حلويات | دونات | كعكة محلاة | مطعم"],
+      "tr": [
+        "donut",
+        "çikolatalı donut | çikolatalı lokma | donat | donut | doughnut | gıda | restoran | tatlı | yiyecek"
+      ],
+      "vi": ["bánh rán vòng", "bánh rán vòng | món tráng miệng | ngọt"],
+      "nl": ["donut", "dessert | donut | eten | voedsel | zoet"]
+    }
+  ],
+  "🍪": [
+    "other",
+    "cookie",
+    {
+      "en": ["cookie", "chip | chocolate | cookie | dessert | sweet"],
+      "ru": ["печенье", "выпечка | десерт | печенье | сладкое | сладость"],
+      "pl": ["ciastko", "ciastko | deser | jedzenie | słodki | słodkie"],
+      "fr": [
+        "cookie",
+        "biscuit | cookie | dessert | gâteau | goûter | nourriture | pépites de chocolat | sucré"
+      ],
+      "de": ["Keks", "Cookie | Keks | Plätchen"],
+      "es": ["galleta", "dulce | galleta | pasta | postre"],
+      "pt": [
+        "biscoito",
+        "biscoito | bolacha | comida | cookie | doce | fome | sobremesa"
+      ],
+      "it": [
+        "biscotto",
+        "biscottino | biscotto | cibo | cioccolato | cookie | dessert | dolce | gocce di cioccolato | ristorante | zucchero"
+      ],
+      "ro": [
+        "fursec",
+        "bucăți de ciocolată | chocolate chip | cookie | desert | dulce | fursec"
+      ],
+      "he": ["עוגיה", "מאפה | מתוק | עוגיה | שבבי שוקולד | שוקולד צ׳יפס"],
+      "ar": ["كعكة", "حلو | حلويات | كعكة | كوكي | مطعم"],
+      "tr": [
+        "kurabiye",
+        "çikolatalı kurabiye | cookie | gıda | kurabiye | restoran"
+      ],
+      "vi": ["bánh quy", "bánh quy | món tráng miệng | ngọt"],
+      "nl": ["koekje", "chip | chocolade | dessert | koekje | zoet"]
+    }
+  ],
+  "🍫": [
+    "other",
+    "chocolate bar",
+    {
+      "en": [
+        "chocolate bar",
+        "bar | candy | chocolate | dessert | halloween | sweet | tooth"
+      ],
+      "ru": [
+        "шоколад",
+        "десерт | какао | плитка шоколада | сладость | шоколад | шоколадка"
+      ],
+      "pl": [
+        "tabliczka czekolady",
+        "czekolada | deser | jedzenie | słodycze | tabliczka czekolady"
+      ],
+      "fr": [
+        "barre chocolatée",
+        "barre | barre chocolatée | chocolat | dessert | goûter | nourriture | sucré"
+      ],
+      "de": [
+        "Schokoladentafel",
+        "Essen | Schokolade | Schokoladentafel | Süßigkeit"
+      ],
+      "es": [
+        "tableta de chocolate",
+        "barra | chocolate | restaurante | tableta | tableta de chocolate"
+      ],
+      "pt": [
+        "chocolate",
+        "barra | barra de chocolate | chocolate | doce | fome"
+      ],
+      "it": [
+        "cioccolato",
+        "barretta di cioccolato | break | cibo | cioccolata | cioccolato | dolce | dolcetto | felicità | goloso | halloween | ristorante | snack"
+      ],
+      "ro": [
+        "baton de ciocolată",
+        "baton | baton de ciocolată | ciocolată | desert | dulce"
+      ],
+      "he": ["חפיסת שוקולד", "חטיף | חפיסת שוקולד | מתוק | שוקולד"],
+      "ar": [
+        "لوح شوكولاتة",
+        "بار شيكولاتة | حلو | حلويات | شوكولا | شوكولاته | شيكولاتة | ضرسو طيب | لوح شوكولاتا | لوح شوكولاتة | لوح شيكولا | لوح شيكولاتة"
+      ],
+      "tr": [
+        "çikolata",
+        "bar | çikolata | çikolata barı | gıda | restoran | tatlı"
+      ],
+      "vi": [
+        "thanh sô cô la",
+        "món tráng miệng | ngọt | sô cô la | thanh | thanh sô cô la"
+      ],
+      "nl": [
+        "chocoladereep",
+        "chocolade | dessert | halloween | reep | snoep | zoetekauw"
+      ]
+    }
+  ],
+  "🍬": [
+    "other",
+    "candy",
+    {
+      "en": [
+        "candy",
+        "candy | cavities | dessert | halloween | restaurant | sweet | tooth | wrapper"
+      ],
+      "ru": [
+        "конфета",
+        "конфета | леденец | обертка | сладкая | сладость | фантик"
+      ],
+      "pl": ["cukierek", "cukierek | deser | jedzenie | słodki | słodycze"],
+      "fr": [
+        "bonbon",
+        "bonbon | dessert | goûter | nourriture | sucré | sucrerie"
+      ],
+      "de": ["Bonbon", "Bonbon | süß | Süßigkeit"],
+      "es": ["caramelo", "caramelo | chuche | chuchería | dulce | golosina"],
+      "pt": ["bala", "bala | balinha | doce"],
+      "it": [
+        "caramella",
+        "caramella | caramelle | dolce | dolcetti | dolcetto | dolci | dolciume | halloween | zucchero"
+      ],
+      "ro": ["bomboană", "bomboană | carii | desert | dulce | halloween"],
+      "he": ["סוכריה", "ממתק | מתוק | סוכריה | קינוח"],
+      "ar": ["حلوى", "بونبون | حلو | حلوى | حلويات | ضرسو طيب | كاندي | مطعم"],
+      "tr": ["şekerleme", "bayram | restoran | şeker | şekerleme"],
+      "vi": ["kẹo", "kẹo | món tráng miệng | ngọt"],
+      "nl": [
+        "snoep",
+        "dessert | eten | gaatjes | snoep | voedsel | wikkel | zoet"
+      ]
+    }
+  ],
+  "🍭": [
+    "other",
+    "lollipop",
+    {
+      "en": [
+        "lollipop",
+        "candy | dessert | food | lollipop | restaurant | sweet"
+      ],
+      "ru": [
+        "леденец",
+        "конфета | конфета на палочке | леденец | леденец на палочке | на палочке | палочка | радуга | сладкий | сладость"
+      ],
+      "pl": ["lizak", "deser | jedzenie | lizak | słodki | słodycze"],
+      "fr": [
+        "sucette",
+        "dessert | goûter | nourriture | sucette | sucré | sucrerie"
+      ],
+      "de": ["Lutscher", "Lolli | Lutscher | Süßigkeit"],
+      "es": ["piruleta", "chuche | chuchería | dulce | golosina | piruleta"],
+      "pt": ["pirulito", "bala | doce | pirulito"],
+      "it": [
+        "lecca lecca",
+        "caramella | chupa chups | dolce | dolcetti | dolcetto | dolci | lecca lecca | ristorante | willi wonka | zucchero"
+      ],
+      "ro": [
+        "acadea",
+        "acadea | băț | bomboană | bomboană pe băț | desert | dulce | mâncare"
+      ],
+      "he": ["סוכריה על מקל", "ממתק | מקל | מתוק | סוכריה | סוכריה על מקל"],
+      "ar": ["مصاصة", "حلاوة | حلو | حلويات | سوسيت | مصاصة | مطعم"],
+      "tr": [
+        "lolipop",
+        "bayram | çocuk | gıda | lolipop | restoran | şeker | şekerleme"
+      ],
+      "vi": ["kẹo mút", "kẹo | kẹo mút | món tráng miệng | ngọt"],
+      "nl": ["lolly", "dessert | eten | lolly | snoep | voedsel | zoet"]
+    }
+  ],
+  "🍮": [
+    "other",
+    "custard",
+    {
+      "en": ["custard", "custard | dessert | pudding | sweet"],
+      "ru": ["пудинг", "десерт | пудинг | сладкий"],
+      "pl": [
+        "deser typu krem angielski",
+        "ciastko kremowe | creme brulee | custard | deser | jedzenie | krem | krem angielski | słodkie"
+      ],
+      "fr": [
+        "crème renversée",
+        "crème renversée | dessert | flan | nourriture | pudding | sucré"
+      ],
+      "de": [
+        "Pudding",
+        "Dessert | Flan | Nachspeise | Nachtisch | Pudding | Schokolade | Soße"
+      ],
+      "es": ["flan", "dulce | flan | postre | pudding"],
+      "pt": ["pudim", "pudim | pudim de leite | pudim de ovos | restaurante"],
+      "it": [
+        "budino",
+        "budino | cibo | creme caramel | dessert | dolce | dolci | pudding | ristorante | zucchero"
+      ],
+      "ro": ["șarlotă", "budincă | desert | dulce | șarlotă"],
+      "he": ["פודינג", "מתוק | פודינג | קינוח"],
+      "ar": ["كريم كراميل", "بودينغ | حلويات | كاسترد | كريم كراميل | مطعم"],
+      "tr": ["krem karamel", "gıda | krem karamel | puding | restoran | tatlı"],
+      "vi": ["bánh trứng", "bánh | bánh trứng | món tráng miệng | ngọt"],
+      "nl": ["vla", "dessert | pudding | vla | zoet"]
+    }
+  ],
+  "🍯": [
+    "other",
+    "honey pot",
+    {
+      "en": [
+        "honey pot",
+        "barrel | bear | food | honey | honeypot | jar | pot | sweet"
+      ],
+      "ru": ["мед", "бочонок | бочонок меда | горшок | горшок с медом | мед"],
+      "pl": [
+        "garnek miodu",
+        "beczka | garnek | jedzenie | miód | miodu | słoik | z miodem"
+      ],
+      "fr": [
+        "pot de miel",
+        "miel | nourriture | ours | pot | pot de miel | sucré"
+      ],
+      "de": ["Honigtopf", "Honig | Honigtopf | süß"],
+      "es": ["tarro de miel", "dulce | miel | tarro | tarro de miel"],
+      "pt": ["pote de mel", "mel | pote | pote de mel | restaurante"],
+      "it": [
+        "barattolo di miele",
+        "api | barattolo | barattolo di miele | cibo | dolce | miele | ristorante | vaso | vaso di miele | winnie the pooh | zucchero"
+      ],
+      "ro": [
+        "borcan cu miere",
+        "borcan | borcan cu miere | borcan de miere | dulce | mâncare | miere | miere de albine | urs"
+      ],
+      "he": ["צנצנת דבש", "דבש | כד דבש | מתוק | צנצנת דבש"],
+      "ar": [
+        "جرة عسل",
+        "أكل | جرة | حلو | حلويات | دب | صحي | عسل | مطعم | نحل | نحلة"
+      ],
+      "tr": [
+        "bal kabı",
+        "bal | bal kabı | gıda | kahvaltı | kap | restoran | tatlı"
+      ],
+      "vi": ["hũ mật ong", "hũ | hũ mật ong | mật ong | ngọt"],
+      "nl": ["honingpot", "beer | eten | honing | honingpot | pot | vat | zoet"]
+    }
+  ],
+  "🍰": [
+    "other",
+    "shortcake",
+    {
+      "en": [
+        "shortcake",
+        "cake | dessert | pastry | shortcake | slice | sweet"
+      ],
+      "ru": [
+        "кусочек торта",
+        "выпечка | десерт | крем | кусочек торта | сладкая | торт"
+      ],
+      "pl": ["tort", "ciasto | deser | jedzenie | przyjęcie | słodycze | tort"],
+      "fr": [
+        "gâteau sablé",
+        "dessert | gâteau | gâteau sablé | goûter | nourriture | pâtisserie | sucré"
+      ],
+      "de": [
+        "Torte",
+        "Kuchen | Kuchenstück | Stück Torte | Torte | Tortenstück"
+      ],
+      "es": [
+        "trozo de tarta",
+        "pedazo de tarta | restaurante | tarta | trozo de tarta"
+      ],
+      "pt": [
+        "pão de ló de morango",
+        "bolo | bolo recheado | doce | fatia | fatia de bolo | pão de ló | pão de ló de morango | restaurante | sobremesa"
+      ],
+      "it": [
+        "fetta di torta",
+        "dessert | dolce | fetta | fetta di torta | ristorante | torta | zucchero"
+      ],
+      "ro": [
+        "tartă",
+        "aluat | desert | dulce | felie | patiserie | prăjitură | tartă | tort"
+      ],
+      "he": ["פרוסת עוגה", "מאפה | מתוק | עוגה | פרוסה | פרוסת עוגה | קינוח"],
+      "ar": [
+        "قطعة من الكعك",
+        "أكل | تحلاية | تورتة | جاتو | حلا | حلو | حلويات | شريحة كيكة | طعام | غاتو | قطعة | قطعة من الكعك | كيك | كيكة | مطعم"
+      ],
+      "tr": [
+        "pasta dilimi",
+        "dilim pasta | doğum günü | gıda | pasta | pasta dilimi | restoran"
+      ],
+      "vi": ["bánh ngọt", "bánh | miếng | món tráng miệng | ngọt"],
+      "nl": ["cake", "cake | dessert | gebak | plak | zandgebak | zoet"]
+    }
+  ],
+  "🍱": [
+    "other",
+    "bento box",
+    {
+      "en": ["bento box", "bento | box | food"],
+      "ru": [
+        "бэнто",
+        "бенто | бизнес ланч | бэнто | коробка с суши и рисом | обед"
+      ],
+      "pl": ["pudełko bento", "bento | jedzenie | pudełko | ryż"],
+      "fr": ["boîte déjeuner", "bento | boîte | déjeuner | nourriture"],
+      "de": ["Bento-Box", "Bento | Bento-Box | Japanisches essen | Sushi"],
+      "es": [
+        "caja de bento",
+        "bento | caja | caja de bento | comida | restaurante"
+      ],
+      "pt": [
+        "bentô",
+        "almoço japonês | bentô | caixa | caixa de bentô | restaurante"
+      ],
+      "it": [
+        "bento box",
+        "bento box | lunch box | monoporzione | piatto pronto | ristorante"
+      ],
+      "ro": [
+        "mâncare japoneză la pachet",
+        "bento | japonia | mâncare | mâncare japoneză la pachet | pachet"
+      ],
+      "he": [
+        "חמגשית עם אוכל",
+        "אוכל | בנטו | חמגשית | חמגשית עם אוכל | סושי | קופסה"
+      ],
+      "ar": [
+        "علبة طعام",
+        "أكل | بنتو | سوشي | طعام | علبة طعام | مطعم | ياباني"
+      ],
+      "tr": [
+        "bento",
+        "bento | bento paketi | gıda | paket | restoran | sushi | yemek"
+      ],
+      "vi": ["hộp cơm bento", "cơm bento | hộp | hộp cơm bento"],
+      "nl": ["bentobox", "bento | box | voedsel"]
+    }
+  ],
+  "🍲": [
+    "other",
+    "pot of food",
+    {
+      "en": ["pot of food", "food | pot | soup | stew"],
+      "ru": [
+        "кастрюля с горячей едой",
+        "горячая еда | горячее | кастрюля | кастрюля с горячей едой | обед | первое | суп | тарелка с горячей едой"
+      ],
+      "pl": [
+        "garnek z jedzeniem",
+        "danie | garnek | jednogarnkowe | jedzenie | potrawka | z jedzeniem | zupa"
+      ],
+      "fr": ["marmite", "marmite | nourriture | ragoût"],
+      "de": [
+        "Topf mit Essen",
+        "Eintopf | Gericht | Schüssel | Suppe | Topf mit Essen"
+      ],
+      "es": [
+        "olla de comida",
+        "comida de olla | olla de comida | puchero | restaurante"
+      ],
+      "pt": ["panela", "ensopado | panela | restaurante | tigela de comida"],
+      "it": [
+        "pentola di cibo",
+        "cibo | ciotola di cibo | minestra | pentola di cibo | ristorante | stufato | zuppa"
+      ],
+      "ro": [
+        "oală cu mâncare",
+        "bol | castron | ciorbă | mâncare | oală | oală cu mâncare | supă | tocană"
+      ],
+      "he": ["סיר אוכל", "אדים | אוכל | מרק | נזיד | סיר"],
+      "ar": [
+        "وعاء طعام",
+        "أكل | حلة طعام | طعام | طنجرة | مطعم | وعاء طعام | يخنة"
+      ],
+      "tr": [
+        "yemek tenceresi",
+        "gıda | restoran | tencere yemeği | yahni | yemek | yemek tenceresi | yiyecek"
+      ],
+      "vi": ["nồi thức ăn", "hầm | nồi | nồi thức ăn | súp"],
+      "nl": ["stoofschotel", "pan | soep | stoofschotel | voedsel"]
+    }
+  ],
+  "🍳": [
+    "other",
+    "cooking",
+    {
+      "en": [
+        "cooking",
+        "breakfast | cooking | easy | egg | fry | frying | over | pan | restaurant | side | sunny | up"
+      ],
+      "ru": [
+        "яичница на сковороде",
+        "глазунья | жарить | желток | завтрак | сковорода | яичница | яйцо"
+      ],
+      "pl": ["gotowanie", "gotowanie | jajko | jedzenie | patelnia | smażyć"],
+      "fr": [
+        "œuf au plat",
+        "cuisine | friture | nourriture | œuf | œuf au plat | petit-déjeuner | poêle | poêle à frire | se faire cuire un œuf"
+      ],
+      "de": [
+        "Spiegelei in Bratpfanne",
+        "braten | Bratpfanne | Kochen | Pfanne | Spiegelei | Spiegelei in Bratpfanne"
+      ],
+      "es": ["cocinar", "cocinar | freír | huevo | sartén"],
+      "pt": [
+        "ovo frito",
+        "comida | culinária | frigideira | ovo | ovo estrelado | ovo frito | restaurante"
+      ],
+      "it": [
+        "cucinare",
+        "cibo | colazione all’americana | cucinare | friggere | padella | padellino | ristorante | uova | uovo | uovo in padella"
+      ],
+      "ro": [
+        "gătit",
+        "gătit | mic dejun | ou prăjit | ouă | ouă ochiuri | prăjit | restaurant | tigaie"
+      ],
+      "he": [
+        "בישול",
+        "אוכל | ארוחת בוקר | ביצת עין | בישול | חביתה | טיגון | מזון"
+      ],
+      "ar": [
+        "مقلاة",
+        "أم عيون | بيض | بيض عيون | بيضة مقلية | ترويقة | طبخ | طهي | فطور | قلاية | مطعم | مقلاة | مقلاية"
+      ],
+      "tr": [
+        "yemek pişirme",
+        "gıda | kahvaltı | kızartma tavası | pişirme | restoran | sahanda yumurta | tavada yumurta | yemek | yiyecek | yumurta"
+      ],
+      "vi": ["nấu ăn", "cái chảo | chiên | nấu ăn | trứng"],
+      "nl": [
+        "koken",
+        "bakken | ei | gemakkelijk | koken | ontbijt | pan | restaurant | spiegelei"
+      ]
+    }
+  ],
+  "🍴": [
+    "other",
+    "fork and knife",
+    {
+      "en": [
+        "fork and knife",
+        "breakfast | breaky | cooking | cutlery | delicious | dinner | eat | feed | food | fork | hungry | knife | lunch | restaurant | yum | yummy"
+      ],
+      "ru": [
+        "вилка и нож",
+        "вилка | еда | завтрак | нож | обед | перекус | прибор | ресторан | ужин"
+      ],
+      "pl": [
+        "widelec i nóż",
+        "gotowanie | jedzenie | kolacja | nóż | obiad | posiłek | restauracja | śniadanie | sztućce | widelec"
+      ],
+      "fr": [
+        "fourchette et couteau",
+        "couteau et fourchette | couverts | faim | fourchette et couteau | manger | nourriture | repas | restaurant"
+      ],
+      "de": [
+        "Messer und Gabel",
+        "Abendessen | Besteck | Essen | Frühstück | Gabel | Gabel und Messer | Geschirr | Hunger | lecker | Messer | Messer und Gabel | Mittagessen | Restaurant"
+      ],
+      "es": [
+        "tenedor y cuchillo",
+        "cuchillo | restaurante | tenedor | tenedor y cuchillo"
+      ],
+      "pt": [
+        "garfo e faca",
+        "almoço | comer | comida | faca | fome | garfo | garfo e faca | jantar | restaurante | talher | talheres"
+      ],
+      "it": [
+        "forchetta e coltello",
+        "affamata | affamato | cena | che fame | cibo | cucinare | fame | forchetta e coltello | mangiare | posate | pranzo | ristorante"
+      ],
+      "ro": [
+        "furculiță și cuțit",
+        "cină | cuțit | foame | furculiță | furculiță și cuțit | gătit | gustare | hrană | mâncare | masă | mi-e foame | mic dejun | pap | restaurant | tacâmuri"
+      ],
+      "he": ["סכין ומזלג", "אוכל | ארוחה | מזלג | סכו״ם | סכין"],
+      "ar": [
+        "شوكة وسكينة",
+        "جائع | جوع | جوعان | سكينة | شوكة | شوكة وسكينة | صفرة | طبخ | طعام | عشاء | غدا | غذاء | فطور | مأكولات ومشروبات | مطعم"
+      ],
+      "tr": [
+        "çatal ve bıçak",
+        "aç | akşam yemeği | beslenmek | bıçak | brunch | çatal | çatal ve bıçak | eline sağlık | kahvaltı | leziz | meyhane | mutfak | öğle yemeği | pişirmek | restoran | yemek | yiyecek"
+      ],
+      "vi": [
+        "dĩa và dao",
+        "ăn | ăn sáng | bữa sáng | bữa tối | bữa trưa | cho ăn | dao | dĩa | đồ ăn | đói | nấu ăn | ngon | ngon miệng | nhà hàng"
+      ],
+      "nl": [
+        "mes en vork",
+        "bestek | eten | honger | koken | lekker | lunch | mes | mes en vork | ontbijt | restaurant | uit eten | vork | vork en mes"
+      ]
+    }
+  ],
+  "🍵": [
+    "other",
+    "teacup without handle",
+    {
+      "en": [
+        "teacup without handle",
+        "beverage | cup | drink | handle | oolong | tea | teacup"
+      ],
+      "ru": [
+        "чашка без ручки",
+        "зеленый | чай | чашка | чашка без ручки | чашка зеленого чая | чашка чая"
+      ],
+      "pl": [
+        "filiżanka bez uszka",
+        "bez uszka | filiżanka | herbata | miseczka | spodek"
+      ],
+      "fr": ["tasse", "boisson | tasse | tasse de thé sans anse | thé"],
+      "de": [
+        "Teetasse ohne Henkel",
+        "Getränk | grüner Tee | Oolong | Schale | Tee | Teetasse | Teetasse ohne Henkel"
+      ],
+      "es": ["tazón de té", "bebida | taza | tazón de té | té"],
+      "pt": [
+        "xícara de chá sem alça",
+        "bebida | chá | chá verde | xícara | xícara de chá | xícara de chá sem alça"
+      ],
+      "it": [
+        "tazza da tè senza manico",
+        "bere | bevanda | pomeriggio | sete | tazza | tazza da tè senza manico | tazza di tè | tazzina | tè"
+      ],
+      "ro": [
+        "ceașcă fără mâner",
+        "băutură | cană | ceai | ceașcă | ceașcă fără mâner | oolong"
+      ],
+      "he": [
+        "ספל תה בלי ידית",
+        "חם | משקה | ספל | ספל תה בלי ידית | תה | תה ירוק"
+      ],
+      "ar": [
+        "فنجان شاي بدون مقبض",
+        "شاي | شراب | فنجان | فنجان شاي بدون مقبض | كاسة"
+      ],
+      "tr": ["çay fincanı", "çay | çay fincanı | içecek | yeşil çay"],
+      "vi": [
+        "tách trà không có quai",
+        "cốc | đồ uống | tách trà | tách trà không có quai | trà | uống"
+      ],
+      "nl": [
+        "theekopje zonder oor",
+        "drankje | drinken | kop | thee | theekopje | theekopje zonder oor"
+      ]
+    }
+  ],
+  "🍶": [
+    "other",
+    "sake bottle and cup",
+    {
+      "en": [
+        "sake",
+        "bar | beverage | bottle | cup | drink | restaurant | sake"
+      ],
+      "ru": [
+        "бутылка саке",
+        "бутылка саке | водка | выпивать | горячее | саке | япония"
+      ],
+      "pl": ["sake", "alkohol | butelka i kubek | sake"],
+      "fr": [
+        "saké",
+        "boisson | bouteille | bouteille et verre | restaurant | saké | verre"
+      ],
+      "de": [
+        "Sake-Flasche mit Tasse",
+        "Flasche | Getränk | Sake | Sake-Flasche mit Tasse | Sake-Flasche und -tasse | Tasse | trinken"
+      ],
+      "es": ["sake", "bar | bebida | botella | restaurante | sake | tazón"],
+      "pt": [
+        "saquê",
+        "bar | bebida | copo | garrafa | garrafa e copo de saquê | japonês | restaurante | saquê"
+      ],
+      "it": [
+        "sakè",
+        "bar | bere | bevanda | bicchiere | bottiglia | bottiglia e bicchiere di sake | bottiglia e bicchiere di sakè | giapponese | ristorante | sake | sakè"
+      ],
+      "ro": [
+        "sake",
+        "alcool | bar | băutură | cană | ceașcă | restaurant | sake | sticlă"
+      ],
+      "he": ["סאקה", "אלכוהול | בר | יפן | משקה | סאקה"],
+      "ar": [
+        "زجاجة وفنجان",
+        "بار | زجاجة | زجاجة وفنجان | ساكي | شراب | فنجان | مشروب | مطعم"
+      ],
+      "tr": [
+        "sake",
+        "bar | fincan | içecek | restoran | sake | sake şişesi ve fincanı | şişe"
+      ],
+      "vi": ["rượu sake", "chai | cốc | đồ uống | quán ba | rượu sake | uống"],
+      "nl": ["sake", "bar | café | drankje | drinken | fles | kopje | sake"]
+    }
+  ],
+  "🍷": [
+    "other",
+    "wine glass",
+    {
+      "en": [
+        "wine glass",
+        "alcohol | bar | beverage | booze | club | drink | drinking | drinks | glass | restaurant | wine"
+      ],
+      "ru": [
+        "бокал вина",
+        "алкоголь | бокал | бокал вина | вино | красное вино"
+      ],
+      "pl": [
+        "kieliszek wina",
+        "alkohol | kieliszek | restauracja | wina | wino"
+      ],
+      "fr": [
+        "verre de vin",
+        "alcool | bar | boisson | club | restaurant | verre | verre à vin | verre de vin | vin"
+      ],
+      "de": ["Weinglas", "Alkohol | Bar | Glas | Wein | Weinglas"],
+      "es": [
+        "copa de vino",
+        "bar | bebida | copa | copa de vino | vaso | vino"
+      ],
+      "pt": [
+        "vinho",
+        "bar | bebida | cálice de vinho | restaurante | taça | vinho"
+      ],
+      "it": [
+        "bicchiere di vino",
+        "alcool | bar | bere | bicchiere | bicchiere di vino | calice | enoteca | ristorante | vino"
+      ],
+      "ro": [
+        "pahar de vin",
+        "alcool | bar | băut | băutură | club | pahar | pahar de vin | restaurant | vin"
+      ],
+      "he": [
+        "כוס יין",
+        "אלכוהול | בר | הרמת כוסית | יין | יין אדום | כוס | קידוש"
+      ],
+      "ar": [
+        "كأس شراب",
+        "بار | خمرة | شراب | كأس | كحول | مشروب | مطعم | نبيذ"
+      ],
+      "tr": [
+        "şarap kadehi",
+        "bar | bardak | bardak şarap | içecek | içedek | kadeh | kırmızı şarap | restoran | şarap bardağı | şarap kadehi"
+      ],
+      "vi": [
+        "ly rượu vang",
+        "đồ uống | ly | ly rượu vang | quán ba | rượu | uống"
+      ],
+      "nl": [
+        "wijnglas",
+        "alcohol | bar | café | drankje | drinken | glas | restaurant | wijn | wijnglas"
+      ]
+    }
+  ],
+  "🍸": [
+    "other",
+    "cocktail glass",
+    {
+      "en": [
+        "cocktail glass",
+        "alcohol | bar | booze | club | cocktail | drink | drinking | drinks | glass | mad | martini | men"
+      ],
+      "ru": ["коктейль", "бар | бокал | коктейль | напиток"],
+      "pl": [
+        "kieliszek z koktajlem",
+        "alkohol | bar | drink | impreza | kieliszek | koktajl | z koktajlem"
+      ],
+      "fr": [
+        "cocktail",
+        "alcool | bar | boisson | club | cocktail | martini | verre | verre à cocktail | verre à pied"
+      ],
+      "de": ["Cocktailglas", "Bar | Cocktail | Cocktailglas | Drink | martini"],
+      "es": [
+        "copa de cóctel",
+        "bar | cóctel | copa | copa de cóctel | restaurante"
+      ],
+      "pt": [
+        "coquetel",
+        "bar | beber | bebida | cachaça | coquetel | happy hour | martini | restaurante | taça | taça de coquetel"
+      ],
+      "it": [
+        "cocktail",
+        "alcol | alcolico | bar | bere | bevanda | bicchiere | bicchiere da cocktail | calice | cocktail | drink | ristorante"
+      ],
+      "ro": [
+        "pahar de cocktail",
+        "alcool | bar | băutură | băuturi | club | cocktail | mad men | martini | pahar | pahar de cocktail"
+      ],
+      "he": [
+        "כוס קוקטייל",
+        "אלכוהול | בר | כוס קוקטייל | מרטיני | משקה | קוקטייל"
+      ],
+      "ar": [
+        "كأس عصير كوكتيل",
+        "شراب | كأس عصير كوكتيل | كأس كوكتيل | كحول | كوكتيل | مارتيني | محل تقديم المشروبات | مشروب"
+      ],
+      "tr": [
+        "kokteyl kadehi",
+        "bar | kokteyl | kokteyl bardağı | kokteyl kadehi | restoran"
+      ],
+      "vi": ["ly cocktail", "cocktail | đồ uống | ly | quán bar"],
+      "nl": [
+        "cocktailglas",
+        "alcohol | bar | café | cocktail | cocktailglas | drinken | glas | mad men | martini"
+      ]
+    }
+  ],
+  "🍹": [
+    "other",
+    "tropical drink",
+    {
+      "en": [
+        "tropical drink",
+        "alcohol | bar | booze | club | cocktail | drink | drinking | drinks | drunk | mai | party | tai | tropical | tropics"
+      ],
+      "ru": [
+        "тропический коктейль",
+        "зонтик | напиток | прохладительный | соломинка | тропики | тропический коктейль"
+      ],
+      "pl": [
+        "drink tropikalny",
+        "alkohol | bar | drink | impreza | palemka | tropikalny | wakacje | z palemką"
+      ],
+      "fr": [
+        "cocktail tropical",
+        "alcool | bar | boîte | cocktail | cocktail tropical | fête | tequila sunrise | verre"
+      ],
+      "de": ["Cocktail", "Bar | Cocktail | exotisches Getränk"],
+      "es": ["bebida tropical", "bar | bebida | restaurante | tropical"],
+      "pt": [
+        "bebida tropical",
+        "bar | bebida | coquetel | coquetel de frutas | drink | happy hour | restaurante | tropical"
+      ],
+      "it": [
+        "cocktail tropicale",
+        "alcool | bar | bere | club | cocktail | drink | ristorante | tropicale"
+      ],
+      "ro": [
+        "băutură tropicală",
+        "alcool | bar | băut | băutură | băutură tropicală | băuturi | beat | club | cocktail | exotic | mai tai | petrecere | tropical"
+      ],
+      "he": [
+        "קוקטייל טרופי",
+        "אלכוהול | בר | טרופי | מרגריטה | משקה | קוקטייל"
+      ],
+      "ar": [
+        "مشروب استوائي",
+        "بار | حفل | كاسك | كحول | ماي تاي | محل تقديم المشروبات | مشروب | مشروب استوائي"
+      ],
+      "tr": ["tropik içecek", "bar | içecek | kokteyl | restoran | tropik"],
+      "vi": [
+        "đồ uống nhiệt đới",
+        "đồ uống | đồ uống nhiệt đới | nhiệt đới | quán bar"
+      ],
+      "nl": [
+        "tropisch drankje",
+        "alcohol | bar | club | drankjes | drinken | dronken | mai tai | mix | tropisch | tropisch drankje"
+      ]
+    }
+  ],
+  "🍺": [
+    "other",
+    "beer mug",
+    {
+      "en": [
+        "beer mug",
+        "alcohol | ale | bar | beer | booze | drink | drinking | drinks | mug | octoberfest | oktoberfest | pint | stein | summer"
+      ],
+      "ru": [
+        "кружка пива",
+        "кружка | кружка пива | пена | пенное | пивная кружка | пиво"
+      ],
+      "pl": [
+        "kufel piwa",
+        "alkohol | bar | impreza | kufel | piwa | piwo | pub | z piwem"
+      ],
+      "fr": [
+        "chope",
+        "alcool | bar | bière | boisson | chope | chope de bière | oktoberfest | picoler | pinte | santé"
+      ],
+      "de": [
+        "Bierkrug",
+        "Bar | Bier | Bierkrug | Krug | Oktoberfest | prost | Weizenbier"
+      ],
+      "es": [
+        "jarra de cerveza",
+        "bar | cerveza | jarra | jarra de cerveza | restaurante"
+      ],
+      "pt": [
+        "cerveja",
+        "bar | bebida | caneca | caneca de cerveja | cerveja | chopp | gelada | happy hour | restaurante"
+      ],
+      "it": [
+        "boccale di birra",
+        "alcool | bar | bere | birra | boccale di birra | estate | Germania | octoberfest | pinta | pub | ristorante | sete"
+      ],
+      "ro": [
+        "halbă de bere",
+        "alcool | bar | băutură | bere | german | germania | halbă | halbă de bere | octoberfest | oktoberfest | stein"
+      ],
+      "he": ["כוס בירה", "אלכוהול | בירה | בר | כוס | משקה"],
+      "ar": [
+        "كأس بيرة",
+        "أوكتوبر فيست | بار | بيرة | جعة | شراب | كأس بيرة | كاسك | كحول | ماغ | مشروب"
+      ],
+      "tr": ["bira kupası", "bar | bira kupası | kupa | restoran"],
+      "vi": ["cốc bia", "bia | cốc | đồ uống | quán bar"],
+      "nl": [
+        "bierglas",
+        "alcohol | bar | bier | bierglas | café | drinken | duitsland | glas | oktoberfest | pils | pint"
+      ]
+    }
+  ],
+  "🍻": [
+    "other",
+    "clinking beer mugs",
+    {
+      "en": [
+        "clinking beer mugs",
+        "alcohol | bar | beer | booze | bottoms | cheers | clink | clinking | drinking | drinks | mugs"
+      ],
+      "ru": [
+        "чокающиеся кружки",
+        "бар | выпивать | кружки пива | пенное | пивные кружки | пиво | тост | чокающиеся кружки | чокнуться"
+      ],
+      "pl": [
+        "stukające się kufle piwa",
+        "alkohol | bar | kufel | kufle | na zdrowie | piwiarnia | piwo | pub | stukające się kufle piwa | z piwem"
+      ],
+      "fr": [
+        "chopes de bière",
+        "alcool | bière | boisson | chopes de bière | santé | tchin | trinquer"
+      ],
+      "de": [
+        "Bierkrüge",
+        "anstoßen | Bier | Bierkrüge | Oktoberfest | prosit | prost | Weizen"
+      ],
+      "es": [
+        "jarras de cerveza brindando",
+        "bar | cerveza | jarra | jarras | jarras de cerveza brindando | restaurante"
+      ],
+      "pt": [
+        "canecas de cerveja",
+        "bar | caneca | cerveja | chope | Chopp | restaurante"
+      ],
+      "it": [
+        "boccali di birra",
+        "alcool | bar | birra | birre | boccali di birra che brindano | brindisi | celebrare | cin cin | festeggiare | pub | ristorante"
+      ],
+      "ro": [
+        "halbe de bere ciocnite",
+        "alcool | bar | băut | băutură | băuturi | bere | ciocnit | ciocnit halbe de bere | halbă | halbe | halbe de bere ciocnite | noroc | până la fund"
+      ],
+      "he": [
+        "השקת כוסות בירה",
+        "אלכוהול | בירה | בר | השקת כוסות בירה | כוס | לחיים | משקה"
+      ],
+      "ar": [
+        "كأسا بيرة",
+        "بار | بيرة | جعة | شيرز | كأسا بيرة | كاسك | كحول | كوب | كوبان | محل مشروب | مشروب"
+      ],
+      "tr": [
+        "bira kupaları tokuşturma",
+        "bar | bira | bira kupaları tokuşturma | içki | kupa | kupalar | restoran"
+      ],
+      "vi": [
+        "chạm cốc bia",
+        "bia | chạm cốc | chạm cốc bia | đồ uống | nước giải khát | quán ba"
+      ],
+      "nl": [
+        "klinkende bierglazen",
+        "alcohol | bar | bier | café | drinken | glas | klinkende bierglazen | proosten | proostende bierglazen"
+      ]
+    }
+  ],
+  "🍼": [
+    "other",
+    "baby bottle",
+    {
+      "en": [
+        "baby bottle",
+        "babies | baby | birth | born | bottle | drink | infant | milk | newborn"
+      ],
+      "ru": [
+        "бутылочка с соской",
+        "бутылка | бутылочка с соской | дети | кормить | молоко | новорожденный | прикорм | сосать | соска"
+      ],
+      "pl": [
+        "butelka ze smoczkiem",
+        "bobas | butelka | dzidziuś | mleko | napój | niemowlęca | smoczek | ze smoczkiem"
+      ],
+      "fr": [
+        "biberon",
+        "bébé | biberon | boisson | lait | naissance | nouveau-né | tétine"
+      ],
+      "de": [
+        "Babyflasche",
+        "Baby | Babyflasche | Fläschchen | Flasche | Kind | Milch | trinken"
+      ],
+      "es": ["biberón", "bebé | bibe | biberón | bibi | botella | leche"],
+      "pt": [
+        "mamadeira",
+        "bebê | leite | leitinho | mamadeira | mamar | neném"
+      ],
+      "it": [
+        "biberon",
+        "bambina | bambino | bebé | bere | biberon | bimba | bimbo | fame | latte | neonata | neonato | tenero"
+      ],
+      "ro": [
+        "biberon",
+        "băutură | bebe | bebeluș | biberon | lapte | nou-născut | sticlă | suzetă"
+      ],
+      "he": ["בקבוק של תינוק", "בקבוק | בקבוק של תינוק | חלב | תינוק | תמ״ל"],
+      "ar": [
+        "زجاجة الرضاعة",
+        "بيبرونة | بيبي | حليب | رضيع | زجاجة إرضاع | زجاجة الرضاعة | لبن | مشروب | مصاصة | مولود"
+      ],
+      "tr": ["biberon", "bebek | biberon | içecek | küçük şişe | şişe | süt"],
+      "vi": [
+        "bình sữa trẻ em",
+        "bình | em bé | mới sinh | sinh | sữa | trẻ sơ sinh | uống"
+      ],
+      "nl": [
+        "babyflesje",
+        "baby | babyfles | babyflesje | drinken | fles | flesje | flesvoeding | geboorte | melk"
+      ]
+    }
+  ],
+  "🍽": [
+    "other",
+    "fork and knife with plate",
+    {
+      "en": [
+        "fork and knife with plate",
+        "cooking | dinner | eat | fork | knife | plate"
+      ],
+      "ru": [
+        "тарелка с приборами",
+        "вилка | нож | прибор | сервировка | стол | столовый | тарелка"
+      ],
+      "pl": [
+        "talerz z nożem i widelcem",
+        "gotowanie | jedzenie | kolacja | naczynia | nóż | obiad | sztućce | talerz | widelec | z nożem i widelcem"
+      ],
+      "fr": [
+        "fourchette et couteau avec assiette",
+        "assiette | assiette et couverts | couteau | cuisine | fourchette | fourchette et couteau avec assiette | restaurant | table"
+      ],
+      "de": [
+        "Teller mit Messer und Gabel",
+        "Gabel | Geschirr | kochen | Messer | Teller | Teller mit Messer und Gabel"
+      ],
+      "es": [
+        "cuchillo y tenedor con un plato",
+        "cuchillo | cuchillo y tenedor con un plato | plato | restaurante | tenedor"
+      ],
+      "pt": [
+        "prato com talheres",
+        "almoço | faca | fome | garfo | jantar | prato | prato com talheres ao lado | restaurante | talheres"
+      ],
+      "it": [
+        "piatto e posate",
+        "apparecchiare | cena | coltello | fame | forchetta | mangiare | piatto | piatto e posate | posate | pranzo | tavola"
+      ],
+      "ro": [
+        "furculiță și cuțit cu farfurie",
+        "cuțit | farfurie | furculiță | furculiță și cuțit cu farfurie | gătit | mâncare | mâncat | tacâmuri"
+      ],
+      "he": ["סכין ומזלג עם צלחת", "אוכל | ארוחה | מזלג | סכו״ם | סכין | צלחת"],
+      "ar": [
+        "طبق وشوكة وسكينة",
+        "أكل | سكين | شوكة | صحن | طبخ | طبق | طبق وشوكة وسكينة | طعام | طهي | عشاء"
+      ],
+      "tr": [
+        "tabakla birlikte çatal ve bıçak",
+        "bıçak | çatal | tabak | tabakla birlikte çatal ve bıçak | yemek"
+      ],
+      "vi": [
+        "dĩa và dao với đĩa",
+        "dao | đĩa | dĩa và dao với đĩa | nấu nướng | nĩa"
+      ],
+      "nl": ["mes en vork met bord", "bord | diner | eten | koken | mes | vork"]
+    }
+  ],
+  "🍾": [
+    "other",
+    "bottle with popping cork",
+    {
+      "en": [
+        "bottle with popping cork",
+        "bar | bottle | cork | drink | popping"
+      ],
+      "ru": [
+        "шампанское",
+        "бутылка | вино | игристое | отмечать | праздновать | пробка | шампанское"
+      ],
+      "pl": [
+        "butelka z wystrzelającym korkiem",
+        "alkohol | bar | butelka | impreza | korek | nowy rok | przyjecie | strzelający korek | sylwester | szampan | toast"
+      ],
+      "fr": [
+        "bouteille de champagne",
+        "alcool | boisson | bouchon | bouteille | bouteille de champagne | champagne | félicitations | fête | pop"
+      ],
+      "de": [
+        "Flasche mit knallendem Korken",
+        "Champagner | Flasche | Flasche mit knallendem Korken | Getränk | knallen | Korken | Sekt | trinken"
+      ],
+      "es": [
+        "botella descorchada",
+        "bar | beber | botella | botella descorchada | cava | corcho"
+      ],
+      "pt": [
+        "garrafa de champanhe",
+        "aniversário | bar | champagne | champanha | champanhe | cidra | comemorar | espumante | estourar | festa | garrafa | parabéns"
+      ],
+      "it": [
+        "bottiglia stappata",
+        "auguri | bar | bere | brindisi | celebrare | champagne | congratulazioni | festeggiare | spumante | stappare | tappo"
+      ],
+      "ro": [
+        "sticlă căreia îi sare dopul",
+        "bar | băutură | dop | șampanie | sărbătoare | sticlă | sticlă căreia îi sare dopul"
+      ],
+      "he": [
+        "בקבוק שמפניה עם פקק עף",
+        "אלכוהול | בקבוק | בר | הרמת כוסית | מסיבה | משקה | פקק | שמפניה"
+      ],
+      "ar": [
+        "زجاجة بسدادة مفرقعة",
+        "بار | زجاجة | زجاجة بسدادة مفرقعة | سدادة | شامبانيا | شراب | شمبانيا | قنينة | مشروب"
+      ],
+      "tr": [
+        "patlayan mantarlı şişe",
+        "bar | içki | kutlama | mantar | patlayan mantarlı şişe | şampanya | şişe"
+      ],
+      "vi": [
+        "chai rượu với nút gỗ bật ra",
+        "bật ra | chai | chai rượu với nút gỗ bật ra | đồ uống | nút gỗ | quán bar"
+      ],
+      "nl": ["fles met knallende kurk", "bar | drinken | fles | knallen | kurk"]
+    }
+  ],
+  "🍿": [
+    "other",
+    "popcorn",
+    {
+      "en": ["popcorn", "corn | movie | pop | popcorn"],
+      "ru": ["попкорн", "кукуруза | попкорн | стакан"],
+      "pl": ["popcorn", "jedzenie | kino | kukurydza | popcorn"],
+      "fr": ["pop-corn", "cinéma | nourriture | pop-corn"],
+      "de": ["Popcorn", "Kino | Popcorn | Snack"],
+      "es": ["palomitas", "maíz | palomitas"],
+      "pt": ["pipoca", "balde | cinema | pipoca"],
+      "it": ["popcorn", "cibo | cinema | mais | popcorn"],
+      "ro": [
+        "popcorn",
+        "cinematograf | film | floricele | floricele de porumb | pop-corn | popcorn | porumb"
+      ],
+      "he": ["פופקורן", "סרט | פופקורן | קולנוע"],
+      "ar": [
+        "فشار",
+        "بوب كورن | بوشار | ذرة | فشار | فوشار | فيشار | فيلم | موفي"
+      ],
+      "tr": ["patlamış mısır", "gıda | mısır | patlamış mısır | sinema"],
+      "vi": ["bỏng ngô", "bỏng ngô | phim"],
+      "nl": ["popcorn", "film | maïs | pop | popcorn"]
+    }
+  ],
+  "🎀": [
+    "other",
+    "ribbon",
+    {
+      "en": ["ribbon", "celebration | ribbon"],
+      "ru": ["бантик", "бант | бантик | волосы | лента | одежда | праздник"],
+      "pl": [
+        "wstążka",
+        "kokarda | kokardka | ozdoba | podarunek | prezent | wstążka"
+      ],
+      "fr": ["ruban", "fête | nœud | ruban | ruban rose"],
+      "de": ["pinke Schleife", "Feier | Geschenk | pink | rosa | Schleife"],
+      "es": ["lazo", "celebración | lazo"],
+      "pt": ["laço de fita", "comemoração | fita | laço | presente"],
+      "it": [
+        "fiocco",
+        "auguri | bambina | bebé | festa | fiocco | fiocco rosa | neonata"
+      ],
+      "ro": [
+        "fundă",
+        "aniversare | festiv | fundă | fundiță | panglică | sărbătoare"
+      ],
+      "he": ["סרט מתנה", "חגיגה | מסיבה | מתנה | סרט"],
+      "ar": ["شريط", "احتفال | افتتاح | بابيون | حفلة | شريط"],
+      "tr": ["kurdele", "kız | kurdele | kutlama | pembe kurdele"],
+      "vi": ["ruy băng", "lễ kỷ niệm | ruy băng"],
+      "nl": ["strik", "feest | roze lint | strik | viering"]
+    }
+  ],
+  "🎁": [
+    "other",
+    "wrapped present",
+    {
+      "en": [
+        "wrapped gift",
+        "birthday | bow | box | celebration | christmas | gift | present | surprise | wrapped"
+      ],
+      "ru": [
+        "подарок",
+        "бант | бантик | год | день | коробка | новый | подарок | праздник | рождения | Рождество"
+      ],
+      "pl": [
+        "zapakowany prezent",
+        "kokarda | kokardka | paczka | podarunek | prezent | zapakowany prezent"
+      ],
+      "fr": [
+        "cadeau",
+        "anniversaire | cadeau | cadeau emballé | fête | Noël | nœud | surprise"
+      ],
+      "de": [
+        "Geschenk",
+        "Feier | Geburtstag | Geschenk | Schachtel | Schleife | Überraschung | verpackt | Weihnachten"
+      ],
+      "es": [
+        "regalo",
+        "celebración | envoltorio | presente | regalo | regalo envuelto"
+      ],
+      "pt": ["presente", "comemoração | embrulhado | mimo | presente"],
+      "it": [
+        "regalo",
+        "dono | festa | fiocco | Natale | pacchetto | regalino | regalo | sorpresa"
+      ],
+      "ro": [
+        "cadou împachetat",
+        "aniversare | cadou | crăciun | cutie | cutie cu fundă | fundă | fundiță | împachetat | petrecere | sărbătoare | surpriză | zi de naștere"
+      ],
+      "he": [
+        "קופסת מתנה",
+        "אריזה | יום הולדת | מסיבה | מתנה | עטוף | קופסה | קופסת מתנה | שי"
+      ],
+      "ar": [
+        "هدية ملفوفة",
+        "احتفال | عيد ميلاد | مفاجاة | مناسبة | هدية | هدية ملفوفة"
+      ],
+      "tr": [
+        "paketlenmiş hediye",
+        "doğum günü | hediye | kutlama | paketlenmiş hediye | paketli"
+      ],
+      "vi": ["gói quà", "gói quà | hộp | lễ kỷ niệm | quà | quà tặng"],
+      "nl": [
+        "ingepakt cadeau",
+        "cadeau | cadeautje | cadeauverpakking met strik | feest | ingepakt | verpakking"
+      ]
+    }
+  ],
+  "🎂": [
+    "other",
+    "birthday cake",
+    {
+      "en": [
+        "birthday cake",
+        "bday | birthday | cake | celebration | dessert | happy | pastry | sweet"
+      ],
+      "ru": [
+        "торт ко дню рождения",
+        "выпечка | день рождения | отмечать | пирог | праздник | с днем рождения | свечи | свечки | сладкое | торт | торт ко дню рождения"
+      ],
+      "pl": [
+        "tort urodzinowy",
+        "ciasto | jedzenie | przyjęcie | słodki | słodkie | świeczki | święto | świętowanie | tort | urodzinowy | urodziny | zdmuchnąć"
+      ],
+      "fr": [
+        "gâteau d’anniversaire",
+        "anniversaire | bougies | dessert | fête | gâteau | gâteau d’anniversaire | goûter | joyeux anniversaire | nourriture | pâtisserie"
+      ],
+      "de": [
+        "Geburtstagskuchen",
+        "Essen | feier | Feier | Geburtstag | Geburtstagskuchen | Geburtstagstorte | happy birthday | kerzen | Kuchen | Lebensmittel | Torte"
+      ],
+      "es": [
+        "tarta de cumpleaños",
+        "celebración | cumpleaños | tarta | tarta de cumpleaños"
+      ],
+      "pt": [
+        "bolo de aniversário",
+        "aniversário | bolo | bolo de aniversário | comemoração | doce | feliz aniversário | festa | niver"
+      ],
+      "it": [
+        "torta di compleanno",
+        "auguri di compleanno | buon compleanno | candeline | cibo | compleanno | dolce | festa | festeggiare | pasticceria | tanti auguri | torta di compleanno | zucchero"
+      ],
+      "ro": [
+        "tort aniversar",
+        "aluat | aniversare | cofetărie | desert | dulce | la mulți ani | lma | petrecere | sărbătoare | tort | tort aniversar | zi de naștere"
+      ],
+      "he": [
+        "עוגת יום הולדת",
+        "חגיגה | יום הולדת | מאפה | מזל טוב | מסיבה | עוגה | עוגת יום הולדת"
+      ],
+      "ar": [
+        "كعكة عيد ميلاد",
+        "احتفال | المأكولات والمشروبات | تورتة | تورتة عيد ميلاد | عيد ميلاد | غاتو | كعكة | كعكة عيد الميلاد | كعكة عيد ميلاد | كيكة"
+      ],
+      "tr": [
+        "doğum günü pastası",
+        "dilek | doğum günü | doğum günü pastası | gıda | iyi ki doğdun | kek | krema | kutlama | mum | mutlu yıllar | nice senelere | parti | pasta | tatlı | üflemek | yaş günü | yemek | yiyecek"
+      ],
+      "vi": [
+        "bánh sinh nhật",
+        "bánh | bánh sinh nhật | lễ kỷ niệm | món tráng miệng | ngọt | sinh nhật | tráng miệng"
+      ],
+      "nl": [
+        "verjaardagstaart",
+        "dessert | gebak | gelukkig | taart | verjaardag | verjaardagstaart | viering | zoet"
+      ]
+    }
+  ],
+  "🎃": [
+    "other",
+    "jack-o-lantern",
+    {
+      "en": [
+        "jack-o-lantern",
+        "celebration | halloween | jack | jack-o-lantern | lantern | pumpkin"
+      ],
+      "ru": [
+        "тыква-фонарь",
+        "праздник | тыква | тыква-фонарь | фонарь из тыквы | Хеллоуин | Хэллоуин"
+      ],
+      "pl": ["dynia na halloween", "dynia | dynia na halloween | halloween"],
+      "fr": ["citrouille", "citrouille | halloween | Halloween | lanterne"],
+      "de": [
+        "Halloweenkürbis",
+        "Halloween | Halloweenkürbis | Herbst | Kürbis | Kürbislaterne"
+      ],
+      "es": [
+        "calabaza de Halloween",
+        "calabaza | calabaza de Halloween | celebración | Halloween | linterna"
+      ],
+      "pt": [
+        "abóbora de halloween",
+        "abóbora | comemoração | dia das bruxas | halloween | jack | lanterna"
+      ],
+      "it": [
+        "zucca di Halloween",
+        "festa | Halloween | lanterna | zucca | zucca di Halloween"
+      ],
+      "ro": [
+        "dovleac cu felinar",
+        "bostan | dovleac | dovleac cu felinar | față | felinar | halloween | Halloween | jack-o-lantern | lanternă din dovleac | lumânare | sărbătoare"
+      ],
+      "he": [
+        "מנורת דלעת",
+        "אור | דלעת | האלווין | ליל כל הקדושים | מנורה | מנורת דלעת"
+      ],
+      "ar": ["هالوين", "قرع | قرعة مضيئة | هالوين | هالويين"],
+      "tr": [
+        "kabak fener",
+        "cadılar bayramı | fener | halloween | Halloween | jack | kabak | kutlama"
+      ],
+      "vi": [
+        "đèn lồng bí ngô",
+        "đèn lồng | đèn lồng bí ngô | halloween | lễ hội | lồng | lồng đèn bí ngô"
+      ],
+      "nl": [
+        "halloweenlantaarn",
+        "feest | halloween | halloweenlantaarn | lampion | lantaarn | pompoen | pompoenlantaarn | sint maarten"
+      ]
+    }
+  ],
+  "🎄": [
+    "other",
+    "christmas tree",
+    {
+      "en": ["Christmas tree", "celebration | Christmas | tree"],
+      "ru": [
+        "новогодняя елка",
+        "елка | новогодняя елка | Новый год | праздник | Рождество"
+      ],
+      "pl": [
+        "choinka bożonarodzeniowa",
+        "bombki | boże narodzenie | choinka | choinka bożonarodzeniowa | drzewko | święta"
+      ],
+      "fr": [
+        "sapin de Noël",
+        "arbre | fête | fêtes | guirlandes | Noël | sapin de Noël | Sapin de Noël"
+      ],
+      "de": ["Weihnachtsbaum", "Baum | Tanne | Weihnachten | Weihnachtsbaum"],
+      "es": [
+        "árbol de Navidad",
+        "abeto de Navidad | árbol | árbol de Navidad | celebración | Navidad"
+      ],
+      "pt": ["árvore de natal", "árvore | comemoração | Natal | pinheirinho"],
+      "it": [
+        "albero di Natale",
+        "albero | albero di Natale | celebrare | festa | festeggiare | festoni | Natale | natura | palline | pino"
+      ],
+      "ro": [
+        "brad de Crăciun",
+        "brad | brad de Crăciun | Crăciun | pom de crăciun | sărbătoare"
+      ],
+      "he": [
+        "עץ אשוח מקושט",
+        "אשוח | חג המולד | כריסמס | מקושט | עץ אשוח מקושט"
+      ],
+      "ar": [
+        "شجرة عيد الميلاد",
+        "احتفال | شجرة | شجرة الميلاد | شجرة عيد الميلاد"
+      ],
+      "tr": [
+        "Noel ağacı",
+        "ağaç | çam | kutlama | noel ağacı | Noel ağacı | süs | yılbaşı"
+      ],
+      "vi": [
+        "cây thông noel",
+        "cây | cây thông noel | giáng sinh | lễ kỷ niệm"
+      ],
+      "nl": [
+        "kerstboom",
+        "boom | feest | kerstboom | kerstmis | Kerstmis | viering"
+      ]
+    }
+  ],
+  "🎅": [
+    "other",
+    "father christmas",
+    {
+      "en": [
+        "Santa Claus",
+        "celebration | Christmas | claus | fairy | fantasy | father | holiday | merry | santa | tale | xmas"
+      ],
+      "ru": [
+        "Санта-Клаус",
+        "дед мороз | дедушка мороз | клаус | новый год | рождество | санта | санта-клаус"
+      ],
+      "pl": [
+        "Święty Mikołaj",
+        "boże narodzenie | głowa | gwiazdor | legenda | mężczyzna | mikołaj | praca | święta | święty mikołaj | zawód"
+      ],
+      "fr": [
+        "père Noël",
+        "bonnet | fêtes | magie | noël | Noël | père | Santa Claus | tradition"
+      ],
+      "de": ["Weihnachtsmann", "Weihnachten | Weihnachtsmann"],
+      "es": [
+        "Papá Noel",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | padre | Papá Noel | santa"
+      ],
+      "pt": ["Papai Noel", "comemoração | festas | natal | noel | papai"],
+      "it": [
+        "Babbo Natale",
+        "Babbo Natale | cappello | fest | festa | Natale | Santa Claus | uomo"
+      ],
+      "ro": [
+        "Moș Crăciun",
+        "basm | crăciun | Crăciun | moș | moș gerilă | moșul | poveste | sărbătoare"
+      ],
+      "he": ["סנטה קלאוס", "חג המולד | כריסמס | מתנות | סנטה | סנטה קלאוס"],
+      "ar": [
+        "بابا نويل",
+        "بابا نويل | حدوتة | خرافة | سانتا | سانتا كلوز | عيد | عيد الميلاد | قصة"
+      ],
+      "tr": [
+        "Noel Baba",
+        "insan | kutlama | noel | noel baba | Noel Baba | santa claus"
+      ],
+      "vi": [
+        "Ông già Noel",
+        "cha | claus | Giáng sinh | lễ kỷ niệm | Ông già Noel | Ông già Noen | santa"
+      ],
+      "nl": [
+        "kerstman",
+        "fantasie | feestdag | kerst | kerstman | Kerstmis | viering | vrolijk"
+      ]
+    }
+  ],
+  "🎅🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "Santa Claus: light skin tone",
+        "celebration | Christmas | claus | fairy | fantasy | father | holiday | light skin tone | merry | santa | tale | xmas"
+      ],
+      "ru": [
+        "Санта-Клаус: очень светлый тон кожи",
+        "дед мороз | дедушка мороз | клаус | новый год | очень светлый тон кожи | рождество | санта | санта-клаус"
+      ],
+      "pl": [
+        "Święty Mikołaj: karnacja jasna",
+        "boże narodzenie | głowa | gwiazdor | karnacja jasna | legenda | mężczyzna | mikołaj | praca | święta | święty mikołaj | zawód"
+      ],
+      "fr": [
+        "père Noël : peau claire",
+        "bonnet | fêtes | magie | noël | Noël | peau claire | père | Santa Claus | tradition"
+      ],
+      "de": [
+        "Weihnachtsmann: helle Hautfarbe",
+        "helle Hautfarbe | Weihnachten | Weihnachtsmann"
+      ],
+      "es": [
+        "Papá Noel: tono de piel claro",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | padre | Papá Noel | santa | tono de piel claro"
+      ],
+      "pt": [
+        "Papai Noel: pele clara",
+        "comemoração | festas | natal | noel | papai | pele clara"
+      ],
+      "it": [
+        "Babbo Natale: carnagione chiara",
+        "Babbo Natale | cappello | carnagione chiara | fest | festa | Natale | Santa Claus | uomo"
+      ],
+      "ro": [
+        "Moș Crăciun: ton deschis al pielii",
+        "basm | crăciun | Crăciun | moș | moș gerilă | moșul | poveste | sărbătoare | ton deschis al pielii"
+      ],
+      "he": [
+        "סנטה קלאוס: גוון עור בהיר",
+        "גוון עור בהיר | חג המולד | כריסמס | מתנות | סנטה | סנטה קלאוס"
+      ],
+      "ar": [
+        "بابا نويل: بشرة بلون فاتح",
+        "بابا نويل | بشرة بلون فاتح | حدوتة | خرافة | سانتا | سانتا كلوز | عيد | عيد الميلاد | قصة"
+      ],
+      "tr": [
+        "Noel Baba: açık cilt tonu",
+        "açık cilt tonu | insan | kutlama | noel | noel baba | Noel Baba | santa claus"
+      ],
+      "vi": [
+        "Ông già Noel: màu da sáng",
+        "cha | claus | Giáng sinh | lễ kỷ niệm | màu da sáng | Ông già Noel | Ông già Noen | santa"
+      ],
+      "nl": [
+        "kerstman: lichte huidskleur",
+        "fantasie | feestdag | kerst | kerstman | Kerstmis | lichte huidskleur | viering | vrolijk"
+      ]
+    }
+  ],
+  "🎅🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "Santa Claus: medium-light skin tone",
+        "celebration | Christmas | claus | fairy | fantasy | father | holiday | medium-light skin tone | merry | santa | tale | xmas"
+      ],
+      "ru": [
+        "Санта-Клаус: светлый тон кожи",
+        "дед мороз | дедушка мороз | клаус | новый год | рождество | санта | санта-клаус | светлый тон кожи"
+      ],
+      "pl": [
+        "Święty Mikołaj: karnacja średnio jasna",
+        "boże narodzenie | głowa | gwiazdor | karnacja średnio jasna | legenda | mężczyzna | mikołaj | praca | święta | święty mikołaj | zawód"
+      ],
+      "fr": [
+        "père Noël : peau moyennement claire",
+        "bonnet | fêtes | magie | noël | Noël | peau moyennement claire | père | Santa Claus | tradition"
+      ],
+      "de": [
+        "Weihnachtsmann: mittelhelle Hautfarbe",
+        "mittelhelle Hautfarbe | Weihnachten | Weihnachtsmann"
+      ],
+      "es": [
+        "Papá Noel: tono de piel claro medio",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | padre | Papá Noel | santa | tono de piel claro medio"
+      ],
+      "pt": [
+        "Papai Noel: pele morena clara",
+        "comemoração | festas | natal | noel | papai | pele morena clara"
+      ],
+      "it": [
+        "Babbo Natale: carnagione abbastanza chiara",
+        "Babbo Natale | cappello | carnagione abbastanza chiara | fest | festa | Natale | Santa Claus | uomo"
+      ],
+      "ro": [
+        "Moș Crăciun: ton semi‑deschis al pielii",
+        "basm | crăciun | Crăciun | moș | moș gerilă | moșul | poveste | sărbătoare | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "סנטה קלאוס: גוון עור בהיר בינוני",
+        "גוון עור בהיר בינוני | חג המולד | כריסמס | מתנות | סנטה | סנטה קלאוס"
+      ],
+      "ar": [
+        "بابا نويل: بشرة بلون فاتح ومعتدل",
+        "بابا نويل | بشرة بلون فاتح ومعتدل | حدوتة | خرافة | سانتا | سانتا كلوز | عيد | عيد الميلاد | قصة"
+      ],
+      "tr": [
+        "Noel Baba: orta açık cilt tonu",
+        "insan | kutlama | noel | noel baba | Noel Baba | orta açık cilt tonu | santa claus"
+      ],
+      "vi": [
+        "Ông già Noel: màu da sáng trung bình",
+        "cha | claus | Giáng sinh | lễ kỷ niệm | màu da sáng trung bình | Ông già Noel | Ông già Noen | santa"
+      ],
+      "nl": [
+        "kerstman: lichtgetinte huidskleur",
+        "fantasie | feestdag | kerst | kerstman | Kerstmis | lichtgetinte huidskleur | viering | vrolijk"
+      ]
+    }
+  ],
+  "🎅🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "Santa Claus: medium skin tone",
+        "celebration | Christmas | claus | fairy | fantasy | father | holiday | medium skin tone | merry | santa | tale | xmas"
+      ],
+      "ru": [
+        "Санта-Клаус: средний тон кожи",
+        "дед мороз | дедушка мороз | клаус | новый год | рождество | санта | санта-клаус | средний тон кожи"
+      ],
+      "pl": [
+        "Święty Mikołaj: karnacja średnia",
+        "boże narodzenie | głowa | gwiazdor | karnacja średnia | legenda | mężczyzna | mikołaj | praca | święta | święty mikołaj | zawód"
+      ],
+      "fr": [
+        "père Noël : peau légèrement mate",
+        "bonnet | fêtes | magie | noël | Noël | peau légèrement mate | père | Santa Claus | tradition"
+      ],
+      "de": [
+        "Weihnachtsmann: mittlere Hautfarbe",
+        "mittlere Hautfarbe | Weihnachten | Weihnachtsmann"
+      ],
+      "es": [
+        "Papá Noel: tono de piel medio",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | padre | Papá Noel | santa | tono de piel medio"
+      ],
+      "pt": [
+        "Papai Noel: pele morena",
+        "comemoração | festas | natal | noel | papai | pele morena"
+      ],
+      "it": [
+        "Babbo Natale: carnagione olivastra",
+        "Babbo Natale | cappello | carnagione olivastra | fest | festa | Natale | Santa Claus | uomo"
+      ],
+      "ro": [
+        "Moș Crăciun: ton mediu al pielii",
+        "basm | crăciun | Crăciun | moș | moș gerilă | moșul | poveste | sărbătoare | ton mediu al pielii"
+      ],
+      "he": [
+        "סנטה קלאוס: גוון עור בינוני",
+        "גוון עור בינוני | חג המולד | כריסמס | מתנות | סנטה | סנטה קלאוס"
+      ],
+      "ar": [
+        "بابا نويل: بشرة بلون معتدل",
+        "بابا نويل | بشرة بلون معتدل | حدوتة | خرافة | سانتا | سانتا كلوز | عيد | عيد الميلاد | قصة"
+      ],
+      "tr": [
+        "Noel Baba: orta cilt tonu",
+        "insan | kutlama | noel | noel baba | Noel Baba | orta cilt tonu | santa claus"
+      ],
+      "vi": [
+        "Ông già Noel: màu da trung bình",
+        "cha | claus | Giáng sinh | lễ kỷ niệm | màu da trung bình | Ông già Noel | Ông già Noen | santa"
+      ],
+      "nl": [
+        "kerstman: getinte huidskleur",
+        "fantasie | feestdag | getinte huidskleur | kerst | kerstman | Kerstmis | viering | vrolijk"
+      ]
+    }
+  ],
+  "🎅🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "Santa Claus: medium-dark skin tone",
+        "celebration | Christmas | claus | fairy | fantasy | father | holiday | medium-dark skin tone | merry | santa | tale | xmas"
+      ],
+      "ru": [
+        "Санта-Клаус: темный тон кожи",
+        "дед мороз | дедушка мороз | клаус | новый год | рождество | санта | санта-клаус | темный тон кожи"
+      ],
+      "pl": [
+        "Święty Mikołaj: karnacja średnio ciemna",
+        "boże narodzenie | głowa | gwiazdor | karnacja średnio ciemna | legenda | mężczyzna | mikołaj | praca | święta | święty mikołaj | zawód"
+      ],
+      "fr": [
+        "père Noël : peau mate",
+        "bonnet | fêtes | magie | noël | Noël | peau mate | père | Santa Claus | tradition"
+      ],
+      "de": [
+        "Weihnachtsmann: mitteldunkle Hautfarbe",
+        "mitteldunkle Hautfarbe | Weihnachten | Weihnachtsmann"
+      ],
+      "es": [
+        "Papá Noel: tono de piel oscuro medio",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | padre | Papá Noel | santa | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "Papai Noel: pele morena escura",
+        "comemoração | festas | natal | noel | papai | pele morena escura"
+      ],
+      "it": [
+        "Babbo Natale: carnagione abbastanza scura",
+        "Babbo Natale | cappello | carnagione abbastanza scura | fest | festa | Natale | Santa Claus | uomo"
+      ],
+      "ro": [
+        "Moș Crăciun: ton semi‑închis al pielii",
+        "basm | crăciun | Crăciun | moș | moș gerilă | moșul | poveste | sărbătoare | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "סנטה קלאוס: גוון עור כהה בינוני",
+        "גוון עור כהה בינוני | חג המולד | כריסמס | מתנות | סנטה | סנטה קלאוס"
+      ],
+      "ar": [
+        "بابا نويل: بشرة بلون معتدل مائل للغامق",
+        "بابا نويل | بشرة بلون معتدل مائل للغامق | حدوتة | خرافة | سانتا | سانتا كلوز | عيد | عيد الميلاد | قصة"
+      ],
+      "tr": [
+        "Noel Baba: orta koyu cilt tonu",
+        "insan | kutlama | noel | noel baba | Noel Baba | orta koyu cilt tonu | santa claus"
+      ],
+      "vi": [
+        "Ông già Noel: màu da tối trung bình",
+        "cha | claus | Giáng sinh | lễ kỷ niệm | màu da tối trung bình | Ông già Noel | Ông già Noen | santa"
+      ],
+      "nl": [
+        "kerstman: donkergetinte huidskleur",
+        "donkergetinte huidskleur | fantasie | feestdag | kerst | kerstman | Kerstmis | viering | vrolijk"
+      ]
+    }
+  ],
+  "🎅🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "Santa Claus: dark skin tone",
+        "celebration | Christmas | claus | dark skin tone | fairy | fantasy | father | holiday | merry | santa | tale | xmas"
+      ],
+      "ru": [
+        "Санта-Клаус: очень темный тон кожи",
+        "дед мороз | дедушка мороз | клаус | новый год | очень темный тон кожи | рождество | санта | санта-клаус"
+      ],
+      "pl": [
+        "Święty Mikołaj: karnacja ciemna",
+        "boże narodzenie | głowa | gwiazdor | karnacja ciemna | legenda | mężczyzna | mikołaj | praca | święta | święty mikołaj | zawód"
+      ],
+      "fr": [
+        "père Noël : peau foncée",
+        "bonnet | fêtes | magie | noël | Noël | peau foncée | père | Santa Claus | tradition"
+      ],
+      "de": [
+        "Weihnachtsmann: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Weihnachten | Weihnachtsmann"
+      ],
+      "es": [
+        "Papá Noel: tono de piel oscuro",
+        "celebración | claus | cuento | fantasía | feliz | fiestas | Navidad | padre | Papá Noel | santa | tono de piel oscuro"
+      ],
+      "pt": [
+        "Papai Noel: pele escura",
+        "comemoração | festas | natal | noel | papai | pele escura"
+      ],
+      "it": [
+        "Babbo Natale: carnagione scura",
+        "Babbo Natale | cappello | carnagione scura | fest | festa | Natale | Santa Claus | uomo"
+      ],
+      "ro": [
+        "Moș Crăciun: ton închis al pielii",
+        "basm | crăciun | Crăciun | moș | moș gerilă | moșul | poveste | sărbătoare | ton închis al pielii"
+      ],
+      "he": [
+        "סנטה קלאוס: גוון עור כהה",
+        "גוון עור כהה | חג המולד | כריסמס | מתנות | סנטה | סנטה קלאוס"
+      ],
+      "ar": [
+        "بابا نويل: بشرة بلون غامق",
+        "بابا نويل | بشرة بلون غامق | حدوتة | خرافة | سانتا | سانتا كلوز | عيد | عيد الميلاد | قصة"
+      ],
+      "tr": [
+        "Noel Baba: koyu cilt tonu",
+        "insan | koyu cilt tonu | kutlama | noel | noel baba | Noel Baba | santa claus"
+      ],
+      "vi": [
+        "Ông già Noel: màu da tối",
+        "cha | claus | Giáng sinh | lễ kỷ niệm | màu da tối | Ông già Noel | Ông già Noen | santa"
+      ],
+      "nl": [
+        "kerstman: donkere huidskleur",
+        "donkere huidskleur | fantasie | feestdag | kerst | kerstman | Kerstmis | viering | vrolijk"
+      ]
+    }
+  ],
+  "🎆": [
+    "other",
+    "fireworks",
+    {
+      "en": [
+        "fireworks",
+        "boom | celebration | entertainment | fireworks | yolo"
+      ],
+      "ru": [
+        "фейерверк",
+        "пиротехника | праздник | салют | свет | фейерверк | шум"
+      ],
+      "pl": [
+        "fajerwerki",
+        "fajerwerki | nowy rok | obchody | ognie | petardy | święta | sylwester | sztuczne | zimne"
+      ],
+      "fr": ["feu d’artifice", "14 juillet | artifice | fête | feu d’artifice"],
+      "de": ["Feuerwerk", "Feuerwerk | Silvester"],
+      "es": ["fuegos artificiales", "celebración | fuegos artificiales"],
+      "pt": [
+        "fogos de artifício",
+        "ano novo | comemoração | fogos | fogos de artifício"
+      ],
+      "it": [
+        "fuochi d’artificio",
+        "boom | celebrazione | festa | fuochi d’artificio | fuoco d’artificio | luce | scintilla | stella"
+      ],
+      "ro": ["artificii", "artificii | bum | cer | divertisment | sărbătoare"],
+      "he": ["זיקוקים", "זיקוקים | זיקוקין | חגיגה | יום העצמאות"],
+      "ar": [
+        "ألعاب نارية",
+        "ألعاب نارية | ابتهاج | احتفال | العاب نارية | بووم | حفلة | فرقيع | مفرقعات"
+      ],
+      "tr": ["havai fişek", "eğlence | havai fişek | ışık | kutlama"],
+      "vi": ["pháo hoa", "giải trí | lễ kỷ niệm | pháo hoa"],
+      "nl": [
+        "vuurwerk",
+        "feest | jaarwisseling | knal | oud en nieuw | oudejaarsavond | vermaak | viering | vuurwerk"
+      ]
+    }
+  ],
+  "🎇": [
+    "other",
+    "firework sparkler",
+    {
+      "en": ["sparkler", "boom | celebration | fireworks | sparkle | sparkler"],
+      "ru": [
+        "бенгальский огонь",
+        "бенгальский огонь | искры | новый год | огонь | праздник | салют"
+      ],
+      "pl": [
+        "zimne ognie",
+        "fajerwerki | nowy rok | obchody | ognie | petardy | święta | sylwester | sztuczne | zimne"
+      ],
+      "fr": [
+        "cierge magique",
+        "14 juillet | artifice | cierge magique | étincelle | étincelles | fête | feu d’artifice"
+      ],
+      "de": ["Wunderkerze", "Feiern | Feuerwerk | Party | Wunderkerze"],
+      "es": ["bengala", "bengala | celebración | fuegos artificiales"],
+      "pt": [
+        "vela estrela",
+        "comemoração | fogo de artifício | fogo de artifício vela estrela | vela estrela"
+      ],
+      "it": [
+        "stellina scintillante",
+        "boom | esplosione | festa | fuoco | fuoco d’artificio | stella filante | stellina scintillante | stelline scintillanti"
+      ],
+      "ro": [
+        "foc bengal",
+        "artificii | foc bengal | petrecere | sărbătoare | scântei"
+      ],
+      "he": ["זיקוק על מקל", "זיקוק על מקל | זיקוקי דינור | זיקוקים | חגיגה"],
+      "ar": [
+        "ماسة نارية",
+        "ألعاب نارية | بووم | طراطيع | عيد | فرقيع | ماسة ألعاب نارية | ماسة نارية | مفرقعات"
+      ],
+      "tr": ["fişek", "fişek | havai fişek | kıvılcım | kutlama | patlama"],
+      "vi": ["pháo bông", "chói sáng | lễ kỷ niệm | pháo bông | pháo hoa"],
+      "nl": [
+        "sterretje",
+        "afsteken | feest | jaarwisseling | knal | oud en nieuw | oudejaarsavond | sterretje | viering | vuurwerk | vuurwerksterretje"
+      ]
+    }
+  ],
+  "🎈": [
+    "other",
+    "balloon",
+    {
+      "en": ["balloon", "balloon | birthday | celebrate | celebration"],
+      "ru": [
+        "воздушный шарик",
+        "веревочка | воздух | воздушный | праздник | шарик"
+      ],
+      "pl": ["balon", "balon | balonik | impreza | uroczystość | urodziny"],
+      "fr": [
+        "ballon gonflable",
+        "anniversaire | ballon | ballon de baudruche | ballon gonflable | fête"
+      ],
+      "de": ["Luftballon", "Ballon | Feier | Geburtstag | Luftballon"],
+      "es": ["globo", "celebración | globo"],
+      "pt": [
+        "balão",
+        "aniversário | balão | celebração | comemoração | festa | parabéns"
+      ],
+      "it": ["palloncino", "auguri | compleanno | festa | palloncino"],
+      "ro": [
+        "balon",
+        "aer | balon | festiv | petrecere | sărbătoare | zi de naștere"
+      ],
+      "he": ["בלון", "בלון | חגיגה | יום הולדת | לחגוג | מסיבה"],
+      "ar": ["بالون", "احتفال | بالون | بالونة | حفلة | ذكرى ميلاد | عيد ميلاد"],
+      "tr": ["balon", "balon | doğumgünü | kırmızı balon | kutlama | parti"],
+      "vi": ["bóng bay", "bóng bay | lễ kỷ niệm | sinh nhật"],
+      "nl": ["ballon", "ballon | feest | jarig | verjaardag | vieren | viering"]
+    }
+  ],
+  "🎉": [
+    "other",
+    "party popper",
+    {
+      "en": [
+        "party popper",
+        "awesome | birthday | celebrate | celebration | excited | hooray | party | popper | tada | woohoo"
+      ],
+      "ru": [
+        "хлопушка",
+        "бабах | веселье | вечеринка | день рождения | мишура | поздравление | праздник | хлопушка"
+      ],
+      "pl": [
+        "tuba z konfetti",
+        "bal | impreza | konfetti | tuba z konfetti | uroczystość"
+      ],
+      "fr": ["cotillons", "anniversaire | cotillons | fête | super"],
+      "de": [
+        "Konfettibombe",
+        "Böller | Feier | juhu | Knaller | Konfetti | Konfettibombe | Party | super | yay"
+      ],
+      "es": [
+        "cañón de confeti",
+        "cañón de confeti | celebración | confeti | fiesta"
+      ],
+      "pt": [
+        "cone de festa",
+        "alegria | aniversário | celebrar | comemoração | cone | eba | festa | oba | parabéns"
+      ],
+      "it": [
+        "spara coriandoli",
+        "auguri | compleanno | congratulazioni | coriandoli | evviva | felicità | festa | party | spara coriandoli | stelle filanti | urrà | yahoo"
+      ],
+      "ro": [
+        "tun cu confetti",
+        "aniversare | bravo | con | confeti | confetti | entuziasm | entuziasmat | felicitări | petrecere | sărbătoare | super | tun cu confetti | zi de naștere"
+      ],
+      "he": ["פצצת קונפטי", "חגיגה | מסיבה | פצצת קונפטי | קונפטי"],
+      "ar": [
+        "فرقعة حفلة",
+        "احتفال | بارتي بوبر | بجنن | حفلة | رائع | زمور | فرقعة حفلة | مبتهج"
+      ],
+      "tr": [
+        "parti konfetisi",
+        "harika | konfeti | kutlama | parti | parti konfetisi | tebrikler"
+      ],
+      "vi": [
+        "pháo giấy buổi tiệc",
+        "buổi tiệc | lễ kỷ niệm | pháo bông sinh nhật | pháo giấy buổi tiệc"
+      ],
+      "nl": [
+        "feestknaller",
+        "confetti | feest | feestknaller | hoera | jarig | knaller | partypopper | verjaardag | viering"
+      ]
+    }
+  ],
+  "🎊": [
+    "other",
+    "confetti ball",
+    {
+      "en": [
+        "confetti ball",
+        "ball | celebrate | celebration | confetti | party | woohoo"
+      ],
+      "ru": ["конфетти", "вечеринка | конфетти | праздник"],
+      "pl": [
+        "kula z konfetti",
+        "bal | impreza | konfetti | kula z konfetti | uroczystość"
+      ],
+      "fr": ["confettis", "anniversaire | confettis | fête"],
+      "de": ["Konfettiball", "Feier | Konfetti | Konfettiball | Party"],
+      "es": ["bola de confeti", "bola de confeti | celebración | confeti"],
+      "pt": [
+        "confete",
+        "bola | celebração | comemoração | confete | eba | oba | parabéns"
+      ],
+      "it": [
+        "coriandoli",
+        "carnevale | congratulazioni | coriandoli | decorazioni | evviva | festa | festeggiare | palla | palla di coriandoli | stelle filanti"
+      ],
+      "ro": [
+        "minge cu confetti",
+        "aniversare | confeti | confetti | minge cu confetti | petrecere | sărbătoare"
+      ],
+      "he": ["כדור קונפטי", "חגיגה | כדור קונפטי | מסיבה | קונפטי"],
+      "ar": [
+        "كرة أوراق ملونة",
+        "احتفال | حفلة | زينة | فرح | كرة أوراق ملونة | كرة كونفتي | كونفتي"
+      ],
+      "tr": ["konfeti", "konfeti | konfeti topu | kutlama | top"],
+      "vi": [
+        "bóng hoa giấy",
+        "bóng hoa giấy | bữa tiệc | lễ kỷ niệm | quả bóng"
+      ],
+      "nl": [
+        "confettibal",
+        "bal | confetti | confettibal | feest | hoera | jarig | verjaardag | viering"
+      ]
+    }
+  ],
+  "🎋": [
+    "other",
+    "tanabata tree",
+    {
+      "en": [
+        "tanabata tree",
+        "banner | celebration | Japanese | tanabata | tree"
+      ],
+      "ru": [
+        "бамбук с бумажными лентами",
+        "бамбук | бамбук с бумажными лентами | бумага | дерево | лента | танабата | традиция | Япония"
+      ],
+      "pl": [
+        "drzewko na Tanabata",
+        "bambus | drzewko na Tanabata | drzewo | drzewo życzeń | japońskie | tanabata | życzenia"
+      ],
+      "fr": [
+        "arbre à vœux",
+        "arbre | arbre à vœux | fête | Japon | prières | Tanabata | vœux"
+      ],
+      "de": [
+        "Tanabata-Baum",
+        "Baum | Fest | Japan | Sternenfest | Tanabata-Baum | Zettel"
+      ],
+      "es": [
+        "árbol de tanabata",
+        "árbol | árbol de tanabata | celebración | festividad | tanabata"
+      ],
+      "pt": [
+        "árvore de tanabata",
+        "árvore | comemoração | Estrelas | Festival | japonesa | papel | tanabata | tiras"
+      ],
+      "it": [
+        "albero di Tanabata",
+        "albero | albero decorato | albero di Tanabata | decorazioni | decorazioni di carta | festa | Festa delle stelle | giappone | giapponese | natura"
+      ],
+      "ro": [
+        "copac tanabata",
+        "copac | copac tanabata | japonez | japonia | Japonia | sărbătoare | steag"
+      ],
+      "he": ["קישוט חג יפני", "חג | חגיגה | יפני | קישוט"],
+      "ar": [
+        "شجرة احتفال",
+        "بانر | زينة | شجرة | شجرة احتفال | شجرة وشرائط ورقية | ياباني"
+      ],
+      "tr": [
+        "tanabata ağacı",
+        "ağaç | ağaç ve kağıt şeritler | japon | kağıt şeritler | kutlama | Star Festivali | tanabata ağacı"
+      ],
+      "vi": [
+        "cây tanabata",
+        "biểu ngữ | cây | cây tanabata | kiểu nhật bản | lễ kỷ niệm"
+      ],
+      "nl": [
+        "tanabataboom",
+        "boom | boom met papierlinten | feest | japans | papierlinten | tanabata | tanabataboom"
+      ]
+    }
+  ],
+  "🎌": [
+    "other",
+    "crossed flags",
+    {
+      "en": [
+        "crossed flags",
+        "celebration | cross | crossed | flags | Japanese"
+      ],
+      "ru": [
+        "скрещенные флаги",
+        "два | скрещенные | флага | флаги | Япония | японских"
+      ],
+      "pl": [
+        "skrzyżowane flagi",
+        "japońskie | japońskie flagi | skrzyżowane | skrzyżowane flagi | uroczystość"
+      ],
+      "fr": ["drapeaux croisés", "drapeaux | drapeaux croisés | japonais"],
+      "de": [
+        "überkreuzte Flaggen",
+        "Japan | japanische Flaggen | überkreuzte Flaggen | Überkreuzte Flaggen"
+      ],
+      "es": [
+        "banderas cruzadas",
+        "banderas | banderas cruzadas | celebración | japón"
+      ],
+      "pt": [
+        "bandeiras cruzadas",
+        "bandeira | comemoração | cruzadas | cruzar | Japão | Japonês"
+      ],
+      "it": [
+        "bandiere del Giappone incrociate",
+        "bandiere | bandiere del Giappone incrociate | festa | festeggiamenti | Giappone | giapponese | giapponesi | incrociate"
+      ],
+      "ro": [
+        "steaguri încrucișate",
+        "încrucișare | încrucișat | japonez | japonia | Japonia | sărbătorire | steag | steaguri încrucișate"
+      ],
+      "he": ["דגלים מוצלבים", "דגלים | יפן | מוצלבים"],
+      "ar": [
+        "علمان متقاطعان",
+        "أعلام | أعلام متقاطعة | أعلام متقاطعة لليابان | احتفال | راية | علم ياباني | علمان متقاطعان"
+      ],
+      "tr": [
+        "çapraz bayraklar",
+        "bayraklar | çapraz | çapraz Japon bayrakları | japon | kutlama"
+      ],
+      "vi": [
+        "cờ bắt chéo",
+        "bắt chéo | cờ bắt chéo | gạch chéo | kiểu nhật bản | lễ kỷ niệm"
+      ],
+      "nl": [
+        "gekruiste vlaggen",
+        "feest | gekruist | gekruiste vlaggen | japans | kruis"
+      ]
+    }
+  ],
+  "🎍": [
+    "other",
+    "pine decoration",
+    {
+      "en": [
+        "pine decoration",
+        "bamboo | celebration | decoration | Japanese | pine | plant"
+      ],
+      "ru": [
+        "украшенный бамбук",
+        "бамбук | Новый год | растение | Рождество | сосна | украшенный бамбук | Япония"
+      ],
+      "pl": [
+        "japońska dekoracja kadomatsu",
+        "bambus | japońska dekoracja kadomatsu | roślina | sosna"
+      ],
+      "fr": [
+        "bambou décoratif",
+        "bambou | bambou décoratif | fête | japonais | plante"
+      ],
+      "de": ["Piniendekoration", "Japan | Neujahrsfest | Piniendekoration"],
+      "es": [
+        "decoración de pino",
+        "año nuevo japonés | bambú | celebración | decoración | decoración de pino | kadomatsu"
+      ],
+      "pt": [
+        "decoração de pinhos",
+        "bambu | comemoração | decoração de pinhas | decoração de pinhos | japonês | pinha"
+      ],
+      "it": [
+        "bambù decorato",
+        "bambù | bambù decorato | decorazione kadomatsu | festa | giapponese | pianta | pino"
+      ],
+      "ro": [
+        "decorațiune japoneză de pin",
+        "bambus | decor | decorațiune de pin | decorațiune japoneză de pin | japonez | japoneză | pin | plantă | sărbătoare"
+      ],
+      "he": ["קישוט אצטרובלים", "אצטרובלים | במבוק | יפני | קישוט"],
+      "ar": [
+        "ديكور صنوبر",
+        "احتفال | باميو | ديكور صنوبر | صنوبر | عام جديد | ياباني"
+      ],
+      "tr": [
+        "çam süsleme",
+        "bambu | çam | çam süsleme | Japon | kutlama | Yeni Yıl"
+      ],
+      "vi": [
+        "trang trí cây thông",
+        "cây thông | cây tre | kiểu nhật bản | lễ kỷ niệm | trang trí cây thông"
+      ],
+      "nl": [
+        "dennenboomversiering",
+        "bamboe | den | dennenboomversiering | dennentakdecoratie | feest | japans | plant"
+      ]
+    }
+  ],
+  "🎎": [
+    "other",
+    "japanese dolls",
+    {
+      "en": [
+        "Japanese dolls",
+        "celebration | doll | dolls | festival | Japanese"
+      ],
+      "ru": [
+        "японские куклы",
+        "две | кукла | праздник | фестиваль | японские куклы"
+      ],
+      "pl": ["japońskie lalki", "Japonia | japońskie lalki | lalki"],
+      "fr": [
+        "poupées japonaises",
+        "festival | Japon | poupées | poupées japonaises"
+      ],
+      "de": [
+        "japanische Puppen",
+        "japanische Puppen | Japanische Puppen | Puppenfest Japan"
+      ],
+      "es": [
+        "muñecas japonesas",
+        "celebración | festival | hinamatsuri | muñecas | muñecas japonesas"
+      ],
+      "pt": [
+        "bonecas japonesas",
+        "bonecas | comemoração | festival | japanesas | japonês"
+      ],
+      "it": [
+        "bambole giapponesi",
+        "bambole | festa | Festa delle bambole | giapponesi | Hina-matsuri | Hinamatsuri | imperatore | imperatore e imperatrice | imperatrice"
+      ],
+      "ro": [
+        "păpuși japoneze",
+        "festival | japonez | Japonia | păpușă | păpuși | păpuși japoneze | sărbătoare"
+      ],
+      "he": ["בובות יפניות", "בובות | בובות יפניות | חג | יפני | פסטיבל"],
+      "ar": [
+        "دميتان يابانيتان",
+        "احتفال | دمية | دميتان | دميتان يابانيتان | مهرجان | ياباني"
+      ],
+      "tr": [
+        "Japon oyuncak bebekleri",
+        "Bebek Festivali | festival | Japon | japon oyuncak bebekleri | Japon oyuncak bebekleri | kutlama"
+      ],
+      "vi": [
+        "búp bê Nhật Bản",
+        "búp bê | búp bê Nhật Bản | kiểu nhật bản | lễ hội | lễ kỷ niệm"
+      ],
+      "nl": [
+        "Japanse poppen",
+        "feest | festival | japans | japanse poppen | Japanse poppen | pop | poppen | viering"
+      ]
+    }
+  ],
+  "🎏": [
+    "other",
+    "carp streamer",
+    {
+      "en": ["carp streamer", "carp | celebration | streamer"],
+      "ru": [
+        "вымпелы в виде карпов",
+        "вымпелы | вымпелы в виде карпов | карпы | палочка | рыбки | рыбы"
+      ],
+      "pl": [
+        "flaga w kształcie karpia",
+        "flaga | flaga w kształcie karpia | ryby"
+      ],
+      "fr": ["koinobori", "carpe | fête | koinobori"],
+      "de": [
+        "traditionelle japanische Windsäcke",
+        "Feier | Karpfen | traditionelle japanische Windsäcke | Traditionelle japanische Windsäcke | Windsäcke"
+      ],
+      "es": [
+        "banderín de carpas",
+        "banderín | banderín de carpas | carpa | celebración | koinobori"
+      ],
+      "pt": [
+        "bandeira de carpas",
+        "bandeira | carpas | comemoração | koinobori"
+      ],
+      "it": [
+        "aquilone a forma di carpa",
+        "aquilone | aquilone a forma di carpa | carpa | festa | giapponese | pesce"
+      ],
+      "ro": [
+        "crap decorativ în vânt",
+        "crap | crap decorativ în vânt | sărbătoare | vânt"
+      ],
+      "he": [
+        "דגלים בצורת דגי קוי",
+        "דגל | דגלים בצורת דגי קוי | חג | חגיגה | יפני | קוי"
+      ],
+      "ar": [
+        "قصاصات ملونة",
+        "أوراق ملونة | احتفال | الوان | سمك ياباني | علم قصاصات | قصاصات ملونة"
+      ],
+      "tr": ["sazan şekilli flama", "flama | kutlama | sazan şekilli flama"],
+      "vi": ["cờ cá chép", "cá chép | cờ cá chép | cờ dải | lễ kỷ niệm"],
+      "nl": [
+        "karperslinger",
+        "feest | karper | karpers | karperslinger | karperwimpel | slinger | wimpel"
+      ]
+    }
+  ],
+  "🎐": [
+    "other",
+    "wind chime",
+    {
+      "en": ["wind chime", "bell | celebration | chime | wind"],
+      "ru": ["музыка ветра", "бубенчик | ветер | звон | музыка ветра"],
+      "pl": ["dzwonek wietrzny", "dzwonek | dzwonki | wietrzny"],
+      "fr": [
+        "carillon éolien",
+        "carillon | carillon éolien | clochette | fête | vent"
+      ],
+      "de": [
+        "japanisches Windspiel",
+        "Bimmel | Feier | Glocke | japanisches Windspiel | Japanisches Windspiel | Wind"
+      ],
+      "es": [
+        "campanilla de viento",
+        "campanilla | campanilla de viento | furin | viento"
+      ],
+      "pt": ["carrilhão de vento", "carrilhão de vento | sino | som | vento"],
+      "it": [
+        "campana al vento",
+        "campana | campana al vento | campanelle | campanelle a vento | festa | scacciapensieri | vento"
+      ],
+      "ro": ["clopoței de vânt", "clopoței de vânt | clopoțel | vânt"],
+      "he": ["פעמון רוח", "חג | חגיגה | יפני | פעמון | רוח"],
+      "ar": ["جرس الريح", "جرس | جرس الريح | دق الجرس | ريح | قرع الجرس"],
+      "tr": ["rüzgar çanı", "çan | rüzgar çanı"],
+      "vi": ["chuông gió", "chuông | gió | kêu vang | lễ kỷ niệm"],
+      "nl": ["windorgel", "bel | feest | wind | windklokkenspel | windorgel"]
+    }
+  ],
+  "🎑": [
+    "other",
+    "moon viewing ceremony",
+    {
+      "en": [
+        "moon viewing ceremony",
+        "celebration | ceremony | moon | viewing"
+      ],
+      "ru": ["праздник Луны", "луна | праздник | праздник Луны | церемония"],
+      "pl": [
+        "ceremonia oglądania księżyca",
+        "ceremonia oglądania księżyca | Jugoya | księżyc | podziwiać | święto podziwiania księżyca | świętować | tsukimi"
+      ],
+      "fr": ["cérémonie de la lune", "cérémonie | cérémonie de la lune | lune"],
+      "de": [
+        "traditionelles Mondfest",
+        "Japan | Mond | Mondfest | traditionelles Mondfest | Traditionelles Mondfest"
+      ],
+      "es": [
+        "ceremonia de contemplación de la luna",
+        "celebración | ceremonia de contemplación de la luna | contemplación | luna | tsukimi"
+      ],
+      "pt": [
+        "contemplação da lua",
+        "cerimônia de contemplação da lua | comemoração | contemplação | contemplação da lua | lua"
+      ],
+      "it": [
+        "contemplazione della luna",
+        "contemplazione della luna | contemplazione festa | festa | festa della contemplazione della luna | festa della luna | festeggiare | luna"
+      ],
+      "ro": [
+        "ceremonia lunii",
+        "ceremonia lunii | ceremonie | lună | sărbătoare"
+      ],
+      "he": ["טקס ירח", "חג | חגיגה | טקס | יפני | ירח"],
+      "ar": [
+        "احتفال برؤية القمر",
+        "احتفال | احتفال برؤية القمر | استطلاع | استطلاع القمر | بهجة"
+      ],
+      "tr": ["ay izleme", "ay | ay izleme töreni | izleme | kutlama"],
+      "vi": [
+        "lễ ngắm trăng",
+        "kỷ niệm | lễ kỷ niệm | lễ ngắm trăng | mặt trăng"
+      ],
+      "nl": [
+        "maanobservatieceremonie",
+        "ceremonie | feest | maan | maanceremonie | maanobservatieceremonie | viering"
+      ]
+    }
+  ],
+  "🎒": [
+    "other",
+    "school satchel",
+    {
+      "en": [
+        "backpack",
+        "backpack | backpacking | bag | bookbag | education | rucksack | satchel | school"
+      ],
+      "ru": ["ранец", "портфель | ранец | рюкзак | школа"],
+      "pl": ["tornister", "edukacja | plecak | szkoła | tornister"],
+      "fr": ["cartable", "cartable | école | sac | sac à dos"],
+      "de": [
+        "Schulranzen",
+        "Ranzen | Rucksack | Schule | Schulranzen | Tornister"
+      ],
+      "es": ["mochila escolar", "colegio | mochila | mochila escolar"],
+      "pt": ["mochila", "bolsa | escola | mochila | viagem | viajar"],
+      "it": [
+        "zaino",
+        "accessori | campeggio | cartella | cartella di scuola | compiti | istruzioni | scuola | viaggiare | zainetto | zaino | zaino di scuola | zaino per la scuola"
+      ],
+      "ro": [
+        "rucsac",
+        "drumeție | educație | geantă | ghiozdan | rechizite | rucsac | școală | transport"
+      ],
+      "he": ["ילקוט", "בית ספר | ילקוט | לימודים | תיק | תיק גב"],
+      "ar": ["حقيبة مدرسة", "تعليم | حقيبة مدرسة | دراسة | شنطة | علم | مدرسة"],
+      "tr": [
+        "okul çantası",
+        "kırmızı sırt çantası | okul | okul çantası | okul sırt çantası | sırt çantası"
+      ],
+      "vi": ["ba lô đi học", "ba lô đi học | cặp | trường | túi"],
+      "nl": ["schooltas", "boekentas | rugzak | school | schooltas | tas"]
+    }
+  ],
+  "🎓": [
+    "other",
+    "graduation cap",
+    {
+      "en": [
+        "graduation cap",
+        "cap | celebration | clothing | education | graduation | hat | scholar"
+      ],
+      "ru": [
+        "шапочка выпускника",
+        "бонет | выпускник | выпускной | конфедератка | шапочка | шапочка выпускника"
+      ],
+      "pl": [
+        "biret",
+        "absolwenta | biret | czapka | edukacja | nakrycie głowy | studia | ubiór | uczony | uniwersytet | uroczystość"
+      ],
+      "fr": [
+        "toque universitaire",
+        "accessoire | chapeau | diplôme | étudiant | toque universitaire | université | vêtements"
+      ],
+      "de": ["Doktorhut", "Abschlussfeier | Diplom | Doktorhut"],
+      "es": ["birrete", "birrete | celebración | gorro | graduación"],
+      "pt": [
+        "chapéu de formatura",
+        "capelo | chapéu | comemoração | formatura"
+      ],
+      "it": [
+        "cappello da laureato",
+        "cappello | cappello da laureato | festa | istruzione | laurea | laureata | laureato | università"
+      ],
+      "ro": [
+        "tichie de absolvent",
+        "absolvent | absolvire | educație | festiv | învățământ | pălărie | pălărie de absolvent | sărbătorire | student | tichie de absolvent"
+      ],
+      "he": [
+        "כובע סיום לימודים",
+        "אוניברסיטה | אקדמיה | דיפלומה | כובע | כובע סיום לימודים | תעודה"
+      ],
+      "ar": ["قبعة تخرج", "احتفال | تخرج | تعليم | قبعة"],
+      "tr": ["mezuniyet kepi", "kep | kutlama | mezuniyet | mezuniyet kepi"],
+      "vi": [
+        "mũ tốt nghiệp",
+        "cái mũ | lễ kỷ niệm | mũ tốt nghiệp | quần áo | tốt nghiệp"
+      ],
+      "nl": [
+        "academische baret",
+        "afstuderen | baret | feest | hoed | kleding | opleiding | student"
+      ]
+    }
+  ],
+  "🎔": ["other", "heart with tip on the left", {}],
+  "🎕": ["other", "bouquet of flowers", {}],
+  "🎖": [
+    "other",
+    "military medal",
+    {
+      "en": ["military medal", "award | celebration | medal | military"],
+      "ru": [
+        "военная медаль",
+        "военная медаль | война | заслуги | медаль | награда | одежда | орден"
+      ],
+      "pl": [
+        "order wojskowy",
+        "medal | order | order wojskowy | uroczystość | wojsko"
+      ],
+      "fr": ["médaille militaire", "médaille | médaille militaire"],
+      "de": ["Militärorden", "Militärorden | Orden"],
+      "es": ["medalla militar", "celebración | medalla | militar"],
+      "pt": ["medalha militar", "condecoração | medalha | militar | prêmio"],
+      "it": [
+        "medaglia militare",
+        "medaglia | medaglia al valore | medaglia con stella | militare | onore | onoreficenza | riconoscimento | stella | valore | vittoria"
+      ],
+      "ro": [
+        "medalie militară",
+        "decorație | medalie | militară | onoare | premiu | sărbătoare"
+      ],
+      "he": [
+        "מדליה צבאית",
+        "גבורה | גיבור | מדליה | מדליה צבאית | עיטור | צבא"
+      ],
+      "ar": [
+        "ميدالية عسكرية",
+        "احتفال | جائزة | عسكري | ميدالية | ميدالية عسكرية | نيشان | وسام"
+      ],
+      "tr": ["askeri madalya", "askeri | kutlama | madalya"],
+      "vi": [
+        "huân chương quân đội",
+        "huân chương quân đội | huy chương | lễ kỷ niệm | quân sự"
+      ],
+      "nl": [
+        "militaire medaille",
+        "medaille | militair | militaire medaille | onderscheiding | viering"
+      ]
+    }
+  ],
+  "🎗": [
+    "other",
+    "reminder ribbon",
+    {
+      "en": ["reminder ribbon", "celebration | reminder | ribbon"],
+      "ru": ["памятная лента", "лента | памятная лента | память"],
+      "pl": [
+        "wstążka pamięci",
+        "upamiętnić | uroczystość | wstążka | wstążka pamięci"
+      ],
+      "fr": [
+        "ruban de mémoire",
+        "mémoire | ruban | ruban de mémoire | souvenir"
+      ],
+      "de": ["Gedenkschleife", "Gedenkschleife | Schleife"],
+      "es": ["lazo conmemorativo", "conmemorativo | lazo"],
+      "pt": [
+        "fita de lembrete",
+        "celebração | comemoração | fita de lembrete | laço | lembrete"
+      ],
+      "it": [
+        "nastro",
+        "festa | festeggiamenti | fiocchetto | fiocco | fiocco giallo | nastro | nastro giallo | nodo"
+      ],
+      "ro": [
+        "panglică „in memoriam”",
+        "comemorare | panglică | panglică „in memoriam” | susținere"
+      ],
+      "he": ["סרט הזדהות", "זיכרון | סרט הזדהות"],
+      "ar": ["شريطة تذكير", "احتفال | تذكار | تذكير | شريطة"],
+      "tr": ["anma kurdelesi", "anma | anma kurdelesi | kurdele | kutlama"],
+      "vi": [
+        "ruy băng nhắc nhở",
+        "lễ kỷ niệm | lời nhắc | ruy băng | ruy băng nhắc nhở"
+      ],
+      "nl": [
+        "bewustzijnslintje",
+        "bewustzijnslintje | herinnering | herinneringslintje | lintje | viering"
+      ]
+    }
+  ],
+  "🎘": ["other", "musical keyboard with jacks", {}],
+  "🎙": [
+    "other",
+    "studio microphone",
+    {
+      "en": ["studio microphone", "mic | microphone | music | studio"],
+      "ru": [
+        "студийный микрофон",
+        "вокал | звук | микрофон | музыка | пение | студийный микрофон"
+      ],
+      "pl": [
+        "mikrofon studyjny",
+        "mikrofon | muzyka | nagrywać | studio | studyjny"
+      ],
+      "fr": [
+        "micro de studio",
+        "chant | enregistrement | micro | micro de studio | microphone | musique | studio"
+      ],
+      "de": ["Studiomikrofon", "Mikrofon | Studiomikrofon"],
+      "es": [
+        "micrófono de estudio",
+        "estudio | micrófono | micrófono de estudio | música"
+      ],
+      "pt": [
+        "microfone de estúdio",
+        "estúdio | microfone | microfone de estúdio | música"
+      ],
+      "it": [
+        "microfono radiofonico",
+        "cantare | microfoni | microfoni da studio | microfono | microfono da studio | microfono radiofonico | radio | registrazione | studio"
+      ],
+      "ro": [
+        "microfon de studio",
+        "microfon | microfon de studio | muzică | studio"
+      ],
+      "he": ["מיקרופון אולפן", "אולפן | הקלטה | מוזיקה | מיקרופון | שירה"],
+      "ar": [
+        "ميكروفون استوديو",
+        "اذاعة | استديو | استوديو | تسجيل صوتي | مايك | موسيقى | ميكروفون"
+      ],
+      "tr": [
+        "stüdyo mikrofonu",
+        "mikrofon | müzik | stüdyo | stüdyo mikrofonu"
+      ],
+      "vi": [
+        "micrô phòng thu âm",
+        "micrô | micrô phòng thu âm | nhạc | phòng thu"
+      ],
+      "nl": ["studiomicrofoon", "microfoon | muziek | studio | studiomicrofoon"]
+    }
+  ],
+  "🎚": [
+    "other",
+    "level slider",
+    {
+      "en": ["level slider", "level | music | slider"],
+      "ru": ["слайдер", "звук | музыка | слайдер | уровень"],
+      "pl": [
+        "suwak miksera dźwięku",
+        "dźwięk | dźwięku | mikser | miksera | muzyka | poziom | suwak"
+      ],
+      "fr": [
+        "curseur de niveau",
+        "curseur | curseur de niveau | musique | niveau"
+      ],
+      "de": ["Schieberegler", "Musik | Schieberegler"],
+      "es": [
+        "control de volumen",
+        "control | control de volumen | fader | volumen"
+      ],
+      "pt": [
+        "controle de volume",
+        "controle | controle de volume | música | volume"
+      ],
+      "it": [
+        "cursore del volume",
+        "abbassare il volume | alzare il volume | audio | cursore del volume | levetta del volume | musica | regolazione volume | volume"
+      ],
+      "ro": [
+        "glisor de nivel",
+        "ajustare | ajustare volum | glisor | glisor de nivel | muzică | nivel"
+      ],
+      "he": [
+        "מחוון עוצמת קול",
+        "מחוון | סאונד | סליידר | עוצמה | צליל | קול | רמה"
+      ],
+      "ar": ["شريط منسوب", "شريط منسوب | مؤشر | مزيكا | مستوى | موسيقى"],
+      "tr": ["ayarlama çubuğu", "ayar çubuğu | ayarlama çubuğu | kol | müzik"],
+      "vi": ["thanh trượt mức", "mức | nhạc | thanh trượt | thanh trượt mức"],
+      "nl": [
+        "schuifregelaar",
+        "muziek | niveau | schuifje | schuifregelaar | volumeregelaar"
+      ]
+    }
+  ],
+  "🎛": [
+    "other",
+    "control knobs",
+    {
+      "en": ["control knobs", "control | knobs | music"],
+      "ru": [
+        "регуляторы",
+        "звук | музыка | регулятор | регуляторы | ручка | уровень"
+      ],
+      "pl": ["pokrętła", "gałki | muzyka | pokrętła"],
+      "fr": [
+        "boutons de réglage",
+        "boutons | boutons de commande | boutons de contrôle | boutons de réglage | commande | musique | réglages"
+      ],
+      "de": ["Drehregler", "Bedienknöpfe | Drehregler | Knöpfe | Stellknöpfe"],
+      "es": [
+        "ruedas de control",
+        "control | diales | música | potenciómetros | ruedas | ruedas de control"
+      ],
+      "pt": [
+        "botões giratórios",
+        "botões | botões giratórios | controle | música"
+      ],
+      "it": [
+        "manopole di controllo",
+        "console | dj | manopola | manopole | manopole del volume | manopole di controllo | musica | regolazione volume"
+      ],
+      "ro": [
+        "butoane de control",
+        "butoane | butoane de control | butoane de volum | muzică | reglaj | reglare"
+      ],
+      "he": [
+        "כפתורי עוצמת קול",
+        "ווליום | כפתורים | מוזיקה | מוסיקה | סינתי | עוצמת קול | שליטה"
+      ],
+      "ar": ["أزرار تحكم", "أزرار | تحكم | كونترول | موسيقى"],
+      "tr": [
+        "kontrol düğmeleri",
+        "düğme | kontrol | kontrol düğmeleri | müzik"
+      ],
+      "vi": ["núm điều khiển", "điều khiển | nhạc | núm | núm điều khiển"],
+      "nl": [
+        "controleknoppen",
+        "bediening | controleknoppen | knoppen | muziek"
+      ]
+    }
+  ],
+  "🎜": ["other", "beamed ascending musical notes", {}],
+  "🎝": ["other", "beamed descending musical notes", {}],
+  "🎞": [
+    "other",
+    "film frames",
+    {
+      "en": ["film frames", "cinema | film | frames | movie"],
+      "ru": [
+        "кинопленка",
+        "кадр | кинематограф | кино | кинопленка | пленка | фильм"
+      ],
+      "pl": ["taśma filmowa", "film | filmowa | kino | klatki | taśma"],
+      "fr": ["pellicule", "bande | cinéma | film | pellicule"],
+      "de": ["Filmstreifen", "Film | Filmband | Filmstreifen | Kino"],
+      "es": [
+        "fotograma de película",
+        "cine | fotograma | fotograma de película | película"
+      ],
+      "pt": ["rolo de filmes", "cinema | filme | rolo de filmes"],
+      "it": [
+        "pellicola cinematografica",
+        "cinema | cinema paradiso | film | fotogrammi | fotogrammi di film | pellicola | pellicola cinematografica"
+      ],
+      "ro": [
+        "peliculă de film",
+        "cadre | cinema | cinematograf | clișeu | film | negative de film | peliculă | peliculă de film | rolă de film"
+      ],
+      "he": ["פילם", "סרט | פילם | צילום | קולנוע"],
+      "ar": ["شريط سينمائي", "إطارات | سينما | شريط سينمائي | فيلم"],
+      "tr": ["film kareleri", "film | film kareleri | film karesi | sinema"],
+      "vi": [
+        "khung hình phim",
+        "khung | khung hình phim | phim | rạp chiếu phim"
+      ],
+      "nl": [
+        "filmframes",
+        "bioscoop | film | filmframes | filmrol | films | frames"
+      ]
+    }
+  ],
+  "🎟": [
+    "other",
+    "admission tickets",
+    {
+      "en": ["admission tickets", "admission | ticket | tickets"],
+      "ru": [
+        "билеты",
+        "билет | билеты | вход | квиток | концерт | пропуск | самолет | театр | транспорт | услуги"
+      ],
+      "pl": ["bilety wstępu", "bilet | bilety wstępu | wstęp"],
+      "fr": ["billet d’entrée", "billet d’entrée | place | spectacle"],
+      "de": [
+        "Eintrittskarten",
+        "Billet | Eintrittskarte | Eintrittskarten | Ticket"
+      ],
+      "es": ["entradas", "acceso | admisión | entrada | entradas | evento"],
+      "pt": ["ingresso de cinema", "cinema | entrada | ingresso | ticket"],
+      "it": [
+        "biglietto d’ingresso",
+        "biglietto | biglietto d’ingresso | cinema | entrata | ingresso | spettacolo | ticket"
+      ],
+      "ro": [
+        "bilete de intrare",
+        "acces | bilet | bilete de intrare | intrare | tichet"
+      ],
+      "he": ["כרטיס כניסה", "כניסה | כרטיס"],
+      "ar": ["تذكرتا دخول", "تذكرة | تذكرتا دخول | تكت | دخول | قبول"],
+      "tr": ["giriş bileti", "bilet | giriş | giriş bileti"],
+      "vi": ["vé vào cửa", "vào cửa | vé | vé vào cửa"],
+      "nl": [
+        "entreekaartjes",
+        "entree | entreekaartjes | kaartje | toegang | toegangskaartje"
+      ]
+    }
+  ],
+  "🎠": [
+    "other",
+    "carousel horse",
+    {
+      "en": ["carousel horse", "carousel | entertainment | horse"],
+      "ru": ["лошадь на карусели", "аттракцион | карусель | лошадка | лошадь"],
+      "pl": ["koń z karuzeli", "karuzela | koń z karuzeli | konik"],
+      "fr": ["cheval de manège", "cheval | cheval de manège | manège"],
+      "de": ["Karussellpferd", "Karussell | Karussellpferd | Pferd | reiten"],
+      "es": [
+        "caballo de tiovivo",
+        "caballo | caballo de tiovivo | entretenimiento | tiovivo"
+      ],
+      "pt": [
+        "carrossel",
+        "carrossel | cavalo | cavalo de carrossel | entretenimento | parque de diversão"
+      ],
+      "it": [
+        "cavallo da giostra",
+        "cavallino | cavallo | cavallo da giostra | giostra | infanzia | intrattenimento"
+      ],
+      "ro": [
+        "căluț de carusel",
+        "cal | căluț | căluț de carusel | carousel | carusel | distracție | divertisment"
+      ],
+      "he": ["סוס בקרוסלה", "לונה פארק | סוס | פארק שעשועים | קרוסלה"],
+      "ar": [
+        "حصان الدوامة",
+        "العاب | ترفيه | حصان | حصان الدوامة | مدينة العاب | مدينة ملاهي"
+      ],
+      "tr": [
+        "atlıkarınca",
+        "at | atlı karınca | atlıkarınca | atlıkarınca atı | eğlence | karusel"
+      ],
+      "vi": ["ngựa đu quay", "đu quay ngựa | giải trí | ngựa"],
+      "nl": [
+        "draaimolenpaard",
+        "carrousel | draaimolen | draaimolenpaard | kermis | paard | pretpark"
+      ]
+    }
+  ],
+  "🎡": [
+    "other",
+    "ferris wheel",
+    {
+      "en": ["ferris wheel", "amusement | ferris | park | theme | wheel"],
+      "ru": ["колесо обозрения", "аттракцион | веселье | обозрения | чертово"],
+      "pl": [
+        "diabelski młyn",
+        "diabelski | karuzela | młyn | park rozrywki | wesołe miasteczko"
+      ],
+      "fr": [
+        "grande roue",
+        "attractions | grande roue | parc d’attractions | roue"
+      ],
+      "de": ["Riesenrad", "Freizeitpark | Rad | Riesenrad | Volksfest"],
+      "es": [
+        "noria de feria",
+        "atracciones | entretenimiento | feria | noria | noria de feria"
+      ],
+      "pt": [
+        "roda gigante",
+        "entretenimento | gigante | parque de diversões | roda"
+      ],
+      "it": [
+        "ruota panoramica",
+        "intrattenimento | london eye | luna park | panoramica | parco divertimenti | parco giochi | ruota"
+      ],
+      "ro": [
+        "roata mare",
+        "bâlci | carnaval | distracție | parc de distracții | parc tematic | roată | roata mare | roata mare de carnaval"
+      ],
+      "he": ["גלגל ענק", "גלגל ענק | לונה פארק | פארק שעשועים"],
+      "ar": [
+        "عجلة دوارة",
+        "ترفيه | تسلية | حديقة | دولاب دوار | دولاب ملاهي | دولاب هواء | عجلة دوارة | عجلة فيريس | مدينة العاب | مدينة ملاهي"
+      ],
+      "tr": [
+        "dönme dolap",
+        "dolap | dönme | eğlence | eğlence parkı | lunapark"
+      ],
+      "vi": [
+        "vòng đu quay",
+        "bánh xe | công viên giải trí | đu quay | vòng đu quay"
+      ],
+      "nl": ["reuzenrad", "kermis | pretpark | rad | reuzenrad"]
+    }
+  ],
+  "🎢": [
+    "other",
+    "roller coaster",
+    {
+      "en": ["roller coaster", "amusement | coaster | park | roller | theme"],
+      "ru": ["американские горки", "американские | аттракцион | горка | горки"],
+      "pl": [
+        "kolejka górska",
+        "kolejka górska | park rozrywki | rollercoaster | wesołe miasteczko"
+      ],
+      "fr": [
+        "montagnes russes",
+        "attractions | montagnes | parc d’attractions | russes"
+      ],
+      "de": ["Achterbahn", "Achterbahn | Freizeitpark | Volksfest"],
+      "es": [
+        "montaña rusa",
+        "atracciones | entretenimiento | feria | montaña rusa | parque"
+      ],
+      "pt": [
+        "montanha russa",
+        "entretenimento | montanha | parque de diversões | parque temático | russa"
+      ],
+      "it": [
+        "montagne russe",
+        "intrattenimento | luna park | montagne | parco divertimenti | russe"
+      ],
+      "ro": [
+        "montagne russe",
+        "adrenalină | montagne russe | parc de distracție | parc de distracții"
+      ],
+      "he": ["רכבת הרים", "לונה פארק | רכבת הרים"],
+      "ar": [
+        "قطار ملاهي",
+        "ترفيه | حديقة | رعب | قطار | قطار ملاهي | مدينة العاب | مدينة ملاهي"
+      ],
+      "tr": [
+        "hız treni",
+        "eğlence | eğlence parkı | hız | hız treni | lunapark | roller coaster | tren"
+      ],
+      "vi": [
+        "tàu lượn siêu tốc",
+        "con lăn | công viên giải trí | tàu lao dốc | tàu lượn siêu tốc"
+      ],
+      "nl": ["achtbaan", "achtbaan | baan | pretpark"]
+    }
+  ],
+  "🎣": [
+    "other",
+    "fishing pole and fish",
+    {
+      "en": ["fishing pole", "entertainment | fish | fishing | pole | sport"],
+      "ru": [
+        "удочка с рыбой",
+        "крючок | леска | наживка | рыба | рыбалка | спининг | удочка | удочка с рыбой | улов"
+      ],
+      "pl": ["wędka", "łowienie ryb | wędka | wędka z rybą | złowić"],
+      "fr": [
+        "pêche à la ligne",
+        "canne à pêche | pêche | pêche à la ligne | sport"
+      ],
+      "de": ["Angel mit Fisch", "Angel mit Fisch | Angeln | Entspannung"],
+      "es": [
+        "caña de pescar",
+        "caña | caña de pescar | entretenimiento | esparcimiento | pesca | pez"
+      ],
+      "pt": [
+        "pesca",
+        "entretenimento | peixe | pesca | pescador | pescaria | recreação | vara"
+      ],
+      "it": [
+        "canna da pesca",
+        "canna da pesca | intrattenimento | lenza | pesca | pescare | pesce | sport"
+      ],
+      "ro": ["undiță", "agrement | pescuit | pește | sport | undiță"],
+      "he": ["חכת דיג", "דג | דיג | דייג | חכה | חכת דיג"],
+      "ar": ["صنارة صيد", "استجمام | ترفيه | رياضة | سمك | صنارة صيد | صيد"],
+      "tr": [
+        "olta",
+        "balık | balıkçı | dinlenme | eğlence | kamış | kamış olta ve balık | olta"
+      ],
+      "vi": ["cần câu cá", "cá | cần câu | cần câu cá | giải trí | thể thao"],
+      "nl": ["vishengel", "hengel | sport | vis | vishengel"]
+    }
+  ],
+  "🎤": [
+    "other",
+    "microphone",
+    {
+      "en": ["microphone", "karaoke | mic | microphone | music | sing | sound"],
+      "ru": ["микрофон", "звук | караоке | микрофон | пение"],
+      "pl": ["mikrofon", "karaoke | mikrofon | muzyka | śpiewać"],
+      "fr": [
+        "micro",
+        "chanter | karaoke | karaoké | micro | microphone | musique"
+      ],
+      "de": ["Mikrofon", "Karaoke | Mikrofon | Singen | Unterhaltung"],
+      "es": ["micrófono", "entretenimiento | karaoke | micro | micrófono"],
+      "pt": [
+        "microfone",
+        "cantar | entretenimento | karaokê | mic | microfone | música"
+      ],
+      "it": [
+        "microfono",
+        "cantare | concerto | intrattenimento | Karaoke | microfono | musica | palco | presentare | spettacolo | teatro"
+      ],
+      "ro": ["microfon", "cântec | karaoke | microfon | muzică | sunet | voce"],
+      "he": ["מיקרופון", "הקלטה | לשיר | מוזיקה | מיקרופון | קריוקי | שירה"],
+      "ar": [
+        "ميكروفون",
+        "صوت | طرب | غناء | كاراوكي | مايك | موسيقى | ميكروفون"
+      ],
+      "tr": [
+        "mikrofon",
+        "eğlence | Karaoke | mikrofon | müzik | şarkı | şarkıcı"
+      ],
+      "vi": ["micrô", "âm thanh | hát | karaoke | micrô | nhạc"],
+      "nl": ["microfoon", "geluid | karaoke | microfoon | muziek | zingen"]
+    }
+  ],
+  "🎥": [
+    "other",
+    "movie camera",
+    {
+      "en": [
+        "movie camera",
+        "bollywood | camera | cinema | film | hollywood | movie | record"
+      ],
+      "ru": [
+        "кинокамера",
+        "видеокамера | камера | кино | кинокамера | снять | съемка | фильм"
+      ],
+      "pl": [
+        "kamera filmowa",
+        "film | kamera | kamera filmowa | kinematografia | kino"
+      ],
+      "fr": [
+        "caméra",
+        "caméra | cinéma | film | filmer | réalisateur | réalisatrice | vidéo"
+      ],
+      "de": ["Filmkamera", "Film | Filmkamera | Kino | Unterhaltung"],
+      "es": [
+        "cámara de cine",
+        "cámara | cámara de cine | cine | entretenimiento | película"
+      ],
+      "pt": [
+        "câmera de cinema",
+        "câmera | cinema | entretenimento | filmar | filme | hollywood"
+      ],
+      "it": [
+        "cinepresa",
+        "cinema | cinepresa | film | filmare | hollywood | intrattenimento | registrare | telecamera"
+      ],
+      "ro": [
+        "aparat de filmat",
+        "a filma | aparat de filmat | bollywood | cameră | cameră video profesională | cameră video profesionistă | cinema | film | filmare | hollywood | înregistrare"
+      ],
+      "he": [
+        "מצלמת קולנוע",
+        "מסרטה | מצלמה | מצלמת קולנוע | סרט | פילם | צילום | קולנוע"
+      ],
+      "ar": [
+        "كاميرا أفلام",
+        "تسجيل | سينما | صناعة افلام | فيلم | كاميرا | كاميرا أفلام | هوليوود"
+      ],
+      "tr": ["film kamerası", "eğlence | film | film kamerası | sinema"],
+      "vi": [
+        "máy quay phim",
+        "bollywood | hollywood | máy quay phim | phim | rạp chiếu phim"
+      ],
+      "nl": [
+        "filmcamera",
+        "bioscoop | bollywood | camera | film | filmcamera | hollywood | opnemen"
+      ]
+    }
+  ]
+}

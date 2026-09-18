@@ -1039,10 +1039,9 @@ function createItem(symbol: string): SymbolSearchItem {
 function buildSearchIndex(keys: readonly LayoutKey[]) {
   const searchIndexItems: SymbolSearchItem[] = [];
   const itemsBySymbol = new Map<string, SymbolSearchItem>(
-    [...Object.keys(symbolNames), '\u00a0'].map((symbol) => [
-      symbol,
-      createItem(symbol),
-    ]),
+    Object.keys(symbolNames)
+      .concat('\u00a0')
+      .map((symbol) => [symbol, createItem(symbol)]),
   );
 
   for (const entry of keys) {
@@ -1088,11 +1087,10 @@ function buildSearchIndex(keys: readonly LayoutKey[]) {
           if (!itemsBySymbol.has(symbol)) {
             record.names[locale] = name;
           }
-          record.aliases[locale] = [
-            ...(record.aliases[locale] ?? []),
+          record.aliases[locale] = (record.aliases[locale] ?? []).concat(
             name,
-            ...accentSearchMetadata[locale][0].split('|'),
-          ];
+            accentSearchMetadata[locale][0].split('|'),
+          );
           record.description[locale] = accentSearchMetadata[locale][1];
         }
         record.bindings.push({
@@ -1231,34 +1229,38 @@ export function scoreSearchTerm(
 const searchableFields = (items: readonly SymbolSearchItem[]) =>
   items.map((item) => ({
     item,
-    fields: [
-      ...symbolAssociationTerms(item.symbol).map((value) => ({
+    fields: symbolAssociationTerms(item.symbol)
+      .map((value) => ({
         value: normalizeSearchTerm(value),
         weight: 10,
-      })),
-      { value: normalizeSearchTerm(item.symbol), weight: 0 },
-      ...Object.values(item.names).map((value) => ({
-        value: normalizeSearchTerm(value),
-        weight: 0,
-      })),
-      ...Object.values(metadata[item.symbol]?.aliases ?? {})
-        .flat()
-        .map((value) => ({ value: normalizeSearchTerm(value), weight: 5 })),
-      ...Object.values(item.aliases)
-        .flat()
-        .map((value) => ({ value: normalizeSearchTerm(value), weight: 10 })),
-      ...Object.values(item.tags)
-        .flat()
-        .map((value) => ({ value: normalizeSearchTerm(value), weight: 20 })),
-      {
-        value: item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
-        weight: 0,
-      },
-      {
-        value: 'u+' + item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
-        weight: 0,
-      },
-    ],
+      }))
+      .concat(
+        [{ value: normalizeSearchTerm(item.symbol), weight: 0 }],
+        Object.values(item.names).map((value) => ({
+          value: normalizeSearchTerm(value),
+          weight: 0,
+        })),
+        Object.values(metadata[item.symbol]?.aliases ?? {})
+          .flat()
+          .map((value) => ({ value: normalizeSearchTerm(value), weight: 5 })),
+        Object.values(item.aliases)
+          .flat()
+          .map((value) => ({ value: normalizeSearchTerm(value), weight: 10 })),
+        Object.values(item.tags)
+          .flat()
+          .map((value) => ({ value: normalizeSearchTerm(value), weight: 20 })),
+        [
+          {
+            value: item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
+            weight: 0,
+          },
+          {
+            value:
+              'u+' + item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
+            weight: 0,
+          },
+        ],
+      ),
   }));
 
 export function getAllSymbolSearchItems(
@@ -1310,18 +1312,20 @@ export function searchSymbolCollection(
       ranked.push({ item, score: -1 });
       continue;
     }
-    const scores = tokens.map((token) =>
-      Math.min(
-        ...fields.map((field) => {
-          const cacheKey = `${field.value}\0${token}`;
-          if (!scoreCache.has(cacheKey)) {
-            scoreCache.set(cacheKey, scoreSearchTerm(field.value, token));
-          }
-          const score = scoreCache.get(cacheKey)!;
-          return score === null ? Infinity : score + field.weight;
-        }),
-      ),
-    );
+    const scores = tokens.map((token) => {
+      let best = Infinity;
+      for (const field of fields) {
+        const cacheKey = `${field.value}\0${token}`;
+        if (!scoreCache.has(cacheKey)) {
+          scoreCache.set(cacheKey, scoreSearchTerm(field.value, token));
+        }
+        const score = scoreCache.get(cacheKey)!;
+        if (score !== null) {
+          best = Math.min(best, score + field.weight);
+        }
+      }
+      return best;
+    });
     if (scores.every(Number.isFinite)) {
       ranked.push({ item, score: scores.reduce((a, b) => a + b, 0) });
     }

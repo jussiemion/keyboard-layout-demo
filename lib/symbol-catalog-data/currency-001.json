@@ -1,0 +1,748 @@
+{
+  "$": [
+    "currency",
+    "dollar sign",
+    {
+      "en": ["dollar", "dollar | money | peso | USD"],
+      "ru": ["доллар", "валюта | деньги | доллар | США"],
+      "pl": ["dolar", "dolar | pieniądze | USD | waluta"],
+      "fr": ["dollar", "argent | dollar | peso | USD"],
+      "de": ["Dollar", "Dollar | Geld | Peso | USD"],
+      "es": ["dólar", "dinero | dólar | peso | USD"],
+      "pt": ["dólar", "dinheiro | dólar | peso | USD"],
+      "it": [
+        "simbolo del dollaro",
+        "denaro | dollaro | peso | simbolo del dollaro | USD"
+      ],
+      "ro": ["dolar", "bani | dolar | peso | USD"],
+      "he": ["דולר", "דולר | דולר אמריקאי | כסף | מטבע"],
+      "ar": ["دولار", "بيزو | دولار | دولار أمريكي | مال"],
+      "tr": ["dolar", "ABD | dolar | para | pezo"],
+      "vi": ["đô la", "đô la | peso | tiền | USD"],
+      "nl": ["dollar", "dollar | geld | peso | USD"]
+    }
+  ],
+  "¢": [
+    "currency",
+    "cent sign",
+    {
+      "en": ["cent", "cent"],
+      "ru": ["цент", "цент | цента | центы"],
+      "pl": ["cent", "cent"],
+      "fr": ["cent", "cent"],
+      "de": ["Cent", "Cent"],
+      "es": ["céntimo", "centavo | céntimo"],
+      "pt": ["centavo", "centavo"],
+      "it": ["centesimo", "centesimo"],
+      "ro": ["cent", "cent"],
+      "he": ["סנט", "כסף | מטבע | סנט"],
+      "ar": ["سنت", "سنت"],
+      "tr": ["sent", "sent"],
+      "vi": ["xu", "cent | xu"],
+      "nl": ["cent", "cent"]
+    }
+  ],
+  "£": [
+    "currency",
+    "pound sign",
+    {
+      "en": ["pound", "currency | EGP | GBP | pound"],
+      "ru": ["фунт", "валюта | стерлинги | фунт | фунт стерлингов"],
+      "pl": ["funt", "funt | funt szterling | GBP | waluta"],
+      "fr": ["livre", "devise | EGP | GBP | livre"],
+      "de": [
+        "Pfund Sterling",
+        "britisches Pfund | EGP | GBP | Pfund | Pfund Sterling | Währung"
+      ],
+      "es": [
+        "libra esterlina",
+        "divisa | EGP | GBP | libra | libra esterlina | moneda"
+      ],
+      "pt": ["libra", "esterlina | GBP | libra | moeda"],
+      "it": [
+        "simbolo della sterlina",
+        "EGP | GBP | simbolo della sterlina | sterlina | valuta"
+      ],
+      "ro": ["liră", "EGP | GBP | liră | monedă"],
+      "he": ["פאונד", "ליש״ט | מטבע | פאונד"],
+      "ar": ["جنيه", "باوند | جنيه | جنيه إسترليني | جنيه مصري | عملة"],
+      "tr": ["sterlin", "EGP | GBP | para birimi | sterlin"],
+      "vi": ["bảng Anh", "bảng Anh | EGP | GBP | tiền tệ"],
+      "nl": ["Brits pond", "Brits pond | EGP | GBP | valuta"]
+    }
+  ],
+  "¤": [
+    "currency",
+    "currency sign",
+    {
+      "en": ["Unknown Currency", ""],
+      "ru": ["неизвестная валюта", ""],
+      "pl": ["nieznana waluta", ""],
+      "fr": ["devise inconnue ou non valide", ""],
+      "de": ["Unbekannte Währung", ""],
+      "es": ["moneda desconocida", ""],
+      "pt": ["Moeda desconhecida", ""],
+      "it": ["valuta sconosciuta", ""],
+      "ro": ["monedă necunoscută", ""],
+      "he": ["מטבע שאינו ידוע", ""],
+      "ar": ["عملة غير معروفة", ""],
+      "tr": ["Bilinmeyen Para Birimi", ""],
+      "vi": ["Tiền tệ chưa biết", ""],
+      "nl": ["onbekende munteenheid", ""]
+    }
+  ],
+  "¥": [
+    "currency",
+    "yen sign",
+    {
+      "en": ["yen", "CNY | currency | JPY | yen | yuan"],
+      "ru": ["иена", "валюта | иена | китайский юань | юань | японская иена"],
+      "pl": ["jen", "CNY | jen | JPY | juan | waluta"],
+      "fr": ["yen", "CNY | devise | JPY | yen | yuan"],
+      "de": ["Yen", "CNY | JPY | Renminbi | Währung | Yen | Yuan"],
+      "es": ["yen", "CNY | divisa | JPY | moneda | yen | yuan"],
+      "pt": ["iene", "China | chinês | CNY | iene | JPY | moeda | yuan"],
+      "it": [
+        "simbolo dello yen",
+        "CNY | JPY | simbolo dello yen | valuta | yen | yuan"
+      ],
+      "ro": ["yen", "CNY | JPY | monedă | yen | yuan"],
+      "he": ["ין", "ין | יפן | מטבע"],
+      "ar": ["ين", "الصين | اليابان | رنمينبي | عملة | ين | يوان"],
+      "tr": ["yen", "CNY | JPY | para birimi | yen | yuan"],
+      "vi": ["Yên Nhật", "CNY | JPY | nhân dân tệ | tiền tệ | Yên Nhật"],
+      "nl": ["yen", "CNY | JPY | valuta | yen | yuan"]
+    }
+  ],
+  "֏": [
+    "currency",
+    "armenian dram sign",
+    {
+      "en": ["Armenian Dram", ""],
+      "ru": ["армянский драм", ""],
+      "pl": ["dram armeński", ""],
+      "fr": ["dram arménien", ""],
+      "de": ["Armenischer Dram", ""],
+      "es": ["dram armenio", ""],
+      "pt": ["Dram armênio", ""],
+      "it": ["dram armeno", ""],
+      "ro": ["dram armenesc", ""],
+      "he": ["דראם ארמני", ""],
+      "ar": ["درام أرميني", ""],
+      "tr": ["Ermenistan dramı", ""],
+      "vi": ["Dram Armenia", ""],
+      "nl": ["Armeense dram", ""]
+    }
+  ],
+  "؋": [
+    "currency",
+    "afghani sign",
+    {
+      "en": ["Afghan Afghani", ""],
+      "ru": ["афгани", ""],
+      "pl": ["afgani afgańskie", ""],
+      "fr": ["afghani afghan", ""],
+      "de": ["Afghanischer Afghani", ""],
+      "es": ["afgani afgano", ""],
+      "pt": ["Afegane afegão", ""],
+      "it": ["afghani", ""],
+      "ro": ["afgani afgan", ""],
+      "he": ["אפגני אפגני", ""],
+      "ar": ["أفغاني", ""],
+      "tr": ["Afganistan afganisi", ""],
+      "vi": ["Afghani Afghanistan", ""],
+      "nl": ["Afghaanse afghani", ""]
+    }
+  ],
+  "₠": ["currency", "euro-currency sign", {}],
+  "₡": [
+    "currency",
+    "colon sign",
+    {
+      "en": ["Costa Rican Colón", ""],
+      "ru": ["костариканский колон", ""],
+      "pl": ["colon kostarykański", ""],
+      "fr": ["colón costaricain", ""],
+      "de": ["Costa-Rica-Colón", ""],
+      "es": ["colón costarricense", ""],
+      "pt": ["Colón costarriquenho", ""],
+      "it": ["colón costaricano", ""],
+      "ro": ["colón costarican", ""],
+      "he": ["קולון קוסטה־ריקני", ""],
+      "ar": ["كولن كوستاريكي", ""],
+      "tr": ["Kosta Rika kolonu", ""],
+      "vi": ["Colón Costa Rica", ""],
+      "nl": ["Costa Ricaanse colon", ""]
+    }
+  ],
+  "₢": [
+    "currency",
+    "cruzeiro sign",
+    {
+      "en": ["cruzeiro", "BRB | cruzeiro | currency"],
+      "ru": ["крузейро", "валюта | крузейро"],
+      "pl": ["cruzeiro", "cruzeiro"],
+      "fr": ["cruzeiro", "cruzeiro | devise"],
+      "de": ["Cruzeiro", "Cruzeiro"],
+      "es": ["cruceiro", "BRB | cruceiro | moneda"],
+      "pt": ["cruzeiros", "BRB | cruzeiros | moeda"],
+      "it": ["cruzeiro", "cruzeiro | valuta"],
+      "ro": ["cruzeiro", "cruzeiro | monedă"],
+      "he": ["קרוזרו", "BRB | מטבע | קרוזיארו | קרוזרו"],
+      "ar": ["كروزيرو", "عملة | كروزيرو"],
+      "tr": ["cruzeiro", "cruzeiro"],
+      "vi": ["cruzeiro", "BRB | cruzeiro | tiền tệ"],
+      "nl": ["cruzeiro", "BRB | cruzeiro | valuta"]
+    }
+  ],
+  "₣": [
+    "currency",
+    "french franc sign",
+    {
+      "en": ["french franc", "currency | franc | french"],
+      "ru": ["французский франк", "валюта | франк | французский франк"],
+      "pl": ["frank francuski", "frank francuski"],
+      "fr": ["franc français", "devise | franc | franc français"],
+      "de": ["französischer Franc", "französischer Franc"],
+      "es": ["franco francés", "franco | franco francés | moneda"],
+      "pt": ["franco francês", "francês | franco | moeda"],
+      "it": ["franco francese", "franco francese | valuta"],
+      "ro": ["franc francez", "franc | franc francez | monedă"],
+      "he": ["פרנק צרפתי", "מטבע | פרנק | פרנק צרפתי"],
+      "ar": ["الفرنك الفرنسي", "عملة | فرنسا | فرنسي | فرنك"],
+      "tr": ["fransız frangı", "fransız frangı"],
+      "vi": ["đồng franc Pháp", "đồng franc | đồng franc Pháp | tiền tệ"],
+      "nl": ["Franse franc", "franc | Franse franc | valuta"]
+    }
+  ],
+  "₤": [
+    "currency",
+    "lira sign",
+    {
+      "en": ["lira", "currency | lira"],
+      "ru": ["лира", "валюта | лира"],
+      "pl": ["lira", "lira"],
+      "fr": ["lire", "devise | lire"],
+      "de": ["Lira", "Lira"],
+      "es": ["lira", "lira | moneda"],
+      "pt": ["lira", "lira | moeda"],
+      "it": ["lira", "lira | valuta"],
+      "ro": ["liră sterlină", "liră | liră sterlină | monedă"],
+      "he": ["לִירָה", "לִירָה | מטבע"],
+      "ar": ["الليرة", "الليرة | عملة | ليرة"],
+      "tr": ["lira", "lira"],
+      "vi": ["lira", "lira | tiền tệ"],
+      "nl": ["lira", "lira | valuta"]
+    }
+  ],
+  "₥": [
+    "currency",
+    "mill sign",
+    {
+      "en": ["mill", "mil | mill"],
+      "ru": [
+        "милль",
+        "мил | милесимо | миллим | милль | милльем | миль | мильем"
+      ],
+      "pl": ["mill", "mil | mill"],
+      "fr": ["mill", "mil | mill"],
+      "de": ["Millzeichen", "Mill | Millzeichen"],
+      "es": ["milésimo", "milésima | milésimo"],
+      "pt": ["mill", "mill"],
+      "it": ["mill", "mil | mill"],
+      "ro": ["mill", "mil | mill"],
+      "he": ["סימן אלפית", "אלפית | החלק האלף | מיל | סימן אלפית"],
+      "ar": ["ميل", "ميل"],
+      "tr": ["mill", "mil | mill"],
+      "vi": ["mill", "mil | mill"],
+      "nl": ["mill", "mil | mill"]
+    }
+  ],
+  "₦": [
+    "currency",
+    "naira sign",
+    {
+      "en": ["Nigerian Naira", ""],
+      "ru": ["нигерийская найра", ""],
+      "pl": ["naira nigeryjska", ""],
+      "fr": ["naira nigérian", ""],
+      "de": ["Nigerianischer Naira", ""],
+      "es": ["naira nigeriano", ""],
+      "pt": ["Naira nigeriana", ""],
+      "it": ["naira nigeriana", ""],
+      "ro": ["naira nigeriană", ""],
+      "he": ["נאירה ניגרי", ""],
+      "ar": ["نايرا نيجيري", ""],
+      "tr": ["Nijerya nairası", ""],
+      "vi": ["Naira Nigeria", ""],
+      "nl": ["Nigeriaanse naira", ""]
+    }
+  ],
+  "₧": [
+    "currency",
+    "peseta sign",
+    {
+      "en": ["Spanish Peseta", ""],
+      "ru": ["Испанская песета", ""],
+      "pl": ["peseta hiszpańska", ""],
+      "fr": ["peseta espagnole", ""],
+      "de": ["Spanische Peseta", ""],
+      "es": ["peseta española", ""],
+      "pt": ["Peseta espanhola", ""],
+      "it": ["peseta spagnola", ""],
+      "ro": ["pesetă spaniolă", ""],
+      "he": ["פסטה ספרדי", ""],
+      "ar": ["بيزيتا إسباني", ""],
+      "tr": ["İspanyol Pezetası", ""],
+      "vi": ["Đồng Peseta Tây Ban Nha", ""],
+      "nl": ["Spaanse peseta", ""]
+    }
+  ],
+  "₨": [
+    "currency",
+    "rupee sign",
+    {
+      "en": ["rupee", "currency | rupee"],
+      "ru": ["рупия", "валюта | рупия"],
+      "pl": ["rupia", "rupia"],
+      "fr": ["roupie", "devise | roupie"],
+      "de": ["Rupie", "Rupie"],
+      "es": ["rupia", "moneda | rupia"],
+      "pt": ["rupia", "moeda | rupia"],
+      "it": ["rupia", "rupia | valuta"],
+      "ro": ["rupie", "monedă | rupie"],
+      "he": ["רוּפּיָה", "מטבע | רוּפּיָה"],
+      "ar": ["روبية", "الهند | روبية | عملة | هند"],
+      "tr": ["rupi", "rupi"],
+      "vi": ["rupee", "rupee | tiền tệ"],
+      "nl": ["roepie", "roepie | valuta"]
+    }
+  ],
+  "₩": [
+    "currency",
+    "won sign",
+    {
+      "en": ["won", "KPW | KRW | won"],
+      "ru": ["вона", "вона | ЮКВ/СКВ"],
+      "pl": ["won", "KPW | KRW | waluta | won"],
+      "fr": ["won", "KPW | KRW | won"],
+      "de": ["Won", "KPW | KRW | Won"],
+      "es": ["won", "KPW | KRW | won"],
+      "pt": ["won", "KPW | KRW | won"],
+      "it": ["won", "KPW | KRW | won"],
+      "ro": ["won", "KPW | KRW | won"],
+      "he": ["סימן וון", "KPW | KRW | סימן וון"],
+      "ar": ["وون", "وون | وون كوري جنوبي | وون كوري شمالي"],
+      "tr": ["won", "KPW | KRW | won"],
+      "vi": ["won", "KPW | KRW | won"],
+      "nl": ["won", "KPW | KRW | won"]
+    }
+  ],
+  "₪": [
+    "currency",
+    "new sheqel sign",
+    {
+      "en": ["Israeli New Shekel", ""],
+      "ru": ["новый израильский шекель", ""],
+      "pl": ["nowy szekel izraelski", ""],
+      "fr": ["nouveau shekel israélien", ""],
+      "de": ["Israelischer Neuer Schekel", ""],
+      "es": ["nuevo séquel israelí", ""],
+      "pt": ["Novo shekel israelense", ""],
+      "it": ["nuovo siclo israeliano", ""],
+      "ro": ["shekel israelian nou", ""],
+      "he": ["שקל חדש", ""],
+      "ar": ["شيكل إسرائيلي جديد", ""],
+      "tr": ["Yeni İsrail şekeli", ""],
+      "vi": ["Sheqel Israel mới", ""],
+      "nl": ["Israëlische nieuwe shekel", ""]
+    }
+  ],
+  "₫": [
+    "currency",
+    "dong sign",
+    {
+      "en": ["Vietnamese Dong", ""],
+      "ru": ["вьетнамский донг", ""],
+      "pl": ["dong wietnamski", ""],
+      "fr": ["dông vietnamien", ""],
+      "de": ["Vietnamesischer Dong", ""],
+      "es": ["dong vietnamita", ""],
+      "pt": ["Dong vietnamita", ""],
+      "it": ["dong vietnamita", ""],
+      "ro": ["dong vietnamez", ""],
+      "he": ["דונג וייטנאמי", ""],
+      "ar": ["دونج فيتنامي", ""],
+      "tr": ["Vietnam dongu", ""],
+      "vi": ["Đồng Việt Nam", ""],
+      "nl": ["Vietnamese dong", ""]
+    }
+  ],
+  "€": [
+    "currency",
+    "euro sign",
+    {
+      "en": ["euro", "currency | EUR | euro"],
+      "ru": ["евро", "валюта | евро"],
+      "pl": ["euro", "EUR | euro | waluta"],
+      "fr": ["euro", "devise | EUR | euro"],
+      "de": ["Euro", "EUR | Euro | Währung"],
+      "es": ["euro", "divisa | EUR | euro | moneda"],
+      "pt": ["euro", "EUR | euro | moeda"],
+      "it": ["simbolo dell’euro", "EUR | euro | simbolo dell’euro | valuta"],
+      "ro": ["euro", "EUR | euro | monedă"],
+      "he": ["אירו", "אירו | יורו | מטבע"],
+      "ar": ["يورو", "أوروبا | عملة | يورو"],
+      "tr": ["avro", "avro | EUR | para birimi"],
+      "vi": ["euro", "EUR | euro | tiền tệ"],
+      "nl": ["euro", "EUR | euro | valuta"]
+    }
+  ],
+  "₭": [
+    "currency",
+    "kip sign",
+    {
+      "en": ["Laotian Kip", ""],
+      "ru": ["лаосский кип", ""],
+      "pl": ["kip laotański", ""],
+      "fr": ["kip laotien", ""],
+      "de": ["Laotischer Kip", ""],
+      "es": ["kip laosiano", ""],
+      "pt": ["Kip laosiano", ""],
+      "it": ["kip laotiano", ""],
+      "ro": ["kip laoțian", ""],
+      "he": ["קיפ לאי", ""],
+      "ar": ["كيب لاوسي", ""],
+      "tr": ["Laos kipi", ""],
+      "vi": ["Kip Lào", ""],
+      "nl": ["Laotiaanse kip", ""]
+    }
+  ],
+  "₮": [
+    "currency",
+    "tugrik sign",
+    {
+      "en": ["Mongolian Tugrik", ""],
+      "ru": ["монгольский тугрик", ""],
+      "pl": ["tugrik mongolski", ""],
+      "fr": ["tugrik mongol", ""],
+      "de": ["Mongolischer Tögrög", ""],
+      "es": ["tugrik mongol", ""],
+      "pt": ["Tugrik mongol", ""],
+      "it": ["tugrik mongolo", ""],
+      "ro": ["tugrik mongol", ""],
+      "he": ["טוגרוג מונגולי", ""],
+      "ar": ["توغروغ منغولي", ""],
+      "tr": ["Moğolistan tugriki", ""],
+      "vi": ["Tugrik Mông Cổ", ""],
+      "nl": ["Mongoolse tugrik", ""]
+    }
+  ],
+  "₯": ["currency", "drachma sign", {}],
+  "₰": [
+    "currency",
+    "german penny sign",
+    {
+      "en": ["german penny", "currency | german | penny | pfennig"],
+      "ru": ["немецкий пенни", "валюта | немецкий пенни"],
+      "pl": ["niemiecki fenig", "niemiecki fenig"],
+      "fr": ["penny allemand", "devise | penny allemand"],
+      "de": ["Pfennig", "Pfennig"],
+      "es": ["penique alemán", "moneda | penique alemán"],
+      "pt": ["centavo alemão", "alemão | centavo | moeda | pfennig"],
+      "it": ["pfennig tedesco", "pfennig tedesco | valuta"],
+      "ro": ["pfenig german", "monedă | pfenig | pfenig german"],
+      "he": ["אגורה גרמנית", "אגורה גרמנית | מטבע | פניג"],
+      "ar": ["بنس ألماني", "ألماني | ألمانيا | بنس | عملة"],
+      "tr": ["alman senti", "alman senti"],
+      "vi": ["xu Đức", "pfennig | tiền tệ | xu Đức"],
+      "nl": ["Duitse pfennig", "Duitse pfennig | pfennig | valuta"]
+    }
+  ],
+  "₱": [
+    "currency",
+    "peso sign",
+    {
+      "en": ["peso", "peso"],
+      "ru": ["песо", "песо"],
+      "pl": ["peso", "peso"],
+      "fr": ["peso", "peso"],
+      "de": ["Peso", "Peso"],
+      "es": ["peso", "peso"],
+      "pt": ["peso", "peso"],
+      "it": ["peso", "peso"],
+      "ro": ["peso", "peso"],
+      "he": ["פסו", "כסף | מטבע | פסו"],
+      "ar": ["بيزو", "بيزو"],
+      "tr": ["pezo", "pezo"],
+      "vi": ["peso", "peso"],
+      "nl": ["peso", "peso"]
+    }
+  ],
+  "₲": [
+    "currency",
+    "guarani sign",
+    {
+      "en": ["Paraguayan Guarani", ""],
+      "ru": ["парагвайский гуарани", ""],
+      "pl": ["guarani paragwajskie", ""],
+      "fr": ["guaraní paraguayen", ""],
+      "de": ["Paraguayischer Guaraní", ""],
+      "es": ["guaraní paraguayo", ""],
+      "pt": ["Guarani paraguaio", ""],
+      "it": ["guaraní paraguayano", ""],
+      "ro": ["guarani", ""],
+      "he": ["גוארני פרגוואי", ""],
+      "ar": ["غواراني باراغواي", ""],
+      "tr": ["Paraguay guaranisi", ""],
+      "vi": ["Guarani Paraguay", ""],
+      "nl": ["Paraguayaanse guarani", ""]
+    }
+  ],
+  "₳": [
+    "currency",
+    "austral sign",
+    {
+      "en": ["austral", "ARA | austral | currency"],
+      "ru": ["аустраль", "аустраль | валюта"],
+      "pl": ["austral", "austral"],
+      "fr": ["austral", "austral | devise"],
+      "de": ["Austral", "Austral"],
+      "es": ["austral", "ARA | austral | moneda"],
+      "pt": ["austral", "ARA | austral | moeda"],
+      "it": ["austral", "austral | valuta"],
+      "ro": ["austral argentinian", "austral argentinian | monedă"],
+      "he": ["אוסטרלי", "ARA | אוסטרלי | מַטְבֵּעַ"],
+      "ar": ["أسترال", "أسترال | عملة"],
+      "tr": ["austral", "austral"],
+      "vi": ["austral", "ARA | austral | tiền tệ"],
+      "nl": ["austral", "ARA | austral | valuta"]
+    }
+  ],
+  "₴": [
+    "currency",
+    "hryvnia sign",
+    {
+      "en": ["Ukrainian Hryvnia", ""],
+      "ru": ["украинская гривна", ""],
+      "pl": ["hrywna ukraińska", ""],
+      "fr": ["hryvnia ukrainienne", ""],
+      "de": ["Ukrainische Hrywnja", ""],
+      "es": ["grivna ucraniana", ""],
+      "pt": ["Hryvnia ucraniano", ""],
+      "it": ["grivnia ucraina", ""],
+      "ro": ["grivnă", ""],
+      "he": ["הריבנה אוקראיני", ""],
+      "ar": ["هريفنيا أوكراني", ""],
+      "tr": ["Ukrayna grivnası", ""],
+      "vi": ["Hryvnia Ukraina", ""],
+      "nl": ["Oekraïense hryvnia", ""]
+    }
+  ],
+  "₵": [
+    "currency",
+    "cedi sign",
+    {
+      "en": ["Ghanaian Cedi", ""],
+      "ru": ["ганский седи", ""],
+      "pl": ["cedi ghańskie", ""],
+      "fr": ["cédi ghanéen", ""],
+      "de": ["Ghanaischer Cedi", ""],
+      "es": ["cedi ghanés", ""],
+      "pt": ["Cedi ganês", ""],
+      "it": ["cedi ghanese", ""],
+      "ro": ["cedi ghanez", ""],
+      "he": ["סדי גאני", ""],
+      "ar": ["سيدي غانا", ""],
+      "tr": ["Gana sedisi", ""],
+      "vi": ["Cedi Ghana", ""],
+      "nl": ["Ghanese cedi", ""]
+    }
+  ],
+  "₶": [
+    "currency",
+    "livre tournois sign",
+    {
+      "en": ["livre tournois", "currency | livre | tournois"],
+      "ru": ["турский ливр", "валюта | турский ливр"],
+      "pl": ["funt turoński", "funt turoński"],
+      "fr": ["livre tournois", "devise | livre tournois"],
+      "de": ["Livre tournoise", "Livre tournoise"],
+      "es": ["libra tornesa", "libra tornesa | moneda"],
+      "pt": ["livre tournois", "livre | moeda | tournois"],
+      "it": ["livre tournois", "livre tournois | valuta"],
+      "ro": ["livră tournois", "livră tournois | monedă"],
+      "he": ["ליבר טורנואה", "ליבר טורנואה | מטבע"],
+      "ar": ["جنيه تورز", "تورز | جنيه | عملة"],
+      "tr": ["livre tournois", "livre tournois"],
+      "vi": ["đồng livre", "đồng livre | tiền tệ"],
+      "nl": ["livre tournois", "livre tournois | valuta"]
+    }
+  ],
+  "₷": [
+    "currency",
+    "spesmilo sign",
+    {
+      "en": ["spesmilo", "currency | spesmilo"],
+      "ru": ["спесмило", "валюта | спесмило"],
+      "pl": ["spesmilo", "spesmilo"],
+      "fr": ["spesmilo", "devise | spesmilo"],
+      "de": ["Spesmilo", "Spesmilo"],
+      "es": ["spesmilo", "moneda | spesmilo"],
+      "pt": ["spesmilo", "moeda | spesmilo"],
+      "it": ["spesmilo", "spesmilo | valuta"],
+      "ro": ["spesmilo", "monedă | spesmilo"],
+      "he": ["ספשמילו", "מטבע | ספשמילו"],
+      "ar": ["سبيسميلو", "سبيسميلو | عملة"],
+      "tr": ["spesmilo", "spesmilo"],
+      "vi": ["đồng spesmilo", "đồng spesmilo | tiền tệ"],
+      "nl": ["spesmilo", "spesmilo | valuta"]
+    }
+  ],
+  "₸": [
+    "currency",
+    "tenge sign",
+    {
+      "en": ["Kazakhstani Tenge", ""],
+      "ru": ["казахский тенге", ""],
+      "pl": ["tenge kazachskie", ""],
+      "fr": ["tenge kazakh", ""],
+      "de": ["Kasachischer Tenge", ""],
+      "es": ["tengue kazajo", ""],
+      "pt": ["Tenge cazaque", ""],
+      "it": ["tenge kazako", ""],
+      "ro": ["tenge kazahă", ""],
+      "he": ["טנגה קזחסטני", ""],
+      "ar": ["تينغ كازاخستاني", ""],
+      "tr": ["Kazakistan tengesi", ""],
+      "vi": ["Tenge Kazakhstan", ""],
+      "nl": ["Kazachse tenge", ""]
+    }
+  ],
+  "₹": [
+    "currency",
+    "indian rupee sign",
+    {
+      "en": ["indian rupee", "currency | indian | rupee"],
+      "ru": ["индийская рупия", "валюта | индийская рупия | рупия"],
+      "pl": ["rupia indyjska", "rupia | rupia indyjska | waluta"],
+      "fr": ["roupie indienne", "devise | roupie | roupie indienne"],
+      "de": ["Indische Rupie", "Indische Rupie | INR | Rupie | Währung"],
+      "es": ["rupia india", "divisa | moneda | rupia | rupia india"],
+      "pt": ["rupia indiana", "Índia | indiana | moeda | rupia"],
+      "it": [
+        "simbolo della rupia indiana",
+        "rupia | rupia indiana | simbolo della rupia indiana | valuta"
+      ],
+      "ro": ["rupie indiană", "monedă | rupie | rupie indiană"],
+      "he": ["רופי הודי", "הודו | מטבע | רופי | רופי הודי | רופיה"],
+      "ar": ["روبيه هندي", "روبيه | عملة | هندي"],
+      "tr": ["hint rupisi", "hint rupisi | para birimi | rupi"],
+      "vi": ["rupee Ấn Độ", "rupee | rupee Ấn Độ | tiền tệ"],
+      "nl": ["Indiase roepie", "Indiase roepie | roepie | valuta"]
+    }
+  ],
+  "₺": [
+    "currency",
+    "turkish lira sign",
+    {
+      "en": ["Turkish Lira", ""],
+      "ru": ["турецкая лира", ""],
+      "pl": ["lira turecka", ""],
+      "fr": ["livre turque", ""],
+      "de": ["Türkische Lira", ""],
+      "es": ["lira turca", ""],
+      "pt": ["Lira turca", ""],
+      "it": ["lira turca", ""],
+      "ro": ["liră turcească", ""],
+      "he": ["לירה טורקית חדשה", ""],
+      "ar": ["ليرة تركية", ""],
+      "tr": ["Türk lirası", ""],
+      "vi": ["Lia Thổ Nhĩ Kỳ", ""],
+      "nl": ["Turkse lira", ""]
+    }
+  ],
+  "₻": ["currency", "nordic mark sign", {}],
+  "₼": [
+    "currency",
+    "manat sign",
+    {
+      "en": ["Azerbaijani Manat", ""],
+      "ru": ["азербайджанский манат", ""],
+      "pl": ["manat azerski", ""],
+      "fr": ["manat azéri", ""],
+      "de": ["Aserbaidschan-Manat", ""],
+      "es": ["manat azerbaiyano", ""],
+      "pt": ["Manat azeri", ""],
+      "it": ["manat azero", ""],
+      "ro": ["manat azer", ""],
+      "he": ["מאנאט אזרבייג׳ני", ""],
+      "ar": ["مانات أذربيجان", ""],
+      "tr": ["Azerbaycan manatı", ""],
+      "vi": ["Manat Azerbaijan", ""],
+      "nl": ["Azerbeidzjaanse manat", ""]
+    }
+  ],
+  "₽": [
+    "currency",
+    "ruble sign",
+    {
+      "en": ["ruble", "currency | ruble"],
+      "ru": ["рубль", "валюта | рубль"],
+      "pl": ["rubel", "rubel | waluta"],
+      "fr": ["rouble", "devise | rouble"],
+      "de": ["Rubel", "Rubel | Währung"],
+      "es": ["rublo", "divisa | moneda | rublo"],
+      "pt": ["rublo", "moeda | rublo | Rússia"],
+      "it": ["simbolo del rublo", "rublo | simbolo del rublo | valuta"],
+      "ro": ["rublă", "monedă | rublă"],
+      "he": ["רובל", "מטבע | רובל"],
+      "ar": ["روبل", "روبل | عملة"],
+      "tr": ["ruble", "para birimi | ruble"],
+      "vi": ["rúp", "rúp | tiền tệ"],
+      "nl": ["roebel", "roebel | valuta"]
+    }
+  ],
+  "₾": [
+    "currency",
+    "lari sign",
+    {
+      "en": ["Georgian Lari", ""],
+      "ru": ["грузинский лари", ""],
+      "pl": ["lari gruzińskie", ""],
+      "fr": ["lari géorgien", ""],
+      "de": ["Georgischer Lari", ""],
+      "es": ["lari georgiano", ""],
+      "pt": ["Lari georgiano", ""],
+      "it": ["lari georgiano", ""],
+      "ro": ["lari georgian", ""],
+      "he": ["לארי גאורגי", ""],
+      "ar": ["لارى جورجي", ""],
+      "tr": ["Gürcistan larisi", ""],
+      "vi": ["Lari Georgia", ""],
+      "nl": ["Georgische lari", ""]
+    }
+  ],
+  "₿": [
+    "currency",
+    "bitcoin sign",
+    {
+      "en": ["bitcoin", "bitcoin | BTC"],
+      "ru": ["биткоин", "btc | биткоин | биткойн | бтк"],
+      "pl": ["bitcoin", "bitcoin | BTC"],
+      "fr": ["bitcoin", "bitcoin | BTC"],
+      "de": ["Bitcoin-Zeichen", "Bitcoin-Zeichen | BTC"],
+      "es": ["bitcóin", "bitcoin | bitcóin | BTC"],
+      "pt": ["bitcoin", "bitcoin | BTC"],
+      "it": ["bitcoin", "bitcoin | BTC"],
+      "ro": ["bitcoin", "bitcoin | BTC"],
+      "he": ["ביטקוין", "BTC | ביטקוין"],
+      "ar": ["بيتكوين", "BTC | بيتكوين"],
+      "tr": ["bitcoin", "bitcoin | BTC"],
+      "vi": ["bitcoin", "bitcoin | BTC"],
+      "nl": ["bitcoin", "bitcoin | BTC"]
+    }
+  ],
+  "⃀": ["currency", "som sign", {}],
+  "⃁": ["currency", "saudi riyal sign", {}]
+}

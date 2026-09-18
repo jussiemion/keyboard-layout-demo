@@ -1,0 +1,2795 @@
+{
+  "♋": [
+    "other",
+    "cancer",
+    {
+      "en": ["Cancer", "Cancer | crab | horoscope | zodiac"],
+      "ru": ["знак зодиака Рак", "гороскоп | знак | зодиак | рак"],
+      "pl": ["Rak", "rak | Rak | znak zodiaku | zodiak"],
+      "fr": [
+        "cancer",
+        "astrologie | cancer | Cancer | crabe | horoscope | zodiaque"
+      ],
+      "de": [
+        "Krebs (Sternzeichen)",
+        "Krebs | Krebs (Sternzeichen) | Sternzeichen"
+      ],
+      "es": ["Cáncer", "Cáncer | cangrejo | horóscopo | zodiaco"],
+      "pt": [
+        "signo de Câncer",
+        "câncer | caranguejo | signo de Câncer | zodíaco"
+      ],
+      "it": [
+        "Segno zodiacale del Cancro",
+        "Cancro | oroscopo | segno zodiacale | Segno zodiacale del Cancro | zodiaco"
+      ],
+      "ro": [
+        "zodia Rac",
+        "horoscop | rac | zodia rac | zodia Rac | zodiac | zodie"
+      ],
+      "he": ["מזל סרטן", "גלגל המזלות | מזל | סרטן"],
+      "ar": ["السرطان", "أبراج | الأبراج | السرطان | برج | رمز"],
+      "tr": ["yengeç burcu", "burçlar | yengeç burcu"],
+      "vi": ["Cự Giải", "con cua | Cự Giải | cung hoàng đạo | lá số tử vi"],
+      "nl": [
+        "kreeft (sterrenbeeld)",
+        "Cancer | dierenriem | horoscoop | kreeft"
+      ]
+    }
+  ],
+  "♌": [
+    "other",
+    "leo",
+    {
+      "en": ["Leo", "horoscope | Leo | lion | zodiac"],
+      "ru": ["знак зодиака Лев", "гороскоп | знак | зодиак | лев"],
+      "pl": ["Lew", "lew | Lew | znak zodiaku | zodiak"],
+      "fr": ["lion", "astrologie | horoscope | lion | Lion | zodiaque"],
+      "de": [
+        "Löwe (Sternzeichen)",
+        "Horoskop | Löwe | Löwe (Sternzeichen) | Sternzeichen"
+      ],
+      "es": ["Leo", "horóscopo | Leo | león | zodiaco"],
+      "pt": ["signo de Leão", "leão | signo de Leão | zodíaco"],
+      "it": [
+        "Segno zodiacale del Leone",
+        "Leone | oroscopo | segno zodiacale | Segno zodiacale del Leone | zodiaco"
+      ],
+      "ro": [
+        "zodia Leu",
+        "horoscop | leu | zodia leu | zodia Leu | zodiac | zodie"
+      ],
+      "he": ["מזל אריה", "אריה | גלגל המזלות | מזל"],
+      "ar": ["الأسد", "أبراج | الأبراج | الأسد | برج | رمز"],
+      "tr": ["aslan burcu", "aslan burcu | burçlar"],
+      "vi": ["Sư Tử", "cung hoàng đạo | lá số tử vi | sư tử | Sư Tử"],
+      "nl": ["leeuw (sterrenbeeld)", "dierenriem | horoscoop | leeuw | Leo"]
+    }
+  ],
+  "♍": [
+    "other",
+    "virgo",
+    {
+      "en": ["Virgo", "horoscope | Virgo | zodiac"],
+      "ru": ["знак зодиака Дева", "гороскоп | дева | знак | зодиак"],
+      "pl": ["Panna", "panna | Panna | znak zodiaku | zodiak"],
+      "fr": ["vierge", "astrologie | horoscope | vierge | Vierge | zodiaque"],
+      "de": [
+        "Jungfrau (Sternzeichen)",
+        "Horoskop | Jungfrau | Jungfrau (Sternzeichen) | Sternzeichen"
+      ],
+      "es": ["Virgo", "horóscopo | Virgo | zodiaco"],
+      "pt": ["signo de Virgem", "signo de Virgem | virgem | zodíaco"],
+      "it": [
+        "Segno zodiacale della Vergine",
+        "oroscopo | segno zodiacale | Segno zodiacale della Vergine | Vergine | zodiaco"
+      ],
+      "ro": [
+        "zodia Fecioară",
+        "fecioară | horoscop | zodia fecioară | zodia Fecioară | zodiac | zodie"
+      ],
+      "he": ["מזל בתולה", "בתולה | גלגל המזלות | מזל"],
+      "ar": ["العذراء", "أبراج | الأبراج | العذراء | برج | رمز"],
+      "tr": ["başak burcu", "başak burcu | burçlar"],
+      "vi": ["Xử Nữ", "cung hoàng đạo | lá số tử vi | Xử Nữ"],
+      "nl": ["maagd (sterrenbeeld)", "dierenriem | horoscoop | maagd | Virgo"]
+    }
+  ],
+  "♎": [
+    "other",
+    "libra",
+    {
+      "en": [
+        "Libra",
+        "balance | horoscope | justice | Libra | scales | zodiac"
+      ],
+      "ru": ["знак зодиака Весы", "весы | гороскоп | знак | зодиак"],
+      "pl": ["Waga", "waga | Waga | znak zodiaku | zodiak"],
+      "fr": [
+        "balance",
+        "astrologie | balance | Balance | horoscope | justice | zodiaque"
+      ],
+      "de": [
+        "Waage (Sternzeichen)",
+        "Horoskop | Sternzeichen | Waage | Waage (Sternzeichen)"
+      ],
+      "es": [
+        "Libra",
+        "balanza | escala | horóscopo | justicia | Libra | zodiaco"
+      ],
+      "pt": [
+        "signo de Libra",
+        "balança | justiça | libra | signo de Libra | signo de Virgem | zodíaco"
+      ],
+      "it": [
+        "Segno zodiacale della Bilancia",
+        "Bilancia | oroscopo | segno zodiacale | Segno zodiacale della Bilancia | zodiaco"
+      ],
+      "ro": [
+        "zodia Balanță",
+        "balanță | horoscop | justiție | taler | zodia balanță | zodia Balanță | zodiac | zodie"
+      ],
+      "he": ["מזל מאזניים", "גלגל המזלות | מאזניים | מזל | משפט | צדק"],
+      "ar": ["الميزان", "أبراج | الأبراج | الميزان | برج | رمز"],
+      "tr": ["terazi burcu", "burçlar | terazi burcu"],
+      "vi": [
+        "Thiên Bình",
+        "cân | cân đối | công bằng | cung hoàng đạo | lá số tử vi | Thiên Bình"
+      ],
+      "nl": [
+        "weegschaal (sterrenbeeld)",
+        "balans | dierenriem | gerechtigheid | horoscoop | Libra | weegschaal"
+      ]
+    }
+  ],
+  "♏": [
+    "other",
+    "scorpius",
+    {
+      "en": ["Scorpio", "horoscope | Scorpio | scorpion | Scorpius | zodiac"],
+      "ru": ["знак зодиака Скорпион", "гороскоп | знак | зодиак | скорпион"],
+      "pl": ["Skorpion", "skorpion | Skorpion | znak zodiaku | zodiak"],
+      "fr": [
+        "scorpion zodiaque",
+        "astrologie | horoscope | Scorpion | zodiaque"
+      ],
+      "de": [
+        "Skorpion (Sternzeichen)",
+        "Horoskop | Skorpion | Skorpion (Sternzeichen) | Sternzeichen"
+      ],
+      "es": ["Escorpio", "Escorpio | escorpión | horóscopo | zodiaco"],
+      "pt": ["signo de Escorpião", "escorpião | signo de Escorpião | zodíaco"],
+      "it": [
+        "Segno zodiacale dello Scorpione",
+        "oroscopo | Scorpione | segno zodiacale | Segno zodiacale dello Scorpione | zodiaco"
+      ],
+      "ro": [
+        "zodia Scorpion",
+        "horoscop | scorpion | Scorpion | zodia scorpion | zodia Scorpion | zodiac | zodie"
+      ],
+      "he": ["מזל עקרב", "גלגל המזלות | מזל | עקרב"],
+      "ar": ["العقرب", "أبراج | الأبراج | العقرب | برج"],
+      "tr": ["akrep burcu", "akrep burcu | burçlar"],
+      "vi": [
+        "Bọ Cạp",
+        "bọ cạp | Bọ Cạp | cung bọ cạp | cung hoàng đạo | lá số tử vi | Thiên Yết"
+      ],
+      "nl": [
+        "schorpioen (sterrenbeeld)",
+        "dierenriem | horoscoop | schorpioen | Scorpio | scorpius"
+      ]
+    }
+  ],
+  "♐": [
+    "other",
+    "sagittarius",
+    {
+      "en": ["Sagittarius", "archer | horoscope | Sagittarius | zodiac"],
+      "ru": ["знак зодиака Стрелец", "гороскоп | знак | зодиак | стрелец"],
+      "pl": ["Strzelec", "strzelec | Strzelec | znak zodiaku | zodiak"],
+      "fr": [
+        "sagittaire",
+        "astrologie | horoscope | sagittaire | Sagittaire | zodiaque"
+      ],
+      "de": [
+        "Schütze (Sternzeichen)",
+        "Schütze | Schütze (Sternzeichen) | Sternzeichen"
+      ],
+      "es": ["Sagitario", "arquero | horóscopo | Sagitario | zodiaco"],
+      "pt": [
+        "signo de Sagitário",
+        "arqueiro | sagitário | signo de Sagitário | zodíaco"
+      ],
+      "it": [
+        "Segno zodiacale del Saggitario",
+        "oroscopo | Sagittario | segno zodiacale | Segno zodiacale del Saggitario | zodiaco"
+      ],
+      "ro": [
+        "zodia Săgetător",
+        "arcaș | horoscop | săgetător | zodia săgetător | zodia Săgetător | zodiac | zodie"
+      ],
+      "he": ["מזל קשת", "גלגל המזלות | מזל | קשת"],
+      "ar": ["القوس", "أبراج | الأبراج | القوس | برج | رمز"],
+      "tr": ["yay burcu", "burçlar | yay burcu"],
+      "vi": [
+        "Nhân Mã",
+        "cung hoàng đạo | lá số tử vi | người bắn cung | Nhân Mã"
+      ],
+      "nl": [
+        "boogschutter (sterrenbeeld)",
+        "boogschutter | dierenriem | horoscoop | Sagittarius"
+      ]
+    }
+  ],
+  "♑": [
+    "other",
+    "capricorn",
+    {
+      "en": ["Capricorn", "Capricorn | goat | horoscope | zodiac"],
+      "ru": ["знак зодиака Козерог", "гороскоп | знак | зодиак | козерог"],
+      "pl": ["Koziorożec", "koziorożec | Koziorożec | znak zodiaku | zodiak"],
+      "fr": [
+        "capricorne",
+        "astrologie | capricorne | Capricorne | chèvre | horoscope | zodiaque"
+      ],
+      "de": [
+        "Steinbock (Sternzeichen)",
+        "Steinbock | Steinbock (Sternzeichen) | Sternzeichen"
+      ],
+      "es": ["Capricornio", "cabra | Capricornio | horóscopo | zodiaco"],
+      "pt": [
+        "signo de Capricórnio",
+        "cabra | capricórnio | signo de Capricórnio | zodíaco"
+      ],
+      "it": [
+        "Segno zodiacale del Capricorno",
+        "Capricorno | oroscopo | segno zodiacale | Segno zodiacale del Capricorno | zodiaco"
+      ],
+      "ro": [
+        "zodia Capricorn",
+        "capră | capricorn | horoscop | zodia capricorn | zodia Capricorn | zodiac | zodie"
+      ],
+      "he": ["מזל גדי", "גדי | גלגל המזלות | מזל"],
+      "ar": [
+        "الجدي",
+        "أبراج | الأبراج | الجدي | برج | رمز | عنزة | ماعز | معزاية"
+      ],
+      "tr": ["oğlak burcu", "burçlar | oğlak burcu"],
+      "vi": ["Ma Kết", "con dê | cung hoàng đạo | lá số tử vi | Ma Kết"],
+      "nl": [
+        "steenbok (sterrenbeeld)",
+        "Capricorn | dierenriem | horoscoop | steenbok"
+      ]
+    }
+  ],
+  "♒": [
+    "other",
+    "aquarius",
+    {
+      "en": ["Aquarius", "Aquarius | bearer | horoscope | water | zodiac"],
+      "ru": ["знак зодиака Водолей", "водолей | гороскоп | знак | зодиак"],
+      "pl": ["Wodnik", "wodnik | Wodnik | znak zodiaku | zodiak"],
+      "fr": [
+        "verseau",
+        "astrologie | eau | horoscope | verseau | Verseau | zodiaque"
+      ],
+      "de": [
+        "Wassermann (Sternzeichen)",
+        "Sternzeichen | Wassermann | Wassermann (Sternzeichen)"
+      ],
+      "es": ["Acuario", "Acuario | agua | horóscopo | zodiaco"],
+      "pt": ["signo de Aquário", "água | aquário | signo de Aquário | zodíaco"],
+      "it": [
+        "Segno zodiacale dell’Acquario",
+        "Acquario | segno zodiacale | Segno zodiacale dell’Acquario | zodiaco"
+      ],
+      "ro": [
+        "zodia Vărsător",
+        "apă | horoscop | vărsător | zodia vărsător | zodia Vărsător | zodiac | zodie"
+      ],
+      "he": ["מזל דלי", "גלגל המזלות | דלי | מזל | מים"],
+      "ar": ["الدلو", "أبراج | الأبراج | الدلو | برج | رمز"],
+      "tr": ["kova burcu", "burçlar | kova burcu"],
+      "vi": [
+        "Bảo Bình",
+        "Bảo Bình | cung hoàng đạo | lá số tử vi | người mang | nước"
+      ],
+      "nl": [
+        "waterman (sterrenbeeld)",
+        "Aquarius | dierenriem | drager | horoscoop | water | waterman"
+      ]
+    }
+  ],
+  "♓": [
+    "other",
+    "pisces",
+    {
+      "en": ["Pisces", "fish | horoscope | Pisces | zodiac"],
+      "ru": ["знак зодиака Рыбы", "гороскоп | знак | зодиак | рыба | рыбы"],
+      "pl": ["Ryby", "ryby | Ryby | znak zodiaku | zodiak"],
+      "fr": [
+        "poissons",
+        "astrologie | horoscope | poissons | Poissons | zodiaque"
+      ],
+      "de": [
+        "Fische (Sternzeichen)",
+        "Fische | Fische (Sternzeichen) | Horoskop | Sternzeichen"
+      ],
+      "es": ["Piscis", "horóscopo | pescado | pez | Piscis | zodiaco"],
+      "pt": ["signo de Peixes", "peixes | signo de Peixes | zodíaco"],
+      "it": [
+        "Segno zodiacale dei Pesci",
+        "oroscopo | Pesci | segno zodiacale | Segno zodiacale dei Pesci | zodiaco"
+      ],
+      "ro": [
+        "zodia Pești",
+        "horoscop | pești | zodia pești | zodia Pești | zodiac | zodie"
+      ],
+      "he": ["מזל דגים", "גלגל המזלות | דגים | מזל"],
+      "ar": ["الحوت", "أبراج | الأبراج | الحوت | برج | رمز"],
+      "tr": ["balık burcu", "balık burcu | burçlar"],
+      "vi": ["Song Ngư", "con cá | cung hoàng đạo | lá số tử vi | Song Ngư"],
+      "nl": [
+        "vissen (sterrenbeeld)",
+        "dierenriem | horoscoop | Pisces | vissen"
+      ]
+    }
+  ],
+  "♔": ["other", "white chess king", {}],
+  "♕": ["other", "white chess queen", {}],
+  "♖": ["other", "white chess rook", {}],
+  "♗": ["other", "white chess bishop", {}],
+  "♘": ["other", "white chess knight", {}],
+  "♙": ["other", "white chess pawn", {}],
+  "♚": ["other", "black chess king", {}],
+  "♛": ["other", "black chess queen", {}],
+  "♜": ["other", "black chess rook", {}],
+  "♝": ["other", "black chess bishop", {}],
+  "♞": ["other", "black chess knight", {}],
+  "♟": [
+    "other",
+    "black chess pawn",
+    {
+      "en": ["chess pawn", "chess | dupe | expendable | pawn"],
+      "ru": ["пешка", "игра | пешка | фигура | шахматная фигура | шахматы"],
+      "pl": ["pionek", "pionek | szachy"],
+      "fr": ["pion d’échec", "duper | échec | pion d’échec | sacrifiable"],
+      "de": ["Bauer Schach", "Bauer Schach | Schach"],
+      "es": ["peón de ajedrez", "ajedrez | peón | peón de ajedrez"],
+      "pt": ["peão de xadrez", "peão | peão de xadrez | truque | xadrez"],
+      "it": [
+        "pedina degli scacchi",
+        "pedina | pedina degli scacchi | sacrificabile | scacchi | scacco matto"
+      ],
+      "ro": ["pion de șah", "consumabil | de sacrificiu | pion de șah | șah"],
+      "he": ["פיון בשחמט", "פיון | פיון בשחמט | רגלי | שח | שחמט"],
+      "ar": ["بيدق", "بيدق | جندي | شطرنج | ضعيف"],
+      "tr": ["piyon", "harcanabilir | kullanılma | piyon | satranç"],
+      "vi": ["quân tốt", "bịp | cờ | quân tốt | thí tốt | tốt"],
+      "nl": ["pion", "pion | schaken | slachtoffer | waardeloos"]
+    }
+  ],
+  "♠": [
+    "other",
+    "black spade suit",
+    {
+      "en": ["spade suit", "card | game | spade | suit"],
+      "ru": ["пики", "игра | карты | масть | пики"],
+      "pl": ["pik", "gra | karta | pik | talia"],
+      "fr": ["pique", "carte | couleur | jeu | pique"],
+      "de": ["Pik", "Karten | Kartenspiel | Pik"],
+      "es": ["palo de picas", "carta | juego | palo | palo de picas | picas"],
+      "pt": [
+        "naipe de espadas",
+        "baralho | carta | espadas | jogo | naipe | naipe de espadas"
+      ],
+      "it": ["picche", "carte | picche | seme"],
+      "ro": [
+        "pică",
+        "cărți | inimă | inimă neagră | inimă neagră la cărți | joc | negru | pică"
+      ],
+      "he": ["קלף עלה", "משחק | עלה | קלף | קלפים"],
+      "ar": [
+        "ورقة البستوني",
+        "بطاقة | رمز | كرت | كوتشينة | لعبة | ورق شدة | ورقة | ورقة البستوني"
+      ],
+      "tr": ["maça", "iskambil | kart | maça | pik"],
+      "vi": ["bộ bích", "bài | bộ bài bích | bộ bích | trò chơi"],
+      "nl": ["schoppen", "kaart | kaarten | schoppen | spel"]
+    }
+  ],
+  "♡": ["other", "white heart suit", {}],
+  "♢": ["other", "white diamond suit", {}],
+  "♣": [
+    "other",
+    "black club suit",
+    {
+      "en": ["club suit", "card | club | clubs | game | suit"],
+      "ru": ["трефы", "игра | карты | масть | трефы"],
+      "pl": ["trefl", "gra | karta | talia | trefl"],
+      "fr": [
+        "trèfle cartes",
+        "cartes à jouer | couleur | jeu | noir | trèfle | trèfle cartes"
+      ],
+      "de": ["Kreuz", "Kartenspiel | Kreuz"],
+      "es": [
+        "palo de tréboles",
+        "carta | juego | palo | palo de tréboles | tréboles"
+      ],
+      "pt": [
+        "naipe de paus",
+        "baralho | carta | jogo | naipe | naipe de paus | paus"
+      ],
+      "it": ["fiori", "carte | fiori | seme"],
+      "ro": ["treflă", "cărți | joc | treflă | treflă la cărți"],
+      "he": ["קלף תלתן", "משחק | קלף | קלפים | תלתן"],
+      "ar": [
+        "ورقة لعب بشكل شجرة",
+        "أوراق | رمز | سباتي | شجرة | كوتشينة | لعبة | نادي | نوادٍ | ورق شدة | ورق لعب | ورقة لعب بشكل شجرة"
+      ],
+      "tr": ["sinek", "iskambil | kart | sinek | trefl"],
+      "vi": ["bộ nhép", "bài | bộ bài nhép | bộ nhép | trò chơi"],
+      "nl": ["klaveren", "kaart | kaarten | klaver | klaveren | spel"]
+    }
+  ],
+  "♤": ["other", "white spade suit", {}],
+  "♥": [
+    "other",
+    "black heart suit",
+    {
+      "en": ["heart suit", "card | emotion | game | heart | hearts | suit"],
+      "ru": ["червы", "игра | карты | масть | червы"],
+      "pl": ["kier", "gra | karta | kier | kocham | talia"],
+      "fr": [
+        "cœur cartes",
+        "cartes à jouer | cœur | cœur cartes | couleur | jeu | rouge"
+      ],
+      "de": ["Herz", "Herz | Kartenspiel"],
+      "es": [
+        "palo de corazones",
+        "carta | corazones | juego | palo | palo de corazones"
+      ],
+      "pt": ["naipe de copas", "baralho | carta | copas | jogo | naipe | s2"],
+      "it": ["cuori", "carte | cuore | cuori | seme"],
+      "ro": [
+        "cupă",
+        "cărți | cupă | dragoste | inimă | inimă roșie | inimă roșie la cărți | iubire | joc | roșu"
+      ],
+      "he": ["קלף לב", "אהבה | לב | משחק | קלף"],
+      "ar": [
+        "ورقة قلب أحمر",
+        "رمز | قلب | قلوب | كوتشينة | لعبة | ورق شدة | ورقة | ورقة قلب أحمر"
+      ],
+      "tr": ["kupa", "iskambil | kart | kör | kupa"],
+      "vi": ["bộ cơ", "bài | bộ bài cơ | bộ cơ | trò chơi"],
+      "nl": ["harten", "hart | harten | kaart | kaarten | spel"]
+    }
+  ],
+  "♦": [
+    "other",
+    "black diamond suit",
+    {
+      "en": ["diamond suit", "card | diamond | game | suit"],
+      "ru": ["бубны", "бубны | игра | карты | масть"],
+      "pl": ["karo", "gra | karo | karta | talia"],
+      "fr": ["carreau", "carreau | carreaux | carte | couleur | jeu"],
+      "de": ["Karo", "Karo | Kartenspiel"],
+      "es": [
+        "palo de diamantes",
+        "carta | diamantes | juego | palo | palo de diamantes"
+      ],
+      "pt": [
+        "naipe de ouros",
+        "baralho | carta | jogo | naipe | naipe de ouros | ouro"
+      ],
+      "it": ["quadri", "carte | quadri | rombo | seme"],
+      "ro": ["caro", "caro | carou | cărți | joc | romb | romb la cărți"],
+      "he": ["קלף יהלום", "יהלום | משחק | קלף"],
+      "ar": [
+        "ورقة لعب بشكل ماسة",
+        "بطاقة | رمز | لعب | ماسة | ورق | ورق شدة | ورقة لعب بشكل ماسة"
+      ],
+      "tr": ["karo", "baklava | iskambil | karo | kart | kırmızı"],
+      "vi": ["bộ rô", "bài | bộ bài rô | bộ rô | trò chơi"],
+      "nl": ["ruiten", "kaart | kaarten | ruit | ruiten | spel | vorm"]
+    }
+  ],
+  "♧": ["other", "white club suit", {}],
+  "♨": [
+    "other",
+    "hot springs",
+    {
+      "en": ["hot springs", "hot | hotsprings | springs | steaming"],
+      "ru": ["горячие источники", "гейзер | горячие | источники | пар | поток"],
+      "pl": ["gorące źródła", "gorące | gorące źródła | para | woda | źródło"],
+      "fr": ["sources chaudes", "chaud | source | sources chaudes | vapeur"],
+      "de": [
+        "heiße Quellen",
+        "Dampf | dampfend | heiß | heiße Quelle | heiße Quellen | Quelle | Quellen"
+      ],
+      "es": ["aguas termales", "aguas termales | termas | vapor"],
+      "pt": ["chamas", "calor | chamas | fogo | fumaça | quente"],
+      "it": [
+        "sorgenti termali",
+        "acqua sorgente | acqua termale | sorgenti termali | terme"
+      ],
+      "ro": [
+        "izvoare termale",
+        "aburi | apă | căldură | fierbinte | izvoare termale | izvor | izvor termal"
+      ],
+      "he": ["מעיינות חמים", "אדים | חם | מעיינות | מעיינות חמים | קיטור"],
+      "ar": [
+        "ينابيع ساخنة",
+        "رمز | ساخن | عيون | متبخر | يغلي | ينابيع ساخنة | ينبوع ساخن"
+      ],
+      "tr": ["kaplıca", "hamam | ılıca | kaplıca | sıcak"],
+      "vi": ["suối nước nóng", "hơi nước | nóng | suối | suối nước nóng"],
+      "nl": ["warmwaterbronnen", "bronnen | stomend | warm | warmwaterbronnen"]
+    }
+  ],
+  "♩": ["other", "quarter note", {}],
+  "♪": [
+    "other",
+    "eighth note",
+    {
+      "en": ["eighth note", "eighth | music | note"],
+      "ru": ["восьмая нота", "восьмая | музыка | нота"],
+      "pl": ["ósemka", "muzyka | nuta | ósemka"],
+      "fr": ["croche", "croche | musique | note"],
+      "de": ["Achtelnote", "Achtel | Achtelnote | Musik | Note"],
+      "es": ["corchea", "corchea | música | nota"],
+      "pt": ["colcheia", "colcheia | música | nota"],
+      "it": ["croma", "croma | musica | ottavo"],
+      "ro": ["optime", "muzică | muzicală | notă | optime"],
+      "he": ["שמינית תו", "מוזיקה | מקצב | שמינית תו | תו"],
+      "ar": ["ذات السن", "ذات السن | موسيقى | نغمة"],
+      "tr": ["sekizinci nota", "müzik | nota | sekizinci"],
+      "vi": ["nốt móc đơn", "âm nhạc | móc đơn | nốt | nốt móc đơn | phần tám"],
+      "nl": ["achtste noot", "achtste | muziek | noot"]
+    }
+  ],
+  "♫": ["other", "beamed eighth notes", {}],
+  "♬": ["other", "beamed sixteenth notes", {}],
+  "♭": [
+    "other",
+    "music flat sign",
+    {
+      "en": ["flat", "bemolle | flat | music | note"],
+      "ru": ["бемоль", "бемоль | музыка | нота"],
+      "pl": ["bemol", "bemol | muzyka | ton | znak chromatyczny"],
+      "fr": ["bémol", "bémol | musique | note"],
+      "de": [
+        "Erniedrigungszeichen",
+        "erniedrigt | Erniedrigungszeichen | Halbton niedriger | Musik | Note"
+      ],
+      "es": ["bemol", "bemol | música | nota"],
+      "pt": ["bemol", "bemol | música | nota"],
+      "it": ["bemolle", "bemolle | musica | nota"],
+      "ro": ["bemol", "bemol | muzică | notă"],
+      "he": ["במול", "במול | מוזיקה | סולם מינורי | תו"],
+      "ar": ["خفض", "بيمول | خفض | موسيقى | نغمة"],
+      "tr": ["düz", "bemol | düz | müzik | nota"],
+      "vi": ["nốt giáng", "âm nhạc | giáng | nốt"],
+      "nl": ["mol", "mol | molteken | muziek | noot"]
+    }
+  ],
+  "♮": ["other", "music natural sign", {}],
+  "♰": ["other", "west syriac cross", {}],
+  "♱": ["other", "east syriac cross", {}],
+  "♲": ["other", "universal recycling symbol", {}],
+  "♳": ["other", "recycling symbol for type-1 plastics", {}],
+  "♴": ["other", "recycling symbol for type-2 plastics", {}],
+  "♵": ["other", "recycling symbol for type-3 plastics", {}],
+  "♶": ["other", "recycling symbol for type-4 plastics", {}],
+  "♷": ["other", "recycling symbol for type-5 plastics", {}],
+  "♸": ["other", "recycling symbol for type-6 plastics", {}],
+  "♹": ["other", "recycling symbol for type-7 plastics", {}],
+  "♺": ["other", "recycling symbol for generic materials", {}],
+  "♻": [
+    "other",
+    "black universal recycling symbol",
+    {
+      "en": ["recycling symbol", "recycle | recycling | symbol"],
+      "ru": [
+        "утилизация",
+        "мусор | мусорный | отходы | переработка | переработка отходов | утилизация"
+      ],
+      "pl": ["recykling", "odpady | recykling | surowce wtórne"],
+      "fr": ["symbole Recyclage", "recyclage | symbole Recyclage"],
+      "de": [
+        "Recycling-Symbol",
+        "grüne Punkt | grüner Punkt | Recycling | Recycling-Symbol"
+      ],
+      "es": [
+        "símbolo de reciclaje",
+        "reciclaje | reciclar | señal | símbolo de reciclaje | símbolo universal de reciclaje sólido | universal"
+      ],
+      "pt": [
+        "símbolo de reciclagem",
+        "reciclagem | reclicar | símbolo de reciclagem | símbolo de reciclagem sólido universal | sinal"
+      ],
+      "it": [
+        "simbolo del riciclaggio",
+        "raccolta differenziata | riciclaggio | riciclare | riciclo | simbolo | simbolo del riciclaggio"
+      ],
+      "ro": [
+        "simbolul pentru reciclare",
+        "reciclare | simbol reciclare | simbolul pentru reciclare"
+      ],
+      "he": ["סמל מיחזור", "אקולוגיה | מחזור | מיחזור | סביבה | סמל מיחזור"],
+      "ar": [
+        "رمز تدوير",
+        "إشارة | اعادة تدوير | تدوير | رمز تدوير | صلبة | علامة تدوير النفايات الصلبة"
+      ],
+      "tr": [
+        "geri dönüşüm simgesi",
+        "evrensel | geri dönüşüm | geri dönüşüm simgesi | işaret | koyu renk evrensel geri dönüşüm simgesi"
+      ],
+      "vi": ["biểu tượng tái chế", "biểu tượng tái chế | tái chế"],
+      "nl": ["recycling-symbool", "recycle | recycling | symbool"]
+    }
+  ],
+  "♼": ["other", "recycled paper symbol", {}],
+  "♽": ["other", "partially-recycled paper symbol", {}],
+  "♾": [
+    "other",
+    "permanent paper sign",
+    {
+      "en": ["infinity", "forever | infinity | unbounded | universal"],
+      "ru": [
+        "бесконечность",
+        "бесконечность | знак бесконечности | навсегда | постоянно"
+      ],
+      "pl": ["nieskończoność", "bezgraniczność | nieskończoność | wieczność"],
+      "fr": ["infini", "éternité | illimité | infini | universel"],
+      "de": ["Unendlichkeit", "ewig | grenzenlos | unendlich | Unendlichkeit"],
+      "es": ["infinito", "ilimitado | infinito | siempre | universal"],
+      "pt": ["infinito", "eternidade | ilimitado | infinito | universal"],
+      "it": [
+        "simbolo dell’infinito",
+        "eternità | illimitato | per sempre | simbolo dell’infinito | universale"
+      ],
+      "ro": ["infinit", "etern | infinit | nelimitat | universal"],
+      "he": ["אינסוף", "אוניברסלי | אין-סוף | אינסוף | בלתי מוגבל"],
+      "ar": [
+        "اللا نهاية",
+        "إلى الأبد | اللا نهائية | اللا نهاية | المالا نهاية | مالا نهاية"
+      ],
+      "tr": ["sonsuz", "evrensel | sınırsız | sonsuz | sonsuzluk"],
+      "vi": ["vô cực", "mãi mãi | toàn cầu | vô cực | vô tận"],
+      "nl": ["oneindig", "eeuwig | grenzeloos | oneindig | universeel"]
+    }
+  ],
+  "♿": [
+    "other",
+    "wheelchair symbol",
+    {
+      "en": ["wheelchair symbol", "access | handicap | symbol | wheelchair"],
+      "ru": [
+        "значок «для инвалидов»",
+        "возможности | доступ | значок | инвалид | инвалидная | коляска"
+      ],
+      "pl": [
+        "symbol wózka inwalidzkiego",
+        "dostępność | inwalida | inwalidzki | inwalidzkiego | na wózku | niepełnosprawność | niepełnosprawny | symbol | wózek | wózka | znak"
+      ],
+      "fr": [
+        "symbole Accès handicapés",
+        "accès | accès handicapés | fauteuil roulant | mobilité réduite | symbole Accès handicapés"
+      ],
+      "de": [
+        "Symbol „Rollstuhl“",
+        "barrierefrei | behindertengerecht | Rollstuhl | Symbol „Rollstuhl“"
+      ],
+      "es": [
+        "símbolo de silla de ruedas",
+        "acceso | señal | silla | silla de ruedas | símbolo | símbolo de silla de ruedas"
+      ],
+      "pt": [
+        "símbolo de cadeira de rodas",
+        "acesso | cadeira | rodas | símbolo | sinal"
+      ],
+      "it": [
+        "simbolo della disabilità",
+        "accesso | accesso sedia a rotelle | disabile | sedia a rotelle | simbolo | simbolo della disabilità | simbolo sedia a rotelle"
+      ],
+      "ro": [
+        "simbol pentru scaun cu rotile",
+        "acces | accesibil | accesibilitate | handicap | roți | scaun cu rotile | simbol pentru cărucior cu rotile | simbol pentru scaun cu rotile | simbol scaun cu rotile"
+      ],
+      "he": [
+        "שלט לנכים בלבד",
+        "גישה | לנכים בלבד | נגיש | נכה | נכים | שלט לנכים בלבד"
+      ],
+      "ar": ["كرسي متحرك", "إشارة | دخول | رمز | رمز كرسي متحرك | كرسي متحرك"],
+      "tr": [
+        "tekerlekli sandalye sembolü",
+        "erişim | işaret | tekerlekli sandalye | tekerlekli sandalye erişimi | tekerlekli sandalye sembolü | tekerlekli sandalye simgesi"
+      ],
+      "vi": [
+        "biểu tượng xe lăn",
+        "biểu tượng xe lăn | lối vào | người khuyết tật | xe lăn"
+      ],
+      "nl": ["rolstoelsymbool", "handicap | rolstoel | symbool | toegang"]
+    }
+  ],
+  "⚀": ["other", "die face-1", {}],
+  "⚁": ["other", "die face-2", {}],
+  "⚂": ["other", "die face-3", {}],
+  "⚃": ["other", "die face-4", {}],
+  "⚄": ["other", "die face-5", {}],
+  "⚅": ["other", "die face-6", {}],
+  "⚆": ["other", "white circle with dot right", {}],
+  "⚇": ["other", "white circle with two dots", {}],
+  "⚈": ["other", "black circle with white dot right", {}],
+  "⚉": ["other", "black circle with two white dots", {}],
+  "⚊": ["other", "monogram for yang", {}],
+  "⚋": ["other", "monogram for yin", {}],
+  "⚌": ["other", "digram for greater yang", {}],
+  "⚍": ["other", "digram for lesser yin", {}],
+  "⚎": ["other", "digram for lesser yang", {}],
+  "⚏": ["other", "digram for greater yin", {}],
+  "⚐": ["other", "white flag", {}],
+  "⚑": ["other", "black flag", {}],
+  "⚒": [
+    "other",
+    "hammer and pick",
+    {
+      "en": ["hammer and pick", "hammer | pick | tool"],
+      "ru": [
+        "кирка и молот",
+        "инструмент | кирка | кирка и молот | молот | молот и кирка | молоток | серп и молот | строитель | строить | шахта"
+      ],
+      "pl": ["młoty", "kilof | młot | młoty | narzędzia"],
+      "fr": [
+        "marteau et pioche",
+        "burin | marteau | marteau et burin | marteau et pioche | outil | outils | pioche"
+      ],
+      "de": [
+        "Hammer und Pickel",
+        "Arbeiter | Hammer | Hammer und Pickel | Pickel | Werkzeug"
+      ],
+      "es": [
+        "martillo y pico",
+        "herramienta | martillo | martillo y pico | pico"
+      ],
+      "pt": [
+        "martelo e picareta",
+        "ferramenta | geologia | martelo | picareta"
+      ],
+      "it": [
+        "piccone e martello",
+        "attrezzi | lavori manuali | manodopera | martello | operaio | piccone e martello | utensili"
+      ],
+      "ro": [
+        "ciocan și daltă",
+        "cheie | ciocan | ciocan și daltă | daltă | instrument | târnăcop"
+      ],
+      "he": [
+        "פטיש ומכוש",
+        "בנייה | חפירה | כלי עבודה | מכוש | עבודה | פטיש | פטיש ומכוש"
+      ],
+      "ar": ["مطرقة ومثقاب", "أداة | ثقب | دق | شاكوش | مطرقة | مطرقة ومثقاب"],
+      "tr": [
+        "çekiç ve kazma",
+        "alet | çekiç | çekiç ve kazma | inşaat | kazma"
+      ],
+      "vi": ["búa và búa chim", "búa | búa chim | búa và búa chim | dụng cụ"],
+      "nl": [
+        "twee hamers",
+        "gereedschap | hamer | hamer en pikhouweel | hamers | pikhouweel | twee hamers"
+      ]
+    }
+  ],
+  "⚓": [
+    "other",
+    "anchor",
+    {
+      "en": ["anchor", "anchor | ship | tool"],
+      "ru": ["якорь", "корабль | якорь"],
+      "pl": ["kotwica", "kotwica | morze | ocean | okręt | przyrząd | statek"],
+      "fr": ["ancre", "ancre | bateau | outil | voyage"],
+      "de": ["Anker", "Anker | Hafen | Meer"],
+      "es": ["ancla", "ancla | barco | gancho"],
+      "pt": ["âncora", "âncora | marinha | navegar | sinal"],
+      "it": ["ancora", "ancora | mare | marina | marinaio | nave | simbolo"],
+      "ro": ["ancoră", "ancoră | ancorare | instrument | navă | vapor | vas"],
+      "he": ["עוגן", "אוניה | אונייה | ספינה | עוגן"],
+      "ar": ["مرساة", "إشارة | اداة | سفينة | مرساة"],
+      "tr": [
+        "çıpa",
+        "çapa | çıpa | denizci | denizcilik | gemi | işaret | tekne"
+      ],
+      "vi": ["mỏ neo", "dụng cụ | mỏ neo | tàu"],
+      "nl": ["anker", "anker | hulpmiddel | schip"]
+    }
+  ],
+  "⚔": [
+    "other",
+    "crossed swords",
+    {
+      "en": ["crossed swords", "crossed | swords | weapon"],
+      "ru": [
+        "скрещенные мечи",
+        "битва | два меча | крестоносец | крестоносцы | мечи | оружие | рыцарь | скрещение мечей | скрещенные | холодное оружие"
+      ],
+      "pl": [
+        "skrzyżowane miecze",
+        "biała broń | broń | miecz | miecze | skrzyżowane"
+      ],
+      "fr": ["épées croisées", "arme | armes | croisées | épées"],
+      "de": [
+        "gekreuzte Schwerter",
+        "gekreuzt | gekreuzte Schwerter | Gekreuzte Schwerter | Schwerter | Waffe"
+      ],
+      "es": ["espadas cruzadas", "arma | cruzadas | espadas"],
+      "pt": [
+        "espadas cruzadas",
+        "arma | batalha | cruzadas | espadas | guerra"
+      ],
+      "it": [
+        "spade incrociate",
+        "armi | combattimento | duello | sfida | spada | spade | spade incrociate"
+      ],
+      "ro": [
+        "săbii încrucișate",
+        "arme | bătălie | încrucișare | încrucișate | luptă | săbii încrucișate | spade"
+      ],
+      "he": ["חרבות מוצלבות", "חרבות | כלי נשק | מוצלבות"],
+      "ar": ["سيفان متصالبان", "سلاح | سيفان | سيفان متصالبان | معقوق"],
+      "tr": [
+        "çapraz kılıçlar",
+        "çapraz | çapraz kılıçlar | çarpı | çatma | kılıç | silah"
+      ],
+      "vi": ["kiếm bắt chéo", "bắt chéo | kiếm | kiếm bắt chéo | vũ khí"],
+      "nl": [
+        "gekruiste zwaarden",
+        "degens gekruist | gekruist | gekruiste zwaarden | wapen | zwaarden"
+      ]
+    }
+  ],
+  "⚕": [
+    "other",
+    "staff of aesculapius",
+    {
+      "en": [
+        "medical symbol",
+        "aesculapius | medical | medicine | staff | symbol"
+      ],
+      "ru": [
+        "медицинский символ",
+        "аптека | асклепий | врачевание | жезл | лекарства | лекарство | лечение | медицина | медицинский символ | посох | посох со змеей"
+      ],
+      "pl": [
+        "symbol medycyny",
+        "eskulap | laska | medycyna | symbol | symbol medycyny"
+      ],
+      "fr": ["caducée", "caducée | docteur | Esculape | médecine | personnel"],
+      "de": [
+        "Äskulapstab",
+        "Apotheke | Arznei | Asklepiosstab | Äskulapstab | Medizin"
+      ],
+      "es": [
+        "símbolo de medicina",
+        "asclepio | esculapio | medicina | serpiente | símbolo de medicina"
+      ],
+      "pt": [
+        "símbolo da medicina",
+        "bastão de asclépio | esculápio | medicina | símbolo | símbolo da medicina"
+      ],
+      "it": [
+        "simbolo della medicina",
+        "bastone di esculapio | medicina | medico | simbolo della medicina"
+      ],
+      "ro": [
+        "simbol medical",
+        "Asclepios | Esculap | medicamente | medicină | personal | simbol medical"
+      ],
+      "he": [
+        "סמל הרפואה",
+        "אל הרפואה במיתולוגיה היוונית והרומית | אסקלפיוס | סמל הרפואה | רפואה"
+      ],
+      "ar": ["رمز طبي", "رمز | رمز طبي | صيدلية | طب | فريق | فريق طبي"],
+      "tr": [
+        "tıp sembolü",
+        "Asklepios | medikal sembol | medikal sembolü | personel | tıbbi sembol | tıp | tıp çalışanı | tıp sembolü"
+      ],
+      "vi": ["biểu tượng y tế", "biểu tượng y tế | cán bộ | rắn thần | y học"],
+      "nl": ["esculaap", "esculaap | medicijnen | medisch | staf | symbool"]
+    }
+  ],
+  "⚖": [
+    "other",
+    "scales",
+    {
+      "en": [
+        "balance scale",
+        "balance | justice | Libra | scale | scales | tool | weight | zodiac"
+      ],
+      "ru": [
+        "весы",
+        "весы | взвешивание | знак | зодиак | правосудие | справедливость"
+      ],
+      "pl": [
+        "waga szalkowa",
+        "ciężar | narzędzie | równowaga | sprawiedliwość | szalki | waga | waga szalkowa | ważyć | zodiak"
+      ],
+      "fr": [
+        "balance à poids",
+        "astrologie | balance | balance à poids | horoscope | justice | poids | zodiaque"
+      ],
+      "de": ["Waage", "Gerechtigkeit | Gewicht | Waage | Werkzeug | wiegen"],
+      "es": ["balanza", "balanza | justicia | libra | peso | zodiaco"],
+      "pt": [
+        "balança",
+        "balança | ferramenta | justiça | libra | peso | zodíaco"
+      ],
+      "it": [
+        "bilancia a doppio piatto",
+        "bilancia | bilancia a doppio piatto | chili | giustizia | grammi | pesare | piatti della bilancia | segno zodiacale | utensile"
+      ],
+      "ro": [
+        "balanță",
+        "balanță | cântar | cântărit | dreptate | egalitate | greutate | instrument | justiție | zodiac | zodie"
+      ],
+      "he": ["מאזניים", "בית משפט | גלגל המזלות | מאזניים | משפט | משקל | צדק"],
+      "ar": [
+        "ميزان",
+        "أداة | برج | برج الميزان | توازن | عدالة | كفتان | ميزان | وزن"
+      ],
+      "tr": [
+        "terazi",
+        "adalet | ağırlık | alet | burç | denge | ölçek | terazi"
+      ],
+      "vi": [
+        "cân thăng bằng",
+        "cân | cân thăng bằng | công lý | cung hoàng đạo | thăng bằng | Thiên Bình"
+      ],
+      "nl": [
+        "weegschaal",
+        "balans | dierenriem | gerechtigheid | gewichten | horoscoop | Libra | recht | sterrenbeeld | weegschaal | weegschaal in balans"
+      ]
+    }
+  ],
+  "⚗": [
+    "other",
+    "alembic",
+    {
+      "en": ["alembic", "alembic | chemistry | tool"],
+      "ru": ["перегонный сосуд", "аппарат | куб | перегонный | сосуд | химия"],
+      "pl": [
+        "alembik",
+        "alembik | chemia | kolba | menzurka | naczynie | probówka | szklane"
+      ],
+      "fr": ["alambic", "alambic | chimie | outil"],
+      "de": ["Destillierapparat", "Destillierapparat | Werkzeug"],
+      "es": ["alambique", "alambique | herramienta | química"],
+      "pt": ["alambique", "alambique | ferramenta | química"],
+      "it": ["alambicco", "alambicco | chimica | esperimento | strumento"],
+      "ro": ["alambic", "alambic | chimie | instrument"],
+      "he": ["מבחנת כימיה", "כימיה | מבחנה | מעבדה | ניסוי"],
+      "ar": [
+        "أمبيق",
+        "أداة | أمبيق | اداة | انبيق | تقطير | جهاز تقطير | كيمياء | مختبر"
+      ],
+      "tr": ["imbik", "alet | damıtıcı | imbik | kimya"],
+      "vi": ["bình chưng cất", "bình chưng cất | dụng cụ | hóa học"],
+      "nl": ["distilleerkolf", "distilleerkolf | gereedschap | scheikunde"]
+    }
+  ],
+  "⚘": ["other", "flower", {}],
+  "⚙": [
+    "other",
+    "gear",
+    {
+      "en": ["gear", "cog | cogwheel | gear | tool"],
+      "ru": [
+        "шестеренка",
+        "деталь | зубчатое | колесо | шестеренка | шестерня"
+      ],
+      "pl": [
+        "koło zębate",
+        "kółko | koło zębate | skrzynia biegów | zębate | zębatka"
+      ],
+      "fr": ["roue dentée", "engrenage | outil | roue dentée"],
+      "de": ["Zahnrad", "Werkzeug | Zahnrad"],
+      "es": ["engranaje", "engranaje | herramienta"],
+      "pt": ["engrenagem", "engrenagem | ferramenta"],
+      "it": [
+        "ingranaggio",
+        "componente | ingranaggio | meccanismo | ruota dentata"
+      ],
+      "ro": [
+        "rotiță zimțată",
+        "instrument | roată | roată dințată | roată zimțată | rotiță | rotiță dințată | rotiță zimțată | setări | zimți"
+      ],
+      "he": ["גלגל שיניים", "גלגל שיניים | מנגנון"],
+      "ar": ["ترس", "أداة | اعدادات | بكرة | ترس | مسننة"],
+      "tr": ["dişli", "alet | dişli"],
+      "vi": ["bánh răng", "bánh răng | dụng cụ"],
+      "nl": [
+        "tandwiel",
+        "gereedschap | instellingen | radertje | tandrad | tandwiel"
+      ]
+    }
+  ],
+  "⚚": ["other", "staff of hermes", {}],
+  "⚛": [
+    "other",
+    "atom symbol",
+    {
+      "en": ["atom symbol", "atheist | atom | symbol"],
+      "ru": [
+        "символ атома",
+        "атеизм | атеист | атом | атомный | символ | частица"
+      ],
+      "pl": ["symbol atomu", "atom | symbol atomu"],
+      "fr": ["symbole de l’atome", "athée | atome | symbole de l’atome"],
+      "de": ["Atomzeichen", "Atheist | Atom | Atomzeichen"],
+      "es": ["símbolo de átomo", "átomo | símbolo | símbolo de átomo"],
+      "pt": [
+        "símbolo de átomo",
+        "ateísmo | ateu | átomo | símbolo de átomo | símbolo do ateísmo"
+      ],
+      "it": [
+        "simbolo dell’atomo",
+        "ateismo | atomo | fisica | simbolo dell’atomo"
+      ],
+      "ro": [
+        "simbol pentru atom",
+        "ateu | atom | simbol atom | simbol de atom | simbol pentru atom"
+      ],
+      "he": ["סמל האטום", "אטום | אתאיזם | אתאיסט | גרעיני | כור | סמל אטום"],
+      "ar": ["نووي", "إلحاد | رمز | نواة | نووي"],
+      "tr": ["atom sembolü", "ateist | atom | atom sembolü"],
+      "vi": [
+        "biểu tượng nguyên tử",
+        "biểu tượng nguyên tử | người vô thần | nguyên tử"
+      ],
+      "nl": ["atoomsymbool", "atheïst | atoom | symbool"]
+    }
+  ],
+  "⚜": [
+    "other",
+    "fleur-de-lis",
+    {
+      "en": ["fleur-de-lis", "fleur-de-lis | knights"],
+      "ru": [
+        "геральдическая лилия",
+        "геральдика | геральдическая лилия | герб | лилия | фигура | флер-де-лис"
+      ],
+      "pl": ["lilijka", "fleur-de-lis | harcerze | lilijka | rycerz"],
+      "fr": [
+        "fleur de lys",
+        "blason | fleur de lis | fleur de lys | reine | roi | royauté française"
+      ],
+      "de": ["Lilie", "Fleur-de-Lis | Lilie"],
+      "es": ["flor de lis", "flor | flor de lis | lis"],
+      "pt": ["flor-de-lis", "cavaleiros | flor-de-lis | símbolo"],
+      "it": [
+        "giglio araldico",
+        "araldica | fiore | giglio | giglio araldico | simbolo | stemma"
+      ],
+      "ro": [
+        "floare de crin stilizată",
+        "cavaleri | crin | fleur de lis | floare de crin | floare de crin stilizată"
+      ],
+      "he": ["שושן צחור", "חבצלת | מלוכה | פלר דה ליס | שושן צחור"],
+      "ar": ["زنبقة", "رمز | زنبقة | زهرة | فارس | كشاف"],
+      "tr": ["zambak", "fleur-de-lis | zambak"],
+      "vi": ["hoa diên vĩ", "hiệp sĩ | hoa bách hợp | hoa diên vĩ"],
+      "nl": ["fleur de lis", "fleur-de-lis | ridders"]
+    }
+  ],
+  "⚝": ["other", "outlined white star", {}],
+  "⚞": ["other", "three lines converging right", {}],
+  "⚟": ["other", "three lines converging left", {}],
+  "⚠": [
+    "other",
+    "warning sign",
+    {
+      "en": ["warning", "caution | warning"],
+      "ru": [
+        "значок предупреждения",
+        "восклицательный | желтый | знак | оповещение | осторожно | предупреждение | треугольный"
+      ],
+      "pl": [
+        "ostrzeżenie",
+        "ostrzeżenie | uwaga | wykrzyknik | znak ostrzegawczy"
+      ],
+      "fr": [
+        "symbole d’avertissement",
+        "attention | avertissement | symbole d’avertissement"
+      ],
+      "de": ["Warnung", "Achtung | Dreieck | Vorsicht | Warnschild | Warnung"],
+      "es": ["advertencia", "advertencia | cuidado | señal"],
+      "pt": ["aviso", "atenção | aviso | cuidado | sinal"],
+      "it": [
+        "simbolo di avviso",
+        "attenzione | pericolo | punto esclamativo | simbolo | simbolo di avviso | triangolo"
+      ],
+      "ro": ["avertisment", "atenție | avertisment | avertizare"],
+      "he": ["שלט אזהרה", "אזהרה | זהירות | סכנה | שלט אזהרה"],
+      "ar": ["إشارة تحذير", "إشارة | اشارة | تحذير | تنبيه | رمز"],
+      "tr": ["uyarı işareti", "dikkat | işaret | uyarı | uyarı işareti"],
+      "vi": ["cảnh báo", "cảnh báo | thận trọng"],
+      "nl": ["waarschuwing", "voorzichtig | waarschuwing"]
+    }
+  ],
+  "⚡": [
+    "other",
+    "high voltage sign",
+    {
+      "en": [
+        "high voltage",
+        "danger | electric | electricity | high | lightning | nature | thunder | thunderbolt | voltage | zap"
+      ],
+      "ru": [
+        "высокое напряжение",
+        "буря | высоковольтное | высокое напряжение | гром | молниеносный | молния | напряжение | опасность | электричество"
+      ],
+      "pl": [
+        "wysokie napięcie",
+        "błysk | błyskawica | elektryczność | napięcie | niebezpieczeństwo | piorun | prąd | wysokie napięcie"
+      ],
+      "fr": [
+        "haute tension",
+        "courant | danger | éclair | électricité | haute tension | nature | orage | symbole haute tension | tension | vitesse"
+      ],
+      "de": [
+        "Hochspannung",
+        "Blitz | Elektrizität | Gefahr | Gewitter | Hochspannung | Hochspannungszeichen | Strom"
+      ],
+      "es": [
+        "alto voltaje",
+        "alto voltaje | electricidad | peligro | peligro de alto voltaje | señal de alto voltaje | voltaje"
+      ],
+      "pt": [
+        "alta tensão",
+        "alta | eletricidade | natureza | perigo | relâmpago | sinal | tensão"
+      ],
+      "it": [
+        "alta tensione",
+        "alta | fulmine | pericolo | simbolo | tensione | tuono"
+      ],
+      "ro": [
+        "înaltă tensiune",
+        "curent | electric | electricitate | fulger | înaltă tensiune | natură | pericol | tunet | voltaj | voltaj mare"
+      ],
+      "he": ["ברק", "ברק | חשמל | מתח גבוה | סכנה"],
+      "ar": [
+        "جهد كهربي عالٍ",
+        "إشارة | إشارة جهد كهربي عالٍ | إشارة فولت عال | برق | توتر عالي | جهد كهربي عالٍ | خطر | خطر جهد كهربي عالٍ | خطر فولت عال | صاعقة | طبيعة | فولت عال | كهرباء"
+      ],
+      "tr": [
+        "yüksek voltaj",
+        "doğa | elektrik | fırtına | işaret | şimşek | tehlike | voltaj | yıldırım | yüksek | yüksek voltaj işareti | yüksek voltaj tehlikesi"
+      ],
+      "vi": [
+        "điện cao thế",
+        "cú đánh | điện | điện cao thế | nguy hiểm | sét | tự nhiên"
+      ],
+      "nl": [
+        "hoog voltage",
+        "bliksem | donderslag | elektriciteit | elektrisch | gevaar | hoog voltage | schok | spanning | voltage"
+      ]
+    }
+  ],
+  "⚢": ["other", "doubled female sign", {}],
+  "⚣": ["other", "doubled male sign", {}],
+  "⚤": ["other", "interlocked female and male sign", {}],
+  "⚥": ["other", "male and female sign", {}],
+  "⚦": ["other", "male with stroke sign", {}],
+  "⚧": [
+    "other",
+    "male with stroke and male and female sign",
+    {
+      "en": ["transgender symbol", "symbol | transgender"],
+      "ru": [
+        "трансгендер",
+        "символ | трансгендер | трансгендерная | трансгендерное | трансгендерные | трансгендерный"
+      ],
+      "pl": [
+        "symbol transpłciowości",
+        "symbol transpłciowości | transpłciowość"
+      ],
+      "fr": [
+        "symbole de la communauté transgenre",
+        "symbole de la communauté transgenre | transgenre"
+      ],
+      "de": [
+        "Transgender-Symbol",
+        "Symbol für Transgender | Transgender | Transgender-Symbol"
+      ],
+      "es": ["símbolo de transgénero", "símbolo de transgénero | transgénero"],
+      "pt": ["símbolo transgênero", "símbolo transgênero | transgênero"],
+      "it": ["simbolo transgender", "simbolo transgender | transgender"],
+      "ro": ["transgender", "simbol transgender | transgender"],
+      "he": ["סמל לטרנסג׳נדר", "טרנסג׳נדר | סמל לטרנסג׳נדר"],
+      "ar": [
+        "رمز المتحوّلين جنسيًا",
+        "رمز المتحوّلين جنسيًا | متحوّل جنسيًا | متحوّلة جنسيًا"
+      ],
+      "tr": [
+        "transgender sembolü",
+        "transgender | transgender sembolü | transseksüel"
+      ],
+      "vi": [
+        "biểu tượng chuyển giới",
+        "biểu tượng chuyển giới | người chuyển giới"
+      ],
+      "nl": ["transgendersymbool", "transgender | transgendersymbool"]
+    }
+  ],
+  "⚨": ["other", "vertical male with stroke sign", {}],
+  "⚩": ["other", "horizontal male with stroke sign", {}],
+  "⚪": [
+    "other",
+    "medium white circle",
+    {
+      "en": ["white circle", "circle | geometric | white"],
+      "ru": ["белый круг", "белый | геометрия | круг | фигура | шар"],
+      "pl": ["białe koło", "białe | figura geometryczna | kółko | koło"],
+      "fr": [
+        "disque blanc",
+        "blanc | cercle | disque blanc | forme géométrique | géométrie | rond"
+      ],
+      "de": [
+        "weißer Punkt",
+        "Ball | Großer weißer Kreis | Kreis | Punkt | weiß | weißer Punkt"
+      ],
+      "es": ["círculo blanco", "círculo | círculo blanco | geometría"],
+      "pt": ["círculo branco", "branco | círculo | geométrico"],
+      "it": [
+        "cerchio bianco",
+        "bianco | cerchio | cerchio bianco grande | geometria"
+      ],
+      "ro": [
+        "cerc alb",
+        "alb | bulină albă | cerc | figură geometrică | formă geometrică | geometric"
+      ],
+      "he": ["עיגול לבן", "לבן | עיגול | צורה"],
+      "ar": ["دائرة بيضاء", "دائرة | دائرة بيضاء | شكل هندسي | هندسي"],
+      "tr": ["beyaz daire", "beyaz daire | daire | geometri"],
+      "vi": [
+        "hình tròn màu trắng",
+        "hình học | hình tròn | hình tròn màu trắng"
+      ],
+      "nl": ["witte cirkel", "cirkel | geometrisch | wit"]
+    }
+  ],
+  "⚫": [
+    "other",
+    "medium black circle",
+    {
+      "en": ["black circle", "black | circle | geometric"],
+      "ru": ["черный круг", "геометрия | круг | фигура | черный | шар"],
+      "pl": ["czarne koło", "czarne | figura geometryczna | kółko | koło"],
+      "fr": [
+        "disque noir",
+        "cercle | disque noir | forme géométrique | géométrie | noir | rond"
+      ],
+      "de": [
+        "schwarzer Punkt",
+        "Ball | Großer schwarzer Kreis | Kreis | Punkt | rund | schwarz | schwarzer Punkt"
+      ],
+      "es": ["círculo negro", "círculo | círculo negro | geometría"],
+      "pt": ["círculo preto", "círculo | geométrico | preto"],
+      "it": [
+        "cerchio nero",
+        "cerchio | cerchio nero grande | geometria | nero"
+      ],
+      "ro": [
+        "cerc negru",
+        "bulină neagră | cerc | figură geometrică | formă geometrică | geometric | negru"
+      ],
+      "he": ["עיגול שחור", "חור שחור | עיגול | צורה | שחור"],
+      "ar": ["دائرة سوداء", "دائرة | دائرة سوداء | شكل هندسي | هندسية"],
+      "tr": ["siyah daire", "daire | geometri | siyah daire"],
+      "vi": ["hình tròn màu đen", "hình học | hình tròn | hình tròn màu đen"],
+      "nl": ["zwarte cirkel", "cirkel | geometrisch | zwart"]
+    }
+  ],
+  "⚬": ["other", "medium small white circle", {}],
+  "⚭": ["other", "marriage symbol", {}],
+  "⚮": ["other", "divorce symbol", {}],
+  "⚯": ["other", "unmarried partnership symbol", {}],
+  "⚰": [
+    "other",
+    "coffin",
+    {
+      "en": ["coffin", "coffin | dead | death | vampire"],
+      "ru": ["гроб", "гибель | гроб | погребение | похороны | смерть"],
+      "pl": ["trumna", "pogrzeb | śmierć | trumna"],
+      "fr": ["cercueil", "cercueil | enterrement | mort | obsèques | vampire"],
+      "de": ["Sarg", "Beerdigung | Sarg | Tod | tot | Vampir"],
+      "es": ["ataúd", "ataúd | muerte"],
+      "pt": ["caixão", "caixão | caixão funerário | funeral | morte | velório"],
+      "it": ["bara", "bara | funerale | morte | sepoltura | vampiro"],
+      "ro": [
+        "coșciug",
+        "coșciug | înmormântare | moarte | mort | sicriu | vampir"
+      ],
+      "he": ["ארון קבורה", "ארון קבורה | לוויה | מוות | ערפד"],
+      "ar": ["تابوت", "تابوت | دفن | مصاص دماء | موت"],
+      "tr": ["tabut", "cenaze | ölüm | tabut"],
+      "vi": ["quan tài", "cái chết | quan tài"],
+      "nl": ["doodskist", "dood | doodskist | kist | vampier"]
+    }
+  ],
+  "⚱": [
+    "other",
+    "funeral urn",
+    {
+      "en": ["funeral urn", "ashes | death | funeral | urn"],
+      "ru": [
+        "урна с прахом",
+        "останки | пепел | похороны | прах | смерть | урна | урна с прахом"
+      ],
+      "pl": ["urna na prochy", "pogrzeb | śmierć | urna | urna na prochy"],
+      "fr": [
+        "urne funéraire",
+        "cendres | mort | obsèques | urne | urne funéraire"
+      ],
+      "de": ["Urne", "Beerdigung | Tod | tot | Urne"],
+      "es": ["urna funeraria", "funeraria | muerte | urna"],
+      "pt": [
+        "urna funerária",
+        "cinzas | funeral | morte | urna | urna funerária"
+      ],
+      "it": [
+        "urna funeraria",
+        "ceneri | funerale | morte | sepoltura | urna | urna cineraria | urna funeraria | vaso"
+      ],
+      "ro": [
+        "urnă funerară",
+        "cenușă | incinerare | înmormântare | moarte | urnă | urnă funerară"
+      ],
+      "he": ["כד אפר", "כד אפר | לוויה | מוות"],
+      "ar": ["رماد موتى", "جنازة | رماد | رماد موتى | وفاة"],
+      "tr": ["kül kavanozu", "cenaze | kül | kül kavanozu | ölüm | vazo"],
+      "vi": [
+        "bình đựng tro cốt",
+        "bình đựng di cốt | bình đựng tro cốt | cái chết | tang lễ"
+      ],
+      "nl": ["urn", "as | begrafenis | dood | urn"]
+    }
+  ],
+  "⚲": ["other", "neuter", {}],
+  "⚳": ["other", "ceres", {}],
+  "⚴": ["other", "pallas", {}],
+  "⚵": ["other", "juno", {}],
+  "⚶": ["other", "vesta", {}],
+  "⚷": ["other", "chiron", {}],
+  "⚸": ["other", "black moon lilith", {}],
+  "⚹": ["other", "sextile", {}],
+  "⚺": ["other", "semisextile", {}],
+  "⚻": ["other", "quincunx", {}],
+  "⚼": ["other", "sesquiquadrate", {}],
+  "⚽": [
+    "other",
+    "soccer ball",
+    {
+      "en": ["soccer ball", "ball | football | futbol | soccer | sport"],
+      "ru": ["футбол", "игра | мяч | спорт | футбол | футбольный"],
+      "pl": ["piłka nożna", "futbolówka | mecz | nożna | piłka | sport"],
+      "fr": [
+        "ballon de football",
+        "balle | ballon | ballon de football | football | sport"
+      ],
+      "de": ["Fußball", "Ball | Bundesliga | Fußball | Messi"],
+      "es": ["balón de fútbol", "balón | balón de fútbol | fútbol"],
+      "pt": ["bola de futebol", "bola | futebol | jogar"],
+      "it": [
+        "pallone da calcio",
+        "calcetto | calcio | palla | pallone | pallone da calcio | sport"
+      ],
+      "ro": ["minge de fotbal", "fotbal | minge | minge de fotbal | sport"],
+      "he": ["כדורגל", "כדור | כדורגל | ספורט"],
+      "ar": ["كرة قدم", "جول | طابة | غول | فوتبول | قدم | كرة"],
+      "tr": ["futbol topu", "futbol | spor | top | topu"],
+      "vi": [
+        "bóng đá",
+        "bóng đá | quả bóng | thể thao | thể thao vua | túc cầu"
+      ],
+      "nl": ["voetbal", "bal | futsal | messi | ronaldo | sport | voetbal"]
+    }
+  ],
+  "⚾": [
+    "other",
+    "baseball",
+    {
+      "en": ["baseball", "ball | baseball | sport"],
+      "ru": ["бейсбол", "бейсбол | бейсбольный | игра | мяч | спорт"],
+      "pl": ["baseball", "baseball | mecz | piłka | sport"],
+      "fr": ["baseball", "balle | balle de baseball | baseball | sport"],
+      "de": ["Baseball", "Ball | Baseball"],
+      "es": ["béisbol", "balón | baseball | béisbol | pelota"],
+      "pt": ["bola de beisebol", "beisebol | bola | esportes"],
+      "it": [
+        "palla da baseball",
+        "baseball | battitore | guantone | mazza | palla da baseball | ricevitore | sport"
+      ],
+      "ro": ["baseball", "baseball | minge | sport"],
+      "he": ["כדור בסיס", "בייסבול | כדור | כדור בסיס | ספורט"],
+      "ar": ["بيسبول", "بيسبول | رياضة | طابة | كرة"],
+      "tr": ["beyzbol", "beyzbol | beyzbol topu | spor | top"],
+      "vi": ["bóng chày", "bóng chày | quả bóng | thể thao"],
+      "nl": ["honkbal", "bal | honkbal | sport"]
+    }
+  ],
+  "⚿": ["other", "squared key", {}],
+  "⛀": ["other", "white draughts man", {}],
+  "⛁": ["other", "white draughts king", {}],
+  "⛂": ["other", "black draughts man", {}],
+  "⛃": ["other", "black draughts king", {}],
+  "⛄": [
+    "other",
+    "snowman without snow",
+    {
+      "en": ["snowman without snow", "cold | man | snow | snowman"],
+      "ru": [
+        "снеговик",
+        "снег | снеговик | снеговичок | снежная баба | снежная скульптура | фигура | человек | человечек"
+      ],
+      "pl": [
+        "bałwanek bez śniegu",
+        "bałwan | bałwan bez śniegu | bałwanek | bałwanek bez śniegu | pogoda | śnieg | zabawa na śniegu | zimno"
+      ],
+      "fr": [
+        "bonhomme de neige sans neige",
+        "bonhomme de neige | bonhomme de neige sans flocons | bonhomme de neige sans neige | froid | neige"
+      ],
+      "de": [
+        "Schneemann ohne Schneeflocken",
+        "kalt | Schnee | Schneemann | Schneemann ohne Schneeflocken | Winter"
+      ],
+      "es": [
+        "muñeco de nieve",
+        "muñeco de nieve | muñeco de nieve sin nieve | nieve"
+      ],
+      "pt": ["boneco de neve sem neve", "boneco | frio | inverno | neve"],
+      "it": [
+        "pupazzo di neve senza neve",
+        "inverno | natura | neve | pupazzo | pupazzo di neve | pupazzo di neve senza neve"
+      ],
+      "ro": [
+        "om de zăpadă fără zăpadă",
+        "frig | ger | om | om de zăpadă | om de zăpadă fără zăpadă | zăpadă"
+      ],
+      "he": ["איש שלג בלי שלג", "איש שלג | איש שלג בלי שלג | חורף"],
+      "ar": [
+        "رجل ثلج بدون ثلج متساقط",
+        "برد | ثلج | رجل ثلج | رجل ثلج بدون ثلج | رجل ثلج بدون ثلج متساقط | رجل من الثلج | صقيع | مثلج"
+      ],
+      "tr": [
+        "kar yağmadan kardan adam",
+        "kar | kar yağmadan kardan adam | kardan adam | karsız kardan adam | kış | soğuk"
+      ],
+      "vi": [
+        "người tuyết không có tuyết",
+        "lạnh | người tuyết | người tuyết không có tuyết | tuyết"
+      ],
+      "nl": [
+        "sneeuwpop zonder sneeuwvlokken",
+        "koud | sneeuw | sneeuwpop | sneeuwpop zonder sneeuwvlokken"
+      ]
+    }
+  ],
+  "⛅": [
+    "other",
+    "sun behind cloud",
+    {
+      "en": ["sun behind cloud", "behind | cloud | cloudy | sun | weather"],
+      "ru": [
+        "солнце за облаками",
+        "непогода | облака | облако | облачно | погода | солнце | солнце за облаками"
+      ],
+      "pl": [
+        "słońce zza chmury",
+        "chmura | pogoda | słońce | słońce zza chmury"
+      ],
+      "fr": [
+        "soleil derrière les nuages",
+        "caché | météo | nuage | nuageux | soleil | soleil derrière les nuages | soleil derrière nuages"
+      ],
+      "de": [
+        "Sonne hinter Wolke",
+        "Sonne | Sonne hinter Wolke | Wolke | wolkig"
+      ],
+      "es": [
+        "sol detrás de una nube",
+        "nube | sol | sol con nubes | sol detrás de una nube"
+      ],
+      "pt": ["sol por trás das nuvens", "clima | nublado | nuvem | sol"],
+      "it": [
+        "sole coperto",
+        "meteo | natura | nuvola | sole | sole con nuvole | sole coperto | variabile"
+      ],
+      "ro": [
+        "soare în nori",
+        "înnorat | meteo | nor | soare | soare în nori | vreme"
+      ],
+      "he": ["שמש מאחורי ענן", "מעונן | ענן | שמש | שמש מאחורי ענן"],
+      "ar": [
+        "شمس خلف السحب",
+        "سحابة | شمس | شمس خلف السحب | شمس مع سحب | طبيعة | غيمة | مغيم"
+      ],
+      "tr": [
+        "bulutlar ardındaki güneş",
+        "bulut | bulutlar ardındaki güneş | bulutlu güneş | güneş | hava | parçalı bulutlu"
+      ],
+      "vi": ["mặt trời sau đám mây", "mặt trời | mặt trời sau đám mây | mây"],
+      "nl": [
+        "zon achter wolk",
+        "weer | wolk | zon | zon achter wolk | zon achter wolken"
+      ]
+    }
+  ],
+  "⛆": ["other", "rain", {}],
+  "⛇": ["other", "black snowman", {}],
+  "⛈": [
+    "other",
+    "thunder cloud and rain",
+    {
+      "en": [
+        "cloud with lightning and rain",
+        "cloud | lightning | rain | thunder | thunderstorm"
+      ],
+      "ru": ["гроза", "гроза | гром | дождь | молния | облако | туча"],
+      "pl": [
+        "chmura z piorunem i deszczem",
+        "błyskawica | burza | chmura | deszcz | piorun | pogoda | z piorunem i deszczem"
+      ],
+      "fr": [
+        "nuage avec éclair et pluie",
+        "éclair | météo | nuage | nuage avec éclair et pluie | orage | pluie"
+      ],
+      "de": [
+        "Wolke mit Blitz und Regen",
+        "Blitz | Gewitter | Regen | Wetter | Wolke | Wolke mit Blitz und Regen | wolkig"
+      ],
+      "es": [
+        "nube con rayo y lluvia",
+        "lluvia | nube | nube con rayo y lluvia | trueno"
+      ],
+      "pt": [
+        "chuva com trovão",
+        "chuva | clima | nuvem | relâmpago | temporal | trovão"
+      ],
+      "it": [
+        "temporale",
+        "diluvio | fulmini | meteo | natura | nuvole | pioggia | temporale"
+      ],
+      "ro": [
+        "nor cu fulger și ploaie",
+        "fulger | furtună | nor | nor cu fulger și ploaie | ploaie | poaie cu fulger | soare | trăsnet | tunet | vreme"
+      ],
+      "he": [
+        "ענן עם ברק וגשם",
+        "ברק | גשם | חורף | סופה | ענן | ענן עם ברק וגשם"
+      ],
+      "ar": [
+        "سحابة وبرق ورعد",
+        "برق | رعد | سحابة | سحابة وبرق ورعد | شتاء | طقس | غمامة | غيمة | مطر"
+      ],
+      "tr": [
+        "şimşek ve yağmurlu bulut",
+        "bulut | gökgürültüsü | hava durumu | şimşek ve yağmurlu bulut | yağmur"
+      ],
+      "vi": [
+        "đám mây kèm chớp và mưa",
+        "đám mây kèm chớp và mưa | đám mây với tia chớp và mưa | mây | mưa | sấm"
+      ],
+      "nl": [
+        "wolk met bliksem en regen",
+        "onweer | regen | weer | wolk | wolk met bliksem en regen"
+      ]
+    }
+  ],
+  "⛉": ["other", "turned white shogi piece", {}],
+  "⛊": ["other", "turned black shogi piece", {}],
+  "⛋": ["other", "white diamond in square", {}],
+  "⛌": ["other", "crossing lanes", {}],
+  "⛍": ["other", "disabled car", {}],
+  "⛎": [
+    "other",
+    "ophiuchus",
+    {
+      "en": ["Ophiuchus", "bearer | Ophiuchus | serpent | snake | zodiac"],
+      "ru": ["знак зодиака Змееносец", "гороскоп | змееносец | знак | зодиак"],
+      "pl": ["Wężownik", "wężownik | Wężownik | znak zodiaku | zodiak"],
+      "fr": [
+        "serpentaire",
+        "ophiuchus | Ophiuchus | serpent | serpentaire | zodiaque"
+      ],
+      "de": ["Schlangenträger", "Schlagenträger | Schlangenträger | Sternbild"],
+      "es": ["Ofiuco", "horóscopo | Ofiuco | portador | serpiente | zodiaco"],
+      "pt": [
+        "signo de Ofiúco",
+        "cobra | Ofiúco | Ophiuchus | serpente | signo de Ofiúco | zodíaco"
+      ],
+      "it": [
+        "Segno zodiacale dell’Ofiuco",
+        "Ofiuco | segno zodiacale | Segno zodiacale dell’Ofiuco | zodiaco"
+      ],
+      "ro": [
+        "zodia Ofiucus",
+        "ofiucus | Ofiucus | șarpe | zodia Ofiucus | zodia ophicus | zodiac | zodie"
+      ],
+      "he": ["נושא הנחש", "גלגל המזלות | מזל | נושא הנחש"],
+      "ar": ["الحواء", "الأبراج | الحواء | برج | رمز"],
+      "tr": ["Yılancı", "burçlar | hain | iblis | yılan | Yılancı | zodyak"],
+      "vi": ["Xà Phu", "con rắn | cung hoàng đạo | người mang | rắn | Xà Phu"],
+      "nl": [
+        "slangendrager (sterrenbeeld)",
+        "dierenriem | drager | horoscoop | Ophiuchus | serpent | slang | slangendrager"
+      ]
+    }
+  ],
+  "⛏": [
+    "other",
+    "pick",
+    {
+      "en": ["pick", "hammer | mining | pick | tool"],
+      "ru": ["кирка", "добыча | инструмент | кирка | шахта"],
+      "pl": ["kilof", "górnicze | górnik | kilof | narzędzia | narzędzie"],
+      "fr": ["pioche", "mine | outil | pioche"],
+      "de": ["Pickel", "Pickel | Werkzeug"],
+      "es": ["pico", "herramienta | mina | pico"],
+      "pt": ["picareta", "ferramenta | mineração | picareta"],
+      "it": [
+        "piccone",
+        "attrezzo | miniera | picconare | piccone | scalare | scavare | utensile"
+      ],
+      "ro": [
+        "târnăcop",
+        "ciocan | instrument | minerit | pământ | săpat | târnăcop | unealtă"
+      ],
+      "he": ["מכוש", "חופר | חפירה | כלי עבודה | לחפור | מכוש"],
+      "ar": ["فأس", "أداة | اداة | تنقيب | شاكوش | فأس | منجم"],
+      "tr": ["kazma", "alet | kazma | maden"],
+      "vi": ["búa chim", "búa | búa chim | dụng cụ | khai mỏ"],
+      "nl": ["pikhouweel", "gereedschap | mijnbouw | pikhouweel"]
+    }
+  ],
+  "⛐": ["other", "car sliding", {}],
+  "⛑": [
+    "other",
+    "helmet with white cross",
+    {
+      "en": [
+        "rescue worker’s helmet",
+        "aid | cross | face | hat | helmet | rescue | worker’s"
+      ],
+      "ru": [
+        "каска с белым крестом",
+        "головной убор | каска с белым крестом | крест | лицо | спасатель | шлем"
+      ],
+      "pl": [
+        "kask z krzyżykiem",
+        "hełm | kask | krzyż | krzyżyk | medyk | pomoc | praca | ratownik | z krzyżykiem"
+      ],
+      "fr": [
+        "casque de secouriste",
+        "assistance | casque | casque croix blanche | casque de sauveteur | casque de secouriste | croix | secours"
+      ],
+      "de": [
+        "Rettungshelm",
+        "bergen | erste Hilfe | Helm | Helm mit weißem Kreuz | Hilfe | Kreuz | retten | Rettungshelm | roter Helm | Sanitäter"
+      ],
+      "es": [
+        "casco con una cruz blanca",
+        "ayuda | cara | casco | casco con una cruz blanca | cruz"
+      ],
+      "pt": [
+        "capacacete de socorrista",
+        "ajuda | branca | capacete | cruz | primeiros | resgate | rosto | salvamento | socorrista | socorros | vermelho"
+      ],
+      "it": [
+        "elmetto con croce bianca",
+        "bianca | croce | elmetto | elmetto con croce bianca | salvataggio | soccorso"
+      ],
+      "ro": [
+        "cască de pompier salvator",
+        "ajutor | cască | cască de pompier salvator | cruce | față | prim ajutor"
+      ],
+      "he": [
+        "קסדה עם צלב לבן",
+        "בטיחות | קסדה | קסדה עם צלב לבן | קסדת בטיחות"
+      ],
+      "ar": [
+        "خوذة رجل إنقاذ",
+        "إسعاف | خوذة | خوذة بصليب أبيض | خوذة رجل إنقاذ | صليب | قبعة | مساعدة | مسعف | وجه"
+      ],
+      "tr": [
+        "yardım ekibi kaskı",
+        "beyaz haçlı kask | haç | kask | meslek | şapka | yardım | yardım ekibi kaskı | yüz"
+      ],
+      "vi": [
+        "mũ bảo hiểm của lính cứu hộ",
+        "cái mũ | chữ thập | cứu | khuôn mặt | mũ bảo hiểm của lính cứu hộ | nón bảo hộ"
+      ],
+      "nl": [
+        "helm van reddingswerker",
+        "gezicht | helm | hoed | hulp | kruis | redding | werknemer"
+      ]
+    }
+  ],
+  "⛒": ["other", "circled crossing lanes", {}],
+  "⛓": [
+    "other",
+    "chains",
+    {
+      "en": ["chains", "chain | chains"],
+      "ru": ["цепь", "звено | звенья | цепи | цепочка | цепь"],
+      "pl": ["łańcuchy", "łańcuch | łańcuchy | ogniwa"],
+      "fr": ["chaînes", "chaîne | chaînes"],
+      "de": ["Ketten", "Eisen | Kette | Ketten"],
+      "es": ["cadenas", "cadena | cadenas"],
+      "pt": ["correntes", "corrente | metal"],
+      "it": [
+        "catene",
+        "anelli di una catena | catena | catene | imprigionare | incatenare"
+      ],
+      "ro": ["lanț", "lanț | lanțuri | zale"],
+      "he": ["שרשראות", "שלשלאות | שרשראות | שרשרת"],
+      "ar": ["سلاسل", "جنزير | سلاسل | سلسلة"],
+      "tr": ["zincir", "zincir"],
+      "vi": ["dây xích", "dây xích | xích"],
+      "nl": ["kettingen", "ketting | kettingen"]
+    }
+  ],
+  "⛓‍💥": [
+    "other",
+    "",
+    {
+      "en": [
+        "broken chain",
+        "break | breaking | broken | chain | cuffs | freedom"
+      ],
+      "ru": [
+        "разорванная цепь",
+        "оковы | разорванная цепь | разорвать | разрыв | свобода | цепь"
+      ],
+      "pl": [
+        "zerwany łańcuch",
+        "kajdany | łańcuch | wolność | zerwać | zerwanie | zerwany łańcuch"
+      ],
+      "fr": [
+        "chaîne brisée",
+        "chaîne | chaîne brisée | chaîne cassée | chaîne rompue | liberté"
+      ],
+      "de": [
+        "gebrochene Kette",
+        "brechen | Freiheit | gebrochen | gebrochene Kette | Handschellen | Kette | zerbrechen"
+      ],
+      "es": [
+        "cadena rota",
+        "cadena | cadena rota | esposas | libertad | romper | rotura"
+      ],
+      "pt": [
+        "corrente quebrada",
+        "algema | corrente | liberdade | quebrada | quebrando | quebrar"
+      ],
+      "it": [
+        "catena spezzata",
+        "catena spezzata | catene | libertà | manette | rompere | spezzare"
+      ],
+      "ro": ["lanț rupt", "cătușe | lanț | libertate | rupere | rupt"],
+      "he": [
+        "שרשרת שבורה",
+        "חירות | קטיעה | שבירה | שלשלאות | שרשרת | שרשרת שבורה"
+      ],
+      "ar": ["سلسلة مكسورة", "سلسلة مكسورة | يكسر، كسر، سلسلة، أصفاد، حرية"],
+      "tr": [
+        "zincirleri kırmak",
+        "kelepçe | kırık zincir | kırmak | özgürlük | patlama | zincir | zincirler | zincirleri kırmak"
+      ],
+      "vi": [
+        "xích bị đứt",
+        "bẻ gãy | còng tay | đứt | làm đứt | tự do | xích | xích bị đứt"
+      ],
+      "nl": [
+        "gebroken ketting",
+        "boeien | breek | gebroken | ketting | vrijheid"
+      ]
+    }
+  ],
+  "⛔": [
+    "other",
+    "no entry",
+    {
+      "en": [
+        "no entry",
+        "do | entry | fail | forbidden | no | not | pass | prohibited | traffic"
+      ],
+      "ru": [
+        "въезд запрещен",
+        "вход | въезд | запрещен | запрещено | кирпич | красный | круг | нет | стоп"
+      ],
+      "pl": [
+        "zakaz wjazdu",
+        "wejście | wstęp | zabroniony | zakaz | zakaz wjazdu"
+      ],
+      "fr": [
+        "sens interdit",
+        "circulation | entrée interdite | interdiction | interdit | non | panneau | sens interdit"
+      ],
+      "de": [
+        "Zutritt verboten",
+        "Einbahnstrasse | kein Zutritt | keine Durchfahrt | verboten | Zutritt verboten | Zutritt-verboten-Schild"
+      ],
+      "es": [
+        "dirección prohibida",
+        "dirección prohibida | no | prohibido | señal | señal de dirección prohibida"
+      ],
+      "pt": [
+        "entrada proibida",
+        "entrada | entre | não | placa | proibida | proibido | sinal | trânsito"
+      ],
+      "it": [
+        "segnale di divieto di accesso",
+        "accesso | divieto | divieto di accesso | proibito | segnale di divieto di accesso | simbolo | stop | vietato"
+      ],
+      "ro": [
+        "acces interzis",
+        "acces | interdicție | interzis | nu | nu treceți | pe aici nu se trece | trafic"
+      ],
+      "he": ["אין כניסה", "אין כניסה | אסור | לא | תמרור"],
+      "ar": [
+        "ممنوع الدخول",
+        "اشارة حمراء | بتاتا | رمز | غير مسموح | كلا | ممنوع | ممنوع الدخول | ممنوع المرور"
+      ],
+      "tr": [
+        "girilmez",
+        "Girilmez | girilmez işareti | hayır | işaret | yasak"
+      ],
+      "vi": [
+        "cấm vào",
+        "cấm | cấm vào | giao thông | không cho phép | lối vào"
+      ],
+      "nl": [
+        "geen toegang",
+        "belemmerd | doorgang | geen | ingang | mislukt | niet | toegang | verboden | verkeer"
+      ]
+    }
+  ],
+  "⛕": ["other", "alternate one-way left way traffic", {}],
+  "⛖": ["other", "black two-way left way traffic", {}],
+  "⛗": ["other", "white two-way left way traffic", {}],
+  "⛘": ["other", "black left lane merge", {}],
+  "⛙": ["other", "white left lane merge", {}],
+  "⛚": ["other", "drive slow sign", {}],
+  "⛛": ["other", "heavy white down-pointing triangle", {}],
+  "⛜": ["other", "left closed entry", {}],
+  "⛝": ["other", "squared saltire", {}],
+  "⛞": ["other", "falling diagonal in white circle in black square", {}],
+  "⛟": ["other", "black truck", {}],
+  "⛠": ["other", "restricted left entry-1", {}],
+  "⛡": ["other", "restricted left entry-2", {}],
+  "⛢": ["other", "astronomical symbol for uranus", {}],
+  "⛣": ["other", "heavy circle with stroke and two dots above", {}],
+  "⛤": ["other", "pentagram", {}],
+  "⛥": ["other", "right-handed interlaced pentagram", {}],
+  "⛦": ["other", "left-handed interlaced pentagram", {}],
+  "⛧": ["other", "inverted pentagram", {}],
+  "⛨": ["other", "black cross on shield", {}],
+  "⛩": [
+    "other",
+    "shinto shrine",
+    {
+      "en": ["shinto shrine", "religion | shinto | shrine"],
+      "ru": [
+        "синтоистский храм",
+        "религия | святилище | синто | синтоизм | синтоистский | храм | Япония"
+      ],
+      "pl": ["świątynia shinto", "japońska | religia | shinto | świątynia"],
+      "fr": [
+        "sanctuaire shinto",
+        "religion | sanctuaire shinto | shinto | voyage"
+      ],
+      "de": ["Shinto-Schrein", "Religion | Schrein | Shinto | Shinto-Schrein"],
+      "es": [
+        "santuario sintoísta",
+        "japón | religión | santuario | santuario sintoísta | sintoísmo"
+      ],
+      "pt": [
+        "santuário japonês",
+        "japonês | oriental | religião | santuário | xintoísmo"
+      ],
+      "it": [
+        "santuario shintoista",
+        "Cina | cinese | jinja | Jinja | religione | santuario shintoista"
+      ],
+      "ro": [
+        "altar shinto",
+        "altar | cult | religie | sanctuar | shinto | templu"
+      ],
+      "he": ["מקדש שינטו", "דת | יפן | מקדש | שינטו"],
+      "ar": ["ضريح", "دين | شنتو | ضريح"],
+      "tr": [
+        "Şinto tapınağı",
+        "din | şinto | şinto tapınağı | Şinto tapınağı | tapınak"
+      ],
+      "vi": [
+        "đền thờ Nhật Bản",
+        "đền thờ | đền thờ Nhật Bản | thần đạo | tôn giáo"
+      ],
+      "nl": [
+        "shinto-tempel",
+        "geloof | japans | poort | religie | shinto | shinto-tempel | tempel | torii"
+      ]
+    }
+  ],
+  "⛪": [
+    "other",
+    "church",
+    {
+      "en": [
+        "church",
+        "bless | chapel | Christian | church | cross | religion"
+      ],
+      "ru": [
+        "церковь",
+        "здание | монастырь | религия | собор | храм | христианство | церковь"
+      ],
+      "pl": [
+        "kościół",
+        "chrześcijański | kościół | krzyż | religia | świątynia"
+      ],
+      "fr": [
+        "église",
+        "bâtiment | chapelle | chrétien | croix | église | religion | voyage"
+      ],
+      "de": [
+        "Kirche",
+        "Christ | Christentum | christlich | Gebäude | Kirche | Kreuz | Religion"
+      ],
+      "es": ["iglesia", "cristianismo | cruz | edificio | iglesia | religión"],
+      "pt": [
+        "igreja",
+        "capela | cristã | cristão | igreja | missa | prédio | religião"
+      ],
+      "it": [
+        "chiesa",
+        "cappella | cattedrale | chiesa | cristianesimo | croce | edificio | religione"
+      ],
+      "ro": [
+        "biserică",
+        "binecuvântare | biserică | capelă | clădire | creștin | creștinism | Creștinism | cruce | religie | rugăciune"
+      ],
+      "he": ["כנסייה", "דת | כנסייה | נוצרי | נצרות"],
+      "ar": ["كنيسة", "كنيسة | مبنى | مسيحية"],
+      "tr": [
+        "kilise",
+        "bina | din | haç | hristiyan | Hristiyan | kilise | papaz"
+      ],
+      "vi": [
+        "nhà thờ",
+        "cầu nguyện | cây thánh giá | Đạo cơ đốc | nhà thờ | tôn giáo"
+      ],
+      "nl": ["kerk", "christelijk | geloof | kapel | kerk | kruis | religie"]
+    }
+  ],
+  "⛫": ["other", "castle", {}],
+  "⛬": ["other", "historic site", {}],
+  "⛭": ["other", "gear without hub", {}],
+  "⛮": ["other", "gear with handles", {}],
+  "⛯": ["other", "map symbol for lighthouse", {}],
+  "⛰": [
+    "other",
+    "mountain",
+    {
+      "en": ["mountain", "mountain"],
+      "ru": ["гора", "вершина | гора | пик"],
+      "pl": ["góra", "góra | góry | wycieczka"],
+      "fr": ["montagne", "montagne | nature | sommet | voyage"],
+      "de": ["Berg", "Berg | Gebirge"],
+      "es": ["montaña", "montaña | monte"],
+      "pt": ["montanha", "montanha | natureza"],
+      "it": ["montagna", "arrampicata | cima | montagna | vetta"],
+      "ro": ["munte", "masiv | munte | pisc | stâncă | vârf"],
+      "he": ["הר", "גבוה | הר"],
+      "ar": ["جبل", "جبل"],
+      "tr": ["dağ", "dağ"],
+      "vi": ["núi", "núi"],
+      "nl": ["berg", "berg"]
+    }
+  ],
+  "⛱": [
+    "other",
+    "umbrella on ground",
+    {
+      "en": ["umbrella on ground", "ground | rain | sun | umbrella"],
+      "ru": [
+        "пляжный зонт",
+        "аксессуар | дождь | защита | зонт | зонтик | непогода | пляж | пляжный зонт | солнце"
+      ],
+      "pl": [
+        "parasol plażowy wbity w ziemię",
+        "deszcz | parasol | parasol plażowy wbity w ziemię | plaża | pogoda | słońce | wakacje"
+      ],
+      "fr": [
+        "parasol sur le sol",
+        "météo | parapluie | parapluie au sol | parasol | parasol sur le sol | plage | pluie | soleil | voyage"
+      ],
+      "de": [
+        "aufgestellter Sonnenschirm",
+        "aufgestellt | aufgestellter Sonnenschirm | Aufgestellter Sonnenschirm | Sonnenschirm | Strand"
+      ],
+      "es": [
+        "sombrilla en la arena",
+        "arena | sol | sombrilla | sombrilla en la arena"
+      ],
+      "pt": [
+        "guarda-sol",
+        "chuva | clima | guarda-sol | praia | sol | sombra | sombrinha"
+      ],
+      "it": [
+        "ombrellone",
+        "estate | mare | meteo | ombrellone | sole | spiaggia | vacanza"
+      ],
+      "ro": ["umbrelă pe sol", "ploaie | soare | umbrelă | umbrelă pe sol"],
+      "he": ["שמשיה", "חוף | ים | צל | קיץ | שמשיה"],
+      "ar": ["شمسية على الأرض", "شمس | شمسية على الأرض | طقس | مطر | مظلة"],
+      "tr": [
+        "sabit şemsiye",
+        "gölge | güneş | hava durumu | kumsal | plaj | sabit şemsiye | şemsiye | yağmur"
+      ],
+      "vi": [
+        "cái ô trên mặt đất",
+        "cái ô trên mặt đất | chiếc ô | mặt trời | mưa | nắng"
+      ],
+      "nl": [
+        "strandparasol",
+        "parasol | parasol op de grond | regen | strandparasol | zon"
+      ]
+    }
+  ],
+  "⛲": [
+    "other",
+    "fountain",
+    {
+      "en": ["fountain", "fountain"],
+      "ru": ["фонтан", "брызги | вода | источник | родник | фонтан"],
+      "pl": ["fontanna", "fontanna"],
+      "fr": ["fontaine", "eau | fontaine"],
+      "de": ["Springbrunnen", "Brunnen | Garten | Park | Springbrunnen"],
+      "es": ["fuente", "fuente"],
+      "pt": ["fonte", "água | chafariz | fonte | praça"],
+      "it": ["fontana", "acqua | acqua che scorre | fontana"],
+      "ro": ["fântână arteziană", "apă | fântână | fântână arteziană"],
+      "he": ["מזרקה", "מזרקה | מים"],
+      "ar": ["نافورة", "ماء | مياه | نافورة"],
+      "tr": ["fıskiye", "çeşme | fıskiye | süs havuzu"],
+      "vi": ["đài phun nước", "đài phun nước"],
+      "nl": ["fontein", "fontein"]
+    }
+  ],
+  "⛳": [
+    "other",
+    "flag in hole",
+    {
+      "en": ["flag in hole", "flag | golf | hole | sport"],
+      "ru": ["гольф", "гольф | игра | лунка | поле | спорт | флаг | флажок"],
+      "pl": [
+        "flaga w dołku",
+        "flaga w dołku | golf | otwór | pole golfowe | sport"
+      ],
+      "fr": ["drapeau de golf", "drapeau de golf | golf | sport | trou"],
+      "de": ["Golffahne", "Golffahne | Golfplatz"],
+      "es": ["banderín en hoyo", "banderín | banderín en hoyo | golf | hoyo"],
+      "pt": ["bandeira no buraco", "bandeira | buraco | esporte | golfe"],
+      "it": [
+        "bandiera in buca",
+        "bandiera golf | bandiera in buca | bandierina | buca | golf"
+      ],
+      "ro": [
+        "steag în gaură la golf",
+        "gaură | golf | joc | sport | steag | steag în gaură la golf"
+      ],
+      "he": ["דגל גולף", "גולף | גומה | דגל | משחק"],
+      "ar": [
+        "علم على حفرة",
+        "جولف | حفرة | رياضة | علم جولف | علم على حفرة | علم غولف | غولف"
+      ],
+      "tr": [
+        "delikteki bayrak",
+        "delik | delikteki bayrak | golf | golf bayrağı"
+      ],
+      "vi": ["cờ trong lỗ", "cờ trong lỗ | gôn | lỗ | thể thao"],
+      "nl": ["vlag in hole", "golf | hole | sport | vlag in hole"]
+    }
+  ],
+  "⛴": [
+    "other",
+    "ferry",
+    {
+      "en": ["ferry", "boat | ferry | passenger"],
+      "ru": ["паром", "паром | перевозки | транспорт"],
+      "pl": ["prom", "łódka | łódź | pasażerski | prom | statek"],
+      "fr": ["ferry", "bateau | ferry | moyen de transport | voyage"],
+      "de": ["Fähre", "Fähre | Schiff"],
+      "es": ["ferri", "barco | ferri | ferry"],
+      "pt": [
+        "balsa",
+        "balsa | barco | ferry | ferry boat | ferry-boat | navegar"
+      ],
+      "it": [
+        "traghetto",
+        "barca | crociera | mare | nave | traghetto | traversata"
+      ],
+      "ro": [
+        "feribot",
+        "ambarcațiune | feribot | navă | pasageri | transport | vapor"
+      ],
+      "he": ["מעבורת", "אוניה | אונייה | אניה | מעבורת | נוסעים | ספינה"],
+      "ar": ["عبّارة", "زورق | سفر | سفينة | عبّارة | مركب"],
+      "tr": ["feribot", "arabalı vapur | feribot | gemi | tekne | vapur"],
+      "vi": ["phà", "hành khách | phà | thuyền"],
+      "nl": ["veerboot", "boot | passagier | veerboot | veerpont"]
+    }
+  ],
+  "⛵": [
+    "other",
+    "sailboat",
+    {
+      "en": ["sailboat", "boat | resort | sailboat | sailing | sea | yacht"],
+      "ru": ["парусник", "кораблик | лодка | отдых | парус | парусник | яхта"],
+      "pl": [
+        "żaglówka",
+        "jacht | łódka | łódź | morze | statek | wakacje | żaglówka"
+      ],
+      "fr": [
+        "voilier",
+        "bateau | mer | moyen de transport | plaisance | voilier | voyage | yacht"
+      ],
+      "de": ["Segelboot", "Boot | Segelboot"],
+      "es": ["velero", "barco | barco de vela | velero | yate"],
+      "pt": [
+        "barco a vela",
+        "barco | iate | navegar | oceano | praia | resort | vela"
+      ],
+      "it": [
+        "barca a vela",
+        "barca | barca a vela | località balneare | mare | sport | vacanza | vela | yacht"
+      ],
+      "ro": [
+        "barcă cu pânze",
+        "barcă | barcă cu pânze | iaht | navigație | pânze | stațiune | yacht"
+      ],
+      "he": ["סירת מפרש", "יאכטה | ים | מפרש | מפרשית | סירה | סירת מפרש"],
+      "ar": [
+        "مركب شراعي",
+        "شخطورة | قارب | مركب شراعي | منتجع | منتجع بحري | يخت"
+      ],
+      "tr": [
+        "yelkenli tekne",
+        "deniz tatil yeri | deniz tatili | tatil yeri | tekne | yat | yelkenli tekne"
+      ],
+      "vi": [
+        "thuyền buồm",
+        "biển | du thuyền | khu nghỉ dưỡng | thuyền | thuyền buồm"
+      ],
+      "nl": [
+        "zeilboot",
+        "boot | jacht | jachthaven | vaartuig | vervoermiddel | zee | zeilboot"
+      ]
+    }
+  ],
+  "⛶": ["other", "square four corners", {}],
+  "⛷": [
+    "other",
+    "skier",
+    {
+      "en": ["skier", "ski | skier | snow"],
+      "ru": [
+        "горные лыжи",
+        "горнолыжный | горные | лыжи | склон | скорость | спортсмен | человек"
+      ],
+      "pl": [
+        "narciarz",
+        "narciarz | narty | śnieg | sport | stok | zawody | zima"
+      ],
+      "fr": ["skieur", "neige | ski | skieur | sport"],
+      "de": [
+        "Skifahrer(in)",
+        "Schnee | Ski | Skifahrer | Skifahrer(in) | Skifahrerin | Sport"
+      ],
+      "es": [
+        "persona esquiando",
+        "esquí | esquiador | nieve | persona esquiando"
+      ],
+      "pt": ["esquiador", "esporte | esqui | esquiador | frio | neve"],
+      "it": [
+        "sciatore",
+        "neve | sci | sciare | sciatore | settimana bianca | sport"
+      ],
+      "ro": [
+        "persoană care schiază",
+        "nea | omăt | persoană care schiază | schi | schior | zăpadă"
+      ],
+      "he": ["גולש סקי", "גולש | ספורט | סקי | שלג"],
+      "ar": [
+        "متزلّج على الثلج",
+        "تزحلق | تزلج | ثلج | جليد | رياضة | سكي | متزلّج على الثلج"
+      ],
+      "tr": ["kayakçı", "kar | kayak | kayakçı"],
+      "vi": ["người trượt tuyết", "người trượt tuyết | trượt tuyết | tuyết"],
+      "nl": ["skiër", "ski | skiër | sneeuw"]
+    }
+  ],
+  "⛸": [
+    "other",
+    "ice skate",
+    {
+      "en": ["ice skate", "ice | skate | skating"],
+      "ru": [
+        "коньки",
+        "ботинок | катание | каток | конек | коньки | лед | лезвие | скорость | фигурное катание"
+      ],
+      "pl": [
+        "but z łyżwą",
+        "but z łyżwą | figurówki | lód | lodowisko | łyżwa | łyżwiarstwo | sport | zawody"
+      ],
+      "fr": [
+        "patin à glace",
+        "glace | patin | patin à glace | patiner | patinoire | sport"
+      ],
+      "de": ["Schlittschuh", "Eislauf | Schlittschuh"],
+      "es": ["patín de hielo", "hielo | patín | patín de hielo"],
+      "pt": ["patins de gelo", "gelo | patinação | patins"],
+      "it": [
+        "pattinaggio su ghiaccio",
+        "ghiaccio | pattinaggio artistico | pattinaggio su ghiaccio | pattini | sport"
+      ],
+      "ro": [
+        "patină de gheață",
+        "gheață | patină | patină de gheață | patinaj | patinaj pe gheață | patinoar"
+      ],
+      "he": ["נעל החלקה על קרח", "החלקה | נעל | נעל החלקה על קרח | קרח"],
+      "ar": [
+        "حذاء تزلج",
+        "تزلج | تزلج على الجليد | ثلج | جليد | حذاء تزلج | رياضة"
+      ],
+      "tr": ["buz pateni", "buz | buz pateni | paten"],
+      "vi": ["giày trượt băng", "băng | giày trượt băng"],
+      "nl": [
+        "schaats",
+        "ijs | kunstschaatsen | schaats | schaatsen | sport | witte schaats"
+      ]
+    }
+  ],
+  "⛹": [
+    "other",
+    "person with ball",
+    {
+      "en": [
+        "person bouncing ball",
+        "athletic | ball | basketball | bouncing | championship | dribble | net | person | player | throw"
+      ],
+      "ru": ["баскетболист", "баскетбол | баскетболист | ведение | игра | мяч"],
+      "pl": [
+        "osoba kozłująca piłkę",
+        "koszykarka | koszykarz | koszykówka | kozłować | kozłująca piłkę | mecz | osoba | piłka | sport"
+      ],
+      "fr": [
+        "personne avec ballon",
+        "athlétique | ballon | basket-ball | basketteur | dribble | joueur | match | personne | personne avec ballon | rebond | sport"
+      ],
+      "de": [
+        "Person mit Ball",
+        "Ball | Basketball | Basketballer | Basketballspieler | Basketballspielerin | Dribbeln | Person | Person mit Ball | Sport | Sportler | Sportlerin"
+      ],
+      "es": [
+        "persona botando un balón",
+        "balón | botar | pelota | persona botando un balón"
+      ],
+      "pt": [
+        "pessoa jogando basquete",
+        "arremesso | atleta | basquete | bater bola | bola | cesta | esporte | jogador | lance livre"
+      ],
+      "it": [
+        "persona che fa rimbalzare una palla",
+        "basket | campo | giocatore | giocatore di basket | palla | pallacanestro | palleggio | persona | persona che fa rimbalzare una palla | persona con la palla | sport"
+      ],
+      "ro": [
+        "persoană care bate mingea",
+        "baschet | dribling | jucător de baschet | minge | om | persoană care bate mingea | persoană cu minge | sport"
+      ],
+      "he": [
+        "הקפצת כדור",
+        "הקפצת כדור | ילד מכדרר כדורסל | ילד מקפיץ כדור | כדור | כדורסל | מקפיץ כדור | ספורט"
+      ],
+      "ar": [
+        "شخص وكرة",
+        "أشخاص | باسكت بول | رمية حرة | رياضة | رياضي | شخص وكرة | كرة | كرة سلة | مباراة | مراوغة"
+      ],
+      "tr": [
+        "top sektiren kişi",
+        "atletik | basketbol | basketbolcu | kişi | spor | sporcu | top | top sektiren kişi | top sürme | vücut"
+      ],
+      "vi": [
+        "người chơi bóng",
+        "bóng rổ | cầu thủ bóng rổ | ném sọt rổ | người chơi bóng | nhồi bóng | quả bóng | vận động viên | vô địch"
+      ],
+      "nl": [
+        "basketbalspeler",
+        "bal | basketbal | basketballer | basketbalspeler | dribbelen | NBA | persoon met bal | sport | vrije worp"
+      ]
+    }
+  ],
+  "⛹‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman bouncing ball",
+        "athletic | ball | basketball | bouncing | championship | dribble | net | player | throw | woman"
+      ],
+      "ru": [
+        "женщина с мячом",
+        "баскетбол | баскетболистка | женщина | мяч | спорт"
+      ],
+      "pl": [
+        "kobieta kozłująca piłkę",
+        "kobieta | koszykarka | koszykówka | kozłować | kozłująca piłkę | mecz | piłka | sport"
+      ],
+      "fr": [
+        "femme avec ballon",
+        "ballon | basket-ball | basketteuse | femme | femme avec ballon | sport"
+      ],
+      "de": [
+        "Frau mit Ball",
+        "Ball | Ballsport | Basketball | Basketballspieler | Frau | Frau mit Ball | Handball | Sport"
+      ],
+      "es": [
+        "mujer botando un balón",
+        "balón | botar | mujer | mujer botando un balón | pelota"
+      ],
+      "pt": [
+        "mulher jogando basquete",
+        "basketball | basquete | bola | esporte | garota | jogadora | jogo | menina | mulher"
+      ],
+      "it": [
+        "donna che fa rimbalzare una palla",
+        "basket | donna | donna che fa rimbalzare una palla | donna che gioca a basket | giocatrice | giocatrice di basket | palla | pallacanestro | persona con la palla | sport"
+      ],
+      "ro": [
+        "femeie care bate mingea",
+        "baschet | femeie | femeie care bate mingea | femeie cu minge | jucătoare de baschet | minge"
+      ],
+      "he": [
+        "אישה מקפיצה כדור",
+        "אישה | אישה מקפיצה כדור | כדור | כדורסל | כדורסלנית | מכדררת"
+      ],
+      "ar": [
+        "سيدة وكرة",
+        "باسكت بول | باسكتبول | رياضة | سيدة وكرة | شخص | طابة | كرة | كرة سلة | لاعبة باسكت بول | لاعبة كرة سلة"
+      ],
+      "tr": [
+        "top sektiren kadın",
+        "basketbol | basketbolcu | bayan | kadın | top | top sektiren kadın"
+      ],
+      "vi": [
+        "người phụ nữ chơi bóng",
+        "bóng | người phụ nữ chơi bóng | phụ nữ"
+      ],
+      "nl": [
+        "basketbalster",
+        "bal | basketbal | basketbalster | sport | vrouw | vrouw met bal"
+      ]
+    }
+  ],
+  "⛹‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man bouncing ball",
+        "athletic | ball | basketball | bouncing | championship | dribble | man | net | player | throw"
+      ],
+      "ru": ["мужчина с мячом", "баскетбол | мужчина | мяч | спорт"],
+      "pl": [
+        "mężczyzna kozłujący piłkę",
+        "koszykarz | koszykówka | kozłować | kozłujący piłkę | mecz | mężczyzna | piłka | sport"
+      ],
+      "fr": ["homme avec ballon", "ballon | homme | homme avec ballon"],
+      "de": ["Mann mit Ball", "Ballsport | Handball | Mann | Mann mit Ball"],
+      "es": [
+        "hombre botando un balón",
+        "balón | botar | hombre | hombre botando un balón | pelota"
+      ],
+      "pt": [
+        "homem jogando basquete",
+        "basquete | bola | esporte | homem | homem jogando basquete"
+      ],
+      "it": [
+        "uomo che fa rimbalzare una palla",
+        "palla | sport | uomo | uomo che fa rimbalzare una palla"
+      ],
+      "ro": [
+        "bărbat care bate mingea",
+        "bărbat | bărbat care bate mingea | minge"
+      ],
+      "he": ["גבר מקפיץ כדור", "איש | גבר | גבר מקפיץ כדור | כדור"],
+      "ar": ["رجل وكرة", "رجل وكرة | كرة"],
+      "tr": ["top sektiren erkek", "adam | erkek | top | top sektiren erkek"],
+      "vi": [
+        "người đàn ông chơi bóng",
+        "bóng | đàn ông | người đàn ông chơi bóng"
+      ],
+      "nl": ["basketballer", "bal | basketballer | man"]
+    }
+  ],
+  "⛹🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person bouncing ball: light skin tone",
+        "athletic | ball | basketball | bouncing | championship | dribble | light skin tone | net | person | player | throw"
+      ],
+      "ru": [
+        "баскетболист: очень светлый тон кожи",
+        "баскетбол | баскетболист | ведение | игра | мяч | очень светлый тон кожи"
+      ],
+      "pl": [
+        "osoba kozłująca piłkę: karnacja jasna",
+        "karnacja jasna | koszykarka | koszykarz | koszykówka | kozłować | kozłująca piłkę | mecz | osoba | piłka | sport"
+      ],
+      "fr": [
+        "personne avec ballon : peau claire",
+        "athlétique | ballon | basket-ball | basketteur | dribble | joueur | match | peau claire | personne | personne avec ballon | rebond | sport"
+      ],
+      "de": [
+        "Person mit Ball: helle Hautfarbe",
+        "Ball | Basketball | Basketballer | Basketballspieler | Basketballspielerin | Dribbeln | helle Hautfarbe | Person | Person mit Ball | Sport | Sportler | Sportlerin"
+      ],
+      "es": [
+        "persona botando un balón: tono de piel claro",
+        "balón | botar | pelota | persona botando un balón | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa jogando basquete: pele clara",
+        "arremesso | atleta | basquete | bater bola | bola | cesta | esporte | jogador | lance livre | pele clara"
+      ],
+      "it": [
+        "persona che fa rimbalzare una palla: carnagione chiara",
+        "basket | campo | carnagione chiara | giocatore | giocatore di basket | palla | pallacanestro | palleggio | persona | persona che fa rimbalzare una palla | persona con la palla | sport"
+      ],
+      "ro": [
+        "persoană care bate mingea: ton deschis al pielii",
+        "baschet | dribling | jucător de baschet | minge | om | persoană care bate mingea | persoană cu minge | sport | ton deschis al pielii"
+      ],
+      "he": [
+        "הקפצת כדור: גוון עור בהיר",
+        "גוון עור בהיר | הקפצת כדור | ילד מכדרר כדורסל | ילד מקפיץ כדור | כדור | כדורסל | מקפיץ כדור | ספורט"
+      ],
+      "ar": [
+        "شخص وكرة: بشرة بلون فاتح",
+        "أشخاص | باسكت بول | بشرة بلون فاتح | رمية حرة | رياضة | رياضي | شخص وكرة | كرة | كرة سلة | مباراة | مراوغة"
+      ],
+      "tr": [
+        "top sektiren kişi: açık cilt tonu",
+        "açık cilt tonu | atletik | basketbol | basketbolcu | kişi | spor | sporcu | top | top sektiren kişi | top sürme | vücut"
+      ],
+      "vi": [
+        "người chơi bóng: màu da sáng",
+        "bóng rổ | cầu thủ bóng rổ | màu da sáng | ném sọt rổ | người chơi bóng | nhồi bóng | quả bóng | vận động viên | vô địch"
+      ],
+      "nl": [
+        "basketbalspeler: lichte huidskleur",
+        "bal | basketbal | basketballer | basketbalspeler | dribbelen | lichte huidskleur | NBA | persoon met bal | sport | vrije worp"
+      ]
+    }
+  ],
+  "⛹🏻‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman bouncing ball: light skin tone",
+        "athletic | ball | basketball | bouncing | championship | dribble | light skin tone | net | player | throw | woman"
+      ],
+      "ru": [
+        "женщина с мячом: очень светлый тон кожи",
+        "баскетбол | баскетболистка | женщина | мяч | очень светлый тон кожи | спорт"
+      ],
+      "pl": [
+        "kobieta kozłująca piłkę: karnacja jasna",
+        "karnacja jasna | kobieta | koszykarka | koszykówka | kozłować | kozłująca piłkę | mecz | piłka | sport"
+      ],
+      "fr": [
+        "femme avec ballon : peau claire",
+        "ballon | basket-ball | basketteuse | femme | femme avec ballon | peau claire | sport"
+      ],
+      "de": [
+        "Frau mit Ball: helle Hautfarbe",
+        "Ball | Ballsport | Basketball | Basketballspieler | Frau | Frau mit Ball | Handball | helle Hautfarbe | Sport"
+      ],
+      "es": [
+        "mujer botando un balón: tono de piel claro",
+        "balón | botar | mujer | mujer botando un balón | pelota | tono de piel claro"
+      ],
+      "pt": [
+        "mulher jogando basquete: pele clara",
+        "basketball | basquete | bola | esporte | garota | jogadora | jogo | menina | mulher | pele clara"
+      ],
+      "it": [
+        "donna che fa rimbalzare una palla: carnagione chiara",
+        "basket | carnagione chiara | donna | donna che fa rimbalzare una palla | donna che gioca a basket | giocatrice | giocatrice di basket | palla | pallacanestro | persona con la palla | sport"
+      ],
+      "ro": [
+        "femeie care bate mingea: ton deschis al pielii",
+        "baschet | femeie | femeie care bate mingea | femeie cu minge | jucătoare de baschet | minge | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה מקפיצה כדור: גוון עור בהיר",
+        "אישה | אישה מקפיצה כדור | גוון עור בהיר | כדור | כדורסל | כדורסלנית | מכדררת"
+      ],
+      "ar": [
+        "سيدة وكرة: بشرة بلون فاتح",
+        "باسكت بول | باسكتبول | بشرة بلون فاتح | رياضة | سيدة وكرة | شخص | طابة | كرة | كرة سلة | لاعبة باسكت بول | لاعبة كرة سلة"
+      ],
+      "tr": [
+        "top sektiren kadın: açık cilt tonu",
+        "açık cilt tonu | basketbol | basketbolcu | bayan | kadın | top | top sektiren kadın"
+      ],
+      "vi": [
+        "người phụ nữ chơi bóng: màu da sáng",
+        "bóng | màu da sáng | người phụ nữ chơi bóng | phụ nữ"
+      ],
+      "nl": [
+        "basketbalster: lichte huidskleur",
+        "bal | basketbal | basketbalster | lichte huidskleur | sport | vrouw | vrouw met bal"
+      ]
+    }
+  ],
+  "⛹🏻‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man bouncing ball: light skin tone",
+        "athletic | ball | basketball | bouncing | championship | dribble | light skin tone | man | net | player | throw"
+      ],
+      "ru": [
+        "мужчина с мячом: очень светлый тон кожи",
+        "баскетбол | мужчина | мяч | очень светлый тон кожи | спорт"
+      ],
+      "pl": [
+        "mężczyzna kozłujący piłkę: karnacja jasna",
+        "karnacja jasna | koszykarz | koszykówka | kozłować | kozłujący piłkę | mecz | mężczyzna | piłka | sport"
+      ],
+      "fr": [
+        "homme avec ballon : peau claire",
+        "ballon | homme | homme avec ballon | peau claire"
+      ],
+      "de": [
+        "Mann mit Ball: helle Hautfarbe",
+        "Ballsport | Handball | helle Hautfarbe | Mann | Mann mit Ball"
+      ],
+      "es": [
+        "hombre botando un balón: tono de piel claro",
+        "balón | botar | hombre | hombre botando un balón | pelota | tono de piel claro"
+      ],
+      "pt": [
+        "homem jogando basquete: pele clara",
+        "basquete | bola | esporte | homem | homem jogando basquete | pele clara"
+      ],
+      "it": [
+        "uomo che fa rimbalzare una palla: carnagione chiara",
+        "carnagione chiara | palla | sport | uomo | uomo che fa rimbalzare una palla"
+      ],
+      "ro": [
+        "bărbat care bate mingea: ton deschis al pielii",
+        "bărbat | bărbat care bate mingea | minge | ton deschis al pielii"
+      ],
+      "he": [
+        "גבר מקפיץ כדור: גוון עור בהיר",
+        "איש | גבר | גבר מקפיץ כדור | גוון עור בהיר | כדור"
+      ],
+      "ar": ["رجل وكرة: بشرة بلون فاتح", "بشرة بلون فاتح | رجل وكرة | كرة"],
+      "tr": [
+        "top sektiren erkek: açık cilt tonu",
+        "açık cilt tonu | adam | erkek | top | top sektiren erkek"
+      ],
+      "vi": [
+        "người đàn ông chơi bóng: màu da sáng",
+        "bóng | đàn ông | màu da sáng | người đàn ông chơi bóng"
+      ],
+      "nl": [
+        "basketballer: lichte huidskleur",
+        "bal | basketballer | lichte huidskleur | man"
+      ]
+    }
+  ],
+  "⛹🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person bouncing ball: medium-light skin tone",
+        "athletic | ball | basketball | bouncing | championship | dribble | medium-light skin tone | net | person | player | throw"
+      ],
+      "ru": [
+        "баскетболист: светлый тон кожи",
+        "баскетбол | баскетболист | ведение | игра | мяч | светлый тон кожи"
+      ],
+      "pl": [
+        "osoba kozłująca piłkę: karnacja średnio jasna",
+        "karnacja średnio jasna | koszykarka | koszykarz | koszykówka | kozłować | kozłująca piłkę | mecz | osoba | piłka | sport"
+      ],
+      "fr": [
+        "personne avec ballon : peau moyennement claire",
+        "athlétique | ballon | basket-ball | basketteur | dribble | joueur | match | peau moyennement claire | personne | personne avec ballon | rebond | sport"
+      ],
+      "de": [
+        "Person mit Ball: mittelhelle Hautfarbe",
+        "Ball | Basketball | Basketballer | Basketballspieler | Basketballspielerin | Dribbeln | mittelhelle Hautfarbe | Person | Person mit Ball | Sport | Sportler | Sportlerin"
+      ],
+      "es": [
+        "persona botando un balón: tono de piel claro medio",
+        "balón | botar | pelota | persona botando un balón | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoa jogando basquete: pele morena clara",
+        "arremesso | atleta | basquete | bater bola | bola | cesta | esporte | jogador | lance livre | pele morena clara"
+      ],
+      "it": [
+        "persona che fa rimbalzare una palla: carnagione abbastanza chiara",
+        "basket | campo | carnagione abbastanza chiara | giocatore | giocatore di basket | palla | pallacanestro | palleggio | persona | persona che fa rimbalzare una palla | persona con la palla | sport"
+      ],
+      "ro": [
+        "persoană care bate mingea: ton semi‑deschis al pielii",
+        "baschet | dribling | jucător de baschet | minge | om | persoană care bate mingea | persoană cu minge | sport | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "הקפצת כדור: גוון עור בהיר בינוני",
+        "גוון עור בהיר בינוני | הקפצת כדור | ילד מכדרר כדורסל | ילד מקפיץ כדור | כדור | כדורסל | מקפיץ כדור | ספורט"
+      ],
+      "ar": [
+        "شخص وكرة: بشرة بلون فاتح ومعتدل",
+        "أشخاص | باسكت بول | بشرة بلون فاتح ومعتدل | رمية حرة | رياضة | رياضي | شخص وكرة | كرة | كرة سلة | مباراة | مراوغة"
+      ],
+      "tr": [
+        "top sektiren kişi: orta açık cilt tonu",
+        "atletik | basketbol | basketbolcu | kişi | orta açık cilt tonu | spor | sporcu | top | top sektiren kişi | top sürme | vücut"
+      ],
+      "vi": [
+        "người chơi bóng: màu da sáng trung bình",
+        "bóng rổ | cầu thủ bóng rổ | màu da sáng trung bình | ném sọt rổ | người chơi bóng | nhồi bóng | quả bóng | vận động viên | vô địch"
+      ],
+      "nl": [
+        "basketbalspeler: lichtgetinte huidskleur",
+        "bal | basketbal | basketballer | basketbalspeler | dribbelen | lichtgetinte huidskleur | NBA | persoon met bal | sport | vrije worp"
+      ]
+    }
+  ],
+  "⛹🏼‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman bouncing ball: medium-light skin tone",
+        "athletic | ball | basketball | bouncing | championship | dribble | medium-light skin tone | net | player | throw | woman"
+      ],
+      "ru": [
+        "женщина с мячом: светлый тон кожи",
+        "баскетбол | баскетболистка | женщина | мяч | светлый тон кожи | спорт"
+      ],
+      "pl": [
+        "kobieta kozłująca piłkę: karnacja średnio jasna",
+        "karnacja średnio jasna | kobieta | koszykarka | koszykówka | kozłować | kozłująca piłkę | mecz | piłka | sport"
+      ],
+      "fr": [
+        "femme avec ballon : peau moyennement claire",
+        "ballon | basket-ball | basketteuse | femme | femme avec ballon | peau moyennement claire | sport"
+      ],
+      "de": [
+        "Frau mit Ball: mittelhelle Hautfarbe",
+        "Ball | Ballsport | Basketball | Basketballspieler | Frau | Frau mit Ball | Handball | mittelhelle Hautfarbe | Sport"
+      ],
+      "es": [
+        "mujer botando un balón: tono de piel claro medio",
+        "balón | botar | mujer | mujer botando un balón | pelota | tono de piel claro medio"
+      ],
+      "pt": [
+        "mulher jogando basquete: pele morena clara",
+        "basketball | basquete | bola | esporte | garota | jogadora | jogo | menina | mulher | pele morena clara"
+      ],
+      "it": [
+        "donna che fa rimbalzare una palla: carnagione abbastanza chiara",
+        "basket | carnagione abbastanza chiara | donna | donna che fa rimbalzare una palla | donna che gioca a basket | giocatrice | giocatrice di basket | palla | pallacanestro | persona con la palla | sport"
+      ],
+      "ro": [
+        "femeie care bate mingea: ton semi‑deschis al pielii",
+        "baschet | femeie | femeie care bate mingea | femeie cu minge | jucătoare de baschet | minge | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה מקפיצה כדור: גוון עור בהיר בינוני",
+        "אישה | אישה מקפיצה כדור | גוון עור בהיר בינוני | כדור | כדורסל | כדורסלנית | מכדררת"
+      ],
+      "ar": [
+        "سيدة وكرة: بشرة بلون فاتح ومعتدل",
+        "باسكت بول | باسكتبول | بشرة بلون فاتح ومعتدل | رياضة | سيدة وكرة | شخص | طابة | كرة | كرة سلة | لاعبة باسكت بول | لاعبة كرة سلة"
+      ],
+      "tr": [
+        "top sektiren kadın: orta açık cilt tonu",
+        "basketbol | basketbolcu | bayan | kadın | orta açık cilt tonu | top | top sektiren kadın"
+      ],
+      "vi": [
+        "người phụ nữ chơi bóng: màu da sáng trung bình",
+        "bóng | màu da sáng trung bình | người phụ nữ chơi bóng | phụ nữ"
+      ],
+      "nl": [
+        "basketbalster: lichtgetinte huidskleur",
+        "bal | basketbal | basketbalster | lichtgetinte huidskleur | sport | vrouw | vrouw met bal"
+      ]
+    }
+  ],
+  "⛹🏼‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man bouncing ball: medium-light skin tone",
+        "athletic | ball | basketball | bouncing | championship | dribble | man | medium-light skin tone | net | player | throw"
+      ],
+      "ru": [
+        "мужчина с мячом: светлый тон кожи",
+        "баскетбол | мужчина | мяч | светлый тон кожи | спорт"
+      ],
+      "pl": [
+        "mężczyzna kozłujący piłkę: karnacja średnio jasna",
+        "karnacja średnio jasna | koszykarz | koszykówka | kozłować | kozłujący piłkę | mecz | mężczyzna | piłka | sport"
+      ],
+      "fr": [
+        "homme avec ballon : peau moyennement claire",
+        "ballon | homme | homme avec ballon | peau moyennement claire"
+      ],
+      "de": [
+        "Mann mit Ball: mittelhelle Hautfarbe",
+        "Ballsport | Handball | Mann | Mann mit Ball | mittelhelle Hautfarbe"
+      ],
+      "es": [
+        "hombre botando un balón: tono de piel claro medio",
+        "balón | botar | hombre | hombre botando un balón | pelota | tono de piel claro medio"
+      ],
+      "pt": [
+        "homem jogando basquete: pele morena clara",
+        "basquete | bola | esporte | homem | homem jogando basquete | pele morena clara"
+      ],
+      "it": [
+        "uomo che fa rimbalzare una palla: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | palla | sport | uomo | uomo che fa rimbalzare una palla"
+      ],
+      "ro": [
+        "bărbat care bate mingea: ton semi‑deschis al pielii",
+        "bărbat | bărbat care bate mingea | minge | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "גבר מקפיץ כדור: גוון עור בהיר בינוני",
+        "איש | גבר | גבר מקפיץ כדור | גוון עור בהיר בינוני | כדור"
+      ],
+      "ar": [
+        "رجل وكرة: بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | رجل وكرة | كرة"
+      ],
+      "tr": [
+        "top sektiren erkek: orta açık cilt tonu",
+        "adam | erkek | orta açık cilt tonu | top | top sektiren erkek"
+      ],
+      "vi": [
+        "người đàn ông chơi bóng: màu da sáng trung bình",
+        "bóng | đàn ông | màu da sáng trung bình | người đàn ông chơi bóng"
+      ],
+      "nl": [
+        "basketballer: lichtgetinte huidskleur",
+        "bal | basketballer | lichtgetinte huidskleur | man"
+      ]
+    }
+  ]
+}

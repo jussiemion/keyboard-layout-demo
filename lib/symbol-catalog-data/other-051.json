@@ -1,0 +1,2790 @@
+{
+  "🚶🏽‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman walking: medium skin tone",
+        "amble | gait | hike | man | medium skin tone | pace | pedestrian | stride | stroll | walk | walking | woman"
+      ],
+      "ru": [
+        "женщина идет: средний тон кожи",
+        "дорога | женщина | идет | прогулка | средний тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idąca kobieta: karnacja średnia",
+        "chodzenie | idąca | iść | karnacja średnia | kobieta | na piechotę | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "femme qui marche : peau légèrement mate",
+        "femme | femme qui marche | marche | marcher | peau légèrement mate | piétonne | randonneuse"
+      ],
+      "de": [
+        "Fußgängerin: mittlere Hautfarbe",
+        "Frau | Fußgängerin | gehen | Gehen | mittlere Hautfarbe | Schlendern | Spazieren | Spaziergang"
+      ],
+      "es": [
+        "mujer caminando: tono de piel medio",
+        "andar | caminata | marcha | mujer | mujer caminando | tono de piel medio"
+      ],
+      "pt": [
+        "mulher andando: pele morena",
+        "andando | andar | caminhada | caminhando | caminhar | mulher | passeio | pedestre | pele morena | perambulando"
+      ],
+      "it": [
+        "donna che cammina: carnagione olivastra",
+        "camminare | camminata | carnagione olivastra | donna | donna che cammina | donna che passeggia | passeggiare | passeggiata | pedona | pedone | persona | ragazza"
+      ],
+      "ro": [
+        "femeie care merge: ton mediu al pielii",
+        "agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה הולכת: גוון עור בינוני",
+        "אישה | גוון עור בינוני | הולכת | הליכה | צעידה"
+      ],
+      "ar": [
+        "سائرة: بشرة بلون معتدل",
+        "امرأة | بشرة بلون معتدل | تمشي | سائرة | ماشية | مترجلة"
+      ],
+      "tr": [
+        "yürüyen kadın: orta cilt tonu",
+        "bayan | dolaşma | kadın | orta cilt tonu | yaya | yürüme | yürüyen kadın"
+      ],
+      "vi": [
+        "người phụ nữ đi bộ: màu da trung bình",
+        "đi bộ | đi bộ đường dài | màu da trung bình | người phụ nữ đi bộ | nữ"
+      ],
+      "nl": [
+        "wandelende vrouw: getinte huidskleur",
+        "getinte huidskleur | kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw"
+      ]
+    }
+  ],
+  "🚶🏽‍♀‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman walking: medium skin tone, facing right",
+        "amble | facing | gait | hike | man | medium skin tone | pace | pedestrian | right | stride | stroll | walk | walking | woman"
+      ],
+      "ru": [
+        "женщина идет: средний тон кожи , направленные вправо",
+        ", | вправо | дорога | женщина | идет | направленные | прогулка | средний тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idąca kobieta: karnacja średnia i zwrócony w prawo",
+        "chodzenie | idąca | iść | karnacja średnia | kobieta | na piechotę | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "femme qui marche : peau légèrement mate et vers la droite",
+        "droite | femme | femme qui marche | la | marche | marcher | peau légèrement mate | piétonne | randonneuse | vers"
+      ],
+      "de": [
+        "Fußgängerin: mittlere Hautfarbe, nach rechts",
+        "Frau | Fußgängerin | gehen | Gehen | mittlere Hautfarbe | nach | rechts | Schlendern | Spazieren | Spaziergang"
+      ],
+      "es": [
+        "mujer caminando: tono de piel medio y hacia la derecha",
+        "andar | caminata | derecha | hacia | la | marcha | mujer | mujer caminando | tono de piel medio"
+      ],
+      "pt": [
+        "mulher andando: pele morena e de frente para a direita",
+        "a | andando | andar | caminhada | caminhando | caminhar | de | direita | frente | mulher | para | passeio | pedestre | pele morena | perambulando"
+      ],
+      "it": [
+        "donna che cammina: carnagione olivastra e a destra",
+        "a | camminare | camminata | carnagione olivastra | destra | donna | donna che cammina | donna che passeggia | passeggiare | passeggiata | pedona | pedone | persona | ragazza"
+      ],
+      "ro": [
+        "femeie care merge: ton mediu al pielii, orientate spre dreapta",
+        "agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה הולכת: גוון עור בינוני, פונה ימינה",
+        "אישה | גוון עור בינוני | הולכת | הליכה | ימינה | פונה | צעידה"
+      ],
+      "ar": [
+        "سائرة: بشرة بلون معتدل ومتجه لليمين",
+        "امرأة | بشرة بلون معتدل | تمشي | سائرة | لليمين | ماشية | متجه | مترجلة"
+      ],
+      "tr": [
+        "yürüyen kadın: orta cilt tonu sağa dönük",
+        "bayan | dolaşma | dönük | kadın | orta cilt tonu | sağa | yaya | yürüme | yürüyen kadın"
+      ],
+      "vi": [
+        "người phụ nữ đi bộ: màu da trung bình, hướng sang phải",
+        "đi bộ | đi bộ đường dài | hướng | màu da trung bình | người phụ nữ đi bộ | nữ | phải | sang"
+      ],
+      "nl": [
+        "wandelende vrouw: getinte huidskleur, naar rechts gericht",
+        "gericht | getinte huidskleur | kuieren | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw"
+      ]
+    }
+  ],
+  "🚶🏽‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man walking: medium skin tone",
+        "amble | gait | hike | man | medium skin tone | pace | pedestrian | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "мужчина идет: средний тон кожи",
+        "дорога | мужчина | мужчина идет | прогулка | средний тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idący mężczyzna: karnacja średnia",
+        "chodzenie | idący | iść | karnacja średnia | mężczyzna | na piechotę | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "homme qui marche : peau légèrement mate",
+        "homme | homme qui marche | marche | peau légèrement mate | piéton"
+      ],
+      "de": [
+        "Fußgänger: mittlere Hautfarbe",
+        "Fußgänger | gehen | Mann | mittlere Hautfarbe | Spaziergang"
+      ],
+      "es": [
+        "hombre caminando: tono de piel medio",
+        "andar | caminata | hombre | hombre caminando | marcha | tono de piel medio"
+      ],
+      "pt": [
+        "homem andando: pele morena",
+        "andar | caminhar | homem andando | homem caminhando | pele morena"
+      ],
+      "it": [
+        "uomo che cammina: carnagione olivastra",
+        "camminare | carnagione olivastra | passeggiata | pedone | uomo | uomo che cammina"
+      ],
+      "ro": [
+        "bărbat care merge: ton mediu al pielii",
+        "bărbat | bărbat care merge | mers | plimbare | ton mediu al pielii"
+      ],
+      "he": [
+        "גבר הולך: גוון עור בינוני",
+        "איש | גבר | גוון עור בינוני | הולך | הליכה"
+      ],
+      "ar": ["سائر: بشرة بلون معتدل", "بشرة بلون معتدل | سائر | ماشٍ | مترجل"],
+      "tr": [
+        "yürüyen erkek: orta cilt tonu",
+        "adam | dolaşma | erkek | orta cilt tonu | yürüme | yürüyen erkek"
+      ],
+      "vi": [
+        "người đàn ông đi bộ: màu da trung bình",
+        "đi bộ | đi bộ đường dài | màu da trung bình | người đàn ông | người đàn ông đi bộ"
+      ],
+      "nl": [
+        "wandelende man: getinte huidskleur",
+        "getinte huidskleur | lopen | man | wandelen | wandelende man"
+      ]
+    }
+  ],
+  "🚶🏽‍♂‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "man walking: medium skin tone, facing right",
+        "amble | facing | gait | hike | man | medium skin tone | pace | pedestrian | right | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "мужчина идет: средний тон кожи , направленные вправо",
+        ", | вправо | дорога | мужчина | мужчина идет | направленные | прогулка | средний тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idący mężczyzna: karnacja średnia i zwrócony w prawo",
+        "chodzenie | idący | iść | karnacja średnia | mężczyzna | na piechotę | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "homme qui marche : peau légèrement mate et vers la droite",
+        "droite | homme | homme qui marche | la | marche | peau légèrement mate | piéton | vers"
+      ],
+      "de": [
+        "Fußgänger: mittlere Hautfarbe, nach rechts",
+        "Fußgänger | gehen | Mann | mittlere Hautfarbe | nach | rechts | Spaziergang"
+      ],
+      "es": [
+        "hombre caminando: tono de piel medio y hacia la derecha",
+        "andar | caminata | derecha | hacia | hombre | hombre caminando | la | marcha | tono de piel medio"
+      ],
+      "pt": [
+        "homem andando: pele morena e de frente para a direita",
+        "a | andar | caminhar | de | direita | frente | homem andando | homem caminhando | para | pele morena"
+      ],
+      "it": [
+        "uomo che cammina: carnagione olivastra e a destra",
+        "a | camminare | carnagione olivastra | destra | passeggiata | pedone | uomo | uomo che cammina"
+      ],
+      "ro": [
+        "bărbat care merge: ton mediu al pielii, orientate spre dreapta",
+        "bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton mediu al pielii"
+      ],
+      "he": [
+        "גבר הולך: גוון עור בינוני, פונה ימינה",
+        "איש | גבר | גוון עור בינוני | הולך | הליכה | ימינה | פונה"
+      ],
+      "ar": [
+        "سائر: بشرة بلون معتدل ومتجه لليمين",
+        "بشرة بلون معتدل | سائر | لليمين | ماشٍ | متجه | مترجل"
+      ],
+      "tr": [
+        "yürüyen erkek: orta cilt tonu sağa dönük",
+        "adam | dolaşma | dönük | erkek | orta cilt tonu | sağa | yürüme | yürüyen erkek"
+      ],
+      "vi": [
+        "người đàn ông đi bộ: màu da trung bình, hướng sang phải",
+        "đi bộ | đi bộ đường dài | hướng | màu da trung bình | người đàn ông | người đàn ông đi bộ | phải | sang"
+      ],
+      "nl": [
+        "wandelende man: getinte huidskleur, naar rechts gericht",
+        "gericht | getinte huidskleur | lopen | man | naar | rechts | wandelen | wandelende man"
+      ]
+    }
+  ],
+  "🚶🏽‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "person walking: medium skin tone, facing right",
+        "amble | facing | gait | hike | man | medium skin tone | pace | pedestrian | person | right | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "человек идет: средний тон кожи , направленные вправо",
+        ", | вправо | гулять | дорога | идет | направленные | прогулка | средний тон кожи | тротуар | ходьба | человек"
+      ],
+      "pl": [
+        "idąca osoba: karnacja średnia i zwrócony w prawo",
+        "chodzenie | idąca | iść | karnacja średnia | na piechotę | osoba | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "personne qui marche : peau légèrement mate et vers la droite",
+        "balade | droite | en route | flâner | homme | la | marche | marcher | nonchalant | peau légèrement mate | personne | personne qui marche | piéton | promenade | se balader | vers"
+      ],
+      "de": [
+        "Fußgänger(in): mittlere Hautfarbe, nach rechts",
+        "Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | mittlere Hautfarbe | nach | Person | rechts | schlendern | schlurfen | wandern"
+      ],
+      "es": [
+        "persona caminando: tono de piel medio y hacia la derecha",
+        "andar | caminando | caminar | derecha | hacia | la | persona caminando | tono de piel medio"
+      ],
+      "pt": [
+        "pessoa andando: pele morena e de frente para a direita",
+        "a | andar | caminhada | caminhar | de | direita | frente | para | passo | pedestre | pele morena | perambulando | pessoa"
+      ],
+      "it": [
+        "pedone: carnagione olivastra e a destra",
+        "a | attività | camminare | camminata | carnagione olivastra | destra | giro a piedi | passeggiare | passeggiare lentamente | passeggiata | passo tranquillo | pedone | persona"
+      ],
+      "ro": [
+        "persoană care merge: ton mediu al pielii, orientate spre dreapta",
+        "agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton mediu al pielii"
+      ],
+      "he": [
+        "איש הולך: גוון עור בינוני, פונה ימינה",
+        "אדם | איש הולך | גוון עור בינוני | הולך | הליכה | טיול | טיול רגלי | ימינה | משוטט | פונה | צעידה"
+      ],
+      "ar": [
+        "شخص يسير: بشرة بلون معتدل ومتجه لليمين",
+        "أشخاص | بشرة بلون معتدل | خطوات | سير | شخص يسير | كزدرة | كزدورة | لليمين | متجه | مشي | نزهة"
+      ],
+      "tr": [
+        "yürüyen kişi: orta cilt tonu sağa dönük",
+        "aylak | dönük | gezinti | kişi | orta cilt tonu | sağa | salınma | tempo | vücut | yaya | yürüme | yürüyen | yürüyen adam | yürüyüş"
+      ],
+      "vi": [
+        "người đi bộ: màu da trung bình, hướng sang phải",
+        "dáng đi | đang đi bộ | đi bộ | đi bộ leo núi | đi lang thang | đi thong dong | hướng | màu da trung bình | người đi bộ | phải | sang | tản bộ"
+      ],
+      "nl": [
+        "voetganger: getinte huidskleur, naar rechts gericht",
+        "gericht | getinte huidskleur | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen"
+      ]
+    }
+  ],
+  "🚶🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "person walking: medium-dark skin tone",
+        "amble | gait | hike | man | medium-dark skin tone | pace | pedestrian | person | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "человек идет: темный тон кожи",
+        "гулять | дорога | идет | прогулка | темный тон кожи | тротуар | ходьба | человек"
+      ],
+      "pl": [
+        "idąca osoba: karnacja średnio ciemna",
+        "chodzenie | idąca | iść | karnacja średnio ciemna | na piechotę | osoba | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "personne qui marche : peau mate",
+        "balade | en route | flâner | homme | marche | marcher | nonchalant | peau mate | personne | personne qui marche | piéton | promenade | se balader"
+      ],
+      "de": [
+        "Fußgänger(in): mitteldunkle Hautfarbe",
+        "Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | mitteldunkle Hautfarbe | Person | schlendern | schlurfen | wandern"
+      ],
+      "es": [
+        "persona caminando: tono de piel oscuro medio",
+        "andar | caminando | caminar | persona caminando | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "pessoa andando: pele morena escura",
+        "andar | caminhada | caminhar | passo | pedestre | pele morena escura | perambulando | pessoa"
+      ],
+      "it": [
+        "pedone: carnagione abbastanza scura",
+        "attività | camminare | camminata | carnagione abbastanza scura | giro a piedi | passeggiare | passeggiare lentamente | passeggiata | passo tranquillo | pedone | persona"
+      ],
+      "ro": [
+        "persoană care merge: ton semi‑închis al pielii",
+        "agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "איש הולך: גוון עור כהה בינוני",
+        "אדם | איש הולך | גוון עור כהה בינוני | הולך | הליכה | טיול | טיול רגלי | משוטט | צעידה"
+      ],
+      "ar": [
+        "شخص يسير: بشرة بلون معتدل مائل للغامق",
+        "أشخاص | بشرة بلون معتدل مائل للغامق | خطوات | سير | شخص يسير | كزدرة | كزدورة | مشي | نزهة"
+      ],
+      "tr": [
+        "yürüyen kişi: orta koyu cilt tonu",
+        "aylak | gezinti | kişi | orta koyu cilt tonu | salınma | tempo | vücut | yaya | yürüme | yürüyen | yürüyen adam | yürüyüş"
+      ],
+      "vi": [
+        "người đi bộ: màu da tối trung bình",
+        "dáng đi | đang đi bộ | đi bộ | đi bộ leo núi | đi lang thang | đi thong dong | màu da tối trung bình | người đi bộ | tản bộ"
+      ],
+      "nl": [
+        "voetganger: donkergetinte huidskleur",
+        "donkergetinte huidskleur | lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen"
+      ]
+    }
+  ],
+  "🚶🏾‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman walking: medium-dark skin tone",
+        "amble | gait | hike | man | medium-dark skin tone | pace | pedestrian | stride | stroll | walk | walking | woman"
+      ],
+      "ru": [
+        "женщина идет: темный тон кожи",
+        "дорога | женщина | идет | прогулка | темный тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idąca kobieta: karnacja średnio ciemna",
+        "chodzenie | idąca | iść | karnacja średnio ciemna | kobieta | na piechotę | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "femme qui marche : peau mate",
+        "femme | femme qui marche | marche | marcher | peau mate | piétonne | randonneuse"
+      ],
+      "de": [
+        "Fußgängerin: mitteldunkle Hautfarbe",
+        "Frau | Fußgängerin | gehen | Gehen | mitteldunkle Hautfarbe | Schlendern | Spazieren | Spaziergang"
+      ],
+      "es": [
+        "mujer caminando: tono de piel oscuro medio",
+        "andar | caminata | marcha | mujer | mujer caminando | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "mulher andando: pele morena escura",
+        "andando | andar | caminhada | caminhando | caminhar | mulher | passeio | pedestre | pele morena escura | perambulando"
+      ],
+      "it": [
+        "donna che cammina: carnagione abbastanza scura",
+        "camminare | camminata | carnagione abbastanza scura | donna | donna che cammina | donna che passeggia | passeggiare | passeggiata | pedona | pedone | persona | ragazza"
+      ],
+      "ro": [
+        "femeie care merge: ton semi‑închis al pielii",
+        "agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אישה הולכת: גוון עור כהה בינוני",
+        "אישה | גוון עור כהה בינוני | הולכת | הליכה | צעידה"
+      ],
+      "ar": [
+        "سائرة: بشرة بلون معتدل مائل للغامق",
+        "امرأة | بشرة بلون معتدل مائل للغامق | تمشي | سائرة | ماشية | مترجلة"
+      ],
+      "tr": [
+        "yürüyen kadın: orta koyu cilt tonu",
+        "bayan | dolaşma | kadın | orta koyu cilt tonu | yaya | yürüme | yürüyen kadın"
+      ],
+      "vi": [
+        "người phụ nữ đi bộ: màu da tối trung bình",
+        "đi bộ | đi bộ đường dài | màu da tối trung bình | người phụ nữ đi bộ | nữ"
+      ],
+      "nl": [
+        "wandelende vrouw: donkergetinte huidskleur",
+        "donkergetinte huidskleur | kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw"
+      ]
+    }
+  ],
+  "🚶🏾‍♀‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman walking: medium-dark skin tone, facing right",
+        "amble | facing | gait | hike | man | medium-dark skin tone | pace | pedestrian | right | stride | stroll | walk | walking | woman"
+      ],
+      "ru": [
+        "женщина идет: темный тон кожи , направленные вправо",
+        ", | вправо | дорога | женщина | идет | направленные | прогулка | темный тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idąca kobieta: karnacja średnio ciemna i zwrócony w prawo",
+        "chodzenie | idąca | iść | karnacja średnio ciemna | kobieta | na piechotę | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "femme qui marche : peau mate et vers la droite",
+        "droite | femme | femme qui marche | la | marche | marcher | peau mate | piétonne | randonneuse | vers"
+      ],
+      "de": [
+        "Fußgängerin: mitteldunkle Hautfarbe, nach rechts",
+        "Frau | Fußgängerin | gehen | Gehen | mitteldunkle Hautfarbe | nach | rechts | Schlendern | Spazieren | Spaziergang"
+      ],
+      "es": [
+        "mujer caminando: tono de piel oscuro medio y hacia la derecha",
+        "andar | caminata | derecha | hacia | la | marcha | mujer | mujer caminando | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "mulher andando: pele morena escura e de frente para a direita",
+        "a | andando | andar | caminhada | caminhando | caminhar | de | direita | frente | mulher | para | passeio | pedestre | pele morena escura | perambulando"
+      ],
+      "it": [
+        "donna che cammina: carnagione abbastanza scura e a destra",
+        "a | camminare | camminata | carnagione abbastanza scura | destra | donna | donna che cammina | donna che passeggia | passeggiare | passeggiata | pedona | pedone | persona | ragazza"
+      ],
+      "ro": [
+        "femeie care merge: ton semi‑închis al pielii, orientate spre dreapta",
+        "agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אישה הולכת: גוון עור כהה בינוני, פונה ימינה",
+        "אישה | גוון עור כהה בינוני | הולכת | הליכה | ימינה | פונה | צעידה"
+      ],
+      "ar": [
+        "سائرة: بشرة بلون معتدل مائل للغامق ومتجه لليمين",
+        "امرأة | بشرة بلون معتدل مائل للغامق | تمشي | سائرة | لليمين | ماشية | متجه | مترجلة"
+      ],
+      "tr": [
+        "yürüyen kadın: orta koyu cilt tonu sağa dönük",
+        "bayan | dolaşma | dönük | kadın | orta koyu cilt tonu | sağa | yaya | yürüme | yürüyen kadın"
+      ],
+      "vi": [
+        "người phụ nữ đi bộ: màu da tối trung bình, hướng sang phải",
+        "đi bộ | đi bộ đường dài | hướng | màu da tối trung bình | người phụ nữ đi bộ | nữ | phải | sang"
+      ],
+      "nl": [
+        "wandelende vrouw: donkergetinte huidskleur, naar rechts gericht",
+        "donkergetinte huidskleur | gericht | kuieren | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw"
+      ]
+    }
+  ],
+  "🚶🏾‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man walking: medium-dark skin tone",
+        "amble | gait | hike | man | medium-dark skin tone | pace | pedestrian | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "мужчина идет: темный тон кожи",
+        "дорога | мужчина | мужчина идет | прогулка | темный тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idący mężczyzna: karnacja średnio ciemna",
+        "chodzenie | idący | iść | karnacja średnio ciemna | mężczyzna | na piechotę | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "homme qui marche : peau mate",
+        "homme | homme qui marche | marche | peau mate | piéton"
+      ],
+      "de": [
+        "Fußgänger: mitteldunkle Hautfarbe",
+        "Fußgänger | gehen | Mann | mitteldunkle Hautfarbe | Spaziergang"
+      ],
+      "es": [
+        "hombre caminando: tono de piel oscuro medio",
+        "andar | caminata | hombre | hombre caminando | marcha | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "homem andando: pele morena escura",
+        "andar | caminhar | homem andando | homem caminhando | pele morena escura"
+      ],
+      "it": [
+        "uomo che cammina: carnagione abbastanza scura",
+        "camminare | carnagione abbastanza scura | passeggiata | pedone | uomo | uomo che cammina"
+      ],
+      "ro": [
+        "bărbat care merge: ton semi‑închis al pielii",
+        "bărbat | bărbat care merge | mers | plimbare | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "גבר הולך: גוון עור כהה בינוני",
+        "איש | גבר | גוון עור כהה בינוני | הולך | הליכה"
+      ],
+      "ar": [
+        "سائر: بشرة بلون معتدل مائل للغامق",
+        "بشرة بلون معتدل مائل للغامق | سائر | ماشٍ | مترجل"
+      ],
+      "tr": [
+        "yürüyen erkek: orta koyu cilt tonu",
+        "adam | dolaşma | erkek | orta koyu cilt tonu | yürüme | yürüyen erkek"
+      ],
+      "vi": [
+        "người đàn ông đi bộ: màu da tối trung bình",
+        "đi bộ | đi bộ đường dài | màu da tối trung bình | người đàn ông | người đàn ông đi bộ"
+      ],
+      "nl": [
+        "wandelende man: donkergetinte huidskleur",
+        "donkergetinte huidskleur | lopen | man | wandelen | wandelende man"
+      ]
+    }
+  ],
+  "🚶🏾‍♂‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "man walking: medium-dark skin tone, facing right",
+        "amble | facing | gait | hike | man | medium-dark skin tone | pace | pedestrian | right | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "мужчина идет: темный тон кожи , направленные вправо",
+        ", | вправо | дорога | мужчина | мужчина идет | направленные | прогулка | темный тон кожи | тротуар | ходьба"
+      ],
+      "pl": [
+        "idący mężczyzna: karnacja średnio ciemna i zwrócony w prawo",
+        "chodzenie | idący | iść | karnacja średnio ciemna | mężczyzna | na piechotę | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "homme qui marche : peau mate et vers la droite",
+        "droite | homme | homme qui marche | la | marche | peau mate | piéton | vers"
+      ],
+      "de": [
+        "Fußgänger: mitteldunkle Hautfarbe, nach rechts",
+        "Fußgänger | gehen | Mann | mitteldunkle Hautfarbe | nach | rechts | Spaziergang"
+      ],
+      "es": [
+        "hombre caminando: tono de piel oscuro medio y hacia la derecha",
+        "andar | caminata | derecha | hacia | hombre | hombre caminando | la | marcha | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "homem andando: pele morena escura e de frente para a direita",
+        "a | andar | caminhar | de | direita | frente | homem andando | homem caminhando | para | pele morena escura"
+      ],
+      "it": [
+        "uomo che cammina: carnagione abbastanza scura e a destra",
+        "a | camminare | carnagione abbastanza scura | destra | passeggiata | pedone | uomo | uomo che cammina"
+      ],
+      "ro": [
+        "bărbat care merge: ton semi‑închis al pielii, orientate spre dreapta",
+        "bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "גבר הולך: גוון עור כהה בינוני, פונה ימינה",
+        "איש | גבר | גוון עור כהה בינוני | הולך | הליכה | ימינה | פונה"
+      ],
+      "ar": [
+        "سائر: بشرة بلون معتدل مائل للغامق ومتجه لليمين",
+        "بشرة بلون معتدل مائل للغامق | سائر | لليمين | ماشٍ | متجه | مترجل"
+      ],
+      "tr": [
+        "yürüyen erkek: orta koyu cilt tonu sağa dönük",
+        "adam | dolaşma | dönük | erkek | orta koyu cilt tonu | sağa | yürüme | yürüyen erkek"
+      ],
+      "vi": [
+        "người đàn ông đi bộ: màu da tối trung bình, hướng sang phải",
+        "đi bộ | đi bộ đường dài | hướng | màu da tối trung bình | người đàn ông | người đàn ông đi bộ | phải | sang"
+      ],
+      "nl": [
+        "wandelende man: donkergetinte huidskleur, naar rechts gericht",
+        "donkergetinte huidskleur | gericht | lopen | man | naar | rechts | wandelen | wandelende man"
+      ]
+    }
+  ],
+  "🚶🏾‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "person walking: medium-dark skin tone, facing right",
+        "amble | facing | gait | hike | man | medium-dark skin tone | pace | pedestrian | person | right | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "человек идет: темный тон кожи , направленные вправо",
+        ", | вправо | гулять | дорога | идет | направленные | прогулка | темный тон кожи | тротуар | ходьба | человек"
+      ],
+      "pl": [
+        "idąca osoba: karnacja średnio ciemna i zwrócony w prawo",
+        "chodzenie | idąca | iść | karnacja średnio ciemna | na piechotę | osoba | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "personne qui marche : peau mate et vers la droite",
+        "balade | droite | en route | flâner | homme | la | marche | marcher | nonchalant | peau mate | personne | personne qui marche | piéton | promenade | se balader | vers"
+      ],
+      "de": [
+        "Fußgänger(in): mitteldunkle Hautfarbe, nach rechts",
+        "Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | mitteldunkle Hautfarbe | nach | Person | rechts | schlendern | schlurfen | wandern"
+      ],
+      "es": [
+        "persona caminando: tono de piel oscuro medio y hacia la derecha",
+        "andar | caminando | caminar | derecha | hacia | la | persona caminando | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "pessoa andando: pele morena escura e de frente para a direita",
+        "a | andar | caminhada | caminhar | de | direita | frente | para | passo | pedestre | pele morena escura | perambulando | pessoa"
+      ],
+      "it": [
+        "pedone: carnagione abbastanza scura e a destra",
+        "a | attività | camminare | camminata | carnagione abbastanza scura | destra | giro a piedi | passeggiare | passeggiare lentamente | passeggiata | passo tranquillo | pedone | persona"
+      ],
+      "ro": [
+        "persoană care merge: ton semi‑închis al pielii, orientate spre dreapta",
+        "agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "איש הולך: גוון עור כהה בינוני, פונה ימינה",
+        "אדם | איש הולך | גוון עור כהה בינוני | הולך | הליכה | טיול | טיול רגלי | ימינה | משוטט | פונה | צעידה"
+      ],
+      "ar": [
+        "شخص يسير: بشرة بلون معتدل مائل للغامق ومتجه لليمين",
+        "أشخاص | بشرة بلون معتدل مائل للغامق | خطوات | سير | شخص يسير | كزدرة | كزدورة | لليمين | متجه | مشي | نزهة"
+      ],
+      "tr": [
+        "yürüyen kişi: orta koyu cilt tonu sağa dönük",
+        "aylak | dönük | gezinti | kişi | orta koyu cilt tonu | sağa | salınma | tempo | vücut | yaya | yürüme | yürüyen | yürüyen adam | yürüyüş"
+      ],
+      "vi": [
+        "người đi bộ: màu da tối trung bình, hướng sang phải",
+        "dáng đi | đang đi bộ | đi bộ | đi bộ leo núi | đi lang thang | đi thong dong | hướng | màu da tối trung bình | người đi bộ | phải | sang | tản bộ"
+      ],
+      "nl": [
+        "voetganger: donkergetinte huidskleur, naar rechts gericht",
+        "donkergetinte huidskleur | gericht | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen"
+      ]
+    }
+  ],
+  "🚶🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "person walking: dark skin tone",
+        "amble | dark skin tone | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "человек идет: очень темный тон кожи",
+        "гулять | дорога | идет | очень темный тон кожи | прогулка | тротуар | ходьба | человек"
+      ],
+      "pl": [
+        "idąca osoba: karnacja ciemna",
+        "chodzenie | idąca | iść | karnacja ciemna | na piechotę | osoba | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "personne qui marche : peau foncée",
+        "balade | en route | flâner | homme | marche | marcher | nonchalant | peau foncée | personne | personne qui marche | piéton | promenade | se balader"
+      ],
+      "de": [
+        "Fußgänger(in): dunkle Hautfarbe",
+        "dunkle Hautfarbe | Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | Person | schlendern | schlurfen | wandern"
+      ],
+      "es": [
+        "persona caminando: tono de piel oscuro",
+        "andar | caminando | caminar | persona caminando | tono de piel oscuro"
+      ],
+      "pt": [
+        "pessoa andando: pele escura",
+        "andar | caminhada | caminhar | passo | pedestre | pele escura | perambulando | pessoa"
+      ],
+      "it": [
+        "pedone: carnagione scura",
+        "attività | camminare | camminata | carnagione scura | giro a piedi | passeggiare | passeggiare lentamente | passeggiata | passo tranquillo | pedone | persona"
+      ],
+      "ro": [
+        "persoană care merge: ton închis al pielii",
+        "agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | ton închis al pielii"
+      ],
+      "he": [
+        "איש הולך: גוון עור כהה",
+        "אדם | איש הולך | גוון עור כהה | הולך | הליכה | טיול | טיול רגלי | משוטט | צעידה"
+      ],
+      "ar": [
+        "شخص يسير: بشرة بلون غامق",
+        "أشخاص | بشرة بلون غامق | خطوات | سير | شخص يسير | كزدرة | كزدورة | مشي | نزهة"
+      ],
+      "tr": [
+        "yürüyen kişi: koyu cilt tonu",
+        "aylak | gezinti | kişi | koyu cilt tonu | salınma | tempo | vücut | yaya | yürüme | yürüyen | yürüyen adam | yürüyüş"
+      ],
+      "vi": [
+        "người đi bộ: màu da tối",
+        "dáng đi | đang đi bộ | đi bộ | đi bộ leo núi | đi lang thang | đi thong dong | màu da tối | người đi bộ | tản bộ"
+      ],
+      "nl": [
+        "voetganger: donkere huidskleur",
+        "donkere huidskleur | lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen"
+      ]
+    }
+  ],
+  "🚶🏿‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman walking: dark skin tone",
+        "amble | dark skin tone | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman"
+      ],
+      "ru": [
+        "женщина идет: очень темный тон кожи",
+        "дорога | женщина | идет | очень темный тон кожи | прогулка | тротуар | ходьба"
+      ],
+      "pl": [
+        "idąca kobieta: karnacja ciemna",
+        "chodzenie | idąca | iść | karnacja ciemna | kobieta | na piechotę | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "femme qui marche : peau foncée",
+        "femme | femme qui marche | marche | marcher | peau foncée | piétonne | randonneuse"
+      ],
+      "de": [
+        "Fußgängerin: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang"
+      ],
+      "es": [
+        "mujer caminando: tono de piel oscuro",
+        "andar | caminata | marcha | mujer | mujer caminando | tono de piel oscuro"
+      ],
+      "pt": [
+        "mulher andando: pele escura",
+        "andando | andar | caminhada | caminhando | caminhar | mulher | passeio | pedestre | pele escura | perambulando"
+      ],
+      "it": [
+        "donna che cammina: carnagione scura",
+        "camminare | camminata | carnagione scura | donna | donna che cammina | donna che passeggia | passeggiare | passeggiata | pedona | pedone | persona | ragazza"
+      ],
+      "ro": [
+        "femeie care merge: ton închis al pielii",
+        "agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare | ton închis al pielii"
+      ],
+      "he": [
+        "אישה הולכת: גוון עור כהה",
+        "אישה | גוון עור כהה | הולכת | הליכה | צעידה"
+      ],
+      "ar": [
+        "سائرة: بشرة بلون غامق",
+        "امرأة | بشرة بلون غامق | تمشي | سائرة | ماشية | مترجلة"
+      ],
+      "tr": [
+        "yürüyen kadın: koyu cilt tonu",
+        "bayan | dolaşma | kadın | koyu cilt tonu | yaya | yürüme | yürüyen kadın"
+      ],
+      "vi": [
+        "người phụ nữ đi bộ: màu da tối",
+        "đi bộ | đi bộ đường dài | màu da tối | người phụ nữ đi bộ | nữ"
+      ],
+      "nl": [
+        "wandelende vrouw: donkere huidskleur",
+        "donkere huidskleur | kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw"
+      ]
+    }
+  ],
+  "🚶🏿‍♀‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman walking: dark skin tone, facing right",
+        "amble | dark skin tone | facing | gait | hike | man | pace | pedestrian | right | stride | stroll | walk | walking | woman"
+      ],
+      "ru": [
+        "женщина идет: очень темный тон кожи , направленные вправо",
+        ", | вправо | дорога | женщина | идет | направленные | очень темный тон кожи | прогулка | тротуар | ходьба"
+      ],
+      "pl": [
+        "idąca kobieta: karnacja ciemna i zwrócony w prawo",
+        "chodzenie | idąca | iść | karnacja ciemna | kobieta | na piechotę | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "femme qui marche : peau foncée et vers la droite",
+        "droite | femme | femme qui marche | la | marche | marcher | peau foncée | piétonne | randonneuse | vers"
+      ],
+      "de": [
+        "Fußgängerin: dunkle Hautfarbe, nach rechts",
+        "dunkle Hautfarbe | Frau | Fußgängerin | gehen | Gehen | nach | rechts | Schlendern | Spazieren | Spaziergang"
+      ],
+      "es": [
+        "mujer caminando: tono de piel oscuro y hacia la derecha",
+        "andar | caminata | derecha | hacia | la | marcha | mujer | mujer caminando | tono de piel oscuro"
+      ],
+      "pt": [
+        "mulher andando: pele escura e de frente para a direita",
+        "a | andando | andar | caminhada | caminhando | caminhar | de | direita | frente | mulher | para | passeio | pedestre | pele escura | perambulando"
+      ],
+      "it": [
+        "donna che cammina: carnagione scura e a destra",
+        "a | camminare | camminata | carnagione scura | destra | donna | donna che cammina | donna che passeggia | passeggiare | passeggiata | pedona | pedone | persona | ragazza"
+      ],
+      "ro": [
+        "femeie care merge: ton închis al pielii, orientate spre dreapta",
+        "agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton închis al pielii"
+      ],
+      "he": [
+        "אישה הולכת: גוון עור כהה, פונה ימינה",
+        "אישה | גוון עור כהה | הולכת | הליכה | ימינה | פונה | צעידה"
+      ],
+      "ar": [
+        "سائرة: بشرة بلون غامق ومتجه لليمين",
+        "امرأة | بشرة بلون غامق | تمشي | سائرة | لليمين | ماشية | متجه | مترجلة"
+      ],
+      "tr": [
+        "yürüyen kadın: koyu cilt tonu sağa dönük",
+        "bayan | dolaşma | dönük | kadın | koyu cilt tonu | sağa | yaya | yürüme | yürüyen kadın"
+      ],
+      "vi": [
+        "người phụ nữ đi bộ: màu da tối, hướng sang phải",
+        "đi bộ | đi bộ đường dài | hướng | màu da tối | người phụ nữ đi bộ | nữ | phải | sang"
+      ],
+      "nl": [
+        "wandelende vrouw: donkere huidskleur, naar rechts gericht",
+        "donkere huidskleur | gericht | kuieren | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw"
+      ]
+    }
+  ],
+  "🚶🏿‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man walking: dark skin tone",
+        "amble | dark skin tone | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "мужчина идет: очень темный тон кожи",
+        "дорога | мужчина | мужчина идет | очень темный тон кожи | прогулка | тротуар | ходьба"
+      ],
+      "pl": [
+        "idący mężczyzna: karnacja ciemna",
+        "chodzenie | idący | iść | karnacja ciemna | mężczyzna | na piechotę | piechur | pieszo | spacer"
+      ],
+      "fr": [
+        "homme qui marche : peau foncée",
+        "homme | homme qui marche | marche | peau foncée | piéton"
+      ],
+      "de": [
+        "Fußgänger: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Fußgänger | gehen | Mann | Spaziergang"
+      ],
+      "es": [
+        "hombre caminando: tono de piel oscuro",
+        "andar | caminata | hombre | hombre caminando | marcha | tono de piel oscuro"
+      ],
+      "pt": [
+        "homem andando: pele escura",
+        "andar | caminhar | homem andando | homem caminhando | pele escura"
+      ],
+      "it": [
+        "uomo che cammina: carnagione scura",
+        "camminare | carnagione scura | passeggiata | pedone | uomo | uomo che cammina"
+      ],
+      "ro": [
+        "bărbat care merge: ton închis al pielii",
+        "bărbat | bărbat care merge | mers | plimbare | ton închis al pielii"
+      ],
+      "he": [
+        "גבר הולך: גוון עור כהה",
+        "איש | גבר | גוון עור כהה | הולך | הליכה"
+      ],
+      "ar": ["سائر: بشرة بلون غامق", "بشرة بلون غامق | سائر | ماشٍ | مترجل"],
+      "tr": [
+        "yürüyen erkek: koyu cilt tonu",
+        "adam | dolaşma | erkek | koyu cilt tonu | yürüme | yürüyen erkek"
+      ],
+      "vi": [
+        "người đàn ông đi bộ: màu da tối",
+        "đi bộ | đi bộ đường dài | màu da tối | người đàn ông | người đàn ông đi bộ"
+      ],
+      "nl": [
+        "wandelende man: donkere huidskleur",
+        "donkere huidskleur | lopen | man | wandelen | wandelende man"
+      ]
+    }
+  ],
+  "🚶🏿‍♂‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "man walking: dark skin tone, facing right",
+        "amble | dark skin tone | facing | gait | hike | man | pace | pedestrian | right | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "мужчина идет: очень темный тон кожи , направленные вправо",
+        ", | вправо | дорога | мужчина | мужчина идет | направленные | очень темный тон кожи | прогулка | тротуар | ходьба"
+      ],
+      "pl": [
+        "idący mężczyzna: karnacja ciemna i zwrócony w prawo",
+        "chodzenie | idący | iść | karnacja ciemna | mężczyzna | na piechotę | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "homme qui marche : peau foncée et vers la droite",
+        "droite | homme | homme qui marche | la | marche | peau foncée | piéton | vers"
+      ],
+      "de": [
+        "Fußgänger: dunkle Hautfarbe, nach rechts",
+        "dunkle Hautfarbe | Fußgänger | gehen | Mann | nach | rechts | Spaziergang"
+      ],
+      "es": [
+        "hombre caminando: tono de piel oscuro y hacia la derecha",
+        "andar | caminata | derecha | hacia | hombre | hombre caminando | la | marcha | tono de piel oscuro"
+      ],
+      "pt": [
+        "homem andando: pele escura e de frente para a direita",
+        "a | andar | caminhar | de | direita | frente | homem andando | homem caminhando | para | pele escura"
+      ],
+      "it": [
+        "uomo che cammina: carnagione scura e a destra",
+        "a | camminare | carnagione scura | destra | passeggiata | pedone | uomo | uomo che cammina"
+      ],
+      "ro": [
+        "bărbat care merge: ton închis al pielii, orientate spre dreapta",
+        "bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton închis al pielii"
+      ],
+      "he": [
+        "גבר הולך: גוון עור כהה, פונה ימינה",
+        "איש | גבר | גוון עור כהה | הולך | הליכה | ימינה | פונה"
+      ],
+      "ar": [
+        "سائر: بشرة بلون غامق ومتجه لليمين",
+        "بشرة بلون غامق | سائر | لليمين | ماشٍ | متجه | مترجل"
+      ],
+      "tr": [
+        "yürüyen erkek: koyu cilt tonu sağa dönük",
+        "adam | dolaşma | dönük | erkek | koyu cilt tonu | sağa | yürüme | yürüyen erkek"
+      ],
+      "vi": [
+        "người đàn ông đi bộ: màu da tối, hướng sang phải",
+        "đi bộ | đi bộ đường dài | hướng | màu da tối | người đàn ông | người đàn ông đi bộ | phải | sang"
+      ],
+      "nl": [
+        "wandelende man: donkere huidskleur, naar rechts gericht",
+        "donkere huidskleur | gericht | lopen | man | naar | rechts | wandelen | wandelende man"
+      ]
+    }
+  ],
+  "🚶🏿‍➡": [
+    "other",
+    "",
+    {
+      "en": [
+        "person walking: dark skin tone, facing right",
+        "amble | dark skin tone | facing | gait | hike | man | pace | pedestrian | person | right | stride | stroll | walk | walking"
+      ],
+      "ru": [
+        "человек идет: очень темный тон кожи , направленные вправо",
+        ", | вправо | гулять | дорога | идет | направленные | очень темный тон кожи | прогулка | тротуар | ходьба | человек"
+      ],
+      "pl": [
+        "idąca osoba: karnacja ciemna i zwrócony w prawo",
+        "chodzenie | idąca | iść | karnacja ciemna | na piechotę | osoba | piechur | pieszo | prawo | spacer | w | zwrócony"
+      ],
+      "fr": [
+        "personne qui marche : peau foncée et vers la droite",
+        "balade | droite | en route | flâner | homme | la | marche | marcher | nonchalant | peau foncée | personne | personne qui marche | piéton | promenade | se balader | vers"
+      ],
+      "de": [
+        "Fußgänger(in): dunkle Hautfarbe, nach rechts",
+        "dunkle Hautfarbe | Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | nach | Person | rechts | schlendern | schlurfen | wandern"
+      ],
+      "es": [
+        "persona caminando: tono de piel oscuro y hacia la derecha",
+        "andar | caminando | caminar | derecha | hacia | la | persona caminando | tono de piel oscuro"
+      ],
+      "pt": [
+        "pessoa andando: pele escura e de frente para a direita",
+        "a | andar | caminhada | caminhar | de | direita | frente | para | passo | pedestre | pele escura | perambulando | pessoa"
+      ],
+      "it": [
+        "pedone: carnagione scura e a destra",
+        "a | attività | camminare | camminata | carnagione scura | destra | giro a piedi | passeggiare | passeggiare lentamente | passeggiata | passo tranquillo | pedone | persona"
+      ],
+      "ro": [
+        "persoană care merge: ton închis al pielii, orientate spre dreapta",
+        "agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton închis al pielii"
+      ],
+      "he": [
+        "איש הולך: גוון עור כהה, פונה ימינה",
+        "אדם | איש הולך | גוון עור כהה | הולך | הליכה | טיול | טיול רגלי | ימינה | משוטט | פונה | צעידה"
+      ],
+      "ar": [
+        "شخص يسير: بشرة بلون غامق ومتجه لليمين",
+        "أشخاص | بشرة بلون غامق | خطوات | سير | شخص يسير | كزدرة | كزدورة | لليمين | متجه | مشي | نزهة"
+      ],
+      "tr": [
+        "yürüyen kişi: koyu cilt tonu sağa dönük",
+        "aylak | dönük | gezinti | kişi | koyu cilt tonu | sağa | salınma | tempo | vücut | yaya | yürüme | yürüyen | yürüyen adam | yürüyüş"
+      ],
+      "vi": [
+        "người đi bộ: màu da tối, hướng sang phải",
+        "dáng đi | đang đi bộ | đi bộ | đi bộ leo núi | đi lang thang | đi thong dong | hướng | màu da tối | người đi bộ | phải | sang | tản bộ"
+      ],
+      "nl": [
+        "voetganger: donkere huidskleur, naar rechts gericht",
+        "donkere huidskleur | gericht | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen"
+      ]
+    }
+  ],
+  "🚷": [
+    "other",
+    "no pedestrians",
+    {
+      "en": [
+        "no pedestrians",
+        "forbidden | no | not | pedestrian | pedestrians | prohibited"
+      ],
+      "ru": [
+        "переход запрещен",
+        "входить | запрещен | круг | не | опасно | переход | пешеход | пешеходный"
+      ],
+      "pl": [
+        "zakaz ruchu pieszych",
+        "nie wolno | pieszy | przejście wzbronione | zabronione | zakaz | zakaz dla pieszych | zakaz ruchu pieszych"
+      ],
+      "fr": [
+        "interdit aux piétons",
+        "interdiction | interdit | interdit aux piétons"
+      ],
+      "de": [
+        "Fußgänger verboten",
+        "Fußgänger verboten | Fußgänger-verboten-Schild | verboten"
+      ],
+      "es": [
+        "prohibido el paso de peatones",
+        "peatón | peatones | prohibido | prohibido el paso de peatones | señal"
+      ],
+      "pt": [
+        "proibida a passagem de pedestres",
+        "não | passagem | pedestre | permitidos | proibida | proibido"
+      ],
+      "it": [
+        "simbolo del divieto di transito pedoni",
+        "divieto transito pedoni | niente pedoni | no | no pedoni | proibito | segnale | simbolo | simbolo del divieto di transito pedoni | strada | vietato"
+      ],
+      "ro": [
+        "interzis accesul pietonilor",
+        "interdicție | interzis | interzis accesul pietonilor | interzis pietonilor | nu | pietoni"
+      ],
+      "he": [
+        "אין כניסה להולכי רגל",
+        "אין כניסה | איסור | אסור | הולך רגל | הולכי רגל"
+      ],
+      "ar": [
+        "ممنوع سير المشاة",
+        "إشارة | اشارة سير | رمز | ليس للمشاة | مشاة | ممنوع سير المشاة"
+      ],
+      "tr": [
+        "yayalara yasak",
+        "işaret | yaya | yayalar giremez | yayalara yasak | yürüyen"
+      ],
+      "vi": [
+        "cấm người đi bộ",
+        "cấm | cấm người đi bộ | không | không cho phép | không có | người đi bộ"
+      ],
+      "nl": [
+        "geen voetgangers",
+        "nee | niet | verboden | voetganger | voetgangers"
+      ]
+    }
+  ],
+  "🚸": [
+    "other",
+    "children crossing",
+    {
+      "en": [
+        "children crossing",
+        "child | children | crossing | pedestrian | traffic"
+      ],
+      "ru": [
+        "знак «дети»",
+        "движение | дети | дорога | знак \"дети\" | знак «дети» | переход | пешеход | пешеходы"
+      ],
+      "pl": [
+        "dzieci przechodzące przez jezdnię",
+        "dla dzieci | dla pieszych | dzieci | dziecko | przechodzące | przejście | przez jezdnię | uwaga"
+      ],
+      "fr": [
+        "traversée d’enfants",
+        "circulation | école | enfants | piétons | traversée d’enfants"
+      ],
+      "de": [
+        "Kinder überqueren die Straße",
+        "Kinder | Kinder überqueren die Straße | Kinder-queren-die-Straße-Schild | Straßenschild | Vorsicht"
+      ],
+      "es": ["niños cruzando", "cruzando | niños | señal"],
+      "pt": [
+        "crianças atravessando",
+        "atravessando | criança | crianças | pedestre | símbolo | tráfego"
+      ],
+      "it": [
+        "attraversamento bambini",
+        "attraversamento | attraversamento pedonale | attraversare | bambini | pedoni | scuola | segnale | simbolo | strada | traffico"
+      ],
+      "ro": [
+        "trecere copii",
+        "copii | copii traversează | pietonal | pietoni | trafic | traversa | traversare | trecere"
+      ],
+      "he": [
+        "ילדים חוצים",
+        "הולכי רגל | זהירות בדרכים | חוצים | ילדים | כביש | מעבר חצייה"
+      ],
+      "ar": [
+        "عبور أطفال",
+        "أطفال | إشارة | اشارة سير | رمز | عبور | ممر عبور | ممر مشاة"
+      ],
+      "tr": [
+        "karşıya geçen çocuklar",
+        "çocuklar | işaret | karşıya geçen çocuklar | karşıya geçiş"
+      ],
+      "vi": [
+        "qua đường cho trẻ em",
+        "cho người đi bộ | đi qua | giao thông | qua đường cho trẻ em | trẻ em"
+      ],
+      "nl": [
+        "overstekende kinderen",
+        "kind | kinderen | oversteekplaats | verkeer | voetganger"
+      ]
+    }
+  ],
+  "🚹": [
+    "other",
+    "mens symbol",
+    {
+      "en": [
+        "men’s room",
+        "bathroom | lavatory | man | men’s | restroom | room | toilet | WC"
+      ],
+      "ru": [
+        "мужской туалет",
+        "кабинки | мужской | мужчины | туалет | уборная"
+      ],
+      "pl": [
+        "toaleta męska",
+        "dla mężczyzn | męska | męski | szalet | toaleta | ubikacja | ustęp | WC"
+      ],
+      "fr": [
+        "symbole Toilettes hommes",
+        "homme | symbole Homme | symbole Toilettes hommes | toilettes | WC"
+      ],
+      "de": ["Herren", "Herren | Herrentoilette | WC"],
+      "es": [
+        "aseo para hombres",
+        "aseo de caballeros | aseo para hombres | baño | señal | señal con un hombre | servicio"
+      ],
+      "pt": [
+        "banheiro masculino",
+        "banheiro | homem | lavatório | masculino | símbolo | toalete | wc"
+      ],
+      "it": [
+        "simbolo del bagno degli uomini",
+        "bagno | segnale | simbolo | simbolo del bagno degli uomini | toilette | Uomini | uomo"
+      ],
+      "ro": ["toaletă bărbați", "baie | bărbați | closet | toaletă | wc"],
+      "he": [
+        "שלט שירותי גברים",
+        "WC | גברים | ציבוריים | שירותי גברים | שירותים"
+      ],
+      "ar": [
+        "للرجال",
+        "إشارة | تواليت | علامة رجال | غرفة رجال | للرجال | مرحاض"
+      ],
+      "tr": [
+        "erkekler tuvaleti",
+        "erkekler tuvaleti | Erkekler tuvaleti | işaret | tuvalet"
+      ],
+      "vi": [
+        "nhà vệ sinh nam",
+        "nam | nhà vệ sinh | nhà vệ sinh nam | phòng vệ sinh | wc"
+      ],
+      "nl": ["herentoilet", "heren | man | plee | toilet | urinoir | wc"]
+    }
+  ],
+  "🚺": [
+    "other",
+    "womens symbol",
+    {
+      "en": [
+        "women’s room",
+        "bathroom | lavatory | restroom | room | toilet | WC | woman | women’s"
+      ],
+      "ru": [
+        "женский туалет",
+        "женский туалет | женщины | кабинки | туалет | уборная"
+      ],
+      "pl": [
+        "toaleta damska",
+        "damska | damski | dla kobiet | szalet | toaleta | ubikacja | ustęp | WC"
+      ],
+      "fr": [
+        "symbole Toilettes femmes",
+        "femme | symbole Femme | symbole Toilettes femmes | toilettes | WC"
+      ],
+      "de": ["Damen", "Damen | Damentoilette | WC"],
+      "es": [
+        "señal de aseo para mujeres",
+        "aseo de señoras | baño | señal | señal con una mujer | señal de aseo para mujeres | servicio"
+      ],
+      "pt": [
+        "banheiro feminino",
+        "banheiro | feminino | lavabo | lavatório | mulher | símbolo | toalete | wc"
+      ],
+      "it": [
+        "simbolo del bagno delle donne",
+        "bagno donne | Donne | segnale | servizi | simbolo | simbolo bagno donne | simbolo del bagno delle donne | toilette"
+      ],
+      "ro": ["toaletă femei", "baie | closet | femei | toaletă | wc"],
+      "he": [
+        "שלט שירותי נשים",
+        "בית שימוש | נוחיות | נשים | ציבוריים | שירותי נשים | שירותים"
+      ],
+      "ar": [
+        "للسيدات",
+        "wc | إشارة | حمام | رمز | علامة سيدات | غرفة سيدات | للبنات | للسيدات"
+      ],
+      "tr": [
+        "kadınlar tuvaleti",
+        "bayanlar tuvaleti | işaret | kadınlar tuvaleti | Kadınlar tuvaleti | tuvalet"
+      ],
+      "vi": [
+        "nhà vệ sinh nữ",
+        "nhà vệ sinh | nhà vệ sinh nữ | nữ | phòng vệ sinh | wc"
+      ],
+      "nl": ["damestoilet", "dames | plee | toilet | vrouw | wc"]
+    }
+  ],
+  "🚻": [
+    "other",
+    "restroom",
+    {
+      "en": ["restroom", "bathroom | lavatory | restroom | toilet | WC"],
+      "ru": ["уборная", "WC | туалет | уборная"],
+      "pl": [
+        "toalety",
+        "łazienka | szalet | toaleta | toalety | ubikacja | WC"
+      ],
+      "fr": ["panneau Toilettes", "panneau Toilettes | toilettes | WC"],
+      "de": ["Toiletten", "Toilette | Toiletten | WC"],
+      "es": ["señal de aseos", "aseos | señal de aseos | servicios | wc"],
+      "pt": ["banheiro", "banheiro | lavabo | sanitário | símbolo | toalete"],
+      "it": [
+        "simbolo dei servizi igienici",
+        "bagni | bagno | cartello | figure | omini | pulsante | servizi | simbolo | simbolo dei servizi igienici | tasto | toilette | wc"
+      ],
+      "ro": ["toaletă mixtă", "baie | closet | toaletă | toaletă mixtă | wc"],
+      "he": ["שלט שירותים", "WC | נוחיות | ציבוריים | שירותים | שלט שירותים"],
+      "ar": [
+        "دورة مياه",
+        "wc | إشارة مرحاض | اشارة مرحاض | بيت الخلاء | حمام | خلاء | دورة مياه | رمز | مرحاض"
+      ],
+      "tr": ["tuvalet", "lavabo | tuvalet | wc"],
+      "vi": ["nhà vệ sinh", "nhà vệ sinh | phòng vệ sinh | wc"],
+      "nl": ["toiletten", "plee | toilet | wc"]
+    }
+  ],
+  "🚼": [
+    "other",
+    "baby symbol",
+    {
+      "en": ["baby symbol", "baby | changing | symbol"],
+      "ru": ["пеленальная", "дети | младенцы | пеленальная | пеленки | стол"],
+      "pl": [
+        "symbol niemowlęcia",
+        "dziecko | niemowlę | niemowlęcia | przewijak | symbol | znak"
+      ],
+      "fr": ["symbole Bébé", "bébé | espace de change | symbole Bébé"],
+      "de": ["Symbol „Baby“", "Baby | Symbol „Baby“ | Wickelraum"],
+      "es": ["señal de bebé", "bebé | cambiar | lactancia | señal de bebé"],
+      "pt": ["símbolo de bebê", "bebê | fralda | fraldário | símbolo | trocar"],
+      "it": [
+        "simbolo con immagine di bambino",
+        "bambino a bordo | cartello neonato | fasciatoio | neonato | simbolo con immagine di bambino | simbolo neonato"
+      ],
+      "ro": [
+        "simbol bebeluș",
+        "bebeluș | loc pentru schimbatul bebelușilor | scutece | simbol bebeluș"
+      ],
+      "he": ["סמל של תינוק", "החתלה | להחליף חיתול | סמל של תינוק | תינוק"],
+      "ar": [
+        "إشارة طفل",
+        "إشارة طفل | اشارة طفل | رمز | طفل | طفل داخل السيارة | محطة تغيير ملابس أطفال | ولد"
+      ],
+      "tr": [
+        "bebek işareti",
+        "bebek | bebek alt değiştirme yeri | bebek işareti | bebek teknede"
+      ],
+      "vi": ["biểu tượng trẻ em", "biểu tượng trẻ em | thay đồ | trẻ em"],
+      "nl": ["babysymbool", "baby | symbool | verschonen"]
+    }
+  ],
+  "🚽": [
+    "other",
+    "toilet",
+    {
+      "en": ["toilet", "bathroom | toilet"],
+      "ru": ["унитаз", "бачок | смывать | туалет | унитаз"],
+      "pl": [
+        "muszla klozetowa",
+        "dolnopłuk | muszla klozetowa | sedes | toaleta | ubikacja"
+      ],
+      "fr": ["toilettes", "cabinets | toilettes | WC"],
+      "de": ["Toilette", "Klo | Toilette | WC"],
+      "es": ["inodoro", "baño | inodoro | váter | wc"],
+      "pt": [
+        "vaso sanitário",
+        "banheiro | patente | privada | sanitário | toalete | vaso"
+      ],
+      "it": ["toilette", "bagno | toilette | trono | water"],
+      "ro": ["toaletă", "baie | budă | toaletă | wc"],
+      "he": ["אסלה", "אסלה | בית שימוש | נוחיות | שירותים"],
+      "ar": ["مرحاض", "تواليت | حمام | مرحاض"],
+      "tr": ["klozet", "alafranga tuvalet | klozet | tuvalet | wc | WC"],
+      "vi": ["bồn cầu", "bệ xí | bồn cầu"],
+      "nl": ["toilet", "toilet | wc"]
+    }
+  ],
+  "🚾": [
+    "other",
+    "water closet",
+    {
+      "en": [
+        "water closet",
+        "bathroom | closet | lavatory | restroom | toilet | water | WC"
+      ],
+      "ru": ["туалет", "WC | общественный | туалет | уборная | унитаз"],
+      "pl": ["WC", "szalet | toaleta | ubikacja | ustęp | WC"],
+      "fr": ["WC", "toilettes | WC"],
+      "de": ["WC", "Toilette | WC"],
+      "es": ["aseos", "aseos | lavabo | servicios | WC"],
+      "pt": [
+        "WC",
+        "latrina | lavabo | privada | toalete | vaso sanitário | WC"
+      ],
+      "it": [
+        "simbolo del WC",
+        "bagni | bagno | gabinetto | segnale | servizi | simbolo del WC | toilette | WC"
+      ],
+      "ro": ["wc", "baie | bărbați | closet | toaletă | wc"],
+      "he": ["שלט WC", "WC | בית שימוש | נוחיות | ציבוריים | שירותים | שלט WC"],
+      "ar": [
+        "حمام",
+        "WC | بيت الخلاء | حمام | خزانة | خلاء | دورة مياه | رمز | مرحاض"
+      ],
+      "tr": ["wc", "lavabo | tuvalet | wc | WC"],
+      "vi": ["WC", "nhà vệ sinh | nước | phòng vệ sinh | wc | WC"],
+      "nl": ["wc", "toilet | wasgelegenheid | water | wc"]
+    }
+  ],
+  "🚿": [
+    "other",
+    "shower",
+    {
+      "en": ["shower", "shower | water"],
+      "ru": [
+        "душ",
+        "вода | душ | мыться | принимать душ | струя воды | чистота"
+      ],
+      "pl": ["prysznic", "łazienka | prysznic | woda"],
+      "fr": ["douche", "douche | eau | pommeau de douche"],
+      "de": ["Dusche", "Dusche | Duschkopf"],
+      "es": ["ducha", "agua | baño | ducha"],
+      "pt": ["chuveiro", "água | banho | chuveiro | ducha"],
+      "it": ["doccia", "aqua | doccia | fare la doccia | lavare | lavarsi"],
+      "ro": ["duș", "apă | duș"],
+      "he": ["מקלחת", "ברז | דוש | מים | מקלחת"],
+      "ar": ["دوش", "استحمام شاور | بخاخ | دوش"],
+      "tr": ["duş", "duş | su"],
+      "vi": ["vòi hoa sen", "nước | vòi hoa sen"],
+      "nl": ["douche", "douche | douchekop | water"]
+    }
+  ],
+  "🛀": [
+    "other",
+    "bath",
+    {
+      "en": ["person taking bath", "bath | bathtub | person | taking | tub"],
+      "ru": ["человек в ванне", "ванна | ванная | вода | человек"],
+      "pl": [
+        "osoba biorąca kąpiel",
+        "biorąca kąpiel | kąpiel | osoba | w wannie | wanna"
+      ],
+      "fr": [
+        "personne prenant un bain",
+        "baignoire | bain | personne prenant un bain | personne qui prend un bain"
+      ],
+      "de": [
+        "badende Person",
+        "Bad | baden | badende Person | Badewanne | Badezimmer | Dusche | entspannen"
+      ],
+      "es": [
+        "persona en la bañera",
+        "bañera | baño | persona | persona en la bañera"
+      ],
+      "pt": [
+        "pessoa tomando banho",
+        "água | banheira | banho | espuma | pessoa"
+      ],
+      "it": [
+        "persona che fa il bagno",
+        "bagno | doccia | fare il bagno | lavarsi | persona che fa il bagno | relax | vasca da bagno"
+      ],
+      "ro": [
+        "persoană care face baie",
+        "baie | cadă | om | persoană care face baie"
+      ],
+      "he": ["אדם באמבטיה", "אדם באמבטיה | אמבטיה | מקלחת"],
+      "ar": ["شخص يستحم", "استحمام | بانيو | حوض استحمام | دوش | شخص يستحم"],
+      "tr": ["banyo yapan kişi", "banyo | banyo yapan kişi | küvet"],
+      "vi": ["người đang tắm bồn", "bồn tắm | người đang tắm bồn | tắm"],
+      "nl": [
+        "persoon in badkuip",
+        "bad | badkuip | badkuip met douche | persoon in bad | persoon in badkuip"
+      ]
+    }
+  ],
+  "🛀🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person taking bath: light skin tone",
+        "bath | bathtub | light skin tone | person | taking | tub"
+      ],
+      "ru": [
+        "человек в ванне: очень светлый тон кожи",
+        "ванна | ванная | вода | очень светлый тон кожи | человек"
+      ],
+      "pl": [
+        "osoba biorąca kąpiel: karnacja jasna",
+        "biorąca kąpiel | kąpiel | karnacja jasna | osoba | w wannie | wanna"
+      ],
+      "fr": [
+        "personne prenant un bain : peau claire",
+        "baignoire | bain | peau claire | personne prenant un bain | personne qui prend un bain"
+      ],
+      "de": [
+        "badende Person: helle Hautfarbe",
+        "Bad | baden | badende Person | Badewanne | Badezimmer | Dusche | entspannen | helle Hautfarbe"
+      ],
+      "es": [
+        "persona en la bañera: tono de piel claro",
+        "bañera | baño | persona | persona en la bañera | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa tomando banho: pele clara",
+        "água | banheira | banho | espuma | pele clara | pessoa"
+      ],
+      "it": [
+        "persona che fa il bagno: carnagione chiara",
+        "bagno | carnagione chiara | doccia | fare il bagno | lavarsi | persona che fa il bagno | relax | vasca da bagno"
+      ],
+      "ro": [
+        "persoană care face baie: ton deschis al pielii",
+        "baie | cadă | om | persoană care face baie | ton deschis al pielii"
+      ],
+      "he": [
+        "אדם באמבטיה: גוון עור בהיר",
+        "אדם באמבטיה | אמבטיה | גוון עור בהיר | מקלחת"
+      ],
+      "ar": [
+        "شخص يستحم: بشرة بلون فاتح",
+        "استحمام | بانيو | بشرة بلون فاتح | حوض استحمام | دوش | شخص يستحم"
+      ],
+      "tr": [
+        "banyo yapan kişi: açık cilt tonu",
+        "açık cilt tonu | banyo | banyo yapan kişi | küvet"
+      ],
+      "vi": [
+        "người đang tắm bồn: màu da sáng",
+        "bồn tắm | màu da sáng | người đang tắm bồn | tắm"
+      ],
+      "nl": [
+        "persoon in badkuip: lichte huidskleur",
+        "bad | badkuip | badkuip met douche | lichte huidskleur | persoon in bad | persoon in badkuip"
+      ]
+    }
+  ],
+  "🛀🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person taking bath: medium-light skin tone",
+        "bath | bathtub | medium-light skin tone | person | taking | tub"
+      ],
+      "ru": [
+        "человек в ванне: светлый тон кожи",
+        "ванна | ванная | вода | светлый тон кожи | человек"
+      ],
+      "pl": [
+        "osoba biorąca kąpiel: karnacja średnio jasna",
+        "biorąca kąpiel | kąpiel | karnacja średnio jasna | osoba | w wannie | wanna"
+      ],
+      "fr": [
+        "personne prenant un bain : peau moyennement claire",
+        "baignoire | bain | peau moyennement claire | personne prenant un bain | personne qui prend un bain"
+      ],
+      "de": [
+        "badende Person: mittelhelle Hautfarbe",
+        "Bad | baden | badende Person | Badewanne | Badezimmer | Dusche | entspannen | mittelhelle Hautfarbe"
+      ],
+      "es": [
+        "persona en la bañera: tono de piel claro medio",
+        "bañera | baño | persona | persona en la bañera | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoa tomando banho: pele morena clara",
+        "água | banheira | banho | espuma | pele morena clara | pessoa"
+      ],
+      "it": [
+        "persona che fa il bagno: carnagione abbastanza chiara",
+        "bagno | carnagione abbastanza chiara | doccia | fare il bagno | lavarsi | persona che fa il bagno | relax | vasca da bagno"
+      ],
+      "ro": [
+        "persoană care face baie: ton semi‑deschis al pielii",
+        "baie | cadă | om | persoană care face baie | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אדם באמבטיה: גוון עור בהיר בינוני",
+        "אדם באמבטיה | אמבטיה | גוון עור בהיר בינוני | מקלחת"
+      ],
+      "ar": [
+        "شخص يستحم: بشرة بلون فاتح ومعتدل",
+        "استحمام | بانيو | بشرة بلون فاتح ومعتدل | حوض استحمام | دوش | شخص يستحم"
+      ],
+      "tr": [
+        "banyo yapan kişi: orta açık cilt tonu",
+        "banyo | banyo yapan kişi | küvet | orta açık cilt tonu"
+      ],
+      "vi": [
+        "người đang tắm bồn: màu da sáng trung bình",
+        "bồn tắm | màu da sáng trung bình | người đang tắm bồn | tắm"
+      ],
+      "nl": [
+        "persoon in badkuip: lichtgetinte huidskleur",
+        "bad | badkuip | badkuip met douche | lichtgetinte huidskleur | persoon in bad | persoon in badkuip"
+      ]
+    }
+  ],
+  "🛀🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "person taking bath: medium skin tone",
+        "bath | bathtub | medium skin tone | person | taking | tub"
+      ],
+      "ru": [
+        "человек в ванне: средний тон кожи",
+        "ванна | ванная | вода | средний тон кожи | человек"
+      ],
+      "pl": [
+        "osoba biorąca kąpiel: karnacja średnia",
+        "biorąca kąpiel | kąpiel | karnacja średnia | osoba | w wannie | wanna"
+      ],
+      "fr": [
+        "personne prenant un bain : peau légèrement mate",
+        "baignoire | bain | peau légèrement mate | personne prenant un bain | personne qui prend un bain"
+      ],
+      "de": [
+        "badende Person: mittlere Hautfarbe",
+        "Bad | baden | badende Person | Badewanne | Badezimmer | Dusche | entspannen | mittlere Hautfarbe"
+      ],
+      "es": [
+        "persona en la bañera: tono de piel medio",
+        "bañera | baño | persona | persona en la bañera | tono de piel medio"
+      ],
+      "pt": [
+        "pessoa tomando banho: pele morena",
+        "água | banheira | banho | espuma | pele morena | pessoa"
+      ],
+      "it": [
+        "persona che fa il bagno: carnagione olivastra",
+        "bagno | carnagione olivastra | doccia | fare il bagno | lavarsi | persona che fa il bagno | relax | vasca da bagno"
+      ],
+      "ro": [
+        "persoană care face baie: ton mediu al pielii",
+        "baie | cadă | om | persoană care face baie | ton mediu al pielii"
+      ],
+      "he": [
+        "אדם באמבטיה: גוון עור בינוני",
+        "אדם באמבטיה | אמבטיה | גוון עור בינוני | מקלחת"
+      ],
+      "ar": [
+        "شخص يستحم: بشرة بلون معتدل",
+        "استحمام | بانيو | بشرة بلون معتدل | حوض استحمام | دوش | شخص يستحم"
+      ],
+      "tr": [
+        "banyo yapan kişi: orta cilt tonu",
+        "banyo | banyo yapan kişi | küvet | orta cilt tonu"
+      ],
+      "vi": [
+        "người đang tắm bồn: màu da trung bình",
+        "bồn tắm | màu da trung bình | người đang tắm bồn | tắm"
+      ],
+      "nl": [
+        "persoon in badkuip: getinte huidskleur",
+        "bad | badkuip | badkuip met douche | getinte huidskleur | persoon in bad | persoon in badkuip"
+      ]
+    }
+  ],
+  "🛀🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "person taking bath: medium-dark skin tone",
+        "bath | bathtub | medium-dark skin tone | person | taking | tub"
+      ],
+      "ru": [
+        "человек в ванне: темный тон кожи",
+        "ванна | ванная | вода | темный тон кожи | человек"
+      ],
+      "pl": [
+        "osoba biorąca kąpiel: karnacja średnio ciemna",
+        "biorąca kąpiel | kąpiel | karnacja średnio ciemna | osoba | w wannie | wanna"
+      ],
+      "fr": [
+        "personne prenant un bain : peau mate",
+        "baignoire | bain | peau mate | personne prenant un bain | personne qui prend un bain"
+      ],
+      "de": [
+        "badende Person: mitteldunkle Hautfarbe",
+        "Bad | baden | badende Person | Badewanne | Badezimmer | Dusche | entspannen | mitteldunkle Hautfarbe"
+      ],
+      "es": [
+        "persona en la bañera: tono de piel oscuro medio",
+        "bañera | baño | persona | persona en la bañera | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "pessoa tomando banho: pele morena escura",
+        "água | banheira | banho | espuma | pele morena escura | pessoa"
+      ],
+      "it": [
+        "persona che fa il bagno: carnagione abbastanza scura",
+        "bagno | carnagione abbastanza scura | doccia | fare il bagno | lavarsi | persona che fa il bagno | relax | vasca da bagno"
+      ],
+      "ro": [
+        "persoană care face baie: ton semi‑închis al pielii",
+        "baie | cadă | om | persoană care face baie | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אדם באמבטיה: גוון עור כהה בינוני",
+        "אדם באמבטיה | אמבטיה | גוון עור כהה בינוני | מקלחת"
+      ],
+      "ar": [
+        "شخص يستحم: بشرة بلون معتدل مائل للغامق",
+        "استحمام | بانيو | بشرة بلون معتدل مائل للغامق | حوض استحمام | دوش | شخص يستحم"
+      ],
+      "tr": [
+        "banyo yapan kişi: orta koyu cilt tonu",
+        "banyo | banyo yapan kişi | küvet | orta koyu cilt tonu"
+      ],
+      "vi": [
+        "người đang tắm bồn: màu da tối trung bình",
+        "bồn tắm | màu da tối trung bình | người đang tắm bồn | tắm"
+      ],
+      "nl": [
+        "persoon in badkuip: donkergetinte huidskleur",
+        "bad | badkuip | badkuip met douche | donkergetinte huidskleur | persoon in bad | persoon in badkuip"
+      ]
+    }
+  ],
+  "🛀🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "person taking bath: dark skin tone",
+        "bath | bathtub | dark skin tone | person | taking | tub"
+      ],
+      "ru": [
+        "человек в ванне: очень темный тон кожи",
+        "ванна | ванная | вода | очень темный тон кожи | человек"
+      ],
+      "pl": [
+        "osoba biorąca kąpiel: karnacja ciemna",
+        "biorąca kąpiel | kąpiel | karnacja ciemna | osoba | w wannie | wanna"
+      ],
+      "fr": [
+        "personne prenant un bain : peau foncée",
+        "baignoire | bain | peau foncée | personne prenant un bain | personne qui prend un bain"
+      ],
+      "de": [
+        "badende Person: dunkle Hautfarbe",
+        "Bad | baden | badende Person | Badewanne | Badezimmer | dunkle Hautfarbe | Dusche | entspannen"
+      ],
+      "es": [
+        "persona en la bañera: tono de piel oscuro",
+        "bañera | baño | persona | persona en la bañera | tono de piel oscuro"
+      ],
+      "pt": [
+        "pessoa tomando banho: pele escura",
+        "água | banheira | banho | espuma | pele escura | pessoa"
+      ],
+      "it": [
+        "persona che fa il bagno: carnagione scura",
+        "bagno | carnagione scura | doccia | fare il bagno | lavarsi | persona che fa il bagno | relax | vasca da bagno"
+      ],
+      "ro": [
+        "persoană care face baie: ton închis al pielii",
+        "baie | cadă | om | persoană care face baie | ton închis al pielii"
+      ],
+      "he": [
+        "אדם באמבטיה: גוון עור כהה",
+        "אדם באמבטיה | אמבטיה | גוון עור כהה | מקלחת"
+      ],
+      "ar": [
+        "شخص يستحم: بشرة بلون غامق",
+        "استحمام | بانيو | بشرة بلون غامق | حوض استحمام | دوش | شخص يستحم"
+      ],
+      "tr": [
+        "banyo yapan kişi: koyu cilt tonu",
+        "banyo | banyo yapan kişi | koyu cilt tonu | küvet"
+      ],
+      "vi": [
+        "người đang tắm bồn: màu da tối",
+        "bồn tắm | màu da tối | người đang tắm bồn | tắm"
+      ],
+      "nl": [
+        "persoon in badkuip: donkere huidskleur",
+        "bad | badkuip | badkuip met douche | donkere huidskleur | persoon in bad | persoon in badkuip"
+      ]
+    }
+  ],
+  "🛁": [
+    "other",
+    "bathtub",
+    {
+      "en": ["bathtub", "bath | bathtub"],
+      "ru": [
+        "ванна",
+        "ванна | ванная | вода | купаться | мыться | принимать ванную | чистота"
+      ],
+      "pl": ["wanna", "kąpiel | wanna"],
+      "fr": ["baignoire", "baignoire | bain | mousse"],
+      "de": ["Badewanne", "Bad | Badewanne | Badezimmer | Dusche"],
+      "es": ["bañera", "bañera | baño"],
+      "pt": ["banheira", "banheira | banho"],
+      "it": [
+        "vasca",
+        "bagno | doccia | lavare | lavarsi | relax | vasca | vasca da bagno"
+      ],
+      "ro": ["cadă", "baie | cadă"],
+      "he": ["אמבטיה", "אמבטיה | מקלחת"],
+      "ar": [
+        "حوض استحمام",
+        "استرخاء | بانيو | حمام | حوض استحمام | دوش | رغوة | صابون | مغطس"
+      ],
+      "tr": ["banyo küveti", "banyo | banyo küveti | köpük | köpüklü banyo"],
+      "vi": ["bồn tắm", "bồn tắm | tắm"],
+      "nl": ["badkuip", "bad | badkuip | badkuip met douche"]
+    }
+  ],
+  "🛂": [
+    "other",
+    "passport control",
+    {
+      "en": ["passport control", "control | passport"],
+      "ru": [
+        "паспортный контроль",
+        "контроль | паспортный | печать | пограничник | проверка"
+      ],
+      "pl": [
+        "kontrola paszportowa",
+        "granica | graniczna | kontrola | kontrola paszportowa | paszport"
+      ],
+      "fr": [
+        "contrôle des passeports",
+        "contrôle | contrôle des passeports | passeport"
+      ],
+      "de": ["Passkontrolle", "Pass | Passkontrolle"],
+      "es": [
+        "control de pasaportes",
+        "control | control de pasaportes | pasaportes"
+      ],
+      "pt": ["controle de passaportes", "controle | passaporte"],
+      "it": [
+        "simbolo del controllo passaporti",
+        "aeroporto | controllo | dogana | immigrazione | passaporti | passaporto | segnale | simbolo del controllo passaporti"
+      ],
+      "ro": [
+        "control pașapoarte",
+        "control | control pașapoarte | graniță | pașaport | verificare pașapoarte"
+      ],
+      "he": [
+        "שלט עמדת דרכונים",
+        "ביקורת גבולות | דלפק דרכונים | דרכון | דרכונים"
+      ],
+      "ar": [
+        "مراقبة جوازات السفر",
+        "باسبور | جواز سفر | رمز | سفر | مراقبة | مراقبة جوازات السفر"
+      ],
+      "tr": ["pasaport kontrolü", "kontrol | pasaport | pasaport kontrolü"],
+      "vi": ["kiểm soát hộ chiếu", "hộ chiếu | kiểm soát | kiểm soát hộ chiếu"],
+      "nl": ["paspoortcontrole", "controle | paspoort"]
+    }
+  ],
+  "🛃": [
+    "other",
+    "customs",
+    {
+      "en": ["customs", "customs | packing"],
+      "ru": ["таможня", "багаж | граница | проверка | таможенник | таможня"],
+      "pl": ["kontrola celna", "celna | komora celna | kontrola | lotnisko"],
+      "fr": ["douane", "douane | douanes"],
+      "de": ["Zollkontrolle", "Zoll | Zollkontrolle"],
+      "es": ["aduana", "aduana"],
+      "pt": [
+        "alfândega",
+        "aduana | aduaneira | alfândega | bens | federal | impostos | receita"
+      ],
+      "it": [
+        "simbolo della dogana",
+        "confine di Stato | controllo doganale | dogana | doganiere | frontiera | polizia | polizia di frontiera | simbolo della dogana | viaggiare"
+      ],
+      "ro": [
+        "vamă",
+        "bagaj | graniță | împachetare | împachetat | pachet | punct vamal | vamă"
+      ],
+      "he": [
+        "שלט עמדת מכס",
+        "בדיקה | ביקורת גבולות | בית המכס | דלפק מכס | מכס"
+      ],
+      "ar": ["جمارك", "جمارك | جمرك | رمز"],
+      "tr": ["gümrük", "gümrük"],
+      "vi": ["hải quan", "hải quan"],
+      "nl": ["douane", "douane | inpakken"]
+    }
+  ],
+  "🛄": [
+    "other",
+    "baggage claim",
+    {
+      "en": [
+        "baggage claim",
+        "arrived | baggage | bags | case | checked | claim | journey | packing | plane | ready | travel | trip"
+      ],
+      "ru": [
+        "получение багажа",
+        "багаж | лента | получение | прибытие | чемодан"
+      ],
+      "pl": ["odbiór bagażu", "bagaż | bagażu | lotnisko | odbiór"],
+      "fr": [
+        "retrait des bagages",
+        "aéroport | arrivée | avion | bagages | retrait des bagages | valise | voyage"
+      ],
+      "de": ["Gepäckausgabe", "Gepäck | Gepäckausgabe"],
+      "es": [
+        "recogida de equipajes",
+        "equipaje | maleta | recogida de equipajes"
+      ],
+      "pt": [
+        "restituição de bagagem",
+        "aeroporto | área | bagagem | bagagens | esteira | férias | mala | recolhimento | restituição | viagem"
+      ],
+      "it": [
+        "simbolo del ritiro bagagli",
+        "aereo | aeroporto | arrivare | bagagli | check in | gita | partire | pronti | ritiro | simbolo del ritiro bagagli | valigie | viaggio"
+      ],
+      "ro": [
+        "recuperare bagaje",
+        "ajuns | aterizat | avion | bagaje | călătorie | checkin | gata | împachetat | recuperare | vacanță | valiză | valize | voiaj"
+      ],
+      "he": [
+        "שלט איסוף כבודה",
+        "איסוף | כבודה | מזוודות | מטוס | מטען | נסיעה"
+      ],
+      "ar": ["استرداد الحقائب", "استرداد الحقائب | حقائب | شناط"],
+      "tr": [
+        "bagaj teslim",
+        "bagaj | bagaj alma yeri | bagaj teslim | bavul | çanta | seyahat"
+      ],
+      "vi": ["nơi nhận hành lý", "hành lý | nhận | nơi nhận hành lý"],
+      "nl": [
+        "bagage afhalen",
+        "aangekomen | bagage | ingecheckt | inpakken | klaar | koffer | ophalen | reis | reisje | reizen | tassen | vliegtuig"
+      ]
+    }
+  ],
+  "🛅": [
+    "other",
+    "left luggage",
+    {
+      "en": ["left luggage", "baggage | case | left | locker | luggage"],
+      "ru": [
+        "забытый багаж",
+        "багаж | замок | кабинка | камера | ключ | хранения | чемодан"
+      ],
+      "pl": [
+        "przechowalnia bagażu",
+        "bagaż | bagażu | kluczyk | pozostawiony | przechowalnia | skrytka | walizka | zamknięcie"
+      ],
+      "fr": ["consigne", "bagages | casier | clé | consigne | valise"],
+      "de": ["Gepäckaufbewahrung", "Gepäck | Gepäckaufbewahrung | Schließfach"],
+      "es": [
+        "consigna",
+        "consigna | depósito | equipaje | servicio de equipaje en depósito"
+      ],
+      "pt": [
+        "depósito de bagagem",
+        "bagagem | depósito | esquecida | malas | serviço"
+      ],
+      "it": [
+        "simbolo del deposito bagagli",
+        "aeroporto | bagagli | deposito | servizio bagagli | sicurezza | simbolo del deposito bagagli | viaggiare"
+      ],
+      "ro": [
+        "depozitare bagaje",
+        "bagaje | depozitare bagaje | dulap | păstrare bagaje | stocare bagaje | valiză | valize"
+      ],
+      "he": ["שלט אחסון כבודה", "אחסון | כבודה | מזוודות | תיקים"],
+      "ar": [
+        "أمتعة",
+        "أمتعة | امتعة | تخزين | حفظ حقائب | حقائب سفر | خدمة حقائب السفر | خزانة | رمز | سفر | شنط | مطار"
+      ],
+      "tr": [
+        "eşya emanet",
+        "bagaj | bagaj hizmeti | eşya emanet | kasa | kayıp bagaj"
+      ],
+      "vi": ["hành lý bỏ quên", "hành lý | hành lý bỏ quên | tủ khóa"],
+      "nl": ["bagagekluis", "achtergelaten | bagage | kluisje | koffer"]
+    }
+  ],
+  "🛆": ["other", "triangle with rounded corners", {}],
+  "🛇": ["other", "prohibited sign", {}],
+  "🛈": ["other", "circled information source", {}],
+  "🛉": ["other", "boys symbol", {}],
+  "🛊": ["other", "girls symbol", {}],
+  "🛋": [
+    "other",
+    "couch and lamp",
+    {
+      "en": ["couch and lamp", "couch | hotel | lamp"],
+      "ru": [
+        "диван и торшер",
+        "вечер | диван | диван и торшер | лампа | лень | отдых дома | торшер | уют"
+      ],
+      "pl": ["kanapa i lampa", "hotel | kanapa | lampa | wypoczynek"],
+      "fr": [
+        "canapé et lampe",
+        "canapé | canapé avec une lampe | canapé et lampe | lampe"
+      ],
+      "de": ["Sofa und Lampe", "Couch | Lampe | Sofa | Sofa und Lampe"],
+      "es": ["sofá y lámpara", "hotel | lámpara | sofá | sofá y lámpara"],
+      "pt": ["sofá e luminária", "hotel | lâmpada | sofá | sofá e luminária"],
+      "it": [
+        "divano e lampada",
+        "casa | divano | divano e lampada | lampada | leggere | mobili | relax | riposare | salotto"
+      ],
+      "ro": [
+        "canapea și lampă",
+        "canapea | canapea și lampă | hotel | lampă | lumină | veioză"
+      ],
+      "he": ["ספה ומנורה", "מלון | מנורה | סלון | ספה | ספה ומנורה"],
+      "ar": [
+        "كنبة ومصباح",
+        "استراحة | استرخاء | اوتيل | صوفه | فندق | كنبة | كنبة ومصباح | مصباح"
+      ],
+      "tr": [
+        "kanepe ve lamba",
+        "kanepe | kanepe ve lamba | koltuk | lamba | otel"
+      ],
+      "vi": ["ghế dài và đèn", "đèn | đi văng | ghế dài và đèn | khách sạn"],
+      "nl": ["bank en lamp", "bank | bank en lamp | hotel | lamp | sofa"]
+    }
+  ],
+  "🛌": [
+    "other",
+    "sleeping accommodation",
+    {
+      "en": [
+        "person in bed",
+        "bed | bedtime | good | goodnight | hotel | nap | night | person | sleep | tired | zzz"
+      ],
+      "ru": [
+        "человек в кровати",
+        "гостиница | кровать | ночь | отель | сон | спит | человек"
+      ],
+      "pl": [
+        "osoba w łóżku",
+        "dobranoc | drzemka | hotel | łóżko | nocleg | nocowanie | osoba | pensjonat | posłanie | sen | spać | w łóżku | zzz"
+      ],
+      "fr": [
+        "personne au lit",
+        "auberge | bonne nuit | coucher | dodo | dormir | fatigué | hôtel | lit | personne au lit | sieste"
+      ],
+      "de": [
+        "im Bett liegende Person",
+        "Bett | gute Nacht | Heia | im Bett liegende Person | Im Bett liegende Person | müde | Nachtruhe | schlaf schön | schlafen | zzz"
+      ],
+      "es": ["persona en la cama", "dormir | hotel | persona en la cama"],
+      "pt": [
+        "pessoa deitada na cama",
+        "boa | cama | cochilo | dormindo | dormir | hotel | noite | pessoa | soneca | sono"
+      ],
+      "it": [
+        "persona a letto",
+        "addormentato | arredamento | dormire | hotel | letto | notte | persona a letto | sonno | stanca | stanco | zzz"
+      ],
+      "ro": [
+        "persoană în pat",
+        "a dormi | adormit | doarme | dormit | hotel | nani | noapte bună | oboseală | obosit | om | ora de culcare | pat | persoană în pat | pui de somn | somn | somn ușor | somnic | zzzz"
+      ],
+      "he": [
+        "אדם במיטה",
+        "חרופ | ישן | לילה | לילה טוב | לישון | מיטה | מלון | עייפות | שינה"
+      ],
+      "ar": [
+        "شخص على سرير",
+        "استلقاء | الأشخاص والاستلقاء على السرير | اوتيل | راحة | شخص على سرير | فندق | في سابع نومة | نائم | نايم | نوم | ينام"
+      ],
+      "tr": [
+        "yatakta yatan kişi",
+        "gece | insan | iyi geceler | iyi uykular | kestirme | otel | uyku | uyku saati | uyumak | yatan insan | yatmak | zzz"
+      ],
+      "vi": [
+        "người trên giường",
+        "chợp mắt | khách sạn | mệt mỏi | ngủ | ngủ ngoan nhé | người trên giường | say giấc"
+      ],
+      "nl": [
+        "persoon in bed",
+        "bed | deken | dutje | goedenacht | hotel | moe | persoon in bed | slaap | slaapwel | slapen | vermoeid | welterusten | zzz"
+      ]
+    }
+  ],
+  "🛌🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in bed: light skin tone",
+        "bed | bedtime | good | goodnight | hotel | light skin tone | nap | night | person | sleep | tired | zzz"
+      ],
+      "ru": [
+        "человек в кровати: очень светлый тон кожи",
+        "гостиница | кровать | ночь | отель | очень светлый тон кожи | сон | спит | человек"
+      ],
+      "pl": [
+        "osoba w łóżku: karnacja jasna",
+        "dobranoc | drzemka | hotel | karnacja jasna | łóżko | nocleg | nocowanie | osoba | pensjonat | posłanie | sen | spać | w łóżku | zzz"
+      ],
+      "fr": [
+        "personne au lit : peau claire",
+        "auberge | bonne nuit | coucher | dodo | dormir | fatigué | hôtel | lit | peau claire | personne au lit | sieste"
+      ],
+      "de": [
+        "im Bett liegende Person: helle Hautfarbe",
+        "Bett | gute Nacht | Heia | helle Hautfarbe | im Bett liegende Person | Im Bett liegende Person | müde | Nachtruhe | schlaf schön | schlafen | zzz"
+      ],
+      "es": [
+        "persona en la cama: tono de piel claro",
+        "dormir | hotel | persona en la cama | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa deitada na cama: pele clara",
+        "boa | cama | cochilo | dormindo | dormir | hotel | noite | pele clara | pessoa | soneca | sono"
+      ],
+      "it": [
+        "persona a letto: carnagione chiara",
+        "addormentato | arredamento | carnagione chiara | dormire | hotel | letto | notte | persona a letto | sonno | stanca | stanco | zzz"
+      ],
+      "ro": [
+        "persoană în pat: ton deschis al pielii",
+        "a dormi | adormit | doarme | dormit | hotel | nani | noapte bună | oboseală | obosit | om | ora de culcare | pat | persoană în pat | pui de somn | somn | somn ușor | somnic | ton deschis al pielii | zzzz"
+      ],
+      "he": [
+        "אדם במיטה: גוון עור בהיר",
+        "גוון עור בהיר | חרופ | ישן | לילה | לילה טוב | לישון | מיטה | מלון | עייפות | שינה"
+      ],
+      "ar": [
+        "شخص على سرير: بشرة بلون فاتح",
+        "استلقاء | الأشخاص والاستلقاء على السرير | اوتيل | بشرة بلون فاتح | راحة | شخص على سرير | فندق | في سابع نومة | نائم | نايم | نوم | ينام"
+      ],
+      "tr": [
+        "yatakta yatan kişi: açık cilt tonu",
+        "açık cilt tonu | gece | insan | iyi geceler | iyi uykular | kestirme | otel | uyku | uyku saati | uyumak | yatan insan | yatmak | zzz"
+      ],
+      "vi": [
+        "người trên giường: màu da sáng",
+        "chợp mắt | khách sạn | màu da sáng | mệt mỏi | ngủ | ngủ ngoan nhé | người trên giường | say giấc"
+      ],
+      "nl": [
+        "persoon in bed: lichte huidskleur",
+        "bed | deken | dutje | goedenacht | hotel | lichte huidskleur | moe | persoon in bed | slaap | slaapwel | slapen | vermoeid | welterusten | zzz"
+      ]
+    }
+  ],
+  "🛌🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in bed: medium-light skin tone",
+        "bed | bedtime | good | goodnight | hotel | medium-light skin tone | nap | night | person | sleep | tired | zzz"
+      ],
+      "ru": [
+        "человек в кровати: светлый тон кожи",
+        "гостиница | кровать | ночь | отель | светлый тон кожи | сон | спит | человек"
+      ],
+      "pl": [
+        "osoba w łóżku: karnacja średnio jasna",
+        "dobranoc | drzemka | hotel | karnacja średnio jasna | łóżko | nocleg | nocowanie | osoba | pensjonat | posłanie | sen | spać | w łóżku | zzz"
+      ],
+      "fr": [
+        "personne au lit : peau moyennement claire",
+        "auberge | bonne nuit | coucher | dodo | dormir | fatigué | hôtel | lit | peau moyennement claire | personne au lit | sieste"
+      ],
+      "de": [
+        "im Bett liegende Person: mittelhelle Hautfarbe",
+        "Bett | gute Nacht | Heia | im Bett liegende Person | Im Bett liegende Person | mittelhelle Hautfarbe | müde | Nachtruhe | schlaf schön | schlafen | zzz"
+      ],
+      "es": [
+        "persona en la cama: tono de piel claro medio",
+        "dormir | hotel | persona en la cama | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoa deitada na cama: pele morena clara",
+        "boa | cama | cochilo | dormindo | dormir | hotel | noite | pele morena clara | pessoa | soneca | sono"
+      ],
+      "it": [
+        "persona a letto: carnagione abbastanza chiara",
+        "addormentato | arredamento | carnagione abbastanza chiara | dormire | hotel | letto | notte | persona a letto | sonno | stanca | stanco | zzz"
+      ],
+      "ro": [
+        "persoană în pat: ton semi‑deschis al pielii",
+        "a dormi | adormit | doarme | dormit | hotel | nani | noapte bună | oboseală | obosit | om | ora de culcare | pat | persoană în pat | pui de somn | somn | somn ușor | somnic | ton semi‑deschis al pielii | zzzz"
+      ],
+      "he": [
+        "אדם במיטה: גוון עור בהיר בינוני",
+        "גוון עור בהיר בינוני | חרופ | ישן | לילה | לילה טוב | לישון | מיטה | מלון | עייפות | שינה"
+      ],
+      "ar": [
+        "شخص على سرير: بشرة بلون فاتح ومعتدل",
+        "استلقاء | الأشخاص والاستلقاء على السرير | اوتيل | بشرة بلون فاتح ومعتدل | راحة | شخص على سرير | فندق | في سابع نومة | نائم | نايم | نوم | ينام"
+      ],
+      "tr": [
+        "yatakta yatan kişi: orta açık cilt tonu",
+        "gece | insan | iyi geceler | iyi uykular | kestirme | orta açık cilt tonu | otel | uyku | uyku saati | uyumak | yatan insan | yatmak | zzz"
+      ],
+      "vi": [
+        "người trên giường: màu da sáng trung bình",
+        "chợp mắt | khách sạn | màu da sáng trung bình | mệt mỏi | ngủ | ngủ ngoan nhé | người trên giường | say giấc"
+      ],
+      "nl": [
+        "persoon in bed: lichtgetinte huidskleur",
+        "bed | deken | dutje | goedenacht | hotel | lichtgetinte huidskleur | moe | persoon in bed | slaap | slaapwel | slapen | vermoeid | welterusten | zzz"
+      ]
+    }
+  ],
+  "🛌🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in bed: medium skin tone",
+        "bed | bedtime | good | goodnight | hotel | medium skin tone | nap | night | person | sleep | tired | zzz"
+      ],
+      "ru": [
+        "человек в кровати: средний тон кожи",
+        "гостиница | кровать | ночь | отель | сон | спит | средний тон кожи | человек"
+      ],
+      "pl": [
+        "osoba w łóżku: karnacja średnia",
+        "dobranoc | drzemka | hotel | karnacja średnia | łóżko | nocleg | nocowanie | osoba | pensjonat | posłanie | sen | spać | w łóżku | zzz"
+      ],
+      "fr": [
+        "personne au lit : peau légèrement mate",
+        "auberge | bonne nuit | coucher | dodo | dormir | fatigué | hôtel | lit | peau légèrement mate | personne au lit | sieste"
+      ],
+      "de": [
+        "im Bett liegende Person: mittlere Hautfarbe",
+        "Bett | gute Nacht | Heia | im Bett liegende Person | Im Bett liegende Person | mittlere Hautfarbe | müde | Nachtruhe | schlaf schön | schlafen | zzz"
+      ],
+      "es": [
+        "persona en la cama: tono de piel medio",
+        "dormir | hotel | persona en la cama | tono de piel medio"
+      ],
+      "pt": [
+        "pessoa deitada na cama: pele morena",
+        "boa | cama | cochilo | dormindo | dormir | hotel | noite | pele morena | pessoa | soneca | sono"
+      ],
+      "it": [
+        "persona a letto: carnagione olivastra",
+        "addormentato | arredamento | carnagione olivastra | dormire | hotel | letto | notte | persona a letto | sonno | stanca | stanco | zzz"
+      ],
+      "ro": [
+        "persoană în pat: ton mediu al pielii",
+        "a dormi | adormit | doarme | dormit | hotel | nani | noapte bună | oboseală | obosit | om | ora de culcare | pat | persoană în pat | pui de somn | somn | somn ușor | somnic | ton mediu al pielii | zzzz"
+      ],
+      "he": [
+        "אדם במיטה: גוון עור בינוני",
+        "גוון עור בינוני | חרופ | ישן | לילה | לילה טוב | לישון | מיטה | מלון | עייפות | שינה"
+      ],
+      "ar": [
+        "شخص على سرير: بشرة بلون معتدل",
+        "استلقاء | الأشخاص والاستلقاء على السرير | اوتيل | بشرة بلون معتدل | راحة | شخص على سرير | فندق | في سابع نومة | نائم | نايم | نوم | ينام"
+      ],
+      "tr": [
+        "yatakta yatan kişi: orta cilt tonu",
+        "gece | insan | iyi geceler | iyi uykular | kestirme | orta cilt tonu | otel | uyku | uyku saati | uyumak | yatan insan | yatmak | zzz"
+      ],
+      "vi": [
+        "người trên giường: màu da trung bình",
+        "chợp mắt | khách sạn | màu da trung bình | mệt mỏi | ngủ | ngủ ngoan nhé | người trên giường | say giấc"
+      ],
+      "nl": [
+        "persoon in bed: getinte huidskleur",
+        "bed | deken | dutje | getinte huidskleur | goedenacht | hotel | moe | persoon in bed | slaap | slaapwel | slapen | vermoeid | welterusten | zzz"
+      ]
+    }
+  ],
+  "🛌🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in bed: medium-dark skin tone",
+        "bed | bedtime | good | goodnight | hotel | medium-dark skin tone | nap | night | person | sleep | tired | zzz"
+      ],
+      "ru": [
+        "человек в кровати: темный тон кожи",
+        "гостиница | кровать | ночь | отель | сон | спит | темный тон кожи | человек"
+      ],
+      "pl": [
+        "osoba w łóżku: karnacja średnio ciemna",
+        "dobranoc | drzemka | hotel | karnacja średnio ciemna | łóżko | nocleg | nocowanie | osoba | pensjonat | posłanie | sen | spać | w łóżku | zzz"
+      ],
+      "fr": [
+        "personne au lit : peau mate",
+        "auberge | bonne nuit | coucher | dodo | dormir | fatigué | hôtel | lit | peau mate | personne au lit | sieste"
+      ],
+      "de": [
+        "im Bett liegende Person: mitteldunkle Hautfarbe",
+        "Bett | gute Nacht | Heia | im Bett liegende Person | Im Bett liegende Person | mitteldunkle Hautfarbe | müde | Nachtruhe | schlaf schön | schlafen | zzz"
+      ],
+      "es": [
+        "persona en la cama: tono de piel oscuro medio",
+        "dormir | hotel | persona en la cama | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "pessoa deitada na cama: pele morena escura",
+        "boa | cama | cochilo | dormindo | dormir | hotel | noite | pele morena escura | pessoa | soneca | sono"
+      ],
+      "it": [
+        "persona a letto: carnagione abbastanza scura",
+        "addormentato | arredamento | carnagione abbastanza scura | dormire | hotel | letto | notte | persona a letto | sonno | stanca | stanco | zzz"
+      ],
+      "ro": [
+        "persoană în pat: ton semi‑închis al pielii",
+        "a dormi | adormit | doarme | dormit | hotel | nani | noapte bună | oboseală | obosit | om | ora de culcare | pat | persoană în pat | pui de somn | somn | somn ușor | somnic | ton semi‑închis al pielii | zzzz"
+      ],
+      "he": [
+        "אדם במיטה: גוון עור כהה בינוני",
+        "גוון עור כהה בינוני | חרופ | ישן | לילה | לילה טוב | לישון | מיטה | מלון | עייפות | שינה"
+      ],
+      "ar": [
+        "شخص على سرير: بشرة بلون معتدل مائل للغامق",
+        "استلقاء | الأشخاص والاستلقاء على السرير | اوتيل | بشرة بلون معتدل مائل للغامق | راحة | شخص على سرير | فندق | في سابع نومة | نائم | نايم | نوم | ينام"
+      ],
+      "tr": [
+        "yatakta yatan kişi: orta koyu cilt tonu",
+        "gece | insan | iyi geceler | iyi uykular | kestirme | orta koyu cilt tonu | otel | uyku | uyku saati | uyumak | yatan insan | yatmak | zzz"
+      ],
+      "vi": [
+        "người trên giường: màu da tối trung bình",
+        "chợp mắt | khách sạn | màu da tối trung bình | mệt mỏi | ngủ | ngủ ngoan nhé | người trên giường | say giấc"
+      ],
+      "nl": [
+        "persoon in bed: donkergetinte huidskleur",
+        "bed | deken | donkergetinte huidskleur | dutje | goedenacht | hotel | moe | persoon in bed | slaap | slaapwel | slapen | vermoeid | welterusten | zzz"
+      ]
+    }
+  ],
+  "🛌🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in bed: dark skin tone",
+        "bed | bedtime | dark skin tone | good | goodnight | hotel | nap | night | person | sleep | tired | zzz"
+      ],
+      "ru": [
+        "человек в кровати: очень темный тон кожи",
+        "гостиница | кровать | ночь | отель | очень темный тон кожи | сон | спит | человек"
+      ],
+      "pl": [
+        "osoba w łóżku: karnacja ciemna",
+        "dobranoc | drzemka | hotel | karnacja ciemna | łóżko | nocleg | nocowanie | osoba | pensjonat | posłanie | sen | spać | w łóżku | zzz"
+      ],
+      "fr": [
+        "personne au lit : peau foncée",
+        "auberge | bonne nuit | coucher | dodo | dormir | fatigué | hôtel | lit | peau foncée | personne au lit | sieste"
+      ],
+      "de": [
+        "im Bett liegende Person: dunkle Hautfarbe",
+        "Bett | dunkle Hautfarbe | gute Nacht | Heia | im Bett liegende Person | Im Bett liegende Person | müde | Nachtruhe | schlaf schön | schlafen | zzz"
+      ],
+      "es": [
+        "persona en la cama: tono de piel oscuro",
+        "dormir | hotel | persona en la cama | tono de piel oscuro"
+      ],
+      "pt": [
+        "pessoa deitada na cama: pele escura",
+        "boa | cama | cochilo | dormindo | dormir | hotel | noite | pele escura | pessoa | soneca | sono"
+      ],
+      "it": [
+        "persona a letto: carnagione scura",
+        "addormentato | arredamento | carnagione scura | dormire | hotel | letto | notte | persona a letto | sonno | stanca | stanco | zzz"
+      ],
+      "ro": [
+        "persoană în pat: ton închis al pielii",
+        "a dormi | adormit | doarme | dormit | hotel | nani | noapte bună | oboseală | obosit | om | ora de culcare | pat | persoană în pat | pui de somn | somn | somn ușor | somnic | ton închis al pielii | zzzz"
+      ],
+      "he": [
+        "אדם במיטה: גוון עור כהה",
+        "גוון עור כהה | חרופ | ישן | לילה | לילה טוב | לישון | מיטה | מלון | עייפות | שינה"
+      ],
+      "ar": [
+        "شخص على سرير: بشرة بلون غامق",
+        "استلقاء | الأشخاص والاستلقاء على السرير | اوتيل | بشرة بلون غامق | راحة | شخص على سرير | فندق | في سابع نومة | نائم | نايم | نوم | ينام"
+      ],
+      "tr": [
+        "yatakta yatan kişi: koyu cilt tonu",
+        "gece | insan | iyi geceler | iyi uykular | kestirme | koyu cilt tonu | otel | uyku | uyku saati | uyumak | yatan insan | yatmak | zzz"
+      ],
+      "vi": [
+        "người trên giường: màu da tối",
+        "chợp mắt | khách sạn | màu da tối | mệt mỏi | ngủ | ngủ ngoan nhé | người trên giường | say giấc"
+      ],
+      "nl": [
+        "persoon in bed: donkere huidskleur",
+        "bed | deken | donkere huidskleur | dutje | goedenacht | hotel | moe | persoon in bed | slaap | slaapwel | slapen | vermoeid | welterusten | zzz"
+      ]
+    }
+  ],
+  "🛍": [
+    "other",
+    "shopping bags",
+    {
+      "en": ["shopping bags", "bag | bags | hotel | shopping"],
+      "ru": [
+        "пакеты",
+        "магазины | новое | обновки | пакеты | покупки | шопинг"
+      ],
+      "pl": ["torby na zakupy", "na zakupy | torby | torebki | zakupy"],
+      "fr": [
+        "sacs de shopping",
+        "achats | courses | sac | sacs | sacs de shopping | shopping"
+      ],
+      "de": [
+        "Einkaufstüten",
+        "einkaufen | Einkaufen | Einkaufstüten | shoppen | Shopping | Tasche | Tüte"
+      ],
+      "es": ["bolsas de compras", "bolsa | bolsas de compras | compra"],
+      "pt": ["sacolas de compras", "compras | presente | sacolas | shopping"],
+      "it": [
+        "borse della spesa",
+        "acquisti | borsa | borse | borse della spesa | sacchetti | sacchetti regalo | shopping | spesa"
+      ],
+      "ro": [
+        "sacoșe de cumpărături",
+        "cumpărături | plasă | plase de cumpărături | pungă | sacoșe de cumpărături | shopping | transport"
+      ],
+      "he": ["שקיות קניות", "קניות | שופינג | שקיות"],
+      "ar": [
+        "حقائب تسوق",
+        "اوتيل | تسوق | حقائب تسوق | حقيبة | شراء | شنط | فندق"
+      ],
+      "tr": [
+        "alışveriş çantası",
+        "alışveriş | alışveriş çantası | çanta | hediye | otel | paket"
+      ],
+      "vi": ["túi mua sắm", "khách sạn | mua sắm | túi | túi mua sắm"],
+      "nl": [
+        "boodschappentassen",
+        "boodschappentassen | hotel | tas | winkelen"
+      ]
+    }
+  ],
+  "🛎": [
+    "other",
+    "bellhop bell",
+    {
+      "en": ["bellhop bell", "bell | bellhop | hotel"],
+      "ru": [
+        "гостиничный звонок",
+        "вызов | гостиница | гостиничный звонок | звоночек | звук | отель | портье"
+      ],
+      "pl": [
+        "dzwonek w recepcji",
+        "dzwonek | dzwonek w recepcji | hotel | przywołać | recepcja"
+      ],
+      "fr": [
+        "cloche de comptoir",
+        "cloche | cloche de comptoir | clochette | hôtel | réception | sonnette"
+      ],
+      "de": ["Rezeptionsklingel", "Klingel | Rezeptionsklingel"],
+      "es": [
+        "timbre de hotel",
+        "botones | campanilla | hotel | timbre | timbre de hotel"
+      ],
+      "pt": ["sineta", "hotel | portaria | sineta | sino"],
+      "it": [
+        "campanello da hotel",
+        "campanello | campanello d’hotel | campanello da hotel | hotel | reception"
+      ],
+      "ro": [
+        "sonerie de recepție",
+        "clopoțel | hotel | recepție | sonerie | sonerie de recepție"
+      ],
+      "he": ["פעמון קבלה", "מלון | פעמון | קבלה"],
+      "ar": ["جرس فندق", "اوتيل | جرس | فندق | مساعدة"],
+      "tr": ["resepsiyon zili", "çan | otel | resepsiyon zili | zil"],
+      "vi": ["chuông gọi phục vụ", "chuông | chuông gọi phục vụ | khách sạn"],
+      "nl": ["piccolobel", "balie | baliebel | bel | hotel | piccolobel"]
+    }
+  ],
+  "🛏": [
+    "other",
+    "bed",
+    {
+      "en": ["bed", "bed | hotel | sleep"],
+      "ru": [
+        "кровать",
+        "гостиница | дом | застеленная постель | кровать | отель | постель | пустая | спальня | спать"
+      ],
+      "pl": ["łóżko", "hotel | łóżko | nocleg | sen | spać"],
+      "fr": ["lit", "dormir | hôtel | lit"],
+      "de": ["Bett", "Bett | Hotel | schlafen | Übernachtung"],
+      "es": ["cama", "cama | dormir | hotel"],
+      "pt": ["cama", "cama | dormir | hotel | sono"],
+      "it": [
+        "letto",
+        "arredamento | dormire | hotel | letto | mobili | relax | sonno | stanchezza"
+      ],
+      "ro": ["pat", "cazare | hotel | pat | somn"],
+      "he": ["מיטה", "לינה | לישון | מיטה | מלון"],
+      "ar": ["سرير", "اوتيل | سرير | فندق | نوم"],
+      "tr": ["yatak", "otel | uyku | uyuma | yatak"],
+      "vi": ["giường", "giường | khách sạn | ngủ"],
+      "nl": ["bed", "bed | hotel | slapen"]
+    }
+  ],
+  "🛐": [
+    "other",
+    "place of worship",
+    {
+      "en": ["place of worship", "place | pray | religion | worship"],
+      "ru": [
+        "религия",
+        "место | молитва | молиться | поклонение | религиозное | религия | святое | святыня"
+      ],
+      "pl": [
+        "miejsce kultu",
+        "kaplica | kościół | kult | miejsce kultu | modlitwa | religia | świątynia"
+      ],
+      "fr": ["lieu de culte", "culte | lieu de culte | prier | religion"],
+      "de": ["religiöse Stätte", "Kultstätte | Religion | religiöse Stätte"],
+      "es": ["lugar de culto", "culto | lugar de culto | religión"],
+      "pt": [
+        "local de culto",
+        "culto | local de culto | local sagrado | oração | religião | reza"
+      ],
+      "it": [
+        "luogo di culto",
+        "luogo di culto | luogo di preghiera | luogo sacro | persona che prega | pregare | preghiera | religione | silenzio | simbolo"
+      ],
+      "ro": [
+        "lăcaș de cult",
+        "altar | cult | lăcaș | lăcaș de cult | loc de rugăciune | religie | rugăciune"
+      ],
+      "he": ["בית תפילה", "בית תפילה | דת | תפילה"],
+      "ar": ["مكان عبادة", "دين | رمز | صلاة | عبادة | مصلى | مكان عبادة"],
+      "tr": ["ibadethane", "din | ibadethane | tapınma"],
+      "vi": ["nơi thờ phụng", "nơi thờ phụng | tôn giáo | tôn sùng"],
+      "nl": ["gebedsruimte", "bidden | godsdienst | plaats | religie"]
+    }
+  ],
+  "🛑": [
+    "other",
+    "octagonal sign",
+    {
+      "en": ["stop sign", "octagonal | sign | stop"],
+      "ru": [
+        "знак «стоп»",
+        "восьмиугольник | знак | знак «стоп» | красный знак | остановка | стоп"
+      ],
+      "pl": ["znak stopu", "stop | znak | znak drogowy | znak stopu"],
+      "fr": ["stop", "octogonal | panneau | signe | stop"],
+      "de": ["Stoppschild", "achteckig | Schild | Stopp | Stoppschild"],
+      "es": [
+        "señal de stop",
+        "octágono | parada | señal | señal de stop | stop"
+      ],
+      "pt": ["sinal de pare", "pare | sinal | sinal de pare"],
+      "it": [
+        "segnale di stop",
+        "geometria | ottagonale | ottagono | rosso | segnale | segnale di stop | stop"
+      ],
+      "ro": [
+        "semnul stop",
+        "indicator | octogon | oprire | semn | semnul stop | stop"
+      ],
+      "he": ["תמרור עצור", "מתומן אדום | עצור | תמרור"],
+      "ar": ["علامة توقف", "توقف | ستوب | شكل سداسي | علامة"],
+      "tr": ["dur işareti", "dur | dur işareti | işaret | sekizgen"],
+      "vi": ["ký hiệu dừng", "bát giác | dừng | ký hiệu | ký hiệu dừng"],
+      "nl": [
+        "stopteken",
+        "achthoekig | bord | stop | stopteken | verkeersteken"
+      ]
+    }
+  ],
+  "🛒": [
+    "other",
+    "shopping trolley",
+    {
+      "en": ["shopping cart", "cart | shopping | trolley"],
+      "ru": [
+        "тележка для покупок",
+        "магазин | покупки | тележка | тележка для покупок"
+      ],
+      "pl": [
+        "wózek sklepowy",
+        "koszyk | sklep | wózek | wózek sklepowy | zakupy"
+      ],
+      "fr": [
+        "chariot",
+        "caddie | chariot | courses | panier | shopping | supermarché"
+      ],
+      "de": ["Einkaufswagen", "einkaufen | Einkaufswagen"],
+      "es": [
+        "carrito de la compra",
+        "carrito | carrito de la compra | carro | compra | supermercado"
+      ],
+      "pt": [
+        "carrinho de compras",
+        "carrinho | compras | mercado | supermercado"
+      ],
+      "it": [
+        "carrello",
+        "acquistare | acquisti | acquisto | carrello | carrello della spesa | centro commerciale | fare la spesa | shopping | spesa | supermercato"
+      ],
+      "ro": [
+        "cărucior de cumpărături",
+        "cărucior | cărucior de cumpărături | coș | cumpărături"
+      ],
+      "he": [
+        "עגלת קניות",
+        "מכולת | סופרמרקט | סל קניות | עגלה | עגלת קניות | קניות"
+      ],
+      "ar": ["عربة التسوق", "تروللي | تسوق | شراء | عربة | عربة التسوق"],
+      "tr": [
+        "alışveriş arabası",
+        "alışveriş | alışveriş arabası | araba | pazar arabası"
+      ],
+      "vi": ["xe mua hàng", "mua hàng | xe đẩy | xe mua hàng"],
+      "nl": [
+        "winkelwagen",
+        "boodschappen | shoppen | wagen | wagentje | winkelen | winkelwagen"
+      ]
+    }
+  ],
+  "🛓": ["other", "stupa", {}],
+  "🛔": ["other", "pagoda", {}],
+  "🛕": [
+    "other",
+    "hindu temple",
+    {
+      "en": ["hindu temple", "hindu | temple"],
+      "ru": [
+        "индуистский храм",
+        "ашрам | индийский | индуизм | храм | церковь"
+      ],
+      "pl": [
+        "świątynia hinduistyczna",
+        "hinduizm | świątynia | świątynia hinduistyczna"
+      ],
+      "fr": [
+        "temple hindou",
+        "bouddhisme | hindou | pagode | religion | stupa | temple | temple bouddhiste"
+      ],
+      "de": ["Hindutempel", "Gebäude | Hindu | Hindutempel | Tempel"],
+      "es": ["templo hindú", "hindú | templo"],
+      "pt": ["templo hindu", "hindu | templo"],
+      "it": ["tempio indù", "induismo | tempio indù | tempio induista"],
+      "ro": ["templu hindus", "clădire | hinduism | hindus | templu"],
+      "he": ["מקדש הינדי", "דת | הודו | הינדואיזם | מקדש | מקדש הינדי"],
+      "ar": [
+        "معبد هندوسي",
+        "أماكن | ديانة | طقوس دينية | معبد | هندوسي | هندوسية | هندي"
+      ],
+      "tr": ["Hindu tapınağı", "hindu | Hindu tapınağı | tapınak"],
+      "vi": ["đền hindu", "đền | hin đu | hin-đu | hindu"],
+      "nl": [
+        "hindoetempel",
+        "gebouw | geloof | goden | hindoe | hindoetempel | India | religie | tempel"
+      ]
+    }
+  ],
+  "🛖": [
+    "other",
+    "hut",
+    {
+      "en": ["hut", "home | house | hut | roundhouse | shelter | yurt"],
+      "ru": ["хижина", "дом | хижина | юрта"],
+      "pl": [
+        "chata",
+        "chata | chatka | dom | domek | jurta | okrągły | przytulny | schronienie | strzecha"
+      ],
+      "fr": ["hutte", "abri | case | hutte | maison | maisonnette | yourte"],
+      "de": [
+        "Hütte",
+        "Behausung | Gebäude | Haus | Hütte | Jurte | Objekt | Rundhaus | Schutz"
+      ],
+      "es": ["cabaña", "cabaña | casa | yurta"],
+      "pt": ["cabana", "abrigo | cabana | casa | yurt"],
+      "it": ["capanna", "capanna | capanno | casa | iurta | rifugio"],
+      "ro": [
+        "colibă",
+        "adăpost | casă | căsuță | cocioabă | colibă | iurtă | loc"
+      ],
+      "he": ["בקתה", "ביקתה | ביתן עגול | בקתה | יורט | צריף"],
+      "ar": [
+        "كوخ",
+        "بيت | بيت دائري | سكن | كوخ | مأوى | مبنى | مكان | منزل | يورت"
+      ],
+      "tr": ["kulübe", "baraka | ev | kulübe | seyahat | sığınak | yer | yurt"],
+      "vi": ["túp lều", "lều tròn | nhà | nhà tròn | túp lều"],
+      "nl": [
+        "hut",
+        "huis | hut | joert | onderdak | ronde hut | strand | woning"
+      ]
+    }
+  ],
+  "🛗": [
+    "other",
+    "elevator",
+    {
+      "en": ["elevator", "accessibility | elevator | hoist | lift"],
+      "ru": [
+        "лифт",
+        "грузоподъемник | лифт | подъемник | специальные возможности"
+      ],
+      "pl": [
+        "winda",
+        "dostępność | dźwig osobowy | podnośnik | winda | wyciąg pionowy"
+      ],
+      "fr": [
+        "ascenseur",
+        "accessibilité | ascenseur | descente | monte-charge | monte-personnes | montée"
+      ],
+      "de": [
+        "Fahrstuhl",
+        "Aufzug | Fahrstuhl | Haus | Lift | Symbol | Transport"
+      ],
+      "es": ["ascensor", "accesibilidad | ascensor | elevador | montacargas"],
+      "pt": ["elevador", "acessibilidade | descer | elevador | elevar | subir"],
+      "it": ["ascensore", "accessibilità | ascensore | montacarichi"],
+      "ro": ["lift", "accesibilitate | ascensor | elevator | lift"],
+      "he": ["מעלית", "בניין גבוה | לעלות | מעלית | נגישות"],
+      "ar": [
+        "مصعد",
+        "أسانسير | أشياء | إمكانية الوصول | رافع | صعود | مصعد | نزول | هبوط | وصول"
+      ],
+      "tr": [
+        "asansör",
+        "alt kat | aşağı | asansör | çağırmak | çıkmak | erişilebilirlik | eşya | inmek | lift | üst kat | yukarı"
+      ],
+      "vi": ["thang máy", "kéo lên | khả năng tiếp cận | nhấc | thang máy"],
+      "nl": [
+        "lift",
+        "hijstoestel | lift | machine | omhoog | omlaag | personenlift | toegankelijkheid | voorwerp"
+      ]
+    }
+  ],
+  "🛘": [
+    "other",
+    "landslide",
+    {
+      "en": [
+        "landslide",
+        "avalanche | danger | disaster | earthquake | mountain | mudslide | rocks"
+      ],
+      "ru": [
+        "оползень",
+        "землетрясение | камнепад | лавина | обвал | опасность | осыпь | сель"
+      ],
+      "pl": [
+        "osuwisko",
+        "góra | katastrofa | lawina | lawina błotna | niebezpieczeństwo | skały | trzęsienie ziemi"
+      ],
+      "fr": [
+        "éboulement",
+        "avalanche | catastrophe | coulée de boue | danger | glissement de terrain | montagne | rochers | tremblement de terre"
+      ],
+      "de": [
+        "Erdrutsch",
+        "Berg | Erdbeben | Felsen | Gefahr | Katastrophe | Lawine | Murenabgang | Murgang | Schlammlawine"
+      ],
+      "es": [
+        "desprendimiento",
+        "alud | avalancha | desastre | montaña | peligro | rocas | terremoto"
+      ],
+      "pt": [
+        "deslizamento",
+        "avalanche | desastre | montanha | perigo | rochas | terremoto"
+      ],
+      "it": [
+        "frana",
+        "disastro | montagna | pericolo | rocce | smottamento | terremoto | valanga"
+      ],
+      "ro": [
+        "alunecare de teren",
+        "avalanșă | căderi de pietre | cutremur | dezastru | munte | pericol | stânci"
+      ],
+      "he": [
+        "מפולת",
+        "אסון | הר | מפולת בוץ | מפולת שלגים | סכנה | סלעים | רעידת אדמה"
+      ],
+      "ar": [
+        "انزلاق أرضي",
+        "انهيار | انهيار طيني | جبل | خطر | صخور | كارثة | هزة أرضية"
+      ],
+      "tr": [
+        "heyelan",
+        "çığ | dağ | deprem | felaket | kayalar | taşlar | tehlike | toprak kayması"
+      ],
+      "vi": [
+        "lở đất",
+        "đá | động đất | lở đất | nguy hiểm | núi | thảm họa | tuyết lở"
+      ],
+      "nl": [
+        "aardverschuiving",
+        "aardbeving | berg | gevaar | lawine | modderlawine | ramp | stenen"
+      ]
+    }
+  ]
+}

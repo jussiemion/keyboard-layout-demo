@@ -1,0 +1,3025 @@
+{
+  "🔠": [
+    "other",
+    "input symbol for latin capital letters",
+    {
+      "en": [
+        "input latin uppercase",
+        "ABCD | input | latin | letters | uppercase"
+      ],
+      "ru": [
+        "ввод прописными",
+        "алфавит | ввод | ввод прописными | верхний регистр | латиница | латинские буквы | прописные | прописные символы"
+      ],
+      "pl": [
+        "wielkie litery (alfabet łaciński)",
+        "abcd | alfabet łaciński | duże litery | kapitaliki | łacińskie | litery | pisać | wielkie litery | wielkimi literami | wprowadzać"
+      ],
+      "fr": [
+        "majuscules",
+        "ABCD | alphabet latin | lettres | lettres latines | majuscules | saisie | saisie en lettres majuscules"
+      ],
+      "de": [
+        "Eingabesymbol lateinische Großbuchstaben",
+        "abcd | Buchstaben | Eingabe | Eingabesymbol | Großbuchstaben | großschreiben | lateinisch"
+      ],
+      "es": [
+        "letras latinas mayúsculas",
+        "abcd | letras | letras latinas mayúsculas | mayúsculas"
+      ],
+      "pt": [
+        "letras latinas maiúsculas",
+        "ABCD | caracteres latinos maiúsculos | digitação | inserir caracteres latinos maiúsculos | latinas | letras | maiúsculas | maiúsculos"
+      ],
+      "it": [
+        "pulsante con lettere latine maiuscole",
+        "abcd | caratteri latini | inserire | lettere | maiuscole | pulsante | pulsante con lettere latine maiuscole | tasto"
+      ],
+      "ro": [
+        "introducere majuscule latine",
+        "ABCD | caracter | introducere | latin | latine | litere | litere mari | majuscule"
+      ],
+      "he": [
+        "לחצן אותיות גדולות",
+        "אותיות | גדולות | לחצן אותיות גדולות | לטינית | מקשים | קלט | רישיות"
+      ],
+      "ar": [
+        "أحرف كبيرة",
+        "أحرف كبيرة | ابجدية انجليزية | ابجدية انكليزية | احرف الابجدية | حرف لاتيني كبير | رمز | زر"
+      ],
+      "tr": [
+        "büyük harfler",
+        "ABCD | büyük harf | büyük harfler | Latin | Latin büyük harfleri | Latin büyük harfleriyle giriş"
+      ],
+      "vi": [
+        "nhập chữ hoa la tinh",
+        "ABCD | chữ | chữ hoa | la tinh | nhập | nhập chữ hoa la tinh"
+      ],
+      "nl": [
+        "hoofdletters",
+        "ABCD | hoofdletters | invoeren | Latijns | letters"
+      ]
+    }
+  ],
+  "🔡": [
+    "other",
+    "input symbol for latin small letters",
+    {
+      "en": [
+        "input latin lowercase",
+        "abcd | input | latin | letters | lowercase"
+      ],
+      "ru": [
+        "ввод строчными",
+        "алфавит | буквы | ввод | ввод строчными | кнопка | латинские буквы | нижний регистр | строчные | строчные символы"
+      ],
+      "pl": [
+        "małe litery (alfabet łaciński)",
+        "abcd | alfabet łaciński | łacińskie | litery | małe litery | małymi literami | pisać | wprowadzać"
+      ],
+      "fr": [
+        "minuscules",
+        "abcd | alphabet latin | lettre | lettres | lettres latines | minuscules | saisie | saisie de lettres minuscules"
+      ],
+      "de": [
+        "Eingabesymbol lateinische Kleinbuchstaben",
+        "Eingabesymbol lateinische Kleinbuchstaben | Kleinbuchstaben | lateinische Kleinbuchstaben"
+      ],
+      "es": [
+        "letras latinas minúsculas",
+        "abcd | letras | letras latinas minúsculas | minúsculas"
+      ],
+      "pt": [
+        "letras latinas minúsculas",
+        "abcd | caracteres latinos minúsculos | digitação | latinas | latino | letras | minúsculas | minúsculos"
+      ],
+      "it": [
+        "pulsante con lettere latine minuscole",
+        "caratteri latini | inserire | lettere | minuscole | pulsante | pulsante con lettere latine minuscole | tasto"
+      ],
+      "ro": [
+        "introducere minuscule latine",
+        "abcd | caracter | introducere | introducere caracter latin mic | latin | latină | latine | litere | litere mici | minuscule | text"
+      ],
+      "he": [
+        "לחצן אותיות קטנות",
+        "אותיות | הזנה | לחצן אותיות קטנות | לטינית | קטנות | קלט"
+      ],
+      "ar": ["أحرف صغيرة", "أحرف صغيرة | حرف لاتيني صغير"],
+      "tr": [
+        "küçük harfler",
+        "abcd | alfabe | küçük harf | küçük harfler | Latin | Latin küçük harfleri | Latin küçük harfleriyle giriş"
+      ],
+      "vi": [
+        "nhập chữ thường la tinh",
+        "abcd | chữ | chữ thường | la tinh | nhập | nhập chữ thường la tinh"
+      ],
+      "nl": [
+        "kleine letters",
+        "abcd | invoeren | kleine letters | Latijns | letters"
+      ]
+    }
+  ],
+  "🔢": [
+    "other",
+    "input symbol for numbers",
+    {
+      "en": ["input numbers", "1234 | input | numbers"],
+      "ru": ["ввод цифр", "ввод | ввод цифр | цифры"],
+      "pl": ["cyfry", "1234 | cyfry | kalkulator | liczby | wprowadzać"],
+      "fr": [
+        "saisie de chiffres",
+        "1234 | chiffres | saisie | saisie de chiffres"
+      ],
+      "de": [
+        "Eingabesymbol Zahlen",
+        "1234 | Eingabe | Eingabesymbol | Symbol | Zahlen | Ziffern"
+      ],
+      "es": ["números", "1234 | dígitos | números"],
+      "pt": ["números", "1234 | digitação | inserir números | números"],
+      "it": [
+        "pulsante con numeri",
+        "1234 | inserire | numeri | pulsante con numeri | tastierino numerico"
+      ],
+      "ro": ["introducere numere", "123 | 1234 | cifre | introducere | numere"],
+      "he": [
+        "לחצן מספרים",
+        "הזנה | לוח ספרות | לחצן מספרים | מספרים | מקשים | ספרות | קלט"
+      ],
+      "ar": [
+        "أرقام",
+        "١٢٣٤ | أرقام | أرقام إدخال | أعداد | ارقام | رقم | رمز | زر ادخال | عدد"
+      ],
+      "tr": ["sayılar", "1234 | sayı girişi | sayılar"],
+      "vi": ["nhập số", "1234 | nhập | số"],
+      "nl": ["cijfers", "1234 | cijfers | invoeren"]
+    }
+  ],
+  "🔣": [
+    "other",
+    "input symbol for symbols",
+    {
+      "en": ["input symbols", "& | % | ♪ | 〒 | input | symbols"],
+      "ru": ["ввод символов", "ввод | ввод символов | символы"],
+      "pl": ["symbole", "pisać | symbole | wprowadzać | znaki"],
+      "fr": ["saisie de symboles", "saisie | saisie de symboles | symboles"],
+      "de": [
+        "Eingabesymbol Sonderzeichen",
+        "& | % | ♪ | 〒 | Eingabe | Eingabesymbol | keycap | Sonderzeichen | Symbol | Tastenkappe"
+      ],
+      "es": ["símbolos", "〒♪&% | símbolos"],
+      "pt": ["símbolos", "〒♪&% | digitação | inserir símbolos | símbolos"],
+      "it": [
+        "pulsante con simboli",
+        "inserire | pulsante con simboli | simboli | tastiera | tastierino simboli"
+      ],
+      "ro": ["introducere simboluri", "〒♪&% | introducere | simboluri"],
+      "he": ["לחצן סמלים", "הזנה | לחצן סמלים | סימנים | סמלים | קלט"],
+      "ar": ["رموز", "&٪ | ادخال | اشارة حساب | رمز | رموز | رموز إدخال | زر"],
+      "tr": ["işaretler", "işaret girişi | işaretler"],
+      "vi": ["nhập biểu tượng", "〒♪&% | nhập | nhập biểu tượng"],
+      "nl": ["symbolen", "& | % | ♪ | 〒 | invoeren | symbolen"]
+    }
+  ],
+  "🔤": [
+    "other",
+    "input symbol for latin letters",
+    {
+      "en": ["input latin letters", "abc | alphabet | input | latin | letters"],
+      "ru": [
+        "ввод латиницей",
+        "алфавит | буквы | ввод | латиница | латинские | латинский | символы"
+      ],
+      "pl": [
+        "litery (alfabet łaciński)",
+        "abc | abecadło | alfabet | alfabet łaciński | litery | małe litery | pierwsze litery | wprowadzać"
+      ],
+      "fr": [
+        "alphabet latin",
+        "abc | alphabet | alphabet latin | lettres | saisie | saisie de lettres"
+      ],
+      "de": [
+        "Eingabesymbol lateinische Buchstaben",
+        "abc | Alphabet | Buchstaben | Eingabe | Eingabesymbol | lateinisch | Symbol"
+      ],
+      "es": ["alfabeto latino", "ABC | alfabeto latino | latino"],
+      "pt": [
+        "letras latinas",
+        "abc | ABC | alfabeto | digitação | inglês | inserir alfabeto latino | latinas | latino | letras"
+      ],
+      "it": [
+        "pulsante con lettere latine",
+        "ABC | alfabeto | caratteri alfabetici | inglese | inserire | lettere | pulsante | pulsante con lettere latine | tasto"
+      ],
+      "ro": [
+        "introducere litere latine",
+        "abc | alfabet | introducere | latin | latină | latine | litere | text"
+      ],
+      "he": [
+        "לחצן אותיות לטיניות",
+        "abc | הזנה | לחצן | לחצן אותיות לטיניות | לטינית | מקש | קלט"
+      ],
+      "ar": [
+        "أبجدية لاتينية",
+        "ABC | أبجدية إدخال لاتينية | أبجدية لاتينية | إنجليزي | ابجدية انجليزية | احرف الابجدية الانكليزية | ادخال | اي بي سي | رمز | زر | لاتيني"
+      ],
+      "tr": [
+        "Latin alfabesi",
+        "ABC | İngilizce | Latin | latin alfabesi | Latin alfabesi | Latin alfabesiyle giriş | Latin Alfabesiyle giriş"
+      ],
+      "vi": [
+        "nhập chữ cái la tinh",
+        "abc | bảng chữ cái | chữ cái | la tinh | nhập | nhập chữ cái la tinh"
+      ],
+      "nl": ["Latijns alfabet", "abc | alfabet | invoeren | Latijns | letters"]
+    }
+  ],
+  "🔥": [
+    "other",
+    "fire",
+    {
+      "en": ["fire", "af | burn | fire | flame | hot | lit | litaf | tool"],
+      "ru": ["огонь", "костер | огонь | очаг | пламя"],
+      "pl": ["ogień", "ogień | płomień | pożar"],
+      "fr": [
+        "feu",
+        "allumer | brûler | chaud | feu | flamme | fournaise | incendie"
+      ],
+      "de": ["Feuer", "brennen | Feuer | Flamme | heiß"],
+      "es": ["fuego", "fuego | llama"],
+      "pt": ["fogo", "chama | fogo"],
+      "it": [
+        "fuoco",
+        "bruciare | caldo | calore | esplosione | falò | fiamma | fiamme | fuoco | inferno | passione"
+      ],
+      "ro": [
+        "foc",
+        "arde | arsură | căldură | fierbinte | flacără | flamă | foc | lumină"
+      ],
+      "he": ["אש", "אש | דליקה | להבה | שלהבת | שריפה"],
+      "ar": ["حريق", "تاجج | حريق | ساخن | شوب | لهب | نار | يحرق"],
+      "tr": ["ateş", "alev | ateş | sıcak | yakmak"],
+      "vi": ["lửa", "dụng cụ | lửa | ngọn lửa"],
+      "nl": ["vuur", "brand | heet | hulpmiddel | vlam | vuur"]
+    }
+  ],
+  "🔦": [
+    "other",
+    "electric torch",
+    {
+      "en": ["flashlight", "electric | flashlight | light | tool | torch"],
+      "ru": ["фонарик", "свет | фонарик | фонарь | электричество"],
+      "pl": ["latarka", "elektryczna | lampka | latarka | światło"],
+      "fr": [
+        "torche",
+        "lampe électrique | lampe torche | lumière | outil | torche"
+      ],
+      "de": ["Taschenlampe", "Lampe | Licht | Taschenlampe"],
+      "es": ["linterna", "linterna | luz"],
+      "pt": ["lanterna", "elétrica | ferramenta | lanterna | luz"],
+      "it": ["torcia", "elettrica | luce | pila | torcia"],
+      "ro": ["lanternă", "baterie | electric | instrument | lanternă | lumină"],
+      "he": ["פנס", "אור | פנס | תאורה"],
+      "ar": ["ضوء فلاش", "اداة | الكتريك | ضوء | ضوء فلاش | كشاف | كهربائي"],
+      "tr": ["el feneri", "el feneri | elektrik | ışık"],
+      "vi": ["đèn pin", "ánh sáng | đèn pin | điện | dụng cụ"],
+      "nl": ["zaklamp", "elektrisch | lamp | licht | zaklamp | zaklantaarn"]
+    }
+  ],
+  "🔧": [
+    "other",
+    "wrench",
+    {
+      "en": ["wrench", "home | improvement | spanner | tool | wrench"],
+      "ru": ["гаечный ключ", "гаечный | инструмент | ключ | ремонт"],
+      "pl": [
+        "klucz warsztatowy",
+        "klucz | klucz warsztatowy | mechanik | narzędzia | narzędzie | warsztat"
+      ],
+      "fr": ["clé à molette", "clé | clé à molette | outil | travaux"],
+      "de": ["Schraubenschlüssel", "Schraubenschlüssel | Werkzeug"],
+      "es": ["llave inglesa", "herramienta | llave inglesa"],
+      "pt": ["chave inglesa", "chave | ferramenta | inglesa | obra | reforma"],
+      "it": [
+        "chiave inglese",
+        "attrezzo | chiave | diy | fai da te | idraulico | inglese | lavoro | meccanico | utensile"
+      ],
+      "ro": [
+        "cheie fixă",
+        "bricolaj | cheie de piulițe | cheie fixă | cheie franceză | instrument | piuliță | reparare | reparații"
+      ],
+      "he": ["מפתח ברגים", "כלי עבודה | מפתח ברגים | תיקון"],
+      "ar": ["مفتاح ربط", "اداة | رانش | رنش | عدة | مفتاح ربط | مفك"],
+      "tr": ["somun anahtarı", "araç | ingiliz anahtarı | somun anahtarı"],
+      "vi": ["cờ lê", "chìa vặn | cờ lê | dụng cụ"],
+      "nl": [
+        "moersleutel",
+        "engelse sleutel | gereedschap | moersleutel | schroefsleutel"
+      ]
+    }
+  ],
+  "🔨": [
+    "other",
+    "hammer",
+    {
+      "en": ["hammer", "hammer | home | improvement | repairs | tool"],
+      "ru": [
+        "молоток",
+        "забить | инструмент | молот | молоток | ремонт | удар"
+      ],
+      "pl": ["młotek", "młot | młotek | naprawa | narzędzia | narzędzie"],
+      "fr": ["marteau", "marteau | outil | réparer | travaux"],
+      "de": ["Hammer", "Hammer | Werkzeug"],
+      "es": ["martillo", "herramienta | martillo"],
+      "pt": [
+        "martelo",
+        "construção | ferramenta | martelada | martelo | reparo"
+      ],
+      "it": [
+        "martello",
+        "attrezzo | bricolage | falegname | lavoro | martello | meccanico | muratore | operaio | riparare | riparazioni | utensile"
+      ],
+      "ro": [
+        "ciocan",
+        "bricolaj | ciocan | construcții | cui | instrument | reparații | unealtă"
+      ],
+      "he": ["פטיש", "בנייה | כלי עבודה | פטיש"],
+      "ar": ["مطرقة", "اداة | اصلاح | تصليح | شاكوش | عدة | مطرقة"],
+      "tr": ["çekiç", "araç | çekiç"],
+      "vi": ["búa", "búa | dụng cụ | sửa chữa"],
+      "nl": ["hamer", "gereedschap | hamer | timmeren"]
+    }
+  ],
+  "🔩": [
+    "other",
+    "nut and bolt",
+    {
+      "en": ["nut and bolt", "bolt | home | improvement | nut | tool"],
+      "ru": [
+        "болт и гайка",
+        "болт | болт и гайка | винт | гайка | закрутить | инструмент | ремонт | шуруп"
+      ],
+      "pl": [
+        "śruba i nakrętka",
+        "gwint | mocowanie | nakrętka | narzędzia | śruba | śruba i nakrętka"
+      ],
+      "fr": [
+        "vis et écrou",
+        "boulon | écrou | outil | travaux | vis | vis et écrou"
+      ],
+      "de": ["Mutter und Schraube", "Mutter und Schraube | Schraube"],
+      "es": [
+        "tornillo y tuerca",
+        "herramienta | tornillo | tornillo y tuerca | tuerca"
+      ],
+      "pt": ["porca e parafuso", "construção | ferramenta | parafuso | porca"],
+      "it": [
+        "vite e bullone",
+        "attrezzo | bricolage | bullonare | bullone | dado | fai da te | fissare | lavori di casa | lavoro"
+      ],
+      "ro": [
+        "șurub și piuliță",
+        "bricolaj | instrument | piuliță | șurub | șurub și piuliță | unealtă"
+      ],
+      "he": ["בורג ואום", "אום | בורג | בורג ואום | הרכבה"],
+      "ar": [
+        "صامولة ومسمار",
+        "اصلاح | برغي | تصليح | صامولة | صامولة ومسمار | عدة | عزقة | مسمار"
+      ],
+      "tr": ["somun ve vida", "araç | somun | somun ve vida | vida"],
+      "vi": [
+        "đai ốc và bu lông",
+        "bu lông | đai ốc | đai ốc và bu lông | dụng cụ"
+      ],
+      "nl": ["bout en moer", "bout | bout en moer | gereedschap | moer"]
+    }
+  ],
+  "🔪": [
+    "other",
+    "hocho",
+    {
+      "en": [
+        "kitchen knife",
+        "chef | cooking | hocho | kitchen | knife | tool | weapon"
+      ],
+      "ru": ["нож", "кухонный | нож | оружие | острие | резать | холодное"],
+      "pl": [
+        "nóż kuchenny",
+        "broń | gotowanie | kuchenny | kuchnia | narzędzie | nóż"
+      ],
+      "fr": [
+        "couteau de cuisine",
+        "arme | chef | couteau | couteau de cuisine | cuisine | outil"
+      ],
+      "de": ["Küchenmesser", "Küchenmesser | Messer | schneiden"],
+      "es": [
+        "cuchillo de cocina",
+        "arma | cocinar | cuchillo | cuchillo de cocina"
+      ],
+      "pt": ["faca de cozinha", "chef | cozinhar | faca | faca de cozinha"],
+      "it": [
+        "coltello da cucina",
+        "arma | chef | coltello | coltello da cucina | cucina | fame | posate"
+      ],
+      "ro": [
+        "cuțit de bucătărie",
+        "armă | bucătar | bucătărie | chef | cuțit | cuțit de bucătărie | gătit | instrument | unealtă"
+      ],
+      "he": ["סכין מטבח", "בישול | כלי נשק | סכין | שף"],
+      "ar": [
+        "سكين طهي",
+        "اداة | حاد | سكين | سكين طهي | شيف | طبخ | قطع | مطبخ"
+      ],
+      "tr": ["mutfak bıçağı", "bıçak | mutfak bıçağı"],
+      "vi": [
+        "dao làm bếp",
+        "dao | dao làm bếp | dụng cụ | hocho | nấu nướng | vũ khí"
+      ],
+      "nl": ["keukenmes", "keukenmes | koken | koksmes | mes | wapen"]
+    }
+  ],
+  "🔫": [
+    "other",
+    "pistol",
+    {
+      "en": [
+        "water pistol",
+        "gun | handgun | pistol | revolver | tool | water | weapon"
+      ],
+      "ru": [
+        "водяной пистолет",
+        "водный пистолет | водяной пистолет | игрушка | огнестрельное | оружие | пистолет | револьвер"
+      ],
+      "pl": [
+        "pistolet na wodę",
+        "broń | broń palna | pistolet | pistolet na wodę | rewolwer"
+      ],
+      "fr": [
+        "pistolet à eau",
+        "arme | arme à feu | flingue | pistolet | pistolet à eau | revolver"
+      ],
+      "de": ["Wasserpistole", "Pistole | Revolver | Waffe | Wasserpistole"],
+      "es": [
+        "pistola de agua",
+        "agua | juguete | pistola | pistola de agua | verano"
+      ],
+      "pt": [
+        "pistola d’água",
+        "água | arma | ferramenta | pistola | pistola d’água | revólver"
+      ],
+      "it": [
+        "pistola ad acqua",
+        "arma | pistola | pistola ad acqua | revolver | sparare"
+      ],
+      "ro": [
+        "pistol cu apă",
+        "armă | armă de foc | pistol | pistol cu apă | pistolet | revolver"
+      ],
+      "he": [
+        "אקדח מים",
+        "אקדח | אקדח מים | ירי | יריות | ירייה | כלי נשק | נשק"
+      ],
+      "ar": ["مسدس ماء", "اداة | طبنجة | فرد | لعبة | مسدس | مسدس ماء"],
+      "tr": ["su tabancası", "revolver | silah | su tabancası | tabanca"],
+      "vi": [
+        "súng nước",
+        "dụng cụ | súng | súng gắn | súng lục | súng lục ổ quay | súng nước | vũ khí"
+      ],
+      "nl": [
+        "waterpistool",
+        "gereedschap | pistool | revolver | vuurwapen | wapen | water | waterpistool"
+      ]
+    }
+  ],
+  "🔬": [
+    "other",
+    "microscope",
+    {
+      "en": ["microscope", "experiment | lab | microscope | science | tool"],
+      "ru": [
+        "микроскоп",
+        "биология | изучать | инструмент | исследовать | клетки | лупа | микробы | микроскоп | прибор | увеличение"
+      ],
+      "pl": [
+        "mikroskop",
+        "laboratorium | mikroskop | nauka | obserwacja | powiększenie"
+      ],
+      "fr": [
+        "microscope",
+        "expérience | laboratoire | microscope | outil | science"
+      ],
+      "de": ["Mikroskop", "Labor | Mikroskop | untersuchen | Wissenschaft"],
+      "es": ["microscopio", "instrumento | laboratorio | microscopio"],
+      "pt": [
+        "microscópio",
+        "ciência | ferramenta | microscópico | microscópio"
+      ],
+      "it": [
+        "microscopio",
+        "analisi | esperimento | microrganismo | microscopio | ricerca | scienza | scienziata | scienziato | strumento"
+      ],
+      "ro": [
+        "microscop",
+        "cercetare | experiment | instrument | laborator | medical | microscop | știință"
+      ],
+      "he": ["מיקרוסקופ", "מדע | מחקר | מיקרוסקופ"],
+      "ar": [
+        "ميكروسكوب",
+        "أداة | بحث | تجارب | طب | طبابة | علم | فحص | مختبر | ميكروسكوب"
+      ],
+      "tr": ["mikroskop", "alet | bilim | labrotuar | mikroskop | test"],
+      "vi": [
+        "kính hiển vi",
+        "dụng cụ | khoa học | kính hiển vi | kính hiển vị | thí nghiệm"
+      ],
+      "nl": [
+        "microscoop",
+        "experiment | gereedschap | instrument | laboratorium | microscoop | onderzoek | wetenschap"
+      ]
+    }
+  ],
+  "🔭": [
+    "other",
+    "telescope",
+    {
+      "en": [
+        "telescope",
+        "contact | extraterrestrial | science | telescope | tool"
+      ],
+      "ru": [
+        "телескоп",
+        "астрономия | звезды | инструмент | линза | лупа | планетарий | планеты | прибор | телескоп | увеличительное стекло"
+      ],
+      "pl": ["teleskop", "luneta | obserwacja | powiększenie | teleskop"],
+      "fr": [
+        "télescope",
+        "astronomie | espace | outil | planètes | science | télescope"
+      ],
+      "de": ["Teleskop", "Himmel | Teleskop"],
+      "es": ["telescopio", "astronomía | instrumento | telescopio"],
+      "pt": ["telescópio", "ciência | ferramenta | telescópio"],
+      "it": [
+        "telescopio",
+        "astronomia | corpi celesti | costellazioni | galileo galilei | osservatorio | osservazione delle stelle | scientifico | scienza | spazio | stelle | telescopio | universo"
+      ],
+      "ro": [
+        "telescop",
+        "cercetare | contact | extratereștri | extraterestru | instrument | spațiu | stele | știință | telescop"
+      ],
+      "he": ["טלסקופ", "טלסקופ | כוכבים | מדע | מחקר | מצפה כוכבים | צפייה"],
+      "ar": ["تليسكوب", "أداة | تليسكوب | سماء | علم | فضاء | معاينة"],
+      "tr": ["teleskop", "alet | teleskop | uzay | uzay gözlemleme"],
+      "vi": ["kính viễn vọng", "dụng cụ | khoa học | kính viễn vọng"],
+      "nl": [
+        "telescoop",
+        "buitenaards leven | gereedschap | heelal | instrument | sterrenkijker | telescoop | wetenschap"
+      ]
+    }
+  ],
+  "🔮": [
+    "other",
+    "crystal ball",
+    {
+      "en": [
+        "crystal ball",
+        "ball | crystal | fairy | fairytale | fantasy | fortune | future | magic | tale | tool"
+      ],
+      "ru": [
+        "хрустальный шар",
+        "будущее | волшебство | гадание | магия | предсказание | хрусталь | хрустальный шар | шар"
+      ],
+      "pl": [
+        "kryształowa kula",
+        "fortuna | kryształowa | kula | przepowiadać | wróżka | wróżyć"
+      ],
+      "fr": [
+        "boule de cristal",
+        "avenir | boule de cristal | cristal | magie | voyant | voyante"
+      ],
+      "de": ["Kristallkugel", "Kristallkugel | Wahrsager | Zukunft"],
+      "es": [
+        "bola de cristal",
+        "adivinación | bola | bola de cristal | buena fortuna | cristal"
+      ],
+      "pt": [
+        "bola de cristal",
+        "adivinhação | bola | cristal | destino | futuro | prever"
+      ],
+      "it": [
+        "sfera di cristallo",
+        "chiaroveggenza | chiromanzia | cristallo | futuro | magia | sfera | sfera di cristallo | sfera viola"
+      ],
+      "ro": [
+        "glob de cristal",
+        "a ghici | basm | cristal | fantezie | glob | glob de cristal | instrument | magie | noroc | poveste | soartă | viitor"
+      ],
+      "he": [
+        "כדור בדולח",
+        "כדור בדולח | מזל | נבואה | ניבוי | עתידות | קריסטל | ראיית הנולד"
+      ],
+      "ar": [
+        "كرة كريستال",
+        "تبصير | تنجيم | حدوتة | خرافة | سحر | طالع | كرة | كريستال | مستقبل"
+      ],
+      "tr": ["kristal küre", "fal | fal bakma | kristal | küre"],
+      "vi": [
+        "quả cầu pha lê",
+        "dụng cụ | giả tưởng | pha lê | quả bóng | quả cầu pha lê | truyện cổ tích | vận may"
+      ],
+      "nl": [
+        "kristallen bol",
+        "bol | glazen bol | kristal | kristallen bol | magie | sprookje | toekomst voorspellen | waarzeggen | waarzeggerij"
+      ]
+    }
+  ],
+  "🔯": [
+    "other",
+    "six pointed star with middle dot",
+    {
+      "en": [
+        "dotted six-pointed star",
+        "dotted | fortune | jewish | judaism | six-pointed | star"
+      ],
+      "ru": [
+        "шестиконечная звезда",
+        "звезда | звезда Давида | шестиконечная звезда"
+      ],
+      "pl": [
+        "gwiazda sześcioramienna z kropką",
+        "gwiazda | gwiazda sześcioramienna z kropką | szczęście | żydowska"
+      ],
+      "fr": [
+        "étoile à 6 branches",
+        "chance | étoile | étoile à 6 branches | judaïsme | juif | juive"
+      ],
+      "de": ["Hexagramm mit Punkt", "Hexagramm mit Punkt | Wahrsager"],
+      "es": [
+        "estrella de seis puntas",
+        "adivinación | buena fortuna | estrella | estrella de seis puntas | seis puntas"
+      ],
+      "pt": [
+        "estrela de seis pontas",
+        "adivinhação | destino | estrela de seis pontas | seis pontas"
+      ],
+      "it": [
+        "stella a sei punte",
+        "chiromanzia | futuro | sei punte | stella | stella a sei punte"
+      ],
+      "ro": [
+        "stea cu șase colțuri și punct în centru",
+        "evreu | iudaism | noroc | stea | stea cu șase colțuri și punct în centru"
+      ],
+      "he": [
+        "מגן דוד עם נקודה באמצע",
+        "דת | יהדות | יהודי | מגן דוד | מגן דוד עם נקודה באמצע"
+      ],
+      "ar": ["نجمة سداسية", "تنجيم | حط | رمز | نجمة | نجمة سداسية | يهود"],
+      "tr": [
+        "altı köşeli yıldız",
+        "altı köşeli | altı köşeli yıldız | fal | fal bakma | yıldız"
+      ],
+      "vi": [
+        "ngôi sao sáu cánh có dấu chấm",
+        "may mắn | ngôi sao | ngôi sao sáu cánh có dấu chấm"
+      ],
+      "nl": [
+        "zespuntige ster",
+        "geluk | jodendom | joods | met stip | ster | zespuntig"
+      ]
+    }
+  ],
+  "🔰": [
+    "other",
+    "japanese symbol for beginner",
+    {
+      "en": [
+        "Japanese symbol for beginner",
+        "beginner | chevron | green | Japanese | leaf | symbol | tool | yellow"
+      ],
+      "ru": [
+        "символ новичка",
+        "новичок | символ | символ новичка | Япония | японский символ новичка"
+      ],
+      "pl": [
+        "japoński symbol początkującego kierowcy",
+        "japoński | kierowcy | niebieski | początkującego | początkujący | symbol | szewron | w dół | zielony | żółty"
+      ],
+      "fr": [
+        "symbole japonais de débutant",
+        "chevron | chevron jaune et vert | débutant | symbole japonais | symbole japonais de débutant"
+      ],
+      "de": [
+        "japanisches Anfänger-Zeichen",
+        "Anfänger | japanisches Anfänger-Zeichen | Japanisches Anfänger-Zeichen | japanisches Symbol"
+      ],
+      "es": [
+        "símbolo japonés para principiante",
+        "amarillo | japonés | principiante | símbolo japonés para principiante | verde"
+      ],
+      "pt": [
+        "símbolo japonês de principiante",
+        "folha verde e amarela | iniciante | japonês | símbolo japonês de principiante | símbolo japonês para iniciante | verde e amarela | verde e amarelo"
+      ],
+      "it": [
+        "ideogramma giapponese di “Principiante”",
+        "etichetta gialla e verde principiante | gallone | giallo | ideogramma giapponese di “Principiante” | patente | principiante | simbolo principiante Giappone | verde | zig zag"
+      ],
+      "ro": [
+        "simbol japonez pentru începător",
+        "chevron | frunză | începător | începător în japonia | japonez | japonia | Japonia | simbol începător japoneză | simbol japonez pentru începător"
+      ],
+      "he": [
+        "סמל יפני לרמת מתחילים",
+        "יפני | מתחיל | סמל יפני לרמת מתחילים | עלה | שברון"
+      ],
+      "ar": [
+        "ورقة خضراء وصفراء",
+        "أخضر وأصفر | شوفرون | مبتدئ | ورقة | ورقة خضراء وصفراء | ياباني"
+      ],
+      "tr": [
+        "Japonca yeni başlayan sembolü",
+        "Japonca | Japonca yeni başlayan sembolü | yeni başlayan | yeşil ve sarı | yeşil ve sarı yaprak"
+      ],
+      "vi": [
+        "ký hiệu của Nhật cho người mới bắt đầu",
+        "hình V | ký hiệu của Nhật cho người mới bắt đầu | lá | người mới bắt đầu | Nhật"
+      ],
+      "nl": [
+        "Japans symbool voor beginner",
+        "beginner | blad | chevron | geel | gereedschap | groen | Japans | symbool"
+      ]
+    }
+  ],
+  "🔱": [
+    "other",
+    "trident emblem",
+    {
+      "en": [
+        "trident emblem",
+        "anchor | emblem | poseidon | ship | tool | trident"
+      ],
+      "ru": ["трезубец", "вилы | посейдон | символ | трезубец | эмблема"],
+      "pl": [
+        "emblemat z trójzębem",
+        "emblemat | kotwica | okręt | posejdon | statek | trójząb | tryton | z trójzębem"
+      ],
+      "fr": ["trident", "ancre | bateau | fourche | mer | Poséidon | trident"],
+      "de": ["Dreizack", "Anker | Dreizack | Poseidon | Triton"],
+      "es": [
+        "emblema de tridente",
+        "ancla | emblema | emblema de tridente | tridente"
+      ],
+      "pt": [
+        "emblema de tridente",
+        "âncora | emblema | emblema de tridente | ferramenta | navio | símbolo de tridente | tridente"
+      ],
+      "it": [
+        "tridente",
+        "ancora | barca | dio del mare | favola | fiaba | marino | naufragio | nave | oceano | poseidone | simbolo | tridente"
+      ],
+      "ro": [
+        "emblemă trident",
+        "ancoră | corabie | emblemă trident | furcă | instrument | maritim | poseidon | trident"
+      ],
+      "he": [
+        "סמל קילשון",
+        "סמל | ספינה | עוגן | קילשון | קלשון | שיבה | שיווה"
+      ],
+      "ar": [
+        "رمز ثلاثي الشعب",
+        "اداة | رمز | رمز ثلاثي الشعب | سفينة | شعار | علم | مرساة"
+      ],
+      "tr": [
+        "üçlü çatal işareti",
+        "amblem | çıpa | üçlü çatal | üçlü çatal işareti"
+      ],
+      "vi": [
+        "biểu tượng đinh ba",
+        "biểu tượng | biểu tượng đinh ba | công cụ | đinh ba | neo | tàu"
+      ],
+      "nl": [
+        "drietand-symbool",
+        "anker | drietand | embleem | gereedschap | poseidon | schip"
+      ]
+    }
+  ],
+  "🔲": [
+    "other",
+    "black square button",
+    {
+      "en": ["black square button", "black | button | geometric | square"],
+      "ru": [
+        "кнопка с черной рамкой",
+        "квадрат | кнопка | рамкой | с | черная | черной"
+      ],
+      "pl": [
+        "czarny kwadratowy przycisk",
+        "biały | czarny | czarny kwadratowy przycisk | figura geometryczna | kwadrat | obramowanie"
+      ],
+      "fr": ["carré noir", "bouton | carré | carré noir | forme | géométrie"],
+      "de": [
+        "schwarze quadratische Schaltfläche",
+        "quadratisch | Schaltfläche | schwarz | schwarze quadratische Schaltfläche | Schwarze quadratische Schaltfläche"
+      ],
+      "es": [
+        "botón cuadrado con borde negro",
+        "botón | botón cuadrado con borde negro | cuadrado"
+      ],
+      "pt": [
+        "botão quadrado preto",
+        "botão | botão quadrado preto | botão quadrado preto e branco | geométrico | quadrado"
+      ],
+      "it": [
+        "tasto quadrato bianco con bordo nero",
+        "geometria | pulsante | pulsante quadrato pieno | quadrato | quadrato nero | simbolo | tasto | tasto quadrato bianco con bordo nero"
+      ],
+      "ro": [
+        "buton pătrat negru",
+        "buton pătrat negru | cadru | figură geometrică | formă geometrică | geometric | pătrat"
+      ],
+      "he": ["לחצן ריבוע שחור", "לחצן | מסגרת | צורה | ריבוע | ריבוע שחור"],
+      "ar": [
+        "زر مربع أسود",
+        "زر | زر مربع أسود | شكل هندسي | مربع | مربع أسود"
+      ],
+      "tr": ["siyah kare düğme", "düğme | kare | siyah kare düğme"],
+      "vi": [
+        "nút hình vuông màu đen",
+        "hình học | hình vuông | nút | nút hình vuông màu đen"
+      ],
+      "nl": ["zwarte vierkante knop", "geometrisch | knop | vierkant | zwart"]
+    }
+  ],
+  "🔳": [
+    "other",
+    "white square button",
+    {
+      "en": [
+        "white square button",
+        "button | geometric | outlined | square | white"
+      ],
+      "ru": [
+        "кнопка с белой рамкой",
+        "белая | белой | квадрат | кнопка | рамкой | с"
+      ],
+      "pl": [
+        "biały kwadratowy przycisk",
+        "biały | biały kwadratowy przycisk | czarny | figura geometryczna | kwadrat | obramowanie"
+      ],
+      "fr": ["carré blanc", "bouton | carré | carré blanc | forme | géométrie"],
+      "de": [
+        "weiße quadratische Schaltfläche",
+        "Quadrat | quadratisch | Schaltfläche | weiß | weiße quadratische Schaltfläche | Weiße quadratische Schaltfläche"
+      ],
+      "es": [
+        "botón cuadrado con borde blanco",
+        "botón | botón cuadrado con borde blanco | cuadrado"
+      ],
+      "pt": [
+        "botão quadrado branco",
+        "botão | botão quadrado branco | botão quadrado branco e preto | quadrado"
+      ],
+      "it": [
+        "tasto quadrato nero con bordo bianco",
+        "contorno | geometria | pulsante | pulsante quadrato con contorno | tasto quadrato nero con bordo bianco"
+      ],
+      "ro": [
+        "buton pătrat alb",
+        "buton pătrat alb | cadru | contur | figură geometrică | formă geometrică | geometric | pătrat"
+      ],
+      "he": ["לחצן ריבוע לבן", "לחצן | מסגרת | צורה | ריבוע | ריבוע לבן"],
+      "ar": ["زر مربع أبيض", "زر | زر مربع أبيض | شكل هندسي | مربع"],
+      "tr": ["beyaz kare düğme", "beyaz kare düğme | düğme | kare"],
+      "vi": [
+        "nút hình vuông màu trắng",
+        "hình học | hình vuông | mờ | nút | nút hình vuông màu trắng"
+      ],
+      "nl": [
+        "witte vierkante knop",
+        "geometrisch | knop | omlijnd | vierkant | wit"
+      ]
+    }
+  ],
+  "🔴": [
+    "other",
+    "large red circle",
+    {
+      "en": ["red circle", "circle | geometric | red"],
+      "ru": ["красный круг", "геометрия | красный | круг | фигура | шар"],
+      "pl": ["czerwone koło", "czerwone | figura geometryczna | kółko | koło"],
+      "fr": [
+        "disque rouge",
+        "cercle | disque rouge | forme géométrique | géométrie | rond | rouge"
+      ],
+      "de": ["roter Punkt", "Ball | Punkt | rot | roter Punkt"],
+      "es": ["círculo rojo", "círculo | geometría | rojo"],
+      "pt": [
+        "círculo vermelho",
+        "bola vermelha | círculo | círculo vermelho grande | geométrico | vermelho"
+      ],
+      "it": [
+        "cerchio rosso",
+        "cerchio | cerchio rosso grande | geometria | rosso | stop"
+      ],
+      "ro": [
+        "cerc roșu",
+        "bulină roșie | cerc | figură geometrică | formă geometrică | geometric | roșu"
+      ],
+      "he": ["עיגול אדום", "אדום | יפן | עיגול | צורה"],
+      "ar": [
+        "دائرة حمراء",
+        "أحمر | دائرة | دائرة حمراء | دائرة حمراء كبيرة | شكل هندسي"
+      ],
+      "tr": [
+        "kırmızı daire",
+        "büyük kırmızı çember | çember | kırmızı | kırmızı daire"
+      ],
+      "vi": [
+        "hình tròn màu đỏ",
+        "đỏ | hình học | hình tròn | hình tròn màu đỏ"
+      ],
+      "nl": ["rode cirkel", "cirkel | geometrisch | rood"]
+    }
+  ],
+  "🔵": [
+    "other",
+    "large blue circle",
+    {
+      "en": ["blue circle", "blue | circle | geometric"],
+      "ru": [
+        "голубой круг",
+        "геометрия | голубой | круг | синий | фигура | шар"
+      ],
+      "pl": [
+        "niebieskie koło",
+        "figura geometryczna | kółko | koło | niebieskie"
+      ],
+      "fr": [
+        "disque bleu",
+        "bleu | cercle | disque bleu | forme géométrique | géométrie | rond"
+      ],
+      "de": [
+        "blauer Punkt",
+        "Ball | blau | blauer Punkt | Großer blauer Kreis | Kreis | Punkt"
+      ],
+      "es": ["círculo azul", "azul | círculo | geometría"],
+      "pt": [
+        "círculo azul",
+        "azul | bolinha azul | círculo | círculo azul grande | geométrico"
+      ],
+      "it": ["cerchio blu", "blu | cerchio | geometria | grande"],
+      "ro": [
+        "cerc albastru",
+        "albastru | bulină albastră | cerc | figură geometrică | formă geometrică | geometric"
+      ],
+      "he": ["עיגול כחול", "כחול | עיגול | צורה"],
+      "ar": [
+        "دائرة زرقاء",
+        "أزرق | دائرة | دائرة زرقاء | دائرة زرقاء كبيرة | شكل هندسي"
+      ],
+      "tr": ["mavi daire", "büyük mavi çember | çember | mavi | mavi daire"],
+      "vi": [
+        "hình tròn màu lam",
+        "hình học | hình tròn | hình tròn màu lam | màu lam"
+      ],
+      "nl": ["blauwe cirkel", "blauw | cirkel | geometrisch"]
+    }
+  ],
+  "🔶": [
+    "other",
+    "large orange diamond",
+    {
+      "en": ["large orange diamond", "diamond | geometric | large | orange"],
+      "ru": [
+        "большой оранжевый ромб",
+        "большой | геометрия | оранжевый | ромб | фигура"
+      ],
+      "pl": [
+        "duży pomarańczowy romb",
+        "duży | figura geometryczna | kształt | pomarańczowy | romb"
+      ],
+      "fr": [
+        "grand losange orange",
+        "forme géométrique | géométrie | grand losange orange | losange"
+      ],
+      "de": [
+        "große orangefarbene Raute",
+        "große orangefarbene Raute | Große orangefarbene Raute | orangefarben | Raute"
+      ],
+      "es": [
+        "rombo naranja grande",
+        "geometría | naranja | rombo | rombo naranja grande"
+      ],
+      "pt": [
+        "losango laranja grande",
+        "cor de laranja | diamante | diamante cor de laranja grande | diamante laranja grande | geométrico | laranja | losango | losango laranja grande"
+      ],
+      "it": [
+        "rombo arancione grande",
+        "arancione | forma | geometria | grande | quadrato | rombo"
+      ],
+      "ro": [
+        "romb portocaliu mare",
+        "diamant | figură geometrică | formă geometrică | geometric | portocaliu | romb | romb portocaliu mare"
+      ],
+      "he": [
+        "מעוין כתום גדול",
+        "כתום | מעויין | מעוין | מעוין כתום גדול | צורה"
+      ],
+      "ar": [
+        "ماسة برتقالي كبيرة",
+        "برتقالي | شكل هندسي | ماسة | ماسة برتقالي كبيرة | ماسة برتقالية كبيرة | مُعني"
+      ],
+      "tr": ["büyük turuncu karo", "büyük turuncu karo | karo | turuncu"],
+      "vi": [
+        "hình thoi lớn màu cam",
+        "hình học | hình thoi | hình thoi lớn màu cam | màu cam"
+      ],
+      "nl": ["grote oranje ruit", "diamant | geometrisch | groot | oranje"]
+    }
+  ],
+  "🔷": [
+    "other",
+    "large blue diamond",
+    {
+      "en": ["large blue diamond", "blue | diamond | geometric | large"],
+      "ru": [
+        "большой голубой ромб",
+        "большой | геометрия | голубой | ромб | синий | фигура"
+      ],
+      "pl": [
+        "duży niebieski romb",
+        "duży | figura geometryczna | kształt | niebieski | romb"
+      ],
+      "fr": [
+        "grand losange bleu",
+        "forme géométrique | géométrie | grand losange bleu | grand losange orange | losange"
+      ],
+      "de": [
+        "große blaue Raute",
+        "blau | große blaue Raute | Große blaue Raute | Raute"
+      ],
+      "es": [
+        "rombo azul grande",
+        "azul | geometría | rombo | rombo azul grande"
+      ],
+      "pt": [
+        "losango azul grande",
+        "azul | balão | diamante | diamante azul grande | geométrico | losango | losango azul grande"
+      ],
+      "it": ["rombo blu grande", "blu | diamante | grande | rombo"],
+      "ro": [
+        "romb albastru mare",
+        "albastru | diamant | figură geometrică | formă geometrică | geometric | romb | romb albastru mare"
+      ],
+      "he": ["מעוין כחול גדול", "כחול | מעוין | מעוין כחול גדול | צורה"],
+      "ar": [
+        "ماسة زرقاء كبيرة",
+        "أزرق | رمز | شكل هندسي | ماسة | ماسة زرقاء كبيرة | معين"
+      ],
+      "tr": ["büyük mavi karo", "büyük mavi karo | karo | mavi"],
+      "vi": [
+        "hình thoi lớn màu lam",
+        "hình học | hình thoi | hình thoi lớn màu lam | màu lam"
+      ],
+      "nl": ["grote blauwe ruit", "blauw | diamant | geometrisch | groot"]
+    }
+  ],
+  "🔸": [
+    "other",
+    "small orange diamond",
+    {
+      "en": ["small orange diamond", "diamond | geometric | orange | small"],
+      "ru": [
+        "небольшой оранжевый ромб",
+        "геометрия | маленький | оранжевый | ромб | фигура"
+      ],
+      "pl": [
+        "mały pomarańczowy romb",
+        "figura geometryczna | kształt | mały | pomarańczowy | romb"
+      ],
+      "fr": [
+        "petit losange orange",
+        "forme géométrique | géométrie | losange | petit losange orange"
+      ],
+      "de": [
+        "kleine orangefarbene Raute",
+        "kleine orangefarbene Raute | Kleine orangefarbene Raute | orangefarben | Raute"
+      ],
+      "es": [
+        "rombo naranja pequeño",
+        "geometría | naranja | rombo | rombo naranja pequeño"
+      ],
+      "pt": [
+        "losango laranja pequeno",
+        "cor de laranja | diamante | diamante cor de laranja pequeno | diamante laranja pequeno | geométrico | laranja | losango | losango laranja pequeno"
+      ],
+      "it": ["rombo arancione piccolo", "arancione | piccolo | rombo"],
+      "ro": [
+        "romb portocaliu mic",
+        "diamant | figură geometrică | formă geometrică | geometric | portocaliu | romb | romb portocaliu mic"
+      ],
+      "he": ["מעוין כתום קטן", "כתום | מעויין | מעוין | מעוין כתום קטן | צורה"],
+      "ar": [
+        "ماسة برتقالي صغيرة",
+        "برتقالي | رباعي | شكل هندسي | ماسة | ماسة برتقالي صغيرة | ماسة برتقالية صغيرة | مُعيـن"
+      ],
+      "tr": ["küçük turuncu karo", "karo | küçük turuncu karo | turuncu"],
+      "vi": [
+        "hình thoi nhỏ màu cam",
+        "hình học | hình thoi | hình thoi nhỏ màu cam | màu cam"
+      ],
+      "nl": ["kleine oranje ruit", "diamant | geometrisch | klein | oranje"]
+    }
+  ],
+  "🔹": [
+    "other",
+    "small blue diamond",
+    {
+      "en": ["small blue diamond", "blue | diamond | geometric | small"],
+      "ru": [
+        "небольшой голубой ромб",
+        "геометрия | голубой | небольшой голубой ромб | небольшой ромб | ромб | фигура"
+      ],
+      "pl": [
+        "mały niebieski romb",
+        "figura geometryczna | kształt | mały | niebieski | romb"
+      ],
+      "fr": [
+        "petit losange bleu",
+        "forme géométrique | géométrie | losange | petit losange bleu"
+      ],
+      "de": [
+        "kleine blaue Raute",
+        "blau | kleine blaue Raute | Kleine blaue Raute | Raute"
+      ],
+      "es": [
+        "rombo azul pequeño",
+        "azul | geometría | rombo | rombo azul pequeño"
+      ],
+      "pt": [
+        "losango azul pequeno",
+        "azul | diamante | diamante azul pequeno | geométrico | losango | losango azul pequeno"
+      ],
+      "it": ["rombo blu piccolo", "blu | piccolo | rombo"],
+      "ro": [
+        "romb albastru mic",
+        "albastru | diamant | figură geometrică | formă geometrică | geometric | romb | romb albastru mic"
+      ],
+      "he": ["מעוין כחול קטן", "כחול | מעויין | מעוין | צורה"],
+      "ar": [
+        "ماسة زرقاء صغيرة",
+        "أزرق | الماسة | رمز | ماسة | ماسة زرقاء صغيرة"
+      ],
+      "tr": ["küçük mavi karo", "karo | küçük mavi karo | mavi"],
+      "vi": [
+        "hình thoi nhỏ màu lam",
+        "hình học | hình thoi | hình thoi nhỏ màu lam | màu lam"
+      ],
+      "nl": ["kleine blauwe ruit", "blauw | diamant | geometrisch | klein"]
+    }
+  ],
+  "🔺": [
+    "other",
+    "up-pointing red triangle",
+    {
+      "en": [
+        "red triangle pointed up",
+        "geometric | pointed | red | triangle | up"
+      ],
+      "ru": [
+        "треугольник вершиной вверх",
+        "вверх | вершиной | геометрия | красный | пирамида | треугольник | фигура"
+      ],
+      "pl": [
+        "czerwony trójkąt skierowany w górę",
+        "czerwony | czerwony trójkąt skierowany w górę | do góry | figura geometryczna | trójkąt | w górę | wierzchołkiem"
+      ],
+      "fr": [
+        "triangle rouge pointant vers le haut",
+        "flèche | forme géométrique | géométrie | rouge | triangle haut | triangle rouge pointant vers le haut | triangle rouge pointé vers le haut"
+      ],
+      "de": [
+        "rotes Dreieck mit der Spitze nach oben",
+        "aufwärts | Dreieck | rot | rotes Dreieck mit der Spitze nach oben | Rotes Dreieck mit Spitze oben"
+      ],
+      "es": [
+        "triángulo rojo hacia arriba",
+        "geometría | rojo | triángulo | triángulo hacia arriba rojo | triángulo rojo hacia arriba"
+      ],
+      "pt": [
+        "triângulo vermelho para cima",
+        "geométrico | triângulo | triângulo vermelho apontando para cima | triangulo vermelho para cima | triângulo vermelho para cima | vermelho"
+      ],
+      "it": [
+        "triangolo rosso con punta verso l’alto",
+        "alto | forma | geometria | rosso | triangolo | triangolo rosso con punta verso l’alto | triangolo rosso punta in alto"
+      ],
+      "ro": [
+        "triunghi roșu cu vârful în sus",
+        "figură geometrică | formă geometrică | geometric | roșu | sus | triunghi | triunghi roșu cu vârful în sus | vârf"
+      ],
+      "he": ["משולש אדום כלפי מעלה", "אדום | למעלה | משולש | צורה"],
+      "ar": ["مثلث لأعلى أحمر", "أحمر | مثلث | مثلث أحمر لأعلى | مثلث لأعلى أحمر"],
+      "tr": [
+        "yukarı bakan kırmızı üçgen",
+        "kırmızı | üçgen | yukarı bakan kırmızı üçgen | yukarı kırmızı üçgen"
+      ],
+      "vi": [
+        "tam giác màu đỏ trỏ lên trên",
+        "hình học | màu đỏ | tam giác màu đỏ trỏ lên trên"
+      ],
+      "nl": [
+        "rode omhoogwijzende driehoek",
+        "driehoek | geometrisch | omhoog | rood | wijzend"
+      ]
+    }
+  ],
+  "🔻": [
+    "other",
+    "down-pointing red triangle",
+    {
+      "en": [
+        "red triangle pointed down",
+        "down | geometric | pointed | red | triangle"
+      ],
+      "ru": [
+        "треугольник вершиной вниз",
+        "вершиной | вниз | геометрия | красный | пирамида | треугольник | фигура"
+      ],
+      "pl": [
+        "czerwony trójkąt skierowany w dół",
+        "czerwony | czerwony trójkąt skierowany w dół | figura geometryczna | na dół | trójkąt | w dół | wierzchołkiem"
+      ],
+      "fr": [
+        "triangle rouge pointant vers le bas",
+        "bas | flèche | forme | géométrie | rouge | triangle bas | triangle rouge pointant vers le bas | triangle rouge pointé vers le bas"
+      ],
+      "de": [
+        "rotes Dreieck mit der Spitze nach unten",
+        "abwärts | Dreieck | rot | rotes Dreieck mit der Spitze nach unten"
+      ],
+      "es": [
+        "triángulo rojo hacia abajo",
+        "geometría | rojo | triángulo | triángulo hacia abajo rojo | triángulo rojo hacia abajo"
+      ],
+      "pt": [
+        "triângulo vermelho para baixo",
+        "geométrico | triângulo | triângulo vermelho apontando para baixo | triangulo vermelho para baixo | triângulo vermelho para baixo | vermelho"
+      ],
+      "it": [
+        "triangolo rosso con punta verso il basso",
+        "basso | geometria | rosso | triangolo | triangolo rosso con punta verso il basso | triangolo rosso punta in basso"
+      ],
+      "ro": [
+        "triunghi roșu cu vârful în jos",
+        "figură geometrică | formă geometrică | geometric | jos | roșu | triunghi | triunghi roșu cu vârful în jos | vârf"
+      ],
+      "he": ["משולש אדום כלפי מטה", "אדום | למטה | משולש | צורה"],
+      "ar": [
+        "مثلث لأسفل أحمر",
+        "أحمر | رمز | شكل هندسي | مثلث | مثلث أحمر لأسفل | مثلث لأسفل أحمر"
+      ],
+      "tr": [
+        "aşağı bakan kırmızı üçgen",
+        "aşağı bakan kırmızı üçgen | aşağı kırmızı üçgen | kırmızı | üçgen"
+      ],
+      "vi": [
+        "tam giác màu đỏ trỏ xuống dưới",
+        "đỏ | hình học | tam giác màu đỏ trỏ xuống dưới | xuống"
+      ],
+      "nl": [
+        "rode omlaagwijzende driehoek",
+        "driehoek | geometrisch | omlaag | rood | wijzend"
+      ]
+    }
+  ],
+  "🔼": [
+    "other",
+    "up-pointing small red triangle",
+    {
+      "en": ["upwards button", "arrow | button | red | up | upwards"],
+      "ru": [
+        "треугольник острием вверх",
+        "вверх | кнопка | кнопка треугольник острием вверх | пирамида | треугольник | треугольник острием вверх"
+      ],
+      "pl": [
+        "przycisk „w górę”",
+        "do góry | przycisk „w górę” | strzałka | trójkąt | w górę"
+      ],
+      "fr": [
+        "petit triangle haut",
+        "bouton haut | flèche | haut | petit triangle haut"
+      ],
+      "de": [
+        "Aufwärts-Schaltfläche",
+        "aufwärts | Aufwärts-Schaltfläche | nach oben | Pfeil | Schaltfläche"
+      ],
+      "es": [
+        "triángulo hacia arriba",
+        "arriba | botón | botón triángulo hacia arriba | triángulo | triángulo hacia arriba"
+      ],
+      "pt": [
+        "botão apontando para cima",
+        "acima | botão | botão apontando para cima | botão de triângulo apontando para cima | para cima | seta | triângulo | triângulo apontando para cima | vermelho"
+      ],
+      "it": [
+        "pulsante a triangolo rivolto verso l’alto",
+        "alto | in alto | pulsante | pulsante a triangolo rivolto verso l’alto | tasto | triangolo"
+      ],
+      "ro": [
+        "buton pentru sus",
+        "buton mai sus | buton pentru sus | săgeată | sus | triunghi"
+      ],
+      "he": ["לחצן מעלה", "חץ | לחצן מעלה | למעלה"],
+      "ar": ["زر لأعلى", "زر | لأعلى | مثلث"],
+      "tr": [
+        "yukarı düğmesi",
+        "düğme | üçgen | yukarı düğmesi | yukarı üçgen düğmesi"
+      ],
+      "vi": ["nút đi lên", "đỏ | mũi tên | nút | nút đi lên"],
+      "nl": ["knop voor omhoog", "knop | omhoog | pijl | rood"]
+    }
+  ],
+  "🔽": [
+    "other",
+    "down-pointing small red triangle",
+    {
+      "en": ["downwards button", "arrow | button | down | downwards | red"],
+      "ru": [
+        "треугольник острием вниз",
+        "вниз | кнопка | треугольник | треугольник острием вниз"
+      ],
+      "pl": [
+        "przycisk „w dół”",
+        "na dół | przycisk „w dół” | strzałka | trójkąt | w dół"
+      ],
+      "fr": [
+        "petit triangle bas",
+        "bas | bouton bas | flèche | petit triangle bas"
+      ],
+      "de": [
+        "Abwärts-Schaltfläche",
+        "abwärts | Abwärts-Schaltfläche | nach unten | Pfeil | Schaltfläche"
+      ],
+      "es": [
+        "triángulo hacia abajo",
+        "abajo | botón | botón triángulo hacia abajo | triángulo | triángulo hacia abajo"
+      ],
+      "pt": [
+        "botão apontando para baixo",
+        "botão | botão apontando para baixo | botão de triângulo apontando para baixo | para baixo | seta | triângulo | triângulo apontando para baixo | vermelho"
+      ],
+      "it": [
+        "pulsante a triangolo rivolto verso il basso",
+        "basso | in basso | in giù | pulsante | pulsante a triangolo rivolto verso il basso | tasto | triangolo | triangolo con punta in basso | triangolo in basso"
+      ],
+      "ro": [
+        "buton pentru jos",
+        "buton mai jos | buton pentru jos | jos | săgeată | triunghi"
+      ],
+      "he": ["לחצן מטה", "חץ | לחצן מטה | למטה"],
+      "ar": ["زر لأسفل", "رمز | زر | لأسفل | مثلث"],
+      "tr": [
+        "aşağı düğmesi",
+        "aşağı düğmesi | aşağı üçgen düğmesi | düğme | üçgen"
+      ],
+      "vi": ["nút đi xuống", "đỏ | mũi tên | nút | nút đi xuống | xuống"],
+      "nl": ["knop voor omlaag", "beneden | knop | omlaag | pijl | rood"]
+    }
+  ],
+  "🔾": ["other", "lower right shadowed white circle", {}],
+  "🔿": ["other", "upper right shadowed white circle", {}],
+  "🕀": ["other", "circled cross pommee", {}],
+  "🕁": ["other", "cross pommee with half-circle below", {}],
+  "🕂": ["other", "cross pommee", {}],
+  "🕃": ["other", "notched left semicircle with three dots", {}],
+  "🕄": ["other", "notched right semicircle with three dots", {}],
+  "🕅": ["other", "symbol for marks chapter", {}],
+  "🕆": ["other", "white latin cross", {}],
+  "🕇": ["other", "heavy latin cross", {}],
+  "🕈": ["other", "celtic cross", {}],
+  "🕉": [
+    "other",
+    "om symbol",
+    {
+      "en": ["om", "Hindu | om | religion"],
+      "ru": ["ом", "аум | мантра | ом | религия"],
+      "pl": ["om", "hinduizm | om | religia"],
+      "fr": ["om", "hindou | om | religion"],
+      "de": ["om", "Hinduismus | om | Religion"],
+      "es": ["om", "hindú | om | religión"],
+      "pt": ["om", "hindu | om | religião"],
+      "it": [
+        "Om",
+        "induismo | Induismo | mantra | Om | religione induista | religone"
+      ],
+      "ro": ["simbol hindus om", "hindusă | religie | simbol hindus om"],
+      "he": ["אום", "אום | דת | הינדו | הינדי"],
+      "ar": ["دين هندوسي", "دين | رمز | هندوسي"],
+      "tr": ["om", "din | hinduizm | Hinduizm | om"],
+      "vi": ["om", "hindu | om | tôn giáo"],
+      "nl": ["om-symbool", "hindoeïsme | om | religie"]
+    }
+  ],
+  "🕊": [
+    "other",
+    "dove of peace",
+    {
+      "en": ["dove", "bird | dove | fly | ornithology | peace"],
+      "ru": ["голубь", "белый | голубь | мир | полет | преданность | чистота"],
+      "pl": [
+        "gołąb",
+        "biały | gołąb | gołąbek | miłość | pokój | ptak | skrzydła | ślub | zwierzę"
+      ],
+      "fr": ["colombe", "animal | colombe | oiseau | paix | rameau | voler"],
+      "de": [
+        "Taube",
+        "fliegen | Friede | Frieden | Friedenstaube | Taube | Vogel"
+      ],
+      "es": ["paloma", "ave | pájaro | paloma | paz"],
+      "pt": [
+        "pomba branca",
+        "animal | ave branca | pássaro | paz | pomba | pomba branca"
+      ],
+      "it": [
+        "colomba",
+        "animale | ornitologia | pace | Pasqua | uccellino | uccello | ulivo | volare"
+      ],
+      "ro": ["porumbiță", "pace | pasăre | porumbel | porumbiță | zbor"],
+      "he": ["יונה", "יונה | עלה זית | שלום"],
+      "ar": [
+        "حمامة",
+        "ترفرف | حمامة | زيتون | سلام | طائر | طير | عصفور | هواء | يرفرف | يمامه"
+      ],
+      "tr": ["güvercin", "barış | beyaz güvercin | güvercin | kuş | uçma"],
+      "vi": ["bồ câu", "bay | bồ câu | chim | hòa bình"],
+      "nl": ["duif", "duif | ornithologie | vliegen | vogel | vrede"]
+    }
+  ],
+  "🕋": [
+    "other",
+    "kaaba",
+    {
+      "en": ["kaaba", "hajj | islam | kaaba | Muslim | religion | umrah"],
+      "ru": ["Кааба", "ислам | Кааба | мусульмане | религия | святыня | хадж"],
+      "pl": ["kaaba", "islam | kaaba | muzułmanin | religia"],
+      "fr": [
+        "kaaba",
+        "islam | kaaba | Kaaba | musulman | musulmane | religion | voyage"
+      ],
+      "de": ["Kaaba", "Hajj | Islam | Kaaba | Moslem | Muslim | Religion"],
+      "es": ["Kaaba", "hach | islam | Kaaba | musulmán | religión | umrah"],
+      "pt": ["caaba islã", "caaba islã | islã | muçulmano | religião"],
+      "it": [
+        "Kaaba",
+        "Arabia Saudita | Islam | islamismo | Islamismo | Kaaba | La Mecca | musulmana | musulmani | musulmano | religione"
+      ],
+      "ro": [
+        "lăcaș de cult islamic kaaba",
+        "cult | hajj | islam | kaaba | lăcaș de cult islamic kaaba | musulman | religie | umrah"
+      ],
+      "he": ["כעבה", "איסלם | דת | חאג׳ | כעבה | מוסלמי | מכה"],
+      "ar": ["الكعبة", "إسلام | الكعبة | حج | دين | طواف | كعبة | مسلم"],
+      "tr": ["Kâbe", "din | islam | kabe | kâbe | Kâbe | müslüman"],
+      "vi": ["kaaba", "hồi giáo | kaaba | thuộc hồi giáo | tôn giáo"],
+      "nl": [
+        "kaäba",
+        "bedevaart | geloof | islam | kaäba | mekka | moslim | religie"
+      ]
+    }
+  ],
+  "🕌": [
+    "other",
+    "mosque",
+    {
+      "en": ["mosque", "islam | masjid | mosque | Muslim | religion"],
+      "ru": ["мечеть", "здание | ислам | мечеть | мусульмане | религия"],
+      "pl": ["meczet", "islam | meczet | muzułmanin | religia | świątynia"],
+      "fr": [
+        "mosquée",
+        "islam | mosquée | musulman | musulmane | religion | voyage"
+      ],
+      "de": ["Moschee", "Islam | Moschee | Moslem | Muslim | Religion"],
+      "es": ["mezquita", "islam | mezquita | religión"],
+      "pt": ["mesquita", "islã | mesquita | muçulmano | religião"],
+      "it": [
+        "moschea",
+        "islam | islamismo | Islamismo | moschea | musulmani | musulmano | pregare | preghiera | religione"
+      ],
+      "ro": ["moschee", "cult | islam | masjid | moschee | musulman | religie"],
+      "he": ["מסגד", "איסלם | דת | מוסלמי | מסגד"],
+      "ar": [
+        "مسجد",
+        "إسلام | تراويح | جامع | دين | رمضان | صلاة الجمعة | صلاة جماعة | مسجد | مسلمون"
+      ],
+      "tr": [
+        "cami",
+        "cami | din | ibadet | ibadethane | islam | İslam | mescit | müslüman | Müslüman"
+      ],
+      "vi": [
+        "nhà thờ hồi giáo",
+        "hồi giáo | nhà thờ hồi giáo | thuộc hồi giáo | tôn giáo"
+      ],
+      "nl": ["moskee", "geloof | islam | moskee | moslim | religie"]
+    }
+  ],
+  "🕍": [
+    "other",
+    "synagogue",
+    {
+      "en": [
+        "synagogue",
+        "Jew | Jewish | judaism | religion | synagogue | temple"
+      ],
+      "ru": [
+        "синагога",
+        "евреи | здание | иудаизм | религия | синагога | церковь"
+      ],
+      "pl": ["synagoga", "religia | świątynia | synagoga | żyd | żydowski"],
+      "fr": [
+        "synagogue",
+        "judaïsme | juif | juive | religion | synagogue | temple | voyage"
+      ],
+      "de": ["Synagoge", "Jude | jüdisch | Religion | Synagoge | Tempel"],
+      "es": ["sinagoga", "judaísmo | religión | sinagoga"],
+      "pt": [
+        "sinagoga",
+        "judaísmo | judeu | judia | religião | sinagoga | templo"
+      ],
+      "it": [
+        "sinagoga",
+        "ebraismo | Ebraismo | religione | sinagoga | tempio ebraico"
+      ],
+      "ro": [
+        "sinagogă",
+        "cult | evreiesc | evreu | iudaism | iudeic | religie | sinagogă | templu"
+      ],
+      "he": ["בית כנסת", "בית כנסת | דת | יהדות | יהודי"],
+      "ar": ["معبد يهودي", "دين | معبد | معبد يهودي | يهود | يهودية"],
+      "tr": ["sinagog", "din | musevi | sinagog | tapınak | yahudi | Yahudi"],
+      "vi": [
+        "giáo đường Do thái",
+        "đền | do thái | giáo đường Do thái | người do thái | tôn giáo"
+      ],
+      "nl": [
+        "synagoge",
+        "geloof | jodendom | jood | joods | religie | synagoge | tempel"
+      ]
+    }
+  ],
+  "🕎": [
+    "other",
+    "menorah with nine branches",
+    {
+      "en": [
+        "menorah",
+        "candelabrum | candlestick | hanukkah | jewish | judaism | menorah | religion"
+      ],
+      "ru": [
+        "менора",
+        "менора | подсвечник | религия | свечи | ханука | ханукия"
+      ],
+      "pl": [
+        "menora",
+        "Chanuka | Chanukija | judaizm | kandelabr | menora | religia | świecznik | żydowska"
+      ],
+      "fr": [
+        "chandelier à sept branches",
+        "candélabre | chandelier | chandelier à sept branches | Hanoucca | Hanoukka | judaïsme | juif | juive | menora | menorah | religion"
+      ],
+      "de": ["Menora", "Leuchter | Menora | Religion"],
+      "es": ["menorá", "candelabro | menorá | religión"],
+      "pt": [
+        "menorá",
+        "candelabro | candelabro judeu | castiçal | judaísmo | memorah | menorá | religião"
+      ],
+      "it": [
+        "Menorah",
+        "candelabro | Ebraismo | Menorah | religione | sette bracci"
+      ],
+      "ro": [
+        "menorah",
+        "brațe | Hanuca | iudaism | lumânare | menorah | nouă | religie | sfeșnic"
+      ],
+      "he": ["חנוכיה", "דת | חנוכה | חנוכיה | יהדות | מנורה"],
+      "ar": [
+        "شمعدان شعار اليهودية",
+        "دين | دين يهودي | شمعدان شعار اليهودية | شموع | هانوكا"
+      ],
+      "tr": [
+        "Yahudi şamdanı",
+        "din | menora | mum | mumluk | şamdan | yahudi şamdanı | Yahudi şamdanı"
+      ],
+      "vi": [
+        "cây đèn menorah",
+        "cây đèn menorah | cây đèn nến | giá đỡ nến | tôn giáo"
+      ],
+      "nl": [
+        "menora",
+        "hannuka | jodendom | joods | kandelaar | menora | religie"
+      ]
+    }
+  ],
+  "🕏": ["other", "bowl of hygieia", {}],
+  "🕐": [
+    "other",
+    "clock face one oclock",
+    {
+      "en": ["one o’clock", "1 | 1:00 | clock | o’clock | one | time"],
+      "ru": ["час", "1:00 | 13:00 | время | дня | ночи | один | час | часы"],
+      "pl": [
+        "godzina 1:00",
+        "00 | 1 | 1:00 | czas | godzina | pierwsza | trzynasta | zegar"
+      ],
+      "fr": [
+        "une heure",
+        "1 h | 13 h | heure | horloge | treize heures | une heure"
+      ],
+      "de": [
+        "1:00 Uhr",
+        "01:00 | 1 | 1:00 Uhr | 13:00 | Punkt eins | Uhr | Zeit | Ziffernblatt 1:00 Uhr | Ziffernblatt 1.00 Uhr"
+      ],
+      "es": ["1 en punto", "1 en punto | 1:00 | reloj | una"],
+      "pt": ["1 hora", "1 hora | 13h | 1h | 1h00 | relógio | uma"],
+      "it": ["ore una", "1:00 | 13:00 | ora | ore una | orologio | tempo"],
+      "ro": [
+        "ora unu fix",
+        "1:00 | 13:00 | ceas | oră | ora unu | ora unu fix | unu | unu fix"
+      ],
+      "he": ["אחת", "01:00 | 13:00 | אחת | אחת בצהריים | אחת לפנות בוקר"],
+      "ar": [
+        "الساعة الواحدة",
+        "1:00 | الساعة 1 | الساعة الواحدة | الواحدة | توقيت | ساعة | وقت"
+      ],
+      "tr": ["saat 1", "1:00 | bir | saat | saat 1"],
+      "vi": ["một giờ", "00 | 1 | 1:00 | đồng hồ | giờ | một"],
+      "nl": [
+        "één uur",
+        "00 | 01:00 | 1 | 1:00 | 13:00 | één | klok | tijd | uur"
+      ]
+    }
+  ],
+  "🕑": [
+    "other",
+    "clock face two oclock",
+    {
+      "en": ["two o’clock", "2 | 2:00 | clock | o’clock | time | two"],
+      "ru": ["два часа", "время | два | два часа | час | часы"],
+      "pl": [
+        "godzina 2:00",
+        "00 | 2 | 2:00 | czas | czternasta | druga | godzina | zegar"
+      ],
+      "fr": [
+        "deux heures",
+        "14 h | 2 h | deux heures | heure | horloge | quatorze heures"
+      ],
+      "de": [
+        "2:00 Uhr",
+        "2 | 2:00 Uhr | Uhr | Zeit | Ziffernblatt 2:00 Uhr | Ziffernblatt 2.00 Uhr"
+      ],
+      "es": ["2 en punto", "2 en punto | 2:00 | dos | reloj"],
+      "pt": ["2 horas", "14h | 2 horas | 2h | 2h00 | duas | relógio"],
+      "it": ["ore due", "14:00 | 2:00 | ore due | orologio | tempo"],
+      "ro": [
+        "ora două fix",
+        "14:00 | 2 | 2:00 | ceas | două | fix | oră | ora două | ora două fix"
+      ],
+      "he": [
+        "שתיים",
+        "02:00 | 14:00 | שתיים | שתיים בצהריים | שתיים לפנות בוקר"
+      ],
+      "ar": ["الساعة الثانية", "2:00 | الثانية | الساعة | الساعة ٢"],
+      "tr": ["saat 2", "2:00 | iki | saat | saat 2"],
+      "vi": ["hai giờ", "00 | 2 | 2:00 | đồng hồ | giờ | hai giờ"],
+      "nl": [
+        "twee uur",
+        "00 | 02:00 | 14:00 | 2 | 2:00 | klok | tijd | twee | uur"
+      ]
+    }
+  ],
+  "🕒": [
+    "other",
+    "clock face three oclock",
+    {
+      "en": ["three o’clock", "3 | 3:00 | clock | o’clock | three | time"],
+      "ru": [
+        "три часа",
+        "15:00 | 3:00 | время | время три часа | ровно | три | три часа | час | часы"
+      ],
+      "pl": [
+        "godzina 3:00",
+        "00 | 3 | 3:00 | czas | godzina | piętnasta | trzecia | zegar"
+      ],
+      "fr": [
+        "trois heures",
+        "15 h | 3 h | heure | horloge | quinze heures | trois heures"
+      ],
+      "de": [
+        "3:00 Uhr",
+        "3 | 3:00 Uhr | Uhr | Zeit | Ziffernblatt 3:00 Uhr | Ziffernblatt 3.00 Uhr"
+      ],
+      "es": ["3 en punto", "3 en punto | 3:00 | reloj | tres"],
+      "pt": [
+        "3 horas",
+        "15h | 3 horas | 3:00 | 3h00 | hora | horário | relógio | três"
+      ],
+      "it": ["ore tre", "15:00 | 3:00 | ora | ore tre | orologio | tempo"],
+      "ro": [
+        "ora trei fix",
+        "15:00 | 3:00 | ceas | oră | ora trei | ora trei fix | trei | trei fix"
+      ],
+      "he": ["שלוש", "03:00 | 15:00 | שלוש | שלוש בצהריים | שלוש לפנות בוקר"],
+      "ar": ["الساعة الثالثة", "3:00 | الثالثة | الساعة | الساعة 3"],
+      "tr": ["saat 3", "3:00 | saat | saat 3 | üç"],
+      "vi": ["ba giờ", "00 | 3 | 3:00 | ba | đồng hồ | giờ"],
+      "nl": [
+        "drie uur",
+        "00 | 03:00 | 15:00 | 3 | 3:00 | drie | klok | tijd | uur"
+      ]
+    }
+  ],
+  "🕓": [
+    "other",
+    "clock face four oclock",
+    {
+      "en": ["four o’clock", "4 | 4:00 | clock | four | o’clock | time"],
+      "ru": [
+        "четыре часа",
+        "16:00 | 4:00 | время | время четыре часа | ровно | час | часы | четыре | четыре часа"
+      ],
+      "pl": [
+        "godzina 4:00",
+        "00 | 4 | 4:00 | czas | czwarta | godzina | szesnasta | zegar"
+      ],
+      "fr": ["quatre heures", "16 h | 4 h | quatre heures | seize heures"],
+      "de": [
+        "4:00 Uhr",
+        "4 | 4:00 Uhr | Uhr | Zeit | Ziffernblatt 4:00 Uhr | Ziffernblatt 4.00 Uhr"
+      ],
+      "es": ["4 en punto", "4 en punto | 4:00 | cuatro | reloj"],
+      "pt": ["4 horas", "4 horas | 4:00 | 4h00 | horário | quatro | relógio"],
+      "it": [
+        "ore quattro",
+        "16:00 | 4:00 | ora | ore quattro | orologio | quattro | tempo"
+      ],
+      "ro": [
+        "ora patru fix",
+        "00 | 16:00 | 4 | 4:00 | ceas | fix | oră | ora patru | ora patru fix | patru"
+      ],
+      "he": [
+        "ארבע",
+        "04:00 | 16:00 | ארבע | ארבע אחר הצהריים | ארבע לפנות בוקר"
+      ],
+      "ar": ["الساعة الرابعة", "4:00 | الرابعة | الساعة | الساعة 4"],
+      "tr": ["saat 4", "4:00 | dört | saat | saat 4"],
+      "vi": ["bốn giờ", "00 | 4 | 4:00 | bốn | đồng hồ | giờ"],
+      "nl": [
+        "vier uur",
+        "00 | 04:00 | 16:00 | 4 | 4:00 | klok | tijd | uur | vier"
+      ]
+    }
+  ],
+  "🕔": [
+    "other",
+    "clock face five oclock",
+    {
+      "en": ["five o’clock", "5 | 5:00 | clock | five | o’clock | time"],
+      "ru": [
+        "пять часов",
+        "17:00 | 5:00 | время | время пять часов | пять | пять часов | ровно | час | часы"
+      ],
+      "pl": [
+        "godzina 5:00",
+        "00 | 5 | 5:00 | czas | godzina | piąta | siedemnasta | zegar"
+      ],
+      "fr": [
+        "cinq heures",
+        "17 h | 5 h | cinq heures | dix-sept heures | heure | horloge"
+      ],
+      "de": [
+        "5:00 Uhr",
+        "05:00 | 17:00 | 5 | 5:00 Uhr | Punkt fünf | Uhr | Zeit | Ziffernblatt 5:00 Uhr | Ziffernblatt 5.00 Uhr"
+      ],
+      "es": ["5 en punto", "5 en punto | 5:00 | cinco | reloj"],
+      "pt": ["5 horas", "5 horas | 5h00 | cinco | relógio"],
+      "it": [
+        "ore cinque",
+        "17:00 | 5:00 | ora | ore cinque | orologio | tempo"
+      ],
+      "ro": [
+        "ora cinci fix",
+        "00 | 17:00 | 5 | 5:00 | ceas | cinci | fix | oră | ora cinci | ora cinci fix"
+      ],
+      "he": ["חמש", "05:00 | 17:00 | חמש | חמש אחר הצהריים | חמש לפנות בוקר"],
+      "ar": [
+        "الساعة الخامسة",
+        "5:00 | الخامسة | الساعة | الساعة 5 | توقيت | وقت"
+      ],
+      "tr": ["saat 5", "5:00 | beş | saat | saat 5"],
+      "vi": ["năm giờ", "00 | 5 | 5:00 | đồng hồ | giờ | năm"],
+      "nl": ["vijf uur", "00 | 05:00 | 17:00 | 5 | 5:00 | klok | uur | vijf"]
+    }
+  ],
+  "🕕": [
+    "other",
+    "clock face six oclock",
+    {
+      "en": ["six o’clock", "6 | 6:00 | clock | o’clock | six | time"],
+      "ru": [
+        "шесть часов",
+        "18:00 | 6:00 | время | время шесть часов | ровно | час | часы | шесть | шесть часов"
+      ],
+      "pl": [
+        "godzina 6:00",
+        "00 | 6 | 6:00 | czas | godzina | osiemnasta | szósta | zegar"
+      ],
+      "fr": [
+        "six heures",
+        "18 h | 6 h | dix-huit heures | heure | horloge | six heures"
+      ],
+      "de": [
+        "6:00 Uhr",
+        "6 | 6:00 Uhr | Uhr | Zeit | Ziffernblatt 6:00 Uhr | Ziffernblatt 6.00 Uhr"
+      ],
+      "es": ["6 en punto", "6 en punto | 6:00 | reloj | seis"],
+      "pt": ["6 horas", "18h | 6 horas | 6h00 | relógio | seis"],
+      "it": ["ore sei", "18:00 | 6:00 | ora | ore sei | orologio | tempo"],
+      "ro": [
+        "ora șase fix",
+        "18:00 | 6 | 6:00 | ceas | fix | ora șase | ora șase fix | șase | timp"
+      ],
+      "he": ["שש", "06:00 | 18:00 | שש | שש בבוקר | שש בערב"],
+      "ar": ["الساعة السادسة", "٦ | 6:00 | السادسة | الساعة | توقيت | وقت"],
+      "tr": ["saat 6", "6:00 | altı | saat | saat 6"],
+      "vi": ["sáu giờ", "00 | 6 | 6:00 | đồng hồ | giờ | sáu"],
+      "nl": [
+        "zes uur",
+        "00 | 06:00 | 18:00 | 6 | 6:00 | klok | tijd | uur | zes"
+      ]
+    }
+  ],
+  "🕖": [
+    "other",
+    "clock face seven oclock",
+    {
+      "en": ["seven o’clock", "0 | 7 | 7:00 | clock | o’clock | seven"],
+      "ru": [
+        "семь часов",
+        "19:00 | 7:00 | время | время семь часов | ровно | семь | семь часов | час | часы"
+      ],
+      "pl": [
+        "godzina 7:00",
+        "00 | 7 | 7:00 | czas | dziewiętnasta | godzina | siódma | zegar"
+      ],
+      "fr": [
+        "sept heures",
+        "19 h | 7 h | dix-neuf heures | heure | horloge | sept heures"
+      ],
+      "de": [
+        "7:00 Uhr",
+        "7 | 7:00 Uhr | Uhr | Ziffernblatt 7:00 Uhr | Ziffernblatt 7.00 Uhr"
+      ],
+      "es": ["7 en punto", "7 en punto | 7:00 | reloj | siete"],
+      "pt": ["7 horas", "19h | 7 horas | 7h00 | relógio | sete"],
+      "it": ["ore sette", "19:00 | 7:00 | ora | ore sette | orologio | tempo"],
+      "ro": [
+        "ora șapte fix",
+        "00 | 19:00 | 7:00 | ceas | fix | oră | ora șapte | ora șapte fix | șapte"
+      ],
+      "he": ["שבע", "07:00 | 19:00 | שבע | שבע בבוקר | שבע בערב"],
+      "ar": [
+        "الساعة السابعة",
+        "7:00 | السابعة | الساعة | الساعة 7 | توقيت | وقت"
+      ],
+      "tr": ["saat 7", "7:00 | saat | saat 7 | yedi"],
+      "vi": ["bảy giờ", "00 | 7 | 7:00 | bảy | đồng hồ | giờ"],
+      "nl": [
+        "zeven uur",
+        "00 | 07:00 | 19:00 | 7 | 7:00 | klok | tijd | uur | zeven"
+      ]
+    }
+  ],
+  "🕗": [
+    "other",
+    "clock face eight oclock",
+    {
+      "en": ["eight o’clock", "8 | 8:00 | clock | eight | o’clock | time"],
+      "ru": [
+        "восемь часов",
+        "20:00 | 8 | восемь | восемь часов | время | время восемь часов | ровно | час | часы"
+      ],
+      "pl": [
+        "godzina 8:00",
+        "00 | 8 | 8:00 | czas | dwudziesta | godzina | ósma | zegar"
+      ],
+      "fr": [
+        "huit heures",
+        "20 h | 8 h | heure | horloge | huit heures | vingt heures"
+      ],
+      "de": [
+        "8:00 Uhr",
+        "8 | 8:00 Uhr | Uhr | um 8 | Zeit | Ziffernblatt 8:00 Uhr | Ziffernblatt 8.00 Uhr"
+      ],
+      "es": ["8 en punto", "8 en punto | 8:00 | ocho | reloj"],
+      "pt": ["8 horas", "8 horas | 8:00 | 8h00 | hora | oito | relógio"],
+      "it": ["ore otto", "20:00 | 8:00 | ore otto | orologio | otto"],
+      "ro": [
+        "ora opt fix",
+        "20:00 | 8:00 | ceas | opt | opt fix | oră | ora opt | ora opt fix | timp"
+      ],
+      "he": ["שמונה", "08:00 | 20:00 | שמונה | שמונה בבוקר | שמונה בערב"],
+      "ar": ["الساعة الثامنة", "٨ | 8:00 | الثامنة | الساعة"],
+      "tr": ["saat 8", "8:00 | saat | saat 8 | sekiz"],
+      "vi": ["tám giờ", "00 | 8 | 8:00 | đồng hồ | giờ | tám"],
+      "nl": [
+        "acht uur",
+        "00 | 08:00 | 20:00 | 8 | 8:00 | acht | klok | tijd | uur"
+      ]
+    }
+  ],
+  "🕘": [
+    "other",
+    "clock face nine oclock",
+    {
+      "en": ["nine o’clock", "9 | 9:00 | clock | nine | o’clock | time"],
+      "ru": [
+        "девять часов",
+        "21:00 | 9:00 | время | время девять часов | девять | девять часов | ровно | час | часы"
+      ],
+      "pl": [
+        "godzina 9:00",
+        "00 | 9 | 9:00 | dwudziesta pierwsza | dziewiąta | godzina | zegar"
+      ],
+      "fr": ["neuf heures", "21 h | 9 h | neuf heures"],
+      "de": [
+        "9:00 Uhr",
+        "9 | 9:00 Uhr | Uhr | Zeit | Ziffernblatt 9:00 Uhr | Ziffernblatt 9.00 Uhr"
+      ],
+      "es": ["9 en punto", "9 en punto | 9:00 | nueve | reloj"],
+      "pt": ["9 horas", "21h | 9 horas | 9h00 | nove | relógio"],
+      "it": ["ore nove", "21:00 | 9:00 | ora | ore nove | orologio | tempo"],
+      "ro": [
+        "ora nouă fix",
+        "21:00 | 9:00 | ceas | nouă | nouă fix | oră | ora nouă | ora nouă fix"
+      ],
+      "he": ["תשע", "09:00 | 21:00 | תשע | תשע בבוקר | תשע בערב"],
+      "ar": ["الساعة التاسعة", "٩ | 9:00 | التاسعة | الساعة | توقيت | وقت"],
+      "tr": ["saat 9", "9:00 | dokuz | saat | saat 9"],
+      "vi": ["chín giờ", "00 | 9 | 9:00 | chín | đồng hồ | giờ"],
+      "nl": [
+        "negen uur",
+        "00 | 09:00 | 21:00 | 9 | 9:00 | klok | negen | tijd | uur"
+      ]
+    }
+  ],
+  "🕙": [
+    "other",
+    "clock face ten oclock",
+    {
+      "en": ["ten o’clock", "0 | 10 | 10:00 | clock | o’clock | ten"],
+      "ru": [
+        "десять часов",
+        "10:00 | 22:00 | время | время десять часов | десять | десять часов | ровно | час | часы"
+      ],
+      "pl": [
+        "godzina 10:00",
+        "00 | 10 | 10:00 | czas | dwudziesta druga | dziesiąta | godzina | zegar"
+      ],
+      "fr": [
+        "dix heures",
+        "10 h | 22 h | dix heures | heure | horloge | vingt-deux heures"
+      ],
+      "de": [
+        "10:00 Uhr",
+        "10 | 10:00 Uhr | Uhr | Zeit | Ziffernblatt 10:00 Uhr | Ziffernblatt 10.00 Uhr"
+      ],
+      "es": ["10 en punto", "10 en punto | 10:00 | diez | reloj"],
+      "pt": ["10 horas", "10 horas | 10h00 | 22h | dez | relógio"],
+      "it": ["ore dieci", "10:00 | 22:00 | ora | ore dieci | orologio | tempo"],
+      "ro": [
+        "ora zece fix",
+        "00 | 10:00 | 22:00 | ceas | fix | oră | ora zece | ora zece fix | zece"
+      ],
+      "he": ["עשר", "10:00 | 22:00 | עשר"],
+      "ar": [
+        "الساعة العاشرة",
+        "10:00 | الساعة | الساعة 10 | العاشرة | توقيت | وقت"
+      ],
+      "tr": ["saat 10", "10:00 | on | saat | saat 10"],
+      "vi": ["mười giờ", "00 | 10 | 10:00 | đồng hồ | giờ | mười"],
+      "nl": ["tien uur", "00 | 10 | 10:00 | 22:00 | klok | tien | tijd | uur"]
+    }
+  ],
+  "🕚": [
+    "other",
+    "clock face eleven oclock",
+    {
+      "en": ["eleven o’clock", "11 | 11:00 | clock | eleven | o’clock | time"],
+      "ru": [
+        "одиннадцать часов",
+        "11 | 11:00 | 23:00 | время | время одиннадцать часов | одиннадцать | одиннадцать часов | ровно | час | часы"
+      ],
+      "pl": [
+        "godzina 11:00",
+        "00 | 11 | 11:00 | czas | dwudziesta trzecia | godzina | jedenasta | zegar"
+      ],
+      "fr": [
+        "onze heures",
+        "11 h | 23 h | heure | horloge | onze heures | vingt-trois heures"
+      ],
+      "de": [
+        "11:00 Uhr",
+        "11 | 11:00 Uhr | Uhr | Zeit | Ziffernblatt 11:00 Uhr | Ziffernblatt 11.00 Uhr"
+      ],
+      "es": ["11 en punto", "11 en punto | 11:00 | once | reloj"],
+      "pt": ["11 horas", "11 horas | 11:00 | 11h00 | onze | relógio"],
+      "it": ["ore undici", "11:00 | 23:00 | ore undici | orologio | undici"],
+      "ro": [
+        "ora unsprezece fix",
+        "11:00 | 23:00 | ceas | oră | ora unsprezece | ora unsprezece fix | unsprezece | unsprezece fix"
+      ],
+      "he": [
+        "אחת-עשרה",
+        "11:00 | 23:00 | אחת עשרה בבוקר | אחת עשרה בערב | אחת-עשרה"
+      ],
+      "ar": [
+        "الساعة الحادية عشرة",
+        "11:00 | الحادية عشر | الساعة | الساعة 11 | الساعة الحادية عشرة | ساعة"
+      ],
+      "tr": ["saat 11", "11:00 | on bir | saat | saat 11"],
+      "vi": [
+        "mười một giờ",
+        "00 | 11 | 11:00 | đồng hồ | giờ | mười một | mười một giờ"
+      ],
+      "nl": ["elf uur", "00 | 11 | 11:00 | 23:00 | elf | klok | tijd | uur"]
+    }
+  ],
+  "🕛": [
+    "other",
+    "clock face twelve oclock",
+    {
+      "en": ["twelve o’clock", "12 | 12:00 | clock | o’clock | time | twelve"],
+      "ru": [
+        "двенадцать часов",
+        "00 | 00:00 | 12 | 12:00 | двенадцать | двенадцать часов | дня | ночи | полдень | полночь"
+      ],
+      "pl": [
+        "godzina 12:00",
+        "00 | 12 | 12:00 | dwunasta | godzina | północ | południe | zegar | zero"
+      ],
+      "fr": [
+        "midi/minuit",
+        "0 h | 12 h | heure | horloge | midi | midi pile | midi/minuit | minuit | minuit pile"
+      ],
+      "de": [
+        "Ziffernblatt 12:00 Uhr",
+        "0 Uhr | 12 | 12:00 Uhr | Mittag | Mitternacht | Uhr | Ziffernblatt 12:00 Uhr | Ziffernblatt 12.00 Uhr | zwölf Uhr"
+      ],
+      "es": ["12 en punto", "12 en punto | 12:00 | doce | reloj"],
+      "pt": [
+        "12 horas",
+        "12 horas | 12h00 | doze | meia-noite | meio-dia | relógio"
+      ],
+      "it": [
+        "ore dodici",
+        "12:00 | mezzanotte | mezzogiorno | ora | ore dodici | orologio | tempo"
+      ],
+      "ro": [
+        "ora douăsprezece fix",
+        "00 | 00:00 | 12 | 12:00 | amiază | ceas | doișpe | doisprezece fix | miezul nopții | oră | ora douăsprezece | ora douăsprezece fix | timp"
+      ],
+      "he": [
+        "שתיים-עשרה",
+        "12:00 | 24:00 | חצות | צהריים | שתיים-עשרה | שתים עשרה"
+      ],
+      "ar": [
+        "الساعة الثانية عشرة",
+        "12:00 | الثانية عشر | الساعة | الساعة 12 | الساعة الثانية عشرة | الظهر | توقيت | ظهر | وقت"
+      ],
+      "tr": ["saat 12", "12:00 | on iki | saat | saat 12"],
+      "vi": [
+        "mười hai giờ",
+        "00 | 12 | 12:00 | đồng hồ | giờ | mười hai | mười hai giờ"
+      ],
+      "nl": ["twaalf uur", "00 | 12 | 12:00 | klok | tijd | twaalf | uur"]
+    }
+  ],
+  "🕜": [
+    "other",
+    "clock face one-thirty",
+    {
+      "en": [
+        "one-thirty",
+        "1 | 1:30 | 30 | clock | one | one-thirty | thirty | time"
+      ],
+      "ru": [
+        "полвторого",
+        "1:30 | время | полвторого | половина | тик так | тик-так | час | час тридцать | часы"
+      ],
+      "pl": [
+        "godzina 1:30",
+        "1 | 1:30 | 30 | czas | godzina | pierwsza trzydzieści | trzynasta trzydzieści | zegar"
+      ],
+      "fr": [
+        "une heure et demie",
+        "1 h 30 | 13 h 30 | heure | horloge | treize heures trente | une heure et demie"
+      ],
+      "de": [
+        "1:30 Uhr",
+        "1 Uhr 30 | 1:30 Uhr | halb zwei | Uhr | Ziffernblatt 1:30 Uhr | Ziffernblatt 1.30 Uhr"
+      ],
+      "es": ["una y media", "1:30 | reloj | una y media"],
+      "pt": [
+        "uma e meia",
+        "1:30 | 13:30 | 13h30 | 1h30 | relógio | uma e meia"
+      ],
+      "it": [
+        "ore una e mezza",
+        "1:30 | 13:30 | ora | ore una e mezza | orologio | tempo"
+      ],
+      "ro": [
+        "ora unu și jumătate",
+        "1 | 1:30 | 13:30 | 30 | ceas | jumate | oră | ora unu și jumătate | unu treizeci"
+      ],
+      "he": ["אחת וחצי", "01:30 | 13:30 | אחת וחצי | שעון"],
+      "ar": [
+        "الواحدة والنصف",
+        "1 | 1:30 | 30 | الساعة | الواحدة والنصف | توقيت | وقت"
+      ],
+      "tr": ["bir buçuk", "1:30 | bir buçuk | saat"],
+      "vi": [
+        "một giờ ba mươi phút",
+        "1 | 1:30 | ba mươi | đồng hồ | một | một giờ ba mươi phút"
+      ],
+      "nl": [
+        "half twee",
+        "1 | 1:30 | 13:30 | 30 | dertig | een | één | half twee | klok | tijd"
+      ]
+    }
+  ],
+  "🕝": [
+    "other",
+    "clock face two-thirty",
+    {
+      "en": [
+        "two-thirty",
+        "2 | 2:30 | 30 | clock | thirty | time | two | two-thirty"
+      ],
+      "ru": [
+        "полтретьего",
+        "14:30 | 2:30 | время | два тридцать | полтретьего | час | часы"
+      ],
+      "pl": [
+        "godzina 2:30",
+        "2 | 2:30 | 30 | czas | czternasta trzydzieści | druga trzydzieści | godzina | zegar"
+      ],
+      "fr": [
+        "deux heures et demie",
+        "14 h 30 | 2 h 30 | deux heures et demie | heure | horloge | quatorze heures trente"
+      ],
+      "de": [
+        "2:30 Uhr",
+        "2:30 Uhr | halb drei | Uhr | Zeit | Ziffernblatt 2:30 Uhr | Ziffernblatt 2.30 Uhr"
+      ],
+      "es": ["dos y media", "2:30 | dos y media | reloj"],
+      "pt": ["duas e meia", "2:30 | 2h30 | duas e meia | relógio"],
+      "it": [
+        "ore due e mezza",
+        "14:30 | 2:30 | due e mezza | ore due e mezza | orologio"
+      ],
+      "ro": [
+        "ora două și jumătate",
+        "14:30 | 2 | 2:30 | 30 | ceas | două | două treizeci | jumate | oră | ora două și jumătate"
+      ],
+      "he": [
+        "שתיים וחצי",
+        "02:30 | 14:30 | שתיים וחצי | שתיים וחצי בצהריים | שתיים וחצי לפנות בוקר"
+      ],
+      "ar": ["الثانية والنصف", "2:30 | الثانية والنصف | الساعة | الساعة ٢"],
+      "tr": ["iki buçuk", "2:30 | iki buçuk | saat"],
+      "vi": [
+        "hai giờ ba mươi phút",
+        "2 | 2:30 | ba mươi | đồng hồ | hai | hai giờ ba mươi phút"
+      ],
+      "nl": [
+        "half drie",
+        "14:30 | 2 | 2:30 | 30 | dertig | half drie | klok | tijd | twee"
+      ]
+    }
+  ],
+  "🕞": [
+    "other",
+    "clock face three-thirty",
+    {
+      "en": [
+        "three-thirty",
+        "3 | 3:30 | 30 | clock | thirty | three | three-thirty | time"
+      ],
+      "ru": [
+        "полчетвертого",
+        "15:30 | 3:30 | время | половина | полчетвертого | три тридцать | тридцать | час | часы"
+      ],
+      "pl": [
+        "godzina 3:30",
+        "3 | 3:30 | 30 | czas | godzina | piętnasta trzydzieści | trzecia trzydzieści | zegar"
+      ],
+      "fr": [
+        "trois heures et demie",
+        "15 h 30 | 3 h 30 | heure | horloge | quinze heures trente | trois heures et demie"
+      ],
+      "de": [
+        "3:30 Uhr",
+        "3:30 Uhr | halb vier | Uhr | Ziffernblatt 3:30 Uhr | Ziffernblatt 3.30 Uhr"
+      ],
+      "es": ["tres y media", "3:30 | reloj | tres y media"],
+      "pt": ["três e meia", "3:30 | 3h30 | relógio | três e meia"],
+      "it": [
+        "ore tre e mezza",
+        "15:00 | 3:30 | ore tre e mezza | orologio | tre e mezza"
+      ],
+      "ro": [
+        "ora trei și jumătate",
+        "15:30 | 3:30 | 30 | ceas | jumate | oră | ora trei și jumătate | trei treizeci"
+      ],
+      "he": [
+        "שלוש וחצי",
+        "03:30 | 15:30 | שלוש וחצי | שלוש וחצי בצהריים | שלוש וחצי לפנות בוקר"
+      ],
+      "ar": ["الثالثة والنصف", "٣:٣٠ | الثالثة والنصف | الساعة 3:30"],
+      "tr": ["üç buçuk", "3:30 | saat | üç buçuk"],
+      "vi": [
+        "ba giờ ba mươi phút",
+        "3 | 3:30 | ba | ba giờ ba mươi phút | ba mươi | đồng hồ"
+      ],
+      "nl": [
+        "half vier",
+        "15:30 | 3 | 3:30 | 30 | dertig | drie | half vier | klok | tijd"
+      ]
+    }
+  ],
+  "🕟": [
+    "other",
+    "clock face four-thirty",
+    {
+      "en": [
+        "four-thirty",
+        "30 | 4 | 4:30 | clock | four | four-thirty | thirty | time"
+      ],
+      "ru": [
+        "полпятого",
+        "16:30 | 4:30 | время | половина | полпятого | тридцать | час | часы | четыре тридцать"
+      ],
+      "pl": [
+        "godzina 4:30",
+        "30 | 4 | 4:30 | czas | czwarta trzydzieści | godzina | szesnasta trzydzieści | zegar"
+      ],
+      "fr": [
+        "quatre heures et demie",
+        "16 h 30 | 4 h 30 | heure | horloge | quatre heures et demie | seize heures trente"
+      ],
+      "de": [
+        "4:30 Uhr",
+        "04:30 | 16:30 | 4:30 Uhr | halb fünf | Uhr | Zeit | Ziffernblatt 4:30 Uhr | Ziffernblatt 4.30 Uhr"
+      ],
+      "es": ["cuatro y media", "4:30 | cuatro y media | reloj"],
+      "pt": ["quatro e meia", "4h30 | quatro e meia | relógio"],
+      "it": [
+        "ore quattro e mezza",
+        "16:30 | 4:30 | ora | ore quattro e mezza | orologio | tempo"
+      ],
+      "ro": [
+        "ora patru și jumătate",
+        "16:30 | 30 | 4:30 | ceas | jumate | oră | ora patru și jumătate | patru treizeci"
+      ],
+      "he": [
+        "ארבע וחצי",
+        "04:30 | 16:30 | ארבע וחצי | ארבע וחצי אחר הצהריים | ארבע וחצי לפנות בוקר"
+      ],
+      "ar": ["الرابعة والنصف", "4:30 | الرابعة والنصف | الساعة | توقيت | وقت"],
+      "tr": ["dört buçuk", "4:30 | dört buçuk | saat"],
+      "vi": [
+        "bốn giờ ba mươi phút",
+        "4 | 4:30 | ba mươi | bốn | bốn giờ ba mươi phút | đồng hồ"
+      ],
+      "nl": [
+        "half vijf",
+        "16:30 | 30 | 4 | 4:30 | dertig | half vijf | klok | tijd | vier"
+      ]
+    }
+  ],
+  "🕠": [
+    "other",
+    "clock face five-thirty",
+    {
+      "en": [
+        "five-thirty",
+        "30 | 5 | 5:30 | clock | five | five-thirty | thirty | time"
+      ],
+      "ru": [
+        "полшестого",
+        "17:30 | 5:30 | время | половина | полшестого | пять | тридцать | час | часы"
+      ],
+      "pl": [
+        "godzina 5:30",
+        "30 | 5 | 5:30 | czas | godzina | piąta trzydzieści | siedemnasta trzydzieści | zegar"
+      ],
+      "fr": [
+        "cinq heures et demie",
+        "17 h 30 | 5 h 30 | cinq heures et demie | dix-sept heures trente | heure | horloge"
+      ],
+      "de": [
+        "5:30 Uhr",
+        "05:30 | 17:30 | 5:30 Uhr | halb sechs | Uhr | Ziffernblatt 5:30 Uhr | Ziffernblatt 5.30 Uhr"
+      ],
+      "es": ["cinco y media", "5:30 | cinco y media | reloj"],
+      "pt": ["cinco e meia", "17h30 | 5h30 | cinco e meia | relógio"],
+      "it": [
+        "ore cinque e mezza",
+        "17:30 | 5:30 | ora | ore cinque e mezza | orologio | tempo"
+      ],
+      "ro": [
+        "ora cinci și jumătate",
+        "17:30 | 30 | 5 | 5:30 | ceas | cinci | cinci treizeci | jumate | oră | ora cinci și jumătate | timp"
+      ],
+      "he": ["חמש וחצי", "05:30 | 17:30 | חמש וחצי"],
+      "ar": ["الخامسة والنصف", "5:30 | الخامسة والنصف | الساعة | وقت"],
+      "tr": ["beş buçuk", "5:30 | beş buçuk | saat"],
+      "vi": [
+        "năm giờ ba mươi phút",
+        "5 | 5:30 | ba mươi | đồng hồ | năm | năm giờ ba mươi phút"
+      ],
+      "nl": [
+        "half zes",
+        "05:30 | 17:30 | 30 | 5 | 5:30 | dertig | half zes | klok | tijd | vijf"
+      ]
+    }
+  ],
+  "🕡": [
+    "other",
+    "clock face six-thirty",
+    {
+      "en": ["six-thirty", "30 | 6 | 6:30 | clock | six | six-thirty | thirty"],
+      "ru": [
+        "полседьмого",
+        "18:30 | 6:30 | время | половина | полседьмого | тридцать | час | часы | шесть"
+      ],
+      "pl": [
+        "godzina 6:30",
+        "30 | 6 | 6:30 | czas | godzina | osiemnasta trzydzieści | szósta trzydzieści | zegar"
+      ],
+      "fr": [
+        "six heures et demie",
+        "18 h 30 | 6 h 30 | dix-huit heures trente | heure | horloge | six heures et demie"
+      ],
+      "de": [
+        "6:30 Uhr",
+        "6:30 Uhr | halb sieben | Uhr | Ziffernblatt 6.30 Uhr"
+      ],
+      "es": ["seis y media", "6:30 | reloj | seis y media"],
+      "pt": ["seis e meia", "18h30 | 6h30 | relógio | seis e meia"],
+      "it": [
+        "ore sei e mezza",
+        "18:30 | 6:30 | ora | ore sei e mezza | orologio | tempo"
+      ],
+      "ro": [
+        "ora șase și jumătate",
+        "18:30 | 30 | 6 | 6:30 | ceas | jumate | oră | ora șase și jumătate | șase | timp | treizeci"
+      ],
+      "he": ["שש וחצי", "06:30 | 18:30 | שש וחצי"],
+      "ar": ["السادسة والنصف", "6:30 | السادسة والنصف | الساعة | توقيت | وقت"],
+      "tr": ["altı buçuk", "6:30 | altı buçuk | saat"],
+      "vi": [
+        "sáu giờ ba mươi phút",
+        "6 | 6:30 | ba mươi | đồng hồ | sáu | sáu giờ ba mươi phút"
+      ],
+      "nl": [
+        "half zeven",
+        "06:30 | 18:30 | 30 | 6 | 6:30 | dertig | half zeven | klok | tijd | zes"
+      ]
+    }
+  ],
+  "🕢": [
+    "other",
+    "clock face seven-thirty",
+    {
+      "en": [
+        "seven-thirty",
+        "30 | 7 | 7:30 | clock | seven | seven-thirty | thirty"
+      ],
+      "ru": [
+        "полвосьмого",
+        "19:30 | 7:30 | время | полвосьмого | половина | семь | тридцать | час | часы"
+      ],
+      "pl": [
+        "godzina 7:30",
+        "30 | 7 | 7:30 | czas | dziewiętnasta trzydzieści | godzina | siódma trzydzieści | zegar"
+      ],
+      "fr": [
+        "sept heures et demie",
+        "19 h 30 | 7 h 30 | dix-neuf heures trente | heure | horloge | sept heures et demie"
+      ],
+      "de": [
+        "7:30 Uhr",
+        "7:30 Uhr | halb acht | Uhr | Zeit | Ziffernblatt 7:30 Uhr | Ziffernblatt 7.30 Uhr"
+      ],
+      "es": ["siete y media", "7:30 | reloj | siete y media"],
+      "pt": ["sete e meia", "7:30 | 7h30 | relógio | sete e meia"],
+      "it": [
+        "ore sette e mezza",
+        "19:30 | 7:30 | ora | ore sette e mezza | orologio | tempo"
+      ],
+      "ro": [
+        "ora șapte și jumătate",
+        "19:30 | 30 | 7 | 7:30 | ceas | jumătate | jumate | oră | ora șapte și jumătate | șapte | șapte treizeci | timp"
+      ],
+      "he": ["שבע וחצי", "07:30 | 19:30 | שבע וחצי"],
+      "ar": ["السابعة والنصف", "7:30 | السابعة والنصف | الساعة | توقيت | وقت"],
+      "tr": ["yedi buçuk", "7:30 | saat | yedi buçuk"],
+      "vi": [
+        "bảy giờ ba mươi phút",
+        "7 | 7:30 | ba mươi | bảy | bảy giờ ba mươi phút | đồng hồ"
+      ],
+      "nl": [
+        "half acht",
+        "07:30 | 19:30 | 30 | 7 | 7:30 | dertig | half acht | klok | tijd | zeven"
+      ]
+    }
+  ],
+  "🕣": [
+    "other",
+    "clock face eight-thirty",
+    {
+      "en": [
+        "eight-thirty",
+        "30 | 8 | 8:30 | clock | eight | eight-thirty | thirty | time"
+      ],
+      "ru": [
+        "полдевятого",
+        "20:30 | 8:30 | восемь тридцать | время | полдевятого | половина | тридцать | час | часы"
+      ],
+      "pl": [
+        "godzina 8:30",
+        "30 | 8 | 8:30 | czas | dwudziesta trzydzieści | godzina | ósma trzydzieści | zegar"
+      ],
+      "fr": [
+        "huit heures et demie",
+        "20 h 30 | 8 h 30 | heure | horloge | huit heures et demie | vingt heures trente"
+      ],
+      "de": [
+        "8:30 Uhr",
+        "8:30 Uhr | halb neun | Uhr | Ziffernblatt 8:30 Uhr | Ziffernblatt 8.30 Uhr"
+      ],
+      "es": ["ocho y media", "8:30 | ocho y media | reloj"],
+      "pt": ["oito e meia", "8:30 | 8h30 | oito e meia | relógio"],
+      "it": [
+        "ore otto e mezza",
+        "20:30 | 8:30 | ora | ore otto e mezza | orologio | otto e mezza | tempo"
+      ],
+      "ro": [
+        "ora opt și jumătate",
+        "20:30 | 30 | 8 | 8:30 | ceas | jumate | opt treizeci | oră | ora opt și jumătate | timp | treizeci"
+      ],
+      "he": ["שמונה וחצי", "08:30 | 20:30 | שמונה וחצי"],
+      "ar": ["الثامنة والنصف", "7:30 | ٨ | 8:30 | الثامنة والنصف | الساعة"],
+      "tr": ["sekiz buçuk", "8:30 | saat | sekiz buçuk"],
+      "vi": [
+        "tám giờ ba mươi phút",
+        "8 | 8:30 | ba mươi | đồng hồ | tám | tám giờ ba mươi phút"
+      ],
+      "nl": [
+        "half negen",
+        "08:30 | 20:30 | 30 | 8 | 8:30 | acht | dertig | half negen | klok | tijd"
+      ]
+    }
+  ],
+  "🕤": [
+    "other",
+    "clock face nine-thirty",
+    {
+      "en": [
+        "nine-thirty",
+        "30 | 9 | 9:30 | clock | nine | nine-thirty | thirty | time"
+      ],
+      "ru": [
+        "полдесятого",
+        "21:30 | 9:30 | время | девять тридцать | полдесятого | половина | тридцать | час | часы"
+      ],
+      "pl": [
+        "godzina 9:30",
+        "30 | 9 | 9:30 | czas | dwudziesta pierwsza trzydzieści | dziewiąta trzydzieści | godzina | zegar"
+      ],
+      "fr": [
+        "neuf heures et demie",
+        "21 h 30 | 9 h 30 | heure | horloge | neuf heures et demie | vingt et une heures trente"
+      ],
+      "de": [
+        "9:30 Uhr",
+        "9:30 Uhr | halb zehn | Uhr | Zeit | Ziffernblatt 9:30 Uhr | Ziffernblatt 9.30 Uhr"
+      ],
+      "es": ["nueve y media", "9:30 | nueve y media | reloj"],
+      "pt": ["nove e meia", "9:30 | 9h30 | hora | nove e meia | relógio"],
+      "it": [
+        "ore nove e mezza",
+        "21:30 | 9:30 | nove e mezza | ora | ore nove e mezza | orologio"
+      ],
+      "ro": [
+        "ora nouă și jumătate",
+        "21:30 | 30 | 9 | 9:30 | ceas | jumate | nouă | nouă treizeci | oră | ora nouă și jumătate | timp"
+      ],
+      "he": ["תשע וחצי", "09:30 | 21:30 | תשע וחצי"],
+      "ar": [
+        "التاسعة والنصف",
+        "9:30 | التاسعة والنصف | الساعة | تسعة ونص | تسعه ونص"
+      ],
+      "tr": ["dokuz buçuk", "9:30 | dokuz buçuk | saat"],
+      "vi": [
+        "chín giờ ba mươi phút",
+        "9 | 9:30 | ba mươi | chín | chín giờ ba mươi | chín giờ ba mươi phút | đồng hồ"
+      ],
+      "nl": [
+        "half tien",
+        "09:30 | 21:30 | 30 | 9 | 9:30 | dertig | half tien | klok | negen | tijd"
+      ]
+    }
+  ],
+  "🕥": [
+    "other",
+    "clock face ten-thirty",
+    {
+      "en": [
+        "ten-thirty",
+        "10 | 10:30 | 30 | clock | ten | ten-thirty | thirty | time"
+      ],
+      "ru": [
+        "пол-одиннадцатого",
+        "10:30 | 22:30 | время | десять | пол-одиннадцатого | половина | тридцать | час | часы"
+      ],
+      "pl": [
+        "godzina 10:30",
+        "10 | 10:30 | 30 | czas | dwudziesta druga trzydzieści | dziesiąta trzydzieści | godzina | zegar"
+      ],
+      "fr": [
+        "dix heures et demie",
+        "10 h 30 | 22 h 30 | dix heures et demie | heure | horloge | vingt-deux heures trente"
+      ],
+      "de": [
+        "10:30 Uhr",
+        "10:30 Uhr | halb elf | Uhr | Ziffernblatt 10:30 Uhr | Ziffernblatt 10.30 Uhr"
+      ],
+      "es": ["diez y media", "10:30 | diez y media | reloj"],
+      "pt": ["dez e meia", "10h30 | 22h30 | dez e meia | relógio"],
+      "it": [
+        "ore dieci e mezza",
+        "10:30 | 22:30 | ora | ore dieci e mezza | orologio | tempo"
+      ],
+      "ro": [
+        "ora zece și jumătate",
+        "10 | 10:30 | 22:30 | 30 | ceas | jumate | oră | ora zece și jumătate | timp | treizeci | zece"
+      ],
+      "he": ["עשר וחצי", "10:30 | 22:30 | עשר וחצי"],
+      "ar": ["العاشرة والنصف", "10:30 | الساعة | العاشرة والنصف | توقيت | وقت"],
+      "tr": ["on buçuk", "10:30 | on buçuk | saat"],
+      "vi": [
+        "mười giờ ba mươi phút",
+        "10 | 10:30 | ba mươi | đồng hồ | mười | mười giờ ba mươi phút"
+      ],
+      "nl": [
+        "half elf",
+        "10 | 10:30 | 22:30 | 30 | dertig | half elf | klok | tien | tijd"
+      ]
+    }
+  ],
+  "🕦": [
+    "other",
+    "clock face eleven-thirty",
+    {
+      "en": [
+        "eleven-thirty",
+        "11 | 11:30 | 30 | clock | eleven | eleven-thirty | thirty | time"
+      ],
+      "ru": [
+        "полдвенадцатого",
+        "11:30 | 23:30 | время | одиннадцать | полдвенадцатого | половина | тридцать | час | часы"
+      ],
+      "pl": [
+        "godzina 11:30",
+        "11 | 11:30 | 30 | czas | dwudziesta trzecia trzydzieści | godzina | jedenasta trzydzieści | zegar"
+      ],
+      "fr": [
+        "onze heures et demie",
+        "11 h 30 | 23 h 30 | heure | horloge | onze heures et demie | vingt-trois heures trente"
+      ],
+      "de": [
+        "11:30 Uhr",
+        "11:30 Uhr | halb zwölf | Uhr | Zeit | Ziffernblatt 11:30 Uhr | Ziffernblatt 11.30 Uhr"
+      ],
+      "es": ["once y media", "11:30 | once y media | reloj"],
+      "pt": ["onze e meia", "11h30 | 23h30 | onze e meia | relógio"],
+      "it": [
+        "ore undici e mezza",
+        "11:30 | 23:30 | ora | ore undici e mezza | orologio | tempo"
+      ],
+      "ro": [
+        "ora unsprezece și jumătate",
+        "11 | 11:30 | 23:30 | 30 | ceas | oră | ora unsprezece și jumătate | unșpe | unșpe jumate | unsprezece treizeci"
+      ],
+      "he": [
+        "אחת-עשרה וחצי",
+        "11:30 | 23:30 | אחת עשרה בבוקר | אחת עשרה בלילה | אחת-עשרה וחצי"
+      ],
+      "ar": [
+        "الحادية عشر ونصف",
+        "11:30 | الحادية عشر ونصف | الساعة | توقيت | وقت"
+      ],
+      "tr": ["on bir buçuk", "11:30 | on bir buçuk | saat"],
+      "vi": [
+        "mười một giờ ba mươi phút",
+        "11 | 11:30 | ba mươi | đồng hồ | mười một | mười một giờ ba mươi phút"
+      ],
+      "nl": [
+        "half twaalf",
+        "11 | 11:30 | 23:30 | 30 | dertig | elf | half twaalf | klok | tijd"
+      ]
+    }
+  ],
+  "🕧": [
+    "other",
+    "clock face twelve-thirty",
+    {
+      "en": [
+        "twelve-thirty",
+        "12 | 12:30 | 30 | clock | thirty | time | twelve | twelve-thirty"
+      ],
+      "ru": [
+        "полпервого",
+        "00:30 | 12 | 12:30 | 30 | двенадцать | первого | половина | полпервого | тридцать"
+      ],
+      "pl": [
+        "godzina 12:30",
+        "12 | 12:30 | 30 | czas | dwunasta trzydzieści | godzina | zegar | zero trzydzieści"
+      ],
+      "fr": [
+        "midi/minuit et demie",
+        "00 h 30 | 12 h 30 | heure | horloge | midi et demi | midi/minuit et demie | minuit et demi"
+      ],
+      "de": [
+        "12:30 Uhr",
+        "00:30 | 12:30 | halb eins | Uhr | Zeit | Ziffernblatt 12:30 Uhr | Ziffernblatt 12.30 Uhr"
+      ],
+      "es": ["doce y media", "12:30 | doce y media | reloj"],
+      "pt": ["doze e meia", "12h30 | doze e meia | relógio"],
+      "it": [
+        "ore dodici e mezza",
+        "12:30 | mezzanotte e mezza | mezzogiorno e mezza | ora | ore dodici e mezza | tempo"
+      ],
+      "ro": [
+        "ora douăsprezece și jumătate",
+        "12:30 | 30 | ceas | doisprezece treizeci | douăsprezece treizeci | jumate | oră | ora douăsprezece și jumătate"
+      ],
+      "he": [
+        "שתיים-עשרה וחצי",
+        "00:30 | 12:30 | שתיים-עשרה וחצי | שתים עשרה וחצי בלילה | שתים עשרה וחצי בצהריים"
+      ],
+      "ar": [
+        "الثانية عشرة والنصف",
+        "12:30 | الثانية عشر والنصف | الثانية عشرة والنصف | الساعة | توقيت | وقت"
+      ],
+      "tr": [
+        "on iki buçuk",
+        "12:30 | on iki buçuk | on iki otuz | saat | yarım"
+      ],
+      "vi": [
+        "mười hai giờ ba mươi phút",
+        "12 | 12:30 | ba mươi | đồng hồ | mười hai | mười hai giờ ba mươi | mười hai giờ ba mươi phút"
+      ],
+      "nl": [
+        "half één",
+        "00:30 | 12 | 12:30 | 30 | dertig | half één | klok | tijd | twaalf | uur"
+      ]
+    }
+  ],
+  "🕨": ["other", "right speaker", {}],
+  "🕩": ["other", "right speaker with one sound wave", {}],
+  "🕪": ["other", "right speaker with three sound waves", {}],
+  "🕫": ["other", "bullhorn", {}],
+  "🕬": ["other", "bullhorn with sound waves", {}],
+  "🕭": ["other", "ringing bell", {}],
+  "🕮": ["other", "book", {}],
+  "🕯": [
+    "other",
+    "candle",
+    {
+      "en": ["candle", "candle | light"],
+      "ru": ["свеча", "воск | огонь | пламя | свет | свеча | свечка | тепло"],
+      "pl": ["świeca", "płomień | światło | świeca | świeczka"],
+      "fr": ["bougie", "bougie | chandelle | lumière"],
+      "de": ["Kerze", "Kerze | Licht"],
+      "es": ["vela", "luz | vela"],
+      "pt": ["vela", "acesa | luz | vela"],
+      "it": [
+        "candela",
+        "a lume di candela | calore | candela | candela accesa | cera | cero | illuminare | luce"
+      ],
+      "ro": ["lumânare", "flacără | lumânare | lumină"],
+      "he": ["נר", "אור | להבה | נר"],
+      "ar": ["شمعة", "اضاءة | سلام | شمعة | ضوء"],
+      "tr": ["mum", "ışık | mum"],
+      "vi": ["nến", "ánh sáng | nến"],
+      "nl": ["kaars", "kaars | kaarslicht | licht"]
+    }
+  ],
+  "🕰": [
+    "other",
+    "mantelpiece clock",
+    {
+      "en": ["mantelpiece clock", "clock | mantelpiece | time"],
+      "ru": [
+        "каминные часы",
+        "винтажные | время | камин | каминные часы | старинные | украшение | часы"
+      ],
+      "pl": ["zegar kominkowy", "czas | czasomierz | kominkowy | zegar"],
+      "fr": ["pendule", "horloge | horloge posée | pendule"],
+      "de": ["Kaminuhr", "Kaminuhr | tick tack | Uhr"],
+      "es": ["reloj de sobremesa", "reloj | reloj de sobremesa | sobremesa"],
+      "pt": ["relógio de mesa", "relógio | relógio antigo | relógio de mesa"],
+      "it": [
+        "orologio da mensola",
+        "ora | orologio | orologio da mensola | sveglia | tempo"
+      ],
+      "ro": [
+        "ceas pentru etajeră",
+        "ceas | ceas de șemineu | ceas pentru etajeră | oră | timp"
+      ],
+      "he": ["שעון דקורטיבי", "דקורטיבי | שעון"],
+      "ar": ["ساعة موقد", "توقيت | ساعة | ساعة موقد | وقت"],
+      "tr": ["raf saati", "raf saati | saat"],
+      "vi": ["đồng hồ để bàn", "đồng hồ | đồng hồ để bàn | thời gian"],
+      "nl": ["klok", "klok | pendule | staande klok | tijd"]
+    }
+  ],
+  "🕱": ["other", "black skull and crossbones", {}],
+  "🕲": ["other", "no piracy", {}],
+  "🕳": [
+    "other",
+    "hole",
+    {
+      "en": ["hole", "hole"],
+      "ru": ["дыра", "дыра | люк | отверстие | пропасть | черная"],
+      "pl": ["otwór", "dziura | otwór"],
+      "fr": ["trou", "trou"],
+      "de": ["Loch", "Loch | schwarz"],
+      "es": ["agujero", "agujero | orificio"],
+      "pt": ["buraco", "buraco | buraco no chão"],
+      "it": ["buco", "buco | fumetto | nero | tombino"],
+      "ro": ["gaură", "gaură | groapă | hău"],
+      "he": ["חור", "בור | חור"],
+      "ar": ["ثقب", "بخش | ثقب | حفرة"],
+      "tr": ["delik", "çukur | delik"],
+      "vi": ["lỗ", "lỗ"],
+      "nl": ["gat", "gat | hole"]
+    }
+  ],
+  "🕴": [
+    "other",
+    "man in business suit levitating",
+    {
+      "en": [
+        "person in suit levitating",
+        "business | levitating | person | suit"
+      ],
+      "ru": [
+        "бизнесмен в воздухе",
+        "бизнес | бизнесмен в воздухе | костюм | полет | человек"
+      ],
+      "pl": [
+        "lewitujący mężczyzna w garniturze",
+        "biznesmen | garnitur | lewitacja | lewitować | lewitujący mężczyzna w garniturze | mężczyzna"
+      ],
+      "fr": [
+        "homme d’affaires en lévitation",
+        "affaires | costume | homme | homme d’affaires en lévitation"
+      ],
+      "de": [
+        "schwebender Mann im Anzug",
+        "Anzug | geschäftlich | Mann | schwebender Mann im Anzug | Schwebender Mann im Anzug"
+      ],
+      "es": [
+        "persona trajeada levitando",
+        "levitar | negocios | persona | persona trajeada levitando | traje"
+      ],
+      "pt": [
+        "homem de terno levitando",
+        "homem | homem de terno | homem de terno levitando | terno"
+      ],
+      "it": [
+        "uomo con completo che levita",
+        "abbigliamento | abito | business man | cravatta | giacca | lavoro | persona | uomo | uomo con completo che levita | uomo elegante che levita | vestito elegante"
+      ],
+      "ro": [
+        "persoană în costum, levitând",
+        "afaceri | costum | om de afaceri | persoană | persoană în costum, care levitează | persoană în costum, care plutește | persoană la costum | persoană la costum, levitând"
+      ],
+      "he": [
+        "אדם בחליפת עסקים מרחף",
+        "אדם | איש עסקים | חליפה | מרחף בחליפת עסקים"
+      ],
+      "ar": ["رجل أعمال يرتقي", "أعمال | بدلة | رجل | رجل أعمال يرتقي"],
+      "tr": [
+        "havalanan takım elbiseli adam",
+        "erkek | havalanan takım elbiseli adam | iş | işadamı | takım elbise | yukarıda süzülen takım elbiseli iş adamı"
+      ],
+      "vi": [
+        "người đàn ông mặc vest đang bay lên",
+        "bộ đồ | đàn ông | kinh doanh | người đàn ông mặc vest đang bay lên"
+      ],
+      "nl": ["zwevende man in pak", "pak | persoon | zaken | zwevend"]
+    }
+  ],
+  "🕴🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in suit levitating: light skin tone",
+        "business | levitating | light skin tone | person | suit"
+      ],
+      "ru": [
+        "бизнесмен в воздухе: очень светлый тон кожи",
+        "бизнес | бизнесмен в воздухе | костюм | очень светлый тон кожи | полет | человек"
+      ],
+      "pl": [
+        "lewitujący mężczyzna w garniturze: karnacja jasna",
+        "biznesmen | garnitur | karnacja jasna | lewitacja | lewitować | lewitujący mężczyzna w garniturze | mężczyzna"
+      ],
+      "fr": [
+        "homme d’affaires en lévitation : peau claire",
+        "affaires | costume | homme | homme d’affaires en lévitation | peau claire"
+      ],
+      "de": [
+        "schwebender Mann im Anzug: helle Hautfarbe",
+        "Anzug | geschäftlich | helle Hautfarbe | Mann | schwebender Mann im Anzug | Schwebender Mann im Anzug"
+      ],
+      "es": [
+        "persona trajeada levitando: tono de piel claro",
+        "levitar | negocios | persona | persona trajeada levitando | tono de piel claro | traje"
+      ],
+      "pt": [
+        "homem de terno levitando: pele clara",
+        "homem | homem de terno | homem de terno levitando | pele clara | terno"
+      ],
+      "it": [
+        "uomo con completo che levita: carnagione chiara",
+        "abbigliamento | abito | business man | carnagione chiara | cravatta | giacca | lavoro | persona | uomo | uomo con completo che levita | uomo elegante che levita | vestito elegante"
+      ],
+      "ro": [
+        "persoană în costum, levitând: ton deschis al pielii",
+        "afaceri | costum | om de afaceri | persoană | persoană în costum, care levitează | persoană în costum, care plutește | persoană la costum | persoană la costum, levitând | ton deschis al pielii"
+      ],
+      "he": [
+        "אדם בחליפת עסקים מרחף: גוון עור בהיר",
+        "אדם | איש עסקים | גוון עור בהיר | חליפה | מרחף בחליפת עסקים"
+      ],
+      "ar": [
+        "رجل أعمال يرتقي: بشرة بلون فاتح",
+        "أعمال | بدلة | بشرة بلون فاتح | رجل | رجل أعمال يرتقي"
+      ],
+      "tr": [
+        "havalanan takım elbiseli adam: açık cilt tonu",
+        "açık cilt tonu | erkek | havalanan takım elbiseli adam | iş | işadamı | takım elbise | yukarıda süzülen takım elbiseli iş adamı"
+      ],
+      "vi": [
+        "người đàn ông mặc vest đang bay lên: màu da sáng",
+        "bộ đồ | đàn ông | kinh doanh | màu da sáng | người đàn ông mặc vest đang bay lên"
+      ],
+      "nl": [
+        "zwevende man in pak: lichte huidskleur",
+        "lichte huidskleur | pak | persoon | zaken | zwevend"
+      ]
+    }
+  ],
+  "🕴🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in suit levitating: medium-light skin tone",
+        "business | levitating | medium-light skin tone | person | suit"
+      ],
+      "ru": [
+        "бизнесмен в воздухе: светлый тон кожи",
+        "бизнес | бизнесмен в воздухе | костюм | полет | светлый тон кожи | человек"
+      ],
+      "pl": [
+        "lewitujący mężczyzna w garniturze: karnacja średnio jasna",
+        "biznesmen | garnitur | karnacja średnio jasna | lewitacja | lewitować | lewitujący mężczyzna w garniturze | mężczyzna"
+      ],
+      "fr": [
+        "homme d’affaires en lévitation : peau moyennement claire",
+        "affaires | costume | homme | homme d’affaires en lévitation | peau moyennement claire"
+      ],
+      "de": [
+        "schwebender Mann im Anzug: mittelhelle Hautfarbe",
+        "Anzug | geschäftlich | Mann | mittelhelle Hautfarbe | schwebender Mann im Anzug | Schwebender Mann im Anzug"
+      ],
+      "es": [
+        "persona trajeada levitando: tono de piel claro medio",
+        "levitar | negocios | persona | persona trajeada levitando | tono de piel claro medio | traje"
+      ],
+      "pt": [
+        "homem de terno levitando: pele morena clara",
+        "homem | homem de terno | homem de terno levitando | pele morena clara | terno"
+      ],
+      "it": [
+        "uomo con completo che levita: carnagione abbastanza chiara",
+        "abbigliamento | abito | business man | carnagione abbastanza chiara | cravatta | giacca | lavoro | persona | uomo | uomo con completo che levita | uomo elegante che levita | vestito elegante"
+      ],
+      "ro": [
+        "persoană în costum, levitând: ton semi‑deschis al pielii",
+        "afaceri | costum | om de afaceri | persoană | persoană în costum, care levitează | persoană în costum, care plutește | persoană la costum | persoană la costum, levitând | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אדם בחליפת עסקים מרחף: גוון עור בהיר בינוני",
+        "אדם | איש עסקים | גוון עור בהיר בינוני | חליפה | מרחף בחליפת עסקים"
+      ],
+      "ar": [
+        "رجل أعمال يرتقي: بشرة بلون فاتح ومعتدل",
+        "أعمال | بدلة | بشرة بلون فاتح ومعتدل | رجل | رجل أعمال يرتقي"
+      ],
+      "tr": [
+        "havalanan takım elbiseli adam: orta açık cilt tonu",
+        "erkek | havalanan takım elbiseli adam | iş | işadamı | orta açık cilt tonu | takım elbise | yukarıda süzülen takım elbiseli iş adamı"
+      ],
+      "vi": [
+        "người đàn ông mặc vest đang bay lên: màu da sáng trung bình",
+        "bộ đồ | đàn ông | kinh doanh | màu da sáng trung bình | người đàn ông mặc vest đang bay lên"
+      ],
+      "nl": [
+        "zwevende man in pak: lichtgetinte huidskleur",
+        "lichtgetinte huidskleur | pak | persoon | zaken | zwevend"
+      ]
+    }
+  ],
+  "🕴🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "person in suit levitating: medium skin tone",
+        "business | levitating | medium skin tone | person | suit"
+      ],
+      "ru": [
+        "бизнесмен в воздухе: средний тон кожи",
+        "бизнес | бизнесмен в воздухе | костюм | полет | средний тон кожи | человек"
+      ],
+      "pl": [
+        "lewitujący mężczyzna w garniturze: karnacja średnia",
+        "biznesmen | garnitur | karnacja średnia | lewitacja | lewitować | lewitujący mężczyzna w garniturze | mężczyzna"
+      ],
+      "fr": [
+        "homme d’affaires en lévitation : peau légèrement mate",
+        "affaires | costume | homme | homme d’affaires en lévitation | peau légèrement mate"
+      ],
+      "de": [
+        "schwebender Mann im Anzug: mittlere Hautfarbe",
+        "Anzug | geschäftlich | Mann | mittlere Hautfarbe | schwebender Mann im Anzug | Schwebender Mann im Anzug"
+      ],
+      "es": [
+        "persona trajeada levitando: tono de piel medio",
+        "levitar | negocios | persona | persona trajeada levitando | tono de piel medio | traje"
+      ],
+      "pt": [
+        "homem de terno levitando: pele morena",
+        "homem | homem de terno | homem de terno levitando | pele morena | terno"
+      ],
+      "it": [
+        "uomo con completo che levita: carnagione olivastra",
+        "abbigliamento | abito | business man | carnagione olivastra | cravatta | giacca | lavoro | persona | uomo | uomo con completo che levita | uomo elegante che levita | vestito elegante"
+      ],
+      "ro": [
+        "persoană în costum, levitând: ton mediu al pielii",
+        "afaceri | costum | om de afaceri | persoană | persoană în costum, care levitează | persoană în costum, care plutește | persoană la costum | persoană la costum, levitând | ton mediu al pielii"
+      ],
+      "he": [
+        "אדם בחליפת עסקים מרחף: גוון עור בינוני",
+        "אדם | איש עסקים | גוון עור בינוני | חליפה | מרחף בחליפת עסקים"
+      ],
+      "ar": [
+        "رجل أعمال يرتقي: بشرة بلون معتدل",
+        "أعمال | بدلة | بشرة بلون معتدل | رجل | رجل أعمال يرتقي"
+      ],
+      "tr": [
+        "havalanan takım elbiseli adam: orta cilt tonu",
+        "erkek | havalanan takım elbiseli adam | iş | işadamı | orta cilt tonu | takım elbise | yukarıda süzülen takım elbiseli iş adamı"
+      ],
+      "vi": [
+        "người đàn ông mặc vest đang bay lên: màu da trung bình",
+        "bộ đồ | đàn ông | kinh doanh | màu da trung bình | người đàn ông mặc vest đang bay lên"
+      ],
+      "nl": [
+        "zwevende man in pak: getinte huidskleur",
+        "getinte huidskleur | pak | persoon | zaken | zwevend"
+      ]
+    }
+  ]
+}

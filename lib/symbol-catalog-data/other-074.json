@@ -1,0 +1,3179 @@
+{
+  "🪕": [
+    "other",
+    "banjo",
+    {
+      "en": ["banjo", "banjo | music | stringed"],
+      "ru": [
+        "банджо",
+        "банджо | гитара | играть | инструмент | музыка | струнный"
+      ],
+      "pl": ["banjo", "banjo | instrument | muzyka | strunowy"],
+      "fr": [
+        "banjo",
+        "banjo | cordes | instrument | instrument à cordes | musique"
+      ],
+      "de": [
+        "Banjo",
+        "Banjo | Instrument | Musik | Saiteninstrument | Zupfinstrument"
+      ],
+      "es": ["banjo", "banjo | banyo | cuerda | instrumento | música"],
+      "pt": ["banjo", "banjo | cordas | instrumento | música"],
+      "it": ["banjo", "banjo | musica | strumento a corde"],
+      "ro": ["banjo", "banjo | coarde | corzi | instrument | muzică | strune"],
+      "he": [
+        "בנג׳ו",
+        "בנג׳ו | כלי מיתר | כלי מיתרים | כלי נגינה | מוזיקה | מוסיקה"
+      ],
+      "ar": [
+        "آلة بانجو",
+        "آلة بانجو | أداة | البانجو | بانجو | مزيكا | موسيقى | وتريات"
+      ],
+      "tr": ["banjo", "banjo | müzik | yaylı"],
+      "vi": ["đàn banjo", "âm nhạc | có dây | đàn | đàn banjo"],
+      "nl": [
+        "banjo",
+        "banjo | besnaard | instrument | muziek | snaarinstrument | spelen"
+      ]
+    }
+  ],
+  "🪖": [
+    "other",
+    "military helmet",
+    {
+      "en": [
+        "military helmet",
+        "army | helmet | military | soldier | war | warrior"
+      ],
+      "ru": ["армейская каска", "армия | воин | каска | солдат"],
+      "pl": [
+        "hełm wojskowy",
+        "armia | hełm | kask | militaria | ochrona głowy | wojownik | wojsko | wojskowy | żołnierz"
+      ],
+      "fr": [
+        "casque militaire",
+        "armée | casque | équipement | guerre | guerrier | militaire | protection | soldat"
+      ],
+      "de": [
+        "Militärhelm",
+        "Armee | Heer | Helm | Kämpfer | Kämpferin | Krieg | Militär | Militärhelm | Schutzhelm | Soldat | Soldatin"
+      ],
+      "es": [
+        "casco militar",
+        "casco | casco militar | ejército | guerra | guerrero | soldado"
+      ],
+      "pt": [
+        "capacete militar",
+        "capacete | exército | guerra | guerreiro | militar | soldado"
+      ],
+      "it": [
+        "elmetto militare",
+        "caschetto | elmetto | esercito | guerra | militare | oggetto | soldato"
+      ],
+      "ro": [
+        "cască militară",
+        "armată | cască | cască militară | luptător | militar | război | soldat"
+      ],
+      "he": [
+        "קסדה צבאית",
+        "חייל | חיילים | צבא | צה״ל | קסדה | קסדה צבאית | קפלס״ט | קפלסט"
+      ],
+      "ar": [
+        "خوذة عسكرية",
+        "أشياء | جندي | جيش | خوذة | زي | عسكري | عسكرية | محارب | مقاتل | مهنة | واجب عسكري"
+      ],
+      "tr": [
+        "asker kaskı",
+        "asker | asker kaskı | askerlik | eşya | kafa | kask | miğfer | ordu | savaş | savaşçı"
+      ],
+      "vi": [
+        "mũ sắt quân đội",
+        "chiến binh | mũ bảo hiểm | mũ sắt quân đội | người lính | quân đội | quân sự"
+      ],
+      "nl": [
+        "legerhelm",
+        "helm | krijger | leger | legerhelm | militair | oorlog | soldaat | vechter | voorwerp"
+      ]
+    }
+  ],
+  "🪗": [
+    "other",
+    "accordion",
+    {
+      "en": [
+        "accordion",
+        "accordion | box | concertina | instrument | music | squeeze | squeezebox"
+      ],
+      "ru": ["аккордеон", "аккордеон | баян | гармонь | гармошка | концертина"],
+      "pl": [
+        "akordeon",
+        "akordeon | bajan | harmonia | instrument | klawisze | koncertyna | muzyka"
+      ],
+      "fr": [
+        "accordéon",
+        "accordéon | bandonéon | concert | concertina | instrument | mélodie | musique | piano à bretelles"
+      ],
+      "de": [
+        "Akkordeon",
+        "Akkordeon | Akkordeons | Concertina | Harmonika | Instrument | Musik | Musikinstrument | Quetschkommode | Quetschkommoden | Schifferklavier | spielen | Ziehharmonika | Ziehharmonikas"
+      ],
+      "es": ["acordeón", "acordeón | concertina"],
+      "pt": [
+        "acordeão",
+        "acordeão | concertina | instrumento | música | sanfona"
+      ],
+      "it": [
+        "fisarmonica",
+        "concertina | fisarmonica | musica | organetto | strumento musicale"
+      ],
+      "ro": [
+        "acordeon",
+        "acordeon | armonică | burduf | concertină | instrument | muzică"
+      ],
+      "he": ["אקורדיון", "אקורדיאון | אקורדיון | מוסיקה | קונצרטינה"],
+      "ar": [
+        "أكورديون",
+        "آلة موسيقية | أشياء | أصابع بيانو | أكورديون | احتفال | عزف | غناء | فن | موسيقى"
+      ],
+      "tr": [
+        "akordiyon",
+        "akordeon | akordiyon | armonika | çalmak | enstrüman | eşya | körük | müzik | müzik aleti | tuş"
+      ],
+      "vi": [
+        "phong cầm",
+        "accordion | âm nhạc | buổi hòa nhạc | hộp bóp | nhạc cụ | phong cầm"
+      ],
+      "nl": [
+        "accordeon",
+        "accordeon | bandoneon | concertina | instrument | muziek | trek | trekzak"
+      ]
+    }
+  ],
+  "🪘": [
+    "other",
+    "long drum",
+    {
+      "en": ["long drum", "beat | conga | drum | instrument | long | rhythm"],
+      "ru": [
+        "конга",
+        "барабан | бит | конга | музыкальный инструмент | ритм | тамтам"
+      ],
+      "pl": [
+        "konga",
+        "bęben | bębenek | bębnić | instrument | konga | muzyka | rytm | tamburyn"
+      ],
+      "fr": [
+        "djembé",
+        "battement | conga | djembé | instrument | musique | percussions | rythme | tambour"
+      ],
+      "de": [
+        "afrikanische Trommel",
+        "afrikanische Trommel | Conga | Handtrommel | Instrument | Musikinstrument | Rhythmus | Trommel | trommeln"
+      ],
+      "es": ["tamboril", "conga | ritmo | tambor | tamboril"],
+      "pt": [
+        "tambor comprido",
+        "atabaque | batida | comprido | conga | instrumento | percussão | ritmo | tambor"
+      ],
+      "it": [
+        "tamburo lungo",
+        "bongo | conga | musica | percussioni | ritmo | strumento musicale | tamburo | tamburo lungo"
+      ],
+      "ro": [
+        "tobă înaltă",
+        "bătaie | conga | instrument | muzică | ritm | tobă | tobă înaltă"
+      ],
+      "he": [
+        "תוף גבוה",
+        "לתופף | מתופף | קונגה | קצב | תוף | תוף גבוה | תופים | תיפוף"
+      ],
+      "ar": [
+        "طبل طويل",
+        "أداة | أشياء | احتفال | دف | دق | رقص | طبل | طبل طويل | فرح | كونغا | لحن | موسيقى"
+      ],
+      "tr": [
+        "uzun davul",
+        "conga | davul | davul çalmak | enstrüman | eşya | müzik aleti | perküsyon | ritim | ritm | tempo | tumba | uzun davul | vurmak | vuruş"
+      ],
+      "vi": ["trống dài", "conga | đập | nhạc cụ | nhịp | trống | trống dài"],
+      "nl": ["hoge trom", "beat | conga | hoog | instrument | ritme | trom"]
+    }
+  ],
+  "🪙": [
+    "other",
+    "coin",
+    {
+      "en": [
+        "coin",
+        "coin | dollar | euro | gold | metal | money | rich | silver | treasure"
+      ],
+      "ru": [
+        "монета",
+        "деньги | доллар | евро | золото | казна | металл | монета | рубль | серебро"
+      ],
+      "pl": [
+        "moneta",
+        "bogactwo | dolar | euro | metalowa | moneta | pieniądze | skarb | srebrna | złota"
+      ],
+      "fr": [
+        "pièce",
+        "argent | euro | fortune | métal | or | pièce | pièce de monnaie | riche | sou | trésor"
+      ],
+      "de": [
+        "Münze",
+        "bezahlen | Dollar | Euro | Geld | Gold | Goldesel | Metall | Münze | reich | Schatz | Silber | sparen"
+      ],
+      "es": ["moneda", "dinero | metal | moneda | oro | plata | tesoro"],
+      "pt": [
+        "moeda",
+        "dinheiro | dólar | euro | metal | moeda | ouro | prata | real | rica | rico | tesouro"
+      ],
+      "it": [
+        "moneta",
+        "argento | denaro | dollaro | euro | metallo | moneta | oro | ricco | soldi | tesoro"
+      ],
+      "ro": [
+        "monedă",
+        "argint | aur | bani | bogăție | comoară | dolar | euro | metal | monedă"
+      ],
+      "he": ["מטבע", "אוצר | זהב | כסף | מטבע | מטבעות"],
+      "ar": [
+        "عملة معدنية",
+        "أشياء | ثري | ذهب | عملة معدنية | فضة | كنز | مال | معدن"
+      ],
+      "tr": [
+        "bozuk para",
+        "altın | avro | bozuk para | dolar | gümüş | hazine | jeton | madeni para | metal | para | sikke | zengin"
+      ],
+      "vi": [
+        "đồng tiền",
+        "bạc | đô la | đồng tiền | euro | giàu | kho báu | kim loại | tiền | vàng"
+      ],
+      "nl": [
+        "munt",
+        "dollar | euro | geld | goud | metaal | munt | rijk | schat | zilver"
+      ]
+    }
+  ],
+  "🪚": [
+    "other",
+    "carpentry saw",
+    {
+      "en": [
+        "carpentry saw",
+        "carpenter | carpentry | cut | lumber | saw | tool | trim"
+      ],
+      "ru": [
+        "пила по дереву",
+        "древесина | инструмент | пила | пила по дереву | пилить | плотник | резать | столяр"
+      ],
+      "pl": [
+        "piła do drewna",
+        "majsterkowanie | narzędzie | piła | piła do drewna | przecinarka | przycinać | stolarz | tarcica | zębate ostrze"
+      ],
+      "fr": ["scie", "bois | outil | scie | scie à bois | scie égoïne | scier"],
+      "de": [
+        "Handsäge",
+        "Handsäge | Holz | Säge | sägen | Tischler | trimmen | Werkzeug"
+      ],
+      "es": [
+        "sierra de carpintería",
+        "carpintería | carpintero | herramienta | sierra | sierra de carpintería | talar"
+      ],
+      "pt": [
+        "serrote",
+        "carpinteiro | cortar | ferramenta | madeira | serra | serrar | serrote"
+      ],
+      "it": [
+        "sega da falegname",
+        "falegname | legname | legno | oggetto | sega | sega da falegname | segare | tagliare | utensile"
+      ],
+      "ro": [
+        "fierăstrău pentru tămplărie",
+        "cherestea | dulgher | ferăstrău | fierăstrău | fierăstrău pentru tămplărie | instrument | lemne | obiect | sculă | tăiat | tăiere | tâmplar | unealtă"
+      ],
+      "he": [
+        "מסור",
+        "כלי עבודה | מנסר | מסור | מסור ידני | נגר | נגרייה | ניסור"
+      ],
+      "ar": [
+        "منشار يدوي",
+        "أداة | أشياء | خشب | قطع | منشار | منشار يدوي | نجار"
+      ],
+      "tr": [
+        "testere",
+        "alet | eşya | kereste | kesmek | marangoz | odun | testere"
+      ],
+      "vi": ["cưa mộc", "cắt | cưa | cưa mộc | dụng cụ | gỗ xẻ | thợ mộc"],
+      "nl": [
+        "houtzaag",
+        "afzagen | gereedschap | hout | houtzaag | timmeren | timmerman | voorwerp | zaag | zagen"
+      ]
+    }
+  ],
+  "🪛": [
+    "other",
+    "screwdriver",
+    {
+      "en": ["screwdriver", "flathead | handy | screw | screwdriver | tool"],
+      "ru": ["отвертка", "винт | инструмент | мастер | отвертка | умелец"],
+      "pl": ["śrubokręt", "narzędzie | śruba | śrubokręt | wkręt | wkrętak"],
+      "fr": ["tournevis", "outil | outillage | tournevis | vis"],
+      "de": [
+        "Schraubenzieher",
+        "Schraube | schrauben | Schraubendreher | Schraubenzieher | Werkzeug"
+      ],
+      "es": [
+        "destornillador",
+        "atornillador | destornillador | herramienta | tornillo"
+      ],
+      "pt": ["chave de fenda", "chave de fenda | ferramenta"],
+      "it": [
+        "cacciavite",
+        "avvitare | cacciavite | oggetto | svitare | utensile | vite"
+      ],
+      "ro": [
+        "șurubelniță",
+        "instrument | meșter | priceput | repara | sculă | șurub | șurubelniță | unealtă"
+      ],
+      "he": ["מברג", "הברגה | כלי עבודה | מברג"],
+      "ar": ["مفك براغي", "أداة | أشياء | إصلاح | براغي | مفك | مفك عادة"],
+      "tr": [
+        "tornavida",
+        "alet | düz uçlu | eşya | montaj | sıkıştırmak | sıkma | tamir | tamirci | tornavida | usta | vida"
+      ],
+      "vi": ["tua vít", "bắt vít | đầu phẳng | dụng cụ | tua vít"],
+      "nl": [
+        "schroevendraaier",
+        "gereedschap | klussen | repareren | schroef | schroevendraaier"
+      ]
+    }
+  ],
+  "🪜": [
+    "other",
+    "ladder",
+    {
+      "en": ["ladder", "climb | ladder | rung | step"],
+      "ru": [
+        "лестница",
+        "залезать | лезть | лестница | перекладина | стремянка | ступень"
+      ],
+      "pl": [
+        "drabina",
+        "do góry | drabina | hierarchia | ranking | stopnie | szczebel | wspinać się"
+      ],
+      "fr": [
+        "échelle",
+        "ascension | barreau | échelle | échelon | escabeau | grimper | monter"
+      ],
+      "de": [
+        "Leiter",
+        "hochsteigen | Holzleiter | klettern | Leiter | Sprosse | Stufe"
+      ],
+      "es": [
+        "escalera",
+        "escalar | escalera | escalerilla | escalón | peldaño"
+      ],
+      "pt": ["escada", "degrau | escada | mão | subir"],
+      "it": [
+        "scala",
+        "arrampicarsi | oggetto | piolo | scala | scala a pioli | scalino"
+      ],
+      "ro": ["scară", "obiect | scară | treaptă | urca"],
+      "he": ["סולם", "טיפוס | לטפס | סולם | עלייה"],
+      "ar": [
+        "سلّم",
+        "أشياء | تسلق | درج | سلّم | سلم النجاح | صعود | عارضة | متسلق | وصولي"
+      ],
+      "tr": [
+        "merdiven",
+        "adım | aşağı | ayaklı merdiven | basamak | çıkmak | eşya | merdiven | tırmanış | tırmanmak | yukarı"
+      ],
+      "vi": ["thang", "bậc thang | leo trèo | nấc | thang"],
+      "nl": [
+        "ladder",
+        "klimmen | ladder | omhoog | omlaag | sport | trede | voorwerp"
+      ]
+    }
+  ],
+  "🪝": [
+    "other",
+    "hook",
+    {
+      "en": [
+        "hook",
+        "catch | crook | curve | ensnare | hook | point | selling"
+      ],
+      "ru": ["крюк", "захват | крюк | крючок | подвес | уловка"],
+      "pl": [
+        "hak",
+        "haczyk | hak | połknąć | zaczep | zahaczyć | zakrzywiony | zawiesić | złapać | złowić"
+      ],
+      "fr": [
+        "crochet",
+        "accrocher | appâter | attraper | capitaine | crochet | ferrer | hameçon | hameçonner"
+      ],
+      "de": [
+        "Haken",
+        "Angelhaken | aufhaken | aufhängen | einhaken | Haken | hängen | Metallhaken"
+      ],
+      "es": ["gancho", "agarrar | anzuelo | atrapar | gancho | garfio"],
+      "pt": [
+        "gancho",
+        "atração para venda | bandido | curva | gancho | pegar | prender"
+      ],
+      "it": [
+        "gancio",
+        "amo | curva | fermaglio | gancio | impigliarsi | intrappolare | oggetto | punto vendita | uncino"
+      ],
+      "ro": [
+        "cârlig",
+        "ademenit | agățat | argument de vânzare | captură | cârlig | momeală | obiect | pescuit"
+      ],
+      "he": ["קרס", "אנקול | וו | קרס"],
+      "ar": [
+        "خطاف",
+        "أداة | أشياء | إبزيم | إلتقاط | خطاف | سمكة | صنارة | صيد | طُعم | كبشة | كلاب | مشبك | نقطة شراء"
+      ],
+      "tr": [
+        "çengel",
+        "askı | asmak | çengel | çengellemek | eğri | eşya | kanca"
+      ],
+      "vi": ["móc", "bắt | bẫy | cái móc | điểm bán hàng | đường cong | móc"],
+      "nl": [
+        "haak",
+        "aanbeveling | bocht | haak | hengel | kronkel | vangen | verstrikken | vissen"
+      ]
+    }
+  ],
+  "🪞": [
+    "other",
+    "mirror",
+    {
+      "en": ["mirror", "makeup | mirror | reflection | reflector | speculum"],
+      "ru": [
+        "зеркало",
+        "зеркало | краситься | макияж | отражатель | отражение"
+      ],
+      "pl": [
+        "lustro",
+        "akcesoria do domu | lustro | makijaż | odbicie | przeglądać się | rama lustra | stroić się | wiszące lustro | wystrój wnętrza | zwierciadło"
+      ],
+      "fr": [
+        "miroir",
+        "beauté | glace | image | maquillage | miroir | psyché | reflet"
+      ],
+      "de": [
+        "Spiegel",
+        "Holzspiegel | Reflexion | Spiegel | Spiegelbild | Wandspiegel"
+      ],
+      "es": ["espejo", "espéculo | espejo | reflector | reflejo"],
+      "pt": [
+        "espelho",
+        "espéculo | espelho | maquiagem | refletor | reflexão | reflexo"
+      ],
+      "it": ["specchio", "oggetto | riflesso | specchio | trucco"],
+      "ro": ["oglindă", "obiect | oglindă | oglindire | reflectare | reflexie"],
+      "he": ["מראה", "בבואה | השתקפות | מראה | ראי"],
+      "ar": [
+        "مرآة",
+        "أثاث | أدوات | أشياء | انعكاس | تجميل | تزيين | ديكور | عاكس | مرآة | مرآة معدنية"
+      ],
+      "tr": [
+        "ayna",
+        "ayna | eşya | görüntü | makyaj | reflektör | spekulum | yansıma | yansıtıcı"
+      ],
+      "vi": [
+        "gương",
+        "gương | gương phản xạ | phản ánh | phản chiếu | phản xạ | trang điểm"
+      ],
+      "nl": [
+        "spiegel",
+        "make-up | opmaken | reflectie | reflector | speculum | spiegel | spiegelbeeld | spiegels | voorwerp | weerspiegeling"
+      ]
+    }
+  ],
+  "🪟": [
+    "other",
+    "window",
+    {
+      "en": [
+        "window",
+        "air | frame | fresh | opening | transparent | view | window"
+      ],
+      "ru": [
+        "окно",
+        "вид | окно | окошко | прозрачный | рама | свежий воздух | стекло"
+      ],
+      "pl": [
+        "okno",
+        "framuga | okno | powietrze | przezroczyste | świeże | szyba | widok | witryna"
+      ],
+      "fr": [
+        "fenêtre",
+        "air frais | cadre | carreaux | fenêtre | ouverture | transparent | vitre | vue"
+      ],
+      "de": [
+        "Fenster",
+        "Aussicht | durchsichtig | Fenster | Fensterrahmen | frische Luft | Glas | Haus | lüften | Öffnung | Rahmen"
+      ],
+      "es": [
+        "ventana",
+        "abertura | apertura | cristal | marco | transparente | ventana | vista"
+      ],
+      "pt": [
+        "janela",
+        "abertura | ar | fresco | janela | quadro | transparente | vidro | vista"
+      ],
+      "it": [
+        "finestra",
+        "apertura | aria fresca | finestra | oggetto | telaio | trasparente | vista"
+      ],
+      "ro": [
+        "fereastră",
+        "aer proaspăt | casă | deschidere | fereastră | geam | obiect | ramă | transparent | vedere"
+      ],
+      "he": ["חלון", "חלון | מסגרת | פתח"],
+      "ar": [
+        "نافذة",
+        "أشياء | إطار | إطلالة | زجاجي | شباك | شفاف | فتحة | منظر | نافذة | نجارة | هواء منعش | وندوز"
+      ],
+      "tr": [
+        "pencere",
+        "cam | çerçeve | dışarı bakmak | eşya | izlemek | manzara | pencere | saydam | şeffaf | temiz hava"
+      ],
+      "vi": [
+        "cửa sổ",
+        "cửa sổ | không khí trong lành | khung | mở | trong suốt | xem"
+      ],
+      "nl": [
+        "raam",
+        "doorzichtig | frisse lucht | kijken | kozijn | opening | raam | raamkozijn | uitzicht | venster | voorwerp"
+      ]
+    }
+  ],
+  "🪠": [
+    "other",
+    "plunger",
+    {
+      "en": [
+        "plunger",
+        "cup | force | plumber | plunger | poop | suction | toilet"
+      ],
+      "ru": [
+        "вантуз",
+        "вантуз | засор | прочистка | сантехник | слив | сортир | туалет"
+      ],
+      "pl": [
+        "przepychacz",
+        "hydrauliczne | hydraulik | narzędzie | odetkać | przepychać | przepychacz | przepychacz do toalety | przyssawka | toaleta | udrażnianie rur | udrożnić"
+      ],
+      "fr": [
+        "ventouse",
+        "bouché | déboucheur | dégorgement | outil | plombier | succion | toilettes | ventouse"
+      ],
+      "de": [
+        "Saugglocke",
+        "Abfluss | Gummiglocke | Klempner | Klo | Pömpel | Pümpel | Sanitär | Saugglocke | Saugglocken | Toilette | verstopft | WC | Werkzeug"
+      ],
+      "es": [
+        "desatascador",
+        "desatascador | fontanero | retrete | servicio | succión"
+      ],
+      "pt": [
+        "desentupidor",
+        "banheiro | cocô | desentupidor | encanador | fezes | sanitário | sucção | vaso"
+      ],
+      "it": [
+        "sturalavandini",
+        "aspirazione | bagno | idraulico | ingorgo | intasamento | oggetto | scarico | sturalavandini | ventosa"
+      ],
+      "ro": [
+        "pompă de aspirare",
+        "chiuvetă | desfundare | instalator | obiect | pompă | pompă de aspirare | pompă de desfundat | toaletă | ventuză"
+      ],
+      "he": [
+        "פומפה",
+        "אינסטלטור | סתום | סתימה | פומפה | פמפמת | פתיחת סתימות | שירותים | שרברב"
+      ],
+      "ar": [
+        "مكبس غطاس",
+        "أدوات | أشياء | امتصاص | حمام | سباك | سباكة | شفط | ضغط | مرحاض | مكبس غطاس"
+      ],
+      "tr": [
+        "lavabo pompası",
+        "açıcı | çekme | eşya | lavabo açıcı | lavabo pompası | pompa | tuvalet | vakum"
+      ],
+      "vi": [
+        "dụng cụ thông tắc",
+        "dụng cụ thông tắc | hút | lực cốc | nhà vệ sinh | thợ sửa ống nước"
+      ],
+      "nl": [
+        "ontstopper",
+        "kracht | loodgieter | ontstopper | poep | wc | zuiger | zuigkracht"
+      ]
+    }
+  ],
+  "🪡": [
+    "other",
+    "sewing needle",
+    {
+      "en": [
+        "sewing needle",
+        "embroidery | needle | sew | sewing | stitches | sutures | tailoring | thread"
+      ],
+      "ru": ["швейная игла", "вышивка | игла | иголка | стежки | швы | шитье"],
+      "pl": [
+        "igła krawiecka",
+        "cerówka | haft | igła | krawiecka | krawiectwo | szwy | szycie | z nitką | zszywać"
+      ],
+      "fr": [
+        "aiguille à coudre",
+        "aiguille à coudre | broderie | coudre | couture | fil à coudre | points | suture | tailleur"
+      ],
+      "de": [
+        "Nähnadel",
+        "einfädeln | Faden | Nadel | Nadel und Faden | nähen | Nähnadel | Nähte | schneidern | Stiche | sticken"
+      ],
+      "es": [
+        "aguja de coser",
+        "aguja | aguja de coser | bordado | coser | hilar | punto | tejer"
+      ],
+      "pt": [
+        "agulha de costura",
+        "agulha | alfaiataria | bordados | costura | linha | pontos | suturas | vagonite"
+      ],
+      "it": [
+        "ago da cucito",
+        "ago | ago da cucito | attività | cucito | punti | ricamo | sarta | sarto | sartoria | suture"
+      ],
+      "ro": [
+        "ac de cusut",
+        "ac | ac de cusut | ac și ață | activitate | ață | broderie | croitorie | cusut"
+      ],
+      "he": ["מחט", "לרקום | לתפור | מחט | רקמה | תפירה"],
+      "ar": [
+        "إبرة خياطة",
+        "أنشطة | إبرة | إصلاح ملابس | تطريز | حياكة | خياطة | غرز | فتلة | ملابس | هواية"
+      ],
+      "tr": [
+        "dikiş iğnesi",
+        "aktivite | dikiş | dikiş iğnesi | dikme | etkinlik | iğne | iplik | nakış | sökük | terzi"
+      ],
+      "vi": ["kim may", "chỉ khâu | khâu | kim | may | may đo | thêu"],
+      "nl": [
+        "naald",
+        "borduren | draad | hechten | hechtingen | hobby | kleding | kleermaken | naaien | naald | speld"
+      ]
+    }
+  ],
+  "🪢": [
+    "other",
+    "knot",
+    {
+      "en": ["knot", "cord | knot | rope | tangled | tie | twine | twist"],
+      "ru": ["узел", "веревка | канат | узел | шнур | шнурок"],
+      "pl": [
+        "węzeł",
+        "łączyć | lina | makrama | połączenie | splot | supeł | sznur | sznurek | węzeł | wiązać | wiązanie"
+      ],
+      "fr": [
+        "nœud",
+        "attacher | corde | entrelacer | lien | nœud | noué | tordre"
+      ],
+      "de": [
+        "Knoten",
+        "Achterknoten | binden | Knoten | Schnur | Schnürsenkel | Seemansknoten | Segelboot | segeln | Seil | verknoten | zusammendrehen"
+      ],
+      "es": ["nudo", "anudar | atar | enredar | nudo | trenzar"],
+      "pt": [
+        "nó",
+        "amarrar | corda | cordel | emaranhado | fio | laço | marinheiro | nó"
+      ],
+      "it": ["nodo", "annodato | corda | fune | legare | nodo | spago"],
+      "ro": [
+        "nod",
+        "ață | fir | frânghie | încurcătură | infinit | lega | nod | sfoară"
+      ],
+      "he": ["קשר", "חבל | לקשור | עניבה | קשירה | קשר"],
+      "ar": [
+        "عُقدة",
+        "أدوات | أنشطة | ارتباط | حبل | عقدة | عُقدة | متشابك | مجدول | مربوط | ميثاق"
+      ],
+      "tr": [
+        "denizci düğümü",
+        "aktivite | bağ | bağlama | bağlı | denizci düğümü | dolaşık | düğüm | halat | sicim"
+      ],
+      "vi": ["nút thắt", "bện | buộc | dây thừng | nút thắt | rối | xoắn"],
+      "nl": [
+        "knoop",
+        "boot | geknoopt | hobby | knoop | knopen | kronkel | padvinder | streng | touw | zeilen"
+      ]
+    }
+  ],
+  "🪣": [
+    "other",
+    "bucket",
+    {
+      "en": ["bucket", "bucket | cask | pail | vat"],
+      "ru": ["ведро", "бадья | ведерко | ведро | кадка"],
+      "pl": [
+        "wiadro",
+        "ceber | czerpak | kubeł | nabierać wodę | naczynie na ciecz | pojemnik | skopek | sprzątanie | wiaderko | wiadro"
+      ],
+      "fr": ["seau", "conteneur | plage | seau"],
+      "de": ["Eimer", "Behälter | Bottich | Eimer | Kübel | Wassereimer"],
+      "es": ["cubo", "balde | barreño | cuba | cubeta | cubo"],
+      "pt": ["balde", "balde | baldinho | barril"],
+      "it": ["secchio", "contenitore | oggetto | secchia | secchio"],
+      "ro": ["găleată", "căldare | găleată | obiect | recipient | vas"],
+      "he": ["דלי", "דלי | מיכל | ספונג׳ה"],
+      "ar": [
+        "دلو",
+        "أدوات | أشياء | برميل | تنظيف | جردل | خابية | دلو | مسح | وعاء"
+      ],
+      "tr": [
+        "kova",
+        "bakraç | eşya | fıçı | gerdel | kap | kepçe | kova | sap | silmek | temizlik"
+      ],
+      "vi": ["xô", "thùng | thùng to | xô"],
+      "nl": [
+        "emmer",
+        "aker | dweil | dweilen | emmer | poetsen | putemmer | schoonmaken | vat | voorwerp | water"
+      ]
+    }
+  ],
+  "🪤": [
+    "other",
+    "mouse trap",
+    {
+      "en": [
+        "mouse trap",
+        "bait | cheese | lure | mouse | mousetrap | snare | trap"
+      ],
+      "ru": [
+        "мышеловка",
+        "заманить | западня | капкан | ловушка | мышеловка | приманка | сыр"
+      ],
+      "pl": [
+        "pułapka na myszy",
+        "łapka | na gryzonie | na myszy | na szczury | na szkodniki | potrzask | przynęta | pułapka | ser | sidła | zasadzka"
+      ],
+      "fr": [
+        "tapette à souris",
+        "apât | appât | fromage | leurre | piège | piège à souris | rat | tapette | tapette à souris"
+      ],
+      "de": [
+        "Mausefalle",
+        "anlocken | Falle | Käse | Maus | Mausefalle | Mäusefalle"
+      ],
+      "es": [
+        "trampa de ratones",
+        "cebo | cepo | engañar | ratón | ratonera | trampa | trampa de ratones"
+      ],
+      "pt": [
+        "ratoeira",
+        "armadilha | atrair | isca | prender | queijo | ratoeira"
+      ],
+      "it": [
+        "trappola per topi",
+        "esca | formaggio | oggetto | topo | trappola | trappola per topi"
+      ],
+      "ro": [
+        "cursă de șoareci",
+        "ademeni | capcană | capcană de șoareci | cursă de șoareci | momeală"
+      ],
+      "he": ["מלכודת עכברים", "להפיל בפח | מלכודת | מלכודת עכברים | פח"],
+      "ar": [
+        "مصيدة فئران",
+        "أشياء | أمسك | جيري | طعم | فأر | فخ | كمين | مصيدة | مصيدة فئران"
+      ],
+      "tr": [
+        "fare kapanı",
+        "eşya | fare | fare kapanı | kapan | kıskaç | kıstırmak | peynir | tuzak | yem"
+      ],
+      "vi": ["bẫy chuột", "bẫy | bẩy | bẫy chuột | mồi | pho mát"],
+      "nl": [
+        "muizenval",
+        "aas | kaas | lokken | muizenval | strik | valstrik | vangen"
+      ]
+    }
+  ],
+  "🪥": [
+    "other",
+    "toothbrush",
+    {
+      "en": [
+        "toothbrush",
+        "bathroom | brush | clean | dental | hygiene | teeth | toiletry | toothbrush"
+      ],
+      "ru": [
+        "зубная щетка",
+        "ванная | гигиена | зубная щетка | зубы | умываться | чистить | чистый | щетка"
+      ],
+      "pl": [
+        "szczoteczka do zębów",
+        "czyszczenie | do zębów | higiena | jama ustna | łazienka | myć zęby | mycie zębów | szczoteczka | szczotka | zębów | zęby"
+      ],
+      "fr": [
+        "brosse à dents",
+        "brosse | brosse à dents | brosser les dents | dentaire | dents | hygiène | laver | laver les dents | salle de bain"
+      ],
+      "de": [
+        "Zahnbürste",
+        "Badezimmer | Bürste | Körperpflege | Mundhygiene | putzen | sauber | Zahnbürste | Zähne | Zahnhygiene"
+      ],
+      "es": [
+        "cepillo de dientes",
+        "cepillo | cepillo de dientes | dental | higiene | limpio | servicio"
+      ],
+      "pt": [
+        "escova de dentes",
+        "banheiro | dental | dentes | escova | escova de dentes | higiene | limpeza"
+      ],
+      "it": [
+        "spazzolino da denti",
+        "bagno | dentale | denti | igiene | lavarsi i denti | oggetto | pulito | pulizia | spazzolino | spazzolino da denti"
+      ],
+      "ro": [
+        "periuță de dinți",
+        "baie | curățare | dantură | dentară | dinte | igienă | obiect | periaj | periere | periuță de dinți"
+      ],
+      "he": [
+        "מברשת שיניים",
+        "דנטלי | היגיינת הפה | לצחצח | מברשת | צחצוח | שיניים"
+      ],
+      "ar": [
+        "فرشاة أسنان",
+        "أداة | أسنان | أشياء | تسوس | تنظيف | حمام | غسيل أسنان | فرشاة | فم | نظافة"
+      ],
+      "tr": [
+        "diş fırçası",
+        "ağız | banyo | dental | diş | diş fırçası | eşya | fırça | hijyen | lavabo | oral hijyen | temizlik"
+      ],
+      "vi": [
+        "bàn chải răng",
+        "bàn chải | bàn chải răng | nha khoa | phòng tắm | răng | sạch sẽ | vệ sinh"
+      ],
+      "nl": [
+        "tandenborstel",
+        "badkamer | borstel | hygiëne | poetsen | tanden | tandenborstel | tandheelkunde | toiletartikelen"
+      ]
+    }
+  ],
+  "🪦": [
+    "other",
+    "headstone",
+    {
+      "en": [
+        "headstone",
+        "cemetery | dead | grave | graveyard | headstone | memorial | rip | tomb | tombstone"
+      ],
+      "ru": [
+        "надгробие",
+        "гробница | кладбище | могила | могильный камень | надгробие"
+      ],
+      "pl": [
+        "nagrobek",
+        "cmentarz | epitafium | grób | kamień nagrobny | miejsce pamięci | mogiła | nagrobek | płyta nagrobna | pomnik | spoczywać w pokoju"
+      ],
+      "fr": [
+        "pierre tombale",
+        "cimetière | enterrement | funérailles | mémorial | mort | pierre tombale | RIP | sépulture | stèle | tombe"
+      ],
+      "de": ["Grabstein", "Friedhof | Grab | Grabstein | RIP | tot"],
+      "es": ["lápida", "cementario | estela | lápida | sepulcro | tumba"],
+      "pt": [
+        "lápide",
+        "cemitério | descanse em paz | lápide | morto | rip | sepultura | tumba | túmulo"
+      ],
+      "it": [
+        "lapide",
+        "cimitero | lapide | morto | pietra tombale | RIP | sepoltura | tomba"
+      ],
+      "ro": [
+        "piatră funerară",
+        "cimitir | groapă | înmormântare | loc de veci | mormânt | mort | odihnească-se în pace | piatră funerară | rip | somn de veci"
+      ],
+      "he": [
+        "מצבה",
+        "אזכרה | בית עלמין | בית קברות | מוות | מצבה | מציבה | קבורה | קבר"
+      ],
+      "ar": [
+        "حجر مقبرة",
+        "أشياء | أماكن | حجر مقبرة | شاهد | شاهد القبر | عزاء | قبر | مقبرة | موت | ميت | نصب تذكاري | وفاة"
+      ],
+      "tr": [
+        "mezar taşı",
+        "cenaze | defin | defnetmek | eşya | huzur içinde uyu | huzur içinde yat | mezar | mezar taşı | mezarlık | nur içinde yat | ölüm"
+      ],
+      "vi": ["bia mộ", "an nghỉ | bia mộ | mộ | nghĩa địa | nghĩa trang"],
+      "nl": [
+        "grafsteen",
+        "begraafplaats | begrafenis | dood | graf | grafsteen | grafzerk | kerkhof | overleden | voorwerp"
+      ]
+    }
+  ],
+  "🪧": [
+    "other",
+    "placard",
+    {
+      "en": [
+        "placard",
+        "card | demonstration | notice | picket | placard | plaque | protest | sign"
+      ],
+      "ru": [
+        "плакат",
+        "высказаться | демонстрация | заявление | знак | пикет | плакат | протест"
+      ],
+      "pl": [
+        "tabliczka",
+        "demonstracja | manifa | manifestacja | pikieta | protest | sprzeciw | tabliczka | transparent | wiec | znak"
+      ],
+      "fr": [
+        "pancarte",
+        "affiche | écriteau | grève | manifestation | pancarte | panneau | protestation | signe"
+      ],
+      "de": [
+        "Protestschild",
+        "Ankündigung | Bekanntmachung | Demonstration | Hinweis | Mahnwache | Plakat | Protest | Protestschild | Schild"
+      ],
+      "es": [
+        "letrero",
+        "anuncio | aviso | cartel | letrero | pancarta | poste"
+      ],
+      "pt": [
+        "placa",
+        "aviso | cartaz | demonstração | letreiro | piquete | placa | protesto | sinal"
+      ],
+      "it": [
+        "cartello",
+        "cartello | corteo | manifestazione | manifesto | oggetto | picchetto | protesta | striscione"
+      ],
+      "ro": [
+        "placardă",
+        "anunț | demonstrație | grevă | pancartă | picheta | placardă | protest | semn | tablă"
+      ],
+      "he": ["כרזה", "הודעה | הפגנה | כרזה | מודעה | פלקט | שלט"],
+      "ar": [
+        "يافطة",
+        "أشياء | إعلان | اعتصام | تعليمات | سبورة | لافتة | لوحة | مظاهرة | يافطة"
+      ],
+      "tr": [
+        "tabela",
+        "bildiri | döviz | eşya | gösteri | işaret | levha | pankart | plaka | protesto | tabela"
+      ],
+      "vi": [
+        "bảng hiệu",
+        "bảng | bảng hiệu | biển hiệu | cọc | phản đối | thẻ | thể hiện | thông báo"
+      ],
+      "nl": [
+        "plakkaat",
+        "bord | demonstratie | mars | plakkaat | poster | protest | protesteren | slogan | voorwerp"
+      ]
+    }
+  ],
+  "🪨": [
+    "other",
+    "rock",
+    {
+      "en": ["rock", "boulder | heavy | rock | solid | stone | tough"],
+      "ru": [
+        "камень",
+        "булыжник | жесткий | камень | скала | твердый | тяжелый"
+      ],
+      "pl": [
+        "skała",
+        "blok skalny | bryła | ciężki | głaz | kamień | minerał | odłamek | opoka | skała | twardy"
+      ],
+      "fr": [
+        "rocher",
+        "caillou | dur | lourd | pierre | roc | roche | rocher | solide"
+      ],
+      "de": [
+        "Felsen",
+        "Felsen | felsig | hart | Natur | schwer | Stein | steinig"
+      ],
+      "es": ["piedra", "pedrusco | peña | peñasco | piedra | roca"],
+      "pt": ["pedra", "pedra | pedregulho | pesado | rocha | seixo | sólido"],
+      "it": [
+        "roccia",
+        "duro | macigno | masso | pesante | pietra | roccia | sasso | solido"
+      ],
+      "ro": [
+        "piatră",
+        "bolovan | greu | piatră | rocă | solid | stâncă | tare"
+      ],
+      "he": ["סלע", "אבן | בולדר | סלע | סלעים | קשה"],
+      "ar": [
+        "صخرة",
+        "أماكن | تضاريس | ثقيل | جلمود | حجر | صخر | صخرة | صلب | طوب | قاس | قسوة | وعر"
+      ],
+      "tr": [
+        "kaya",
+        "ağır | büyük kaya | çakıl | katı | kaya | kayalık | sert | seyahat | taş"
+      ],
+      "vi": ["đá", "đá | hòn đá | nặng | rắn | tảng đá"],
+      "nl": [
+        "rots",
+        "betrouwbaar | graniet | rots | rotsblok | steen | sterk | zwaar"
+      ]
+    }
+  ],
+  "🪩": [
+    "other",
+    "mirror ball",
+    {
+      "en": ["mirror ball", "ball | dance | disco | glitter | mirror | party"],
+      "ru": [
+        "диско-шар",
+        "блестеть | вечеринка | диско | диско-шар | дискотека | зеркальный | зеркальный шар | танцы"
+      ],
+      "pl": [
+        "kula dyskotekowa",
+        "dyskoteka | kula dyskotekowa | migotanie | przyjęcie | taniec"
+      ],
+      "fr": [
+        "boule à facettes",
+        "boule à facettes | briller | danse | disco | fête | soirée"
+      ],
+      "de": [
+        "Discokugel",
+        "Disco | Discokugel | Lichtreflexe | Party | Spiegel | Spiegelkugel | Tanz | tanzen"
+      ],
+      "es": [
+        "bola de espejos",
+        "bailar | bola de espejos | brillar | disco | discoteca | fiesta"
+      ],
+      "pt": [
+        "globo de espelhos",
+        "balada | boate | bola | brilho | dança | dançar | discoteca | espelhado | espelho | festa | globo | night"
+      ],
+      "it": [
+        "palla da discoteca",
+        "ballare | brillare | dance | disco | discoteca | festa | glitter | palla a specchio | palla da discoteca | party | specchi"
+      ],
+      "ro": [
+        "glob cu oglinzi",
+        "dans | disco | glob cu oglinzi | glob disco | petrecere | sclipici | strălucire"
+      ],
+      "he": [
+        "כדור מראה",
+        "בילויים | דיסקו | כדור דיסקו | כדור מראה | מסיבות | נצנצים | ריקודים"
+      ],
+      "ar": [
+        "الكرة المضيئة",
+        "الكرة المضيئة | حفل | ديسكو | رقص | كرة | ملهى ليلي"
+      ],
+      "tr": [
+        "aynalı küre",
+        "90‘lar | aynalı küre | dans | disko | disko topu | eğlence | gece hayatı | gece kulübü | parlak | parti"
+      ],
+      "vi": [
+        "quả cầu gương",
+        "buổi tiệc | disco | khiêu vũ | long lanh | quả cầu gương | sàn nhảy"
+      ],
+      "nl": [
+        "spiegelbal",
+        "dans | dansen | disco | discobal | feest | glitter | spiegelbal"
+      ]
+    }
+  ],
+  "🪪": [
+    "other",
+    "identification card",
+    {
+      "en": [
+        "identification card",
+        "card | credentials | document | ID | identification | license | security"
+      ],
+      "ru": [
+        "удостоверение личности",
+        "водительские права | документ | паспорт | права | удостоверение"
+      ],
+      "pl": [
+        "dowód tożsamości",
+        "bezpieczeństwo | dane osobowe | dokument | dowód osobisty | dowód tożsamości | identyfikator | prawo jazdy"
+      ],
+      "fr": [
+        "carte d’identité",
+        "carte d’identité | justificatif | papiers | permis de conduire | pièce d’identité | sécurité"
+      ],
+      "de": [
+        "Ausweis",
+        "Ausweis | Dokument | Führerschein | Karte | Pass | Personalausweis | Plakette | Reisepass"
+      ],
+      "es": [
+        "carné de identidad",
+        "carné de conducir | carné de identidad | credenciales | identificación | permiso | seguridad"
+      ],
+      "pt": [
+        "cartão de identificação",
+        "carta | cartão | carteira | crachá | credenciais | documento | habilitação | identidade | licença | motorista | RG | segurança"
+      ],
+      "it": [
+        "carta d’identità",
+        "badge | carta d’identità | credenziali | documento d’identità | identificazione | patente | sicurezza | tessera"
+      ],
+      "ro": [
+        "carte de identitate",
+        "act de identitate | buletin | carte de identitate | ID | legitimație | permis | securitate"
+      ],
+      "he": [
+        "תעודת זהות",
+        "אבטחה | דרכון | זיהוי | כרטיס | רישיון | רשמי | ת״ז | תעודה מזהה | תעודת זהות | תעודת זהות ביומטרית"
+      ],
+      "ar": [
+        "بطاقة الهوية",
+        "أمان | بطاقة الهوية | بطاقة تعريف شخصية | بيانات اعتماد | تحديد الهوية | تحقيق الشخصية | رخصة"
+      ],
+      "tr": [
+        "kimlik kartı",
+        "belge | ehliyet | güvenlik | kart | kimlik | kimlik bilgisi | kimlik kartı | lisans | nesne | nüfus cüzdanı"
+      ],
+      "vi": [
+        "thẻ nhận dạng",
+        "bảo mật | căn cước công dân | cccd | chứng minh nhân dân | cmnd | giấy phép | thẻ nhận dạng"
+      ],
+      "nl": [
+        "legitimatiebewijs",
+        "beveiliging | ID | ID-kaart | identificatie | identiteitskaart | legitimatiebewijs | overheid | vergunning"
+      ]
+    }
+  ],
+  "🪫": [
+    "other",
+    "low battery",
+    {
+      "en": [
+        "low battery",
+        "battery | drained | electronic | energy | low | power"
+      ],
+      "ru": [
+        "низкий уровень заряда",
+        "аккумулятор | батарейка | батарея | заряд | мало зарядки | низкий заряд | низкий уровень заряда | предмет | разрядилась | разряжено"
+      ],
+      "pl": [
+        "słaba bateria",
+        "bateria | elektronika | niski | poziom energii | słaba"
+      ],
+      "fr": [
+        "pile faible",
+        "batterie | batterie faible | déchargé | électronique | énergie faible | pile faible"
+      ],
+      "de": [
+        "schwache Batterie",
+        "Akku | Akku fast leer | Akku leer | aufladen | Batterie | Batterie fast leer | Batterie leer | Elektronik | Ladestand | niedriger Akkustand | schwache Batterie | schwacher Akku"
+      ],
+      "es": [
+        "batería baja",
+        "batería | batería baja | carga baja | electrónico | energía baja | pila"
+      ],
+      "pt": [
+        "pouca bateria",
+        "acabando | bateria | cansado | descarregada | eletrônico | energia | fim | fraca | pilha | pouca | sem"
+      ],
+      "it": [
+        "batteria scarica",
+        "batteria scarica | elettronica | energia bassa | esausta | esausto | pila scarica | ricarica"
+      ],
+      "ro": [
+        "baterie slabă",
+        "baterie cosumată | baterie slabă | electronic | energie scăzută"
+      ],
+      "he": [
+        "סוללה נמוכה",
+        "אנרגיה | בטריה | חשמל | מעט אנרגיה | מרוקן | סוללה"
+      ],
+      "ar": [
+        "بطارية ضعيفة",
+        "إلكتروني | بطارية | بطارية ضعيفة | طاقة منخفضة | مُستنزَف"
+      ],
+      "tr": [
+        "düşük pil",
+        "az şarj | batarya | düşük enerji | düşük pil | elektronik | güçsüz | nesne | pil | şarj"
+      ],
+      "vi": ["pin yếu", "điện tử | năng lượng thấp | pin yếu"],
+      "nl": [
+        "batterij bijna leeg",
+        "accu | batterij | batterij bijna leeg | electronisch | lege batterij | weinig batterijlading"
+      ]
+    }
+  ],
+  "🪬": [
+    "other",
+    "hamsa",
+    {
+      "en": [
+        "hamsa",
+        "amulet | Fatima | fortune | guide | hamsa | hand | Mary | Miriam | palm | protect | protection"
+      ],
+      "ru": [
+        "хамса",
+        "амулет | защита | защитить | кисть | ладонь | предмет | рука | рука Марии | рука Мириам | рука Фатимы | хамса"
+      ],
+      "pl": [
+        "chamsa",
+        "amulet | chamsa | dłoń | dłoń Fatimy | dłoń z okiem | Fatima | Miriam | ochrona | ręka Fatimy | ręka Miriam | ręka z okiem"
+      ],
+      "fr": [
+        "main de Fatma",
+        "amulette | chance | Fatma | hamsa | khamsa | main de Fatma | Myriam | protection"
+      ],
+      "de": [
+        "Hamsa",
+        "Amulett | Auge in offener Hand | Fatima | Glückssymbol | Hamsa | Hand | jüdisch | Maria | muslimisch | Schutz"
+      ],
+      "es": [
+        "hamsa",
+        "amuleto | Fátima | hamsa | jamsa | mano | María | Miriam"
+      ],
+      "pt": [
+        "hamsá",
+        "amuleto | Fátima | guia | hamsa | hamsá | mão | Maria | Miriam | palma | proteção | sorte"
+      ],
+      "it": [
+        "mano di Fatima",
+        "amuleto | fortuna | hamsa | khamsa | Mano con l’occhio divino | Mano di ALO | mano di Fatima | Maria | Miriam | protezione"
+      ],
+      "ro": [
+        "hamsa",
+        "amuletă | Fatima | Fecioara Maria | hamsa | mână | Miriam | protecție"
+      ],
+      "he": ["חמסה", "הגנה | חמסה | כף יד | מזל | סמל | עין הרע | קמע"],
+      "ar": [
+        "خمسة",
+        "العذراء | تحصين | تعويذة | حسد | حظ | حماية | خمسة | فاطمة | كف | مريم | يد"
+      ],
+      "tr": [
+        "Fatıma’nın Eli",
+        "Fatıma | Fatıma’nın eli | Fatma | Fatma Ana’nın Eli | Fatma’nın eli | Hamsa | koruyucu | Meryem | muska | nazarlık | şans | sembol"
+      ],
+      "vi": [
+        "hamsa",
+        "bùa hộ mệnh | Fatima | hamsa | Mary | Miriam | sự bảo vệ | tay"
+      ],
+      "nl": [
+        "hamsa",
+        "amulet | bescherming | Fatima | geluk | hamsa | hand | handpalm | Maria | Mirjam | oog"
+      ]
+    }
+  ],
+  "🪭": [
+    "other",
+    "folding hand fan",
+    {
+      "en": [
+        "folding hand fan",
+        "clack | clap | cool | cooling | dance | fan | flirt | flutter | folding | hand | hot | shy"
+      ],
+      "ru": [
+        "веер",
+        "веер | жара | жарко | застенчивый | опахало | охлаждение | танец"
+      ],
+      "pl": [
+        "wachlarz",
+        "flirt | gorąco | nieśmiałość | ochłoda | taniec | wachlarz | wachlować | wachlowanie"
+      ],
+      "fr": [
+        "éventail",
+        "agiter | chaleur | charmer | chaud | danse | danser | éventail | éventer | rafraîchir | timide"
+      ],
+      "de": [
+        "Faltfächer",
+        "Abkühlung | Fächer | Faltfächer | flirten | heiß | kühlen | Luft zufächeln | schüchtern | spanisch | Tanz | warm"
+      ],
+      "es": [
+        "abanico abierto",
+        "abanico | abanico abierto | airear | bailar | calor | feria | flamenco"
+      ],
+      "pt": [
+        "leque dobrável",
+        "abanar | arejar | balançar | calor | dança | flertar | leque | quente | refrescar | timidez"
+      ],
+      "it": [
+        "ventaglio",
+        "afa | aria | caldo | rinfrescare | sventagliare | sventolare | timidezza | ventaglio"
+      ],
+      "ro": [
+        "eventai pliabil",
+        "caniculă | dans | evantai | evantai pliabil | eventai pliabil | fâlfâit | răcire | răcorire | timiditate"
+      ],
+      "he": [
+        "מניפת יד מתקפלת",
+        "חם | לפלרטט | לקרר | לרקוד | מאוורר | מניפה | מניפת יד | קירור"
+      ],
+      "ar": [
+        "مروحة يدوية",
+        "تبريد | تهوية | حر | خجل | رفرف | رقص | طي | مروحة | مروحة يدوية"
+      ],
+      "tr": [
+        "yelpaze",
+        "çırpma | dans | flört | heyecan | nesne | şak | serinletme | sıcak | utangaç | yelleme | yelpaze"
+      ],
+      "vi": [
+        "quạt giấy",
+        "e thẹn | làm mát | múa | nóng | quạt | quạt giấy | tán tỉnh | vỗ cánh"
+      ],
+      "nl": [
+        "opvouwbare waaier",
+        "afkoelen | dansen | fladderen | heet | opvouwbare waaier | verlegen | waaier"
+      ]
+    }
+  ],
+  "🪮": [
+    "other",
+    "hair pick",
+    {
+      "en": ["hair pick", "Afro | comb | groom | hair | pick"],
+      "ru": ["афро-гребень", "афро | волосы | гребень | расческа"],
+      "pl": [
+        "grzebień fryzjerski",
+        "afro | czesanie | fryzjerski | grzebień | rozczesywanie | włosy"
+      ],
+      "fr": [
+        "peigne afro",
+        "afro | cheveux | démêler | démêloir | peigne | peigner"
+      ],
+      "de": [
+        "Haarkamm",
+        "afro | Afro | Afro Pick | Haare | Haarkamm | Kamm | kämmen"
+      ],
+      "es": ["peineta", "afro | peine | peineta | pelo"],
+      "pt": [
+        "pente de cabelo",
+        "afro | cabelo | crespo | pente | pente garfo | pentear | retrô"
+      ],
+      "it": ["pettine afro", "afro | capelli | pettinatura | pettine"],
+      "ro": [
+        "pieptene cu dinți lungi",
+        "afro | creț | păr | pieptene | pieptene cu dinți lungi"
+      ],
+      "he": ["מסרק שיער", "אפרו | טיפוח | מסרק | סידור שיער | שיער | תלתלים"],
+      "ar": [
+        "مشط عريض",
+        "أفرو | تصفيف | شعر | شعر أفريقي | كثافة | مشط | مشط عريض | يمشط | يهندم"
+      ],
+      "tr": [
+        "perma tarağı",
+        "Afro saç | kıvırcık saç | nesne | perma tarağı | saç | seçme | tarak | tarama | toka"
+      ],
+      "vi": [
+        "lược Afro Pick",
+        "Afro | chải | kiểu tóc afro | lược | pick | tóc"
+      ],
+      "nl": ["haarkam", "afro | haar | haarkam | kam | kroes"]
+    }
+  ],
+  "🪯": [
+    "other",
+    "khanda",
+    {
+      "en": [
+        "khanda",
+        "Deg | Fateh | Khalsa | Khanda | religion | Sikh | Sikhism | Tegh"
+      ],
+      "ru": [
+        "кханда",
+        "дег | кханда | религия | сикх | сикхизм | символ | тех | фатех | хальса"
+      ],
+      "pl": [
+        "khanda",
+        "deg | fateh | khalsa | khanda | religia | sikh | sikhizm | tegh | wiara"
+      ],
+      "fr": [
+        "khanda",
+        "deg tegh fateh | foi | khalsa | khanda | religion | sikh | sikhisme"
+      ],
+      "de": [
+        "Khanda",
+        "Deg Tegh Fateh | Glaube | Khalsa | Khanda | Khanda-Emblem | Religion | Schwert | Sikh | Sikhismus"
+      ],
+      "es": ["khanda", "khanda | religión | sij | sijismo | sikh"],
+      "pt": [
+        "khanda",
+        "Deg Tegh Fateh | fé | Khalsa | khanda | religião | Sikh | Sikhismo | siquismo"
+      ],
+      "it": ["khanda", "khanda | religione | Sikh | sikhismo"],
+      "ro": ["khanda", "khanda | religie | sikh"],
+      "he": ["סמל סיקי", "אמונה | דת | סיקים | סמל | קהלסה | קהנדה"],
+      "ar": [
+        "خندا",
+        "إيمان سيخي | السيخ | خندا | ديانة | ديغ تيغ فاتح | عقيدة سيخية"
+      ],
+      "tr": [
+        "khanda",
+        "deg tegh fateh | din | inanç | khalsa | khanda | sih | Sih | sihizm"
+      ],
+      "vi": [
+        "biểu tượng khanda",
+        "biểu tượng khanda | Deg Tegh Fateh | đức tin | Khalsa | Sikh | Sikh giáo | tôn giáo"
+      ],
+      "nl": ["khanda", "khanda | religie | sikh"]
+    }
+  ],
+  "🪰": [
+    "other",
+    "fly",
+    {
+      "en": [
+        "fly",
+        "animal | disease | fly | insect | maggot | pest | rotting"
+      ],
+      "ru": ["муха", "вредитель | зараза | личинка | муха | насекомое"],
+      "pl": [
+        "mucha",
+        "choroby | giez | gnicie | insekt | mucha | owad | szkodnik | tse-tse | zwierzę"
+      ],
+      "fr": [
+        "mouche",
+        "animal | asticot | insecte | maladie | mouche | nuisible | pourrissement | puanteur | putréfaction | tsé-tsé"
+      ],
+      "de": [
+        "Fliege",
+        "Fliege | fliegen | Insekt | Krankheit | Made | Mücke | Plage | Schmeißfliege | Tier | verwesen"
+      ],
+      "es": ["mosca", "basura | bicho | mal olor | mosca | podrido"],
+      "pt": [
+        "mosca",
+        "animal | apodrecendo | doença | inseto | larva | mosca | mosca-varejeira | praga | varejeira"
+      ],
+      "it": [
+        "mosca",
+        "animale | decomposizione | infestante | insetto | insetto volante | larva | malattia | mosca | moscone | volare"
+      ],
+      "ro": [
+        "muscă",
+        "animal | boală | dăunător | descompunere | insectă | muscă | putrezire"
+      ],
+      "he": ["זבוב", "זבוב | זבוב הבית | זבוב הסוס | טסה טסה | מחלות | צה-צה"],
+      "ar": [
+        "ذبابة",
+        "باعوضة | بعوضة | حشرة | حيوان | ذبابة | طبيعة | عفن | مرض | نفايات | يرقة"
+      ],
+      "tr": [
+        "karasinek",
+        "at sineği | böcek | çürüme | hastalık | hayvan | karasinek | kurt sineği | larva | sinek | uçmak"
+      ],
+      "vi": [
+        "con ruồi",
+        "bệnh | con ruồi | côn trùng | động vật | giòi | thối rữa"
+      ],
+      "nl": [
+        "vlieg",
+        "dier | insect | made | ongedierte | rottend | vlieg | ziekte"
+      ]
+    }
+  ],
+  "🪱": [
+    "other",
+    "worm",
+    {
+      "en": ["worm", "animal | annelid | earthworm | parasite | worm"],
+      "ru": [
+        "червяк",
+        "дождевой червь | животное | земляной червь | круглый червь | паразит | червь | червяк"
+      ],
+      "pl": [
+        "robak",
+        "dżdżownica | glista | kompostowanie | pasożyt | pierścienice | robak | zwierzę"
+      ],
+      "fr": [
+        "lombric",
+        "animal | annélide | insecte | lombric | parasite | ver | ver de terre"
+      ],
+      "de": [
+        "Wurm",
+        "Insekt | Natur | Parasit | Regenwurm | Ringelwurm | Tier | Wurm"
+      ],
+      "es": ["gusano", "gusano | lombriz | oruga | parásito"],
+      "pt": ["minhoca", "anelídeo | animal | minhoca | parasita | verme"],
+      "it": [
+        "verme",
+        "anellide | animale | lombrico | parassita | strisciare | verme"
+      ],
+      "ro": ["vierme", "anelid | animal | parazit | râmă | vierme"],
+      "he": ["תולעת", "בעל חיים | טפיל | שלשול | תולעים | תולעת | תולעת פרקים"],
+      "ar": [
+        "دودة",
+        "بريمة | حشرة | حيوان | دودة | دودة أرض | دودة علقية | طبيعة | طفيليات | متطفل"
+      ],
+      "tr": [
+        "solucan",
+        "hayvan | kurt | kurtçuk | parazit | solucan | sürüngen"
+      ],
+      "vi": [
+        "giun",
+        "động vật | giun | giun đất | giun đốt | ký sinh trùng | sâu"
+      ],
+      "nl": ["worm", "dier | parasiet | regenworm | ringworm | worm"]
+    }
+  ],
+  "🪲": [
+    "other",
+    "beetle",
+    {
+      "en": ["beetle", "animal | beetle | bug | insect"],
+      "ru": ["жук", "букашка | жук | жучок | клоп | насекомое"],
+      "pl": ["chrząszcz", "chrabąszcz | chrząszcz | owad | żuk | zwierzę"],
+      "fr": ["scarabée", "animal | insecte | scarabée"],
+      "de": [
+        "Käfer",
+        "Insekt | Käfer | Krabbeltier | Minzkäfer | Tier | Wanze"
+      ],
+      "es": ["escarabajo", "bicho | escarabajo | insecto"],
+      "pt": ["besouro", "animal | besouro | bicho | inseto"],
+      "it": [
+        "coleottero",
+        "animale | cimice | coleottero | insetto | scarabeo"
+      ],
+      "ro": ["cărăbuș", "animal | cărăbuș | gândac | insectă"],
+      "he": ["חיפושית", "בעל חיים | חיפושית | חרק"],
+      "ar": ["خنفساء", "آفة خضراء | حشرة | حيوان | خنفساء | طبيعة"],
+      "tr": ["böcek", "böcek | haşere | hayvan"],
+      "vi": ["bọ cánh cứng", "bọ | bọ cánh cứng | côn trùng | động vật"],
+      "nl": ["kever", "beestje | dier | insect | kever"]
+    }
+  ],
+  "🪳": [
+    "other",
+    "cockroach",
+    {
+      "en": ["cockroach", "animal | cockroach | insect | pest | roach"],
+      "ru": ["таракан", "вредитель | мерзкий | насекомое | прусак | таракан"],
+      "pl": [
+        "karaluch",
+        "karaczan | karaluch | owad | prusak | szkodnik | zwierzę"
+      ],
+      "fr": [
+        "cafard",
+        "animal | blatte | cafard | coquerelle | insecte | nuisible"
+      ],
+      "de": [
+        "Kakerlake",
+        "Insekt | Käfer | Kakerlake | krabbeln | Krabbeltier | Küchenschabe | La Cucaracha | Schabe | Tier"
+      ],
+      "es": ["cucaracha", "alimaña | bicho | cucaracha | insecto | plaga"],
+      "pt": [
+        "barata",
+        "animal | barata | baratas | inseto | nojento | nojo | praga"
+      ],
+      "it": [
+        "scarafaggio",
+        "animale | blatta | disgustoso | infestante | insetto | scarafaggio"
+      ],
+      "ro": [
+        "gândac de bucătărie",
+        "animal | cărăbuș | gândac de bucătărie | insectă | parazit"
+      ],
+      "he": ["תיקן", "איכס | בעל חיים | ג׳וק | חרק | מקק | תיקן"],
+      "ar": ["صرصور", "جدجد | حشرة | حيوان | صرصور | مبيد حشري | مقرف"],
+      "tr": [
+        "hamam böceği",
+        "böcek | hamam böceği | haşere | hayvan | iğrenç | kabuklu | karafatma"
+      ],
+      "vi": ["con gián", "con gián | côn trùng | động vật"],
+      "nl": ["kakkerlak", "bakkerstor | dier | insect | kakkerlak | plaag"]
+    }
+  ],
+  "🪴": [
+    "other",
+    "potted plant",
+    {
+      "en": [
+        "potted plant",
+        "decor | grow | house | nurturing | plant | pot | potted"
+      ],
+      "ru": [
+        "растение в горшке",
+        "горшок | домашнее растение | растение | растение в горшке | растение в доме | цветок в горшке"
+      ],
+      "pl": [
+        "roślina doniczkowa",
+        "doniczka | doniczkowa | doniczkowy | kwiat | roślina"
+      ],
+      "fr": [
+        "plante en pot",
+        "décoration | ennuyeux | faire pousser | intérieur | nature | plante | plante en pot | pousser | prendre soin"
+      ],
+      "de": [
+        "Topfpflanze",
+        "Dekor | Grünpflanze | Haus | Pflanze | pflegen | Topfpflanze | wachsen | Zimmerpflanze"
+      ],
+      "es": [
+        "planta de maceta",
+        "crecer | maceta | planta | planta de maceta | tiesto"
+      ],
+      "pt": [
+        "vaso com planta",
+        "casa | chato | decoração | nutrir | planta | plantar | samambaia | sem utilidade | vaso | vaso com planta"
+      ],
+      "it": [
+        "pianta in vaso",
+        "casa | coltivare | curare | decorare | inutile | noioso | pianta | pianta in vaso | vaso | verde"
+      ],
+      "ro": [
+        "plantă în ghiveci",
+        "casă | crește | cultiva | decor | ghiveci | plantă | plantă în ghiveci"
+      ],
+      "he": [
+        "צמח בעציץ",
+        "משעמם | סוקולנט | עציץ | עציץ לבית | צמח | צמח בעציץ"
+      ],
+      "ar": [
+        "نبتة في وعاء",
+        "إصيص | بدون فائدة | ديكور | رعاية | زراعة | زينة | صبار | طبيعة | ممل | منزل | نبتة | نبتة في وعاء"
+      ],
+      "tr": [
+        "saksı bitkisi",
+        "bitki | çiçek | dekor | doğa | ev | ev bitkisi | saksı | saksı bitkisi | yeşil | yetiştirme"
+      ],
+      "vi": [
+        "cây trồng trong chậu",
+        "chậu cây | mọc | nhà | nuôi dưỡng | thực vật | trang trí | trồng trong chậu"
+      ],
+      "nl": [
+        "potplant",
+        "decor | groeien | huis | plant | pot | potplant | verzorgen"
+      ]
+    }
+  ],
+  "🪵": [
+    "other",
+    "wood",
+    {
+      "en": ["wood", "log | lumber | timber | wood"],
+      "ru": ["древесина", "бревно | древесина | дрова | лес | пень | полено"],
+      "pl": ["drewno", "drewno | kłoda | pień | polano | tarcica"],
+      "fr": ["bois", "arbre | bois | bûche | bûcheron | rondins | tronc"],
+      "de": [
+        "Holz",
+        "Baumstamm | Feuerholz | Holz | holzig | Holzscheite | Lagerfeuer"
+      ],
+      "es": ["madera", "hoguera | leña | madera | madero | palos | tronco"],
+      "pt": ["madeira", "lenha | madeira | madeira serrada | tora | tronco"],
+      "it": ["legna", "ceppo | ciocco | legna | legname | legno | tronco"],
+      "ro": ["lemn", "buștean | buturugă | cherestea | lemn | masă lemnoasă"],
+      "he": ["בול עץ", "בול עץ | בולי עץ | גזע עץ | עץ | עצים | עצים לאח"],
+      "ar": [
+        "خشب",
+        "ألواح خشب | أماكن | تصحّر | جذع شجرة | حطب | خشب | قطع | لوح | مقطوع"
+      ],
+      "tr": [
+        "kütük",
+        "ağaç | ahşap | kereste | kütük | odun | seyahat | tomruk"
+      ],
+      "vi": ["gỗ", "gỗ | gỗ xẻ | khúc gỗ"],
+      "nl": [
+        "hout",
+        "balk | bijl | boomstam | hakken | hout | open haard | stam | timmerhout | vuur | zagen"
+      ]
+    }
+  ],
+  "🪶": [
+    "other",
+    "feather",
+    {
+      "en": ["feather", "bird | feather | flight | light | plumage"],
+      "ru": [
+        "перо",
+        "лёгкий | оперение | перо | перышко | писать | полёт | птица"
+      ],
+      "pl": [
+        "pióro",
+        "fruwać | latanie | lekkość | pierze | pióra | pióro | pióro do pisania | upierzenie"
+      ],
+      "fr": [
+        "plume",
+        "écrire | écrivain | léger | oiseau | plumage | plume | voler"
+      ],
+      "de": [
+        "Feder",
+        "Feder | federleicht | Federn | fliegen | Gefieder | leicht | Vogelfeder"
+      ],
+      "es": ["pluma", "ave | ligero | pájaro | pluma | plumaje"],
+      "pt": ["pena", "leve | pássaro | pena | plumagem | voo"],
+      "it": ["piuma", "leggero | penna | piuma | piumaggio | uccello | volo"],
+      "ro": ["pană", "pană | pasăre | penaj | ușor | zbor"],
+      "he": ["נוצה", "לעוף | נוצה | נוצות | ציפורים"],
+      "ar": ["ريشة", "تحليق | حيوان | خفيف | ريشة | طائر | طبيعة"],
+      "tr": [
+        "kuş tüyü",
+        "gıdıklamak | hafif | hayvan | kuş | kuş tüyü | tüy | tüylü | uçma"
+      ],
+      "vi": ["lông chim", "bộ lông | chim | chuyến bay | lông chim | nhẹ"],
+      "nl": ["veer", "licht | veer | verenkleed | vlucht | vogel"]
+    }
+  ],
+  "🪷": [
+    "other",
+    "lotus",
+    {
+      "en": [
+        "lotus",
+        "beauty | Buddhism | calm | flower | Hinduism | lotus | peace | purity | serenity"
+      ],
+      "ru": [
+        "лотос",
+        "буддизм | индуизм | красота | лотос | медитация | спокойствие | умиротворение | цветок | чистота"
+      ],
+      "pl": [
+        "lotos",
+        "buddyzm | czystość | hinduizm | kwiat | lotos | lotosu | piękno | spokój"
+      ],
+      "fr": [
+        "lotus",
+        "beauté | bouddhisme | calme | fleur | hindouisme | lotus | pureté | sérénité"
+      ],
+      "de": [
+        "Lotusblüte",
+        "Blume | Buddhismus | Erleuchtung | Gleichmut | Hinduismus | Liebe | Lotosblume | Lotusblüte | Pflanze | Reinheit | Ruhe | Schönheit"
+      ],
+      "es": ["loto", "budismo | flor | hinduismo | loto | pureza"],
+      "pt": [
+        "lótus",
+        "beleza | budismo | calma | flor | flor de lótus | hinduísmo | Índia | lótus | paz | pureza | serenidade | Vietnã"
+      ],
+      "it": [
+        "loto",
+        "bellezza | buddhismo | fior di loto | fiore | India | induismo | loto | purezza | serenità | Vietnam | yoga"
+      ],
+      "ro": [
+        "lotus",
+        "budism | floare | hinduism | India | lotus | nufăr | puritate | Vietnam"
+      ],
+      "he": ["לוטוס", "בודהיזם | הודו | הינדואיזם | לוטוס | פרח | שלווה"],
+      "ar": [
+        "لوتس",
+        "البوذية | الهند | الهندوسية | جمال | زهرة | سكون | صفاء | فيتنام | لوتس | هدوء"
+      ],
+      "tr": [
+        "nilüfer",
+        "bitki | Budizm | çiçek | Hinduizm | huzur | lotus | namaste | nilüfer | saflık | sakin | yoga"
+      ],
+      "vi": [
+        "hoa sen",
+        "Ấn Độ | Ấn Độ giáo | hoa | hoa sen | Phật giáo | sự tinh khiết | Việt Nam"
+      ],
+      "nl": [
+        "lotus",
+        "bloem | Boeddhisme | Hindoeïsme | lotus | puurheid | rust | schoonheid | sereen | vrede"
+      ]
+    }
+  ],
+  "🪸": [
+    "other",
+    "coral",
+    {
+      "en": ["coral", "change | climate | coral | ocean | reef | sea"],
+      "ru": [
+        "коралл",
+        "изменение климата | коралл | море | океан | природа | риф"
+      ],
+      "pl": ["koralowiec", "koralowa | koralowiec | ocean | rafa"],
+      "fr": ["corail", "corail | océan | réchauffement climatique | récif"],
+      "de": [
+        "Koralle",
+        "Great Barrier Reef | Klimawandel | Koralle | Korallenriff | Meer | Ozean | Riff | Tier"
+      ],
+      "es": ["coral", "arrecife | coral | océano"],
+      "pt": ["coral", "coral | mar | mudança climática | oceano | recife"],
+      "it": [
+        "corallo",
+        "barriera | barriera corallina | cambiamento climatico | corallo | mare | oceano"
+      ],
+      "ro": ["coral", "coral | ocean | recif"],
+      "he": ["אלמוג", "אוקיינוס | אלמוג | ים | שונית אלמוגים | שינוי אקלים"],
+      "ar": ["مرجان", "المحيط | بحر | تغير المناخ | شعب مرجانية | مرجان"],
+      "tr": [
+        "mercan",
+        "canlı | dalış | deniz | doğa | hayvan | iklim değişikliği | mercan | okyanus | resif | su altı"
+      ],
+      "vi": ["san hô", "đại dương | rặng | san hô"],
+      "nl": ["koraal", "klimaat | koraal | oceaan | rif | verandering | zee"]
+    }
+  ],
+  "🪹": [
+    "other",
+    "empty nest",
+    {
+      "en": ["empty nest", "branch | empty | home | nest | nesting"],
+      "ru": [
+        "пустое гнездо",
+        "гнездо | гнездование | домой | природа | птицы | пусто | пустое гнездо"
+      ],
+      "pl": [
+        "puste gniazdo",
+        "gniazdo | gniazdowanie | gnieżdżenie | ptasie | puste"
+      ],
+      "fr": ["nid vide", "branches | faire son nid | maison | nid | nid vide"],
+      "de": [
+        "leeres Nest",
+        "Heim | leeres Nest | Nest | Nestbau | nisten | Vogelnest | Zuhause"
+      ],
+      "es": ["nido vacío", "anidación | anidamiento | anidar | nido vacío"],
+      "pt": [
+        "ninho vazio",
+        "aninhando | galhos | lar | ninho | ninho vazio | passarinho | pássaro"
+      ],
+      "it": ["nido vuoto", "nidificazione | nido | nido vuoto"],
+      "ro": ["cuib gol", "cuib gol | cuibărire"],
+      "he": ["קן ריק", "בית | בית ריק | ציפורים | קינון | קן | קן ריק"],
+      "ar": ["عش فارغ", "بيت | تعشيش | طائر | عش فارغ | فرع شجرة"],
+      "tr": ["boş yuva", "boş yuva | dal | doğa | ev | kuş | yuva"],
+      "vi": ["tổ trống rỗng", "làm tổ | tổ trống rỗng"],
+      "nl": ["leeg nest", "leeg | nest | nestelen | tak | thuis"]
+    }
+  ],
+  "🪺": [
+    "other",
+    "nest with eggs",
+    {
+      "en": ["nest with eggs", "bird | branch | egg | eggs | nest | nesting"],
+      "ru": [
+        "гнездо с яйцами",
+        "гнездо | гнездо с яйцами | гнездование | кладка яиц | природа | птицы | яйца"
+      ],
+      "pl": [
+        "gniazdo z jajkami",
+        "gniazdo | gniazdowanie | gnieżdżenie | jajka | ptasie | z jajkami | zniesione jaja"
+      ],
+      "fr": [
+        "nid avec œufs",
+        "branches | faire son nid | nid | nid avec œufs | oiseau"
+      ],
+      "de": [
+        "Nest mit Eiern",
+        "Heim | Nest | Nest mit blauen Eiern | Nest mit Eiern | Nestbau | nisten | Vogelnest | Zuhause"
+      ],
+      "es": [
+        "nido con huevos",
+        "anidación | anidamiento | anidar | nido con huevos"
+      ],
+      "pt": [
+        "ninho com ovos",
+        "aninhando | galhos | lar | ninho | ninho com ovos | ovo | ovos | passarinho | pássaro"
+      ],
+      "it": [
+        "nido con uova",
+        "nidificazione | nido | nido con uova | nido di uccelli | uccelli | uova"
+      ],
+      "ro": ["cuib cu ouă", "cuib | cuib cu ouă | cuibăreală | cuibărit"],
+      "he": [
+        "קן עם ביצים",
+        "ביצים | גוזלים | ציפורים | קינון | קן לציפור | קן עם ביצים"
+      ],
+      "ar": ["عش به بيض", "بيض | تعشيش | حمام | طائر | عش به بيض | عصفور"],
+      "tr": [
+        "yumurta bulunan yuva",
+        "dal | doğa | hayvan | huzur | kuş | kuş yuvası | yavru kuş | yumurta | yumurta bulunan yuva | yuva"
+      ],
+      "vi": ["tổ có trứng", "làm tổ | tổ có trứng"],
+      "nl": ["nest met eieren", "ei | eieren | nest | nestelen | tak | vogel"]
+    }
+  ],
+  "🪻": [
+    "other",
+    "hyacinth",
+    {
+      "en": [
+        "hyacinth",
+        "bloom | bluebonnet | flower | hyacinth | indigo | lavender | lilac | lupine | plant | purple | shrub | snapdragon | spring | violet"
+      ],
+      "ru": ["гиацинт", "лаванда | львиный зев | люпин | цветок"],
+      "pl": [
+        "hiacynt",
+        "bławatek | chaber | fioletowy | hiacynt | indygo | krzew | kwiat | kwitnienie | lawenda | lilak | łubin | lwia paszcza | purpurowy | wiosna"
+      ],
+      "fr": [
+        "jacinthe",
+        "fleur | fleurir | indigo | jacinthe | lavande | lilas | lupin | mauve | muflier | plante | printemps | violet"
+      ],
+      "de": [
+        "Hyazinthe",
+        "blaue Wiesenlupine | blühen | Blume | Blüte | Frühling | Hyazinthe | Lavendel | lila | Löwenmaul | Lupine | Pflanze | violett"
+      ],
+      "es": [
+        "campanilla",
+        "boca de dragón | campanilla | flor | jacinto | lavanda | lila | lupino"
+      ],
+      "pt": [
+        "jacinto",
+        "arbusto | bluebonnet | flor | flor-crânio-do-dragão | jacinto | lavanda | lilás | lupinus | planta | primavera | roxo | violeta"
+      ],
+      "it": [
+        "giacinto",
+        "bocca di leone | fiore | giacinto | lavanda | lupino | primavera"
+      ],
+      "ro": [
+        "zambilă",
+        "floare | gura leului | hyacinthus | iacint | lavandă | lila | lupin | primăvară | violet | zambilă"
+      ],
+      "he": [
+        "יקינתון",
+        "זר פרחים | לבנדר | סגול | עמוד | פרח | פריחה | צמח | שיח | תפרחת"
+      ],
+      "ar": [
+        "زهرة الياقوتية",
+        "أرجواني | أزرق نيلي | إزهار | القلنسوة الزرقاء | بنفسجي فاتح | ترمس | تفتح | خزامة | خزامى | ربيع | زهرة | زهرة الخطم | زهرة الياقوتية | شجيرة | لافندر | ليلك | مكحّلة | نبات | نبات النيلة"
+      ],
+      "tr": [
+        "sümbül",
+        "acı bakla | aslanağzı | bahar | bitki | çiçek | doğa | eflatun | lavanta | lila | lupin | mor | sümbül"
+      ],
+      "vi": [
+        "lục bình",
+        "bluebonnet | bụi hoa | cây | đậu lupin | hoa | hoa dạ lan hương | hoa len mũ xanh | hoa mõm sói | hoa oải hương | hoa tiên ông | hoa tử đinh hương | lục bình | màu chàm | mùa xuân | oải hương | tím"
+      ],
+      "nl": [
+        "hyacint",
+        "bloem | hyacint | lavendel | leeuwenbek | lupine | vlinderbloemige"
+      ]
+    }
+  ],
+  "🪼": [
+    "other",
+    "jellyfish",
+    {
+      "en": [
+        "jellyfish",
+        "animal | aquarium | burn | invertebrate | jelly | jellyfish | life | marine | ocean | ouch | plankton | sea | sting | stinger | tentacles"
+      ],
+      "ru": ["медуза", "беспозвоночное | морское | ожог | ой | ужалить"],
+      "pl": [
+        "meduza",
+        "akwarium | bezkręgowiec | galareta | macki | meduza | morski | morskie | morze | ocean | parzyć | plankton | zwierzę"
+      ],
+      "fr": [
+        "méduse",
+        "aïe | animal | aquarium | brûlure | gélatineux | invertébré | marin | méduse | mer | mou | océan | piqûre | plancton | tentacules | vie marine"
+      ],
+      "de": [
+        "Qualle",
+        "autsch | brennen | Gallert | Glibber | Meer | Meeresbewohner | Meerestier | Nesseltier | Ozean | Qualle | Tentakeln"
+      ],
+      "es": ["medusa", "invertebrado | marino | medusa | picadura | picar"],
+      "pt": [
+        "água-viva",
+        "água-viva | ai | animal | aquário | ferrão | invertebrado | mar | marinha | medusa | oceano | queimadura | tentáculos"
+      ],
+      "it": [
+        "medusa",
+        "animale | bruciatura | dolore | invertebrato | mare | medusa | puntura | trasparente | urticante"
+      ],
+      "ro": [
+        "meduză",
+        "au | gelatină | înțepătură | marină | meduză | nevertebrată | urzicătură"
+      ],
+      "he": [
+        "מדוזה",
+        "אאוץ׳ | אוקיאנוס | אקווריום | בעל חיים | ג׳לי | ים | כוויה | מדוזה | עקיצה"
+      ],
+      "ar": [
+        "قنديل بحر",
+        "ألم | بحر | بحري | حوض سمك | حياة بحرية | حيوان | سمكة هلامية | عوالق | قنديل بحر | لافقري | لدغة | لسعة | لوامس | هلامي"
+      ],
+      "tr": [
+        "denizanası",
+        "ahh | akvaryum | çarpma | deniz | denizanası | dokunaç | hayvan | iğne | medüz | okyanus | omurgasız | plankton | sokma | yanma"
+      ],
+      "vi": [
+        "sứa",
+        "biển | bỏng | chích | động vật | không xương sống | ối | sinh vật biển | sinh vật phù du | sứa | thủy sinh | xúc tu"
+      ],
+      "nl": [
+        "kwal",
+        "aquarium | au | beet | branden | dier | gelei | kwal | leven | oceaan | ongewerveld | plankton | stekel | tentakels | zee"
+      ]
+    }
+  ],
+  "🪽": [
+    "other",
+    "wing",
+    {
+      "en": [
+        "wing",
+        "angelic | ascend | aviation | bird | fly | flying | heavenly | mythology | soar | wing"
+      ],
+      "ru": [
+        "крыло",
+        "авиация | ангельский | летать | мифология | полет | птица"
+      ],
+      "pl": [
+        "skrzydło",
+        "anielskie | latający | latanie | lotnictwo | mitologia | niebiańskie | ptak | skrzydło | wznosić się"
+      ],
+      "fr": [
+        "aile",
+        "aile | angélique | aviation | céleste | mythologie | oiseau | s’élever | s’envoler | voler"
+      ],
+      "de": [
+        "Flügel",
+        "Engel | Engelsflügel | Federn | fliegen | Flug | Flügel | himmlisch | Mythologie | Vogel"
+      ],
+      "es": [
+        "ala",
+        "ala | ángel | angelical | ave | mitología | pájaro | volar"
+      ],
+      "pt": [
+        "asa",
+        "angelical | anjo | asa | ascender | aviação | celestial | mitologia | pássaro | voando | voar | voar alto"
+      ],
+      "it": ["ala", "ala | angelo | aviazione | mitologia | uccello | volare"],
+      "ro": ["aripă", "angelic | aripă | aviație | mitologie | pasăre | zbor"],
+      "he": [
+        "כנף",
+        "טיסה | כנף | כנפיים | מיתולוגיה | מלאכים | עופות | ציפורים | תעופה"
+      ],
+      "ar": [
+        "جناح",
+        "أساطير | بريء | جناح | سماوي | طائر | طيران | عصفور | ملائكي | ملاك | يحلق | يصعد"
+      ],
+      "tr": [
+        "kanat",
+        "cennet | havacılık | kanat | kuş | kutsal | melek | melek gibi | mitoloji | semavi | uçma | uçuş"
+      ],
+      "vi": [
+        "cánh",
+        "bay | bay lên | cánh | chim | hàng không | thần thoại | thiên đường | thiên thần"
+      ],
+      "nl": [
+        "vleugel",
+        "engelachtig | luchtvaart | mythologie | vleugel | vliegen | vogel"
+      ]
+    }
+  ],
+  "🪾": [
+    "other",
+    "leafless tree",
+    {
+      "en": [
+        "leafless tree",
+        "bare | barren | branches | dead | drought | leafless | tree | trunk | winter | wood"
+      ],
+      "ru": [
+        "дерево без листвы",
+        "дерево без листвы | дерево без листьев | засуха | зима"
+      ],
+      "pl": ["drzewo bez liści", "bez liści | drzewo | susza | zima"],
+      "fr": [
+        "arbre sans feuille",
+        "arbre sans feuille | aride | hiver | sécheresse"
+      ],
+      "de": [
+        "kahler Baum",
+        "dürr | kahl | kahler Baum | karg | trocken | Winter"
+      ],
+      "es": [
+        "árbol sin hojas",
+        "árbol | deshojado | estéril | invierno | madera | muerto | ramas | sequía | sin hojas | tronco"
+      ],
+      "pt": ["árvore seca", "árvore seca | árvore sem folhas | inverno | seca"],
+      "it": ["albero spoglio", "inverno | senza foglie | siccità"],
+      "ro": [
+        "copac desfrunzit",
+        "arid | copac fără frunze | iarnă | nefertil | neroditor | secetă | sterp"
+      ],
+      "he": ["עץ בלי עלים", "בלי עלים | בצורת | חורף | עץ"],
+      "ar": ["شجرة بلا أوراق", "الشتاء | جرداء | جفاف | شجرة بلا أوراق"],
+      "tr": ["yapraksız ağaç", "çorak | kış | kurak | yapraksız ağaç"],
+      "vi": [
+        "cây trụi lá",
+        "cằn cỗi | cây | cây chết | gỗ | hạn hán | mùa đông | nhánh cây | thân cây | trần | trụi lá"
+      ],
+      "nl": [
+        "boom zonder bladeren",
+        "boom | boomstam | dood | droogte | hout | kaal | leeg | takken | winter | zonder bladeren"
+      ]
+    }
+  ],
+  "🪿": [
+    "other",
+    "goose",
+    {
+      "en": [
+        "goose",
+        "animal | bird | duck | flock | fowl | gaggle | gander | geese | goose | honk | ornithology | silly"
+      ],
+      "ru": [
+        "гусь",
+        "глупый | гогот | гоготать | гуси | гусь | дичь | птица | утка"
+      ],
+      "pl": [
+        "gęś",
+        "drób | gąsior | gęganie | gęś | gęsi | głuptas | kaczka | ptak | stado | zwierzę"
+      ],
+      "fr": [
+        "oie",
+        "animal | bête | cacarder | canard | jars | oie | oiseau | troupeau | volaille | volée"
+      ],
+      "de": [
+        "Gans",
+        "blöd | dumm | dumme Gans | Gans | Gänserich | Ganter | Geflügel | schnattern | Tier | Vogel"
+      ],
+      "es": ["oca", "ave | ganso | graznar | oca | pájaro"],
+      "pt": [
+        "ganso",
+        "animal | ave | bobo | ganso | gansos | grasno | marreco | pássaro | pato"
+      ],
+      "it": [
+        "oca",
+        "animale | oca | papera | pollame | starnazzare | stupidità | uccello"
+      ],
+      "ro": ["gâscă", "gâgâit | gânsac | gâscă | gâsculiță | pasăre | prostuț"],
+      "he": ["אווז", "אווז | טפשות | עוף | ציפור"],
+      "ar": [
+        "إوزّة",
+        "إوز | إوزّة | بطة | حيوان | ساذج | سرب | صياح | طائر | طير"
+      ],
+      "tr": [
+        "kaz",
+        "hayvan | kaz | kaz sesi | kümes | kümes hayvanı | kuş | ördek | paytak | şapşal | vak"
+      ],
+      "vi": [
+        "con ngỗng",
+        "cầm điểu | chim | con gà | con ngỗng | con vịt | đàn | đàn ngỗng | động vật | kêu | khờ dại | ngây ngô"
+      ],
+      "nl": ["gans", "gans | gevogelte | onnozel | snateren | vogel"]
+    }
+  ],
+  "🫀": [
+    "other",
+    "anatomical heart",
+    {
+      "en": [
+        "anatomical heart",
+        "anatomical | beat | cardiology | heart | heartbeat | organ | pulse | real | red"
+      ],
+      "ru": [
+        "сердце человека",
+        "анатомия | кардиология | красный | орган | пульс | сердце | сердцебиение | человеческое"
+      ],
+      "pl": [
+        "serce",
+        "anatomia | bicie serca | kardiologia | mięsień sercowy | narząd | organ | puls | serce"
+      ],
+      "fr": [
+        "cœur",
+        "anatomie | battement de coeur | battements | cardiologie | cœur | organe | pouls | pulsation"
+      ],
+      "de": [
+        "Herz (Organ)",
+        "Anatomie | Herz | Herzschlag | Körper | Körperteil | Mensch | Organ | Puls | schlagen"
+      ],
+      "es": [
+        "corazón humano",
+        "anatomía | cardiología | corazón | corazón humano | latido | órgano | pulso"
+      ],
+      "pt": [
+        "coração humano",
+        "anatomia | batimento | batimento cardíaco | cardiologia | centro | coração | coração humano | coração vermelho | órgão | pulsação | pulso | s2"
+      ],
+      "it": [
+        "organo del cuore",
+        "anatomia | battito | cardiologia | cuore | cuore vero | organo | organo del cuore | pulsazione | rosso"
+      ],
+      "ro": ["inimă", "anatomic | cardiologie | cord | inimă | organ | puls"],
+      "he": ["לב", "דופק | לב | מרכז | פעימות לב"],
+      "ar": [
+        "عضو القلب",
+        "إنسان | تشريح القلب | جسم | دقات | دقات القلب | طب القلب | طبيب قلب | عضو | عضو القلب | قلب حقيقي | مشاعر | نبض | وسط"
+      ],
+      "tr": [
+        "kalp",
+        "anatomi | kalp | kalp atışı | kan | kardiyoloji | kırmızı | merkez | nabız | organ"
+      ],
+      "vi": [
+        "cơ quan tim",
+        "cơ quan | cơ quan tim | giải phẫu | khoa tim mạch | màu đỏ | nhịp tim | trái tim | trái tim thật | trung tâm"
+      ],
+      "nl": [
+        "hart",
+        "anatomisch | cardiologie | echt | hart | hartslag | orgaan | polsslag | rood"
+      ]
+    }
+  ],
+  "🫁": [
+    "other",
+    "lungs",
+    {
+      "en": [
+        "lungs",
+        "breath | breathe | exhalation | inhalation | lung | lungs | organ | respiration"
+      ],
+      "ru": [
+        "легкие",
+        "вдох | выдох | дыхание | дышать | легкие | легкое | орган"
+      ],
+      "pl": [
+        "płuca",
+        "klatka piersiowa | narząd | oddech | oddychanie | organ | płuca | układ oddechowy | wdech | wydech"
+      ],
+      "fr": [
+        "poumons",
+        "anatomie | expiration | inspiration | organe | poumons | respiration | respirer | souffle"
+      ],
+      "de": [
+        "Lunge",
+        "Atem | atmen | ausatmen | einatmen | Körper | Körperteil | Lunge | Lungenflügel | Mensch | Organ"
+      ],
+      "es": [
+        "pulmones",
+        "exhalar | inhalar | órgano | pulmones | respiración | respirar"
+      ],
+      "pt": [
+        "pulmões",
+        "anatomia | espiração | exalação | inalação | órgão | pulmão | pulmões | respiração"
+      ],
+      "it": [
+        "polmoni",
+        "espirazione | inspirazione | organo | polmoni | respirazione | respiro"
+      ],
+      "ro": [
+        "plămâni",
+        "expirare | inhalare | inspirare | organ | plămâni | respirare | respirație"
+      ],
+      "he": ["ריאות", "מערכת הנשימה | נשימה | ריאה | ריאות"],
+      "ar": [
+        "رئتان",
+        "تنفّس | جسم | جهاز التنفس | رئتان | زفير | شهيق | عضو | هواء نقي"
+      ],
+      "tr": [
+        "akciğer",
+        "akciğer | beden | ciğerler | nefes | nefes almak | organ | soluk | solumak | solunum | vücut"
+      ],
+      "vi": [
+        "phổi",
+        "cơ quan | hít vào | hô hấp | hơi thở | phổi | thở | thở ra"
+      ],
+      "nl": [
+        "longen",
+        "adem | ademhaling | inademen | lichaam | longen | lucht | orgaan | uitademen | zuurstof"
+      ]
+    }
+  ],
+  "🫂": [
+    "other",
+    "people hugging",
+    {
+      "en": [
+        "people hugging",
+        "comfort | embrace | farewell | friendship | goodbye | hello | hug | hugging | love | people | thanks"
+      ],
+      "ru": [
+        "обнимающиеся люди",
+        "дружба | любовь | обнимашки | обнимающиеся люди | объятия | пока | привет | прощай | спасибо | успокоить"
+      ],
+      "pl": [
+        "obejmujące się osoby",
+        "cześć | do widzenia | dzięki | obejmujące się osoby | objęcia | osoby | pocieszenie | przyjaźń | przytulenie | uścisk | wsparcie"
+      ],
+      "fr": [
+        "étreinte",
+        "accolade | amitié | au revoir | bonjour | câlin | embrassades | étreinte | gratitude | merci | personne"
+      ],
+      "de": [
+        "sich umarmende Personen",
+        "Abschied | Danke | drücken | Drücker | Freundschaft | Hallo | Liebe | sich umarmende Personen | Tschüss | Umarmung"
+      ],
+      "es": [
+        "personas abrazándose",
+        "abrazo | adiós | despedida | gracias | personas abrazándose | saludo"
+      ],
+      "pt": [
+        "pessoas se abraçando",
+        "abraçando | abraço | adeus | amizade | amor | carinho | conforto | obrigado | olá | pessoas se abraçando"
+      ],
+      "it": [
+        "persone che si abbracciano",
+        "abbraccio | addio | amicizia | amore | ciao | confortare | consolare | grazie | persone | persone che si abbracciano"
+      ],
+      "ro": [
+        "persoane îmbrățișate",
+        "adio | îmbrățișare | iubire | la revedere | mulțumesc | persoană | persoane îmbrățișate | prietenie | salut"
+      ],
+      "he": [
+        "אנשים מתחבקים",
+        "אהבה | אנשים מתחבקים | חיבוק | ניחום | פרידה | תודה"
+      ],
+      "ar": [
+        "شخصان يتعانقان",
+        "احتواء | ترحيب | توديع | حب | حضن | دعم | شخصان يتعانقان | شكر | عناق"
+      ],
+      "tr": [
+        "kucaklaşan insanlar",
+        "aşk | elveda | güle güle | hoşçakal | hoşçakalın | insan | kucaklaşan insanlar | kucaklaşma | merhaba | sağol | sağolun | sarılma | selam | sevgi | teşekkür | teşekkürler | teselli | veda"
+      ],
+      "vi": [
+        "hai người ôm nhau",
+        "cảm ơn | hai người ôm nhau | ôm | tạm biệt | tình bạn | tình yêu | xin chào"
+      ],
+      "nl": [
+        "personen in een omhelzing",
+        "bedankt | dag | hallo | knuffel | knuffelen | liefde | omhelzing | personen in een omhelzing | persoon | vriendschap"
+      ]
+    }
+  ],
+  "🫃": [
+    "other",
+    "pregnant man",
+    {
+      "en": [
+        "pregnant man",
+        "belly | bloated | full | man | overeat | pregnant"
+      ],
+      "ru": [
+        "беременный мужчина",
+        "беременность | беременный | вздутие | животик | мужчина | переедание"
+      ],
+      "pl": [
+        "mężczyzna w ciąży",
+        "brzuch | ciąża | mężczyzna | najedzony | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "homme enceint",
+        "enceinte | grossesse | homme enceint | homme enceinte | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangerer Mann",
+        "aufgebläht | Bauch | dick | Person | schwanger | schwangerer Mann | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "hombre embarazado",
+        "barriga | embarazado | hinchado | hinchazón | hombre embarazado | inflado | lleno"
+      ],
+      "pt": [
+        "homem grávido",
+        "barriga | cheia | cheio | comi demais | excesso de peso | gravidez | grávido | homem | inchado | pessoa"
+      ],
+      "it": [
+        "uomo incinto",
+        "gonfio | gravido | incinto | pancia | pieno | troppo cibo | uomo"
+      ],
+      "ro": [
+        "bărbat însărcinat",
+        "balonat | bărbat însărcinat | burtă | gravid | însărcinat | umflat"
+      ],
+      "he": [
+        "איש עם בטן היריון",
+        "איש עם בטן היריון | בטן | גבר | היריון | כרס | נפוח | שמן"
+      ],
+      "ar": ["رجل حامل", "بطن | حامل | رجل حامل | ممتلئ | منتفخ"],
+      "tr": [
+        "hamile adam",
+        "gaz | göbek | göbekli | hamile | hamile adam | iki canlı | insan | karnı şiş | obur | şişmiş"
+      ],
+      "vi": [
+        "người đàn ông mang bầu",
+        "bụng bầu | căng phồng | có thai | người đàn ông mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwangere man",
+        "buik | man | opgeblazen | te veel eten | vol | zwanger"
+      ]
+    }
+  ],
+  "🫃🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant man: light skin tone",
+        "belly | bloated | full | light skin tone | man | overeat | pregnant"
+      ],
+      "ru": [
+        "беременный мужчина: очень светлый тон кожи",
+        "беременность | беременный | вздутие | животик | мужчина | очень светлый тон кожи | переедание"
+      ],
+      "pl": [
+        "mężczyzna w ciąży: karnacja jasna",
+        "brzuch | ciąża | karnacja jasna | mężczyzna | najedzony | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "homme enceint : peau claire",
+        "enceinte | grossesse | homme enceint | homme enceinte | peau claire | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangerer Mann: helle Hautfarbe",
+        "aufgebläht | Bauch | dick | helle Hautfarbe | Person | schwanger | schwangerer Mann | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "hombre embarazado: tono de piel claro",
+        "barriga | embarazado | hinchado | hinchazón | hombre embarazado | inflado | lleno | tono de piel claro"
+      ],
+      "pt": [
+        "homem grávido: pele clara",
+        "barriga | cheia | cheio | comi demais | excesso de peso | gravidez | grávido | homem | inchado | pele clara | pessoa"
+      ],
+      "it": [
+        "uomo incinto: carnagione chiara",
+        "carnagione chiara | gonfio | gravido | incinto | pancia | pieno | troppo cibo | uomo"
+      ],
+      "ro": [
+        "bărbat însărcinat: ton deschis al pielii",
+        "balonat | bărbat însărcinat | burtă | gravid | însărcinat | ton deschis al pielii | umflat"
+      ],
+      "he": [
+        "איש עם בטן היריון: גוון עור בהיר",
+        "איש עם בטן היריון | בטן | גבר | גוון עור בהיר | היריון | כרס | נפוח | שמן"
+      ],
+      "ar": [
+        "رجل حامل: بشرة بلون فاتح",
+        "بشرة بلون فاتح | بطن | حامل | رجل حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile adam: açık cilt tonu",
+        "açık cilt tonu | gaz | göbek | göbekli | hamile | hamile adam | iki canlı | insan | karnı şiş | obur | şişmiş"
+      ],
+      "vi": [
+        "người đàn ông mang bầu: màu da sáng",
+        "bụng bầu | căng phồng | có thai | màu da sáng | người đàn ông mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwangere man: lichte huidskleur",
+        "buik | lichte huidskleur | man | opgeblazen | te veel eten | vol | zwanger"
+      ]
+    }
+  ],
+  "🫃🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant man: medium-light skin tone",
+        "belly | bloated | full | man | medium-light skin tone | overeat | pregnant"
+      ],
+      "ru": [
+        "беременный мужчина: светлый тон кожи",
+        "беременность | беременный | вздутие | животик | мужчина | переедание | светлый тон кожи"
+      ],
+      "pl": [
+        "mężczyzna w ciąży: karnacja średnio jasna",
+        "brzuch | ciąża | karnacja średnio jasna | mężczyzna | najedzony | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "homme enceint : peau moyennement claire",
+        "enceinte | grossesse | homme enceint | homme enceinte | peau moyennement claire | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangerer Mann: mittelhelle Hautfarbe",
+        "aufgebläht | Bauch | dick | mittelhelle Hautfarbe | Person | schwanger | schwangerer Mann | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "hombre embarazado: tono de piel claro medio",
+        "barriga | embarazado | hinchado | hinchazón | hombre embarazado | inflado | lleno | tono de piel claro medio"
+      ],
+      "pt": [
+        "homem grávido: pele morena clara",
+        "barriga | cheia | cheio | comi demais | excesso de peso | gravidez | grávido | homem | inchado | pele morena clara | pessoa"
+      ],
+      "it": [
+        "uomo incinto: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | gonfio | gravido | incinto | pancia | pieno | troppo cibo | uomo"
+      ],
+      "ro": [
+        "bărbat însărcinat: ton semi‑deschis al pielii",
+        "balonat | bărbat însărcinat | burtă | gravid | însărcinat | ton semi‑deschis al pielii | umflat"
+      ],
+      "he": [
+        "איש עם בטן היריון: גוון עור בהיר בינוני",
+        "איש עם בטן היריון | בטן | גבר | גוון עור בהיר בינוני | היריון | כרס | נפוח | שמן"
+      ],
+      "ar": [
+        "رجل حامل: بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | بطن | حامل | رجل حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile adam: orta açık cilt tonu",
+        "gaz | göbek | göbekli | hamile | hamile adam | iki canlı | insan | karnı şiş | obur | orta açık cilt tonu | şişmiş"
+      ],
+      "vi": [
+        "người đàn ông mang bầu: màu da sáng trung bình",
+        "bụng bầu | căng phồng | có thai | màu da sáng trung bình | người đàn ông mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwangere man: lichtgetinte huidskleur",
+        "buik | lichtgetinte huidskleur | man | opgeblazen | te veel eten | vol | zwanger"
+      ]
+    }
+  ],
+  "🫃🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant man: medium skin tone",
+        "belly | bloated | full | man | medium skin tone | overeat | pregnant"
+      ],
+      "ru": [
+        "беременный мужчина: средний тон кожи",
+        "беременность | беременный | вздутие | животик | мужчина | переедание | средний тон кожи"
+      ],
+      "pl": [
+        "mężczyzna w ciąży: karnacja średnia",
+        "brzuch | ciąża | karnacja średnia | mężczyzna | najedzony | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "homme enceint : peau légèrement mate",
+        "enceinte | grossesse | homme enceint | homme enceinte | peau légèrement mate | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangerer Mann: mittlere Hautfarbe",
+        "aufgebläht | Bauch | dick | mittlere Hautfarbe | Person | schwanger | schwangerer Mann | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "hombre embarazado: tono de piel medio",
+        "barriga | embarazado | hinchado | hinchazón | hombre embarazado | inflado | lleno | tono de piel medio"
+      ],
+      "pt": [
+        "homem grávido: pele morena",
+        "barriga | cheia | cheio | comi demais | excesso de peso | gravidez | grávido | homem | inchado | pele morena | pessoa"
+      ],
+      "it": [
+        "uomo incinto: carnagione olivastra",
+        "carnagione olivastra | gonfio | gravido | incinto | pancia | pieno | troppo cibo | uomo"
+      ],
+      "ro": [
+        "bărbat însărcinat: ton mediu al pielii",
+        "balonat | bărbat însărcinat | burtă | gravid | însărcinat | ton mediu al pielii | umflat"
+      ],
+      "he": [
+        "איש עם בטן היריון: גוון עור בינוני",
+        "איש עם בטן היריון | בטן | גבר | גוון עור בינוני | היריון | כרס | נפוח | שמן"
+      ],
+      "ar": [
+        "رجل حامل: بشرة بلون معتدل",
+        "بشرة بلون معتدل | بطن | حامل | رجل حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile adam: orta cilt tonu",
+        "gaz | göbek | göbekli | hamile | hamile adam | iki canlı | insan | karnı şiş | obur | orta cilt tonu | şişmiş"
+      ],
+      "vi": [
+        "người đàn ông mang bầu: màu da trung bình",
+        "bụng bầu | căng phồng | có thai | màu da trung bình | người đàn ông mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwangere man: getinte huidskleur",
+        "buik | getinte huidskleur | man | opgeblazen | te veel eten | vol | zwanger"
+      ]
+    }
+  ],
+  "🫃🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant man: medium-dark skin tone",
+        "belly | bloated | full | man | medium-dark skin tone | overeat | pregnant"
+      ],
+      "ru": [
+        "беременный мужчина: темный тон кожи",
+        "беременность | беременный | вздутие | животик | мужчина | переедание | темный тон кожи"
+      ],
+      "pl": [
+        "mężczyzna w ciąży: karnacja średnio ciemna",
+        "brzuch | ciąża | karnacja średnio ciemna | mężczyzna | najedzony | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "homme enceint : peau mate",
+        "enceinte | grossesse | homme enceint | homme enceinte | peau mate | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangerer Mann: mitteldunkle Hautfarbe",
+        "aufgebläht | Bauch | dick | mitteldunkle Hautfarbe | Person | schwanger | schwangerer Mann | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "hombre embarazado: tono de piel oscuro medio",
+        "barriga | embarazado | hinchado | hinchazón | hombre embarazado | inflado | lleno | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "homem grávido: pele morena escura",
+        "barriga | cheia | cheio | comi demais | excesso de peso | gravidez | grávido | homem | inchado | pele morena escura | pessoa"
+      ],
+      "it": [
+        "uomo incinto: carnagione abbastanza scura",
+        "carnagione abbastanza scura | gonfio | gravido | incinto | pancia | pieno | troppo cibo | uomo"
+      ],
+      "ro": [
+        "bărbat însărcinat: ton semi‑închis al pielii",
+        "balonat | bărbat însărcinat | burtă | gravid | însărcinat | ton semi‑închis al pielii | umflat"
+      ],
+      "he": [
+        "איש עם בטן היריון: גוון עור כהה בינוני",
+        "איש עם בטן היריון | בטן | גבר | גוון עור כהה בינוני | היריון | כרס | נפוח | שמן"
+      ],
+      "ar": [
+        "رجل حامل: بشرة بلون معتدل مائل للغامق",
+        "بشرة بلون معتدل مائل للغامق | بطن | حامل | رجل حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile adam: orta koyu cilt tonu",
+        "gaz | göbek | göbekli | hamile | hamile adam | iki canlı | insan | karnı şiş | obur | orta koyu cilt tonu | şişmiş"
+      ],
+      "vi": [
+        "người đàn ông mang bầu: màu da tối trung bình",
+        "bụng bầu | căng phồng | có thai | màu da tối trung bình | người đàn ông mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwangere man: donkergetinte huidskleur",
+        "buik | donkergetinte huidskleur | man | opgeblazen | te veel eten | vol | zwanger"
+      ]
+    }
+  ],
+  "🫃🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant man: dark skin tone",
+        "belly | bloated | dark skin tone | full | man | overeat | pregnant"
+      ],
+      "ru": [
+        "беременный мужчина: очень темный тон кожи",
+        "беременность | беременный | вздутие | животик | мужчина | очень темный тон кожи | переедание"
+      ],
+      "pl": [
+        "mężczyzna w ciąży: karnacja ciemna",
+        "brzuch | ciąża | karnacja ciemna | mężczyzna | najedzony | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "homme enceint : peau foncée",
+        "enceinte | grossesse | homme enceint | homme enceinte | peau foncée | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangerer Mann: dunkle Hautfarbe",
+        "aufgebläht | Bauch | dick | dunkle Hautfarbe | Person | schwanger | schwangerer Mann | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "hombre embarazado: tono de piel oscuro",
+        "barriga | embarazado | hinchado | hinchazón | hombre embarazado | inflado | lleno | tono de piel oscuro"
+      ],
+      "pt": [
+        "homem grávido: pele escura",
+        "barriga | cheia | cheio | comi demais | excesso de peso | gravidez | grávido | homem | inchado | pele escura | pessoa"
+      ],
+      "it": [
+        "uomo incinto: carnagione scura",
+        "carnagione scura | gonfio | gravido | incinto | pancia | pieno | troppo cibo | uomo"
+      ],
+      "ro": [
+        "bărbat însărcinat: ton închis al pielii",
+        "balonat | bărbat însărcinat | burtă | gravid | însărcinat | ton închis al pielii | umflat"
+      ],
+      "he": [
+        "איש עם בטן היריון: גוון עור כהה",
+        "איש עם בטן היריון | בטן | גבר | גוון עור כהה | היריון | כרס | נפוח | שמן"
+      ],
+      "ar": [
+        "رجل حامل: بشرة بلون غامق",
+        "بشرة بلون غامق | بطن | حامل | رجل حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile adam: koyu cilt tonu",
+        "gaz | göbek | göbekli | hamile | hamile adam | iki canlı | insan | karnı şiş | koyu cilt tonu | obur | şişmiş"
+      ],
+      "vi": [
+        "người đàn ông mang bầu: màu da tối",
+        "bụng bầu | căng phồng | có thai | màu da tối | người đàn ông mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwangere man: donkere huidskleur",
+        "buik | donkere huidskleur | man | opgeblazen | te veel eten | vol | zwanger"
+      ]
+    }
+  ],
+  "🫄": [
+    "other",
+    "pregnant person",
+    {
+      "en": [
+        "pregnant person",
+        "belly | bloated | full | overeat | person | pregnant | stuffed"
+      ],
+      "ru": [
+        "беременный человек",
+        "беременная | беременность | беременный | вздутие | животик | переедание | человек"
+      ],
+      "pl": [
+        "osoba w ciąży",
+        "brzuch | ciąża | najedzona | osoba | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "personne enceinte",
+        "enceinte | grossesse | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangere Person",
+        "aufgebläht | Bauch | dick | dicker Bauch | Person | schwanger | schwangere Person | Schwangerschaft | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "persona embarazada",
+        "barriga | embarazo | gestación | hinchazón | persona embarazada"
+      ],
+      "pt": [
+        "pessoa grávida",
+        "barriga | cheia | cheio | comi demais | excesso | excesso de peso | grávida | gravidez | inchada | pessoa"
+      ],
+      "it": [
+        "persona incinta",
+        "gonfio | gravido | incinta | incinto | pancia | persona incinta | pieno | troppo cibo"
+      ],
+      "ro": [
+        "persoană însărcinată",
+        "balonat | balonată | burtă | gravidă | însărcinat | persoană însărcinată | umflat | umflată"
+      ],
+      "he": [
+        "בהריון",
+        "אישה בהיריון | בהריון | בטן | היריון | הריון | כרס | נפוח | נפוחה | שמן"
+      ],
+      "ar": ["شخص حامل", "بطن | حامل | شخص حامل | ممتلئ | منتفخ"],
+      "tr": [
+        "hamile kişi",
+        "çok yemek | gaz | göbek | göbekli | hamile | hamile kişi | iki canlı | insan | karnı şiş | obur | şişmiş"
+      ],
+      "vi": [
+        "người mang bầu",
+        "bụng bầu | căng phồng | có thai | người mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwanger persoon",
+        "baby | buik | opgeblazen | persoon | vol | zwanger"
+      ]
+    }
+  ],
+  "🫄🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant person: light skin tone",
+        "belly | bloated | full | light skin tone | overeat | person | pregnant | stuffed"
+      ],
+      "ru": [
+        "беременный человек: очень светлый тон кожи",
+        "беременная | беременность | беременный | вздутие | животик | очень светлый тон кожи | переедание | человек"
+      ],
+      "pl": [
+        "osoba w ciąży: karnacja jasna",
+        "brzuch | ciąża | karnacja jasna | najedzona | osoba | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "personne enceinte : peau claire",
+        "enceinte | grossesse | peau claire | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangere Person: helle Hautfarbe",
+        "aufgebläht | Bauch | dick | dicker Bauch | helle Hautfarbe | Person | schwanger | schwangere Person | Schwangerschaft | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "persona embarazada: tono de piel claro",
+        "barriga | embarazo | gestación | hinchazón | persona embarazada | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa grávida: pele clara",
+        "barriga | cheia | cheio | comi demais | excesso | excesso de peso | grávida | gravidez | inchada | pele clara | pessoa"
+      ],
+      "it": [
+        "persona incinta: carnagione chiara",
+        "carnagione chiara | gonfio | gravido | incinta | incinto | pancia | persona incinta | pieno | troppo cibo"
+      ],
+      "ro": [
+        "persoană însărcinată: ton deschis al pielii",
+        "balonat | balonată | burtă | gravidă | însărcinat | persoană însărcinată | ton deschis al pielii | umflat | umflată"
+      ],
+      "he": [
+        "בהריון: גוון עור בהיר",
+        "אישה בהיריון | בהריון | בטן | גוון עור בהיר | היריון | הריון | כרס | נפוח | נפוחה | שמן"
+      ],
+      "ar": [
+        "شخص حامل: بشرة بلون فاتح",
+        "بشرة بلون فاتح | بطن | حامل | شخص حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile kişi: açık cilt tonu",
+        "açık cilt tonu | çok yemek | gaz | göbek | göbekli | hamile | hamile kişi | iki canlı | insan | karnı şiş | obur | şişmiş"
+      ],
+      "vi": [
+        "người mang bầu: màu da sáng",
+        "bụng bầu | căng phồng | có thai | màu da sáng | người mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwanger persoon: lichte huidskleur",
+        "baby | buik | lichte huidskleur | opgeblazen | persoon | vol | zwanger"
+      ]
+    }
+  ],
+  "🫄🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant person: medium-light skin tone",
+        "belly | bloated | full | medium-light skin tone | overeat | person | pregnant | stuffed"
+      ],
+      "ru": [
+        "беременный человек: светлый тон кожи",
+        "беременная | беременность | беременный | вздутие | животик | переедание | светлый тон кожи | человек"
+      ],
+      "pl": [
+        "osoba w ciąży: karnacja średnio jasna",
+        "brzuch | ciąża | karnacja średnio jasna | najedzona | osoba | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "personne enceinte : peau moyennement claire",
+        "enceinte | grossesse | peau moyennement claire | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangere Person: mittelhelle Hautfarbe",
+        "aufgebläht | Bauch | dick | dicker Bauch | mittelhelle Hautfarbe | Person | schwanger | schwangere Person | Schwangerschaft | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "persona embarazada: tono de piel claro medio",
+        "barriga | embarazo | gestación | hinchazón | persona embarazada | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoa grávida: pele morena clara",
+        "barriga | cheia | cheio | comi demais | excesso | excesso de peso | grávida | gravidez | inchada | pele morena clara | pessoa"
+      ],
+      "it": [
+        "persona incinta: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | gonfio | gravido | incinta | incinto | pancia | persona incinta | pieno | troppo cibo"
+      ],
+      "ro": [
+        "persoană însărcinată: ton semi‑deschis al pielii",
+        "balonat | balonată | burtă | gravidă | însărcinat | persoană însărcinată | ton semi‑deschis al pielii | umflat | umflată"
+      ],
+      "he": [
+        "בהריון: גוון עור בהיר בינוני",
+        "אישה בהיריון | בהריון | בטן | גוון עור בהיר בינוני | היריון | הריון | כרס | נפוח | נפוחה | שמן"
+      ],
+      "ar": [
+        "شخص حامل: بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | بطن | حامل | شخص حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile kişi: orta açık cilt tonu",
+        "çok yemek | gaz | göbek | göbekli | hamile | hamile kişi | iki canlı | insan | karnı şiş | obur | orta açık cilt tonu | şişmiş"
+      ],
+      "vi": [
+        "người mang bầu: màu da sáng trung bình",
+        "bụng bầu | căng phồng | có thai | màu da sáng trung bình | người mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwanger persoon: lichtgetinte huidskleur",
+        "baby | buik | lichtgetinte huidskleur | opgeblazen | persoon | vol | zwanger"
+      ]
+    }
+  ],
+  "🫄🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant person: medium skin tone",
+        "belly | bloated | full | medium skin tone | overeat | person | pregnant | stuffed"
+      ],
+      "ru": [
+        "беременный человек: средний тон кожи",
+        "беременная | беременность | беременный | вздутие | животик | переедание | средний тон кожи | человек"
+      ],
+      "pl": [
+        "osoba w ciąży: karnacja średnia",
+        "brzuch | ciąża | karnacja średnia | najedzona | osoba | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "personne enceinte : peau légèrement mate",
+        "enceinte | grossesse | peau légèrement mate | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangere Person: mittlere Hautfarbe",
+        "aufgebläht | Bauch | dick | dicker Bauch | mittlere Hautfarbe | Person | schwanger | schwangere Person | Schwangerschaft | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "persona embarazada: tono de piel medio",
+        "barriga | embarazo | gestación | hinchazón | persona embarazada | tono de piel medio"
+      ],
+      "pt": [
+        "pessoa grávida: pele morena",
+        "barriga | cheia | cheio | comi demais | excesso | excesso de peso | grávida | gravidez | inchada | pele morena | pessoa"
+      ],
+      "it": [
+        "persona incinta: carnagione olivastra",
+        "carnagione olivastra | gonfio | gravido | incinta | incinto | pancia | persona incinta | pieno | troppo cibo"
+      ],
+      "ro": [
+        "persoană însărcinată: ton mediu al pielii",
+        "balonat | balonată | burtă | gravidă | însărcinat | persoană însărcinată | ton mediu al pielii | umflat | umflată"
+      ],
+      "he": [
+        "בהריון: גוון עור בינוני",
+        "אישה בהיריון | בהריון | בטן | גוון עור בינוני | היריון | הריון | כרס | נפוח | נפוחה | שמן"
+      ],
+      "ar": [
+        "شخص حامل: بشرة بلون معتدل",
+        "بشرة بلون معتدل | بطن | حامل | شخص حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile kişi: orta cilt tonu",
+        "çok yemek | gaz | göbek | göbekli | hamile | hamile kişi | iki canlı | insan | karnı şiş | obur | orta cilt tonu | şişmiş"
+      ],
+      "vi": [
+        "người mang bầu: màu da trung bình",
+        "bụng bầu | căng phồng | có thai | màu da trung bình | người mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwanger persoon: getinte huidskleur",
+        "baby | buik | getinte huidskleur | opgeblazen | persoon | vol | zwanger"
+      ]
+    }
+  ],
+  "🫄🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant person: medium-dark skin tone",
+        "belly | bloated | full | medium-dark skin tone | overeat | person | pregnant | stuffed"
+      ],
+      "ru": [
+        "беременный человек: темный тон кожи",
+        "беременная | беременность | беременный | вздутие | животик | переедание | темный тон кожи | человек"
+      ],
+      "pl": [
+        "osoba w ciąży: karnacja średnio ciemna",
+        "brzuch | ciąża | karnacja średnio ciemna | najedzona | osoba | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "personne enceinte : peau mate",
+        "enceinte | grossesse | peau mate | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangere Person: mitteldunkle Hautfarbe",
+        "aufgebläht | Bauch | dick | dicker Bauch | mitteldunkle Hautfarbe | Person | schwanger | schwangere Person | Schwangerschaft | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "persona embarazada: tono de piel oscuro medio",
+        "barriga | embarazo | gestación | hinchazón | persona embarazada | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "pessoa grávida: pele morena escura",
+        "barriga | cheia | cheio | comi demais | excesso | excesso de peso | grávida | gravidez | inchada | pele morena escura | pessoa"
+      ],
+      "it": [
+        "persona incinta: carnagione abbastanza scura",
+        "carnagione abbastanza scura | gonfio | gravido | incinta | incinto | pancia | persona incinta | pieno | troppo cibo"
+      ],
+      "ro": [
+        "persoană însărcinată: ton semi‑închis al pielii",
+        "balonat | balonată | burtă | gravidă | însărcinat | persoană însărcinată | ton semi‑închis al pielii | umflat | umflată"
+      ],
+      "he": [
+        "בהריון: גוון עור כהה בינוני",
+        "אישה בהיריון | בהריון | בטן | גוון עור כהה בינוני | היריון | הריון | כרס | נפוח | נפוחה | שמן"
+      ],
+      "ar": [
+        "شخص حامل: بشرة بلون معتدل مائل للغامق",
+        "بشرة بلون معتدل مائل للغامق | بطن | حامل | شخص حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile kişi: orta koyu cilt tonu",
+        "çok yemek | gaz | göbek | göbekli | hamile | hamile kişi | iki canlı | insan | karnı şiş | obur | orta koyu cilt tonu | şişmiş"
+      ],
+      "vi": [
+        "người mang bầu: màu da tối trung bình",
+        "bụng bầu | căng phồng | có thai | màu da tối trung bình | người mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwanger persoon: donkergetinte huidskleur",
+        "baby | buik | donkergetinte huidskleur | opgeblazen | persoon | vol | zwanger"
+      ]
+    }
+  ],
+  "🫄🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant person: dark skin tone",
+        "belly | bloated | dark skin tone | full | overeat | person | pregnant | stuffed"
+      ],
+      "ru": [
+        "беременный человек: очень темный тон кожи",
+        "беременная | беременность | беременный | вздутие | животик | очень темный тон кожи | переедание | человек"
+      ],
+      "pl": [
+        "osoba w ciąży: karnacja ciemna",
+        "brzuch | ciąża | karnacja ciemna | najedzona | osoba | pełny | przejedzenie | w ciąży | wzdęty"
+      ],
+      "fr": [
+        "personne enceinte : peau foncée",
+        "enceinte | grossesse | peau foncée | personne enceinte | trop mangé | ventre"
+      ],
+      "de": [
+        "schwangere Person: dunkle Hautfarbe",
+        "aufgebläht | Bauch | dick | dicker Bauch | dunkle Hautfarbe | Person | schwanger | schwangere Person | Schwangerschaft | überfressen | zu viel gegessen"
+      ],
+      "es": [
+        "persona embarazada: tono de piel oscuro",
+        "barriga | embarazo | gestación | hinchazón | persona embarazada | tono de piel oscuro"
+      ],
+      "pt": [
+        "pessoa grávida: pele escura",
+        "barriga | cheia | cheio | comi demais | excesso | excesso de peso | grávida | gravidez | inchada | pele escura | pessoa"
+      ],
+      "it": [
+        "persona incinta: carnagione scura",
+        "carnagione scura | gonfio | gravido | incinta | incinto | pancia | persona incinta | pieno | troppo cibo"
+      ],
+      "ro": [
+        "persoană însărcinată: ton închis al pielii",
+        "balonat | balonată | burtă | gravidă | însărcinat | persoană însărcinată | ton închis al pielii | umflat | umflată"
+      ],
+      "he": [
+        "בהריון: גוון עור כהה",
+        "אישה בהיריון | בהריון | בטן | גוון עור כהה | היריון | הריון | כרס | נפוח | נפוחה | שמן"
+      ],
+      "ar": [
+        "شخص حامل: بشرة بلون غامق",
+        "بشرة بلون غامق | بطن | حامل | شخص حامل | ممتلئ | منتفخ"
+      ],
+      "tr": [
+        "hamile kişi: koyu cilt tonu",
+        "çok yemek | gaz | göbek | göbekli | hamile | hamile kişi | iki canlı | insan | karnı şiş | koyu cilt tonu | obur | şişmiş"
+      ],
+      "vi": [
+        "người mang bầu: màu da tối",
+        "bụng bầu | căng phồng | có thai | màu da tối | người mang bầu | no đủ"
+      ],
+      "nl": [
+        "zwanger persoon: donkere huidskleur",
+        "baby | buik | donkere huidskleur | opgeblazen | persoon | vol | zwanger"
+      ]
+    }
+  ],
+  "🫅": [
+    "other",
+    "person with crown",
+    {
+      "en": [
+        "person with crown",
+        "crown | monarch | noble | person | regal | royal | royalty"
+      ],
+      "ru": [
+        "человек с короной",
+        "владыка | власть | князь | король | монарх | правитель | престол | царь"
+      ],
+      "pl": [
+        "osoba w koronie",
+        "korona | król | królewski | monarcha | osoba w koronie | szlachta"
+      ],
+      "fr": [
+        "personne avec une couronne",
+        "monarque | noble | personne avec une couronne | royal | royauté"
+      ],
+      "de": [
+        "Person mit Krone",
+        "adelig | König | Königin | königlich | königliche Hoheit | Krönung | Monarch | Monarchin | Person | Person mit Krone | Prinz | Prinzessin"
+      ],
+      "es": [
+        "persona con corona",
+        "majestad | monarca | monarquía | noble | persona con corona | real | realeza"
+      ],
+      "pt": [
+        "pessoa com coroa",
+        "coroa | monarca | nobre | pessoa | pessoa com coroa | princesa | príncipe | rainha | real | realeza | rei | reino"
+      ],
+      "it": [
+        "persona con corona",
+        "monarca | nobile | persona con corona | re | reale | regale | regina"
+      ],
+      "ro": [
+        "persoană cu coroană",
+        "monarh | monarhie | nobil | persoană cu coroană | regal | regalitate"
+      ],
+      "he": [
+        "פרצוף עם כתר",
+        "אציל | מלך | מלכה | מלכותי | נסיך | נסיכה | פרצוף עם כתר"
+      ],
+      "ar": [
+        "شخص يرتدي تاجاً",
+        "أسرة ملكية | تاج | شخص يرتدي تاجاً | شخص يرتدي تاجًا | عرش | ملك | ملكة"
+      ],
+      "tr": [
+        "taç takmış insan",
+        "asil | insan | kral | kraliçe | kraliyet | soylu | taç | taç takmış insan | taht"
+      ],
+      "vi": [
+        "người đội vương miện",
+        "cao quý | hoàng gia | người đội vương miện | quân vương | vương giả"
+      ],
+      "nl": [
+        "persoon met kroon",
+        "edele | heerser | iemand van koninklijken bloede | keizer | koning | koninklijk | persoon | persoon met kroon | regaal"
+      ]
+    }
+  ],
+  "🫅🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person with crown: light skin tone",
+        "crown | light skin tone | monarch | noble | person | regal | royal | royalty"
+      ],
+      "ru": [
+        "человек с короной: очень светлый тон кожи",
+        "владыка | власть | князь | король | монарх | очень светлый тон кожи | правитель | престол | царь"
+      ],
+      "pl": [
+        "osoba w koronie: karnacja jasna",
+        "karnacja jasna | korona | król | królewski | monarcha | osoba w koronie | szlachta"
+      ],
+      "fr": [
+        "personne avec une couronne : peau claire",
+        "monarque | noble | peau claire | personne avec une couronne | royal | royauté"
+      ],
+      "de": [
+        "Person mit Krone: helle Hautfarbe",
+        "adelig | helle Hautfarbe | König | Königin | königlich | königliche Hoheit | Krönung | Monarch | Monarchin | Person | Person mit Krone | Prinz | Prinzessin"
+      ],
+      "es": [
+        "persona con corona: tono de piel claro",
+        "majestad | monarca | monarquía | noble | persona con corona | real | realeza | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa com coroa: pele clara",
+        "coroa | monarca | nobre | pele clara | pessoa | pessoa com coroa | princesa | príncipe | rainha | real | realeza | rei | reino"
+      ],
+      "it": [
+        "persona con corona: carnagione chiara",
+        "carnagione chiara | monarca | nobile | persona con corona | re | reale | regale | regina"
+      ],
+      "ro": [
+        "persoană cu coroană: ton deschis al pielii",
+        "monarh | monarhie | nobil | persoană cu coroană | regal | regalitate | ton deschis al pielii"
+      ],
+      "he": [
+        "פרצוף עם כתר: גוון עור בהיר",
+        "אציל | גוון עור בהיר | מלך | מלכה | מלכותי | נסיך | נסיכה | פרצוף עם כתר"
+      ],
+      "ar": [
+        "شخص يرتدي تاجاً: بشرة بلون فاتح",
+        "أسرة ملكية | بشرة بلون فاتح | تاج | شخص يرتدي تاجاً | شخص يرتدي تاجًا | عرش | ملك | ملكة"
+      ],
+      "tr": [
+        "taç takmış insan: açık cilt tonu",
+        "açık cilt tonu | asil | insan | kral | kraliçe | kraliyet | soylu | taç | taç takmış insan | taht"
+      ],
+      "vi": [
+        "người đội vương miện: màu da sáng",
+        "cao quý | hoàng gia | màu da sáng | người đội vương miện | quân vương | vương giả"
+      ],
+      "nl": [
+        "persoon met kroon: lichte huidskleur",
+        "edele | heerser | iemand van koninklijken bloede | keizer | koning | koninklijk | lichte huidskleur | persoon | persoon met kroon | regaal"
+      ]
+    }
+  ]
+}

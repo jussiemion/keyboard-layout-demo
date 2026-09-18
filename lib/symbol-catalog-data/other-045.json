@@ -1,0 +1,2968 @@
+{
+  "😠": [
+    "other",
+    "angry face",
+    {
+      "en": [
+        "angry face",
+        "anger | angry | blame | face | feels | frustrated | mad | maddening | rage | shade | unhappy | upset"
+      ],
+      "ru": [
+        "сердится",
+        "бешенство | злиться | злость | рассержен | сердится | хмурится"
+      ],
+      "pl": [
+        "zagniewana twarz",
+        "buźka | gniew | rozgniewana buźka | zagniewana twarz | złość"
+      ],
+      "fr": [
+        "visage en colère",
+        "colère | émoticône | exaspéré | fâché | frustré | mécontent | rageur | sourcils froncés | visage en colère"
+      ],
+      "de": [
+        "verärgertes Gesicht",
+        "ärgern | böse | Gesicht | Smiley | verärgert | Wut | wütend | zornig"
+      ],
+      "es": ["cara enfadada", "cara | cara enfadada | enfadado | histérico"],
+      "pt": ["rosto zangado", "irado | rosto | zangado"],
+      "it": [
+        "faccina arrabbiata",
+        "arrabbiato | che odio | faccina | frustrato | furia | infuriato | non mi piace | odio | rabbia"
+      ],
+      "ro": [
+        "față furioasă",
+        "enervare | față | față furioasă | față nervoasă | față supărată | frustrare | frustrat | furie | înfuriat | nefericire | nefericit | nervi | nervos | sentiment | supărare | supărat | vină | vinovăție"
+      ],
+      "he": ["פרצוף כועס", "זועם | זועף | כועס | פרצוף"],
+      "ar": [
+        "وجه غاضب",
+        "تلوم | جنون | غاضب | غضب | غضبان | لائم | مجنون | معصب | ملامة | هائج | وجه | يلوم"
+      ],
+      "tr": ["öfkeli yüz", "deli gibi | kızgın | mutsuz | öfkeli | yüz"],
+      "vi": ["mặt giận giữ", "điên | mặt | mặt giận giữ | tức giận"],
+      "nl": [
+        "boos gezicht",
+        "boos | fronsen | gefrustreerd | gezicht | kwaad | smiley | woedend"
+      ]
+    }
+  ],
+  "😡": [
+    "other",
+    "pouting face",
+    {
+      "en": [
+        "enraged face",
+        "anger | angry | enraged | face | feels | mad | maddening | pouting | rage | red | shade | unhappy | upset"
+      ],
+      "ru": [
+        "злится",
+        "бешенство | злой | кипит | красный | ненавижу | рак | рассержен | сердится | ярость"
+      ],
+      "pl": [
+        "nadąsana twarz",
+        "buźka | czerwony | dąsy | nadąsana twarz | twarz | wściekłość | złość"
+      ],
+      "fr": [
+        "visage boudeur",
+        "colère | émoticône | énervé | exaspéré | fâché | furieux | mécontent | rageur | rouge | rouge de colère | sourcils froncés | visage boudeur"
+      ],
+      "de": [
+        "schmollendes Gesicht",
+        "Gesicht | rot | Rot angelaufener Smiley | schmollendes Gesicht | wütend"
+      ],
+      "es": [
+        "cara cabreada",
+        "cabreo | cara | cara cabreada | enfadado | furia"
+      ],
+      "pt": [
+        "rosto furioso",
+        "bravo | furioso | irado | rosto | vermelho | zangado"
+      ],
+      "it": [
+        "faccina accigliata",
+        "arrabbiato | broncio | faccina | faccina accigliata | faccina rossa | furioso | imbronciato | male | muso | odio"
+      ],
+      "ro": [
+        "față îmbufnată",
+        "bosumflare | enervare | față | față bosumflată | față îmbufnată | față supărată | furie | furios | nefericire | nefericit | roșu | sentiment | supărare | supărat"
+      ],
+      "he": ["פרצוף זועף", "זועם | זועף | כועס | פרצוף"],
+      "ar": [
+        "وجه مشتاط غضبًا",
+        "أحمر | جنون | غاضب | غضب | غضبان | متجهم | متجهم الوجه | مجنون | مقطب | هائج | وجه | وجه مشتاط غضبًا | وجه مقطب ومتجهم"
+      ],
+      "tr": [
+        "somurtkan yüz",
+        "deli gibi | kırmızı somurtkan yüz | kırmızı yüz | öfkeli | somurtkan | yüz"
+      ],
+      "vi": [
+        "mặt hờn dỗi",
+        "cơn thịnh nộ | điên | đỏ | hờn dỗi | mặt | mặt hờn dỗi | tức giận"
+      ],
+      "nl": [
+        "pruilend gezicht",
+        "boos | gezicht | kwaad | pruilend | rood | smiley | woede | woedend"
+      ]
+    }
+  ],
+  "😢": [
+    "other",
+    "crying face",
+    {
+      "en": [
+        "crying face",
+        "awful | cry | crying | face | feels | miss | sad | tear | triste | unhappy"
+      ],
+      "ru": [
+        "плачет",
+        "грустный | жаль | обидно | печаль | плакать | плач | слеза"
+      ],
+      "pl": [
+        "płacząca twarz",
+        "buźka | buźka ze łzą w oku | łezka | płacz | płacząca twarz | przykro mi | smutek"
+      ],
+      "fr": [
+        "visage qui pleure",
+        "émoticône | horrible | larme | larmes | malheureux | pleurer | triste | visage qui pleure"
+      ],
+      "de": [
+        "weinendes Gesicht",
+        "Gesicht | Smiley | Träne | traurig | weinen"
+      ],
+      "es": [
+        "cara llorando",
+        "cara | cara llorando | lágrima | llorar | triste"
+      ],
+      "pt": ["rosto chorando", "chorando | choro | lágrimas | rosto | triste"],
+      "it": [
+        "faccina che piange",
+        "emozione | faccina | faccina che piange | faccina con lacrima | infelice | lacrima | mi dispiace | mi manchi | piangere | triste"
+      ],
+      "ro": [
+        "față plângând",
+        "dor | față | față care plânge | față cu lacrimi | față plângând | groaznic | lacrimă | lacrimi | nefericit | plânge | plâns | plânset | tristețe"
+      ],
+      "he": ["פרצוף בוכה", "בוכה | דמעה | מבואס | מתגעגע | עצוב | פרצוף"],
+      "ar": [
+        "وجه يبكي",
+        "اشتقت | اشتياق | بكاء | تعيس | حزين | دمعة | دموع | شوق | مش مبسوط | وجه | وجه باك | وجه يبكي"
+      ],
+      "tr": [
+        "ağlayan yüz",
+        "ağlama | ağlayan yüz | gözyaşları | mutsuz | üzgün | üzüntülü | yüz"
+      ],
+      "vi": ["mặt khóc", "buồn | khóc | mặt | nước mắt"],
+      "nl": [
+        "huilend gezicht",
+        "bedroefd | gevoelens | gezicht | huilen | huilend gezicht | smiley | traan | triest"
+      ]
+    }
+  ],
+  "😣": [
+    "other",
+    "persevering face",
+    {
+      "en": [
+        "persevering face",
+        "concentrate | concentration | face | focus | headache | persevere | persevering"
+      ],
+      "ru": [
+        "упорство",
+        "боль | головная | достало | мигрень | настойчивость | упорный | упрямый | хватит"
+      ],
+      "pl": [
+        "uparta twarz",
+        "ból | buźka | napięcie | skupienie | uparta twarz | upór | zacięta twarz"
+      ],
+      "fr": [
+        "visage persévérant",
+        "concentré | émoticône | mal de tête | migraine | persévérant | visage"
+      ],
+      "de": [
+        "entschlossenes Gesicht",
+        "ausdauernd | durchhalten | Fokus | Gesicht | Konzentration | konzentrieren | Kopfschmerzen"
+      ],
+      "es": [
+        "cara desesperada",
+        "cara | cara desesperada | desesperación | frustración"
+      ],
+      "pt": [
+        "rosto perseverante",
+        "concentração | concentrado | dor de cabeça | foco | perseverança | perseverante | rosto"
+      ],
+      "it": [
+        "faccina perseverante",
+        "concentrato | faccina | faccina che pensa | faccina concentrata | pensare | perseverante"
+      ],
+      "ro": [
+        "față neajutorată",
+        "concentrare | concentrat | durere de cap | față | față de strădanie | față neajutorată | față perseverentă | neajutorare | neputință | perseverență | strădanie"
+      ],
+      "he": ["פרצוף סובל", "כאב | להתרכז | סובל | פרצוף"],
+      "ar": [
+        "وجه جاد",
+        "ألم رأس | تركيز | ثابر | جدية | صداع | مثابرة | وجع رأس | وجه | وجه جاد | يركز"
+      ],
+      "tr": [
+        "kararlı yüz",
+        "baş ağrısı | dayanıklı | dikkatli | inatçı | kararlı | konsantre olmuş | yüz | zorlanan yüz"
+      ],
+      "vi": [
+        "mặt kiên nhẫn",
+        "đau đầu | kiên nhẫn | mặt | mặt kiên nhẫn | tập trung"
+      ],
+      "nl": [
+        "volhardend gezicht",
+        "concentratie | concentreren | focus | gezicht | hoofdpijn | volharden | volharding"
+      ]
+    }
+  ],
+  "😤": [
+    "other",
+    "face with look of triumph",
+    {
+      "en": [
+        "face with steam from nose",
+        "anger | angry | face | feels | fume | fuming | furious | fury | mad | nose | steam | triumph | unhappy | won"
+      ],
+      "ru": [
+        "в ожидании успеха",
+        "бешенстве | дым | зла | злость | зол | пар | пыхтеть | раздражение"
+      ],
+      "pl": [
+        "prychająca twarz",
+        "buźka | furia | prychająca twarz | smutek | smutny | sukces | triumf | twarz | twarz z parą wylatującą z nosa | wygrana | złość | zły"
+      ],
+      "fr": [
+        "visage avec fumée sortant des narines",
+        "colère | émoticône | énervé | fâché | mécontent | triomphe | victoire | visage | visage avec fumée sortant des narines"
+      ],
+      "de": [
+        "schnaubendes Gesicht",
+        "erleichtert | Gesicht | gewonnen | schnaubendes Gesicht"
+      ],
+      "es": ["cara resoplando", "cabreo | cara | cara resoplando | enfado"],
+      "pt": [
+        "rosto soltando vapor pelo nariz",
+        "brava | bravo | furiosa | furioso | irritada | irritado | rosto | rosto soltando vapor pelo nariz | soltando fumaça | triunfo | vitória"
+      ],
+      "it": [
+        "faccina che sbuffa",
+        "arrabbiarsi | arrabbiato | faccina arrabbiata | faccina che sbuffa | faccina con il fumo | faccina frustrata | frustrato | frustrazione | rabbia | sbuffare | scontento | uffa"
+      ],
+      "ro": [
+        "față care scoate fum pe nări",
+        "aburi | enervare | față | față care scoate fum pe nări | fum | furie | furios | nări | nefericit | nervi | nervos | sentiment | supărare | supărat | triumf | victorie"
+      ],
+      "he": ["פרצוף עם קיטור יוצא מהאף", "אף | זועם | כועס | פרצוף | קיטור"],
+      "ar": [
+        "وجه بأنف يصدر بخارًا",
+        "بخار | جنون | عصبي | غاضب | غضب | فوز | مجنون | مش مبسوط | معصب | نصر | وجه | وجه بأنف يصدر بخارًا"
+      ],
+      "tr": [
+        "burnundan soluyan yüz",
+        "ben kazandım | ben kazandım yüzü | burnundan soluyan | burnundan soluyan yüz | kızgın | mutsuz | sinirli | yüz | zafer"
+      ],
+      "vi": [
+        "mặt có mũi đang phì hơi",
+        "chiến thắng | hân hoan | không vui | mặt | mặt có mũi đang phì hơi | tức giận"
+      ],
+      "nl": [
+        "gezicht blazend van woede",
+        "boos | gewonnen | gezicht | gezicht blazend van woede | gezicht met stoom uit neus | kokend van woede | ontevreden | triomf | witheet | woedend | ziedend"
+      ]
+    }
+  ],
+  "😥": [
+    "other",
+    "disappointed but relieved face",
+    {
+      "en": [
+        "sad but relieved face",
+        "anxious | call | close | complicated | disappointed | face | not | relieved | sad | sweat | time | whew"
+      ],
+      "ru": [
+        "обошлось",
+        "беспокоюсь | грустно | облегчение | обошлось | плач | пот | пронесло | разочарован | тревога | фух"
+      ],
+      "pl": [
+        "smutna twarz z wyrazem ulgi",
+        "buźka | łza | płacz | smutek | smutna twarz z wyrazem ulgi | smutna ulga"
+      ],
+      "fr": [
+        "visage triste mais soulagé",
+        "déçu | émoticône | ouf | pfiou | soulagé | sueur | triste | visage déçu mais soulagé | visage triste mais soulagé"
+      ],
+      "de": [
+        "trauriges aber erleichtertes Gesicht",
+        "ängstlich | enttäuscht | erleichtert | Gesicht | knapp | Schweiß | traurig"
+      ],
+      "es": [
+        "cara triste pero aliviada",
+        "aliviado | cara | cara triste pero aliviada | decepcionado | menos mal"
+      ],
+      "pt": [
+        "rosto triste, mas aliviado",
+        "aliviado | decepcionado | não | rosto | triste | ufa"
+      ],
+      "it": [
+        "faccina delusa ma sollevata",
+        "ansioso | deluso | deluso ma sollevato | faccina | faccina delusa ma sollevata | goccia | infelice | lacrima | sollevato | sudore | triste"
+      ],
+      "ro": [
+        "față dezamăgită, dar ușurată",
+        "complicat | dar ușurată | dezamăgire | dezamăgit | față | față dezamăgită | față dezamăgită, dar ușurată | îngrijorare | îngrijorat | relaxare | transpirație | trist | ușurare | ușurat"
+      ],
+      "he": [
+        "פרצוף מאוכזב עם דמעה",
+        "דמעה | כמעט | מאוכזב | עצוב | פרצוף | פרצוף מאוכזב עם דמעה"
+      ],
+      "ar": [
+        "وجه خيبة أمل",
+        "احباط | حزين | خاب أملي | خي | خيبة أمل | عرق | عشعرة | عصوص ونقطة | عل قد | عنتفي | قلق | محبط | معرقل | معقد | وجه | وجه خيبة أمل"
+      ],
+      "tr": [
+        "üzgün ama rahatlamış yüz",
+        "canı sıkkın | canı sıkkın ama rahatlamış | endişeli | kafası karışmış | karışık | rahatlamış | üzgün | üzgün ama rahatlamış yüz | yırttık! | yüz"
+      ],
+      "vi": [
+        "mặt thất vọng nhưng nhẹ nhõm",
+        "mặt | mặt thất vọng nhưng nhẹ nhõm | ngạc nhiên | nhẹ nhõm | thất vọng"
+      ],
+      "nl": [
+        "teleurgesteld maar opgelucht gezicht",
+        "bijna | gezicht | ingewikkeld | oef | opgelucht | smiley | teleurgesteld | teleurgesteld maar opgelucht gezicht | zweetdruppel | zweten"
+      ]
+    }
+  ],
+  "😦": [
+    "other",
+    "frowning face with open mouth",
+    {
+      "en": [
+        "frowning face with open mouth",
+        "caught | face | frown | frowning | guard | mouth | open | scared | scary | surprise | what | wow"
+      ],
+      "ru": [
+        "в изумлении",
+        "изумление | испуг | неприятный | ого | омг | страх | сюрприз | устал"
+      ],
+      "pl": [
+        "zachmurzona twarz z otwartymi ustami",
+        "buźka | co? | nie wierzę | opadła mi szczęka | opadła szczena | rozzłoszczona buźka | zachmurzona twarz z otwartymi ustami | zawód | zdziwienie"
+      ],
+      "fr": [
+        "visage mécontent avec bouche ouverte",
+        "bouche | déçu | effrayé | émoticône | ouverte | peur | pris au dépourvu | surpris | visage | visage déçu avec bouche ouverte | visage mécontent avec bouche ouverte"
+      ],
+      "de": [
+        "entsetztes Gesicht",
+        "entsetzt | Gesicht | Mund | offen | schockiert | Smiley | verwundert"
+      ],
+      "es": [
+        "cara con el ceño fruncido y la boca abierta",
+        "boca abierta | cara | cara con el ceño fruncido y la boca abierta | ceño fruncido con boca abierta"
+      ],
+      "pt": [
+        "rosto franzido com boca aberta",
+        "aberta | assustado | boca | decepcionado | inesperado | rosto assustado | rosto franzido com boca aberta | uau"
+      ],
+      "it": [
+        "faccina imbronciata con bocca aperta",
+        "bocca aperta | corrucciata | faccina imbronciata con bocca aperta | male | no | noo | paura | sorpresa | wow"
+      ],
+      "ro": [
+        "față tristă cu gura deschisă",
+        "ce | față | față încruntată cu gura deschisă | față tristă cu gura deschisă | gură deschisă | încruntare | încruntat | întristare | panică | panicat | poftim | spaimă | speriat | surprins | surpriză | uau | wow"
+      ],
+      "he": ["פרצוף עצוב עם פה פתוח", "הלם | עצוב | פה | פרצוף | שוק"],
+      "ar": [
+        "وجه عابس بفم مفتوح",
+        "شو | عابس | عبوس | عبوس بفم مفتوح | فم | ماذا | متفاجئ | مخيف | مفاجئة | مفتوح | وجع عبوس بفم مفتوح | وجه | وجه عابس بفم مفتوح"
+      ],
+      "tr": [
+        "hoşnutsuz yüz",
+        "açık ağızlı hoşnutsuz yüz | ağzı açık | boş bulunmuş | hoşnutsuz | korkmuş | yüz"
+      ],
+      "vi": [
+        "mặt cau miệng há",
+        "mặt | mặt cau miệng há | miệng | mở | nhăn mặt"
+      ],
+      "nl": [
+        "fronsend gezicht met open mond",
+        "bang | betrapt | eng | frons | fronsen | gezicht | hoede | mond | open | verrassing | wat | wauw"
+      ]
+    }
+  ],
+  "😧": [
+    "other",
+    "anguished face",
+    {
+      "en": [
+        "anguished face",
+        "anguished | face | forgot | scared | scary | stressed | surprise | unhappy | what | wow"
+      ],
+      "ru": [
+        "страдает",
+        "боль | забыл | испуг | неприятный | омг | страдаю | стресс | сюрприз | удивление"
+      ],
+      "pl": [
+        "udręczona twarz",
+        "ból | buźka | niedowierzanie | udręczona twarz | zawód | zdziwienie | złość"
+      ],
+      "fr": [
+        "visage angoissé",
+        "angoisse | comment | émoticône | hein | mécontent | oubli | peur | quoi | stressé | surpris | terrifié | visage angoissé"
+      ],
+      "de": [
+        "qualvolles Gesicht",
+        "arm | Gesicht | leidend | qualvoll | Smiley | vergessen | wow"
+      ],
+      "es": [
+        "cara angustiada",
+        "angustia | angustiado | cara | cara angustiada"
+      ],
+      "pt": ["rosto angustiado", "angustiado | rosto | sofrendo"],
+      "it": [
+        "faccina angosciata",
+        "angoscia | angosciato | ansia | ansioso | faccina | infelice | paura | sofferente | stressato | triste"
+      ],
+      "ro": [
+        "față angoasată",
+        "am uitat | angoasă | ce | față | față angoasată | înspăimântat | nefericit | poftim | spaimă | speriat | stres | stresat | suferință | surprins | surpriză | uau | wow"
+      ],
+      "he": ["פרצוף מיוסר", "הלם | ואו | מטורף | מיוסר | מפוחד | פוחד | פרצוף"],
+      "ar": [
+        "وجه مكروب",
+        "تألم | تعيس | خائف | متعب | متفاجئ | مخيف | مكروب | مهموم | نسيت | وجه"
+      ],
+      "tr": ["kederli yüz", "acı çeken | kederli | mutsuz | şaşkın | yüz"],
+      "vi": ["mặt đau khổ", "đau khổ | mặt | mặt đau khổ"],
+      "nl": [
+        "gekweld gezicht",
+        "bang | gekweld gezicht | gezicht | lijden | lijdend | ontevreden | smiley | stress | verrast"
+      ]
+    }
+  ],
+  "😨": [
+    "other",
+    "fearful face",
+    {
+      "en": [
+        "fearful face",
+        "afraid | anxious | blame | face | fear | fearful | scared | worried"
+      ],
+      "ru": [
+        "боится",
+        "беспокоится | боится | боюсь | волнуюсь | жуть | испуг | омг | страх"
+      ],
+      "pl": [
+        "przestraszona twarz",
+        "buźka | przestraszona twarz | strach | wystraszona buźka"
+      ],
+      "fr": [
+        "visage effrayé",
+        "anxieux | apeuré | blême | effrayé | émoticône | inquiet | peur | terrifié | visage"
+      ],
+      "de": ["ängstliches Gesicht", "Angst | ängstlich | besorgt | Gesicht"],
+      "es": [
+        "cara asustada",
+        "asustado | cara | cara asustada | miedo | miedoso"
+      ],
+      "pt": [
+        "rosto amedrontado",
+        "ansiedade | assustado | com medo | medo | preocupado | rosto | rosto amedrontado"
+      ],
+      "it": [
+        "faccina impaurita",
+        "ansia | ansioso | esami | faccina | fifa | fifa blu | impaurito | paura | preoccupato | spaventato | spavento"
+      ],
+      "ro": [
+        "față înfricoșată",
+        "față | față înfricoșată | frică | îngrijorare | îngrijorat | înspăimântat | spaimă | speriat | sperios | teamă | vină | vinovăție"
+      ],
+      "he": ["פרצוף מפוחד", "לחוץ | מפוחד | מפחד | פוחד | פרצוף"],
+      "ar": ["وجه خائف", "خائف | مرعوب | مهموم | هم | وجه"],
+      "tr": ["korkulu yüz", "endişeli | korkmuş | korkulu | yüz"],
+      "vi": ["mặt sợ hãi", "kinh hãi | mặt | mặt sợ hãi | sợ | sợ hãi"],
+      "nl": [
+        "bang gezicht",
+        "angst | angstig | bang | bezorgd | gezicht | schuld"
+      ]
+    }
+  ],
+  "😩": [
+    "other",
+    "weary face",
+    {
+      "en": [
+        "weary face",
+        "crying | face | fail | feels | hungry | mad | nooo | sad | sleepy | tired | unhappy | weary"
+      ],
+      "ru": [
+        "усталость",
+        "гадость | достало | надоело | нет | плач | сил | устал | фу | хватит"
+      ],
+      "pl": [
+        "znużona twarz",
+        "buźka | cierpienie | rezygnacja | zmęczenie | zmęczona buźka | znużona twarz"
+      ],
+      "fr": [
+        "visage épuisé",
+        "échec | émoticône | épuisé | faim | fatigué | mécontent | non | pleurer | sommeil | triste | visage | visage las"
+      ],
+      "de": [
+        "erschöpftes Gesicht",
+        "erschöpft | Fehlschlag | Gesicht | hungrig | müde | nein | Smiley | unglücklich"
+      ],
+      "es": ["cara agotada", "agotado | cansado | cara | cara agotada"],
+      "pt": [
+        "rosto desolado",
+        "aborrecido | cansado | cansei | decepcionado | desolado | exausto | infeliz | perdi | rosto"
+      ],
+      "it": [
+        "faccina esausta",
+        "arrabbiato | disperato | esausto | faccina | faccina che piange | nooo | piangere | sfinito | stanco"
+      ],
+      "ro": [
+        "față extenuată",
+        "epuizată | eșec | față | față extenuată | față obosită | foame | înfometat | nefericit | nuuu | oboseală | obosit | plâns | plânset | rateu | sentiment | somnoros | supărare | supărat | trist | tristețe"
+      ],
+      "he": ["פרצוף מותש", "באסה | בוכה | מבאס | מותש | עייף | עצוב | פרצוף"],
+      "ar": [
+        "وجه مجهد",
+        "تعبان | تعيس | جائع | غضب | غضبان | متعب | مجهد | مرهق | نعس | نعسان | وجه | وجه ضجر"
+      ],
+      "tr": [
+        "çok yorgun",
+        "acıkmış | çok yorgun | hayır | olamaz | pişman | uykulu | yorgun yüz | yorulmuş | yüz"
+      ],
+      "vi": ["mặt kiệt sức", "kiệt sức | mặt | mặt kiệt sức | mệt mỏi"],
+      "nl": [
+        "moe gezicht",
+        "aanstellen | gezicht | honger | moe | nee | ontevreden | smiley | tegenzin | vermoeid | zeuren"
+      ]
+    }
+  ],
+  "😪": [
+    "other",
+    "sleepy face",
+    {
+      "en": [
+        "sleepy face",
+        "crying | face | good | night | sad | sleep | sleeping | sleepy | tired"
+      ],
+      "ru": [
+        "хочет спать",
+        "ночи | плакать | плач | пора | сон | спать | сплю | спокойной | устал"
+      ],
+      "pl": [
+        "senna twarz",
+        "buźka | sen | senna twarz | senność | spać | śpiąca buźka"
+      ],
+      "fr": [
+        "visage endormi",
+        "émoticône | fatigué | larme | pleurer | sommeil | triste | visage | visage endormi"
+      ],
+      "de": [
+        "schläfriges Gesicht",
+        "Gesicht | gute | müde | Nacht | schläfrig | Smiley | traurig"
+      ],
+      "es": ["cara de sueño", "cara | cara de sueño | dormir | sueño"],
+      "pt": [
+        "rosto sonolento",
+        "cara de sono | rosto | rosto com sono | rosto sonolento"
+      ],
+      "it": [
+        "faccina assonnata",
+        "assonnato | dormire | faccina | faccina assonnata | goccia | sonno | stanco | zzz"
+      ],
+      "ro": [
+        "față somnoroasă",
+        "adormit | doarme | față | față somnoroasă | obosit | plânge | plâns | plânset | somn | somnoros | trist"
+      ],
+      "he": ["פרצוף ישנוני", "בוכה | ישנוני | מנוזל | מצונן | עצוב | פרצוף"],
+      "ar": [
+        "وجه ناعس",
+        "أبكي | بكاء | بكي | تبكي | تعبان | حزين | دمعة | دموع | متعب | ناعس | نعس | نعسان | وجه | يبكي"
+      ],
+      "tr": ["uykulu yüz", "ağlayan yüz | uykulu yüz | yorgun | yüz"],
+      "vi": ["mặt buồn ngủ", "buồn | buồn ngủ | khóc | mặt | mặt buồn ngủ"],
+      "nl": [
+        "slaperig gezicht",
+        "gezicht | huilen | slaap | slaperig gezicht | smiley | traan"
+      ]
+    }
+  ],
+  "😫": [
+    "other",
+    "tired face",
+    {
+      "en": ["tired face", "cost | face | feels | nap | sad | sneeze | tired"],
+      "ru": [
+        "сильная усталость",
+        "достало | надоело | очень | сильно | спать | устал | фу | хватит"
+      ],
+      "pl": [
+        "zmęczona twarz",
+        "buźka | kichać | nie | płacz | rozpacz | smutek | smutny | ziewanie | zmęczenie | zmęczona buźka | zmęczona twarz"
+      ],
+      "fr": [
+        "visage fatigué",
+        "contrarié | émoticône | fatigue | mécontent | triste | visage | visage fatigué"
+      ],
+      "de": ["müdes Gesicht", "Gesicht | müde | niesen | Smiley | traurig"],
+      "es": ["cara cansada", "cansado | cara | cara cansada"],
+      "pt": ["rosto cansado", "cansado | desesperado | exausto | rosto"],
+      "it": ["faccina stanca", "disperato | faccina | stanco | triste"],
+      "ro": [
+        "față obosită",
+        "extenuare | față | față obosită | oboseală | obosit | sentiment | somn | strănut | trist | tristețe"
+      ],
+      "he": ["פרצוף עייף", "מפהק | עייף | עצוב | פרצוף"],
+      "ar": [
+        "وجه متعب",
+        "احساس | تعب | تعبان | حزين | عطس | متعب | مجهد | مرهق | وجه"
+      ],
+      "tr": [
+        "yorgun yüz",
+        "hapşuran yüz | perişan | pişman | üzgün | yorgun | yüz"
+      ],
+      "vi": ["mặt mệt mỏi", "mặt | mặt mệt mỏi | mệt mỏi"],
+      "nl": [
+        "vermoeid gezicht",
+        "bah | gezicht | jakkes | moe | niesen | niezen | smiley | vermoeid | vies"
+      ]
+    }
+  ],
+  "😬": [
+    "other",
+    "grimacing face",
+    {
+      "en": [
+        "grimacing face",
+        "awk | awkward | dentist | face | grimace | grimacing | grinning | smile | smiling"
+      ],
+      "ru": [
+        "гримаса",
+        "злой | злость | злюсь | зубы | кривляться | показать | рожа"
+      ],
+      "pl": [
+        "twarz z grymasem",
+        "buźka | grymas | grymaśna buźka | twarz z grymasem | wyszczerz | zęby"
+      ],
+      "fr": [
+        "visage grimaçant",
+        "dents | émoticône | gêné | grimace | rien | sourire | visage | visage grimaçant"
+      ],
+      "de": [
+        "Grimassen schneidendes Gesicht",
+        "Gesicht | Grimasse | peinlich | schneiden | Smiley | verziehen | Zähne"
+      ],
+      "es": [
+        "cara haciendo una mueca",
+        "cara | cara haciendo una mueca | mueca"
+      ],
+      "pt": [
+        "rosto expressando desagrado",
+        "careta | fazendo careta | rosto | rosto expressando desagrado | rosto fazendo careta | sem graça"
+      ],
+      "it": [
+        "faccina con smorfia",
+        "denti | dentista | digrignare | digrignare i denti | faccina | faccina con smorfia | smorfia"
+      ],
+      "ro": [
+        "față cu grimasă",
+        "aiurea | dentist | față | față cu grimasă | grimasă | incomod | nasol | nașpa | neplăcut | nimic | stânjenitor | stres | zâmbet"
+      ],
+      "he": [
+        "פרצוף חושף שיניים",
+        "חושף שיניים | מבוכה | מוטרד | פרצוף | שיניים | שיניים חשוקות"
+      ],
+      "ar": [
+        "وجه متجهم",
+        "أسنان | ابتسامة | بسمة | حركات | طبيبي أسنان | عبوس | لا شيء | وجه | وجه متجهم | يبتسم"
+      ],
+      "tr": [
+        "dişlerini gösteren yüz",
+        "dişçi | dişlerini gösteren yüz | dişlerini sıkmak | endişeli | tedirgin | yüz | yüzünü ekşitme"
+      ],
+      "vi": ["mặt nhăn nhó", "mặt | mặt nhăn nhó | nhăn nhó"],
+      "nl": [
+        "gezicht met grimas",
+        "gezicht | gezicht met grimas | grimas | grimasgezicht | grinniken | niks | oeps | ongemakkelijk | smiley | tanden op elkaar"
+      ]
+    }
+  ],
+  "😭": [
+    "other",
+    "loudly crying face",
+    {
+      "en": [
+        "loudly crying face",
+        "bawling | cry | crying | face | loudly | sad | sob | tear | tears | unhappy"
+      ],
+      "ru": [
+        "слезы рекой",
+        "за | навзрыд | несчастный | плач | почему | реветь | рекой | слезы | что"
+      ],
+      "pl": [
+        "głośno płacząca twarz",
+        "buźka | głośno płacząca twarz | głośny płacz | łzy | płacz | smutny | zapłakana buźka | zapłakany"
+      ],
+      "fr": [
+        "visage qui pleure à chaudes larmes",
+        "émoticône | larme | larmes | malheureux | pleurer | pleurs | sangloter | triste | visage | visage qui pleure à chaudes larmes"
+      ],
+      "de": [
+        "heulendes Gesicht",
+        "flennen | Gesicht | heulen | schluchzen | Smiley | Tränen | Tränenfluss | traurig | weinen"
+      ],
+      "es": [
+        "cara llorando fuerte",
+        "cara | cara llorando fuerte | lágrima | llorar | triste"
+      ],
+      "pt": [
+        "rosto chorando aos berros",
+        "chorando | chorando alto | chorar | infeliz | lágrimas | rosto | rosto chorando aos berros | triste"
+      ],
+      "it": [
+        "faccina disperata",
+        "faccina che piange | faccina disperata | infelice | lacrime | no | nooo | piangere | pianto | singhiozzare | triste"
+      ],
+      "ro": [
+        "față plângând zgomotos",
+        "față | față care plânge în hohote | față cu șuvoi de lacrimi | față plângând zgomotos | hohote | lacrimă | lacrimi | nefericire | nefericit | plâns | plâns în hohote | supărare | supărat | suspin | trist | tristețe"
+      ],
+      "he": ["פרצוף בוכה בקול", "בוכה | בקול | דמעות | פרצוף"],
+      "ar": [
+        "وجه يبكي بكاءً مرتفعًا",
+        "بكاء | تعيس | حزن | حزين | دموع | صراخ | وجه | وجه يبكي بكاءً مرتفعًا | يبكي"
+      ],
+      "tr": [
+        "avaz avaz ağlayan yüz",
+        "ağlama | avaz avaz ağlama | avaz avaz ağlayan yüz | gözyaşları | mutsuz | üzgün | yüz"
+      ],
+      "vi": [
+        "mặt khóc to",
+        "buồn | khóc | mặt | mặt khóc to | nước mắt | thổn thức"
+      ],
+      "nl": [
+        "hard huilend gezicht",
+        "bedroefd | gezicht | hard huilen | hard huilend gezicht | huilen | ontroostbaar | smiley | snikken | traan | tranen | tranen met tuiten"
+      ]
+    }
+  ],
+  "😮": [
+    "other",
+    "face with open mouth",
+    {
+      "en": [
+        "face with open mouth",
+        "believe | face | forgot | mouth | omg | open | shocked | surprised | sympathy | unbelievable | unreal | whoa | wow | you"
+      ],
+      "ru": [
+        "удивление",
+        "вау | верю | изумление | невероятно | ого | омг | ошеломление | удивление | ужас | шок"
+      ],
+      "pl": [
+        "twarz z otwartymi ustami",
+        "buźka | o | och | szok | twarz z otwartymi ustami | zaskoczenie | zaskoczona buźka"
+      ],
+      "fr": [
+        "visage avec bouche ouverte",
+        "bouche bée | bouche ouverte | choqué | émoticône | épaté | incroyable | omd | oubli | surpris | visage avec bouche ouverte | visage avec la bouche ouverte | visage étonné"
+      ],
+      "de": [
+        "Gesicht mit offenem Mund",
+        "erstaunt | Gesicht | Mund | offen | omg | schockiert | unglaublich | vergessen | wow"
+      ],
+      "es": [
+        "cara con la boca abierta",
+        "boca | cara | cara con la boca abierta"
+      ],
+      "pt": [
+        "rosto com boca aberta",
+        "boca | boca aberta | boquiaberto | empatia | pasmo | rosto | rosto com boca aberta"
+      ],
+      "it": [
+        "faccina con bocca aperta",
+        "bocca | bocca aperta | non ci credo | non mi dire | oh | scioccato | shock | sorpresa | sorpreso | stupito | wow"
+      ],
+      "ro": [
+        "față cu gura deschisă",
+        "am uitat | ce | doamne ferește | față | față cu gura deschisă | gură deschisă | imposibil | nu cred | nu pot să cred | nu se poate | omg | poftim | șocat | surprins | surpriză | uau | uimire | uitat | wow"
+      ],
+      "he": ["פרצוף עם פה פתוח", "הפתעה | וואו | מופתע | פה | פרצוף"],
+      "ar": [
+        "وجه بفم مفتوح",
+        "غير معقول | فم | فم مفتوح | لا أصدق | لا يصدق | متفاجئ | مش معقول | مصدوم | مندهش | نسيت | واو | وجه | وجه بفم مفتوح"
+      ],
+      "tr": [
+        "ağzı açık yüz",
+        "ağız | ağzı açık | ağzı açık yüz | şaşkın | şok | süpriz | yüz"
+      ],
+      "vi": [
+        "mặt có miệng há",
+        "mặt | mặt có miệng há | miệng | mở | thông cảm"
+      ],
+      "nl": [
+        "gezicht met open mond",
+        "geschokt | geschrokken | gezicht | gezicht met open mond | mond | oeps | omg | ongelofelijk | ongelooflijk | open | smiley | sympathie | vergeten | wauw"
+      ]
+    }
+  ],
+  "😮‍💨": [
+    "other",
+    "",
+    {
+      "en": [
+        "face exhaling",
+        "blow | blowing | exhale | exhaling | exhausted | face | gasp | groan | relief | sigh | smiley | smoke | whisper | whistle"
+      ],
+      "ru": [
+        "выдыхает",
+        "вздох | выдох | выдыхает | облегчение | одышка | свист | шепот"
+      ],
+      "pl": [
+        "twarz wypuszczająca powietrze",
+        "buźka | dym | gwizd | twarz wypuszczająca powietrze | ulga | westchnienie | wydech | wydmuchiwać powietrze | wykończony | wypuszczać powietrze | zmęczenie"
+      ],
+      "fr": [
+        "visage expirant",
+        "chuchoter | découragé | déçu | expiration | exténué | fatigué | siffler | souffler | soulagement | soupir | sursaut | visage expirant"
+      ],
+      "de": [
+        "Gesicht, das ausatmet",
+        "ausatmen | erleichtert | erschöpft | Gesicht | husten | puh | pusten | schnaufen | Seufz | seufzen | Smiley"
+      ],
+      "es": [
+        "cara exhalando",
+        "alivio | bocanada | cara exhalando | exhalar | jadear | resoplido | silbar"
+      ],
+      "pt": [
+        "rosto exalando",
+        "alívio | assobio | assopro | cansaço | cansada | choque | exalar | exausta | fumaça | suspiro | triste"
+      ],
+      "it": [
+        "faccina che espira",
+        "ansimare | esausto | espirare | faccina che espira | fischiare | fumo | soffio | sollievo | sospiro | stanco | sussurrare | tosse"
+      ],
+      "ro": [
+        "față care expiră",
+        "emoție | epuizat | expirare | față care expiră | fluierat | oftat | răsuflare | respirație | smiley | șoptit | suflu | ușurare"
+      ],
+      "he": [
+        "פרצוף נושף",
+        "בלי אוויר | משתנק | משתעל | מתנשם | מתנשף | נושף | נחנק | פרצוף נושף | שיעול"
+      ],
+      "ar": [
+        "وجه يزفر الهواء",
+        "إحباط | راحة | زفير | سعال | صفير | عابس | متعب | محبط | مرهق | معاناة | همس | وجه | وجه يزفر الهواء | يتلهث | يلهث"
+      ],
+      "tr": [
+        "nefes veren yüz",
+        "bitik | duman | fısıldama | iç çekme | ıslık | nefes verme | off | rahatlama | sızlanma | üfleme | yorgun"
+      ],
+      "vi": [
+        "mặt thở ra",
+        "huýt sáo | kiệt sức | mặt thở ra | mệt mỏi | rên rỉ | thì thầm | thở dài | thở hắt ra | thở hổn hển | thở ra"
+      ],
+      "nl": [
+        "gezicht dat uitademt",
+        "blazen | fluisteren | fluiten | gezicht dat uitademt | kreunen | naar adem snakken | opgelucht | roken | rook | smiley | uitademen | uitgeput"
+      ]
+    }
+  ],
+  "😯": [
+    "other",
+    "hushed face",
+    {
+      "en": [
+        "hushed face",
+        "epic | face | hushed | omg | stunned | surprised | whoa | woah"
+      ],
+      "ru": [
+        "неприятный сюрприз",
+        "вау | верю | неприятный | ого | омг | сюрприз | удивление"
+      ],
+      "pl": [
+        "zdumiona twarz",
+        "buźka | o | zaskoczenie | zaskoczona buźka | zdumienie | zdumiona twarz | zdziwienie"
+      ],
+      "fr": [
+        "visage ébahi",
+        "émoticône | incroyable | omd | sans voix | stupéfait | stupeur | surpris | visage | visage à la bouche ouverte | visage ébahi | visage sans voix"
+      ],
+      "de": [
+        "verdutztes Gesicht",
+        "erstaunt | Gesicht | omg | Smiley | sprachlos | verdutzt"
+      ],
+      "es": [
+        "cara estupefacta",
+        "alucinado | cara | cara estupefacta | estupefacto | sorprendido"
+      ],
+      "pt": ["rosto surpreso", "espantado | rosto | surpreso | uau"],
+      "it": [
+        "faccina sorpresa",
+        "faccina | incredulo | omg | sbalordito | sorpresa | sorpreso | wow"
+      ],
+      "ro": [
+        "față amuțită",
+        "amuțit | epic | față | față amuțită | gură deschisă | împietrit | încremenit | înmărmurit | omg | șocat | surprins | surpriză | tăcere | uau | uimit | wow"
+      ],
+      "he": ["פרצוף מופתע", "המום | ואו | מה? | מופתע | פרצוף"],
+      "ar": [
+        "وجه مخفوت الصوت",
+        "عجيب | غير معقول | لا أصدق | لا يصدق | متفاجئ | مدهوش | مذهول | مشدوه | مكتوم الصوت | وجه | وجه مخفوت الصوت | يا إلهي"
+      ],
+      "tr": ["şaşkın yüz", "şaşırmış | şaşkın yüz | şok olmuş | yüz"],
+      "vi": [
+        "mặt làm thinh",
+        "choáng váng | làm thinh | mặt | mặt làm thinh | ngạc nhiên"
+      ],
+      "nl": [
+        "verstomd gezicht",
+        "geschokt | gezicht | omg | smiley | verbaasd | verrast | verstomd | wauw | wow"
+      ]
+    }
+  ],
+  "😰": [
+    "other",
+    "face with open mouth and cold sweat",
+    {
+      "en": [
+        "anxious face with sweat",
+        "anxious | blue | cold | eek | face | mouth | nervous | open | rushed | scared | sweat | yikes"
+      ],
+      "ru": [
+        "сильно беспокоится",
+        "беспокоюсь | волнуюсь | грусть | замерз | плакать | плач | пот | страх | холодно"
+      ],
+      "pl": [
+        "zaniepokojona twarz oblana potem",
+        "buźka | nerwy | oj | pot | strach | zaniepokojona twarz oblana potem | zmęczenie | zziajana buźka | zziajanie"
+      ],
+      "fr": [
+        "visage anxieux avec goutte de sueur",
+        "aah | bleu | bouche bée | effrayé | émoticône | froid | mince | nerveux | peur bleue | sueurs froides | terrifié | visage anxieux avec goutte de sueur | visage en sueur bouche ouverte"
+      ],
+      "de": [
+        "besorgtes Gesicht mit Schweißtropfen",
+        "Angst | ängstlich | Angstschweiß | besorgt | Gesicht | Mund | nervös | offen | Schweiß"
+      ],
+      "es": [
+        "cara con ansiedad y sudor",
+        "ansiedad | cara | cara con ansiedad y sudor | frío | sudor"
+      ],
+      "pt": [
+        "rosto ansioso com gota de suor",
+        "boca aberta | nervoso | rosto | rosto ansioso com gota de suor | rosto azul com suor frio | suando frio | suor frio"
+      ],
+      "it": [
+        "faccina sudata in ansia",
+        "ansia | blu | esami | faccina spaventata | freddo | nervoso | paura | risultato | spaventato | sudato | sudore | terrore"
+      ],
+      "ro": [
+        "față neliniștită cu sudoare rece",
+        "albastru | aoleo | doamne | față | față cu gura deschisă și sudoare rece | față neliniștită cu sudoare rece | grăbit | gură deschisă | panicat | rece | speriat | stres | sudoare rece | transpirație | trist | vai"
+      ],
+      "he": [
+        "פרצוף מפחד עם זיעה קרה",
+        "זיעה קרה | מפוחד | מפחד | פרצוף | פרצוף מפחד עם זיעה קרה"
+      ],
+      "ar": [
+        "وجه بفم مفتوح وعرق بارد",
+        "أزرق | توتر | خائف | خوف | عرق | عرق بارد | فم مفتوح | فم مفتوح وعرق بارد | متوتر | مرعوب | مهموم | وجه | وجه أزرق يتصبب عرقًا باردًا | وجه بفم مفتوح وعرق بارد"
+      ],
+      "tr": [
+        "terli ve endişeli yüz",
+        "açık ağız | endişeli | korkmuş | korkulu yüz | soğuk ter | soğuk ter döken mavi yüz | terli ve endişeli yüz | yüz"
+      ],
+      "vi": [
+        "mặt lo lắng và toát mồ hôi",
+        "lạnh | mặt | mặt lo lắng và toát mồ hôi | mặt lo lắng và toát mồ hôi mồ hôi | vội vã | xanh da trời"
+      ],
+      "nl": [
+        "angstig gezicht met zweetdruppel",
+        "angstig | angstig gezicht met zweetdruppel | angstzweet | blauw | blauw gezicht met angstzweet | gehaast | gezicht | gezicht met open mond en zweetdruppel | koud | nerveus | smiley | zweet | zweetdruppel"
+      ]
+    }
+  ],
+  "😱": [
+    "other",
+    "face screaming in fear",
+    {
+      "en": [
+        "face screaming in fear",
+        "epic | face | fear | fearful | munch | scared | scream | screamer | screaming | shocked | surprised | woah"
+      ],
+      "ru": [
+        "в ужасе",
+        "испуг | крик | кричать | нет | омг | страх | ужас | шок"
+      ],
+      "pl": [
+        "twarz krzycząca ze strachu",
+        "buźka | głowa | krzycząca buźka | krzyk | och | przestrach | strach | twarz krzycząca ze strachu"
+      ],
+      "fr": [
+        "visage qui hurle de peur",
+        "choqué | cri | effrayé | Munch | omd | peur | surpris | terreur | visage | visage qui hurle de peur"
+      ],
+      "de": [
+        "vor Angst schreiendes Gesicht",
+        "Angst | ängstlich | Gesicht | Munch | omg | Panik | Schrei | schreien | schreiend"
+      ],
+      "es": [
+        "cara gritando de miedo",
+        "asustado | cara | cara gritando de miedo | miedo | pánico"
+      ],
+      "pt": [
+        "rosto gritando de medo",
+        "assustada | assustado | gritando | grito | medo | rosto | susto | temeroso"
+      ],
+      "it": [
+        "faccina terrorizzata",
+        "blu | faccina | grido di paura | munch | oddio | paura | terrore | terrorizzata | urlare | urlo di munch"
+      ],
+      "ro": [
+        "față țipând de frică",
+        "disperare | epic | față | față țipând de frică | frică | fricos | horror | munch | șoc | surprins | surpriză | teamă | teroare | țipăt | wow"
+      ],
+      "he": [
+        "פרצוף צורח בפחד",
+        "אימה | בהלה | מונק | פחד | פרצוף | פרצוף צורח בפחד | צועק | צורח"
+      ],
+      "ar": [
+        "وجه خائف يصرخ",
+        "خائف | خرعة | خوف | ذعر | صارخ | صدمة | عويل | مرعوب | مصدوم | هلع | وجه | وجه يصرخ خوفًا | يصرخ | يصرخ خوفًا"
+      ],
+      "tr": [
+        "korkuyla çığlık atan yüz",
+        "korkmuş | korku | korku içinde bağıran yüz | korkunç | korkuyla çığlık atan yüz | korkuyla haykıran yüz | yüz"
+      ],
+      "vi": [
+        "mặt la hét kinh hãi",
+        "kinh sợ | la hét | mặt | mặt la hét kinh hãi | sợ | sợ hãi"
+      ],
+      "nl": [
+        "angstig schreeuwend gezicht",
+        "angst | angstig | angstig schreeuwend gezicht | bang | doodsbang | geschrokken | gezicht | gezicht dat schreeuwt van angst | munch | schreeuw | schreeuwend van angst | smiley"
+      ]
+    }
+  ],
+  "😲": [
+    "other",
+    "astonished face",
+    {
+      "en": [
+        "astonished face",
+        "astonished | cost | face | no | omg | shocked | totally | way"
+      ],
+      "ru": [
+        "в шоке",
+        "вау | глаза | изумление | лоб | ого | омг | ох | потрясение | удивление | шок"
+      ],
+      "pl": [
+        "zadziwiona twarz",
+        "buźka | och! | zadziwiona twarz | zaskoczenie | zaskoczona buźka | zdziwienie"
+      ],
+      "fr": [
+        "visage stupéfait",
+        "choc | choqué | émoticône | étonné | impossible | incroyable | omd | stupéfait | visage"
+      ],
+      "de": [
+        "erstauntes Gesicht",
+        "erstaunt | Gesicht | nee | omg | schockiert | Smiley | verwundert"
+      ],
+      "es": [
+        "cara asombrada",
+        "alucinado | asombrado | cara | cara asombrada | pasmado"
+      ],
+      "pt": [
+        "rosto espantado",
+        "chocado | estupefato | rosto | rosto espantado | totalmente chocado"
+      ],
+      "it": [
+        "faccina stupita",
+        "cosa? | davvero | faccina | non ci credo | oddio | omg | scioccato | sorpresa | sorpreso | stupito"
+      ],
+      "ro": [
+        "față uimită",
+        "față | față uimită | fugi de aici | mirare | mirat | nu se poate | omfg | omg | șoc | șocat | surprins | uimire | uimit | uluire | wtf"
+      ],
+      "he": ["פרצוף נדהם", "המום | נדהם | פה | פה פעור | פרצוף | פתוח"],
+      "ar": [
+        "وجه مندهش",
+        "غير معقول | لا أصدق | مش معقول | مصدوم | مندهش | مندهش تمامًا | وجه | يا إلهي | يا ربي"
+      ],
+      "tr": [
+        "afallamış yüz",
+        "afallamış | şaşkın | şoke olmuş | tamamen şoke olmuş | yüz"
+      ],
+      "vi": [
+        "mặt kinh ngạc",
+        "hoàn toàn | kinh ngạc | mặt | mặt kinh ngạc | sốc"
+      ],
+      "nl": [
+        "verbaasd gezicht",
+        "geschokt | gezicht | kosten | nee | omg | totaal | verbaasd"
+      ]
+    }
+  ],
+  "😳": [
+    "other",
+    "flushed face",
+    {
+      "en": [
+        "flushed face",
+        "amazed | awkward | crazy | dazed | dead | disbelief | embarrassed | face | flushed | geez | heat | hot | impressed | jeez | what | wow"
+      ],
+      "ru": [
+        "краснеет",
+        "извини | краснеет | обидел | прости | румянец | смущение | стесняется | стыдно | хотел"
+      ],
+      "pl": [
+        "twarz z rumieńcami",
+        "buźka | rumieńce | twarz z rumieńcami | twarz z wypiekami | wow | wstyd | wypieki | zaskoczenie | zdziwienie"
+      ],
+      "fr": [
+        "visage qui rougit",
+        "chaud | comment | ébahi | émoticône | étonné | gêné | impressionné | incrédule | incroyable | quoi | rouge | visage qui rougit"
+      ],
+      "de": [
+        "errötetes Gesicht mit großen Augen",
+        "Augen | erröten | Gesicht | groß | peinlich | rot | Scham | schämen | Smiley | überrascht | verlegen | Wangen"
+      ],
+      "es": ["cara sonrojada", "cara | cara sonrojada | colorado | sonrojado"],
+      "pt": [
+        "rosto ruborizado",
+        "atordoado | deslumbrado | horrorizado | impressionado | rosto | ruborizado | vergonha"
+      ],
+      "it": [
+        "faccina imbarazzata",
+        "confuso | faccina | faccina arrossata | faccina con guance rosse | faccina con occhi aperti | guance rosse | imbarazzato | occhi"
+      ],
+      "ro": [
+        "față îmbujorată",
+        "buimac | cald | căldură | caniculă | ce | doamne ferește | față | îmbujorat | îmbujorată | impresionat | jenat | nu-mi vine să cred | rușinat | rușine | stânjenit | stânjenitor | uau | wow"
+      ],
+      "he": ["פרצוף נדהם וסמוק", "הלם | מסמיק | נדהם | עיניים | שוק | תדהמה"],
+      "ar": [
+        "وجه متورد",
+        "حار | حرارة | خجلان | شوب | عطاك عمرو | غريب | غير معقول | لا أصدق | ما بصدق | متورد | متوفي | مصاب بدوار | ميت | وجه"
+      ],
+      "tr": [
+        "kızarmış ve şaşkın yüz",
+        "kızarmış | kızarmış ve şaşkın yüz | şaşırmış | şaşkınlık içinde | şok | tuhaf | yüz"
+      ],
+      "vi": ["mặt đỏ ửng", "choáng váng | đỏ mặt | mặt | mặt đỏ ửng"],
+      "nl": [
+        "blozend gezicht",
+        "beschaamd | blozend | dood | gek | gezicht | heet | hitte | jeetje | onder de indruk | ongeloof | ongemakkelijk | sjonge | verbaasd | verbijsterd | wat | wauw"
+      ]
+    }
+  ],
+  "😴": [
+    "other",
+    "sleeping face",
+    {
+      "en": [
+        "sleeping face",
+        "bed | bedtime | face | good | goodnight | nap | night | sleep | sleeping | tired | whatever | yawn | zzz"
+      ],
+      "ru": [
+        "спит",
+        "боковую | ночи | пора | сон | спать | спокойной | уснул | устал | храп"
+      ],
+      "pl": [
+        "śpiąca twarz",
+        "buźka | chrapanie | dobranoc | drzemka | noc | nuda | sen | spać | spanie | śpiąca twarz | śpiący | twarz | ziew | zmęczenie | zzz"
+      ],
+      "fr": [
+        "visage somnolent",
+        "bonne nuit | coucher | dormir | émoticône | endormi | fatigué | sieste | sommeil | visage | visage somnolent | zzz"
+      ],
+      "de": [
+        "schlafendes Gesicht",
+        "dösen | einschlafen | gähnen | Gesicht | gute Nacht | langweilig | Mittagsschlaf | müde | Nickerchen | Schlaf | schlafen | Smiley | zzz"
+      ],
+      "es": ["cara durmiendo", "cara | cara durmiendo | dormido | sueño | zzz"],
+      "pt": [
+        "rosto dormindo",
+        "boa noite | cama | cansada | cansado | cochilo | dormindo | dormir | rosto | soneca | sono | zzz"
+      ],
+      "it": [
+        "faccina che dorme",
+        "assonnato | buona notte | dormire | faccina | faccina che dorme | pisolino | sonno | stanco | zzz"
+      ],
+      "ro": [
+        "față adormită",
+        "căscat | culcare | față | față adormită | mă rog | mda | noapte bună | oboseală | obosit | ora de culcare | pat | plictiseală | să zicem | sforăit | somn | somn ușor | somnic | somnoros | zzzz"
+      ],
+      "he": [
+        "פרצוף ישן",
+        "zzz | ישן | ישנה | לילה טוב | נוחר | עייף | פרצוף | שינה"
+      ],
+      "ar": [
+        "وجه نائم",
+        "المشاعر ووجوه النوم والنعاس | تثاؤب | تعبان | تعسيلة | شخير | قيلولة | مرهق | نائم | نايم | نعسان | نوم | وجه | وقت النوم"
+      ],
+      "tr": [
+        "uyuyan yüz",
+        "esnemek | iyi geceler | iyi uykular | şekerleme | tatlı rüyalar | uyku | uykulu | uyumak | yatak | yatmak | yorgun | zzz"
+      ],
+      "vi": [
+        "mặt đang ngủ",
+        "không quan tâm | mặt | mặt đang ngủ | mệt mỏi | ngủ | ngủ ngoan | sao cũng được | zzz"
+      ],
+      "nl": [
+        "slapend gezicht",
+        "bedtijd | dutje | gapen | gezicht | moe | slaap | slaap lekker | slapen | slapend gezicht | smiley | vermoeid | welterusten | zzz"
+      ]
+    }
+  ],
+  "😵": [
+    "other",
+    "dizzy face",
+    {
+      "en": [
+        "face with crossed-out eyes",
+        "crossed-out | dead | dizzy | eyes | face | feels | knocked | out | sick | tired"
+      ],
+      "ru": [
+        "головокружение",
+        "болею | глаза | голова | крестики | кружится | мертвый | плохо | смерть | умереть | устал"
+      ],
+      "pl": [
+        "oszołomiona twarz",
+        "buźka | chory | knock out | nokaut | oszołomiona twarz | oszołomiony | zawrót głowy"
+      ],
+      "fr": [
+        "visage étourdi",
+        "émoticône | fatigué | malade | mort | tournis | visage | visage avec le tournis | visage étourdi"
+      ],
+      "de": [
+        "benommenes Gesicht",
+        "Augen | benommen | Gesicht | ko | krank | Kreuze | schwindelig | schwindlig | Smiley"
+      ],
+      "es": ["cara mareada", "cara | cara mareada | mareo"],
+      "pt": [
+        "rosto atordoado",
+        "acabado | atordoado | doente | morto | rosto | tontura"
+      ],
+      "it": [
+        "faccina frastornata",
+        "crocetta | crocette | emozione | faccina | frastornato | malato | occhi | occhi a croce | stanco | testa che gira"
+      ],
+      "ro": [
+        "față amețită",
+        "amețeală | amețit | bolnav | față | față amețită | moarte | mort | obosit | ochi în formă de x | rău | rupt | sentiment"
+      ],
+      "he": ["פרצוף עם סחרחורת", "מסוחרר | פרצוף | פרצוף עם סחרחורת"],
+      "ar": [
+        "وجه دائخ",
+        "تعبان | دائخ | دايخ | دوار | مدودخ | مرهق | مريض | مصاب بالدوار | وجه | وجه مصاب بالدوار"
+      ],
+      "tr": [
+        "sersemlemiş yüz",
+        "başı dönen | baygınlık | hasta | sersemlemiş | yüz"
+      ],
+      "vi": ["mặt chóng mặt", "chóng mặt | mặt | mặt chóng mặt | mệt | ốm"],
+      "nl": [
+        "duizelig gezicht",
+        "dood | duizelig | gezicht | gezicht met mond open en kruisjes als ogen | smiley | ziek"
+      ]
+    }
+  ],
+  "😵‍💫": [
+    "other",
+    "",
+    {
+      "en": [
+        "face with spiral eyes",
+        "confused | dizzy | eyes | face | hypnotized | omg | smiley | spiral | trouble | whoa | woah | woozy"
+      ],
+      "ru": [
+        "ошеломление",
+        "гипноз | глаза | голова | замешательство | кружится | кучу | омг | сложно | тупик | шок"
+      ],
+      "pl": [
+        "twarz ze spiralnymi oczami",
+        "buźka | konsternacja | mętlik | niedobrze mi | spirale | szok | twarz ze spiralnymi oczami | wow | zahipnotyzowana twarz | zawroty głowy"
+      ],
+      "fr": [
+        "visage aux yeux en spirales",
+        "confusion | étourdi | hagard | malade | nausée | ouh la la | tête qui tourne | visage aux yeux en spirales"
+      ],
+      "de": [
+        "Gesicht mit Spiralen als Augen",
+        "Augen | Gesicht | Höhenangst | Hypnose | hypnotisiert | omg | schwindelig | schwindlig | Smiley | Spiralen | verwirrt | wirr"
+      ],
+      "es": [
+        "cara con ojos en espiral",
+        "cara con ojos en espiral | espiral | hipnotizado | indispuesto | mareado | mareo | problema"
+      ],
+      "pt": [
+        "rosto com olhos em espiral",
+        "caramba | confuso | desnorteado | eita | espirais | hipnotizado | problema | putz | tonto | tontura | uau"
+      ],
+      "it": [
+        "faccina con occhi a spirale",
+        "capogiro | confuso | faccina | faccina con occhi a spirale | giramento di testa | ipnotizzato | nausea | problema | stordito | vertigini"
+      ],
+      "ro": [
+        "față cu ochi în spirală",
+        "amețeală | amețit | emoție | față cu ochi în spirală | hipnotizat | omg | problemă | smiley | spirală | uau"
+      ],
+      "he": [
+        "פרצוף עם עיני ספירלה",
+        "בחילה | בלבול | בלבלה | בצרה | היפנוזה | חלחלה | מבולבל | מסוחרר | סחרחורת | פרצוף"
+      ],
+      "ar": [
+        "وجه بعينين دائختين",
+        "حلزون | حيرة | دائخ | دوامة | دوخة | عيون دائخة | لولبي | منوّم | وجه | وجه بعينين دائختين"
+      ],
+      "tr": [
+        "sarmal gözlü yüz",
+        "aklı karışık | aman tanrım | başım döndü | gülen yüz | hipnotize | inanamıyorum | kafası bulanık | kafası karışık | mide bulantısı | sersem | sıkıntı | yüz ifadesi"
+      ],
+      "vi": [
+        "mặt có đôi mắt xoắn ốc",
+        "bối rối | chóng mặt | khó hiểu | mặt có đôi mắt xoắn ốc | rắc rối | thôi miên | xoắn ốc"
+      ],
+      "nl": [
+        "gezicht met spiraalvormige ogen",
+        "dronken | duizelig | gehypnotiseerd | gezicht met spiraalvormige ogen | probleem | smiley | spiraalvormig | stoned | verward | wow"
+      ]
+    }
+  ],
+  "😶": [
+    "other",
+    "face without mouth",
+    {
+      "en": [
+        "face without mouth",
+        "awkward | blank | expressionless | face | mouth | mouthless | mute | quiet | secret | silence | silent | speechless"
+      ],
+      "ru": [
+        "лицо без рта",
+        "молчание | немой | нет | рыба | секрет | слов | тайна | тихо | тишина | тсс"
+      ],
+      "pl": [
+        "twarz bez ust",
+        "buźka | buźka bez ust | cisza | nic nie mówię | oczy | twarz bez ust"
+      ],
+      "fr": [
+        "visage sans bouche",
+        "émoticône | muet | ne rien dire | neutre | sans commentaires | sans expression | sans voix | se taire | secret | silence | sourdine | visage sans bouche"
+      ],
+      "de": [
+        "Gesicht ohne Mund",
+        "Gesicht | kein | Mund | ohne | Smiley | sprachlos"
+      ],
+      "es": [
+        "cara sin boca",
+        "boca | callado | cara | cara sin boca | silencio"
+      ],
+      "pt": [
+        "rosto sem boca",
+        "calada | calado | quieto | rosto | rosto sem boca | sem boca | sem comentários | sem palavras"
+      ],
+      "it": [
+        "faccina senza bocca",
+        "faccina | faccina senza bocca | muto | non parlo | non posso parlare | segreto | senza bocca | senza espressione | senza parole | silenzio | zitto"
+      ],
+      "ro": [
+        "față fără gură",
+        "aiurea | fără cuvinte | fără expresie | fără gură | față | față fără gură | gură | incomod | inexpresiv | liniște | mască | mut | neplăcut | secret | stânjenitor | tăcut"
+      ],
+      "he": [
+        "פרצוף ללא פה",
+        "פה | פרצוף | פרצוף בלי פה | פרצוף ללא פה | שותק | שקט"
+      ],
+      "ar": [
+        "وجه بدون فم",
+        "بؤ | بدون فم | تم | سر | سكون | صامت | صمت | فم | لا أستطيع التعبير | لا أصدق | مكتوم | وجه | وجه بدون فم"
+      ],
+      "tr": [
+        "ağzı olmayan yüz",
+        "ağız | ağzı olmayan yüz | ifadesiz | sakin | sesi kesilmiş | sessiz | sır | suskun | yüz"
+      ],
+      "vi": [
+        "mặt không có miệng",
+        "ít nói | mặt | mặt không có miệng | miệng | yên lặng"
+      ],
+      "nl": [
+        "gezicht zonder mond",
+        "geen mond | geheim | gezicht | gezicht zonder mond | mond | niets zeggen | persoon | rustig | smiley | sprakeloos | stil | zwijgen"
+      ]
+    }
+  ],
+  "😶‍🌫": [
+    "other",
+    "",
+    {
+      "en": ["face in clouds", "absentminded | clouds | face | fog | head"],
+      "ru": [
+        "лицо в облаках",
+        "витающий в облаках | голова в облаках | лицо в облаках | лицо в тумане | рассеянный"
+      ],
+      "pl": [
+        "twarz w chmurach",
+        "bujać w obłokach | głowa w chmurach | twarz w chmurach | zamyślenie"
+      ],
+      "fr": [
+        "visage dans les nuages",
+        "brouillard | dans les nuages | distrait | visage dans le brouillard | visage dans les nuages"
+      ],
+      "de": [
+        "Gesicht in Wolken",
+        "geistesabwesend | Gesicht im Nebel | Gesicht in Wolken | Kopf in Wolken"
+      ],
+      "es": [
+        "cara entre las nubes",
+        "ausente | cabeza en las nubes | cara en la niebla | cara entre las nubes | en las nubes"
+      ],
+      "pt": [
+        "rosto nas nuvens",
+        "cabeça nas nuvens | distraído | rosto nas nuvens | rosto no nevoeiro"
+      ],
+      "it": [
+        "testa tra le nuvole",
+        "annebbiato | distratto | sbadato | testa tra le nuvole"
+      ],
+      "ro": [
+        "față în nori",
+        "absent | capul în nori | față în ceață | față în nori"
+      ],
+      "he": [
+        "פרצוף בעננים",
+        "בעננים | בערפל | חולמני | מפוזר | פרצוף בעננים | ראש בעננים"
+      ],
+      "ar": [
+        "وجه في الغيوم",
+        "رأس في الغيوم | شارد الذهن | وجه في الضباب | وجه في الغيوم"
+      ],
+      "tr": [
+        "bulutlardaki yüz",
+        "bulutlardaki kafa | bulutlardaki yüz | dalgın | sisler arasındaki yüz"
+      ],
+      "vi": [
+        "mặt trong đám mây",
+        "đãng trí | đầu trong đám mây | mặt trong đám mây | mặt trong sương mù"
+      ],
+      "nl": [
+        "gezicht in de wolken",
+        "afwezig | gezicht in de mist | gezicht in de wolken | hoofd in de wolken"
+      ]
+    }
+  ],
+  "😷": [
+    "other",
+    "face with medical mask",
+    {
+      "en": [
+        "face with medical mask",
+        "cold | dentist | dermatologist | doctor | dr | face | germs | mask | medical | medicine | sick"
+      ],
+      "ru": [
+        "в медицинской маске",
+        "болеть | вирус | врач | заражение | карантин | маска | медик | микроб | простуда | санитар"
+      ],
+      "pl": [
+        "twarz w masce medycznej",
+        "buźka | choroba | lekarz | maska | operacja | pielęgniarka | twarz | twarz w masce medycznej"
+      ],
+      "fr": [
+        "visage avec masque",
+        "bactéries | dentiste | docteur | émoticône | germes | malade | masque | masque chirurgical | médecin | rhume | visage avec masque"
+      ],
+      "de": [
+        "Gesicht mit Atemschutzmaske",
+        "Arzt | Atemschutzmaske | Bazillen | erkältet | Gesicht | krank | Krankheit | Mund | Mundschutz | Schutzmaske | Smiley | Viren | Virus"
+      ],
+      "es": [
+        "cara con mascarilla médica",
+        "cara | cara con mascarilla médica | enfermo | malo | máscara"
+      ],
+      "pt": [
+        "rosto com máscara médica",
+        "doente | gripado | máscara | máscara médica | resfriado | rosto | rosto com máscara | rosto com máscara médica"
+      ],
+      "it": [
+        "faccina con mascherina",
+        "dentista | dottore | faccina con mascherina | germi | infermiera | infermiere | malato | mascherina | medicina | raffreddato | raffreddore | smog"
+      ],
+      "ro": [
+        "față cu mască medicală",
+        "bolnav | dentist | dermatolog | doctor | dr | față | față cu mască medicală | mască | medic | medicină | microbi | răceală | răcit | viruși"
+      ],
+      "he": [
+        "פרצוף עם מסיכת מנתח",
+        "זיהום אוויר | חולה | מגיפה | מגפה | מנתח | מסיכה | עשן | קורונה"
+      ],
+      "ar": [
+        "وجه بكمامة",
+        "انفلونزا | برد | بكتيريا | جراثيم | جرثومة | حكيم | زكام | طبيب | طبيب أسنان | كمامة | كمامة طبية | متوعك صحيًا | مريض | وجه | وجه بكمامة"
+      ],
+      "tr": [
+        "maskeli yüz",
+        "grip | hasta | maske | maskeli yüz | nezle | rahatsız | soğuk | tıbbi maske | yüz"
+      ],
+      "vi": [
+        "mặt đeo khẩu trang y tế",
+        "bác sĩ | lạnh | mặt | mặt đeo khẩu trang y tế | mặt nạ | ốm"
+      ],
+      "nl": [
+        "gezicht met doktersmasker",
+        "besmet | dokter | doktersmasker | gezicht | gezicht met doktersmasker | gezicht met masker | koud | masker | medicijn | medisch masker | smiley | virus | ziek"
+      ]
+    }
+  ],
+  "😸": [
+    "other",
+    "grinning cat face with smiling eyes",
+    {
+      "en": [
+        "grinning cat with smiling eyes",
+        "animal | cat | eye | eyes | face | grin | grinning | smile | smiling"
+      ],
+      "ru": [
+        "смеющийся кот",
+        "глаза | закрытые глаза | кот | кот с широкой улыбкой и закрытыми глазами | морда | смеющийся | улыбка | широкая улыбка"
+      ],
+      "pl": [
+        "uśmiechnięty kot o wesołych oczach",
+        "głowa | haha | hehe | kot | oczy | roześmiany | uśmiech | uśmiechnięty kot o wesołych oczach | wesoły | zadowolony | zwierzę"
+      ],
+      "fr": [
+        "chat qui sourit avec des yeux rieurs",
+        "animal | chat | chat avec un grand sourire | chat qui sourit avec des yeux rieurs | sourire | visage | yeux rieurs | yeux souriants"
+      ],
+      "de": [
+        "grinsende Katze mit lachenden Augen",
+        "Augen | Gesicht | grinsen | Katze | Katzengesicht | lachen | Smiley | Tier"
+      ],
+      "es": [
+        "gato sonriendo con ojos sonrientes",
+        "cara | gato | gato sonriendo con ojos sonrientes | ojos | sonriente | sonrisa"
+      ],
+      "pt": [
+        "rosto de gato sorrindo com olhos sorridentes",
+        "gato | rindo | riso | rosto | sorrindo | sorriso"
+      ],
+      "it": [
+        "gatto che sogghigna",
+        "faccina | gatto | occhi | sorridente | sorriso"
+      ],
+      "ro": [
+        "pisică încântată cu ochi zâmbitori",
+        "animal | față | încântare | ochi | ochi închiși | pisică | pisică încântată cu ochi zâmbitori | pisică rânjind cu ochi zâmbitori | rânjet | zâmbet"
+      ],
+      "he": [
+        "חתול מחייך עם עיניים מחייכות",
+        "חיוך גדול | חתול | מחייך | עיניים | פה | פרצוף"
+      ],
+      "ar": [
+        "وجه قطة مبتسم بعينين باسمتين",
+        "ابتسام | ابتسامة عريضة | ابتسامة قطة بأعين باسمة | بسينة | بيسة | حيوان | عين | عيون | قط | هر | هرة | وجه | وجه قطة | وجه قطة مبتسم بعينين باسمتين | وجه قطة مبتسم وعيون مبتسمة"
+      ],
+      "tr": [
+        "gülen gözlerle sırıtan kedi",
+        "göz | gülen gözlerle sırıtan kedi | gülümseme | kedi | kedi yüzü | sırıtan kedi yüzü | sırıtan ve gözleri gülümseyen kedi yüzü | sırıtma | yüz"
+      ],
+      "vi": [
+        "mặt mèo cười tươi với hai mắt híp lại",
+        "cười | cười toét | mắt | mặt | mặt mèo cười toét mắt cười | mặt mèo cười tươi với hai mắt híp lại | mèo"
+      ],
+      "nl": [
+        "grijnzende kat met lachende ogen",
+        "dier | gezicht | grijns | grijnzend kattengezicht met lachende ogen | grijnzende kat met lachende ogen | kat | lach | oog | vrolijk"
+      ]
+    }
+  ],
+  "😹": [
+    "other",
+    "cat face with tears of joy",
+    {
+      "en": [
+        "cat with tears of joy",
+        "animal | cat | face | joy | laugh | laughing | lol | tear | tears"
+      ],
+      "ru": [
+        "смеющийся до слез кот",
+        "веселье | кот | кот смеется | кот смеется до слез | морда | радость | слезы счастья | смеющийся до слез кот | смеющийся кот | счастье"
+      ],
+      "pl": [
+        "kot ze łzami radości",
+        "głowa | haha | hehe | kot | kot ze łzami radości | płaczę ze śmiechu | płakać | śmiech | uśmiech | zęby | zwierzę"
+      ],
+      "fr": [
+        "chat qui pleure de joie",
+        "animal | chat | chat qui rit aux larmes | joie | larmes | lol | mdr | pleurer de rire | rire | rire aux larmes"
+      ],
+      "de": [
+        "Katze mit Freudentränen",
+        "Freude | Freudentränen | Gesicht | Katze | Katzengesicht | lachen | Smiley | Tier | Tränen"
+      ],
+      "es": [
+        "gato llorando de risa",
+        "cara | gato | gato llorando de risa | lágrima | risa"
+      ],
+      "pt": [
+        "rosto de gato com lágrimas de alegria",
+        "alegria | chorando | choro | engraçado | felicidade | feliz | gato | lágrimas | rir | risos | rosto"
+      ],
+      "it": [
+        "gatto con lacrime di gioia",
+        "faccina | gatto | gioia | lacrime di gioia | risata | sorriso"
+      ],
+      "ro": [
+        "pisică cu lacrimi de bucurie",
+        "animal | bucurie | față | fericire | lacrimi | lol | pisică | pisică cu lacrimi de bucurie | râde | râs | râset"
+      ],
+      "he": [
+        "חתול עם דמעות שמחה",
+        "דמעות | חתול | מחייך | מצחיק | פרצוף | קורע מצחוק | שמחה"
+      ],
+      "ar": [
+        "وجه قطة بدموع فرح",
+        "بسينة | بيسة | حيوان | دمعة | دموع | ضحك | فرح | قطة | مضحك | هر | ههه | وجه قطة | وجه قطة بدموع فرح"
+      ],
+      "tr": [
+        "sevinç gözyaşları döken kedi",
+        "göz yaşı | gülen kedi | kahkaha atan kedi | kedi | kedi yüzü | komik kedi | sevinç | sevinç gözyaşları döken kedi | sevinç gözyaşları döken kedi yüzü | yüz"
+      ],
+      "vi": [
+        "mặt mèo có nước mắt vui sướng",
+        "mặt | mặt mèo có nước mắt vui sướng | mèo | niềm vui | nước mắt"
+      ],
+      "nl": [
+        "kat met tranen van vreugde",
+        "dier | gezicht | kat | lach | lachen | lol | traan | tranen | vreugde"
+      ]
+    }
+  ],
+  "😺": [
+    "other",
+    "smiling cat face with open mouth",
+    {
+      "en": [
+        "grinning cat",
+        "animal | cat | face | grinning | mouth | open | smile | smiling"
+      ],
+      "ru": [
+        "улыбающийся кот",
+        "домашнее | животное | кот | милашка | питомец | полосатый | улыбка | усы | ушастик | хорошо"
+      ],
+      "pl": [
+        "uśmiechnięty kot",
+        "głowa | haha | hehe | kot | uśmiech | uśmiechnięty kot | uśmiechnięty kot z otwartym pyszczkiem | wesoły | zęby | zwierzę"
+      ],
+      "fr": [
+        "chat qui sourit",
+        "animal | bouche ouverte | chat | chat qui sourit | sourire | visage"
+      ],
+      "de": [
+        "grinsende Katze",
+        "Gesicht | grinsen | Katze | Katzengesicht | lachen | lol | lustig | Mund | offen | Smiley | Tier"
+      ],
+      "es": [
+        "gato sonriendo",
+        "cara | feliz | gato alegre | gato feliz | gato sonriendo | sonrisa"
+      ],
+      "pt": [
+        "rosto de gato sorrindo",
+        "aberta | animal | boca | feliz | gato | rosto | sorrindo | sorriso"
+      ],
+      "it": [
+        "gatto che sorride",
+        "aperta | bocca | faccina | faccina del gatto | gatto | gatto che sorride | sorridente"
+      ],
+      "ro": [
+        "pisică încântată",
+        "animal | deschis | deschisă | față | gură | pisică | pisică încântată | pisică zâmbind cu gura deschisă | zâmbet"
+      ],
+      "he": [
+        "חתול מחייך",
+        "חתול | מחייך | פה | פרצוף | פרצוף של חתול מחייך עם פה פתוח"
+      ],
+      "ar": [
+        "وجه قطة مبتسم بفم مفتوح",
+        "ابتسام | ابتسامة قطة بفم مفتوح | بؤ | بسة | بسينة | بيسة | تم | حيوان | فم | قط | مفتوح | هر | وجه | وجه قطة | وجه قطة مبتسم بفم مفتوح"
+      ],
+      "tr": [
+        "sırıtan kedi",
+        "açık | ağız | gülümseme | gülümseyen kedi yüzü | gülümseyen ve ağzı açık kedi yüzü | kedi | kedi yüzü | sırıtan | yüz"
+      ],
+      "vi": [
+        "mặt mèo cười tươi",
+        "con mèo | khuôn mặt | mặt mèo cười miệng há | mặt mèo cười tươi | miệng | mở ra | nụ cười"
+      ],
+      "nl": [
+        "grijnzende kat",
+        "dier | gezicht | grijnzen | kat | lach | lachen | mond | open"
+      ]
+    }
+  ],
+  "😻": [
+    "other",
+    "smiling cat face with heart-shaped eyes",
+    {
+      "en": [
+        "smiling cat with heart-eyes",
+        "animal | cat | eye | face | heart | heart-eyes | love | smile | smiling"
+      ],
+      "ru": [
+        "влюбленный кот",
+        "влюбиться | влюбленный кот | кот | любовь | морда | сердечки | счастье | улыбка"
+      ],
+      "pl": [
+        "uśmiechnięty kot z oczami w kształcie serca",
+        "buźka | głowa | kocham | kot | miłość | oczy | serca | uśmiechnięty kot z oczami w kształcie serca | zakochany | zwierzę"
+      ],
+      "fr": [
+        "chat souriant aux yeux en cœurs",
+        "amour | amoureux | chat | chat souriant aux yeux en cœurs | chat souriant avec des coeurs dans les yeux | cœur | coeurs | coeurs dans les yeux | sourire | yeux"
+      ],
+      "de": [
+        "lachende Katze mit Herzen als Augen",
+        "Augen | Gesicht | Herzaugen | Herzen | Katze | Katzengesicht | lächeln | lachen | Liebe | Smiley | Tier | verliebt"
+      ],
+      "es": [
+        "gato sonriendo con ojos de corazón",
+        "cara | corazón | enamorado | gato | gato sonriendo con ojos de corazón"
+      ],
+      "pt": [
+        "rosto de gato sorridente com olhos de coração",
+        "adorei | amor | apaixonado | coração | gato | paixão | rosto | sorriso"
+      ],
+      "it": [
+        "gatto innamorato",
+        "amore | cuore | faccina | gatto | occhi a cuore | sorriso"
+      ],
+      "ro": [
+        "pisică zâmbitoare cu inimioare la ochi",
+        "animal | dragoste | față | inimă | inimioare | iubire | ochi | pisică | pisică zâmbind cu ochii inimioare | pisică zâmbitoare cu inimioare la ochi | zâmbet"
+      ],
+      "he": [
+        "חתול מחייך עם עיניים בצורת לב",
+        "אהבה | חתול | לבבות | מחייך | עיניים | עיניים בצורת לב | פרצוף"
+      ],
+      "ar": [
+        "وجه قطة مبتسم بعينين على شكل قلب",
+        "أعين | ابتسامة | ابتسامة قطة وأعين قلب | بسمة | بسين | حب | حيوان | عينان | عيون | قط | قطة | قلوب | هر | هرة | وجه | وجه قطة مبتسم بعين على شكل قلب | وجه قطة مبتسم بعينين على شكل قلب"
+      ],
+      "tr": [
+        "kalp gözlü gülümseyen kedi",
+        "aşık | aşk | gözler | gülümseme | gülümseyen ve kalp şeklinde gözleri olan kedi yüzü | kalp | kalp gözlü gülümseyen kedi | kalp gözlü gülümseyen kedi yüzü | kedi | kedi yüzü | sevgi | yüz"
+      ],
+      "vi": [
+        "mặt mèo cười mắt hình trái tim",
+        "con mèo | hình trái tim | khuôn mặt | mắt | mặt mèo cười mắt hình trái tim | nụ cười | thân ái"
+      ],
+      "nl": [
+        "lachende kat met hartvormige ogen",
+        "dier | gezicht | hart | hartjesogen | kat | lach | lachen | liefde | oog"
+      ]
+    }
+  ],
+  "😼": [
+    "other",
+    "cat face with wry smile",
+    {
+      "en": [
+        "cat with wry smile",
+        "animal | cat | face | ironic | smile | wry"
+      ],
+      "ru": [
+        "ухмыляющийся кот",
+        "кот | кот с ухмылкой | сарказм | улыбка | ухмылка | ухмыляющийся кот | хитрость | хитрый"
+      ],
+      "pl": [
+        "kot z drwiącym uśmiechem",
+        "głowa | ironia | ironiczny | kot | kot z drwiącym uśmiechem | kpiarski | kpina | zwierzę"
+      ],
+      "fr": [
+        "chat avec sourire en coin",
+        "animal | chat | chat avec sourire en coin | ironique | narquois | sourire en coin | sourire narquois | tête de chat | visage"
+      ],
+      "de": [
+        "verwegen lächelnde Katze",
+        "Gesicht | grinsen | ironisch | Katze | Katzengesicht | lächeln | lachen | Smiley | Tier | verwegen"
+      ],
+      "es": [
+        "gato haciendo una mueca",
+        "cara | gato | gato haciendo una mueca | irónico | sonrisa"
+      ],
+      "pt": [
+        "rosto de gato com sorriso irônico",
+        "gato | irônico | rosto | sorriso"
+      ],
+      "it": [
+        "gatto con sorriso sarcastico",
+        "faccina | faccina del gatto | gatto | gatto con sorriso sarcastico | gatto sorriso ironico | gatto sorriso sarcastico | ironico | sarcastico | sorriso ironico"
+      ],
+      "ro": [
+        "pisică cu zâmbet ironic",
+        "animal | față | ironic | ironie | pisică | pisică cu zâmbet ironic | șiretenie | zâmbet"
+      ],
+      "he": ["חתול עם חיוך עקום", "זועם | חיוך עקום | חתול | פרצוף"],
+      "ar": [
+        "وجه قطة بابتسامة ممتعضة",
+        "ابتسامة ساخرة | استهزاء | بسينة | بيسة | حيوان | ساخر | سخرية | قط | هر | وجه | وجه قطة | وجه قطة بابتسامة ممتعضة | وجه قطة ساخر | يستهزئ"
+      ],
+      "tr": [
+        "iğneleyici kedi yüzü",
+        "iğneleyici | iğneleyici gülümseme | iğneleyici kedi yüzü | ironik | kedi | kedi yüzü | kurnaz | muzır | yüz"
+      ],
+      "vi": [
+        "mặt mèo cười gượng",
+        "châm biếm | con mèo | khuôn mặt | mặt mèo cười gượng | mỉa mai | nụ cười"
+      ],
+      "nl": [
+        "gniffelende kat",
+        "gezicht | gniffelende kat | grimas | ironisch | ironische lach | kat | kattenkwaad | lach | ondeugend kattengezicht | smiley | spottend"
+      ]
+    }
+  ],
+  "😽": [
+    "other",
+    "kissing cat face with closed eyes",
+    {
+      "en": [
+        "kissing cat",
+        "animal | cat | closed | eye | eyes | face | kiss | kissing"
+      ],
+      "ru": [
+        "целующий кот",
+        "глаза | губы | кот | кот целует | морда | морды | поцелуй | целующий кот"
+      ],
+      "pl": [
+        "kot przesyłający całusa",
+        "buzi | buziak | całuję | całus | całuski | głowa | kot | kot przesyłający całusa | rumieniec | zwierzę"
+      ],
+      "fr": [
+        "chat qui fait un bisou",
+        "animal | baiser | bise | bisou | chat | chat qui embrasse | chat qui fait un bisou | chat qui fait une bise avec les yeux fermés | embrasser | tête de chat"
+      ],
+      "de": [
+        "küssende Katze",
+        "Augen | geschlossen | Gesicht | Katze | Katzengesicht | Kuss | Küsschen | Küsse | küssen | rot | Smiley | Tier | Wangen"
+      ],
+      "es": ["gato besando", "beso | cara | cariñoso | gato | gato besando"],
+      "pt": [
+        "rosto de gato mandando um beijo",
+        "beijando | beijo | fechado | gato | olho | rosto"
+      ],
+      "it": ["gatto che manda baci", "baci | faccina | gatto | occhi chiusi"],
+      "ro": [
+        "pisică pupăcioasă",
+        "animal | față | ochi | pisică | pisică pupăcioasă | pisică pupând cu ochii închiși | pupic | pupici | sărut"
+      ],
+      "he": [
+        "חתול מנשק",
+        "חתול | מנשק | עיניים סגורות | פרצוף | פרצוף של חתול מנשק עם עיניים סגורות"
+      ],
+      "ar": [
+        "وجه قطة تقبّل",
+        "أعين مغلقة | بسينة | بوسة | بيسة | تقبيل | قبلة | قط | قطة | هر | وجه | وجه قطة تقبّل"
+      ],
+      "tr": [
+        "öpen kedi",
+        "göz | gözler | kapalı | kedi | öpen | öptüm | öpücük | yüz"
+      ],
+      "vi": [
+        "mặt mèo hôn mắt nhắm",
+        "con mèo | hôn | khuôn mặt | mắt | mặt mèo hôn mắt nhắm"
+      ],
+      "nl": [
+        "kussende kat",
+        "dier | gezicht | kat | kus | kussend kattengezicht met gesloten ogen | kussende kat | oog | smiley"
+      ]
+    }
+  ],
+  "😾": [
+    "other",
+    "pouting cat face",
+    {
+      "en": ["pouting cat", "animal | cat | face | pouting"],
+      "ru": ["злой кот", "злой | кот | морда | недовольный | раздраженный"],
+      "pl": [
+        "nadąsany kot",
+        "głowa | grymas | kot | nadąsany kot | obrażony | zły | zwierzę"
+      ],
+      "fr": [
+        "chat qui boude",
+        "animal | bouder | chat | chat en colère | chat qui boude | colère | désaccord | ennui | tête de chat | visage"
+      ],
+      "de": [
+        "schmollende Katze",
+        "Gesicht | Katze | Katzengesicht | schmollen | Schmollmund | Smiley | Tier | verärgert"
+      ],
+      "es": ["gato enfadado", "cara | enfadado | gato"],
+      "pt": [
+        "rosto de gato mal-humorado",
+        "bico | bravo | gato | mal-humorado | rosto"
+      ],
+      "it": [
+        "gatto imbronciato",
+        "arrabbiato | broncio | faccina | gatto | gatto imbronciato | infelice | muso"
+      ],
+      "ro": [
+        "pisică îmbufnată",
+        "animal | bosumflare | bosumflat | enervare | enervat | față | față de pisică bosumflată | îmbufnare | pisică | pisică îmbufnată | supărare | supărat"
+      ],
+      "he": ["חתול זועף", "זועף | חתול | כועס | פרצוף | פרצוף של חתול זועף"],
+      "ar": [
+        "وجه قطة عابس",
+        "بس | بسينة | بيسة | تكشير | حيوان | قط | مقطب | هر | هرة | وجه قطة | وجه قطة عابس | وجه قطة مقطب"
+      ],
+      "tr": [
+        "somurtan kedi",
+        "kedi | kedi yüzü | somurtan | somurtan kedi yüzü | somurtma | yüz"
+      ],
+      "vi": ["mặt mèo hờn dỗi", "hờn dỗi | mặt | mặt mèo hờn dỗi | mèo"],
+      "nl": [
+        "pruilende kat",
+        "boos | boos kattengezicht | dier | gezicht | kat | mokken | pruilen | pruilende kat | smiley"
+      ]
+    }
+  ],
+  "😿": [
+    "other",
+    "crying cat face",
+    {
+      "en": ["crying cat", "animal | cat | cry | crying | face | sad | tear"],
+      "ru": [
+        "плачущий кот",
+        "грустно | жаль | кот | кот плачет | морда | печаль | плач | плачущий кот | слезы"
+      ],
+      "pl": [
+        "płaczący kot",
+        "buźka | głowa | kot | łza | płaczący kot | płaczę | smutek | smutny | zwierzę"
+      ],
+      "fr": [
+        "chat qui pleure",
+        "animal | chat | chat qui pleure | larme | pleurer | tête de chat | triste | visage"
+      ],
+      "de": [
+        "weinende Katze",
+        "Gesicht | Katze | Katzengesicht | Smiley | Tier | Träne | traurig | weinen"
+      ],
+      "es": [
+        "gato llorando",
+        "cara | gato | gato llorando | lágrima | pena | triste"
+      ],
+      "pt": [
+        "rosto de gato chorando",
+        "chorando | choro | gato | lágrima | rosto | triste"
+      ],
+      "it": ["gatto che piange", "faccina | gatto | lacrima | pianto | triste"],
+      "ro": [
+        "pisică plângând",
+        "animal | față | față de pisică plângând | lacrimă | pisică | pisică plângând | plânge | plâns | plânset | trist | tristețe"
+      ],
+      "he": ["חתול בוכה", "בוכה | דמעה | חתול | עצוב | פרצוף"],
+      "ar": [
+        "وجه قطة يبكي",
+        "أبكي | بسة | بسينة | بكاء | بكي | بيسة | تبكي | حزين | حيوان | دمعة | دموع | قط | هر | وجه قطة يبكي | يبكي"
+      ],
+      "tr": [
+        "ağlayan kedi",
+        "ağlama | ağlayan kedi | ağlayan kedi yüzü | göz yaşı | kedi | kedi yüzü | üzgün | yüz"
+      ],
+      "vi": [
+        "mặt mèo đang khóc",
+        "buồn | khóc | mặt | mặt mèo đang khóc | mèo | nước mắt"
+      ],
+      "nl": [
+        "huilende kat",
+        "dier | gezicht | huilen | huilend | kat | traan | verdrietig"
+      ]
+    }
+  ],
+  "🙀": [
+    "other",
+    "weary cat face",
+    {
+      "en": ["weary cat", "animal | cat | face | oh | surprised | weary"],
+      "ru": [
+        "кот в шоке",
+        "в шоке | кот | кот в шоке | кот волнуется | морда | морды | удивление | усталость"
+      ],
+      "pl": [
+        "przestraszony kot",
+        "głowa | kot | przestrach | przestraszony | w szoku | zaskoczony | zdumiony | zszokowany | zwierzę"
+      ],
+      "fr": [
+        "chat fatigué",
+        "animal | chat | chat fatigué | fatigue | inquiet | oh | surpris | tête de chat avec la bouche ouverte | visage"
+      ],
+      "de": [
+        "erschöpfte Katze",
+        "Angst | erschöpft | Gesicht | Katze | Katzengesicht | Panik | Schock | schockiert | Schrei | schreien | Smiley | Tier | überrascht"
+      ],
+      "es": [
+        "gato asustado",
+        "cara | gato | gato asustado | pánico | preocupación | sorpresa"
+      ],
+      "pt": [
+        "rosto de gato desolado",
+        "choque | desolado | gato | meu deus | oh! | rosto | surpresa | surpreso"
+      ],
+      "it": [
+        "gatto esterrefatto",
+        "esterrefatto | faccina | gatto | impossibile | incredibile | non ci credo | oh mio Dio | OMG | sorpreso | wow"
+      ],
+      "ro": [
+        "pisică surprinsă",
+        "animal | doamne | față | față de pisică obosită | oboseală | oh | pisică | pisică surprinsă | șoc | șocat | sperietură | surprins | surpriză | uimire | wow"
+      ],
+      "he": ["חתול פוחד", "בעתה | חתול | מפחד | פחד | פרצוף"],
+      "ar": [
+        "وجه قطة مجهد",
+        "اندهاش شديد | بسينة | حيوان | رباه | قط | لا أصدق | ما بصدق | متعجب | هر | هرة | وجه قطة قلق | وجه قطة مجهد | يا إلهي"
+      ],
+      "tr": [
+        "korkuyla bağıran kedi",
+        "aman tanrım | kedi | korkuyla bağıran kedi | sahiden şaşırmış | şaşkın kedi yüzü | yüz"
+      ],
+      "vi": [
+        "mặt mèo mệt lử",
+        "mặt | mặt mèo mệt lử | mèo | mệt mỏi | ngạc nhiên | ôi"
+      ],
+      "nl": [
+        "vermoeide kat",
+        "dier | geschokt | geschrokken kat | gezicht | kat | oh nee | smiley | verbazing | vermoeid | vermoeide kat | verrast"
+      ]
+    }
+  ],
+  "🙁": [
+    "other",
+    "slightly frowning face",
+    {
+      "en": [
+        "slightly frowning face",
+        "face | frown | frowning | sad | slightly"
+      ],
+      "ru": [
+        "немного грустит",
+        "грустный | досада | недовольный | огорчен | печаль | плохо | разочарован | хмурый"
+      ],
+      "pl": [
+        "lekko zachmurzona twarz",
+        "buźka | ech | grymas | lekko zachmurzona twarz | meh | niezadowolenie | niezadowolony | smutek | smutny"
+      ],
+      "fr": [
+        "visage légèrement mécontent",
+        "émoticône | mécontent | triste | visage | visage légèrement mécontent"
+      ],
+      "de": [
+        "betrübtes Gesicht",
+        "betrübt | Gesicht | schade | Smiley | traurig"
+      ],
+      "es": [
+        "cara con el ceño ligeramente fruncido",
+        "cara | cara con el ceño ligeramente fruncido | ceño | fruncido"
+      ],
+      "pt": [
+        "rosto meio triste",
+        "rosto | rosto meio triste | triste | tristeza | tristinho"
+      ],
+      "it": [
+        "faccina leggermente imbronciata",
+        "corrucciato | faccina | faccina leggermente imbronciata | imbronciato | mettere il muso | mi dispiace | triste | un po’ imbronciato"
+      ],
+      "ro": [
+        "față ușor tristă",
+        "față | față ușor încruntată | față ușor tristă | încruntare | încruntat | nehotărâre | supărare | supărat | trist | tristețe"
+      ],
+      "he": ["פרצוף עם מבט עצוב", "באסה | מבט עצוב | עצוב | פרצוף"],
+      "ar": ["وجه عابس قليلاً", "حزين | زعلان | عابس | وجه | وجه عابس قليلاً"],
+      "tr": [
+        "biraz asık surat",
+        "asık surat | biraz asık surat | endişeli | yüz"
+      ],
+      "vi": ["mặt hơi cau mày", "cau mày | mặt | mặt hơi cau mày"],
+      "nl": [
+        "licht fronsend gezicht",
+        "fronsen | fronsend | gezicht | licht | verdrietig"
+      ]
+    }
+  ],
+  "🙂": [
+    "other",
+    "slightly smiling face",
+    {
+      "en": [
+        "slightly smiling face",
+        "face | happy | slightly | smile | smiling"
+      ],
+      "ru": ["слегка улыбается", "легкая | лицо | радость | смайлик | улыбка"],
+      "pl": [
+        "lekko uśmiechnięta twarz",
+        "buźka | haha | hehe | lekko uśmiechnięta twarz | miły | śmiech | uśmiech | wesoły"
+      ],
+      "fr": [
+        "visage avec un léger sourire",
+        "content | émoticône | heureux | léger sourire | sourire | visage avec un léger sourire | visage souriant"
+      ],
+      "de": [
+        "leicht lächelndes Gesicht",
+        "Gesicht | lächeln | leicht | Smiley"
+      ],
+      "es": [
+        "cara sonriendo ligeramente",
+        "cara | cara sonriendo ligeramente | sonrisa"
+      ],
+      "pt": [
+        "rosto levemente sorridente",
+        "feliz | rosto | rosto levemente sorridente | rosto sorrindo | sorriso | sorriso leve"
+      ],
+      "it": [
+        "faccina con sorriso accennato",
+        "contento | faccina | faccina che sorride | faccina con sorriso accennato | felice | mezzo sorriso | ok | sorrisetto | sorriso | sorriso a bocca chiusa | sorriso accennato | va bene"
+      ],
+      "ro": [
+        "față ușor zâmbitoare",
+        "față | față ușor zâmbitoare | fericire | fericit | zâmbet | zâmbet discret | zâmbitor"
+      ],
+      "he": [
+        "פרצוף עם חיוך קטן",
+        "חיוך | נחמד | פנים מחייכות | פרצוף | פרצוף עם חיוך קל"
+      ],
+      "ar": [
+        "وجه بابتسامة بسيطة",
+        "ابتسامة | ابتسامة طفيفة | سعيد | فرح | وجه | وجه بابتسامة بسيطة"
+      ],
+      "tr": [
+        "hafifçe gülümseyen yüz",
+        "gülme | gülümseme | hafifçe gülümseme | hafifçe gülümseyen yüz | mutlu | neşeli | yüz"
+      ],
+      "vi": ["mặt cười mỉm", "cười | mặt | mặt cười mỉm"],
+      "nl": [
+        "enigszins lachend gezicht",
+        "blij | enigszins | gezicht | glimlachen | lach"
+      ]
+    }
+  ],
+  "🙂‍↔": [
+    "other",
+    "",
+    {
+      "en": [
+        "head shaking horizontally",
+        "head | horizontally | no | shake | shaking"
+      ],
+      "ru": [
+        "отрицательно качает головой",
+        "несогласие | нет | отрицание | отрицательно качает головой"
+      ],
+      "pl": [
+        "głowa kręcąca się poziomo",
+        "głowa kręcąca się poziomo | nie | potrząśnięcie"
+      ],
+      "fr": [
+        "tête secouée horizontalement",
+        "non | secouer | tête secouée horizontalement"
+      ],
+      "de": ["Kopfschütteln", "Kopfschütteln | nein | Schütteln"],
+      "es": [
+        "cabeza negando",
+        "cabeza moviéndose horizontalmente | cabeza negando | negar | no"
+      ],
+      "pt": [
+        "cabeça virando de um lado para o outro",
+        "balançar | cabeça balançando na horizontal | cabeça virando de um lado para o outro | não | negar"
+      ],
+      "it": [
+        "scuotere la testa in senso orizzontale",
+        "no | scuotere | scuotere la testa in senso orizzontale"
+      ],
+      "ro": [
+        "cap care se clatină pe orizontală",
+        "cap care se clatină pe orizontală | cap clătinându-se orizontal | clătinat din cap | dând din cap a negație | negativ | nu"
+      ],
+      "he": ["מנענע ראש מצד לצד", "לא | מנענע | מנענע ראש מצד לצד"],
+      "ar": ["رأس يهتز أفقياً", "رأس يهتز أفقياً | لا، رفض"],
+      "tr": [
+        "yatay olarak sallanan yüz",
+        "hayır | sallama | yatay olarak sallanan yüz"
+      ],
+      "vi": ["lắc đầu", "không | lắc | lắc đầu"],
+      "nl": [
+        "hoofd dat horizontaal beweegt",
+        "hoofd dat horizontaal beweegt | nee | schudden"
+      ]
+    }
+  ],
+  "🙂‍↕": [
+    "other",
+    "",
+    {
+      "en": [
+        "head shaking vertically",
+        "head | nod | shaking | vertically | yes"
+      ],
+      "ru": [
+        "положительно качает головой",
+        "да | кивок | подтверждение | положительно качает головой | согласие"
+      ],
+      "pl": [
+        "głowa kiwająca się pionowo",
+        "głowa kiwająca się pionowo | przytaknięcie | tak"
+      ],
+      "fr": [
+        "tête secouée verticalement",
+        "hochement de tête | oui | tête secouée verticalement"
+      ],
+      "de": ["Kopfnicken", "ja | Kopfnicken | Nicken"],
+      "es": [
+        "cabeza asintiendo",
+        "asentir | cabeza asintiendo | cabeza moviéndose verticalmente | sí"
+      ],
+      "pt": [
+        "cabeça balançando na vertical",
+        "cabeça balançando na vertical | confirmação | sim"
+      ],
+      "it": [
+        "scuotere la testa in senso verticale",
+        "annuire | scuotere la testa in senso verticale | sì"
+      ],
+      "ro": [
+        "cap care se clatină pe verticală",
+        "afirmativ | cap care se clatină pe verticală | cap clătinându-se vertical | clătinat din cap | da | dând din cap afirmativ"
+      ],
+      "he": ["מנענע ראש מלמעלה למטה", "כן | מנענע ראש מלמעלה למטה | נד"],
+      "ar": ["رأس يهتز عمودياً", "رأس يهتز عمودياً | موافقة، نعم"],
+      "tr": [
+        "dikey olarak sallanan yüz",
+        "dikey olarak sallanan yüz | evet | onay"
+      ],
+      "vi": ["gật đầu", "có | gật | gật đầu"],
+      "nl": [
+        "hoofd dat verticaal beweegt",
+        "hoofd dat verticaal beweegt | ja | knikken"
+      ]
+    }
+  ],
+  "🙃": [
+    "other",
+    "upside-down face",
+    {
+      "en": ["upside-down face", "face | hehe | smile | upside-down"],
+      "ru": [
+        "вверх тормашками",
+        "вверх | ногами | перевернутый | смайлик | тормашками | улыбка"
+      ],
+      "pl": [
+        "odwrócona twarz",
+        "buźka | do góry nogami | haha | hehe | odwrócona twarz | śmiech | uśmiech | wesoły"
+      ],
+      "fr": [
+        "tête à l’envers",
+        "émoticône | incroyable | renversée | tête | tête à l’envers | visage"
+      ],
+      "de": [
+        "umgekehrtes Gesicht",
+        "auf dem Kopf | Gesicht | lächeln | Smiley | stehen | umgekehrt"
+      ],
+      "es": ["cara al revés", "cara | cara al revés | revés"],
+      "pt": [
+        "rosto de cabeça para baixo",
+        "de cabeça para baixo | rosto de cabeça para baixo | rosto invertido"
+      ],
+      "it": [
+        "faccina sottosopra",
+        "ah ah | ah ah ah | ahah | ahahah | arrabbiato | capovolto | faccina | sarcastico | scombussolata | sottosopra | triste"
+      ],
+      "ro": [
+        "față cu susul în jos",
+        "față | față cu susul în jos | haha | întors | răsturnat | zâmbet"
+      ],
+      "he": ["פרצוף הפוך", "הפוך | פרצוף | פרצוף הפוך מחייך"],
+      "ar": ["وجه مقلوب", "مقلوب | ههه | وجه"],
+      "tr": ["ters yüz", "gülme | gülümseme | hehe | ters yüz | yüz"],
+      "vi": ["mặt lộn ngược", "lộn ngược | mặt | mặt lộn ngược"],
+      "nl": ["omgekeerd gezicht", "gezicht | glimlach | hehe | omgekeerd"]
+    }
+  ],
+  "🙄": [
+    "other",
+    "face with rolling eyes",
+    {
+      "en": [
+        "face with rolling eyes",
+        "eyeroll | eyes | face | rolling | shade | ugh | whatever"
+      ],
+      "ru": [
+        "закатывает глаза",
+        "блин | глаза | закатить | закончится | когда | надоело | омг | скука | скучно | тоска"
+      ],
+      "pl": [
+        "twarz przewracająca oczami",
+        "buźka | irytacja | obojętność | oczy | pff | przewracam oczami | twarz przewracająca oczami | wszystko jedno | zniecierpliwienie | znudzenie"
+      ],
+      "fr": [
+        "visage roulant des yeux",
+        "agacé | émoticône | excédé | incrédulité | roulement | visage qui lève les yeux au ciel | visage qui roule des yeux | visage roulant des yeux | yeux"
+      ],
+      "de": [
+        "Augen verdrehendes Gesicht",
+        "Augen | genervt | Gesicht | meinetwegen | nerv | ohje | rollen | Smiley | verdrehen | verrollen"
+      ],
+      "es": [
+        "cara con ojos en blanco",
+        "cara | cara con ojos en blanco | frustración | ojos | vueltos"
+      ],
+      "pt": [
+        "rosto com olhos revirados",
+        "olhando para cima | olhos | revirando os olhos | rolando os olhos | rosto | rosto com olhos revirados | tanto faz | virando os olhos"
+      ],
+      "it": [
+        "faccina con occhi al cielo",
+        "evabbé | faccina con occhi al cielo | guardare altrove | noia | occhi al cielo | pazienza | roteare gli occhi | ruotare gli occhi | sollevare gli occhi al cielo | uffa | vabbè"
+      ],
+      "ro": [
+        "față care dă ochii peste cap",
+        "dă ochii peste cap | față | față care dă ochii peste cap | față cu ochii peste cap | mă rog | mda | ochi | ochi peste cap | ochii peste cap | peste cap | plictiseală | să zicem | tăcere | ugh"
+      ],
+      "he": [
+        "פרצוף מגלגל עיניים",
+        "גלגול עיניים | למעלה | מגלגל | עיניים | פרצוף"
+      ],
+      "ar": [
+        "وجه بعينين تدوران",
+        "أعين | أف | أوف | المشاعر والوجوه بالعينين الدوارة | طوافة | عين | عينان | عيون | وجه | وجه بأعين دوارة | وجه بعينين تدوران | يووه"
+      ],
+      "tr": [
+        "gözlerini deviren yüz",
+        "bana ne | banane | beni ilgilendirmez | bilemiyorum | göz devirme | gözlerini deviren yüz | her neyse | hmm | neyse | yani | yüz"
+      ],
+      "vi": [
+        "mặt có mắt đu đưa",
+        "cái gì vậy | đu đưa | không quan tâm | mắt | mặt | mặt có mắt đu đưa | sao cũng được"
+      ],
+      "nl": [
+        "gezicht met rollende ogen",
+        "gezicht | ogen | rollen | rollen met de ogen | schaduw | ugh | wat dan ook"
+      ]
+    }
+  ],
+  "🙅": [
+    "other",
+    "face with no good gesture",
+    {
+      "en": [
+        "person gesturing NO",
+        "forbidden | gesture | hand | NO | not | person | prohibit"
+      ],
+      "ru": [
+        "человек против",
+        "возражаю | жест | запрет | нельзя | нет | отказ | против | хватит"
+      ],
+      "pl": [
+        "osoba pokazująca gest NIE",
+        "kobieta | nic z tego | nie | nie ma mowy | nie wolno | osoba | osoba pokazująca gest NIE | skrzyżowane ręce | sprzeciw | zakaz"
+      ],
+      "fr": [
+        "personne faisant un geste d’interdiction",
+        "aucune chance | bloquer | femme | geste | impossible | interdit | main | niet | non | pas possible | personne faisant un geste d’interdiction | stop"
+      ],
+      "de": [
+        "Person mit überkreuzten Armen",
+        "Arme | Gesicht | NEIN | nicht | Person | überkreuzt | verbieten | verboten"
+      ],
+      "es": [
+        "persona haciendo el gesto de \"no\"",
+        "gesto | mano | no | persona haciendo el gesto de \"no\" | prohibido"
+      ],
+      "pt": [
+        "pessoa fazendo gesto de “não”",
+        "de jeito nenhum | gesto | mão | não | proibido | sem chance"
+      ],
+      "it": [
+        "persona che fa segno di no",
+        "donna | escluso | faccina | gesto | gesto di rifiuto | no | non bene | persona | persona che fa segno di no | rifiuto | stop | vietato"
+      ],
+      "ro": [
+        "persoană făcând un gest de negație",
+        "femeie care arată nu | gest | gestul nu | în niciun caz | interzis | mâini | mână | nu | persoană care arată nu | persoană făcând un gest de negație"
+      ],
+      "he": [
+        "אישה מסמנת ״לא בסדר״",
+        "אדם | אין סיכוי | אישה מסמנת ׳לא׳ | אסור | לא | מסמן | סימן ידיים | עושה לא"
+      ],
+      "ar": [
+        "إشارة رفض",
+        "أشخاص | أمر سيء | إشارة رفض | امرأة | توقف | سيدة | كاراتيه | كفاية | لا | ممنوع | يد"
+      ],
+      "tr": [
+        "hayır hareketi",
+        "asla | hareket | hayır | insan | iyi değil | izin vermiyorum | izinsiz | kişi | olmaz | vücut | yasak | yüz"
+      ],
+      "vi": [
+        "người ra hiệu phản đối",
+        "cấm | cử chỉ | không bao giờ | không cho phép | không đời nào | người ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "persoon die nee-gebaar maakt",
+        "gebaar | hand | illegaal | NEE | niet | persoon | verboden"
+      ]
+    }
+  ],
+  "🙅‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman gesturing NO",
+        "forbidden | gesture | hand | NO | not | prohibit | woman"
+      ],
+      "ru": [
+        "женщина против",
+        "женщина | женщина против | жест | запрещено | нельзя | руки"
+      ],
+      "pl": [
+        "kobieta pokazująca gest NIE",
+        "kobieta | kobieta pokazująca gest NIE | nie | ręce | zakaz"
+      ],
+      "fr": [
+        "femme faisant un geste d’interdiction",
+        "femme | femme faisant un geste d’interdiction | geste | interdit | main"
+      ],
+      "de": [
+        "Frau mit überkreuzten Armen",
+        "Arme | Frau | Frau mit überkreuzten Armen | Gesicht"
+      ],
+      "es": [
+        "mujer haciendo el gesto de \"no\"",
+        "gesto | mano | mujer | mujer haciendo el gesto de \"no\" | prohibido"
+      ],
+      "pt": [
+        "mulher fazendo gesto de “não”",
+        "gesto | mão | mulher | mulher fazendo gesto de “não” | proibido"
+      ],
+      "it": [
+        "donna con gesto di rifiuto",
+        "donna | donna con gesto di rifiuto | no | proibito | rifiuto"
+      ],
+      "ro": [
+        "femeie făcând un gest de negație",
+        "femeie | femeie făcând un gest de negație | gest | interzis | mâini | nu"
+      ],
+      "he": ["אישה מסמנת ״לא״", "אישה | אסור | לא | לא בסדר | מסמנת ״לא״"],
+      "ar": ["غير موافقة", "إشارة رفض | غير موافقة"],
+      "tr": [
+        "hayır hareketi yapan kadın",
+        "bayan | el | hareket | hayır | hayır hareketi yapan kadın | iyi değil | kadın | yasak"
+      ],
+      "vi": [
+        "người phụ nữ ra hiệu phản đối",
+        "bị cấm | cấm | cử chỉ | người phụ nữ | người phụ nữ ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "vrouw die nee-gebaar maakt",
+        "gebaar | hand | illegaal | verboden | vrouw | vrouw die nee-gebaar maakt"
+      ]
+    }
+  ],
+  "🙅‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man gesturing NO",
+        "forbidden | gesture | hand | man | NO | not | prohibit"
+      ],
+      "ru": [
+        "мужчина против",
+        "возражение | жест | запрет | мужчина | нельзя | нет | отказ | против | хватит"
+      ],
+      "pl": [
+        "mężczyzna pokazujący gest NIE",
+        "mężczyzna | mężczyzna pokazujący gest NIE | nie | nie ma | ręce | ręka | zakaz"
+      ],
+      "fr": [
+        "homme faisant un geste d’interdiction",
+        "geste | homme | homme faisant un geste d’interdiction | interdit | main | non"
+      ],
+      "de": [
+        "Mann mit überkreuzten Armen",
+        "Arme | Gesicht | Mann | NEIN | nicht | überkreuzt | verbieten | verboten"
+      ],
+      "es": [
+        "hombre haciendo el gesto de \"no\"",
+        "gesto | hombre | hombre haciendo el gesto de \"no\" | mano | prohibido"
+      ],
+      "pt": [
+        "homem fazendo gesto de “não”",
+        "gesto | homem | homem fazendo gesto de “não” | mão | menino | não | proibido | proibir"
+      ],
+      "it": [
+        "uomo con gesto di rifiuto",
+        "basta | braccia incrociate | incrocio | no | persona | proibito | stop | vietato"
+      ],
+      "ro": [
+        "bărbat făcând un gest de negație",
+        "bărbat | bărbat făcând un gest de negație | gest | interzis | mâini | nepermis | nu"
+      ],
+      "he": [
+        "גבר מסמן ״לא״",
+        "איש | אסור | גבר | לא | לא בסדר | מסמן ״לא״ עם הידיים"
+      ],
+      "ar": [
+        "غير موافق",
+        "إشارة | إشارة رفض | تأشير | غير موافق | كلا | لا | محظور | ممنوع | يد"
+      ],
+      "tr": [
+        "hayır hareketi yapan erkek",
+        "el | erkek | hareket | hayır | hayır hareketi yapan erkek | insan | iyi değil | yasak | yok"
+      ],
+      "vi": [
+        "người đàn ông ra hiệu phản đối",
+        "bị cấm | cấm | cử chỉ | người đàn ông | người đàn ông ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "man die nee-gebaar maakt",
+        "gebaar | hand | illegaal | man | NEE | niet | verboden"
+      ]
+    }
+  ],
+  "🙅🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person gesturing NO: light skin tone",
+        "forbidden | gesture | hand | light skin tone | NO | not | person | prohibit"
+      ],
+      "ru": [
+        "человек против: очень светлый тон кожи",
+        "возражаю | жест | запрет | нельзя | нет | отказ | очень светлый тон кожи | против | хватит"
+      ],
+      "pl": [
+        "osoba pokazująca gest NIE: karnacja jasna",
+        "karnacja jasna | kobieta | nic z tego | nie | nie ma mowy | nie wolno | osoba | osoba pokazująca gest NIE | skrzyżowane ręce | sprzeciw | zakaz"
+      ],
+      "fr": [
+        "personne faisant un geste d’interdiction : peau claire",
+        "aucune chance | bloquer | femme | geste | impossible | interdit | main | niet | non | pas possible | peau claire | personne faisant un geste d’interdiction | stop"
+      ],
+      "de": [
+        "Person mit überkreuzten Armen: helle Hautfarbe",
+        "Arme | Gesicht | helle Hautfarbe | NEIN | nicht | Person | überkreuzt | verbieten | verboten"
+      ],
+      "es": [
+        "persona haciendo el gesto de \"no\": tono de piel claro",
+        "gesto | mano | no | persona haciendo el gesto de \"no\" | prohibido | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa fazendo gesto de “não”: pele clara",
+        "de jeito nenhum | gesto | mão | não | pele clara | proibido | sem chance"
+      ],
+      "it": [
+        "persona che fa segno di no: carnagione chiara",
+        "carnagione chiara | donna | escluso | faccina | gesto | gesto di rifiuto | no | non bene | persona | persona che fa segno di no | rifiuto | stop | vietato"
+      ],
+      "ro": [
+        "persoană făcând un gest de negație: ton deschis al pielii",
+        "femeie care arată nu | gest | gestul nu | în niciun caz | interzis | mâini | mână | nu | persoană care arată nu | persoană făcând un gest de negație | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה מסמנת ״לא בסדר״: גוון עור בהיר",
+        "אדם | אין סיכוי | אישה מסמנת ׳לא׳ | אסור | גוון עור בהיר | לא | מסמן | סימן ידיים | עושה לא"
+      ],
+      "ar": [
+        "إشارة رفض: بشرة بلون فاتح",
+        "أشخاص | أمر سيء | إشارة رفض | امرأة | بشرة بلون فاتح | توقف | سيدة | كاراتيه | كفاية | لا | ممنوع | يد"
+      ],
+      "tr": [
+        "hayır hareketi: açık cilt tonu",
+        "açık cilt tonu | asla | hareket | hayır | insan | iyi değil | izin vermiyorum | izinsiz | kişi | olmaz | vücut | yasak | yüz"
+      ],
+      "vi": [
+        "người ra hiệu phản đối: màu da sáng",
+        "cấm | cử chỉ | không bao giờ | không cho phép | không đời nào | màu da sáng | người ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "persoon die nee-gebaar maakt: lichte huidskleur",
+        "gebaar | hand | illegaal | lichte huidskleur | NEE | niet | persoon | verboden"
+      ]
+    }
+  ],
+  "🙅🏻‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman gesturing NO: light skin tone",
+        "forbidden | gesture | hand | light skin tone | NO | not | prohibit | woman"
+      ],
+      "ru": [
+        "женщина против: очень светлый тон кожи",
+        "женщина | женщина против | жест | запрещено | нельзя | очень светлый тон кожи | руки"
+      ],
+      "pl": [
+        "kobieta pokazująca gest NIE: karnacja jasna",
+        "karnacja jasna | kobieta | kobieta pokazująca gest NIE | nie | ręce | zakaz"
+      ],
+      "fr": [
+        "femme faisant un geste d’interdiction : peau claire",
+        "femme | femme faisant un geste d’interdiction | geste | interdit | main | peau claire"
+      ],
+      "de": [
+        "Frau mit überkreuzten Armen: helle Hautfarbe",
+        "Arme | Frau | Frau mit überkreuzten Armen | Gesicht | helle Hautfarbe"
+      ],
+      "es": [
+        "mujer haciendo el gesto de \"no\": tono de piel claro",
+        "gesto | mano | mujer | mujer haciendo el gesto de \"no\" | prohibido | tono de piel claro"
+      ],
+      "pt": [
+        "mulher fazendo gesto de “não”: pele clara",
+        "gesto | mão | mulher | mulher fazendo gesto de “não” | pele clara | proibido"
+      ],
+      "it": [
+        "donna con gesto di rifiuto: carnagione chiara",
+        "carnagione chiara | donna | donna con gesto di rifiuto | no | proibito | rifiuto"
+      ],
+      "ro": [
+        "femeie făcând un gest de negație: ton deschis al pielii",
+        "femeie | femeie făcând un gest de negație | gest | interzis | mâini | nu | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה מסמנת ״לא״: גוון עור בהיר",
+        "אישה | אסור | גוון עור בהיר | לא | לא בסדר | מסמנת ״לא״"
+      ],
+      "ar": [
+        "غير موافقة: بشرة بلون فاتح",
+        "إشارة رفض | بشرة بلون فاتح | غير موافقة"
+      ],
+      "tr": [
+        "hayır hareketi yapan kadın: açık cilt tonu",
+        "açık cilt tonu | bayan | el | hareket | hayır | hayır hareketi yapan kadın | iyi değil | kadın | yasak"
+      ],
+      "vi": [
+        "người phụ nữ ra hiệu phản đối: màu da sáng",
+        "bị cấm | cấm | cử chỉ | màu da sáng | người phụ nữ | người phụ nữ ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "vrouw die nee-gebaar maakt: lichte huidskleur",
+        "gebaar | hand | illegaal | lichte huidskleur | verboden | vrouw | vrouw die nee-gebaar maakt"
+      ]
+    }
+  ],
+  "🙅🏻‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man gesturing NO: light skin tone",
+        "forbidden | gesture | hand | light skin tone | man | NO | not | prohibit"
+      ],
+      "ru": [
+        "мужчина против: очень светлый тон кожи",
+        "возражение | жест | запрет | мужчина | нельзя | нет | отказ | очень светлый тон кожи | против | хватит"
+      ],
+      "pl": [
+        "mężczyzna pokazujący gest NIE: karnacja jasna",
+        "karnacja jasna | mężczyzna | mężczyzna pokazujący gest NIE | nie | nie ma | ręce | ręka | zakaz"
+      ],
+      "fr": [
+        "homme faisant un geste d’interdiction : peau claire",
+        "geste | homme | homme faisant un geste d’interdiction | interdit | main | non | peau claire"
+      ],
+      "de": [
+        "Mann mit überkreuzten Armen: helle Hautfarbe",
+        "Arme | Gesicht | helle Hautfarbe | Mann | NEIN | nicht | überkreuzt | verbieten | verboten"
+      ],
+      "es": [
+        "hombre haciendo el gesto de \"no\": tono de piel claro",
+        "gesto | hombre | hombre haciendo el gesto de \"no\" | mano | prohibido | tono de piel claro"
+      ],
+      "pt": [
+        "homem fazendo gesto de “não”: pele clara",
+        "gesto | homem | homem fazendo gesto de “não” | mão | menino | não | pele clara | proibido | proibir"
+      ],
+      "it": [
+        "uomo con gesto di rifiuto: carnagione chiara",
+        "basta | braccia incrociate | carnagione chiara | incrocio | no | persona | proibito | stop | vietato"
+      ],
+      "ro": [
+        "bărbat făcând un gest de negație: ton deschis al pielii",
+        "bărbat | bărbat făcând un gest de negație | gest | interzis | mâini | nepermis | nu | ton deschis al pielii"
+      ],
+      "he": [
+        "גבר מסמן ״לא״: גוון עור בהיר",
+        "איש | אסור | גבר | גוון עור בהיר | לא | לא בסדר | מסמן ״לא״ עם הידיים"
+      ],
+      "ar": [
+        "غير موافق: بشرة بلون فاتح",
+        "إشارة | إشارة رفض | بشرة بلون فاتح | تأشير | غير موافق | كلا | لا | محظور | ممنوع | يد"
+      ],
+      "tr": [
+        "hayır hareketi yapan erkek: açık cilt tonu",
+        "açık cilt tonu | el | erkek | hareket | hayır | hayır hareketi yapan erkek | insan | iyi değil | yasak | yok"
+      ],
+      "vi": [
+        "người đàn ông ra hiệu phản đối: màu da sáng",
+        "bị cấm | cấm | cử chỉ | màu da sáng | người đàn ông | người đàn ông ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "man die nee-gebaar maakt: lichte huidskleur",
+        "gebaar | hand | illegaal | lichte huidskleur | man | NEE | niet | verboden"
+      ]
+    }
+  ],
+  "🙅🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person gesturing NO: medium-light skin tone",
+        "forbidden | gesture | hand | medium-light skin tone | NO | not | person | prohibit"
+      ],
+      "ru": [
+        "человек против: светлый тон кожи",
+        "возражаю | жест | запрет | нельзя | нет | отказ | против | светлый тон кожи | хватит"
+      ],
+      "pl": [
+        "osoba pokazująca gest NIE: karnacja średnio jasna",
+        "karnacja średnio jasna | kobieta | nic z tego | nie | nie ma mowy | nie wolno | osoba | osoba pokazująca gest NIE | skrzyżowane ręce | sprzeciw | zakaz"
+      ],
+      "fr": [
+        "personne faisant un geste d’interdiction : peau moyennement claire",
+        "aucune chance | bloquer | femme | geste | impossible | interdit | main | niet | non | pas possible | peau moyennement claire | personne faisant un geste d’interdiction | stop"
+      ],
+      "de": [
+        "Person mit überkreuzten Armen: mittelhelle Hautfarbe",
+        "Arme | Gesicht | mittelhelle Hautfarbe | NEIN | nicht | Person | überkreuzt | verbieten | verboten"
+      ],
+      "es": [
+        "persona haciendo el gesto de \"no\": tono de piel claro medio",
+        "gesto | mano | no | persona haciendo el gesto de \"no\" | prohibido | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoa fazendo gesto de “não”: pele morena clara",
+        "de jeito nenhum | gesto | mão | não | pele morena clara | proibido | sem chance"
+      ],
+      "it": [
+        "persona che fa segno di no: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | donna | escluso | faccina | gesto | gesto di rifiuto | no | non bene | persona | persona che fa segno di no | rifiuto | stop | vietato"
+      ],
+      "ro": [
+        "persoană făcând un gest de negație: ton semi‑deschis al pielii",
+        "femeie care arată nu | gest | gestul nu | în niciun caz | interzis | mâini | mână | nu | persoană care arată nu | persoană făcând un gest de negație | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה מסמנת ״לא בסדר״: גוון עור בהיר בינוני",
+        "אדם | אין סיכוי | אישה מסמנת ׳לא׳ | אסור | גוון עור בהיר בינוני | לא | מסמן | סימן ידיים | עושה לא"
+      ],
+      "ar": [
+        "إشارة رفض: بشرة بلون فاتح ومعتدل",
+        "أشخاص | أمر سيء | إشارة رفض | امرأة | بشرة بلون فاتح ومعتدل | توقف | سيدة | كاراتيه | كفاية | لا | ممنوع | يد"
+      ],
+      "tr": [
+        "hayır hareketi: orta açık cilt tonu",
+        "asla | hareket | hayır | insan | iyi değil | izin vermiyorum | izinsiz | kişi | olmaz | orta açık cilt tonu | vücut | yasak | yüz"
+      ],
+      "vi": [
+        "người ra hiệu phản đối: màu da sáng trung bình",
+        "cấm | cử chỉ | không bao giờ | không cho phép | không đời nào | màu da sáng trung bình | người ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "persoon die nee-gebaar maakt: lichtgetinte huidskleur",
+        "gebaar | hand | illegaal | lichtgetinte huidskleur | NEE | niet | persoon | verboden"
+      ]
+    }
+  ],
+  "🙅🏼‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman gesturing NO: medium-light skin tone",
+        "forbidden | gesture | hand | medium-light skin tone | NO | not | prohibit | woman"
+      ],
+      "ru": [
+        "женщина против: светлый тон кожи",
+        "женщина | женщина против | жест | запрещено | нельзя | руки | светлый тон кожи"
+      ],
+      "pl": [
+        "kobieta pokazująca gest NIE: karnacja średnio jasna",
+        "karnacja średnio jasna | kobieta | kobieta pokazująca gest NIE | nie | ręce | zakaz"
+      ],
+      "fr": [
+        "femme faisant un geste d’interdiction : peau moyennement claire",
+        "femme | femme faisant un geste d’interdiction | geste | interdit | main | peau moyennement claire"
+      ],
+      "de": [
+        "Frau mit überkreuzten Armen: mittelhelle Hautfarbe",
+        "Arme | Frau | Frau mit überkreuzten Armen | Gesicht | mittelhelle Hautfarbe"
+      ],
+      "es": [
+        "mujer haciendo el gesto de \"no\": tono de piel claro medio",
+        "gesto | mano | mujer | mujer haciendo el gesto de \"no\" | prohibido | tono de piel claro medio"
+      ],
+      "pt": [
+        "mulher fazendo gesto de “não”: pele morena clara",
+        "gesto | mão | mulher | mulher fazendo gesto de “não” | pele morena clara | proibido"
+      ],
+      "it": [
+        "donna con gesto di rifiuto: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | donna | donna con gesto di rifiuto | no | proibito | rifiuto"
+      ],
+      "ro": [
+        "femeie făcând un gest de negație: ton semi‑deschis al pielii",
+        "femeie | femeie făcând un gest de negație | gest | interzis | mâini | nu | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה מסמנת ״לא״: גוון עור בהיר בינוני",
+        "אישה | אסור | גוון עור בהיר בינוני | לא | לא בסדר | מסמנת ״לא״"
+      ],
+      "ar": [
+        "غير موافقة: بشرة بلون فاتح ومعتدل",
+        "إشارة رفض | بشرة بلون فاتح ومعتدل | غير موافقة"
+      ],
+      "tr": [
+        "hayır hareketi yapan kadın: orta açık cilt tonu",
+        "bayan | el | hareket | hayır | hayır hareketi yapan kadın | iyi değil | kadın | orta açık cilt tonu | yasak"
+      ],
+      "vi": [
+        "người phụ nữ ra hiệu phản đối: màu da sáng trung bình",
+        "bị cấm | cấm | cử chỉ | màu da sáng trung bình | người phụ nữ | người phụ nữ ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "vrouw die nee-gebaar maakt: lichtgetinte huidskleur",
+        "gebaar | hand | illegaal | lichtgetinte huidskleur | verboden | vrouw | vrouw die nee-gebaar maakt"
+      ]
+    }
+  ],
+  "🙅🏼‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man gesturing NO: medium-light skin tone",
+        "forbidden | gesture | hand | man | medium-light skin tone | NO | not | prohibit"
+      ],
+      "ru": [
+        "мужчина против: светлый тон кожи",
+        "возражение | жест | запрет | мужчина | нельзя | нет | отказ | против | светлый тон кожи | хватит"
+      ],
+      "pl": [
+        "mężczyzna pokazujący gest NIE: karnacja średnio jasna",
+        "karnacja średnio jasna | mężczyzna | mężczyzna pokazujący gest NIE | nie | nie ma | ręce | ręka | zakaz"
+      ],
+      "fr": [
+        "homme faisant un geste d’interdiction : peau moyennement claire",
+        "geste | homme | homme faisant un geste d’interdiction | interdit | main | non | peau moyennement claire"
+      ],
+      "de": [
+        "Mann mit überkreuzten Armen: mittelhelle Hautfarbe",
+        "Arme | Gesicht | Mann | mittelhelle Hautfarbe | NEIN | nicht | überkreuzt | verbieten | verboten"
+      ],
+      "es": [
+        "hombre haciendo el gesto de \"no\": tono de piel claro medio",
+        "gesto | hombre | hombre haciendo el gesto de \"no\" | mano | prohibido | tono de piel claro medio"
+      ],
+      "pt": [
+        "homem fazendo gesto de “não”: pele morena clara",
+        "gesto | homem | homem fazendo gesto de “não” | mão | menino | não | pele morena clara | proibido | proibir"
+      ],
+      "it": [
+        "uomo con gesto di rifiuto: carnagione abbastanza chiara",
+        "basta | braccia incrociate | carnagione abbastanza chiara | incrocio | no | persona | proibito | stop | vietato"
+      ],
+      "ro": [
+        "bărbat făcând un gest de negație: ton semi‑deschis al pielii",
+        "bărbat | bărbat făcând un gest de negație | gest | interzis | mâini | nepermis | nu | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "גבר מסמן ״לא״: גוון עור בהיר בינוני",
+        "איש | אסור | גבר | גוון עור בהיר בינוני | לא | לא בסדר | מסמן ״לא״ עם הידיים"
+      ],
+      "ar": [
+        "غير موافق: بشرة بلون فاتح ومعتدل",
+        "إشارة | إشارة رفض | بشرة بلون فاتح ومعتدل | تأشير | غير موافق | كلا | لا | محظور | ممنوع | يد"
+      ],
+      "tr": [
+        "hayır hareketi yapan erkek: orta açık cilt tonu",
+        "el | erkek | hareket | hayır | hayır hareketi yapan erkek | insan | iyi değil | orta açık cilt tonu | yasak | yok"
+      ],
+      "vi": [
+        "người đàn ông ra hiệu phản đối: màu da sáng trung bình",
+        "bị cấm | cấm | cử chỉ | màu da sáng trung bình | người đàn ông | người đàn ông ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "man die nee-gebaar maakt: lichtgetinte huidskleur",
+        "gebaar | hand | illegaal | lichtgetinte huidskleur | man | NEE | niet | verboden"
+      ]
+    }
+  ],
+  "🙅🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "person gesturing NO: medium skin tone",
+        "forbidden | gesture | hand | medium skin tone | NO | not | person | prohibit"
+      ],
+      "ru": [
+        "человек против: средний тон кожи",
+        "возражаю | жест | запрет | нельзя | нет | отказ | против | средний тон кожи | хватит"
+      ],
+      "pl": [
+        "osoba pokazująca gest NIE: karnacja średnia",
+        "karnacja średnia | kobieta | nic z tego | nie | nie ma mowy | nie wolno | osoba | osoba pokazująca gest NIE | skrzyżowane ręce | sprzeciw | zakaz"
+      ],
+      "fr": [
+        "personne faisant un geste d’interdiction : peau légèrement mate",
+        "aucune chance | bloquer | femme | geste | impossible | interdit | main | niet | non | pas possible | peau légèrement mate | personne faisant un geste d’interdiction | stop"
+      ],
+      "de": [
+        "Person mit überkreuzten Armen: mittlere Hautfarbe",
+        "Arme | Gesicht | mittlere Hautfarbe | NEIN | nicht | Person | überkreuzt | verbieten | verboten"
+      ],
+      "es": [
+        "persona haciendo el gesto de \"no\": tono de piel medio",
+        "gesto | mano | no | persona haciendo el gesto de \"no\" | prohibido | tono de piel medio"
+      ],
+      "pt": [
+        "pessoa fazendo gesto de “não”: pele morena",
+        "de jeito nenhum | gesto | mão | não | pele morena | proibido | sem chance"
+      ],
+      "it": [
+        "persona che fa segno di no: carnagione olivastra",
+        "carnagione olivastra | donna | escluso | faccina | gesto | gesto di rifiuto | no | non bene | persona | persona che fa segno di no | rifiuto | stop | vietato"
+      ],
+      "ro": [
+        "persoană făcând un gest de negație: ton mediu al pielii",
+        "femeie care arată nu | gest | gestul nu | în niciun caz | interzis | mâini | mână | nu | persoană care arată nu | persoană făcând un gest de negație | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה מסמנת ״לא בסדר״: גוון עור בינוני",
+        "אדם | אין סיכוי | אישה מסמנת ׳לא׳ | אסור | גוון עור בינוני | לא | מסמן | סימן ידיים | עושה לא"
+      ],
+      "ar": [
+        "إشارة رفض: بشرة بلون معتدل",
+        "أشخاص | أمر سيء | إشارة رفض | امرأة | بشرة بلون معتدل | توقف | سيدة | كاراتيه | كفاية | لا | ممنوع | يد"
+      ],
+      "tr": [
+        "hayır hareketi: orta cilt tonu",
+        "asla | hareket | hayır | insan | iyi değil | izin vermiyorum | izinsiz | kişi | olmaz | orta cilt tonu | vücut | yasak | yüz"
+      ],
+      "vi": [
+        "người ra hiệu phản đối: màu da trung bình",
+        "cấm | cử chỉ | không bao giờ | không cho phép | không đời nào | màu da trung bình | người ra hiệu phản đối | tay"
+      ],
+      "nl": [
+        "persoon die nee-gebaar maakt: getinte huidskleur",
+        "gebaar | getinte huidskleur | hand | illegaal | NEE | niet | persoon | verboden"
+      ]
+    }
+  ]
+}

@@ -154,7 +154,8 @@ void test('groups the catalog once per symbol with localized headings and stable
   const groups = groupSymbolSearchResults(searchSymbolItems('', 'ru'), false);
   assert.deepEqual(
     groups.map((group) => group.category),
-    [...SYMBOL_CATEGORIES],
+    // The base layout has no dedicated emoji group; the extended palette does.
+    SYMBOL_CATEGORIES.filter((category) => category !== 'emoji'),
   );
   const symbols = groups.flatMap((group) =>
     group.matches.map((result) => result.item.symbol),

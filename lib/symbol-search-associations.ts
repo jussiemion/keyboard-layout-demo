@@ -4,12 +4,14 @@ import groups from './symbol-search-associations.json' with { type: 'json' };
 const terms = new Map<string, string[]>();
 for (const group of groups) {
   for (const symbol of group.symbols) {
-    terms.set(symbol, [
-      ...new Set([
-        ...(terms.get(symbol) ?? []),
-        ...Object.values(group.terms).flat(),
-      ]),
-    ]);
+    terms.set(
+      symbol,
+      Array.from(
+        new Set(
+          (terms.get(symbol) ?? []).concat(Object.values(group.terms).flat()),
+        ),
+      ),
+    );
   }
 }
 

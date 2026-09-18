@@ -1,0 +1,2879 @@
+{
+  "👷": [
+    "other",
+    "construction worker",
+    {
+      "en": [
+        "construction worker",
+        "build | construction | fix | hardhat | hat | man | person | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "строитель",
+        "инженер | каска | лицо | рабочий | ремонт | ремонтник | строитель | строить | стройка"
+      ],
+      "pl": [
+        "budowlaniec",
+        "budowlaniec | kask | osoba | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "personnel du bâtiment",
+        "bâtiment | BTP | casque | chantier | construction | homme | métier | ouvrier | personne | personnel du bâtiment | réparer"
+      ],
+      "de": [
+        "Bauarbeiter(in)",
+        "Arbeit | Bau | Bauarbeiter | Bauarbeiter(in) | Bauarbeiterin | Beruf | Gesicht | Helm | Person | Schutzhelm | umbauen"
+      ],
+      "es": [
+        "profesional de la construcción",
+        "casco | construcción | obrero | profesional de la construcción | trabajador"
+      ],
+      "pt": [
+        "trabalhador de construção civil",
+        "capacete | chapéu | construção | construção civil | construir | pessoa | trabalhador | trabalhador de construção civil"
+      ],
+      "it": [
+        "operaio edile",
+        "casco | costruire | costruzioni | edile | ingegnere | lavoratore | muratore | operaio | tuta blu | uomo"
+      ],
+      "ro": [
+        "constructor",
+        "cască | cască de protecție | construcții | constructor | muncă | muncitor | persoană | reparații | șantier"
+      ],
+      "he": [
+        "פועל בניין",
+        "אדם | איש | בטיחות | מהנדס | עובד בבניין | עובד בניין | פועל | פועל בניין | קסדה"
+      ],
+      "ar": [
+        "شخص يعمل في البناء",
+        "أشخاص | إصلاح | بناء | خوذة | رجل | شخص يعمل في البناء | شغل | عامل | عمل | قبعة | معمرجي"
+      ],
+      "tr": [
+        "inşaat işçisi",
+        "baret | inşaat | inşaat işçisi | iş | işçi | kişi | kişiler | meslek | onarım | tadilat | tamirat | vücut"
+      ],
+      "vi": [
+        "công nhân xây dựng",
+        "công nhân | công nhân xây dựng | mũ | mũ bảo hiểm | sửa chữa | tu sửa | xây dựng"
+      ],
+      "nl": [
+        "bouwvakker",
+        "bouw | bouwvakker | helm | klusser | man | persoon | renovatie | renoveren | werk"
+      ]
+    }
+  ],
+  "👷‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman construction worker",
+        "build | construction | fix | hardhat | hat | man | rebuild | remodel | repair | woman | work | worker"
+      ],
+      "ru": [
+        "женщина-строитель",
+        "женщина | инженер | каска | мастерская | ремонтница | служба | строитель"
+      ],
+      "pl": [
+        "kobieta budowlaniec",
+        "budowlaniec | kobieta | osoba | praca | robotnik | zawód"
+      ],
+      "fr": [
+        "ouvrière du bâtiment",
+        "bâtiment | casque | casque de chantier | chantier | femme | métier | ouvrier du bâtiment femme | ouvrière | ouvrière du bâtiment"
+      ],
+      "de": [
+        "Bauarbeiterin",
+        "Bauarbeiter | Bauarbeiterin | Baustelle | Frau | Helm | Mann"
+      ],
+      "es": [
+        "profesional de la construcción mujer",
+        "albañila | construcción | mujer | obrera | profesional de la construcción mujer | trabajadora"
+      ],
+      "pt": [
+        "pedreira",
+        "capacete | construção | contrução | mulher | operária | operário | pedreira | pedreiro"
+      ],
+      "it": [
+        "operaia edile",
+        "casco | costruzioni | donna | edificio | edile | elmetto | ingegnere | lavoro | muratrice | operaia | tuta blu"
+      ],
+      "ro": [
+        "muncitoare în construcții",
+        "cască | construcții | femeie constructor | muncitoare | muncitoare în construcții | muncitor | șantier"
+      ],
+      "he": ["פועלת בניין", "אישה | בניין | מהנדסת | פועלת"],
+      "ar": [
+        "عاملة بناء",
+        "امرأة | بناء | تشييد | شغل | عاملة | عمل | معمرجية"
+      ],
+      "tr": [
+        "kadın inşaat işçisi",
+        "bayan | inşaat | insan | işçi | kadın | kadın inşaat işçisi | kask | meslek"
+      ],
+      "vi": [
+        "công nhân xây dựng nữ",
+        "công nhân | công nhân xây dựng nữ | nữ | nữ công nhân xây dựng | xây dựng"
+      ],
+      "nl": [
+        "vrouwelijke bouwvakker",
+        "baan | beroep | bouw | bouwvakker | helm | persoon | vrouw | vrouwelijke bouwvakker | werk"
+      ]
+    }
+  ],
+  "👷‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man construction worker",
+        "build | construction | fix | hardhat | hat | man | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "мужчина-строитель",
+        "инженер | каска | мужчина | мужчина-строитель | рабочий | строитель | стройка"
+      ],
+      "pl": [
+        "mężczyzna budowlaniec",
+        "budowlaniec | kask | mężczyzna | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "ouvrier du bâtiment",
+        "bâtiment | homme | ouvrier | ouvrier du bâtiment"
+      ],
+      "de": ["Bauarbeiter", "Bauarbeiter | Baustelle | Helm"],
+      "es": [
+        "profesional de la construcción hombre",
+        "albañil | construcción | hombre | obrero | profesional de la construcción hombre | trabajador"
+      ],
+      "pt": ["pedreiro", "construção | homem | operário | pedreiro"],
+      "it": [
+        "operaio edile uomo",
+        "costruzioni | edificio | operaio | operaio edile uomo | uomo"
+      ],
+      "ro": [
+        "muncitor în construcții",
+        "construcții | muncitor | muncitor în construcții"
+      ],
+      "he": ["בנאי", "איש | בנאי | בניין | גבר | פועל"],
+      "ar": ["عامل بناء", "بناء | تشييد | عامل"],
+      "tr": [
+        "erkek inşaat işçisi",
+        "adam | erkek | erkek inşaat işçisi | inşaat | işçi"
+      ],
+      "vi": [
+        "công nhân xây dựng nam",
+        "công nhân | công nhân xây dựng nam | nam | xây dựng"
+      ],
+      "nl": [
+        "mannelijke bouwvakker",
+        "bouw | bouwvakker | man | mannelijke bouwvakker"
+      ]
+    }
+  ],
+  "👷🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "construction worker: light skin tone",
+        "build | construction | fix | hardhat | hat | light skin tone | man | person | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "строитель: очень светлый тон кожи",
+        "инженер | каска | лицо | очень светлый тон кожи | рабочий | ремонт | ремонтник | строитель | строить | стройка"
+      ],
+      "pl": [
+        "budowlaniec: karnacja jasna",
+        "budowlaniec | karnacja jasna | kask | osoba | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "personnel du bâtiment : peau claire",
+        "bâtiment | BTP | casque | chantier | construction | homme | métier | ouvrier | peau claire | personne | personnel du bâtiment | réparer"
+      ],
+      "de": [
+        "Bauarbeiter(in): helle Hautfarbe",
+        "Arbeit | Bau | Bauarbeiter | Bauarbeiter(in) | Bauarbeiterin | Beruf | Gesicht | helle Hautfarbe | Helm | Person | Schutzhelm | umbauen"
+      ],
+      "es": [
+        "profesional de la construcción: tono de piel claro",
+        "casco | construcción | obrero | profesional de la construcción | tono de piel claro | trabajador"
+      ],
+      "pt": [
+        "trabalhador de construção civil: pele clara",
+        "capacete | chapéu | construção | construção civil | construir | pele clara | pessoa | trabalhador | trabalhador de construção civil"
+      ],
+      "it": [
+        "operaio edile: carnagione chiara",
+        "carnagione chiara | casco | costruire | costruzioni | edile | ingegnere | lavoratore | muratore | operaio | tuta blu | uomo"
+      ],
+      "ro": [
+        "constructor: ton deschis al pielii",
+        "cască | cască de protecție | construcții | constructor | muncă | muncitor | persoană | reparații | șantier | ton deschis al pielii"
+      ],
+      "he": [
+        "פועל בניין: גוון עור בהיר",
+        "אדם | איש | בטיחות | גוון עור בהיר | מהנדס | עובד בבניין | עובד בניין | פועל | פועל בניין | קסדה"
+      ],
+      "ar": [
+        "شخص يعمل في البناء: بشرة بلون فاتح",
+        "أشخاص | إصلاح | بشرة بلون فاتح | بناء | خوذة | رجل | شخص يعمل في البناء | شغل | عامل | عمل | قبعة | معمرجي"
+      ],
+      "tr": [
+        "inşaat işçisi: açık cilt tonu",
+        "açık cilt tonu | baret | inşaat | inşaat işçisi | iş | işçi | kişi | kişiler | meslek | onarım | tadilat | tamirat | vücut"
+      ],
+      "vi": [
+        "công nhân xây dựng: màu da sáng",
+        "công nhân | công nhân xây dựng | màu da sáng | mũ | mũ bảo hiểm | sửa chữa | tu sửa | xây dựng"
+      ],
+      "nl": [
+        "bouwvakker: lichte huidskleur",
+        "bouw | bouwvakker | helm | klusser | lichte huidskleur | man | persoon | renovatie | renoveren | werk"
+      ]
+    }
+  ],
+  "👷🏻‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman construction worker: light skin tone",
+        "build | construction | fix | hardhat | hat | light skin tone | man | rebuild | remodel | repair | woman | work | worker"
+      ],
+      "ru": [
+        "женщина-строитель: очень светлый тон кожи",
+        "женщина | инженер | каска | мастерская | очень светлый тон кожи | ремонтница | служба | строитель"
+      ],
+      "pl": [
+        "kobieta budowlaniec: karnacja jasna",
+        "budowlaniec | karnacja jasna | kobieta | osoba | praca | robotnik | zawód"
+      ],
+      "fr": [
+        "ouvrière du bâtiment : peau claire",
+        "bâtiment | casque | casque de chantier | chantier | femme | métier | ouvrier du bâtiment femme | ouvrière | ouvrière du bâtiment | peau claire"
+      ],
+      "de": [
+        "Bauarbeiterin: helle Hautfarbe",
+        "Bauarbeiter | Bauarbeiterin | Baustelle | Frau | helle Hautfarbe | Helm | Mann"
+      ],
+      "es": [
+        "profesional de la construcción mujer: tono de piel claro",
+        "albañila | construcción | mujer | obrera | profesional de la construcción mujer | tono de piel claro | trabajadora"
+      ],
+      "pt": [
+        "pedreira: pele clara",
+        "capacete | construção | contrução | mulher | operária | operário | pedreira | pedreiro | pele clara"
+      ],
+      "it": [
+        "operaia edile: carnagione chiara",
+        "carnagione chiara | casco | costruzioni | donna | edificio | edile | elmetto | ingegnere | lavoro | muratrice | operaia | tuta blu"
+      ],
+      "ro": [
+        "muncitoare în construcții: ton deschis al pielii",
+        "cască | construcții | femeie constructor | muncitoare | muncitoare în construcții | muncitor | șantier | ton deschis al pielii"
+      ],
+      "he": [
+        "פועלת בניין: גוון עור בהיר",
+        "אישה | בניין | גוון עור בהיר | מהנדסת | פועלת"
+      ],
+      "ar": [
+        "عاملة بناء: بشرة بلون فاتح",
+        "امرأة | بشرة بلون فاتح | بناء | تشييد | شغل | عاملة | عمل | معمرجية"
+      ],
+      "tr": [
+        "kadın inşaat işçisi: açık cilt tonu",
+        "açık cilt tonu | bayan | inşaat | insan | işçi | kadın | kadın inşaat işçisi | kask | meslek"
+      ],
+      "vi": [
+        "công nhân xây dựng nữ: màu da sáng",
+        "công nhân | công nhân xây dựng nữ | màu da sáng | nữ | nữ công nhân xây dựng | xây dựng"
+      ],
+      "nl": [
+        "vrouwelijke bouwvakker: lichte huidskleur",
+        "baan | beroep | bouw | bouwvakker | helm | lichte huidskleur | persoon | vrouw | vrouwelijke bouwvakker | werk"
+      ]
+    }
+  ],
+  "👷🏻‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man construction worker: light skin tone",
+        "build | construction | fix | hardhat | hat | light skin tone | man | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "мужчина-строитель: очень светлый тон кожи",
+        "инженер | каска | мужчина | мужчина-строитель | очень светлый тон кожи | рабочий | строитель | стройка"
+      ],
+      "pl": [
+        "mężczyzna budowlaniec: karnacja jasna",
+        "budowlaniec | karnacja jasna | kask | mężczyzna | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "ouvrier du bâtiment : peau claire",
+        "bâtiment | homme | ouvrier | ouvrier du bâtiment | peau claire"
+      ],
+      "de": [
+        "Bauarbeiter: helle Hautfarbe",
+        "Bauarbeiter | Baustelle | helle Hautfarbe | Helm"
+      ],
+      "es": [
+        "profesional de la construcción hombre: tono de piel claro",
+        "albañil | construcción | hombre | obrero | profesional de la construcción hombre | tono de piel claro | trabajador"
+      ],
+      "pt": [
+        "pedreiro: pele clara",
+        "construção | homem | operário | pedreiro | pele clara"
+      ],
+      "it": [
+        "operaio edile uomo: carnagione chiara",
+        "carnagione chiara | costruzioni | edificio | operaio | operaio edile uomo | uomo"
+      ],
+      "ro": [
+        "muncitor în construcții: ton deschis al pielii",
+        "construcții | muncitor | muncitor în construcții | ton deschis al pielii"
+      ],
+      "he": [
+        "בנאי: גוון עור בהיר",
+        "איש | בנאי | בניין | גבר | גוון עור בהיר | פועל"
+      ],
+      "ar": [
+        "عامل بناء: بشرة بلون فاتح",
+        "بشرة بلون فاتح | بناء | تشييد | عامل"
+      ],
+      "tr": [
+        "erkek inşaat işçisi: açık cilt tonu",
+        "açık cilt tonu | adam | erkek | erkek inşaat işçisi | inşaat | işçi"
+      ],
+      "vi": [
+        "công nhân xây dựng nam: màu da sáng",
+        "công nhân | công nhân xây dựng nam | màu da sáng | nam | xây dựng"
+      ],
+      "nl": [
+        "mannelijke bouwvakker: lichte huidskleur",
+        "bouw | bouwvakker | lichte huidskleur | man | mannelijke bouwvakker"
+      ]
+    }
+  ],
+  "👷🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "construction worker: medium-light skin tone",
+        "build | construction | fix | hardhat | hat | man | medium-light skin tone | person | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "строитель: светлый тон кожи",
+        "инженер | каска | лицо | рабочий | ремонт | ремонтник | светлый тон кожи | строитель | строить | стройка"
+      ],
+      "pl": [
+        "budowlaniec: karnacja średnio jasna",
+        "budowlaniec | karnacja średnio jasna | kask | osoba | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "personnel du bâtiment : peau moyennement claire",
+        "bâtiment | BTP | casque | chantier | construction | homme | métier | ouvrier | peau moyennement claire | personne | personnel du bâtiment | réparer"
+      ],
+      "de": [
+        "Bauarbeiter(in): mittelhelle Hautfarbe",
+        "Arbeit | Bau | Bauarbeiter | Bauarbeiter(in) | Bauarbeiterin | Beruf | Gesicht | Helm | mittelhelle Hautfarbe | Person | Schutzhelm | umbauen"
+      ],
+      "es": [
+        "profesional de la construcción: tono de piel claro medio",
+        "casco | construcción | obrero | profesional de la construcción | tono de piel claro medio | trabajador"
+      ],
+      "pt": [
+        "trabalhador de construção civil: pele morena clara",
+        "capacete | chapéu | construção | construção civil | construir | pele morena clara | pessoa | trabalhador | trabalhador de construção civil"
+      ],
+      "it": [
+        "operaio edile: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | casco | costruire | costruzioni | edile | ingegnere | lavoratore | muratore | operaio | tuta blu | uomo"
+      ],
+      "ro": [
+        "constructor: ton semi‑deschis al pielii",
+        "cască | cască de protecție | construcții | constructor | muncă | muncitor | persoană | reparații | șantier | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "פועל בניין: גוון עור בהיר בינוני",
+        "אדם | איש | בטיחות | גוון עור בהיר בינוני | מהנדס | עובד בבניין | עובד בניין | פועל | פועל בניין | קסדה"
+      ],
+      "ar": [
+        "شخص يعمل في البناء: بشرة بلون فاتح ومعتدل",
+        "أشخاص | إصلاح | بشرة بلون فاتح ومعتدل | بناء | خوذة | رجل | شخص يعمل في البناء | شغل | عامل | عمل | قبعة | معمرجي"
+      ],
+      "tr": [
+        "inşaat işçisi: orta açık cilt tonu",
+        "baret | inşaat | inşaat işçisi | iş | işçi | kişi | kişiler | meslek | onarım | orta açık cilt tonu | tadilat | tamirat | vücut"
+      ],
+      "vi": [
+        "công nhân xây dựng: màu da sáng trung bình",
+        "công nhân | công nhân xây dựng | màu da sáng trung bình | mũ | mũ bảo hiểm | sửa chữa | tu sửa | xây dựng"
+      ],
+      "nl": [
+        "bouwvakker: lichtgetinte huidskleur",
+        "bouw | bouwvakker | helm | klusser | lichtgetinte huidskleur | man | persoon | renovatie | renoveren | werk"
+      ]
+    }
+  ],
+  "👷🏼‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman construction worker: medium-light skin tone",
+        "build | construction | fix | hardhat | hat | man | medium-light skin tone | rebuild | remodel | repair | woman | work | worker"
+      ],
+      "ru": [
+        "женщина-строитель: светлый тон кожи",
+        "женщина | инженер | каска | мастерская | ремонтница | светлый тон кожи | служба | строитель"
+      ],
+      "pl": [
+        "kobieta budowlaniec: karnacja średnio jasna",
+        "budowlaniec | karnacja średnio jasna | kobieta | osoba | praca | robotnik | zawód"
+      ],
+      "fr": [
+        "ouvrière du bâtiment : peau moyennement claire",
+        "bâtiment | casque | casque de chantier | chantier | femme | métier | ouvrier du bâtiment femme | ouvrière | ouvrière du bâtiment | peau moyennement claire"
+      ],
+      "de": [
+        "Bauarbeiterin: mittelhelle Hautfarbe",
+        "Bauarbeiter | Bauarbeiterin | Baustelle | Frau | Helm | Mann | mittelhelle Hautfarbe"
+      ],
+      "es": [
+        "profesional de la construcción mujer: tono de piel claro medio",
+        "albañila | construcción | mujer | obrera | profesional de la construcción mujer | tono de piel claro medio | trabajadora"
+      ],
+      "pt": [
+        "pedreira: pele morena clara",
+        "capacete | construção | contrução | mulher | operária | operário | pedreira | pedreiro | pele morena clara"
+      ],
+      "it": [
+        "operaia edile: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | casco | costruzioni | donna | edificio | edile | elmetto | ingegnere | lavoro | muratrice | operaia | tuta blu"
+      ],
+      "ro": [
+        "muncitoare în construcții: ton semi‑deschis al pielii",
+        "cască | construcții | femeie constructor | muncitoare | muncitoare în construcții | muncitor | șantier | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "פועלת בניין: גוון עור בהיר בינוני",
+        "אישה | בניין | גוון עור בהיר בינוני | מהנדסת | פועלת"
+      ],
+      "ar": [
+        "عاملة بناء: بشرة بلون فاتح ومعتدل",
+        "امرأة | بشرة بلون فاتح ومعتدل | بناء | تشييد | شغل | عاملة | عمل | معمرجية"
+      ],
+      "tr": [
+        "kadın inşaat işçisi: orta açık cilt tonu",
+        "bayan | inşaat | insan | işçi | kadın | kadın inşaat işçisi | kask | meslek | orta açık cilt tonu"
+      ],
+      "vi": [
+        "công nhân xây dựng nữ: màu da sáng trung bình",
+        "công nhân | công nhân xây dựng nữ | màu da sáng trung bình | nữ | nữ công nhân xây dựng | xây dựng"
+      ],
+      "nl": [
+        "vrouwelijke bouwvakker: lichtgetinte huidskleur",
+        "baan | beroep | bouw | bouwvakker | helm | lichtgetinte huidskleur | persoon | vrouw | vrouwelijke bouwvakker | werk"
+      ]
+    }
+  ],
+  "👷🏼‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man construction worker: medium-light skin tone",
+        "build | construction | fix | hardhat | hat | man | medium-light skin tone | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "мужчина-строитель: светлый тон кожи",
+        "инженер | каска | мужчина | мужчина-строитель | рабочий | светлый тон кожи | строитель | стройка"
+      ],
+      "pl": [
+        "mężczyzna budowlaniec: karnacja średnio jasna",
+        "budowlaniec | karnacja średnio jasna | kask | mężczyzna | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "ouvrier du bâtiment : peau moyennement claire",
+        "bâtiment | homme | ouvrier | ouvrier du bâtiment | peau moyennement claire"
+      ],
+      "de": [
+        "Bauarbeiter: mittelhelle Hautfarbe",
+        "Bauarbeiter | Baustelle | Helm | mittelhelle Hautfarbe"
+      ],
+      "es": [
+        "profesional de la construcción hombre: tono de piel claro medio",
+        "albañil | construcción | hombre | obrero | profesional de la construcción hombre | tono de piel claro medio | trabajador"
+      ],
+      "pt": [
+        "pedreiro: pele morena clara",
+        "construção | homem | operário | pedreiro | pele morena clara"
+      ],
+      "it": [
+        "operaio edile uomo: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | costruzioni | edificio | operaio | operaio edile uomo | uomo"
+      ],
+      "ro": [
+        "muncitor în construcții: ton semi‑deschis al pielii",
+        "construcții | muncitor | muncitor în construcții | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "בנאי: גוון עור בהיר בינוני",
+        "איש | בנאי | בניין | גבר | גוון עור בהיר בינוני | פועל"
+      ],
+      "ar": [
+        "عامل بناء: بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | بناء | تشييد | عامل"
+      ],
+      "tr": [
+        "erkek inşaat işçisi: orta açık cilt tonu",
+        "adam | erkek | erkek inşaat işçisi | inşaat | işçi | orta açık cilt tonu"
+      ],
+      "vi": [
+        "công nhân xây dựng nam: màu da sáng trung bình",
+        "công nhân | công nhân xây dựng nam | màu da sáng trung bình | nam | xây dựng"
+      ],
+      "nl": [
+        "mannelijke bouwvakker: lichtgetinte huidskleur",
+        "bouw | bouwvakker | lichtgetinte huidskleur | man | mannelijke bouwvakker"
+      ]
+    }
+  ],
+  "👷🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "construction worker: medium skin tone",
+        "build | construction | fix | hardhat | hat | man | medium skin tone | person | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "строитель: средний тон кожи",
+        "инженер | каска | лицо | рабочий | ремонт | ремонтник | средний тон кожи | строитель | строить | стройка"
+      ],
+      "pl": [
+        "budowlaniec: karnacja średnia",
+        "budowlaniec | karnacja średnia | kask | osoba | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "personnel du bâtiment : peau légèrement mate",
+        "bâtiment | BTP | casque | chantier | construction | homme | métier | ouvrier | peau légèrement mate | personne | personnel du bâtiment | réparer"
+      ],
+      "de": [
+        "Bauarbeiter(in): mittlere Hautfarbe",
+        "Arbeit | Bau | Bauarbeiter | Bauarbeiter(in) | Bauarbeiterin | Beruf | Gesicht | Helm | mittlere Hautfarbe | Person | Schutzhelm | umbauen"
+      ],
+      "es": [
+        "profesional de la construcción: tono de piel medio",
+        "casco | construcción | obrero | profesional de la construcción | tono de piel medio | trabajador"
+      ],
+      "pt": [
+        "trabalhador de construção civil: pele morena",
+        "capacete | chapéu | construção | construção civil | construir | pele morena | pessoa | trabalhador | trabalhador de construção civil"
+      ],
+      "it": [
+        "operaio edile: carnagione olivastra",
+        "carnagione olivastra | casco | costruire | costruzioni | edile | ingegnere | lavoratore | muratore | operaio | tuta blu | uomo"
+      ],
+      "ro": [
+        "constructor: ton mediu al pielii",
+        "cască | cască de protecție | construcții | constructor | muncă | muncitor | persoană | reparații | șantier | ton mediu al pielii"
+      ],
+      "he": [
+        "פועל בניין: גוון עור בינוני",
+        "אדם | איש | בטיחות | גוון עור בינוני | מהנדס | עובד בבניין | עובד בניין | פועל | פועל בניין | קסדה"
+      ],
+      "ar": [
+        "شخص يعمل في البناء: بشرة بلون معتدل",
+        "أشخاص | إصلاح | بشرة بلون معتدل | بناء | خوذة | رجل | شخص يعمل في البناء | شغل | عامل | عمل | قبعة | معمرجي"
+      ],
+      "tr": [
+        "inşaat işçisi: orta cilt tonu",
+        "baret | inşaat | inşaat işçisi | iş | işçi | kişi | kişiler | meslek | onarım | orta cilt tonu | tadilat | tamirat | vücut"
+      ],
+      "vi": [
+        "công nhân xây dựng: màu da trung bình",
+        "công nhân | công nhân xây dựng | màu da trung bình | mũ | mũ bảo hiểm | sửa chữa | tu sửa | xây dựng"
+      ],
+      "nl": [
+        "bouwvakker: getinte huidskleur",
+        "bouw | bouwvakker | getinte huidskleur | helm | klusser | man | persoon | renovatie | renoveren | werk"
+      ]
+    }
+  ],
+  "👷🏽‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman construction worker: medium skin tone",
+        "build | construction | fix | hardhat | hat | man | medium skin tone | rebuild | remodel | repair | woman | work | worker"
+      ],
+      "ru": [
+        "женщина-строитель: средний тон кожи",
+        "женщина | инженер | каска | мастерская | ремонтница | служба | средний тон кожи | строитель"
+      ],
+      "pl": [
+        "kobieta budowlaniec: karnacja średnia",
+        "budowlaniec | karnacja średnia | kobieta | osoba | praca | robotnik | zawód"
+      ],
+      "fr": [
+        "ouvrière du bâtiment : peau légèrement mate",
+        "bâtiment | casque | casque de chantier | chantier | femme | métier | ouvrier du bâtiment femme | ouvrière | ouvrière du bâtiment | peau légèrement mate"
+      ],
+      "de": [
+        "Bauarbeiterin: mittlere Hautfarbe",
+        "Bauarbeiter | Bauarbeiterin | Baustelle | Frau | Helm | Mann | mittlere Hautfarbe"
+      ],
+      "es": [
+        "profesional de la construcción mujer: tono de piel medio",
+        "albañila | construcción | mujer | obrera | profesional de la construcción mujer | tono de piel medio | trabajadora"
+      ],
+      "pt": [
+        "pedreira: pele morena",
+        "capacete | construção | contrução | mulher | operária | operário | pedreira | pedreiro | pele morena"
+      ],
+      "it": [
+        "operaia edile: carnagione olivastra",
+        "carnagione olivastra | casco | costruzioni | donna | edificio | edile | elmetto | ingegnere | lavoro | muratrice | operaia | tuta blu"
+      ],
+      "ro": [
+        "muncitoare în construcții: ton mediu al pielii",
+        "cască | construcții | femeie constructor | muncitoare | muncitoare în construcții | muncitor | șantier | ton mediu al pielii"
+      ],
+      "he": [
+        "פועלת בניין: גוון עור בינוני",
+        "אישה | בניין | גוון עור בינוני | מהנדסת | פועלת"
+      ],
+      "ar": [
+        "عاملة بناء: بشرة بلون معتدل",
+        "امرأة | بشرة بلون معتدل | بناء | تشييد | شغل | عاملة | عمل | معمرجية"
+      ],
+      "tr": [
+        "kadın inşaat işçisi: orta cilt tonu",
+        "bayan | inşaat | insan | işçi | kadın | kadın inşaat işçisi | kask | meslek | orta cilt tonu"
+      ],
+      "vi": [
+        "công nhân xây dựng nữ: màu da trung bình",
+        "công nhân | công nhân xây dựng nữ | màu da trung bình | nữ | nữ công nhân xây dựng | xây dựng"
+      ],
+      "nl": [
+        "vrouwelijke bouwvakker: getinte huidskleur",
+        "baan | beroep | bouw | bouwvakker | getinte huidskleur | helm | persoon | vrouw | vrouwelijke bouwvakker | werk"
+      ]
+    }
+  ],
+  "👷🏽‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man construction worker: medium skin tone",
+        "build | construction | fix | hardhat | hat | man | medium skin tone | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "мужчина-строитель: средний тон кожи",
+        "инженер | каска | мужчина | мужчина-строитель | рабочий | средний тон кожи | строитель | стройка"
+      ],
+      "pl": [
+        "mężczyzna budowlaniec: karnacja średnia",
+        "budowlaniec | karnacja średnia | kask | mężczyzna | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "ouvrier du bâtiment : peau légèrement mate",
+        "bâtiment | homme | ouvrier | ouvrier du bâtiment | peau légèrement mate"
+      ],
+      "de": [
+        "Bauarbeiter: mittlere Hautfarbe",
+        "Bauarbeiter | Baustelle | Helm | mittlere Hautfarbe"
+      ],
+      "es": [
+        "profesional de la construcción hombre: tono de piel medio",
+        "albañil | construcción | hombre | obrero | profesional de la construcción hombre | tono de piel medio | trabajador"
+      ],
+      "pt": [
+        "pedreiro: pele morena",
+        "construção | homem | operário | pedreiro | pele morena"
+      ],
+      "it": [
+        "operaio edile uomo: carnagione olivastra",
+        "carnagione olivastra | costruzioni | edificio | operaio | operaio edile uomo | uomo"
+      ],
+      "ro": [
+        "muncitor în construcții: ton mediu al pielii",
+        "construcții | muncitor | muncitor în construcții | ton mediu al pielii"
+      ],
+      "he": [
+        "בנאי: גוון עור בינוני",
+        "איש | בנאי | בניין | גבר | גוון עור בינוני | פועל"
+      ],
+      "ar": [
+        "عامل بناء: بشرة بلون معتدل",
+        "بشرة بلون معتدل | بناء | تشييد | عامل"
+      ],
+      "tr": [
+        "erkek inşaat işçisi: orta cilt tonu",
+        "adam | erkek | erkek inşaat işçisi | inşaat | işçi | orta cilt tonu"
+      ],
+      "vi": [
+        "công nhân xây dựng nam: màu da trung bình",
+        "công nhân | công nhân xây dựng nam | màu da trung bình | nam | xây dựng"
+      ],
+      "nl": [
+        "mannelijke bouwvakker: getinte huidskleur",
+        "bouw | bouwvakker | getinte huidskleur | man | mannelijke bouwvakker"
+      ]
+    }
+  ],
+  "👷🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "construction worker: medium-dark skin tone",
+        "build | construction | fix | hardhat | hat | man | medium-dark skin tone | person | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "строитель: темный тон кожи",
+        "инженер | каска | лицо | рабочий | ремонт | ремонтник | строитель | строить | стройка | темный тон кожи"
+      ],
+      "pl": [
+        "budowlaniec: karnacja średnio ciemna",
+        "budowlaniec | karnacja średnio ciemna | kask | osoba | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "personnel du bâtiment : peau mate",
+        "bâtiment | BTP | casque | chantier | construction | homme | métier | ouvrier | peau mate | personne | personnel du bâtiment | réparer"
+      ],
+      "de": [
+        "Bauarbeiter(in): mitteldunkle Hautfarbe",
+        "Arbeit | Bau | Bauarbeiter | Bauarbeiter(in) | Bauarbeiterin | Beruf | Gesicht | Helm | mitteldunkle Hautfarbe | Person | Schutzhelm | umbauen"
+      ],
+      "es": [
+        "profesional de la construcción: tono de piel oscuro medio",
+        "casco | construcción | obrero | profesional de la construcción | tono de piel oscuro medio | trabajador"
+      ],
+      "pt": [
+        "trabalhador de construção civil: pele morena escura",
+        "capacete | chapéu | construção | construção civil | construir | pele morena escura | pessoa | trabalhador | trabalhador de construção civil"
+      ],
+      "it": [
+        "operaio edile: carnagione abbastanza scura",
+        "carnagione abbastanza scura | casco | costruire | costruzioni | edile | ingegnere | lavoratore | muratore | operaio | tuta blu | uomo"
+      ],
+      "ro": [
+        "constructor: ton semi‑închis al pielii",
+        "cască | cască de protecție | construcții | constructor | muncă | muncitor | persoană | reparații | șantier | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "פועל בניין: גוון עור כהה בינוני",
+        "אדם | איש | בטיחות | גוון עור כהה בינוני | מהנדס | עובד בבניין | עובד בניין | פועל | פועל בניין | קסדה"
+      ],
+      "ar": [
+        "شخص يعمل في البناء: بشرة بلون معتدل مائل للغامق",
+        "أشخاص | إصلاح | بشرة بلون معتدل مائل للغامق | بناء | خوذة | رجل | شخص يعمل في البناء | شغل | عامل | عمل | قبعة | معمرجي"
+      ],
+      "tr": [
+        "inşaat işçisi: orta koyu cilt tonu",
+        "baret | inşaat | inşaat işçisi | iş | işçi | kişi | kişiler | meslek | onarım | orta koyu cilt tonu | tadilat | tamirat | vücut"
+      ],
+      "vi": [
+        "công nhân xây dựng: màu da tối trung bình",
+        "công nhân | công nhân xây dựng | màu da tối trung bình | mũ | mũ bảo hiểm | sửa chữa | tu sửa | xây dựng"
+      ],
+      "nl": [
+        "bouwvakker: donkergetinte huidskleur",
+        "bouw | bouwvakker | donkergetinte huidskleur | helm | klusser | man | persoon | renovatie | renoveren | werk"
+      ]
+    }
+  ],
+  "👷🏾‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman construction worker: medium-dark skin tone",
+        "build | construction | fix | hardhat | hat | man | medium-dark skin tone | rebuild | remodel | repair | woman | work | worker"
+      ],
+      "ru": [
+        "женщина-строитель: темный тон кожи",
+        "женщина | инженер | каска | мастерская | ремонтница | служба | строитель | темный тон кожи"
+      ],
+      "pl": [
+        "kobieta budowlaniec: karnacja średnio ciemna",
+        "budowlaniec | karnacja średnio ciemna | kobieta | osoba | praca | robotnik | zawód"
+      ],
+      "fr": [
+        "ouvrière du bâtiment : peau mate",
+        "bâtiment | casque | casque de chantier | chantier | femme | métier | ouvrier du bâtiment femme | ouvrière | ouvrière du bâtiment | peau mate"
+      ],
+      "de": [
+        "Bauarbeiterin: mitteldunkle Hautfarbe",
+        "Bauarbeiter | Bauarbeiterin | Baustelle | Frau | Helm | Mann | mitteldunkle Hautfarbe"
+      ],
+      "es": [
+        "profesional de la construcción mujer: tono de piel oscuro medio",
+        "albañila | construcción | mujer | obrera | profesional de la construcción mujer | tono de piel oscuro medio | trabajadora"
+      ],
+      "pt": [
+        "pedreira: pele morena escura",
+        "capacete | construção | contrução | mulher | operária | operário | pedreira | pedreiro | pele morena escura"
+      ],
+      "it": [
+        "operaia edile: carnagione abbastanza scura",
+        "carnagione abbastanza scura | casco | costruzioni | donna | edificio | edile | elmetto | ingegnere | lavoro | muratrice | operaia | tuta blu"
+      ],
+      "ro": [
+        "muncitoare în construcții: ton semi‑închis al pielii",
+        "cască | construcții | femeie constructor | muncitoare | muncitoare în construcții | muncitor | șantier | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "פועלת בניין: גוון עור כהה בינוני",
+        "אישה | בניין | גוון עור כהה בינוני | מהנדסת | פועלת"
+      ],
+      "ar": [
+        "عاملة بناء: بشرة بلون معتدل مائل للغامق",
+        "امرأة | بشرة بلون معتدل مائل للغامق | بناء | تشييد | شغل | عاملة | عمل | معمرجية"
+      ],
+      "tr": [
+        "kadın inşaat işçisi: orta koyu cilt tonu",
+        "bayan | inşaat | insan | işçi | kadın | kadın inşaat işçisi | kask | meslek | orta koyu cilt tonu"
+      ],
+      "vi": [
+        "công nhân xây dựng nữ: màu da tối trung bình",
+        "công nhân | công nhân xây dựng nữ | màu da tối trung bình | nữ | nữ công nhân xây dựng | xây dựng"
+      ],
+      "nl": [
+        "vrouwelijke bouwvakker: donkergetinte huidskleur",
+        "baan | beroep | bouw | bouwvakker | donkergetinte huidskleur | helm | persoon | vrouw | vrouwelijke bouwvakker | werk"
+      ]
+    }
+  ],
+  "👷🏾‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man construction worker: medium-dark skin tone",
+        "build | construction | fix | hardhat | hat | man | medium-dark skin tone | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "мужчина-строитель: темный тон кожи",
+        "инженер | каска | мужчина | мужчина-строитель | рабочий | строитель | стройка | темный тон кожи"
+      ],
+      "pl": [
+        "mężczyzna budowlaniec: karnacja średnio ciemna",
+        "budowlaniec | karnacja średnio ciemna | kask | mężczyzna | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "ouvrier du bâtiment : peau mate",
+        "bâtiment | homme | ouvrier | ouvrier du bâtiment | peau mate"
+      ],
+      "de": [
+        "Bauarbeiter: mitteldunkle Hautfarbe",
+        "Bauarbeiter | Baustelle | Helm | mitteldunkle Hautfarbe"
+      ],
+      "es": [
+        "profesional de la construcción hombre: tono de piel oscuro medio",
+        "albañil | construcción | hombre | obrero | profesional de la construcción hombre | tono de piel oscuro medio | trabajador"
+      ],
+      "pt": [
+        "pedreiro: pele morena escura",
+        "construção | homem | operário | pedreiro | pele morena escura"
+      ],
+      "it": [
+        "operaio edile uomo: carnagione abbastanza scura",
+        "carnagione abbastanza scura | costruzioni | edificio | operaio | operaio edile uomo | uomo"
+      ],
+      "ro": [
+        "muncitor în construcții: ton semi‑închis al pielii",
+        "construcții | muncitor | muncitor în construcții | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "בנאי: גוון עור כהה בינוני",
+        "איש | בנאי | בניין | גבר | גוון עור כהה בינוני | פועל"
+      ],
+      "ar": [
+        "عامل بناء: بشرة بلون معتدل مائل للغامق",
+        "بشرة بلون معتدل مائل للغامق | بناء | تشييد | عامل"
+      ],
+      "tr": [
+        "erkek inşaat işçisi: orta koyu cilt tonu",
+        "adam | erkek | erkek inşaat işçisi | inşaat | işçi | orta koyu cilt tonu"
+      ],
+      "vi": [
+        "công nhân xây dựng nam: màu da tối trung bình",
+        "công nhân | công nhân xây dựng nam | màu da tối trung bình | nam | xây dựng"
+      ],
+      "nl": [
+        "mannelijke bouwvakker: donkergetinte huidskleur",
+        "bouw | bouwvakker | donkergetinte huidskleur | man | mannelijke bouwvakker"
+      ]
+    }
+  ],
+  "👷🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "construction worker: dark skin tone",
+        "build | construction | dark skin tone | fix | hardhat | hat | man | person | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "строитель: очень темный тон кожи",
+        "инженер | каска | лицо | очень темный тон кожи | рабочий | ремонт | ремонтник | строитель | строить | стройка"
+      ],
+      "pl": [
+        "budowlaniec: karnacja ciemna",
+        "budowlaniec | karnacja ciemna | kask | osoba | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "personnel du bâtiment : peau foncée",
+        "bâtiment | BTP | casque | chantier | construction | homme | métier | ouvrier | peau foncée | personne | personnel du bâtiment | réparer"
+      ],
+      "de": [
+        "Bauarbeiter(in): dunkle Hautfarbe",
+        "Arbeit | Bau | Bauarbeiter | Bauarbeiter(in) | Bauarbeiterin | Beruf | dunkle Hautfarbe | Gesicht | Helm | Person | Schutzhelm | umbauen"
+      ],
+      "es": [
+        "profesional de la construcción: tono de piel oscuro",
+        "casco | construcción | obrero | profesional de la construcción | tono de piel oscuro | trabajador"
+      ],
+      "pt": [
+        "trabalhador de construção civil: pele escura",
+        "capacete | chapéu | construção | construção civil | construir | pele escura | pessoa | trabalhador | trabalhador de construção civil"
+      ],
+      "it": [
+        "operaio edile: carnagione scura",
+        "carnagione scura | casco | costruire | costruzioni | edile | ingegnere | lavoratore | muratore | operaio | tuta blu | uomo"
+      ],
+      "ro": [
+        "constructor: ton închis al pielii",
+        "cască | cască de protecție | construcții | constructor | muncă | muncitor | persoană | reparații | șantier | ton închis al pielii"
+      ],
+      "he": [
+        "פועל בניין: גוון עור כהה",
+        "אדם | איש | בטיחות | גוון עור כהה | מהנדס | עובד בבניין | עובד בניין | פועל | פועל בניין | קסדה"
+      ],
+      "ar": [
+        "شخص يعمل في البناء: بشرة بلون غامق",
+        "أشخاص | إصلاح | بشرة بلون غامق | بناء | خوذة | رجل | شخص يعمل في البناء | شغل | عامل | عمل | قبعة | معمرجي"
+      ],
+      "tr": [
+        "inşaat işçisi: koyu cilt tonu",
+        "baret | inşaat | inşaat işçisi | iş | işçi | kişi | kişiler | koyu cilt tonu | meslek | onarım | tadilat | tamirat | vücut"
+      ],
+      "vi": [
+        "công nhân xây dựng: màu da tối",
+        "công nhân | công nhân xây dựng | màu da tối | mũ | mũ bảo hiểm | sửa chữa | tu sửa | xây dựng"
+      ],
+      "nl": [
+        "bouwvakker: donkere huidskleur",
+        "bouw | bouwvakker | donkere huidskleur | helm | klusser | man | persoon | renovatie | renoveren | werk"
+      ]
+    }
+  ],
+  "👷🏿‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman construction worker: dark skin tone",
+        "build | construction | dark skin tone | fix | hardhat | hat | man | rebuild | remodel | repair | woman | work | worker"
+      ],
+      "ru": [
+        "женщина-строитель: очень темный тон кожи",
+        "женщина | инженер | каска | мастерская | очень темный тон кожи | ремонтница | служба | строитель"
+      ],
+      "pl": [
+        "kobieta budowlaniec: karnacja ciemna",
+        "budowlaniec | karnacja ciemna | kobieta | osoba | praca | robotnik | zawód"
+      ],
+      "fr": [
+        "ouvrière du bâtiment : peau foncée",
+        "bâtiment | casque | casque de chantier | chantier | femme | métier | ouvrier du bâtiment femme | ouvrière | ouvrière du bâtiment | peau foncée"
+      ],
+      "de": [
+        "Bauarbeiterin: dunkle Hautfarbe",
+        "Bauarbeiter | Bauarbeiterin | Baustelle | dunkle Hautfarbe | Frau | Helm | Mann"
+      ],
+      "es": [
+        "profesional de la construcción mujer: tono de piel oscuro",
+        "albañila | construcción | mujer | obrera | profesional de la construcción mujer | tono de piel oscuro | trabajadora"
+      ],
+      "pt": [
+        "pedreira: pele escura",
+        "capacete | construção | contrução | mulher | operária | operário | pedreira | pedreiro | pele escura"
+      ],
+      "it": [
+        "operaia edile: carnagione scura",
+        "carnagione scura | casco | costruzioni | donna | edificio | edile | elmetto | ingegnere | lavoro | muratrice | operaia | tuta blu"
+      ],
+      "ro": [
+        "muncitoare în construcții: ton închis al pielii",
+        "cască | construcții | femeie constructor | muncitoare | muncitoare în construcții | muncitor | șantier | ton închis al pielii"
+      ],
+      "he": [
+        "פועלת בניין: גוון עור כהה",
+        "אישה | בניין | גוון עור כהה | מהנדסת | פועלת"
+      ],
+      "ar": [
+        "عاملة بناء: بشرة بلون غامق",
+        "امرأة | بشرة بلون غامق | بناء | تشييد | شغل | عاملة | عمل | معمرجية"
+      ],
+      "tr": [
+        "kadın inşaat işçisi: koyu cilt tonu",
+        "bayan | inşaat | insan | işçi | kadın | kadın inşaat işçisi | kask | koyu cilt tonu | meslek"
+      ],
+      "vi": [
+        "công nhân xây dựng nữ: màu da tối",
+        "công nhân | công nhân xây dựng nữ | màu da tối | nữ | nữ công nhân xây dựng | xây dựng"
+      ],
+      "nl": [
+        "vrouwelijke bouwvakker: donkere huidskleur",
+        "baan | beroep | bouw | bouwvakker | donkere huidskleur | helm | persoon | vrouw | vrouwelijke bouwvakker | werk"
+      ]
+    }
+  ],
+  "👷🏿‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man construction worker: dark skin tone",
+        "build | construction | dark skin tone | fix | hardhat | hat | man | rebuild | remodel | repair | work | worker"
+      ],
+      "ru": [
+        "мужчина-строитель: очень темный тон кожи",
+        "инженер | каска | мужчина | мужчина-строитель | очень темный тон кожи | рабочий | строитель | стройка"
+      ],
+      "pl": [
+        "mężczyzna budowlaniec: karnacja ciemna",
+        "budowlaniec | karnacja ciemna | kask | mężczyzna | praca | robotnik | w kasku | zawód"
+      ],
+      "fr": [
+        "ouvrier du bâtiment : peau foncée",
+        "bâtiment | homme | ouvrier | ouvrier du bâtiment | peau foncée"
+      ],
+      "de": [
+        "Bauarbeiter: dunkle Hautfarbe",
+        "Bauarbeiter | Baustelle | dunkle Hautfarbe | Helm"
+      ],
+      "es": [
+        "profesional de la construcción hombre: tono de piel oscuro",
+        "albañil | construcción | hombre | obrero | profesional de la construcción hombre | tono de piel oscuro | trabajador"
+      ],
+      "pt": [
+        "pedreiro: pele escura",
+        "construção | homem | operário | pedreiro | pele escura"
+      ],
+      "it": [
+        "operaio edile uomo: carnagione scura",
+        "carnagione scura | costruzioni | edificio | operaio | operaio edile uomo | uomo"
+      ],
+      "ro": [
+        "muncitor în construcții: ton închis al pielii",
+        "construcții | muncitor | muncitor în construcții | ton închis al pielii"
+      ],
+      "he": [
+        "בנאי: גוון עור כהה",
+        "איש | בנאי | בניין | גבר | גוון עור כהה | פועל"
+      ],
+      "ar": [
+        "عامل بناء: بشرة بلون غامق",
+        "بشرة بلون غامق | بناء | تشييد | عامل"
+      ],
+      "tr": [
+        "erkek inşaat işçisi: koyu cilt tonu",
+        "adam | erkek | erkek inşaat işçisi | inşaat | işçi | koyu cilt tonu"
+      ],
+      "vi": [
+        "công nhân xây dựng nam: màu da tối",
+        "công nhân | công nhân xây dựng nam | màu da tối | nam | xây dựng"
+      ],
+      "nl": [
+        "mannelijke bouwvakker: donkere huidskleur",
+        "bouw | bouwvakker | donkere huidskleur | man | mannelijke bouwvakker"
+      ]
+    }
+  ],
+  "👸": [
+    "other",
+    "princess",
+    {
+      "en": [
+        "princess",
+        "crown | fairy | fairytale | fantasy | princess | queen | royal | royalty | tale"
+      ],
+      "ru": [
+        "принцесса",
+        "королева | королевство | корона | победительница | принцесса | притча | сказка | тиара | фэнтези"
+      ],
+      "pl": [
+        "księżniczka",
+        "bajka | baśń | głowa | królewna | królowa | księżniczka"
+      ],
+      "fr": [
+        "princesse",
+        "conte de fées | couronne | fantastique | personne | princesse | reine"
+      ],
+      "de": ["Prinzessin", "Gesicht | Krone | Märchen | Prinzessin"],
+      "es": ["princesa", "cuento | fantasía | hadas | princesa"],
+      "pt": [
+        "princesa",
+        "conto | coroa | fadas | fantasia | loira | menina | mulher | pessoas | princesa | rainha"
+      ],
+      "it": [
+        "principessa",
+        "comandare | corona | donna | favola | fiaba | monarca | principessa | reale | regina | sovrana"
+      ],
+      "ro": [
+        "prințesă",
+        "basm | coroană | fantezie | fată | poveste | prințesă | regină"
+      ],
+      "he": ["נסיכה", "אגדה | כתר | מלכה | נסיכה"],
+      "ar": ["أميرة", "أشخاص | أميرة | تاج | حدوتة | خرافة | قصة | ملكة"],
+      "tr": ["prenses", "insan | kişiler | kraliçe | peri masalı | prenses"],
+      "vi": [
+        "công chúa",
+        "cổ tích | công chúa | giả tưởng | hoàng gia | hoàng hậu | vương miện"
+      ],
+      "nl": [
+        "prinses",
+        "fantasie | koningin | kroon | persoon | prinses | sprookje | vrouw met kroon"
+      ]
+    }
+  ],
+  "👸🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "princess: light skin tone",
+        "crown | fairy | fairytale | fantasy | light skin tone | princess | queen | royal | royalty | tale"
+      ],
+      "ru": [
+        "принцесса: очень светлый тон кожи",
+        "королева | королевство | корона | очень светлый тон кожи | победительница | принцесса | притча | сказка | тиара | фэнтези"
+      ],
+      "pl": [
+        "księżniczka: karnacja jasna",
+        "bajka | baśń | głowa | karnacja jasna | królewna | królowa | księżniczka"
+      ],
+      "fr": [
+        "princesse : peau claire",
+        "conte de fées | couronne | fantastique | peau claire | personne | princesse | reine"
+      ],
+      "de": [
+        "Prinzessin: helle Hautfarbe",
+        "Gesicht | helle Hautfarbe | Krone | Märchen | Prinzessin"
+      ],
+      "es": [
+        "princesa: tono de piel claro",
+        "cuento | fantasía | hadas | princesa | tono de piel claro"
+      ],
+      "pt": [
+        "princesa: pele clara",
+        "conto | coroa | fadas | fantasia | loira | menina | mulher | pele clara | pessoas | princesa | rainha"
+      ],
+      "it": [
+        "principessa: carnagione chiara",
+        "carnagione chiara | comandare | corona | donna | favola | fiaba | monarca | principessa | reale | regina | sovrana"
+      ],
+      "ro": [
+        "prințesă: ton deschis al pielii",
+        "basm | coroană | fantezie | fată | poveste | prințesă | regină | ton deschis al pielii"
+      ],
+      "he": [
+        "נסיכה: גוון עור בהיר",
+        "אגדה | גוון עור בהיר | כתר | מלכה | נסיכה"
+      ],
+      "ar": [
+        "أميرة: بشرة بلون فاتح",
+        "أشخاص | أميرة | بشرة بلون فاتح | تاج | حدوتة | خرافة | قصة | ملكة"
+      ],
+      "tr": [
+        "prenses: açık cilt tonu",
+        "açık cilt tonu | insan | kişiler | kraliçe | peri masalı | prenses"
+      ],
+      "vi": [
+        "công chúa: màu da sáng",
+        "cổ tích | công chúa | giả tưởng | hoàng gia | hoàng hậu | màu da sáng | vương miện"
+      ],
+      "nl": [
+        "prinses: lichte huidskleur",
+        "fantasie | koningin | kroon | lichte huidskleur | persoon | prinses | sprookje | vrouw met kroon"
+      ]
+    }
+  ],
+  "👸🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "princess: medium-light skin tone",
+        "crown | fairy | fairytale | fantasy | medium-light skin tone | princess | queen | royal | royalty | tale"
+      ],
+      "ru": [
+        "принцесса: светлый тон кожи",
+        "королева | королевство | корона | победительница | принцесса | притча | светлый тон кожи | сказка | тиара | фэнтези"
+      ],
+      "pl": [
+        "księżniczka: karnacja średnio jasna",
+        "bajka | baśń | głowa | karnacja średnio jasna | królewna | królowa | księżniczka"
+      ],
+      "fr": [
+        "princesse : peau moyennement claire",
+        "conte de fées | couronne | fantastique | peau moyennement claire | personne | princesse | reine"
+      ],
+      "de": [
+        "Prinzessin: mittelhelle Hautfarbe",
+        "Gesicht | Krone | Märchen | mittelhelle Hautfarbe | Prinzessin"
+      ],
+      "es": [
+        "princesa: tono de piel claro medio",
+        "cuento | fantasía | hadas | princesa | tono de piel claro medio"
+      ],
+      "pt": [
+        "princesa: pele morena clara",
+        "conto | coroa | fadas | fantasia | loira | menina | mulher | pele morena clara | pessoas | princesa | rainha"
+      ],
+      "it": [
+        "principessa: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | comandare | corona | donna | favola | fiaba | monarca | principessa | reale | regina | sovrana"
+      ],
+      "ro": [
+        "prințesă: ton semi‑deschis al pielii",
+        "basm | coroană | fantezie | fată | poveste | prințesă | regină | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "נסיכה: גוון עור בהיר בינוני",
+        "אגדה | גוון עור בהיר בינוני | כתר | מלכה | נסיכה"
+      ],
+      "ar": [
+        "أميرة: بشرة بلون فاتح ومعتدل",
+        "أشخاص | أميرة | بشرة بلون فاتح ومعتدل | تاج | حدوتة | خرافة | قصة | ملكة"
+      ],
+      "tr": [
+        "prenses: orta açık cilt tonu",
+        "insan | kişiler | kraliçe | orta açık cilt tonu | peri masalı | prenses"
+      ],
+      "vi": [
+        "công chúa: màu da sáng trung bình",
+        "cổ tích | công chúa | giả tưởng | hoàng gia | hoàng hậu | màu da sáng trung bình | vương miện"
+      ],
+      "nl": [
+        "prinses: lichtgetinte huidskleur",
+        "fantasie | koningin | kroon | lichtgetinte huidskleur | persoon | prinses | sprookje | vrouw met kroon"
+      ]
+    }
+  ],
+  "👸🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "princess: medium skin tone",
+        "crown | fairy | fairytale | fantasy | medium skin tone | princess | queen | royal | royalty | tale"
+      ],
+      "ru": [
+        "принцесса: средний тон кожи",
+        "королева | королевство | корона | победительница | принцесса | притча | сказка | средний тон кожи | тиара | фэнтези"
+      ],
+      "pl": [
+        "księżniczka: karnacja średnia",
+        "bajka | baśń | głowa | karnacja średnia | królewna | królowa | księżniczka"
+      ],
+      "fr": [
+        "princesse : peau légèrement mate",
+        "conte de fées | couronne | fantastique | peau légèrement mate | personne | princesse | reine"
+      ],
+      "de": [
+        "Prinzessin: mittlere Hautfarbe",
+        "Gesicht | Krone | Märchen | mittlere Hautfarbe | Prinzessin"
+      ],
+      "es": [
+        "princesa: tono de piel medio",
+        "cuento | fantasía | hadas | princesa | tono de piel medio"
+      ],
+      "pt": [
+        "princesa: pele morena",
+        "conto | coroa | fadas | fantasia | loira | menina | mulher | pele morena | pessoas | princesa | rainha"
+      ],
+      "it": [
+        "principessa: carnagione olivastra",
+        "carnagione olivastra | comandare | corona | donna | favola | fiaba | monarca | principessa | reale | regina | sovrana"
+      ],
+      "ro": [
+        "prințesă: ton mediu al pielii",
+        "basm | coroană | fantezie | fată | poveste | prințesă | regină | ton mediu al pielii"
+      ],
+      "he": [
+        "נסיכה: גוון עור בינוני",
+        "אגדה | גוון עור בינוני | כתר | מלכה | נסיכה"
+      ],
+      "ar": [
+        "أميرة: بشرة بلون معتدل",
+        "أشخاص | أميرة | بشرة بلون معتدل | تاج | حدوتة | خرافة | قصة | ملكة"
+      ],
+      "tr": [
+        "prenses: orta cilt tonu",
+        "insan | kişiler | kraliçe | orta cilt tonu | peri masalı | prenses"
+      ],
+      "vi": [
+        "công chúa: màu da trung bình",
+        "cổ tích | công chúa | giả tưởng | hoàng gia | hoàng hậu | màu da trung bình | vương miện"
+      ],
+      "nl": [
+        "prinses: getinte huidskleur",
+        "fantasie | getinte huidskleur | koningin | kroon | persoon | prinses | sprookje | vrouw met kroon"
+      ]
+    }
+  ],
+  "👸🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "princess: medium-dark skin tone",
+        "crown | fairy | fairytale | fantasy | medium-dark skin tone | princess | queen | royal | royalty | tale"
+      ],
+      "ru": [
+        "принцесса: темный тон кожи",
+        "королева | королевство | корона | победительница | принцесса | притча | сказка | темный тон кожи | тиара | фэнтези"
+      ],
+      "pl": [
+        "księżniczka: karnacja średnio ciemna",
+        "bajka | baśń | głowa | karnacja średnio ciemna | królewna | królowa | księżniczka"
+      ],
+      "fr": [
+        "princesse : peau mate",
+        "conte de fées | couronne | fantastique | peau mate | personne | princesse | reine"
+      ],
+      "de": [
+        "Prinzessin: mitteldunkle Hautfarbe",
+        "Gesicht | Krone | Märchen | mitteldunkle Hautfarbe | Prinzessin"
+      ],
+      "es": [
+        "princesa: tono de piel oscuro medio",
+        "cuento | fantasía | hadas | princesa | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "princesa: pele morena escura",
+        "conto | coroa | fadas | fantasia | loira | menina | mulher | pele morena escura | pessoas | princesa | rainha"
+      ],
+      "it": [
+        "principessa: carnagione abbastanza scura",
+        "carnagione abbastanza scura | comandare | corona | donna | favola | fiaba | monarca | principessa | reale | regina | sovrana"
+      ],
+      "ro": [
+        "prințesă: ton semi‑închis al pielii",
+        "basm | coroană | fantezie | fată | poveste | prințesă | regină | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "נסיכה: גוון עור כהה בינוני",
+        "אגדה | גוון עור כהה בינוני | כתר | מלכה | נסיכה"
+      ],
+      "ar": [
+        "أميرة: بشرة بلون معتدل مائل للغامق",
+        "أشخاص | أميرة | بشرة بلون معتدل مائل للغامق | تاج | حدوتة | خرافة | قصة | ملكة"
+      ],
+      "tr": [
+        "prenses: orta koyu cilt tonu",
+        "insan | kişiler | kraliçe | orta koyu cilt tonu | peri masalı | prenses"
+      ],
+      "vi": [
+        "công chúa: màu da tối trung bình",
+        "cổ tích | công chúa | giả tưởng | hoàng gia | hoàng hậu | màu da tối trung bình | vương miện"
+      ],
+      "nl": [
+        "prinses: donkergetinte huidskleur",
+        "donkergetinte huidskleur | fantasie | koningin | kroon | persoon | prinses | sprookje | vrouw met kroon"
+      ]
+    }
+  ],
+  "👸🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "princess: dark skin tone",
+        "crown | dark skin tone | fairy | fairytale | fantasy | princess | queen | royal | royalty | tale"
+      ],
+      "ru": [
+        "принцесса: очень темный тон кожи",
+        "королева | королевство | корона | очень темный тон кожи | победительница | принцесса | притча | сказка | тиара | фэнтези"
+      ],
+      "pl": [
+        "księżniczka: karnacja ciemna",
+        "bajka | baśń | głowa | karnacja ciemna | królewna | królowa | księżniczka"
+      ],
+      "fr": [
+        "princesse : peau foncée",
+        "conte de fées | couronne | fantastique | peau foncée | personne | princesse | reine"
+      ],
+      "de": [
+        "Prinzessin: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Gesicht | Krone | Märchen | Prinzessin"
+      ],
+      "es": [
+        "princesa: tono de piel oscuro",
+        "cuento | fantasía | hadas | princesa | tono de piel oscuro"
+      ],
+      "pt": [
+        "princesa: pele escura",
+        "conto | coroa | fadas | fantasia | loira | menina | mulher | pele escura | pessoas | princesa | rainha"
+      ],
+      "it": [
+        "principessa: carnagione scura",
+        "carnagione scura | comandare | corona | donna | favola | fiaba | monarca | principessa | reale | regina | sovrana"
+      ],
+      "ro": [
+        "prințesă: ton închis al pielii",
+        "basm | coroană | fantezie | fată | poveste | prințesă | regină | ton închis al pielii"
+      ],
+      "he": ["נסיכה: גוון עור כהה", "אגדה | גוון עור כהה | כתר | מלכה | נסיכה"],
+      "ar": [
+        "أميرة: بشرة بلون غامق",
+        "أشخاص | أميرة | بشرة بلون غامق | تاج | حدوتة | خرافة | قصة | ملكة"
+      ],
+      "tr": [
+        "prenses: koyu cilt tonu",
+        "insan | kişiler | koyu cilt tonu | kraliçe | peri masalı | prenses"
+      ],
+      "vi": [
+        "công chúa: màu da tối",
+        "cổ tích | công chúa | giả tưởng | hoàng gia | hoàng hậu | màu da tối | vương miện"
+      ],
+      "nl": [
+        "prinses: donkere huidskleur",
+        "donkere huidskleur | fantasie | koningin | kroon | persoon | prinses | sprookje | vrouw met kroon"
+      ]
+    }
+  ],
+  "👹": [
+    "other",
+    "japanese ogre",
+    {
+      "en": [
+        "ogre",
+        "creature | devil | face | fairy | fairytale | fantasy | mask | monster | ogre | scary | tale"
+      ],
+      "ru": [
+        "чудовище",
+        "дракон | змей | карнавал | лицо | мифология | монстр | нечисть | страх | существо | чудовище | японский"
+      ],
+      "pl": ["ogr", "diabeł | Japonia | maska | ogr | potwór | zły"],
+      "fr": [
+        "ogre",
+        "créature | effrayant | fantastique | japonais | masque | monstre | ogre"
+      ],
+      "de": [
+        "Ungeheuer",
+        "Gesicht | gruselig | Japan | japanisch | Märchen | Maske | Monster | Oger | Ungeheuer"
+      ],
+      "es": [
+        "demonio japonés oni",
+        "cara | cuento | cuernos | demonio japonés oni | sonrisa"
+      ],
+      "pt": [
+        "ogro",
+        "assustador | conto de fadas | demoníaco | japonês | malvado | máscara | monstro | ogro | oni | rosto"
+      ],
+      "it": [
+        "orco",
+        "creature | diavolo | faccina | favola | fiaba | finzione | maschera | mostro | orco | paura"
+      ],
+      "ro": [
+        "căpcăun",
+        "basm | căpcăun | creatură | demon | diavol | drac | fantezie | față | înfricoșător | înspăimântător | japonez | mască | monstru | noh | poveste | teatru"
+      ],
+      "he": ["מפלצת", "אדום | יצור | מפחיד | מפלצת | עוג | פרצוף | קרניים"],
+      "ar": [
+        "غول",
+        "إبليس | جني | حدوتة | خرافة | رعب | شيطان | غول | قصة | قناع | وجه | وحش | ياباني"
+      ],
+      "tr": [
+        "dev",
+        "canavar | dev | japon | japon canavarı | korkunç | maske | oni | peri masalı | yaratık | yüz"
+      ],
+      "vi": [
+        "mặt quỷ",
+        "mặt | mặt quỷ | quái vật | quỷ ăn thịt người | sinh vật | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "boeman",
+        "duivel | eng | fantasie | gezicht | masker | monster | oger | sprookje | verhaal | wezen"
+      ]
+    }
+  ],
+  "👺": [
+    "other",
+    "japanese goblin",
+    {
+      "en": [
+        "goblin",
+        "angry | creature | face | fairy | fairytale | fantasy | goblin | mask | mean | monster | tale"
+      ],
+      "ru": [
+        "японский гоблин",
+        "гоблин | злой | монстр | сказка | страшный | тэнгу | чудище | японский"
+      ],
+      "pl": ["goblin", "diabeł | goblin | maska | potwór | stwór | zły"],
+      "fr": [
+        "monstre japonais",
+        "colère | créature | fantastique | farfadet | japonais | masque | méchant | monstre"
+      ],
+      "de": [
+        "Kobold",
+        "gemein | Gesicht | Japan | japanisch | Kobold | Märchen | Maske | Monster | Tengu | Ungeheuer | wütend"
+      ],
+      "es": [
+        "demonio japonés tengu",
+        "cara | cuento | demonio japonés tengu | fantasía | monstruo | tengu"
+      ],
+      "pt": [
+        "duende japonês",
+        "bravo | conto | duende | fadas | goblin | japonês | máscara | monstro | raiva | rosto | tengu | zangado"
+      ],
+      "it": [
+        "goblin",
+        "arrabbiato | carnevale | cattivo | crudele | diavolo | favola | fiaba | folletto | goblin | malefico | mostro"
+      ],
+      "ro": [
+        "spiriduș",
+        "basm | creatură | fantezie | față | japonez | magie | mască | monstru | noh | omuleț | poveste | rău | spiriduș | supărat | teatru"
+      ],
+      "he": ["גובלין", "אדום | גובלין | יצור | מפחיד | מפלצת | פרצוף | קרניים"],
+      "ar": [
+        "عفريت",
+        "حدوتة | خرافة | شرير | عفريت | غضب | قتاع | كائن | وجه | وحش | ياباني"
+      ],
+      "tr": [
+        "goblin",
+        "canavar | cin | goblin | japon | japon cini | maske | peri masalı | tengu | yaratık | yüz"
+      ],
+      "vi": [
+        "yêu tinh",
+        "mặt | quái vật | sinh vật | truyện cổ tích | tưởng tượng | yêu tinh"
+      ],
+      "nl": [
+        "kobold",
+        "fabel | fantasie | gezicht | japans | kobold | masker | monster | mythologie | smiley | sprookje | tengu | wezen"
+      ]
+    }
+  ],
+  "👻": [
+    "other",
+    "ghost",
+    {
+      "en": [
+        "ghost",
+        "boo | creature | excited | face | fairy | fairytale | fantasy | ghost | halloween | haunting | monster | scary | silly | tale"
+      ],
+      "ru": [
+        "привидение",
+        "подмигнуть | привидение | призрак | смешной | улыбка | хэллоуин"
+      ],
+      "pl": [
+        "duch",
+        "biały | buźka | duch | duszek | halloween | język | potwór | wesoły duch"
+      ],
+      "fr": [
+        "fantôme",
+        "blague | bouh | créature | effrayant | fantastique | fantôme | Halloween | hanter | monstre | peur | visage | visage de fantôme"
+      ],
+      "de": [
+        "Gespenst",
+        "buh | Fantasy | Geist | Gesicht | Gespenst | gruselig | Halloween | Märchen | Spuk | Zunge"
+      ],
+      "es": ["fantasma", "cara | criatura | cuento | fantasma | monstruo"],
+      "pt": [
+        "fantasma",
+        "assombração | assombrado | buu | conto | fadas | fantasma | halloween | rosto"
+      ],
+      "it": [
+        "fantasma",
+        "creatura | fantasmino | favola | fiaba | halloween | horror | mostro | paura | scherzetto | scherzo | sciocco | storie di fantasmi | stregare | stregato | terrore"
+      ],
+      "ro": [
+        "fantomă",
+        "bântui | basm | bau | creatură | entuziasm | entuziast | fantezie | fantomă | față | fericire | fericit | glumeț | halloween | înspăimântător | monstru | poveste | spaimă | stafie"
+      ],
+      "he": ["רוח רפאים", "יצור | לשון | מוות | מחייך | פרצוף | רוח רפאים"],
+      "ar": [
+        "شبح",
+        "جني | حدوتة | خرافة | شبح | قصة | مخيف | مسكون | هلوين | وجه"
+      ],
+      "tr": ["hayalet", "cadılar bayramı | hayalet | öcü | peri masalı | yüz"],
+      "vi": [
+        "ma",
+        "ma | mặt | quái vật | sinh vật | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "spook",
+        "boe | fantasie | geest | gezicht | halloween | monster | spook | spook met tong uit mond | sprookje | uitgestoken tong | wezen"
+      ]
+    }
+  ],
+  "👼": [
+    "other",
+    "baby angel",
+    {
+      "en": [
+        "baby angel",
+        "angel | baby | church | face | fairy | fairytale | fantasy | tale"
+      ],
+      "ru": [
+        "ангелочек",
+        "ангел | ангелочек | дитя | крылья | лик | младенец | нимб | фэнтези"
+      ],
+      "pl": ["aniołek", "aniołek | bajka | buzia aniołka | fantasy | głowa"],
+      "fr": [
+        "bébé ange",
+        "ailes | ange | auréole | bébé | église | émoticône | fantastique | visage"
+      ],
+      "de": ["Putte", "Engel | Gesicht | Kind | Märchen | Putte"],
+      "es": ["bebé ángel", "ángel | bebé | cara | cuento"],
+      "pt": ["bebê anjo", "anjo | bebê | conto | fadas | rosto"],
+      "it": [
+        "angioletto",
+        "angelo | angioletto | bambina | bambino | bimba | bimbo | chiesa | faccina | favola | fiaba | persona | santo"
+      ],
+      "ro": [
+        "bebeluș îngeraș",
+        "aripi | aură | aureolă | basm | bebeluș | biserică | copil | fantezie | față | înger | îngeraș | poveste"
+      ],
+      "he": ["מלאך תינוק", "אגדה | מלאך | פנטסיה | תינוק"],
+      "ar": ["طفل ملاك", "حدوتة | خرافة | طفل ملاك | قصة | كنيسة | ملاك | وجه"],
+      "tr": ["bebek melek", "bebek | melek | peri masalı | yüz"],
+      "vi": [
+        "thiên thần nhỏ",
+        "bé con | mặt | thiên thần | thiên thần nhỏ | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "baby-engel",
+        "baby | engel | fantasie | gezicht | kerk | sprookje"
+      ]
+    }
+  ],
+  "👼🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "baby angel: light skin tone",
+        "angel | baby | church | face | fairy | fairytale | fantasy | light skin tone | tale"
+      ],
+      "ru": [
+        "ангелочек: очень светлый тон кожи",
+        "ангел | ангелочек | дитя | крылья | лик | младенец | нимб | очень светлый тон кожи | фэнтези"
+      ],
+      "pl": [
+        "aniołek: karnacja jasna",
+        "aniołek | bajka | buzia aniołka | fantasy | głowa | karnacja jasna"
+      ],
+      "fr": [
+        "bébé ange : peau claire",
+        "ailes | ange | auréole | bébé | église | émoticône | fantastique | peau claire | visage"
+      ],
+      "de": [
+        "Putte: helle Hautfarbe",
+        "Engel | Gesicht | helle Hautfarbe | Kind | Märchen | Putte"
+      ],
+      "es": [
+        "bebé ángel: tono de piel claro",
+        "ángel | bebé | cara | cuento | tono de piel claro"
+      ],
+      "pt": [
+        "bebê anjo: pele clara",
+        "anjo | bebê | conto | fadas | pele clara | rosto"
+      ],
+      "it": [
+        "angioletto: carnagione chiara",
+        "angelo | angioletto | bambina | bambino | bimba | bimbo | carnagione chiara | chiesa | faccina | favola | fiaba | persona | santo"
+      ],
+      "ro": [
+        "bebeluș îngeraș: ton deschis al pielii",
+        "aripi | aură | aureolă | basm | bebeluș | biserică | copil | fantezie | față | înger | îngeraș | poveste | ton deschis al pielii"
+      ],
+      "he": [
+        "מלאך תינוק: גוון עור בהיר",
+        "אגדה | גוון עור בהיר | מלאך | פנטסיה | תינוק"
+      ],
+      "ar": [
+        "طفل ملاك: بشرة بلون فاتح",
+        "بشرة بلون فاتح | حدوتة | خرافة | طفل ملاك | قصة | كنيسة | ملاك | وجه"
+      ],
+      "tr": [
+        "bebek melek: açık cilt tonu",
+        "açık cilt tonu | bebek | melek | peri masalı | yüz"
+      ],
+      "vi": [
+        "thiên thần nhỏ: màu da sáng",
+        "bé con | mặt | màu da sáng | thiên thần | thiên thần nhỏ | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "baby-engel: lichte huidskleur",
+        "baby | engel | fantasie | gezicht | kerk | lichte huidskleur | sprookje"
+      ]
+    }
+  ],
+  "👼🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "baby angel: medium-light skin tone",
+        "angel | baby | church | face | fairy | fairytale | fantasy | medium-light skin tone | tale"
+      ],
+      "ru": [
+        "ангелочек: светлый тон кожи",
+        "ангел | ангелочек | дитя | крылья | лик | младенец | нимб | светлый тон кожи | фэнтези"
+      ],
+      "pl": [
+        "aniołek: karnacja średnio jasna",
+        "aniołek | bajka | buzia aniołka | fantasy | głowa | karnacja średnio jasna"
+      ],
+      "fr": [
+        "bébé ange : peau moyennement claire",
+        "ailes | ange | auréole | bébé | église | émoticône | fantastique | peau moyennement claire | visage"
+      ],
+      "de": [
+        "Putte: mittelhelle Hautfarbe",
+        "Engel | Gesicht | Kind | Märchen | mittelhelle Hautfarbe | Putte"
+      ],
+      "es": [
+        "bebé ángel: tono de piel claro medio",
+        "ángel | bebé | cara | cuento | tono de piel claro medio"
+      ],
+      "pt": [
+        "bebê anjo: pele morena clara",
+        "anjo | bebê | conto | fadas | pele morena clara | rosto"
+      ],
+      "it": [
+        "angioletto: carnagione abbastanza chiara",
+        "angelo | angioletto | bambina | bambino | bimba | bimbo | carnagione abbastanza chiara | chiesa | faccina | favola | fiaba | persona | santo"
+      ],
+      "ro": [
+        "bebeluș îngeraș: ton semi‑deschis al pielii",
+        "aripi | aură | aureolă | basm | bebeluș | biserică | copil | fantezie | față | înger | îngeraș | poveste | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "מלאך תינוק: גוון עור בהיר בינוני",
+        "אגדה | גוון עור בהיר בינוני | מלאך | פנטסיה | תינוק"
+      ],
+      "ar": [
+        "طفل ملاك: بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | حدوتة | خرافة | طفل ملاك | قصة | كنيسة | ملاك | وجه"
+      ],
+      "tr": [
+        "bebek melek: orta açık cilt tonu",
+        "bebek | melek | orta açık cilt tonu | peri masalı | yüz"
+      ],
+      "vi": [
+        "thiên thần nhỏ: màu da sáng trung bình",
+        "bé con | mặt | màu da sáng trung bình | thiên thần | thiên thần nhỏ | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "baby-engel: lichtgetinte huidskleur",
+        "baby | engel | fantasie | gezicht | kerk | lichtgetinte huidskleur | sprookje"
+      ]
+    }
+  ],
+  "👼🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "baby angel: medium skin tone",
+        "angel | baby | church | face | fairy | fairytale | fantasy | medium skin tone | tale"
+      ],
+      "ru": [
+        "ангелочек: средний тон кожи",
+        "ангел | ангелочек | дитя | крылья | лик | младенец | нимб | средний тон кожи | фэнтези"
+      ],
+      "pl": [
+        "aniołek: karnacja średnia",
+        "aniołek | bajka | buzia aniołka | fantasy | głowa | karnacja średnia"
+      ],
+      "fr": [
+        "bébé ange : peau légèrement mate",
+        "ailes | ange | auréole | bébé | église | émoticône | fantastique | peau légèrement mate | visage"
+      ],
+      "de": [
+        "Putte: mittlere Hautfarbe",
+        "Engel | Gesicht | Kind | Märchen | mittlere Hautfarbe | Putte"
+      ],
+      "es": [
+        "bebé ángel: tono de piel medio",
+        "ángel | bebé | cara | cuento | tono de piel medio"
+      ],
+      "pt": [
+        "bebê anjo: pele morena",
+        "anjo | bebê | conto | fadas | pele morena | rosto"
+      ],
+      "it": [
+        "angioletto: carnagione olivastra",
+        "angelo | angioletto | bambina | bambino | bimba | bimbo | carnagione olivastra | chiesa | faccina | favola | fiaba | persona | santo"
+      ],
+      "ro": [
+        "bebeluș îngeraș: ton mediu al pielii",
+        "aripi | aură | aureolă | basm | bebeluș | biserică | copil | fantezie | față | înger | îngeraș | poveste | ton mediu al pielii"
+      ],
+      "he": [
+        "מלאך תינוק: גוון עור בינוני",
+        "אגדה | גוון עור בינוני | מלאך | פנטסיה | תינוק"
+      ],
+      "ar": [
+        "طفل ملاك: بشرة بلون معتدل",
+        "بشرة بلون معتدل | حدوتة | خرافة | طفل ملاك | قصة | كنيسة | ملاك | وجه"
+      ],
+      "tr": [
+        "bebek melek: orta cilt tonu",
+        "bebek | melek | orta cilt tonu | peri masalı | yüz"
+      ],
+      "vi": [
+        "thiên thần nhỏ: màu da trung bình",
+        "bé con | mặt | màu da trung bình | thiên thần | thiên thần nhỏ | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "baby-engel: getinte huidskleur",
+        "baby | engel | fantasie | getinte huidskleur | gezicht | kerk | sprookje"
+      ]
+    }
+  ],
+  "👼🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "baby angel: medium-dark skin tone",
+        "angel | baby | church | face | fairy | fairytale | fantasy | medium-dark skin tone | tale"
+      ],
+      "ru": [
+        "ангелочек: темный тон кожи",
+        "ангел | ангелочек | дитя | крылья | лик | младенец | нимб | темный тон кожи | фэнтези"
+      ],
+      "pl": [
+        "aniołek: karnacja średnio ciemna",
+        "aniołek | bajka | buzia aniołka | fantasy | głowa | karnacja średnio ciemna"
+      ],
+      "fr": [
+        "bébé ange : peau mate",
+        "ailes | ange | auréole | bébé | église | émoticône | fantastique | peau mate | visage"
+      ],
+      "de": [
+        "Putte: mitteldunkle Hautfarbe",
+        "Engel | Gesicht | Kind | Märchen | mitteldunkle Hautfarbe | Putte"
+      ],
+      "es": [
+        "bebé ángel: tono de piel oscuro medio",
+        "ángel | bebé | cara | cuento | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "bebê anjo: pele morena escura",
+        "anjo | bebê | conto | fadas | pele morena escura | rosto"
+      ],
+      "it": [
+        "angioletto: carnagione abbastanza scura",
+        "angelo | angioletto | bambina | bambino | bimba | bimbo | carnagione abbastanza scura | chiesa | faccina | favola | fiaba | persona | santo"
+      ],
+      "ro": [
+        "bebeluș îngeraș: ton semi‑închis al pielii",
+        "aripi | aură | aureolă | basm | bebeluș | biserică | copil | fantezie | față | înger | îngeraș | poveste | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "מלאך תינוק: גוון עור כהה בינוני",
+        "אגדה | גוון עור כהה בינוני | מלאך | פנטסיה | תינוק"
+      ],
+      "ar": [
+        "طفل ملاك: بشرة بلون معتدل مائل للغامق",
+        "بشرة بلون معتدل مائل للغامق | حدوتة | خرافة | طفل ملاك | قصة | كنيسة | ملاك | وجه"
+      ],
+      "tr": [
+        "bebek melek: orta koyu cilt tonu",
+        "bebek | melek | orta koyu cilt tonu | peri masalı | yüz"
+      ],
+      "vi": [
+        "thiên thần nhỏ: màu da tối trung bình",
+        "bé con | mặt | màu da tối trung bình | thiên thần | thiên thần nhỏ | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "baby-engel: donkergetinte huidskleur",
+        "baby | donkergetinte huidskleur | engel | fantasie | gezicht | kerk | sprookje"
+      ]
+    }
+  ],
+  "👼🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "baby angel: dark skin tone",
+        "angel | baby | church | dark skin tone | face | fairy | fairytale | fantasy | tale"
+      ],
+      "ru": [
+        "ангелочек: очень темный тон кожи",
+        "ангел | ангелочек | дитя | крылья | лик | младенец | нимб | очень темный тон кожи | фэнтези"
+      ],
+      "pl": [
+        "aniołek: karnacja ciemna",
+        "aniołek | bajka | buzia aniołka | fantasy | głowa | karnacja ciemna"
+      ],
+      "fr": [
+        "bébé ange : peau foncée",
+        "ailes | ange | auréole | bébé | église | émoticône | fantastique | peau foncée | visage"
+      ],
+      "de": [
+        "Putte: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Engel | Gesicht | Kind | Märchen | Putte"
+      ],
+      "es": [
+        "bebé ángel: tono de piel oscuro",
+        "ángel | bebé | cara | cuento | tono de piel oscuro"
+      ],
+      "pt": [
+        "bebê anjo: pele escura",
+        "anjo | bebê | conto | fadas | pele escura | rosto"
+      ],
+      "it": [
+        "angioletto: carnagione scura",
+        "angelo | angioletto | bambina | bambino | bimba | bimbo | carnagione scura | chiesa | faccina | favola | fiaba | persona | santo"
+      ],
+      "ro": [
+        "bebeluș îngeraș: ton închis al pielii",
+        "aripi | aură | aureolă | basm | bebeluș | biserică | copil | fantezie | față | înger | îngeraș | poveste | ton închis al pielii"
+      ],
+      "he": [
+        "מלאך תינוק: גוון עור כהה",
+        "אגדה | גוון עור כהה | מלאך | פנטסיה | תינוק"
+      ],
+      "ar": [
+        "طفل ملاك: بشرة بلون غامق",
+        "بشرة بلون غامق | حدوتة | خرافة | طفل ملاك | قصة | كنيسة | ملاك | وجه"
+      ],
+      "tr": [
+        "bebek melek: koyu cilt tonu",
+        "bebek | koyu cilt tonu | melek | peri masalı | yüz"
+      ],
+      "vi": [
+        "thiên thần nhỏ: màu da tối",
+        "bé con | mặt | màu da tối | thiên thần | thiên thần nhỏ | truyện cổ tích | tưởng tượng"
+      ],
+      "nl": [
+        "baby-engel: donkere huidskleur",
+        "baby | donkere huidskleur | engel | fantasie | gezicht | kerk | sprookje"
+      ]
+    }
+  ],
+  "👽": [
+    "other",
+    "extraterrestrial alien",
+    {
+      "en": [
+        "alien",
+        "alien | creature | extraterrestrial | face | fairy | fairytale | fantasy | monster | space | tale | ufo"
+      ],
+      "ru": [
+        "инопланетянин",
+        "внеземная | инопланетянин | космос | нло | пришелец | страшный | улыбка | цивилизация"
+      ],
+      "pl": [
+        "ufoludek",
+        "bajka | buźka | fantasy | kosmita | kosmos | obcy | pozaziemski | sci-fi | szarak | twarz | ufo | ufoludek"
+      ],
+      "fr": [
+        "alien",
+        "alien | créature | émoticône | espace | extraterrestre | monstre | ovni | science-fiction | visage"
+      ],
+      "de": [
+        "Außerirdischer",
+        "Alien | All | außerirdisch | Außerirdische | Außerirdischer | Fantasy | Gesicht | Märchen | Monster | UFO | Weltraum | Wesen"
+      ],
+      "es": [
+        "alienígena",
+        "alien | alienígena | cara | criatura | extraterrestre | ovni"
+      ],
+      "pt": ["alienígena", "alienígena | extraterrestre | OVNI | rosto"],
+      "it": [
+        "alieno",
+        "alieno | ET | extraterrestre | faccina | favola | marziani | mostro | spazio | UFO"
+      ],
+      "ro": [
+        "extraterestru",
+        "basm | cap | creatură | extraterestru | fantezie | farfurie zburătoare | față | marțian | monstru | ozn | poveste | skrillex | spațiu"
+      ],
+      "he": ["חייזר", "חוצן | חייזר | חלל | יצור | עב״מ | פרצוף"],
+      "ar": [
+        "كائن فضائي",
+        "إليان | حدوتة | خرافة | فضاء | قصة | كائن غريب | كائن فضائي | مخلوق فضائي | وجه | يوفو"
+      ],
+      "tr": [
+        "uzaylı",
+        "dünya dışı | fantastik | peri masalı | UFO | uzaylı | yabancı | yaratık | yüz"
+      ],
+      "vi": [
+        "người ngoài hành tinh",
+        "đĩa bay | giả tưởng | khuôn mặt | ngoài trái đất | người ngoài hành tinh | sinh vật"
+      ],
+      "nl": [
+        "buitenaards wezen",
+        "alien | buitenaards | fantasie | gezicht | monster | ruimte | sprookje | ufo | wezen"
+      ]
+    }
+  ],
+  "👾": [
+    "other",
+    "alien monster",
+    {
+      "en": [
+        "alien monster",
+        "alien | creature | extraterrestrial | face | fairy | fairytale | fantasy | game | gamer | games | monster | pixelated | space | tale | ufo"
+      ],
+      "ru": [
+        "космический монстр",
+        "аркада | инопланетянин | космос | монстр | нло | пиксель | пришелец | чудовище"
+      ],
+      "pl": [
+        "kosmiczny potwór",
+        "fantasy | kosmiczny potwór | kosmita | kosmos | obcy | potwór | pozaziemski | sci-fi | szarak | twarz | ufo | ufoludek"
+      ],
+      "fr": [
+        "monstre de l’espace",
+        "alien | créature | envahisseur | espace | extraterrestre | fantastique | jeu vidéo | monstre | monstre de l’espace | ovni | pixels"
+      ],
+      "de": [
+        "Computerspiel-Monster",
+        "Computerspiel-Monster | Gesicht | Monster | UFO"
+      ],
+      "es": [
+        "monstruo alienígena",
+        "alien | cara | criatura | extraterrestre | monstruo alienígena | ovni"
+      ],
+      "pt": [
+        "monstro alienígena",
+        "alien | E.T. | extraterrestre | game | invasores | monstro | OVNI | pixelado"
+      ],
+      "it": [
+        "mostro alieno",
+        "alieno | arcade | creatura | faccina | faccina viola | favola | GIF | mostro | pixel | UFO | video gioco | videogioco"
+      ],
+      "ro": [
+        "monstru extraterestru",
+        "8 bit | basm | creatură | extraterestru | fantezie | față | gamer | invadator spațial | joc | jocuri | monstru | ozn | pixelat | poveste | space invader | spațiu"
+      ],
+      "he": [
+        "מפלצת חייזרית",
+        "חוצן | חייזר | חלל | מפלצת חייזרית | משחק מחשב | עב״ם"
+      ],
+      "ar": [
+        "وحش غريب",
+        "إليان | العاب الكترونية | العاب كمبيوتر | بيكسل | حدوتة | خرافة | قصة | كائن فضائي | لعبة كمبيوتر | وجه | وحش | وحش غريب | يوفو"
+      ],
+      "tr": [
+        "uzaylı canavar",
+        "canavar | dünya dışı | peri masalı | UFO | uzaylı | yabancı canavar | yaratık | yüz"
+      ],
+      "vi": [
+        "quái vật ngoài hành tinh",
+        "đĩa bay | khuôn mặt | ngoài trái đất | người ngoài hành tinh | quái vật | quái vật ngoài hành tinh | sinh vật"
+      ],
+      "nl": [
+        "buitenaards monster",
+        "alien | buitenaards | game | gezicht | monster | pixels | ruimte | space invader | spel | ufo | videogame | wezen"
+      ]
+    }
+  ],
+  "👿": [
+    "other",
+    "imp",
+    {
+      "en": [
+        "angry face with horns",
+        "angry | demon | devil | evil | face | fairy | fairytale | fantasy | horns | imp | mischievous | purple | shade | tale"
+      ],
+      "ru": [
+        "злой чертенок",
+        "грусть | демон | дьявол | зло | расстроен | рога | рожки | хмурится | черт"
+      ],
+      "pl": [
+        "zagniewana twarz z rogami",
+        "buźka | diabełek | fantasy | rogi | różki | smutny | zagniewana twarz z rogami | zły"
+      ],
+      "fr": [
+        "visage en colère avec des cornes",
+        "démon | diable | diablotin | émoticône | fantastique | malicieux | mauvais | visage | visage en colère avec des cornes"
+      ],
+      "de": [
+        "wütendes Gesicht mit Hörnern",
+        "böse | Dämon | Dämonin | Fantasie | Fantasy | Gesicht | Hörner | Kobold | lila | Märchen | Satan | Teufel | Teufelchen | violett | wütend"
+      ],
+      "es": [
+        "cara enfadada con cuernos",
+        "cara | cara enfadada con cuernos | cuernos | demonio | diablo"
+      ],
+      "pt": [
+        "rosto zangado com chifres",
+        "bravo | chifres | demônio | diabinho | diabo | rosto | zangado"
+      ],
+      "it": [
+        "faccina arrabbiata con corna",
+        "arrabbiato | diavoletto | diavolo | diavolo viola | faccina | faccina arrabbiata con corna | scontento"
+      ],
+      "ro": [
+        "față mânioasă încornorată",
+        "basm | coarne | demon | diavol | drac | drăcușor | fantastic | fantezie | față | față mânioasă încornorată | față supărată cu coarne | răutăcios"
+      ],
+      "he": [
+        "פרצוף כועס עם קרניים",
+        "זדוני | זועף | כועס | פרצוף | פרצוף כועס עם קרניים | קרניים | שטן"
+      ],
+      "ar": [
+        "وجه غاضب بقرنين",
+        "إبليس | حدوتة | خرافة | شيطان | شيطان صغير | عفريت | غضب | غضبان | قرون | قصة | وجه | وجه غاضب بقرنين"
+      ],
+      "tr": [
+        "boynuzlu kızgın yüz",
+        "boynuzlu kızgın yüz | kızgın | küçük şeytan | şeytan | şeytani | yüz"
+      ],
+      "vi": [
+        "mặt giận giữ có sừng",
+        "ma quỷ | mặt | mặt giận dữ có sừng | mặt giận giữ có sừng | quỷ | tiểu yêu | tưởng tượng"
+      ],
+      "nl": [
+        "boos gezicht met hoorns",
+        "boos duiveltje | boos gezicht met hoorns | demon | duivel | duivels | fantasie | gezicht | hoorns | kleine duivel | paars duivelsgezicht | smiley | sprookje"
+      ]
+    }
+  ],
+  "💀": [
+    "other",
+    "skull",
+    {
+      "en": [
+        "skull",
+        "body | dead | death | face | fairy | fairytale | i’m | lmao | monster | skull | tale | yolo"
+      ],
+      "ru": [
+        "череп",
+        "кости | мертвый | могила | монстр | смерть | умереть | череп"
+      ],
+      "pl": [
+        "czaszka",
+        "czaszka | duch | kościotrup | potwór | śmierć | szkielet | trupia czaszka"
+      ],
+      "fr": [
+        "crâne",
+        "corps | crâne | dead | fantastique | je suis mort | mort | squelette | tête de mort | visage | yolo"
+      ],
+      "de": [
+        "Totenkopf",
+        "Gesicht | Knochen | Märchen | Schädel | Tod | tot | Totenkopf | yolo"
+      ],
+      "es": ["calavera", "calavera | cara | cuento | monstruo | muerte"],
+      "pt": ["caveira", "caveira | conto | corpo | fadas | morte | rosto"],
+      "it": [
+        "teschio",
+        "cranio | favola | morte | mostro | ossa | pericolo | stanco morto | teschio | umorismo nero | yolo"
+      ],
+      "ro": [
+        "craniu",
+        "am murit | basm | cap | corp | craniu | față | moarte | monstru | mor | mort | poveste"
+      ],
+      "he": ["גולגולת", "גולגולת | מוות | מפחיד | פרצוף | שלד"],
+      "ar": [
+        "جمجمة",
+        "جسم | جمجمة | حدوتة | خرافة | قصة | موت | ميت | وجه | وحش"
+      ],
+      "tr": [
+        "kafatası",
+        "cadılar bayramı | canavar | iskelet | kafatası | masal | ölüm | yüz"
+      ],
+      "vi": ["đầu lâu", "cái chết | đầu lâu | mặt | quái vật | truyện cổ tích"],
+      "nl": [
+        "schedel",
+        "dood | doodshoofd | gezicht | monster | schedel | skelet | sprookje"
+      ]
+    }
+  ],
+  "💁": [
+    "other",
+    "information desk person",
+    {
+      "en": [
+        "person tipping hand",
+        "fetch | flick | flip | gossip | hand | person | sarcasm | sarcastic | sassy | seriously | tipping | whatever"
+      ],
+      "ru": [
+        "человек тянет руку",
+        "выдать | жест | знаю | информацию | не | себе | секрет | сплетни | так"
+      ],
+      "pl": [
+        "osoba z wystawioną dłonią",
+        "no cóż | osoba | osoba z wystawioną dłonią | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "personne paume vers le haut",
+        "aide | diva | femme | information | insouciante | main | personne | personne paume vers le haut | peu importe | potins | prétentieuse | sarcastique | sophistiqué"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiter(in)",
+        "abgekippt | beleidigen | Gerüchte | Geste | Hand | Klatsch | klatschen | Person | Sarkasmus | sarkastisch | Tratsch | tratschen"
+      ],
+      "es": [
+        "persona de mostrador de información",
+        "información | mano | mostrador | persona | persona de mostrador de información"
+      ],
+      "pt": [
+        "pessoa com a palma virada para cima",
+        "ajuda | diva | divo | fala sério | fofoca | informações | jogada de cabelo | mão | pessoa | pessoa com a mão virada para cima | pessoa com a palma virada para cima | sarcasmo"
+      ],
+      "it": [
+        "persona con mano capovolta",
+        "aiuto | capovolgere la mano | gesto con i capelli | gossip | informazioni | mano | mano all’insù | pettegolezzo | sarcasmo | sfacciataggine | sul serio"
+      ],
+      "ro": [
+        "persoană care explică",
+        "ajutor | asistență | bacșiș | bârfă | divă | informații | persoană | persoană care explică | persoană care înclină mâna | persoană de la informații | sarcastică"
+      ],
+      "he": [
+        "אדם בדלפק מידע או מבקש טיפ",
+        "אישה | ברצינות | חוצפה | טיפ | יד | לא משנה | עזרה | צינית | רכילות"
+      ],
+      "ar": [
+        "شخص بيد مائلة",
+        "أشخاص | امرأة | بجدية | بقشيش | حركة الشعر | سخرية | شخص بيد مائلة | كف | لا يهمني | مساعدة | معلومات | يد"
+      ],
+      "tr": [
+        "elini yana yatırma",
+        "alaycı | bilgilendirme | dedikodu | el | elini yana yatırma | keyfin bilir | kişi | kişiler | neyse | saçını savurma | sen bilirsin | umurumda değil"
+      ],
+      "vi": [
+        "người ra hiệu trợ giúp",
+        "giúp | hất tóc | mách nước | mỉa mai | nghiêm túc | người ra hiệu trợ giúp | tay | thông tin | tươi tắn | vuốt tóc"
+      ],
+      "nl": [
+        "persoon achter informatiebalie",
+        "brutaal | hand | hand ophouden | hulp | informatie | knikken | persoon | persoon achter informatiebalie | roddelen | sarcasme | sarcastisch | uitleg geven | vrouw met hand omhoog"
+      ]
+    }
+  ],
+  "💁‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman tipping hand",
+        "fetch | flick | flip | gossip | hand | sarcasm | sarcastic | sassy | seriously | tipping | whatever | woman"
+      ],
+      "ru": [
+        "женщина тянет руку",
+        "женщина тянет руку | информация | помощь | рука"
+      ],
+      "pl": [
+        "kobieta z wystawioną dłonią",
+        "kobieta | kobieta z wystawioną dłonią | no cóż | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "femme paume vers le haut",
+        "femme | femme paume vers le haut | paume vers le haut"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiterin",
+        "Auskunft | Frau | Informationen | Infoschalter-Mitarbeiterin"
+      ],
+      "es": [
+        "empleada de mostrador de información",
+        "empleada de mostrador de información | información | mano | mostrador | mujer"
+      ],
+      "pt": [
+        "mulher com a palma virada para cima",
+        "mulher | mulher com a palma virada para cima"
+      ],
+      "it": [
+        "donna con mano capovolta",
+        "aiuto | capovolgere la mano | gesto con i capelli | mano | mano all’insù | sarcastica | sfacciata"
+      ],
+      "ro": [
+        "femeie care explică",
+        "asistență | femeie | femeie care explică | informații"
+      ],
+      "he": ["אישה מבקשת טיפ", "אישה | חוצפה | טיפ | יד | מידע | עזרה"],
+      "ar": ["سيدة بيد مائلة", "سيدة بيد مائلة | يد مائلة"],
+      "tr": [
+        "elini yana yatıran kadın",
+        "bayan | elini yana yatıran kadın | kadın | küstah | yana yatmış el"
+      ],
+      "vi": [
+        "người phụ nữ ra hiệu trợ giúp",
+        "người phụ nữ ra hiệu trợ giúp | nữ | tay ra hiệu | tươi tắn"
+      ],
+      "nl": [
+        "vrouw achter informatiebalie",
+        "brutaal | pols knikken | vrouw | vrouw achter informatiebalie"
+      ]
+    }
+  ],
+  "💁‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man tipping hand",
+        "fetch | flick | flip | gossip | hand | man | sarcasm | sarcastic | sassy | seriously | tipping | whatever"
+      ],
+      "ru": [
+        "мужчина тянет руку",
+        "выдать | жест | знаю | информацию | мужчина | не | себе | секрет | сплетни | так"
+      ],
+      "pl": [
+        "mężczyzna z wystawioną dłonią",
+        "mężczyzna | mężczyzna z wystawioną dłonią | no cóż | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "homme paume vers le haut",
+        "aide | apporter | diva | homme | homme avec paume vers le haut | homme paume vers le haut | informations | insolent | main | paume vers le haut | peu importe | potins | sarcastique"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiter",
+        "abgekippt | beleidigen | Gerüchte | Geste | Hand | Klatsch | klatschen | Mann | Sarkasmus | sarkastisch | Tratsch | tratschen"
+      ],
+      "es": [
+        "empleado de mostrador de información",
+        "empleado de mostrador de información | hombre | información | mano | mostrador"
+      ],
+      "pt": [
+        "homem com a palma virada para cima",
+        "ajuda | fofoca | garoto | gorjeta | guri | homem | homem com a palma virada para cima | menino | sarcasmo | sarcástico"
+      ],
+      "it": [
+        "uomo con mano capovolta",
+        "aiuto | capovolgere la mano | gesto con i capelli | gossip | informazioni | mano | mano all’insù | pettegolezzo | sarcasmo | sarcastico | sfacciato"
+      ],
+      "ro": [
+        "bărbat care explică",
+        "ajutor | asistență | bacșiș | bărbat | bărbat care explică | bârfă | divă | exuberant | informații"
+      ],
+      "he": [
+        "איש בדלפק מידע או מבקש טיפ",
+        "איש | גבר | גבר מבקש טיפ | חצוף | מבקש נדבה | ציני | שובב"
+      ],
+      "ar": [
+        "رجل بيد مائلة",
+        "ثرثرة | ديفا | رجل بيد مائلة | ساخر | سخرية | كف | كف كفتوح | مساعدة | معلومات | يد | يد مائلة"
+      ],
+      "tr": [
+        "elini yana yatıran erkek",
+        "adam | bilgi | dedikodu | elini yana yatıran erkek | erkek | insan | küstah | sarkastik | yana yatmış el"
+      ],
+      "vi": [
+        "người đàn ông ra hiệu trợ giúp",
+        "nam | người đàn ông ra hiệu trợ giúp | tay ra hiệu | tươi tắn"
+      ],
+      "nl": [
+        "man achter informatiebalie",
+        "brutaal | hand | hooghartig | man | man achter informatiebalie | man knikt pols | persoon | pols knikken | polsgebaar | sarcasme | sarcastisch | uitdagend"
+      ]
+    }
+  ],
+  "💁🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person tipping hand: light skin tone",
+        "fetch | flick | flip | gossip | hand | light skin tone | person | sarcasm | sarcastic | sassy | seriously | tipping | whatever"
+      ],
+      "ru": [
+        "человек тянет руку: очень светлый тон кожи",
+        "выдать | жест | знаю | информацию | не | очень светлый тон кожи | себе | секрет | сплетни | так"
+      ],
+      "pl": [
+        "osoba z wystawioną dłonią: karnacja jasna",
+        "karnacja jasna | no cóż | osoba | osoba z wystawioną dłonią | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "personne paume vers le haut : peau claire",
+        "aide | diva | femme | information | insouciante | main | peau claire | personne | personne paume vers le haut | peu importe | potins | prétentieuse | sarcastique | sophistiqué"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiter(in): helle Hautfarbe",
+        "abgekippt | beleidigen | Gerüchte | Geste | Hand | helle Hautfarbe | Klatsch | klatschen | Person | Sarkasmus | sarkastisch | Tratsch | tratschen"
+      ],
+      "es": [
+        "persona de mostrador de información: tono de piel claro",
+        "información | mano | mostrador | persona | persona de mostrador de información | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa com a palma virada para cima: pele clara",
+        "ajuda | diva | divo | fala sério | fofoca | informações | jogada de cabelo | mão | pele clara | pessoa | pessoa com a mão virada para cima | pessoa com a palma virada para cima | sarcasmo"
+      ],
+      "it": [
+        "persona con mano capovolta: carnagione chiara",
+        "aiuto | capovolgere la mano | carnagione chiara | gesto con i capelli | gossip | informazioni | mano | mano all’insù | pettegolezzo | sarcasmo | sfacciataggine | sul serio"
+      ],
+      "ro": [
+        "persoană care explică: ton deschis al pielii",
+        "ajutor | asistență | bacșiș | bârfă | divă | informații | persoană | persoană care explică | persoană care înclină mâna | persoană de la informații | sarcastică | ton deschis al pielii"
+      ],
+      "he": [
+        "אדם בדלפק מידע או מבקש טיפ: גוון עור בהיר",
+        "אישה | ברצינות | גוון עור בהיר | חוצפה | טיפ | יד | לא משנה | עזרה | צינית | רכילות"
+      ],
+      "ar": [
+        "شخص بيد مائلة: بشرة بلون فاتح",
+        "أشخاص | امرأة | بجدية | بشرة بلون فاتح | بقشيش | حركة الشعر | سخرية | شخص بيد مائلة | كف | لا يهمني | مساعدة | معلومات | يد"
+      ],
+      "tr": [
+        "elini yana yatırma: açık cilt tonu",
+        "açık cilt tonu | alaycı | bilgilendirme | dedikodu | el | elini yana yatırma | keyfin bilir | kişi | kişiler | neyse | saçını savurma | sen bilirsin | umurumda değil"
+      ],
+      "vi": [
+        "người ra hiệu trợ giúp: màu da sáng",
+        "giúp | hất tóc | mách nước | màu da sáng | mỉa mai | nghiêm túc | người ra hiệu trợ giúp | tay | thông tin | tươi tắn | vuốt tóc"
+      ],
+      "nl": [
+        "persoon achter informatiebalie: lichte huidskleur",
+        "brutaal | hand | hand ophouden | hulp | informatie | knikken | lichte huidskleur | persoon | persoon achter informatiebalie | roddelen | sarcasme | sarcastisch | uitleg geven | vrouw met hand omhoog"
+      ]
+    }
+  ],
+  "💁🏻‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman tipping hand: light skin tone",
+        "fetch | flick | flip | gossip | hand | light skin tone | sarcasm | sarcastic | sassy | seriously | tipping | whatever | woman"
+      ],
+      "ru": [
+        "женщина тянет руку: очень светлый тон кожи",
+        "женщина тянет руку | информация | очень светлый тон кожи | помощь | рука"
+      ],
+      "pl": [
+        "kobieta z wystawioną dłonią: karnacja jasna",
+        "karnacja jasna | kobieta | kobieta z wystawioną dłonią | no cóż | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "femme paume vers le haut : peau claire",
+        "femme | femme paume vers le haut | paume vers le haut | peau claire"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiterin: helle Hautfarbe",
+        "Auskunft | Frau | helle Hautfarbe | Informationen | Infoschalter-Mitarbeiterin"
+      ],
+      "es": [
+        "empleada de mostrador de información: tono de piel claro",
+        "empleada de mostrador de información | información | mano | mostrador | mujer | tono de piel claro"
+      ],
+      "pt": [
+        "mulher com a palma virada para cima: pele clara",
+        "mulher | mulher com a palma virada para cima | pele clara"
+      ],
+      "it": [
+        "donna con mano capovolta: carnagione chiara",
+        "aiuto | capovolgere la mano | carnagione chiara | gesto con i capelli | mano | mano all’insù | sarcastica | sfacciata"
+      ],
+      "ro": [
+        "femeie care explică: ton deschis al pielii",
+        "asistență | femeie | femeie care explică | informații | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה מבקשת טיפ: גוון עור בהיר",
+        "אישה | גוון עור בהיר | חוצפה | טיפ | יד | מידע | עזרה"
+      ],
+      "ar": [
+        "سيدة بيد مائلة: بشرة بلون فاتح",
+        "بشرة بلون فاتح | سيدة بيد مائلة | يد مائلة"
+      ],
+      "tr": [
+        "elini yana yatıran kadın: açık cilt tonu",
+        "açık cilt tonu | bayan | elini yana yatıran kadın | kadın | küstah | yana yatmış el"
+      ],
+      "vi": [
+        "người phụ nữ ra hiệu trợ giúp: màu da sáng",
+        "màu da sáng | người phụ nữ ra hiệu trợ giúp | nữ | tay ra hiệu | tươi tắn"
+      ],
+      "nl": [
+        "vrouw achter informatiebalie: lichte huidskleur",
+        "brutaal | lichte huidskleur | pols knikken | vrouw | vrouw achter informatiebalie"
+      ]
+    }
+  ],
+  "💁🏻‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man tipping hand: light skin tone",
+        "fetch | flick | flip | gossip | hand | light skin tone | man | sarcasm | sarcastic | sassy | seriously | tipping | whatever"
+      ],
+      "ru": [
+        "мужчина тянет руку: очень светлый тон кожи",
+        "выдать | жест | знаю | информацию | мужчина | не | очень светлый тон кожи | себе | секрет | сплетни | так"
+      ],
+      "pl": [
+        "mężczyzna z wystawioną dłonią: karnacja jasna",
+        "karnacja jasna | mężczyzna | mężczyzna z wystawioną dłonią | no cóż | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "homme paume vers le haut : peau claire",
+        "aide | apporter | diva | homme | homme avec paume vers le haut | homme paume vers le haut | informations | insolent | main | paume vers le haut | peau claire | peu importe | potins | sarcastique"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiter: helle Hautfarbe",
+        "abgekippt | beleidigen | Gerüchte | Geste | Hand | helle Hautfarbe | Klatsch | klatschen | Mann | Sarkasmus | sarkastisch | Tratsch | tratschen"
+      ],
+      "es": [
+        "empleado de mostrador de información: tono de piel claro",
+        "empleado de mostrador de información | hombre | información | mano | mostrador | tono de piel claro"
+      ],
+      "pt": [
+        "homem com a palma virada para cima: pele clara",
+        "ajuda | fofoca | garoto | gorjeta | guri | homem | homem com a palma virada para cima | menino | pele clara | sarcasmo | sarcástico"
+      ],
+      "it": [
+        "uomo con mano capovolta: carnagione chiara",
+        "aiuto | capovolgere la mano | carnagione chiara | gesto con i capelli | gossip | informazioni | mano | mano all’insù | pettegolezzo | sarcasmo | sarcastico | sfacciato"
+      ],
+      "ro": [
+        "bărbat care explică: ton deschis al pielii",
+        "ajutor | asistență | bacșiș | bărbat | bărbat care explică | bârfă | divă | exuberant | informații | ton deschis al pielii"
+      ],
+      "he": [
+        "איש בדלפק מידע או מבקש טיפ: גוון עור בהיר",
+        "איש | גבר | גבר מבקש טיפ | גוון עור בהיר | חצוף | מבקש נדבה | ציני | שובב"
+      ],
+      "ar": [
+        "رجل بيد مائلة: بشرة بلون فاتح",
+        "بشرة بلون فاتح | ثرثرة | ديفا | رجل بيد مائلة | ساخر | سخرية | كف | كف كفتوح | مساعدة | معلومات | يد | يد مائلة"
+      ],
+      "tr": [
+        "elini yana yatıran erkek: açık cilt tonu",
+        "açık cilt tonu | adam | bilgi | dedikodu | elini yana yatıran erkek | erkek | insan | küstah | sarkastik | yana yatmış el"
+      ],
+      "vi": [
+        "người đàn ông ra hiệu trợ giúp: màu da sáng",
+        "màu da sáng | nam | người đàn ông ra hiệu trợ giúp | tay ra hiệu | tươi tắn"
+      ],
+      "nl": [
+        "man achter informatiebalie: lichte huidskleur",
+        "brutaal | hand | hooghartig | lichte huidskleur | man | man achter informatiebalie | man knikt pols | persoon | pols knikken | polsgebaar | sarcasme | sarcastisch | uitdagend"
+      ]
+    }
+  ],
+  "💁🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person tipping hand: medium-light skin tone",
+        "fetch | flick | flip | gossip | hand | medium-light skin tone | person | sarcasm | sarcastic | sassy | seriously | tipping | whatever"
+      ],
+      "ru": [
+        "человек тянет руку: светлый тон кожи",
+        "выдать | жест | знаю | информацию | не | светлый тон кожи | себе | секрет | сплетни | так"
+      ],
+      "pl": [
+        "osoba z wystawioną dłonią: karnacja średnio jasna",
+        "karnacja średnio jasna | no cóż | osoba | osoba z wystawioną dłonią | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "personne paume vers le haut : peau moyennement claire",
+        "aide | diva | femme | information | insouciante | main | peau moyennement claire | personne | personne paume vers le haut | peu importe | potins | prétentieuse | sarcastique | sophistiqué"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiter(in): mittelhelle Hautfarbe",
+        "abgekippt | beleidigen | Gerüchte | Geste | Hand | Klatsch | klatschen | mittelhelle Hautfarbe | Person | Sarkasmus | sarkastisch | Tratsch | tratschen"
+      ],
+      "es": [
+        "persona de mostrador de información: tono de piel claro medio",
+        "información | mano | mostrador | persona | persona de mostrador de información | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoa com a palma virada para cima: pele morena clara",
+        "ajuda | diva | divo | fala sério | fofoca | informações | jogada de cabelo | mão | pele morena clara | pessoa | pessoa com a mão virada para cima | pessoa com a palma virada para cima | sarcasmo"
+      ],
+      "it": [
+        "persona con mano capovolta: carnagione abbastanza chiara",
+        "aiuto | capovolgere la mano | carnagione abbastanza chiara | gesto con i capelli | gossip | informazioni | mano | mano all’insù | pettegolezzo | sarcasmo | sfacciataggine | sul serio"
+      ],
+      "ro": [
+        "persoană care explică: ton semi‑deschis al pielii",
+        "ajutor | asistență | bacșiș | bârfă | divă | informații | persoană | persoană care explică | persoană care înclină mâna | persoană de la informații | sarcastică | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אדם בדלפק מידע או מבקש טיפ: גוון עור בהיר בינוני",
+        "אישה | ברצינות | גוון עור בהיר בינוני | חוצפה | טיפ | יד | לא משנה | עזרה | צינית | רכילות"
+      ],
+      "ar": [
+        "شخص بيد مائلة: بشرة بلون فاتح ومعتدل",
+        "أشخاص | امرأة | بجدية | بشرة بلون فاتح ومعتدل | بقشيش | حركة الشعر | سخرية | شخص بيد مائلة | كف | لا يهمني | مساعدة | معلومات | يد"
+      ],
+      "tr": [
+        "elini yana yatırma: orta açık cilt tonu",
+        "alaycı | bilgilendirme | dedikodu | el | elini yana yatırma | keyfin bilir | kişi | kişiler | neyse | orta açık cilt tonu | saçını savurma | sen bilirsin | umurumda değil"
+      ],
+      "vi": [
+        "người ra hiệu trợ giúp: màu da sáng trung bình",
+        "giúp | hất tóc | mách nước | màu da sáng trung bình | mỉa mai | nghiêm túc | người ra hiệu trợ giúp | tay | thông tin | tươi tắn | vuốt tóc"
+      ],
+      "nl": [
+        "persoon achter informatiebalie: lichtgetinte huidskleur",
+        "brutaal | hand | hand ophouden | hulp | informatie | knikken | lichtgetinte huidskleur | persoon | persoon achter informatiebalie | roddelen | sarcasme | sarcastisch | uitleg geven | vrouw met hand omhoog"
+      ]
+    }
+  ],
+  "💁🏼‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman tipping hand: medium-light skin tone",
+        "fetch | flick | flip | gossip | hand | medium-light skin tone | sarcasm | sarcastic | sassy | seriously | tipping | whatever | woman"
+      ],
+      "ru": [
+        "женщина тянет руку: светлый тон кожи",
+        "женщина тянет руку | информация | помощь | рука | светлый тон кожи"
+      ],
+      "pl": [
+        "kobieta z wystawioną dłonią: karnacja średnio jasna",
+        "karnacja średnio jasna | kobieta | kobieta z wystawioną dłonią | no cóż | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "femme paume vers le haut : peau moyennement claire",
+        "femme | femme paume vers le haut | paume vers le haut | peau moyennement claire"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiterin: mittelhelle Hautfarbe",
+        "Auskunft | Frau | Informationen | Infoschalter-Mitarbeiterin | mittelhelle Hautfarbe"
+      ],
+      "es": [
+        "empleada de mostrador de información: tono de piel claro medio",
+        "empleada de mostrador de información | información | mano | mostrador | mujer | tono de piel claro medio"
+      ],
+      "pt": [
+        "mulher com a palma virada para cima: pele morena clara",
+        "mulher | mulher com a palma virada para cima | pele morena clara"
+      ],
+      "it": [
+        "donna con mano capovolta: carnagione abbastanza chiara",
+        "aiuto | capovolgere la mano | carnagione abbastanza chiara | gesto con i capelli | mano | mano all’insù | sarcastica | sfacciata"
+      ],
+      "ro": [
+        "femeie care explică: ton semi‑deschis al pielii",
+        "asistență | femeie | femeie care explică | informații | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה מבקשת טיפ: גוון עור בהיר בינוני",
+        "אישה | גוון עור בהיר בינוני | חוצפה | טיפ | יד | מידע | עזרה"
+      ],
+      "ar": [
+        "سيدة بيد مائلة: بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | سيدة بيد مائلة | يد مائلة"
+      ],
+      "tr": [
+        "elini yana yatıran kadın: orta açık cilt tonu",
+        "bayan | elini yana yatıran kadın | kadın | küstah | orta açık cilt tonu | yana yatmış el"
+      ],
+      "vi": [
+        "người phụ nữ ra hiệu trợ giúp: màu da sáng trung bình",
+        "màu da sáng trung bình | người phụ nữ ra hiệu trợ giúp | nữ | tay ra hiệu | tươi tắn"
+      ],
+      "nl": [
+        "vrouw achter informatiebalie: lichtgetinte huidskleur",
+        "brutaal | lichtgetinte huidskleur | pols knikken | vrouw | vrouw achter informatiebalie"
+      ]
+    }
+  ],
+  "💁🏼‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man tipping hand: medium-light skin tone",
+        "fetch | flick | flip | gossip | hand | man | medium-light skin tone | sarcasm | sarcastic | sassy | seriously | tipping | whatever"
+      ],
+      "ru": [
+        "мужчина тянет руку: светлый тон кожи",
+        "выдать | жест | знаю | информацию | мужчина | не | светлый тон кожи | себе | секрет | сплетни | так"
+      ],
+      "pl": [
+        "mężczyzna z wystawioną dłonią: karnacja średnio jasna",
+        "karnacja średnio jasna | mężczyzna | mężczyzna z wystawioną dłonią | no cóż | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "homme paume vers le haut : peau moyennement claire",
+        "aide | apporter | diva | homme | homme avec paume vers le haut | homme paume vers le haut | informations | insolent | main | paume vers le haut | peau moyennement claire | peu importe | potins | sarcastique"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiter: mittelhelle Hautfarbe",
+        "abgekippt | beleidigen | Gerüchte | Geste | Hand | Klatsch | klatschen | Mann | mittelhelle Hautfarbe | Sarkasmus | sarkastisch | Tratsch | tratschen"
+      ],
+      "es": [
+        "empleado de mostrador de información: tono de piel claro medio",
+        "empleado de mostrador de información | hombre | información | mano | mostrador | tono de piel claro medio"
+      ],
+      "pt": [
+        "homem com a palma virada para cima: pele morena clara",
+        "ajuda | fofoca | garoto | gorjeta | guri | homem | homem com a palma virada para cima | menino | pele morena clara | sarcasmo | sarcástico"
+      ],
+      "it": [
+        "uomo con mano capovolta: carnagione abbastanza chiara",
+        "aiuto | capovolgere la mano | carnagione abbastanza chiara | gesto con i capelli | gossip | informazioni | mano | mano all’insù | pettegolezzo | sarcasmo | sarcastico | sfacciato"
+      ],
+      "ro": [
+        "bărbat care explică: ton semi‑deschis al pielii",
+        "ajutor | asistență | bacșiș | bărbat | bărbat care explică | bârfă | divă | exuberant | informații | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "איש בדלפק מידע או מבקש טיפ: גוון עור בהיר בינוני",
+        "איש | גבר | גבר מבקש טיפ | גוון עור בהיר בינוני | חצוף | מבקש נדבה | ציני | שובב"
+      ],
+      "ar": [
+        "رجل بيد مائلة: بشرة بلون فاتح ومعتدل",
+        "بشرة بلون فاتح ومعتدل | ثرثرة | ديفا | رجل بيد مائلة | ساخر | سخرية | كف | كف كفتوح | مساعدة | معلومات | يد | يد مائلة"
+      ],
+      "tr": [
+        "elini yana yatıran erkek: orta açık cilt tonu",
+        "adam | bilgi | dedikodu | elini yana yatıran erkek | erkek | insan | küstah | orta açık cilt tonu | sarkastik | yana yatmış el"
+      ],
+      "vi": [
+        "người đàn ông ra hiệu trợ giúp: màu da sáng trung bình",
+        "màu da sáng trung bình | nam | người đàn ông ra hiệu trợ giúp | tay ra hiệu | tươi tắn"
+      ],
+      "nl": [
+        "man achter informatiebalie: lichtgetinte huidskleur",
+        "brutaal | hand | hooghartig | lichtgetinte huidskleur | man | man achter informatiebalie | man knikt pols | persoon | pols knikken | polsgebaar | sarcasme | sarcastisch | uitdagend"
+      ]
+    }
+  ],
+  "💁🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "person tipping hand: medium skin tone",
+        "fetch | flick | flip | gossip | hand | medium skin tone | person | sarcasm | sarcastic | sassy | seriously | tipping | whatever"
+      ],
+      "ru": [
+        "человек тянет руку: средний тон кожи",
+        "выдать | жест | знаю | информацию | не | себе | секрет | сплетни | средний тон кожи | так"
+      ],
+      "pl": [
+        "osoba z wystawioną dłonią: karnacja średnia",
+        "karnacja średnia | no cóż | osoba | osoba z wystawioną dłonią | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "personne paume vers le haut : peau légèrement mate",
+        "aide | diva | femme | information | insouciante | main | peau légèrement mate | personne | personne paume vers le haut | peu importe | potins | prétentieuse | sarcastique | sophistiqué"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiter(in): mittlere Hautfarbe",
+        "abgekippt | beleidigen | Gerüchte | Geste | Hand | Klatsch | klatschen | mittlere Hautfarbe | Person | Sarkasmus | sarkastisch | Tratsch | tratschen"
+      ],
+      "es": [
+        "persona de mostrador de información: tono de piel medio",
+        "información | mano | mostrador | persona | persona de mostrador de información | tono de piel medio"
+      ],
+      "pt": [
+        "pessoa com a palma virada para cima: pele morena",
+        "ajuda | diva | divo | fala sério | fofoca | informações | jogada de cabelo | mão | pele morena | pessoa | pessoa com a mão virada para cima | pessoa com a palma virada para cima | sarcasmo"
+      ],
+      "it": [
+        "persona con mano capovolta: carnagione olivastra",
+        "aiuto | capovolgere la mano | carnagione olivastra | gesto con i capelli | gossip | informazioni | mano | mano all’insù | pettegolezzo | sarcasmo | sfacciataggine | sul serio"
+      ],
+      "ro": [
+        "persoană care explică: ton mediu al pielii",
+        "ajutor | asistență | bacșiș | bârfă | divă | informații | persoană | persoană care explică | persoană care înclină mâna | persoană de la informații | sarcastică | ton mediu al pielii"
+      ],
+      "he": [
+        "אדם בדלפק מידע או מבקש טיפ: גוון עור בינוני",
+        "אישה | ברצינות | גוון עור בינוני | חוצפה | טיפ | יד | לא משנה | עזרה | צינית | רכילות"
+      ],
+      "ar": [
+        "شخص بيد مائلة: بشرة بلون معتدل",
+        "أشخاص | امرأة | بجدية | بشرة بلون معتدل | بقشيش | حركة الشعر | سخرية | شخص بيد مائلة | كف | لا يهمني | مساعدة | معلومات | يد"
+      ],
+      "tr": [
+        "elini yana yatırma: orta cilt tonu",
+        "alaycı | bilgilendirme | dedikodu | el | elini yana yatırma | keyfin bilir | kişi | kişiler | neyse | orta cilt tonu | saçını savurma | sen bilirsin | umurumda değil"
+      ],
+      "vi": [
+        "người ra hiệu trợ giúp: màu da trung bình",
+        "giúp | hất tóc | mách nước | màu da trung bình | mỉa mai | nghiêm túc | người ra hiệu trợ giúp | tay | thông tin | tươi tắn | vuốt tóc"
+      ],
+      "nl": [
+        "persoon achter informatiebalie: getinte huidskleur",
+        "brutaal | getinte huidskleur | hand | hand ophouden | hulp | informatie | knikken | persoon | persoon achter informatiebalie | roddelen | sarcasme | sarcastisch | uitleg geven | vrouw met hand omhoog"
+      ]
+    }
+  ],
+  "💁🏽‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman tipping hand: medium skin tone",
+        "fetch | flick | flip | gossip | hand | medium skin tone | sarcasm | sarcastic | sassy | seriously | tipping | whatever | woman"
+      ],
+      "ru": [
+        "женщина тянет руку: средний тон кожи",
+        "женщина тянет руку | информация | помощь | рука | средний тон кожи"
+      ],
+      "pl": [
+        "kobieta z wystawioną dłonią: karnacja średnia",
+        "karnacja średnia | kobieta | kobieta z wystawioną dłonią | no cóż | otwarta dłoń | pomocna dłoń | ręka | sarkazm"
+      ],
+      "fr": [
+        "femme paume vers le haut : peau légèrement mate",
+        "femme | femme paume vers le haut | paume vers le haut | peau légèrement mate"
+      ],
+      "de": [
+        "Infoschalter-Mitarbeiterin: mittlere Hautfarbe",
+        "Auskunft | Frau | Informationen | Infoschalter-Mitarbeiterin | mittlere Hautfarbe"
+      ],
+      "es": [
+        "empleada de mostrador de información: tono de piel medio",
+        "empleada de mostrador de información | información | mano | mostrador | mujer | tono de piel medio"
+      ],
+      "pt": [
+        "mulher com a palma virada para cima: pele morena",
+        "mulher | mulher com a palma virada para cima | pele morena"
+      ],
+      "it": [
+        "donna con mano capovolta: carnagione olivastra",
+        "aiuto | capovolgere la mano | carnagione olivastra | gesto con i capelli | mano | mano all’insù | sarcastica | sfacciata"
+      ],
+      "ro": [
+        "femeie care explică: ton mediu al pielii",
+        "asistență | femeie | femeie care explică | informații | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה מבקשת טיפ: גוון עור בינוני",
+        "אישה | גוון עור בינוני | חוצפה | טיפ | יד | מידע | עזרה"
+      ],
+      "ar": [
+        "سيدة بيد مائلة: بشرة بلون معتدل",
+        "بشرة بلون معتدل | سيدة بيد مائلة | يد مائلة"
+      ],
+      "tr": [
+        "elini yana yatıran kadın: orta cilt tonu",
+        "bayan | elini yana yatıran kadın | kadın | küstah | orta cilt tonu | yana yatmış el"
+      ],
+      "vi": [
+        "người phụ nữ ra hiệu trợ giúp: màu da trung bình",
+        "màu da trung bình | người phụ nữ ra hiệu trợ giúp | nữ | tay ra hiệu | tươi tắn"
+      ],
+      "nl": [
+        "vrouw achter informatiebalie: getinte huidskleur",
+        "brutaal | getinte huidskleur | pols knikken | vrouw | vrouw achter informatiebalie"
+      ]
+    }
+  ]
+}

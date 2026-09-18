@@ -1,0 +1,16 @@
+{
+  "🄄": ["math", "digit three comma", {}],
+  "🄅": ["math", "digit four comma", {}],
+  "🄆": ["math", "digit five comma", {}],
+  "🄇": ["math", "digit six comma", {}],
+  "🄈": ["math", "digit seven comma", {}],
+  "🄉": ["math", "digit eight comma", {}],
+  "🄊": ["math", "digit nine comma", {}],
+  "🄋": ["math", "dingbat circled sans-serif digit zero", {}],
+  "🄌": ["math", "dingbat negative circled sans-serif digit zero", {}],
+  "🣑": ["math", "long rightwards harpoon over long leftwards harpoon", {}],
+  "🣒": ["math", "long rightwards harpoon above short leftwards harpoon", {}],
+  "🣓": ["math", "short rightwards harpoon above long leftwards harpoon", {}],
+  "🣔": ["math", "long leftwards harpoon above short rightwards harpoon", {}],
+  "🣕": ["math", "short leftwards harpoon above long rightwards harpoon", {}]
+}

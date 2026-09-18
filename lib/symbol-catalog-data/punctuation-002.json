@@ -1,0 +1,641 @@
+{
+  "」": [
+    "punctuation",
+    "right corner bracket",
+    {
+      "en": ["close corner bracket", "bracket | close | corner"],
+      "ru": [
+        "закрывающая прямоугольная скобка",
+        "закрывающая прямоугольная скобка | закрывающая скобка | прямоугольная скобка | скобка"
+      ],
+      "pl": [
+        "prawa podłoga",
+        "nawias | nawias kątowy | prawa podłoga | prawy nawias"
+      ],
+      "fr": [
+        "crochet de partie entière fermant",
+        "crochet | crochet de partie entière | crochet de partie entière fermant"
+      ],
+      "de": [
+        "schließende Eckklammer",
+        "Eckklammer | Klammer | schließende Eckklammer"
+      ],
+      "es": [
+        "corchete esquinado de cierre",
+        "cerrar corchetes | comillas chinas | comillas japonesas | corchete | corchete de cierre | corchete esquinado de cierre"
+      ],
+      "pt": [
+        "parêntese japonês kagikakko de fechamento",
+        "fechamento | japonês | kagikakko | parêntese"
+      ],
+      "it": [
+        "mezza parentesi quadra chiusa in basso",
+        "mezza parentesi | mezza parentesi quadra chiusa in basso | parentesi"
+      ],
+      "ro": [
+        "paranteză colț închisă",
+        "paranteză | paranteză colț | paranteză colț închisă"
+      ],
+      "he": [
+        "סימן סוגר של סוגריים בצורת פינה",
+        "סוגר | סוגריים | סימן סוגר של סוגריים בצורת פינה | פינה תחתונה"
+      ],
+      "ar": ["إغلاق قوس زاوية", "إغلاق قوس زاوية | قوس | قوس زاوية"],
+      "tr": [
+        "kapalı köşeli ayraç",
+        "ayraç | kapalı köşeli ayraç | köşeli ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc chữ L đóng",
+        "dấu ngoặc | dấu ngoặc chữ L | dấu ngoặc chữ L đóng"
+      ],
+      "nl": [
+        "Oost-Aziatisch aanhalingsteken sluiten",
+        "haakje | Oost-Aziatisch aanhalingsteken | Oost-Aziatisch aanhalingsteken sluiten"
+      ]
+    }
+  ],
+  "『": [
+    "punctuation",
+    "left white corner bracket",
+    {
+      "en": ["open hollow corner bracket", "bracket | corner | hollow | open"],
+      "ru": [
+        "открывающая незакрашенная прямоугольная скобка",
+        "открывающая незакрашенная прямоугольная скобка | открывающая скобка | прямоугольная скобка | скобка"
+      ],
+      "pl": [
+        "gruby lewy sufit",
+        "gruby lewy sufit | gruby nawias kątowy | nawias"
+      ],
+      "fr": [
+        "crochet de partie entière ouvrant creux",
+        "crochet | crochet de partie entière creux | crochet de partie entière ouvrant creux"
+      ],
+      "de": [
+        "öffnende hohle Eckklammer",
+        "hohle Eckklammer | Klammer | öffnende hohle Eckklammer"
+      ],
+      "es": [
+        "corchete esquinado de apertura hueco",
+        "abrir corchetes | comillas chinas | comillas japonesas | corchete | corchete de apertura | corchete esquinado de apertura hueco"
+      ],
+      "pt": [
+        "parêntese kagikakko duplo de abertura",
+        "abertura | duplo | japonês | kagikakko | parêntese"
+      ],
+      "it": [
+        "mezza parentesi quadra vuota aperta in alto",
+        "mezza parentesi quadra vuota aperta in alto | mezza parentesi vuota | parentesi"
+      ],
+      "ro": [
+        "paranteză colț goală deschisă",
+        "paranteză | paranteză colț goală | paranteză colț goală deschisă"
+      ],
+      "he": [
+        "סימן פותח של סוגריים בצורת פינה חלולה",
+        "סוגריים | סימן פותח של סוגריים בצורת פינה חלולה | פותח | פינה חלולה"
+      ],
+      "ar": [
+        "فتح قوس زاوية مجوّفة",
+        "فتح قوس زاوية مجوّفة | قوس | قوس زاوية مجوّفة"
+      ],
+      "tr": [
+        "açık köşeli oyuk ayraç",
+        "açık köşeli oyuk ayraç | ayraç | köşeli oyuk ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc chữ L rỗng mở",
+        "dấu ngoặc | dấu ngoặc chữ L rỗng | dấu ngoặc chữ L rỗng mở"
+      ],
+      "nl": [
+        "Aziatisch aanhalingsteken openen",
+        "Aziatisch aanhalingsteken openen | haakje"
+      ]
+    }
+  ],
+  "』": [
+    "punctuation",
+    "right white corner bracket",
+    {
+      "en": [
+        "close hollow corner bracket",
+        "bracket | close | corner | hollow"
+      ],
+      "ru": [
+        "закрывающая незакрашенная прямоугольная скобка",
+        "закрывающая незакрашенная прямоугольная скобка | закрывающая скобка | прямоугольная скобка | скобка"
+      ],
+      "pl": [
+        "gruba prawa podłoga",
+        "gruba prawa podłoga | gruby nawias kątowy | nawias"
+      ],
+      "fr": [
+        "crochet de partie entière fermant creux",
+        "crochet | crochet de partie entière creux | crochet de partie entière fermant creux"
+      ],
+      "de": [
+        "schließende hohle Eckklammer",
+        "hohle Eckklammer | Klammer | schließende hohle Eckklammer"
+      ],
+      "es": [
+        "corchete esquinado de cierre hueco",
+        "cerrar corchetes | comillas chinas | comillas japonesas | corchete | corchete de cierre | corchete esquinado de cierre hueco"
+      ],
+      "pt": [
+        "parêntese kagikakko duplo de fechamento",
+        "duplo | fechamento | japonês | kagikakko | parêntese"
+      ],
+      "it": [
+        "mezza parentesi quadra vuota chiusa in basso",
+        "mezza parentesi quadra vuota chiusa in basso | mezza parentesi vuota | parentesi"
+      ],
+      "ro": [
+        "paranteză colț goală închisă",
+        "paranteză | paranteză colț goală | paranteză colț goală închisă"
+      ],
+      "he": [
+        "סימן סוגר של סוגריים בצורת פינה חלולה",
+        "סוגר | סוגריים | סימן סוגר של סוגריים בצורת פינה חלולה | פינה חלולה"
+      ],
+      "ar": [
+        "إغلاق قوس زاوية مجوّفة",
+        "إغلاق قوس زاوية مجوّفة | قوس | قوس زاوية مجوّفة"
+      ],
+      "tr": [
+        "kapalı köşeli oyuk ayraç",
+        "ayraç | kapalı köşeli oyuk ayraç | kapalı oyuk köşeli ayraç | oyuk köşeli ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc chữ L rỗng đóng",
+        "dấu ngoặc | dấu ngoặc chữ L rỗng | dấu ngoặc chữ L rỗng đóng"
+      ],
+      "nl": [
+        "Aziatisch aanhalingsteken sluiten",
+        "Aziatisch aanhalingsteken sluiten | haakje"
+      ]
+    }
+  ],
+  "【": [
+    "punctuation",
+    "left black lenticular bracket",
+    {
+      "en": [
+        "open black lens bracket",
+        "black | bracket | lens | lenticular | open"
+      ],
+      "ru": [
+        "открывающая закрашенная линзовидная скобка",
+        "линзовая скобка | линзовидная скобка | открывающая закрашенная линзовидная скобка | открывающая скобка | скобка"
+      ],
+      "pl": [
+        "otwierający czarny nawias soczewkowy",
+        "nawias | nawias soczewkowy | otwierający czarny nawias soczewkowy"
+      ],
+      "fr": [
+        "crochet lenticulaire ouvrant noir",
+        "crochet | crochet lenticulaire | crochet lenticulaire ouvrant noir"
+      ],
+      "de": [
+        "öffnende schwarze konkave Klammer",
+        "Klammer | konkave Klammer | öffnende schwarze konkave Klammer | schwarze konkave Klammer"
+      ],
+      "es": [
+        "corchete lenticular de apertura",
+        "abrir corchetes | corchete | corchete de apertura | corchete lenticular de apertura | lenticular"
+      ],
+      "pt": [
+        "colchete lenticular preto de abertura",
+        "abertura | colchete | lenticular | preto"
+      ],
+      "it": [
+        "parentesi lenticolare piena aperta",
+        "parentesi | parentesi lenticolare | parentesi lenticolare piena aperta"
+      ],
+      "ro": [
+        "paranteză lentilă neagră deschisă",
+        "paranteză | paranteză lentilă | paranteză lentilă neagră deschisă"
+      ],
+      "he": [
+        "סימן פותח של סוגריים בצורת עדשה שחורה",
+        "סוגריים | סימן פותח של סוגריים בצורת עדשה שחורה | עדשה | עדשה שחורה | פותח"
+      ],
+      "ar": ["فتح قوس عدسة سوداء", "فتح قوس عدسة سوداء | قوس | قوس عدسة"],
+      "tr": [
+        "açık siyah lens ayraç",
+        "açık siyah lens ayraç | ayraç | lens ayraç | merceksel ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc thấu kính đen mở",
+        "dấu ngoặc | dấu ngoặc thấu kính | dấu ngoặc thấu kính đen mở"
+      ],
+      "nl": [
+        "zwart lensvormig haakje openen",
+        "haakje | lenshaakje | lensvormig haakje | zwart lensvormig haakje openen"
+      ]
+    }
+  ],
+  "】": [
+    "punctuation",
+    "right black lenticular bracket",
+    {
+      "en": [
+        "close black lens bracket",
+        "black | bracket | close | lens | lenticular"
+      ],
+      "ru": [
+        "закрывающая закрашенная линзовидная скобка",
+        "закрывающая закрашенная линзовидная скобка | закрывающая скобка | линзовая скобка | линзовидная скобка | скобка"
+      ],
+      "pl": [
+        "zamykający czarny nawias soczewkowy",
+        "nawias | nawias soczewkowy | zamykający czarny nawias soczewkowy"
+      ],
+      "fr": [
+        "crochet lenticulaire fermant noir",
+        "crochet | crochet lenticulaire | crochet lenticulaire fermant noir"
+      ],
+      "de": [
+        "schließende schwarze konkave Klammer",
+        "Klammer | konkave Klammer | schließende schwarze konkave Klammer | schwarze konkave Klammer"
+      ],
+      "es": [
+        "corchete lenticular de cierre",
+        "cerrar corchetes | corchete | corchete de cierre | corchete lenticular de cierre | lenticular"
+      ],
+      "pt": [
+        "colchete lenticular preto de fechamento",
+        "colchete | fechamento | lenticular | preto"
+      ],
+      "it": [
+        "parentesi lenticolare piena chiusa",
+        "parentesi | parentesi lenticolare | parentesi lenticolare piena chiusa"
+      ],
+      "ro": [
+        "paranteză lentilă neagră închisă",
+        "paranteză | paranteză lentilă | paranteză lentilă neagră închisă"
+      ],
+      "he": [
+        "סימן סוגר של סוגריים בצורת עדשה שחורה",
+        "סוגר | סוגריים | סימן סוגר של סוגריים בצורת עדשה שחורה | עדשה | עדשה שחורה"
+      ],
+      "ar": ["إغلاق قوس عدسة سوداء", "إغلاق قوس عدسة سوداء | قوس | قوس عدسة"],
+      "tr": [
+        "kapalı siyah lens ayraç",
+        "ayraç | kapalı siyah lens ayraç | lens ayraç | merceksel ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc thấu kính đen đóng",
+        "dấu ngoặc | dấu ngoặc thấu kính | dấu ngoặc thấu kính đen đóng"
+      ],
+      "nl": [
+        "lensvormig contourhaakje sluiten",
+        "haakje | lenshaakje | lensvormig contourhaakje sluiten | lensvormig haakje"
+      ]
+    }
+  ],
+  "〔": [
+    "punctuation",
+    "left tortoise shell bracket",
+    {
+      "en": [
+        "open tortoise shell bracket",
+        "bracket | open | shell | tortoise"
+      ],
+      "ru": [
+        "открывающая черепашья скобка",
+        "открывающая скобка | открывающая черепашья скобка | скобка | черепашья скобка"
+      ],
+      "pl": [
+        "otwierający nawias zaokrąglony",
+        "nawias | nawias zaokrąglony | otwierający nawias zaokrąglony"
+      ],
+      "fr": [
+        "crochet en écaille ouvrant",
+        "crochet | crochet en écaille | crochet en écaille ouvrant"
+      ],
+      "de": [
+        "öffnende stumpfe Klammer",
+        "linke stumpfe Klammer | öffnende stumpfe Klammer | stumpfe Klammer"
+      ],
+      "es": [
+        "corchete caparazón tortuga de apertura",
+        "abrir corchetes | corchete | corchete caparazón tortuga de apertura | corchete de apertura | corchete tortuga"
+      ],
+      "pt": [
+        "colchete casco de tartaruga de abertura",
+        "abertura | casco | casco de tartaruga | colchete"
+      ],
+      "it": [
+        "parentesi quadra spezzata aperta",
+        "parentesi | parentesi quadra spezzata | parentesi quadra spezzata aperta | spezzata"
+      ],
+      "ro": [
+        "paranteză tortoise shell deschisă",
+        "paranteză | paranteză tortoise shell | paranteză tortoise shell deschisă"
+      ],
+      "he": [
+        "סימן פותח של סוגריים בצורת שיריון צב",
+        "סוגריים | סוגריים בצורת שיריון צב | סימן פותח של סוגריים בצורת שיריון צב | פותח"
+      ],
+      "ar": [
+        "قوس فتح على شكل صدفة السلحفاة",
+        "قوس | قوس على شكل صدفة | قوس على شكل صدفة السلحفاة | قوس فتح على شكل صدفة السلحفاة"
+      ],
+      "tr": [
+        "açık kaplumbağa kabuğu şeklinde ayraç",
+        "açık kaplumbağa kabuğu şeklinde ayraç | ayraç | kabuk ayraç | kaplumbağa kabuğu şeklinde ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc mai rùa mở",
+        "dấu ngoặc | dấu ngoặc hình mai rùa | dấu ngoặc mai rùa | dấu ngoặc mai rùa mở"
+      ],
+      "nl": [
+        "schildhaakje openen",
+        "haakje | schildhaakje | schildhaakje openen | schildpadhaakje"
+      ]
+    }
+  ],
+  "〕": [
+    "punctuation",
+    "right tortoise shell bracket",
+    {
+      "en": [
+        "close tortoise shell bracket",
+        "bracket | close | shell | tortoise"
+      ],
+      "ru": [
+        "закрывающая черепашья скобка",
+        "закрывающая скобка | закрывающая черепашья скобка | скобка | черепашья скобка"
+      ],
+      "pl": [
+        "zamykający nawias zaokrąglony",
+        "nawias | nawias zaokrąglony | zamykający nawias zaokrąglony"
+      ],
+      "fr": [
+        "crochet en écaille fermant",
+        "crochet | crochet en écaille | crochet en écaille fermant"
+      ],
+      "de": [
+        "schließende stumpfe Klammer",
+        "rechte stumpfe Klammer | schließende stumpfe Klammer | stumpfe Klammer"
+      ],
+      "es": [
+        "corchete caparazón tortuga de cierre",
+        "cerrar corchetes | corchete | corchete caparazón tortuga de cierre | corchete de cierre | corchete tortuga"
+      ],
+      "pt": [
+        "colchete casco de tartaruga de fechamento",
+        "casco | casco de tartaruga | colchete | fechamento"
+      ],
+      "it": [
+        "parentesi quadra spezzata chiusa",
+        "parentesi | parentesi quadra spezzata | parentesi quadra spezzata chiusa | spezzata"
+      ],
+      "ro": [
+        "paranteză tortoise shell închisă",
+        "paranteză | paranteză tortoise shell | paranteză tortoise shell închisă"
+      ],
+      "he": [
+        "סימן סוגר של סוגריים בצורת שיריון צב",
+        "סוגר | סוגריים | סוגריים בצורת שיריון צב | סימן סוגר של סוגריים בצורת שיריון צב"
+      ],
+      "ar": [
+        "قوس إغلاق على شكل صدفة السلحفاة",
+        "قوس | قوس إغلاق على شكل صدفة السلحفاة | قوس على شكل صدفة | قوس على شكل صدفة السلحفاة"
+      ],
+      "tr": [
+        "kapalı kaplumbağa kabuğu şeklinde ayraç",
+        "ayraç | kabuk ayraç | kapalı kaplumbağa kabuğu şeklinde ayraç | kaplumbağa kabuğu şeklinde ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc mai rùa đóng",
+        "dấu ngoặc | dấu ngoặc hình mai rùa | dấu ngoặc mai rùa | dấu ngoặc mai rùa đóng"
+      ],
+      "nl": [
+        "schildhaakje sluiten",
+        "haakje | schildhaakje | schildhaakje sluiten | schildpadhaakje"
+      ]
+    }
+  ],
+  "〖": [
+    "punctuation",
+    "left white lenticular bracket",
+    {
+      "en": [
+        "open hollow lens bracket",
+        "bracket | hollow | lens | lenticular | open"
+      ],
+      "ru": [
+        "открывающая незакрашенная линзовидная скобка",
+        "линзовая скобка | линзовидная скобка | открывающая незакрашенная линзовидная скобка | открывающая скобка | скобка"
+      ],
+      "pl": [
+        "otwierający gruby nawias soczewkowy",
+        "gruby nawias soczewkowy | nawias | otwierający gruby nawias soczewkowy"
+      ],
+      "fr": [
+        "crochet lenticulaire ouvrant creux",
+        "crochet | crochet lenticulaire creux | crochet lenticulaire ouvrant creux"
+      ],
+      "de": [
+        "öffnende hohle konkave Klammer",
+        "hohle konkave Klammer | Klammer | konkave Klammer | öffnende hohle konkave Klammer"
+      ],
+      "es": [
+        "corchete lenticular de apertura hueco",
+        "abrir corchetes | corchete | corchete de apertura | corchete lenticular de apertura hueco | lenticular"
+      ],
+      "pt": [
+        "colchete lenticular branco de abertura",
+        "abertura | branco | colchete | lenticular"
+      ],
+      "it": [
+        "parentesi lenticolare vuota aperta",
+        "parentesi lenticolare vuota | parentesi lenticolare vuota aperta | parentsi"
+      ],
+      "ro": [
+        "paranteză lentilă goală deschisă",
+        "paranteză | paranteză lentilă goală | paranteză lentilă goală deschisă"
+      ],
+      "he": [
+        "סימן פותח של סוגריים בצורת עדשה",
+        "סוגריים | סימן פותח של סוגריים בצורת עדשה | עדשה | עדשה חלולה | פותח"
+      ],
+      "ar": ["فتح قوس عدسة مجوّفة", "فتح قوس عدسة مجوّفة | قوس | قوس عدسة مجوّفة"],
+      "tr": [
+        "açık oyuk mercek ayraç",
+        "açık oyuk mercek ayraç | ayraç | oyuk mercek ayraç | oyuklu merceksel ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc thấu kính rỗng mở",
+        "dấu ngoặc | dấu ngoặc thấu kính rỗng | dấu ngoặc thấu kính rỗng mở"
+      ],
+      "nl": [
+        "lensvormig haakje openen",
+        "haakje | lenshaakje | lensvormig haakje | lensvormig haakje openen"
+      ]
+    }
+  ],
+  "〗": [
+    "punctuation",
+    "right white lenticular bracket",
+    {
+      "en": [
+        "close hollow lens bracket",
+        "bracket | close | hollow | lens | lenticular"
+      ],
+      "ru": [
+        "закрывающая незакрашенная линзовидная скобка",
+        "закрывающая незакрашенная линзовидная скобка | закрывающая скобка | линзовая скобка | линзовидная скобка | скобка"
+      ],
+      "pl": [
+        "zamykający gruby nawias soczewkowy",
+        "gruby nawias soczewkowy | nawias | zamykający gruby nawias soczewkowy"
+      ],
+      "fr": [
+        "crochet lenticulaire fermant creux",
+        "crochet | crochet lenticulaire creux | crochet lenticulaire fermant creux"
+      ],
+      "de": [
+        "schließende hohle konkave Klammer",
+        "hohle konkave Klammer | Klammer | konkave Klammer | schließende hohle konkave Klammer"
+      ],
+      "es": [
+        "corchete lenticular de cierre hueco",
+        "cerrar corchetes | corchete | corchete de cierre | corchete lenticular de cierre hueco | lenticular"
+      ],
+      "pt": [
+        "colchete lenticular branco de fechamento",
+        "branco | colchete | fechamento | lenticular"
+      ],
+      "it": [
+        "parentesi lenticolare vota chiusa",
+        "chiusa | parentesi lenticolare vota chiusa | parentesi lenticolare vuota"
+      ],
+      "ro": [
+        "paranteză lentilă goală închisă",
+        "paranteză | paranteză lentilă goală | paranteză lentilă goală închisă"
+      ],
+      "he": [
+        "סימן סוגר של סוגריים בצורת עדשה",
+        "סוגר | סוגריים | סימן סוגר של סוגריים בצורת עדשה | עדשה | עדשה חלולה"
+      ],
+      "ar": [
+        "إغلاق قوس عدسة مجوّفة",
+        "إغلاق قوس عدسة مجوّفة | قوس | قوس عدسة مجوّفة"
+      ],
+      "tr": [
+        "kapalı oyuk lens ayraç",
+        "ayraç | kapalı oyuk lens ayraç | oyuk lens ayraç | oyuklu merceksel ayraç"
+      ],
+      "vi": [
+        "dấu ngoặc thấu kính rỗng đóng",
+        "dấu ngoặc | dấu ngoặc thấu kính rỗng | dấu ngoặc thấu kính rỗng đóng"
+      ],
+      "nl": [
+        "lensvormig haakje sluiten",
+        "haakje | lenshaakje | lensvormig haakje | lensvormig haakje sluiten"
+      ]
+    }
+  ],
+  "〘": ["punctuation", "left white tortoise shell bracket", {}],
+  "〙": ["punctuation", "right white tortoise shell bracket", {}],
+  "〚": ["punctuation", "left white square bracket", {}],
+  "〛": ["punctuation", "right white square bracket", {}],
+  "〜": ["punctuation", "wave dash", {}],
+  "〝": ["punctuation", "reversed double prime quotation mark", {}],
+  "〞": ["punctuation", "double prime quotation mark", {}],
+  "〟": ["punctuation", "low double prime quotation mark", {}],
+  "〰": [
+    "punctuation",
+    "wavy dash",
+    {
+      "en": ["wavy dash", "dash | punctuation | wavy"],
+      "ru": [
+        "волнистая линия",
+        "волна | волнистая | знак | линия | пунктуация"
+      ],
+      "pl": [
+        "falista kreska",
+        "fala | falista kreska | linia | pofalowana | znak"
+      ],
+      "fr": [
+        "ligne ondulée",
+        "ligne ondulée | ponctuation | tiret | trait d’union ondulé | vague"
+      ],
+      "de": ["Wellenlinie", "gewellt | Linie | Wellenlinie"],
+      "es": ["guion ondulado", "guion | marca de sonido largo | ondulado"],
+      "pt": ["travessão ondulado", "onda | ondulado | pontuação | travessão"],
+      "it": ["trattino ondulato", "onda | ondulato | trattino"],
+      "ro": [
+        "liniuță ondulată",
+        "în valuri | liniuță | liniuță ondulată | ondulat | vălurit"
+      ],
+      "he": ["קו גלי", "גלי | סימני פיסוק | קו גלי | קו מפריד"],
+      "ar": [
+        "شرطة مموجة",
+        "رمز | شرطة | شرطة مموجة | علامة | علامة صوت طويل | مموج"
+      ],
+      "tr": ["dalgalı çizgi", "çizgi | dalgalı | uzun ses işareti"],
+      "vi": [
+        "dấu gạch ngang lượn sóng",
+        "dấu | dấu gạch ngang | dấu gạch ngang lượn sóng | lượn sóng"
+      ],
+      "nl": ["golvend streepje", "golvend | interpunctie | streepje"]
+    }
+  ],
+  "〽": [
+    "punctuation",
+    "part alternation mark",
+    {
+      "en": ["part alternation mark", "alternation | mark | part"],
+      "ru": [
+        "вступает другой голос",
+        "вступает другой голос | голос | другой голос | знак | певцы | япония"
+      ],
+      "pl": [
+        "początek partii wokalnej",
+        "m | początek partii wokalnej | znak | zygzak"
+      ],
+      "fr": ["alternance", "alternance | symbole"],
+      "de": [
+        "Teilalternationszeichen",
+        "japanisch | Teilalternationszeichen | Zeichensetzung"
+      ],
+      "es": [
+        "marca de alternancia",
+        "alternancia | marca | marca de alternancia"
+      ],
+      "pt": [
+        "sinal japonês indicando início de música",
+        "canto | japonês | símbolo japonês de canto | sinal japonês indicando início de música"
+      ],
+      "it": [
+        "simbolo di alternanza delle parti",
+        "canzone | divisione spartito | parti musicali | segno | simbolo di alternanza delle parti | suddivisione parti"
+      ],
+      "ro": [
+        "alternare cântăreț",
+        "alternare cântăreț | cântăreț | marcaj | schimbare | semn"
+      ],
+      "he": [
+        "סמל יפני מתחום המוזיקה",
+        "מוזיקה | סימון | סמל יפני מתחום המוזיקה | תחילת שיר"
+      ],
+      "ar": ["بديل", "بديل | جزء | رمز | علامة"],
+      "tr": [
+        "parça değiştirme işareti",
+        "bölüm değiştirme işareti | işaret | parça | parça değiştirme işareti"
+      ],
+      "vi": [
+        "ký hiệu thay đổi luân phiên",
+        "ký hiệu | ký hiệu thay đổi luân phiên | thay đổi luân phiên"
+      ],
+      "nl": [
+        "rolwisselingsmarkering",
+        "markering | rolwisseling | rolwisselingsmarkering | teken"
+      ]
+    }
+  ]
+}

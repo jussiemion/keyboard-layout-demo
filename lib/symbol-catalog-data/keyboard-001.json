@@ -1,0 +1,947 @@
+{
+  "⌀": ["keyboard", "diameter sign", {}],
+  "⌂": ["keyboard", "house", {}],
+  "⌅": ["keyboard", "projective", {}],
+  "⌆": ["keyboard", "perspective", {}],
+  "⌇": ["keyboard", "wavy line", {}],
+  "⌌": ["keyboard", "bottom right crop", {}],
+  "⌍": ["keyboard", "bottom left crop", {}],
+  "⌎": ["keyboard", "top right crop", {}],
+  "⌏": ["keyboard", "top left crop", {}],
+  "⌐": ["keyboard", "reversed not sign", {}],
+  "⌑": ["keyboard", "square lozenge", {}],
+  "⌒": ["keyboard", "arc", {}],
+  "⌓": ["keyboard", "segment", {}],
+  "⌔": ["keyboard", "sector", {}],
+  "⌕": ["keyboard", "telephone recorder", {}],
+  "⌖": ["keyboard", "position indicator", {}],
+  "⌗": ["keyboard", "viewdata square", {}],
+  "⌘": ["keyboard", "place of interest sign", {}],
+  "⌙": ["keyboard", "turned not sign", {}],
+  "⌚": [
+    "keyboard",
+    "watch",
+    {
+      "en": ["watch", "clock | time | watch"],
+      "ru": ["наручные часы", "время | запястье | наручные | рука | часы"],
+      "pl": ["zegarek", "godzina | zegarek"],
+      "fr": ["montre", "heure | montre"],
+      "de": ["Armbanduhr", "Armbanduhr | Uhr | Zeit"],
+      "es": ["reloj", "reloj"],
+      "pt": ["relógio de pulso", "hora | relógio | relógio de pulso | tempo"],
+      "it": ["orologio", "orologio | orologio da polso | tempo"],
+      "ro": ["ceas de mână", "ceas | ceas de mână | timp"],
+      "he": ["שעון יד", "יד | שעון"],
+      "ar": ["ساعة", "ساعة | ساعة يد | وقت"],
+      "tr": ["kol saati", "kol saati | saat"],
+      "vi": ["đồng hồ đeo tay", "đồng hồ | đồng hồ đeo tay | thời gian"],
+      "nl": ["horloge", "horloge | klok | polshorloge | tijd"]
+    }
+  ],
+  "⌛": [
+    "keyboard",
+    "hourglass",
+    {
+      "en": ["hourglass done", "done | hourglass | sand | time | timer"],
+      "ru": ["песочные часы", "время | песок | песочные часы | часы"],
+      "pl": ["klepsydra", "czas | klepsydra | odmierzać | piasek"],
+      "fr": ["sablier", "chronomètre | minuteur | sable | sablier | temps"],
+      "de": ["Sanduhr", "Prozess | Sanduhr | Vorgang läuft | Zeit"],
+      "es": [
+        "reloj de arena sin tiempo",
+        "arena | reloj | reloj de arena sin tiempo | temporizador"
+      ],
+      "pt": ["ampulheta", "ampulheta | areia | tempo"],
+      "it": ["clessidra", "clessidra | sabbia | tempo"],
+      "ro": [
+        "clepsidră cu nisipul scurs",
+        "clepsidră | clepsidră cu nisipul scurs | cronometru | nisip | temporizator | timp"
+      ],
+      "he": ["שעון חול", "זמן | שעון חול"],
+      "ar": [
+        "مؤقت رملي مكتمل",
+        "تاريخ | توقيت | رمال | رمل | زمن | ساعة رملية | ساعة رملية مكتملة | مؤقت رملي مكتمل"
+      ],
+      "tr": ["kum saati", "kum | kum saati"],
+      "vi": [
+        "đồng hồ cát đã chảy hết",
+        "bộ định thời | cát | đồng hồ cát | đồng hồ cát đã chảy hết | đồng hồ hẹn giờ"
+      ],
+      "nl": ["zandloper", "tijd | timer | zand | zandloper"]
+    }
+  ],
+  "⌜": ["keyboard", "top left corner", {}],
+  "⌝": ["keyboard", "top right corner", {}],
+  "⌞": ["keyboard", "bottom left corner", {}],
+  "⌟": ["keyboard", "bottom right corner", {}],
+  "⌢": ["keyboard", "frown", {}],
+  "⌣": ["keyboard", "smile", {}],
+  "⌥": ["keyboard", "option key", {}],
+  "⌦": ["keyboard", "erase to the right", {}],
+  "⌧": ["keyboard", "x in a rectangle box", {}],
+  "⌨": [
+    "keyboard",
+    "keyboard",
+    {
+      "en": ["keyboard", "computer | keyboard"],
+      "ru": ["клавиатура", "клавиатура | клавиши | периферия"],
+      "pl": ["klawiatura", "klawiatura | komputer | pisać"],
+      "fr": ["clavier", "clavier | informatique | ordinateur"],
+      "de": ["Tastatur", "Computer | Keyboard | Tastatur"],
+      "es": ["teclado", "ordenador | teclado"],
+      "pt": ["teclado", "acessório | computador | digitação | teclado"],
+      "it": ["tastiera", "computer | tasti | tastiera | tastiera senza fili"],
+      "ro": ["tastatură", "calculator | computer | tastatură | taste"],
+      "he": ["מקלדת", "לוח מקשים | מחשב | מקלדת"],
+      "ar": [
+        "لوحة مفاتيح",
+        "ازرار | الكمبيوتر | كمبيوتر | كومبيوتر | كيبورد | لوحة مفاتيح"
+      ],
+      "tr": ["klavye", "bilgisayar | klavye"],
+      "vi": ["bàn phím", "bàn phím | máy tính"],
+      "nl": ["toetsenbord", "computer | toetsenbord"]
+    }
+  ],
+  "⌫": ["keyboard", "erase to the left", {}],
+  "⌬": ["keyboard", "benzene ring", {}],
+  "⌭": ["keyboard", "cylindricity", {}],
+  "⌮": ["keyboard", "all around-profile", {}],
+  "⌯": ["keyboard", "symmetry", {}],
+  "⌰": ["keyboard", "total runout", {}],
+  "⌱": ["keyboard", "dimension origin", {}],
+  "⌲": ["keyboard", "conical taper", {}],
+  "⌳": ["keyboard", "slope", {}],
+  "⌴": ["keyboard", "counterbore", {}],
+  "⌵": ["keyboard", "countersink", {}],
+  "⌶": ["keyboard", "apl functional symbol i-beam", {}],
+  "⌷": ["keyboard", "apl functional symbol squish quad", {}],
+  "⌸": ["keyboard", "apl functional symbol quad equal", {}],
+  "⌹": ["keyboard", "apl functional symbol quad divide", {}],
+  "⌺": ["keyboard", "apl functional symbol quad diamond", {}],
+  "⌻": ["keyboard", "apl functional symbol quad jot", {}],
+  "⌼": ["keyboard", "apl functional symbol quad circle", {}],
+  "⌽": ["keyboard", "apl functional symbol circle stile", {}],
+  "⌾": ["keyboard", "apl functional symbol circle jot", {}],
+  "⌿": ["keyboard", "apl functional symbol slash bar", {}],
+  "⍀": ["keyboard", "apl functional symbol backslash bar", {}],
+  "⍁": ["keyboard", "apl functional symbol quad slash", {}],
+  "⍂": ["keyboard", "apl functional symbol quad backslash", {}],
+  "⍃": ["keyboard", "apl functional symbol quad less-than", {}],
+  "⍄": ["keyboard", "apl functional symbol quad greater-than", {}],
+  "⍅": ["keyboard", "apl functional symbol leftwards vane", {}],
+  "⍆": ["keyboard", "apl functional symbol rightwards vane", {}],
+  "⍉": ["keyboard", "apl functional symbol circle backslash", {}],
+  "⍊": ["keyboard", "apl functional symbol down tack underbar", {}],
+  "⍋": ["keyboard", "apl functional symbol delta stile", {}],
+  "⍌": ["keyboard", "apl functional symbol quad down caret", {}],
+  "⍍": ["keyboard", "apl functional symbol quad delta", {}],
+  "⍎": ["keyboard", "apl functional symbol down tack jot", {}],
+  "⍏": ["keyboard", "apl functional symbol upwards vane", {}],
+  "⍑": ["keyboard", "apl functional symbol up tack overbar", {}],
+  "⍒": ["keyboard", "apl functional symbol del stile", {}],
+  "⍓": ["keyboard", "apl functional symbol quad up caret", {}],
+  "⍔": ["keyboard", "apl functional symbol quad del", {}],
+  "⍕": ["keyboard", "apl functional symbol up tack jot", {}],
+  "⍖": ["keyboard", "apl functional symbol downwards vane", {}],
+  "⍘": ["keyboard", "apl functional symbol quote underbar", {}],
+  "⍙": ["keyboard", "apl functional symbol delta underbar", {}],
+  "⍚": ["keyboard", "apl functional symbol diamond underbar", {}],
+  "⍛": ["keyboard", "apl functional symbol jot underbar", {}],
+  "⍜": ["keyboard", "apl functional symbol circle underbar", {}],
+  "⍝": ["keyboard", "apl functional symbol up shoe jot", {}],
+  "⍞": ["keyboard", "apl functional symbol quote quad", {}],
+  "⍟": ["keyboard", "apl functional symbol circle star", {}],
+  "⍠": ["keyboard", "apl functional symbol quad colon", {}],
+  "⍡": ["keyboard", "apl functional symbol up tack diaeresis", {}],
+  "⍢": ["keyboard", "apl functional symbol del diaeresis", {}],
+  "⍣": ["keyboard", "apl functional symbol star diaeresis", {}],
+  "⍤": ["keyboard", "apl functional symbol jot diaeresis", {}],
+  "⍥": ["keyboard", "apl functional symbol circle diaeresis", {}],
+  "⍦": ["keyboard", "apl functional symbol down shoe stile", {}],
+  "⍧": ["keyboard", "apl functional symbol left shoe stile", {}],
+  "⍨": ["keyboard", "apl functional symbol tilde diaeresis", {}],
+  "⍩": ["keyboard", "apl functional symbol greater-than diaeresis", {}],
+  "⍪": ["keyboard", "apl functional symbol comma bar", {}],
+  "⍫": ["keyboard", "apl functional symbol del tilde", {}],
+  "⍬": ["keyboard", "apl functional symbol zilde", {}],
+  "⍭": ["keyboard", "apl functional symbol stile tilde", {}],
+  "⍮": ["keyboard", "apl functional symbol semicolon underbar", {}],
+  "⍯": ["keyboard", "apl functional symbol quad not equal", {}],
+  "⍰": ["keyboard", "apl functional symbol quad question", {}],
+  "⍱": ["keyboard", "apl functional symbol down caret tilde", {}],
+  "⍲": ["keyboard", "apl functional symbol up caret tilde", {}],
+  "⍳": ["keyboard", "apl functional symbol iota", {}],
+  "⍴": ["keyboard", "apl functional symbol rho", {}],
+  "⍵": ["keyboard", "apl functional symbol omega", {}],
+  "⍶": ["keyboard", "apl functional symbol alpha underbar", {}],
+  "⍷": ["keyboard", "apl functional symbol epsilon underbar", {}],
+  "⍸": ["keyboard", "apl functional symbol iota underbar", {}],
+  "⍹": ["keyboard", "apl functional symbol omega underbar", {}],
+  "⍺": ["keyboard", "apl functional symbol alpha", {}],
+  "⍻": ["keyboard", "not check mark", {}],
+  "⍽": ["keyboard", "shouldered open box", {}],
+  "⍾": ["keyboard", "bell symbol", {}],
+  "⍿": ["keyboard", "vertical line with middle dot", {}],
+  "⎀": ["keyboard", "insertion symbol", {}],
+  "⎁": ["keyboard", "continuous underline symbol", {}],
+  "⎂": ["keyboard", "discontinuous underline symbol", {}],
+  "⎃": ["keyboard", "emphasis symbol", {}],
+  "⎄": ["keyboard", "composition symbol", {}],
+  "⎅": ["keyboard", "white square with centre vertical line", {}],
+  "⎆": ["keyboard", "enter symbol", {}],
+  "⎇": ["keyboard", "alternative key symbol", {}],
+  "⎈": ["keyboard", "helm symbol", {}],
+  "⎉": ["keyboard", "circled horizontal bar with notch", {}],
+  "⎊": ["keyboard", "circled triangle down", {}],
+  "⎌": ["keyboard", "undo symbol", {}],
+  "⎍": ["keyboard", "monostable symbol", {}],
+  "⎎": ["keyboard", "hysteresis symbol", {}],
+  "⎏": ["keyboard", "open-circuit-output h-type symbol", {}],
+  "⎐": ["keyboard", "open-circuit-output l-type symbol", {}],
+  "⎑": ["keyboard", "passive-pull-down-output symbol", {}],
+  "⎒": ["keyboard", "passive-pull-up-output symbol", {}],
+  "⎓": ["keyboard", "direct current symbol form two", {}],
+  "⎔": ["keyboard", "software-function symbol", {}],
+  "⎕": ["keyboard", "apl functional symbol quad", {}],
+  "⎖": ["keyboard", "decimal separator key symbol", {}],
+  "⎗": ["keyboard", "previous page", {}],
+  "⎘": ["keyboard", "next page", {}],
+  "⎙": ["keyboard", "print screen symbol", {}],
+  "⎚": ["keyboard", "clear screen symbol", {}],
+  "⎴": ["keyboard", "top square bracket", {}],
+  "⎵": ["keyboard", "bottom square bracket", {}],
+  "⎶": ["keyboard", "bottom square bracket over top square bracket", {}],
+  "⎷": ["keyboard", "radical symbol bottom", {}],
+  "⎸": ["keyboard", "left vertical box line", {}],
+  "⎹": ["keyboard", "right vertical box line", {}],
+  "⎺": ["keyboard", "horizontal scan line-1", {}],
+  "⎻": ["keyboard", "horizontal scan line-3", {}],
+  "⎼": ["keyboard", "horizontal scan line-7", {}],
+  "⎽": ["keyboard", "horizontal scan line-9", {}],
+  "⎾": ["keyboard", "dentistry symbol light vertical and top right", {}],
+  "⎿": ["keyboard", "dentistry symbol light vertical and bottom right", {}],
+  "⏀": ["keyboard", "dentistry symbol light vertical with circle", {}],
+  "⏁": [
+    "keyboard",
+    "dentistry symbol light down and horizontal with circle",
+    {}
+  ],
+  "⏂": ["keyboard", "dentistry symbol light up and horizontal with circle", {}],
+  "⏃": ["keyboard", "dentistry symbol light vertical with triangle", {}],
+  "⏄": [
+    "keyboard",
+    "dentistry symbol light down and horizontal with triangle",
+    {}
+  ],
+  "⏅": [
+    "keyboard",
+    "dentistry symbol light up and horizontal with triangle",
+    {}
+  ],
+  "⏆": ["keyboard", "dentistry symbol light vertical and wave", {}],
+  "⏇": ["keyboard", "dentistry symbol light down and horizontal with wave", {}],
+  "⏈": ["keyboard", "dentistry symbol light up and horizontal with wave", {}],
+  "⏉": ["keyboard", "dentistry symbol light down and horizontal", {}],
+  "⏊": ["keyboard", "dentistry symbol light up and horizontal", {}],
+  "⏋": ["keyboard", "dentistry symbol light vertical and top left", {}],
+  "⏌": ["keyboard", "dentistry symbol light vertical and bottom left", {}],
+  "⏍": ["keyboard", "square foot", {}],
+  "⏎": ["keyboard", "return symbol", {}],
+  "⏏": [
+    "keyboard",
+    "eject symbol",
+    {
+      "en": ["eject button", "button | eject"],
+      "ru": ["выброс", "выброс | кнопка"],
+      "pl": ["wysuń", "kreska | trójkąt | wysuń"],
+      "fr": ["bouton éjecter", "bouton éjecter | éjecter"],
+      "de": ["Auswerfen", "auswerfen | Auswurf | Auswurftaste | Medien"],
+      "es": ["expulsar", "botón | expulsar"],
+      "pt": ["botão ejetar", "botão ejetar | ejetar"],
+      "it": [
+        "pulsante di espulsione",
+        "espulsione | pulsante | pulsante di espulsione"
+      ],
+      "ro": ["buton de ejectare", "buton | buton de ejectare | ejectare"],
+      "he": ["לחצן הוצאה", "הוצאה | חץ | להוציא | לחצן הוצאה"],
+      "ar": ["زر إخراج", "خروج | زر إخراج"],
+      "tr": ["çıkarma düğmesi", "çıkar | çıkarma düğmesi"],
+      "vi": ["nút tháo", "nút tháo | tháo"],
+      "nl": ["knop voor uitwerpen", "knop voor uitwerpen | uitwerpen"]
+    }
+  ],
+  "⏐": ["keyboard", "vertical line extension", {}],
+  "⏑": ["keyboard", "metrical breve", {}],
+  "⏒": ["keyboard", "metrical long over short", {}],
+  "⏓": ["keyboard", "metrical short over long", {}],
+  "⏔": ["keyboard", "metrical long over two shorts", {}],
+  "⏕": ["keyboard", "metrical two shorts over long", {}],
+  "⏖": ["keyboard", "metrical two shorts joined", {}],
+  "⏗": ["keyboard", "metrical triseme", {}],
+  "⏘": ["keyboard", "metrical tetraseme", {}],
+  "⏙": ["keyboard", "metrical pentaseme", {}],
+  "⏚": ["keyboard", "earth ground", {}],
+  "⏛": ["keyboard", "fuse", {}],
+  "⏢": ["keyboard", "white trapezium", {}],
+  "⏣": ["keyboard", "benzene ring with circle", {}],
+  "⏤": ["keyboard", "straightness", {}],
+  "⏥": ["keyboard", "flatness", {}],
+  "⏦": ["keyboard", "ac current", {}],
+  "⏧": ["keyboard", "electrical intersection", {}],
+  "⏨": ["keyboard", "decimal exponent symbol", {}],
+  "⏩": [
+    "keyboard",
+    "black right-pointing double triangle",
+    {
+      "en": [
+        "fast-forward button",
+        "arrow | button | double | fast | fast-forward | forward"
+      ],
+      "ru": [
+        "перемотка вперед",
+        "вперед | вправо | два | кнопка | перемотать | перемотка | треугольника"
+      ],
+      "pl": [
+        "przycisk szybkiego przewijania do przodu",
+        "do przodu | podwójna | przewiń | przycisk szybkiego przewijania do przodu | strzałka | szybkie przewijanie | trójkąt"
+      ],
+      "fr": [
+        "bouton avance rapide",
+        "avance | avance rapide | bouton | bouton avance rapide | double flèche | flèche Avance rapide"
+      ],
+      "de": [
+        "Doppelpfeile nach rechts",
+        "Doppelpfeil | Doppelpfeile nach rechts | überspringen | vorwärts | weiter"
+      ],
+      "es": ["avance rápido", "avance rápido | avanzar | doble | flecha"],
+      "pt": [
+        "botão avançar",
+        "avançar | botão avançar | direita | dupla | flechas | passar para a frente | rápido | seta | seta dupla para a direita"
+      ],
+      "it": [
+        "pulsante di avanzamento rapido",
+        "avanzamento rapido | destra | doppia freccia a destra | fast forward | freccia | pulsante di avanzamento rapido | triangolo"
+      ],
+      "ro": [
+        "buton de derulare rapidă înainte",
+        "buton de derulare rapidă înainte | buton repede înainte | dublu | înainte | repede înainte | săgeată | triunghi"
+      ],
+      "he": ["לחצן הרצה קדימה", "הרצה | חץ | לחצן הרצה קדימה | מהר | קדימה"],
+      "ar": [
+        "زر تقديم سريع",
+        "تقديم سريع | رمز | زر | زر تقديم سريع | سهم | سهم مزدوج لليمين | يمين"
+      ],
+      "tr": [
+        "ileri sarma düğmesi",
+        "ileri sarma düğmesi | ok | sağ | sağa çift ok"
+      ],
+      "vi": [
+        "nút tua đi nhanh",
+        "kép | mũi tên | mũi tên kép | nhanh | nút tua đi nhanh | phía trước | tua đi"
+      ],
+      "nl": [
+        "knop voor snel vooruitspoelen",
+        "dubbel | knop | pijl | snel | vooruit"
+      ]
+    }
+  ],
+  "⏪": [
+    "keyboard",
+    "black left-pointing double triangle",
+    {
+      "en": [
+        "fast reverse button",
+        "arrow | button | double | fast | reverse | rewind"
+      ],
+      "ru": [
+        "перемотка назад",
+        "влево | два треугольника | кнопка | назад | перемотать | перемотка назад | стрелка"
+      ],
+      "pl": [
+        "przycisk szybkiego przewijania do tyłu",
+        "do tyłu | podwójna | przewiń | przycisk szybkiego przewijania do tyłu | strzałka | szybkie przewijanie | trójkąt | w lewo | wstecz"
+      ],
+      "fr": [
+        "bouton retour rapide",
+        "bouton | bouton retour rapide | double flèche | flèche | flèche Retour rapide | retour | retour rapide"
+      ],
+      "de": [
+        "Zurückspulen",
+        "Doppelpfeil | Doppelpfeile nach links | Dreieck | Pfeil | vorheriger Titel | zurück | Zurückspulen"
+      ],
+      "es": [
+        "retroceso rápido",
+        "flecha | flecha doble a la izquierda | izquierda | rebobinado | rebobinar | retroceso rápido"
+      ],
+      "pt": [
+        "botão de retroceder",
+        "botão de retroceder | dupla | esquerda | retroceder | seta | seta dupla para a esquerda | seta dupla para trás | voltar"
+      ],
+      "it": [
+        "pulsante di riavvolgimento rapido",
+        "doppia freccia a sinistra | freccia | pulsante di riavvolgimento rapido | rewind | riavvolgimento rapido | sinistra"
+      ],
+      "ro": [
+        "buton de derulare rapidă înapoi",
+        "buton de derulare rapidă înapoi | derulare înapoi | dublu | înapoi | săgeată | triunghi"
+      ],
+      "he": ["לחצן הרצה לאחור", "אחורה | הרצה | חץ | לחצן הרצה לאחור | מהר"],
+      "ar": [
+        "زر ترجيع سريع",
+        "ترجيع سريع | رمز | زر | زر ترجيع سريع | سهم | سهم مزدوج لليسار | يسار"
+      ],
+      "tr": [
+        "hızlı geri düğmesi",
+        "geri sarma düğmesi | hızlı geri düğmesi | ok | sol | sola çift ok"
+      ],
+      "vi": [
+        "nút tua lại nhanh",
+        "kép | mũi tên | mũi tên kép | nút tua lại nhanh | tua lại"
+      ],
+      "nl": [
+        "knop voor versneld terugspoelen",
+        "dubbele pijl links | knop voor versneld terugspoelen | links | pijl | terugspoelen"
+      ]
+    }
+  ],
+  "⏫": [
+    "keyboard",
+    "black up-pointing double triangle",
+    {
+      "en": ["fast up button", "arrow | button | double | fast | up"],
+      "ru": [
+        "два треугольника острием вверх",
+        "вверх | два треугольника | два треугольника острием вверх | кнопка | стрелка | стрелки вверх"
+      ],
+      "pl": [
+        "przycisk „szybko w górę”",
+        "do góry | podwójna | przycisk „szybko w górę” | strzałka | w górę"
+      ],
+      "fr": [
+        "double flèche vers le haut",
+        "double flèche vers le haut | flèche double | flèche vers le haut | haut | rapide"
+      ],
+      "de": [
+        "Doppelpfeile nach oben",
+        "aufwärts | Doppelpfeil | Doppelpfeile nach oben | doppelt | nach oben | Pfeil"
+      ],
+      "es": [
+        "triángulo doble hacia arriba",
+        "arriba | flecha | triángulo doble hacia arriba"
+      ],
+      "pt": [
+        "botão de avanço para cima",
+        "botão de avanço para cima | dupla | flechas para cima | para cima | seta | seta dupla para cima"
+      ],
+      "it": [
+        "pulsante doppia freccia in alto",
+        "alto | doppia freccia in alto | freccia | pulsante doppia freccia in alto"
+      ],
+      "ro": [
+        "buton pentru repede sus",
+        "buton pentru repede sus | buton repede mai sus | dublu | repede | săgeată | sus | triunghi"
+      ],
+      "he": ["לחצן מעלה במהירות", "חץ | כפול | לחצן מעלה במהירות"],
+      "ar": [
+        "زر سريع لأعلى",
+        "أعلى | رمز | زر | زر سريع لأعلى | سريع لأعلى | سهم | سهم مزدوج لأعلى"
+      ],
+      "tr": [
+        "hızlı yukarı düğmesi",
+        "hızlı yukarı düğmesi | ok | yukarı | yukarı çift ok"
+      ],
+      "vi": ["nút lên nhanh", "kép | mũi tên | mũi tên kép | nút lên nhanh"],
+      "nl": [
+        "knop voor versneld omhoog",
+        "dubbel | knop | omhoog | pijl | snel"
+      ]
+    }
+  ],
+  "⏬": [
+    "keyboard",
+    "black down-pointing double triangle",
+    {
+      "en": ["fast down button", "arrow | button | double | down | fast"],
+      "ru": [
+        "два треугольника острием вниз",
+        "вниз | два треугольника | два треугольника острием вниз | кнопка | стрелка | стрелки вниз"
+      ],
+      "pl": [
+        "przycisk „szybko w dół”",
+        "na dół | podwójna | przycisk „szybko w dół” | strzałka | w dół"
+      ],
+      "fr": [
+        "double flèche vers le bas",
+        "bas | double flèche vers le bas | flèche double | flèche vers le bas | rapide"
+      ],
+      "de": [
+        "Doppelpfeile nach unten",
+        "Doppelpfeil | Doppelpfeile nach unten | doppelt abwärts | nach unten | Pfeil"
+      ],
+      "es": [
+        "triángulo doble hacia abajo",
+        "triángulo | triángulo doble abajo | triángulo doble hacia abajo"
+      ],
+      "pt": [
+        "botão de avanço para baixo",
+        "botão de avanço para baixo | flechas | flechas para baixo | para baixo | retroceder rápido | seta | seta dupla para baixo"
+      ],
+      "it": [
+        "doppia freccia in basso",
+        "basso | doppia freccia in basso | freccia"
+      ],
+      "ro": [
+        "buton pentru repede jos",
+        "buton pentru repede jos | buton repede mai jos | dublu | jos | repede | săgeată | triunghi"
+      ],
+      "he": ["לחצן מטה במהירות", "חץ | כפול | לחצן מטה במהירות"],
+      "ar": [
+        "زر سريع لأسفل",
+        "أسفل | رمز | زر | زر سريع لأسفل | سريع لأسفل | سهم"
+      ],
+      "tr": [
+        "hızlı aşağı düğmesi",
+        "aşağı | aşağı çift ok | hızlı aşağı düğmesi | ok"
+      ],
+      "vi": [
+        "nút xuống nhanh",
+        "kép | mũi tên | mũi tên kép | nút xuống nhanh | xuống"
+      ],
+      "nl": [
+        "knop voor versneld omlaag",
+        "dubbel | knop | omlaag | pijl | snel"
+      ]
+    }
+  ],
+  "⏭": [
+    "keyboard",
+    "black right-pointing double triangle with vertical bar",
+    {
+      "en": [
+        "next track button",
+        "arrow | button | next | scene | track | triangle"
+      ],
+      "ru": [
+        "следующий трек",
+        "вперед | вправо | далее | два треугольника | дорожка | кнопка | композиция | перемотать | перемотка | песня | следующая | следующий | трек | черта"
+      ],
+      "pl": [
+        "następny utwór",
+        "następny | następny utwór | strzałka | trójkąt"
+      ],
+      "fr": [
+        "bouton piste suivante",
+        "bouton piste suivante | bouton suivant | double flèche | piste suivante | scène suivante | suivant | triangle"
+      ],
+      "de": [
+        "Nächster Titel",
+        "Doppelpfeil | Dreieck | nächster Titel | Nächster Titel | vorwärts | weiter"
+      ],
+      "es": [
+        "pista siguiente",
+        "pista siguiente | raya vertical | siguiente | triángulos"
+      ],
+      "pt": [
+        "botão de próxima faixa",
+        "avançar | botão de próxima faixa | flechas duplas | passar para frente | próxima cena | próxima faixa | seta | seta dupla para a direita"
+      ],
+      "it": [
+        "traccia successiva",
+        "freccia | prossima traccia | pulsante | traccia successiva"
+      ],
+      "ro": [
+        "buton pentru melodia următoare",
+        "buton | buton melodia următoare | buton pentru melodia următoare | înainte | melodia următoare | săgeată | scena următoare | triunghi | următorul"
+      ],
+      "he": [
+        "לחצן מעבר לשיר הבא",
+        "דילוג | השיר הבא | חץ | לחצן מעבר לשיר הבא | מעבר"
+      ],
+      "ar": [
+        "زر التالي",
+        "التالي | المشهد التالي | المقطع التالي | رمز | زر | سهم | مثلث"
+      ],
+      "tr": [
+        "sonraki parça düğmesi",
+        "ok | sonraki parça | sonraki parça düğmesi | sonraki sahne | üçgen"
+      ],
+      "vi": [
+        "nút bài tiếp theo",
+        "bài tiếp theo | cảnh tiếp theo | mũi tên | nút bài tiếp theo | tam giác"
+      ],
+      "nl": [
+        "knop voor volgende nummer",
+        "driehoek | knop | nummer | pijl | scène | volgende"
+      ]
+    }
+  ],
+  "⏮": [
+    "keyboard",
+    "black left-pointing double triangle with vertical bar",
+    {
+      "en": [
+        "last track button",
+        "arrow | button | last | previous | scene | track | triangle"
+      ],
+      "ru": [
+        "предыдущий трек",
+        "влево | два треугольника | перемотать назад | перемотка | перемотка назад | предыдущая дорожка | предыдущая композиция | предыдущий трек"
+      ],
+      "pl": [
+        "poprzedni utwór",
+        "poprzedni | poprzedni utwór | strzałka | trójkąt"
+      ],
+      "fr": [
+        "bouton piste précédente",
+        "bouton piste précédente | bouton précédent | flèche | piste précédente | précédent | scène précédente | triangle"
+      ],
+      "de": [
+        "Vorheriger Titel",
+        "Doppelpfeil | Dreieck | Pfeil | vorheriger Titel | Vorheriger Titel | zurück"
+      ],
+      "es": [
+        "pista anterior",
+        "atrás | escena anterior | pista anterior | triángulo"
+      ],
+      "pt": [
+        "botão de faixa anterior",
+        "anterior | botão de faixa anterior | cena anterior | faixa anterior | flechas para esquerda | seta | seta dupla para a esquerda | setas para a esquerda | triângulo | última faixa | voltar"
+      ],
+      "it": [
+        "pulsante traccia precedente",
+        "freccia | precedente | pulsante | pulsante traccia precedente | rewind | torna indietro | traccia precedente | triangolo"
+      ],
+      "ro": [
+        "buton pentru melodia anterioară",
+        "buton pentru melodia anterioară | cântecul anterior | derulare | înapoi | melodia anterioară | săgeată | scena anterioară | triunghi | ultima"
+      ],
+      "he": [
+        "לחצן מעבר לשיר הקודם",
+        "דילוג | השיר הקודם | חץ | לחצן מעבר לשיר הקודם | מעבר"
+      ],
+      "ar": [
+        "زر آخر مقطع",
+        "آخر مقطع | المشهد السابق | المقطع السابق | رمز | زر | زر آخر مقطع | سهم | مثلث"
+      ],
+      "tr": [
+        "son parça düğmesi",
+        "ok | önceki parça | önceki sahne | parça atlama düğmesi | son parça düğmesi | üçgen"
+      ],
+      "vi": [
+        "nút bài trước",
+        "bài trước | cảnh trước | mũi tên | nút bài cuối cùng | nút bài trước | tam giác"
+      ],
+      "nl": [
+        "knop voor vorige nummer",
+        "driehoek | knop | laatste | nummer | pijl | scène | vorige"
+      ]
+    }
+  ],
+  "⏯": [
+    "keyboard",
+    "black right-pointing triangle with double vertical bar",
+    {
+      "en": [
+        "play or pause button",
+        "arrow | button | pause | play | right | triangle"
+      ],
+      "ru": [
+        "воспроизведение/пауза",
+        "воспроизведение | воспроизведение/пауза | воспроизвести | воспроизвещение | две черты | играть | кнопка | пауза | приостановить | треугольник"
+      ],
+      "pl": [
+        "odtwórz lub wstrzymaj",
+        "odtwarzaj | odtwarzanie | odtwórz | pauza | przycisk | strzałka | trójkąt | w prawo | wstrzymaj | wstrzymanie"
+      ],
+      "fr": [
+        "bouton lecture/pause",
+        "bouton lecture/pause | flèche | lecture | pause | triangle"
+      ],
+      "de": [
+        "Wiedergabe oder Pause",
+        "Dreieck | Pause | Pfeil | rechts | Wiedergabe | Wiedergabe oder Pause"
+      ],
+      "es": [
+        "reproducir o pausa",
+        "pausa | reproducir | reproducir o pausa | triángulo"
+      ],
+      "pt": [
+        "botão de reproduzir ou pausar",
+        "botão | botão de reproduzir ou pausar | direita | pausar | pause | play | reproduzir | reproduzir ou pausar | seta | seta para a direita | triângulo"
+      ],
+      "it": [
+        "pulsante riproduci/pausa",
+        "destra | freccia | play e pausa | play o pausa | pulsante riproduci/pausa | triangolo"
+      ],
+      "ro": [
+        "buton de redare sau suspendare",
+        "bare | buton de redare sau suspendare | buton play sau pauză | buton redare sau întrerupere | dreapta | pauză | play | săgeată | triunghi"
+      ],
+      "he": ["לחצן הפעלה/השהייה", "השהה | השהייה | חץ | לחצן הפעלה/השהייה"],
+      "ar": [
+        "زر تشغيل أو إيقاف مؤقت",
+        "إيقاف مؤقت | تشغيل | تشغيل أو إيقاف مؤقت | رمز | زر | زر تشغيل أو إيقاف مؤقت | سهم | مثلث | يمين"
+      ],
+      "tr": [
+        "oynatma veya duraklatma düğmesi",
+        "duraklatma | ok | oynatma | oynatma veya duraklatma düğmesi | sağ | üçgen"
+      ],
+      "vi": [
+        "nút phát hoặc tạm dừng",
+        "bên phải | mũi tên | nút phát hoặc tạm dừng | phát | tạm dừng | tam giác"
+      ],
+      "nl": [
+        "knop voor afspelen of pauzeren",
+        "driehoek | knop | pauzeren | pijl | rechts | spelen"
+      ]
+    }
+  ],
+  "⏰": [
+    "keyboard",
+    "alarm clock",
+    {
+      "en": [
+        "alarm clock",
+        "alarm | clock | hours | hrs | late | time | waiting"
+      ],
+      "ru": [
+        "будильник",
+        "будильник | время | заводить | звенит | напоминание | подъем | сигнал | часы"
+      ],
+      "pl": ["budzik", "budzik | zegar"],
+      "fr": [
+        "réveil",
+        "alarme | attendre | dring | heure | matin | retard | réveil | sonnerie"
+      ],
+      "de": ["Wecker", "Uhr | Uhrzeit | Wecker | Zeit"],
+      "es": ["reloj despertador", "alarma | despertador | reloj"],
+      "pt": [
+        "despertador",
+        "alarme | atrasada | atrasado | despertador | hora | horário | relógio"
+      ],
+      "it": [
+        "sveglia",
+        "attesa | mattino | ora | ore | suono | sveglia | svegliarsi | tempo"
+      ],
+      "ro": [
+        "ceas deșteptător",
+        "alarmă | așteptare | ceas | ceas deșteptător | oră | târziu"
+      ],
+      "he": ["שעון מעורר", "מעורר | שעון"],
+      "ar": ["ساعة منبه", "انتظار | ساعات | ساعة | منبه"],
+      "tr": ["çalar saat", "alarm | çalar saat | saat"],
+      "vi": [
+        "đồng hồ báo thức",
+        "báo thức | đồng hồ | đồng hồ báo thức | muộn | thời gian"
+      ],
+      "nl": ["wekker", "alarm | klok | tijd | wekker"]
+    }
+  ],
+  "⏱": [
+    "keyboard",
+    "stopwatch",
+    {
+      "en": ["stopwatch", "clock | stopwatch | time"],
+      "ru": [
+        "секундомер",
+        "время | кнопка | секундомер | стрелки | таймер | точность | часы"
+      ],
+      "pl": ["stoper", "czasomierz | stoper"],
+      "fr": ["chronomètre", "chronomètre | heure | temps"],
+      "de": ["Stoppuhr", "Stoppuhr | Uhr | Zeit"],
+      "es": ["cronómetro", "cronómetro | reloj"],
+      "pt": ["cronômetro", "cronômetro | relógio | tempo"],
+      "it": [
+        "cronometro",
+        "cronometrare | cronometro | gara | prendere il tempo"
+      ],
+      "ro": ["cronometru", "ceas | cronometru | oră | timp"],
+      "he": ["שעון עצר", "סטופר | עצר | שעון"],
+      "ar": ["ساعة توقف", "توقيت | ساعة | ساعة توقف"],
+      "tr": ["kronometre", "kronometre | saat"],
+      "vi": ["đồng hồ bấm giờ", "đồng hồ | đồng hồ bấm giờ | thời gian"],
+      "nl": ["stopwatch", "klok | stopwatch | timer"]
+    }
+  ],
+  "⏲": [
+    "keyboard",
+    "timer clock",
+    {
+      "en": ["timer clock", "clock | timer"],
+      "ru": ["таймер", "время | отсчет | сигнал | таймер | часы"],
+      "pl": ["minutnik", "czasomierz | minutnik | zegar"],
+      "fr": ["horloge", "heure | horloge | minuteur | temps"],
+      "de": ["Zeitschaltuhr", "Timer | Uhr | Zeitschaltuhr"],
+      "es": ["temporizador", "reloj | temporizador"],
+      "pt": [
+        "relógio temporizador",
+        "cronômetro | relógio | relógio temporizador | timer"
+      ],
+      "it": ["timer", "orologio | timer"],
+      "ro": ["temporizator", "ceas | cronometru | temporizator"],
+      "he": ["טיימר", "בישול | זמן קצוב | טיימר | שעון"],
+      "ar": ["ساعة مؤقت", "توقيت | ساعة | مؤقت"],
+      "tr": ["alarm", "alarm | saat | zamanlayıcı"],
+      "vi": ["đồng hồ hẹn giờ", "đồng hồ | đồng hồ hẹn giờ"],
+      "nl": ["keukenwekker", "keukenwekker | klok | kookwekker | timer"]
+    }
+  ],
+  "⏳": [
+    "keyboard",
+    "hourglass with flowing sand",
+    {
+      "en": [
+        "hourglass not done",
+        "done | flowing | hourglass | hours | not | sand | timer | waiting | yolo"
+      ],
+      "ru": ["время пошло", "время | время пошло | песок | песочные | часы"],
+      "pl": [
+        "klepsydra z przesypującym się piaskiem",
+        "czas | klepsydra | klepsydra z przesypującym się piaskiem | odmierzać | piasek"
+      ],
+      "fr": [
+        "sablier avec sable qui coule",
+        "attendre | chronomètre | minuteur | sable | sablier | sablier avec sable qui coule | temps"
+      ],
+      "de": [
+        "laufende Sanduhr",
+        "laufende Sanduhr | Laufende Sanduhr | Prozess | Sanduhr | Vorgang läuft"
+      ],
+      "es": [
+        "reloj de arena con tiempo",
+        "reloj con arena cayendo | reloj de arena con tiempo | temporizador"
+      ],
+      "pt": [
+        "ampulheta contando o tempo",
+        "ampulheta | areia | cheia | contando | em cima | hora | relógio | tempo"
+      ],
+      "it": [
+        "clessidra che scorre",
+        "clessidra | clessidra che scorre | sabbia | tempo"
+      ],
+      "ro": [
+        "clepsidră cu nisip care se scurge",
+        "așteptare | clepsidră | clepsidră cu nisip care se scurge | clepsidră în care curge nisipul | cronometru | curgere | nisip | ore | temporizator | timp"
+      ],
+      "he": ["חול זורם בשעון חול", "זורם | חול | חול זורם בשעון חול | שעון"],
+      "ar": [
+        "مؤقت رملي غير مكتمل",
+        "ساعة رملية | مؤقت رملي غير مكتمل | موقت | موقت رملي"
+      ],
+      "tr": [
+        "akan kum saati",
+        "akan kum saati | kum akan kum saati | kum saati | sayaç | zamanlayıcı"
+      ],
+      "vi": [
+        "đồng hồ cát đang chảy",
+        "bộ định thời | cát | đồng hồ cát | đồng hồ cát đang chảy"
+      ],
+      "nl": [
+        "zandloper met stromend zand",
+        "tijd | timer | zand | zandloper | zandloper met stromend zand"
+      ]
+    }
+  ],
+  "⏴": ["keyboard", "black medium left-pointing triangle", {}],
+  "⏵": ["keyboard", "black medium right-pointing triangle", {}],
+  "⏶": ["keyboard", "black medium up-pointing triangle", {}],
+  "⏷": ["keyboard", "black medium down-pointing triangle", {}],
+  "⏸": [
+    "keyboard",
+    "double vertical bar",
+    {
+      "en": ["pause button", "bar | button | double | pause | vertical"],
+      "ru": [
+        "пауза",
+        "две черты | кнопка | кнопка паузы | остановить | пауза | стоп"
+      ],
+      "pl": ["pauza", "dwie | pauza | pionowe kreski | przycisk | wstrzymaj"],
+      "fr": ["bouton pause", "bouton pause | pause"],
+      "de": ["Pause", "keycap | Pause | Streifen | Tastenkappe | vertikal"],
+      "es": ["pausa", "barras | botón | pausa | vertical"],
+      "pt": [
+        "botão pausar",
+        "barra | botão pausar | dupla | pausado | pausar | pause | vertical"
+      ],
+      "it": [
+        "pulsante pausa",
+        "in pausa | mettere in pausa | pausa | pulsante"
+      ],
+      "ro": [
+        "buton de suspendare",
+        "bare | buton de întrerupere | buton de pauză | buton de suspendare | două | întrerupere | pauză | vertical"
+      ],
+      "he": ["לחצן השהייה", "הפסק | השהה | השהייה | עצור"],
+      "ar": ["زر إيقاف مؤقت", "زر إيقاف مؤقت | شريط | ضعف | متوازٍ | وقف"],
+      "tr": [
+        "duraklatma düğmesi",
+        "çift çizgi | çubuk | dikey | duraklatma | duraklatma düğmesi"
+      ],
+      "vi": ["nút tạm dừng", "dọc | kép | nút tạm dừng | tạm dừng | thanh"],
+      "nl": ["pauzeknop", "dubbel | knop | pauze | streep | verticaal"]
+    }
+  ],
+  "⏹": [
+    "keyboard",
+    "black square for stop",
+    {
+      "en": ["stop button", "button | square | stop"],
+      "ru": ["стоп", "кнопка | остановить | остановка | стоп"],
+      "pl": ["zatrzymaj", "kwadrat | przycisk | stop | zatrzymaj"],
+      "fr": ["bouton stop", "bouton stop | carré | stop"],
+      "de": [
+        "Stopp",
+        "Aufnahme stoppen | keycap | Quadrat | Stopp | Tastenkappe"
+      ],
+      "es": ["detener", "botón | cuadrado | detener | parar"],
+      "pt": ["botão parar", "botão parar | parar | quadrado | stop"],
+      "it": ["pulsante stop", "pulsante | quadrato | stop"],
+      "ro": [
+        "buton de oprire",
+        "buton de oprire | buton oprire | pătrat | stop"
+      ],
+      "he": ["לחצן עצירה", "הפסקה | לחצן עצירה | לעצור | עצירה | ריבוע"],
+      "ar": ["زر إيقاف", "إيقاف | زر | مربع"],
+      "tr": ["durdurma düğmesi", "durdur | durdurma düğmesi | kare"],
+      "vi": ["nút dừng", "dừng | hình vuông | nút dừng"],
+      "nl": ["knop voor stoppen", "knop voor stoppen | stoppen | vierkant"]
+    }
+  ],
+  "⏺": [
+    "keyboard",
+    "black circle for record",
+    {
+      "en": ["record button", "button | circle | record"],
+      "ru": ["запись", "записать | запись | кнопка | круг | начать запись"],
+      "pl": ["nagraj", "kółko | nagraj | nagrywanie | przycisk"],
+      "fr": [
+        "bouton enregistrer",
+        "bouton enregistrer | cercle | enregistrement | enregistrer | point blanc"
+      ],
+      "de": [
+        "Aufnehmen",
+        "Aufnahme | aufnehmen | Aufnehmen | keycap | Kreis | Tastenkappe"
+      ],
+      "es": ["grabar", "botón | círculo | grabar"],
+      "pt": ["botão gravar", "botão | círculo | gravar"],
+      "it": [
+        "pulsante di registrazione",
+        "cerchio | pulsante | pulsante di registrazione | registrazione"
+      ],
+      "ro": [
+        "buton de înregistrare",
+        "buton | buton de înregistrare | cerc | înregistrare"
+      ],
+      "he": ["לחצן הקלטה", "הקלט | הקלטה | לחצן הקלטה | עיגול"],
+      "ar": ["زر تسجيل", "تسجيل | دائرة | زر"],
+      "tr": ["kayıt düğmesi", "daire | kayıt | kayıt düğmesi"],
+      "vi": ["nút ghi", "ghi lại | hình tròn | nút ghi"],
+      "nl": ["knop voor opnemen", "knop | opnemen | rondje"]
+    }
+  ],
+  "⏻": ["keyboard", "power symbol", {}],
+  "⏼": ["keyboard", "power on-off symbol", {}],
+  "⏽": ["keyboard", "power on symbol", {}],
+  "⏾": ["keyboard", "power sleep symbol", {}],
+  "⏿": ["keyboard", "observer eye symbol", {}]
+}

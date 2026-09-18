@@ -1,0 +1,2882 @@
+{
+  "🌘": [
+    "other",
+    "waning crescent moon symbol",
+    {
+      "en": ["waning crescent moon", "crescent | moon | space | waning"],
+      "ru": [
+        "старая луна",
+        "затмение | луна | месяц | небо | старая | убывающая"
+      ],
+      "pl": [
+        "zanikający półksiężyc",
+        "cieniutki księżyc | księżyc | noc | sierp | zanikający półksiężyc"
+      ],
+      "fr": [
+        "lune décroissante",
+        "croissant | croissant de lune | espace | lune | lune décroissante | lune descendante | nuit"
+      ],
+      "de": [
+        "letztes Mondviertel",
+        "abnehmend | letztes Mondviertel | Letztes Mondviertel | Mond | Nacht"
+      ],
+      "es": ["luna menguante", "luna | menguante"],
+      "pt": ["lua minguante côncava", "côncava | lua | minguante"],
+      "it": ["luna calante", "calante | luna | natura | notte"],
+      "ro": [
+        "lună concavă în descreștere",
+        "concavă | descreștere | lună | lună concavă în descreștere | lună crescătoare | semilună | spațiu"
+      ],
+      "he": ["סהר ירח מתרוקן", "חלל | ירח | סהר | סהר ירח מתרוקן"],
+      "ar": [
+        "هلال آخر الشهر",
+        "طقس | فضاء | قمر | متناقص | هلال | هلال آخر الشهر"
+      ],
+      "tr": [
+        "ince ay",
+        "ay | ay kararması | ay tutulması | gece | gökyüzü | hilal | ince ay | solgun | uzay"
+      ],
+      "vi": [
+        "trăng lưỡi liềm cuối tháng",
+        "cuối tháng | không gian | lưỡi liềm | mặt trăng | trăng lưỡi liềm cuối tháng"
+      ],
+      "nl": [
+        "asgrauwe maan",
+        "afnemend | afnemende halvemaan | asgrauwe maan | avond | maan | maansikkel | nacht | ruimte | sikkel"
+      ]
+    }
+  ],
+  "🌙": [
+    "other",
+    "crescent moon",
+    {
+      "en": ["crescent moon", "crescent | moon | ramadan | space"],
+      "ru": ["полумесяц", "луна | месяц | полумесяц"],
+      "pl": [
+        "półksiężyc",
+        "księżyc | noc | półksiężyc | sierp | sierp księżyca"
+      ],
+      "fr": [
+        "croissant de lune",
+        "croissant | croissant de lune | espace | lune | nuit | Ramadan"
+      ],
+      "de": ["Mondsichel", "Mond | Mondsichel | Nacht"],
+      "es": ["luna", "creciente | espacio | luna"],
+      "pt": ["lua crescente", "crescente | lua"],
+      "it": [
+        "spicchio di luna",
+        "calante | cielo | crescente | gobba | luna | natura | notte | spazio | spicchio di luna | ultimo quarto"
+      ],
+      "ro": [
+        "semilună",
+        "creștere | islam | lună | lună crescătoare | ramadan | semilună | spațiu"
+      ],
+      "he": ["סהר", "ירח | סהר"],
+      "ar": ["هلال", "الهلال | رمضان | طقس | فضاء | قمر | هلال"],
+      "tr": ["hilal", "ay | dilek | gece | gökyüzü | hilal | uzay | yeni ay"],
+      "vi": ["trăng lưỡi liềm", "lưỡi liềm | mặt trăng | trăng lưỡi liềm"],
+      "nl": [
+        "maansikkel",
+        "avond | halvemaan | maan | maansikkel | ramadan | ruimte | sikkel | slapen"
+      ]
+    }
+  ],
+  "🌚": [
+    "other",
+    "new moon with face",
+    {
+      "en": ["new moon face", "face | moon | new | space"],
+      "ru": [
+        "новая луна с лицом",
+        "лицо | луна | луна с лицом | молодая луна с лицом | новая луна | новая луна с лицом | новолуние | темная | черная луна"
+      ],
+      "pl": [
+        "nów z twarzą",
+        "bajka | baśń | księżyc | księżyc w nowiu | księżyc z twarzą | noc | nów | nów z twarzą"
+      ],
+      "fr": [
+        "nouvelle lune avec visage",
+        "espace | lune | nouvelle lune à visage | nouvelle lune avec visage | nuit | visage"
+      ],
+      "de": [
+        "Neumond mit Gesicht",
+        "Gesicht | Mond | Mondgesicht | Neumond | Neumond mit Gesicht"
+      ],
+      "es": [
+        "luna nueva con cara",
+        "cara | espacio | luna | luna nueva con cara"
+      ],
+      "pt": [
+        "rosto da lua nova",
+        "lua | lua nova | lua nova com rosto | rosto | rosto da lua nova"
+      ],
+      "it": [
+        "faccina luna nuova",
+        "faccina | faccina luna nuova | luna | luna nera | luna nuova | luna nuova con faccina | natura | notte"
+      ],
+      "ro": [
+        "lună nouă cu față",
+        "față | întuneric | lună | lună nouă cu față | rotundă | spațiu"
+      ],
+      "he": ["פני ירח חדש", "ירח | פני ירח חדש | פנים"],
+      "ar": ["وجه محاق", "طقس | فضاء | قمر | محاق بوجه | وجه | وجه محاق"],
+      "tr": [
+        "yeni ay yüzü",
+        "ay | gece | yeni ay | yeni ay yüzü | yüz | yüzü olan yeni ay"
+      ],
+      "vi": ["mặt trăng non", "mặt | mặt trăng | mặt trăng non"],
+      "nl": [
+        "nieuwe maan met gezicht",
+        "avond | gezicht | maan | nieuwe maan met gezicht | nieuwe maan-gezicht | ruimte"
+      ]
+    }
+  ],
+  "🌛": [
+    "other",
+    "first quarter moon with face",
+    {
+      "en": [
+        "first quarter moon face",
+        "face | first | moon | quarter | space"
+      ],
+      "ru": [
+        "луна в первой четверти с лицом",
+        "лицо | луна | луна в первой четверти с лицом | месяц | небо | половинка луны | четвертинка луны | четверть | четверть луны"
+      ],
+      "pl": [
+        "pierwsza kwadra księżyca z twarzą",
+        "bajka | księżyc | księżyc z twarzą | noc | pierwsza kwadra | pierwsza kwadra księżyca | pierwsza kwadra księżyca z twarzą"
+      ],
+      "fr": [
+        "premier quartier de lune avec visage",
+        "croissant de lune | espace | lune | lune à visage | nuit | premier quartier de lune | premier quartier de lune avec visage | quartier | visage"
+      ],
+      "de": [
+        "Mondsichel mit Gesicht links",
+        "Gesicht | Mond | Mondsichel | Mondsichel mit Gesicht links | Weltall"
+      ],
+      "es": [
+        "luna de cuarto creciente con cara",
+        "cara | creciente | cuarto | espacio | luna | luna de cuarto creciente con cara"
+      ],
+      "pt": [
+        "rosto da lua de quarto crescente",
+        "crescente | lua | noite | quarto | rosto"
+      ],
+      "it": [
+        "faccina primo quarto di luna",
+        "cielo | faccina | faccina primo quarto di luna | luna | luna con faccina | natura | notte | primo quarto di luna | quarto di luna con faccina"
+      ],
+      "ro": [
+        "lună cu față în primul pătrar",
+        "față | lună | lună cu față în primul pătrar | pătrar | spațiu | unu"
+      ],
+      "he": ["פני סהר מתמלא", "ירח | סהר | פני סהר מתמלא | פנים"],
+      "ar": [
+        "وجه تربيع أول",
+        "أول | بداية الشهر | بدر | تربيع | طقس | فضاء | قمر | هلال | وجه"
+      ],
+      "tr": [
+        "ilk dördün ay yüzü",
+        "ay | dördün | ilk dördün | ilk dördün ay yüzü | yüz | yüzü olan ay | yüzü olan ilk dördün"
+      ],
+      "vi": [
+        "trăng thượng huyền hình mặt người",
+        "mặt | phần tư | trăng | trăng thượng huyền hình mặt người"
+      ],
+      "nl": [
+        "maan met gezicht in eerste kwartier",
+        "avond | eerste kwartier | gezicht | kwartier | maan | maan in eerste kwartier met gezicht | maan met gezicht in eerste kwartier | ruimte | slapen"
+      ]
+    }
+  ],
+  "🌜": [
+    "other",
+    "last quarter moon with face",
+    {
+      "en": ["last quarter moon face", "dreams | face | last | moon | quarter"],
+      "ru": [
+        "луна в последней четверти с лицом",
+        "лицо | луна | луна в последней четверти с лицом | месяц | небо | полу месяц | полумесяц | четверть"
+      ],
+      "pl": [
+        "ostatnia kwadra księżyca z twarzą",
+        "bajka | baśń | księżyc | księżyc z twarzą | noc | ostatnia kwadra | ostatnia kwadra księżyca | ostatnia kwadra księżyca z twarzą"
+      ],
+      "fr": [
+        "dernier quartier de lune avec visage",
+        "croissant de lune | dernier quartier de lune | dernier quartier de lune avec visage | lune | lune à visage | nuit | quartier | visage"
+      ],
+      "de": [
+        "Mondsichel mit Gesicht rechts",
+        "Gesicht | Mondsichel | Mondsichel mit Gesicht rechts | Nacht"
+      ],
+      "es": [
+        "luna de cuarto menguante con cara",
+        "cara | creciente | cuarto | espacio | luna | luna de cuarto menguante con cara"
+      ],
+      "pt": [
+        "rosto da lua de quarto minguante",
+        "lua | lua com rosto | lua de quarto minguante | quarto minguante | quarto minguante com rosto | rosto | rosto da lua de quarto minguante"
+      ],
+      "it": [
+        "faccina ultimo quarto di luna",
+        "faccina | faccina della luna | faccina ultimo quarto di luna | luna | luna con faccina | natura | notte | quarto di luna con faccina | ultimo quarto di luna"
+      ],
+      "ro": [
+        "lună în ultimul pătrar cu față",
+        "față | lună | lună cu față | lună în ultimul pătrar cu față | pătrar | patru | vise"
+      ],
+      "he": ["פני סהר מתרוקן", "ירח | סהר | פני סהר מתרוקן | פנים"],
+      "ar": [
+        "وجه تربيع ثانٍ",
+        "اخر الشهر | تربيع | حلم | طقس | فضا | قمر | وجه | وجه تربيع ثانٍ"
+      ],
+      "tr": [
+        "son dördün ay yüzü",
+        "ay | dördün | son dördün | son dördün ay yüzü | yüz | yüzü olan ay | yüzü olan son dördün"
+      ],
+      "vi": [
+        "trăng hạ huyền hình mặt người",
+        "mặt | mặt trăng | phần tư | trăng hạ huyền hình mặt người"
+      ],
+      "nl": [
+        "maan met gezicht in laatste kwartier",
+        "avond | gezicht | kwartier | laatste kwartier | maan | maan in laatste kwartier met gezicht | maan met gezicht in laatste kwartier | ruimte | slapen"
+      ]
+    }
+  ],
+  "🌝": [
+    "other",
+    "full moon with face",
+    {
+      "en": ["full moon face", "bright | face | full | moon"],
+      "ru": [
+        "полная луна с лицом",
+        "круглая | круглая луна | лицо | месяц | небо | полная луна | полная луна с лицом"
+      ],
+      "pl": [
+        "pełnia z twarzą",
+        "bajka | baśń | księżyc | księżyc w pełni | księżyc w pełni z twarzą | księżyc z twarzą | pełnia | pełnia z twarzą"
+      ],
+      "fr": [
+        "pleine lune avec visage",
+        "lune | lune à visage | nuit | pleine lune | pleine lune avec visage | sourire | visage"
+      ],
+      "de": [
+        "Vollmond mit Gesicht",
+        "Gesicht | Vollmond | Vollmond mit Gesicht"
+      ],
+      "es": [
+        "luna llena con cara",
+        "cara | llena | luna | luna llena con cara"
+      ],
+      "pt": [
+        "rosto da lua cheia",
+        "cheia | lua | lua cheia com rosto | lua com rosto | rosto | rosto da lua cheia"
+      ],
+      "it": [
+        "faccina luna piena",
+        "faccina | faccina con la luna | faccina della luna | faccina luna piena | luna | luna con faccina | luna piena | luna piena con faccina | natura"
+      ],
+      "ro": ["lună plină cu față", "față | lună plină | lună plină cu față"],
+      "he": ["פני ירח מלא", "ירח | מלא | פני ירח מלא | פנים"],
+      "ar": [
+        "وجه البدر",
+        "بدر | بدر بوجه | ساطعة | طقس | فضاء | قمر | قمر مكتمل | كامل | وجه | وجه البدر"
+      ],
+      "tr": [
+        "dolunay yüzü",
+        "ay | dolu | dolunay | dolunay yüzü | yüz | yüzü olan ay | yüzü olan dolunay"
+      ],
+      "vi": [
+        "khuôn mặt trăng tròn",
+        "khuôn mặt trăng tròn | mặt | mặt trăng | sáng | tròn"
+      ],
+      "nl": [
+        "volle maan met gezicht",
+        "avond | gezicht | helder | heldere maan | maan | ruimte | vol | volle maan | volle maan met gezicht"
+      ]
+    }
+  ],
+  "🌞": [
+    "other",
+    "sun with face",
+    {
+      "en": [
+        "sun with face",
+        "beach | bright | day | face | heat | shine | sun | sunny | sunshine | weather"
+      ],
+      "ru": ["солнце с лицом", "лицо | небо | солнце | солнце с лицом"],
+      "pl": [
+        "słońce z twarzą",
+        "bajka | baśń | ciepło | głowa | magia | promienny | słońce | słońce z twarzą | twarz | uśmiech"
+      ],
+      "fr": [
+        "soleil avec visage",
+        "chaleur | chaud | éclatant | ensoleillé | jour | lumière | météo | plage | rayon de soleil | soleil | soleil à visage | soleil avec visage"
+      ],
+      "de": [
+        "Sonne mit Gesicht",
+        "Gesicht | Sonne | Sonne mit Gesicht | Sonnengesicht | Sonnenschein"
+      ],
+      "es": ["sol con cara", "brillante | cara | sol | sol con cara"],
+      "pt": ["rosto do sol", "praia | rosto | sol"],
+      "it": [
+        "faccina sole",
+        "bel tempo | caldo | denari | estate | faccina | giornata | giorno | meteo | sole | soleggiato"
+      ],
+      "ro": [
+        "soare cu față",
+        "căldură | față | însorit | luminos | meteo | plajă | raze | soare | soare cu față | vreme frumoasă | zi însorită"
+      ],
+      "he": ["פני שמש", "חם | חמה | פני שמש | פנים | קיץ | שמש"],
+      "ar": [
+        "وجه الشمس",
+        "حرارة | ساطع | شاطىء | شمس | شمس بوجه | طقس | فضاء | لامع | مشمس | نجم | نهار | وجه | وجه الشمس"
+      ],
+      "tr": ["güneş yüz", "güneş | parlak | sıcak | yaz | yüz"],
+      "vi": [
+        "mặt trời có hình mặt người",
+        "bãi biển | mặt | mặt trời | mặt trời có hình mặt người | sáng | thời tiết"
+      ],
+      "nl": [
+        "zon met gezicht",
+        "gezicht | helder | warm | weer | zon | zon met gezicht | zonneschijn"
+      ]
+    }
+  ],
+  "🌟": [
+    "other",
+    "glowing star",
+    {
+      "en": [
+        "glowing star",
+        "glittery | glow | glowing | night | shining | sparkle | star | win"
+      ],
+      "ru": ["сияющая звезда", "звезда | свет | сияние | сияющая звезда"],
+      "pl": [
+        "błyszcząca gwiazda",
+        "błyszcząca | gwiazda | gwiazdka | lśniąca | świecąca gwiazdka"
+      ],
+      "fr": [
+        "étoile brillante",
+        "éclat | étincelant | étincelle | étoile | étoile brillante | nuit | nuit étoilée | succès"
+      ],
+      "de": [
+        "funkelnder Stern",
+        "funkeln | funkelnder Stern | Funkelnder Stern | glitzern | Stern"
+      ],
+      "es": ["estrella brillante", "brillante | estrella | resplandeciente"],
+      "pt": [
+        "estrela brilhante",
+        "brilhante | brilho | cintilante | estrela | luminosa | reluzente"
+      ],
+      "it": [
+        "stella che brilla",
+        "brillante | evvai | felicità | festeggiare | natura | notte | scintillante | sorpresa | stella | stella che brilla | stella con scintille | stellina"
+      ],
+      "ro": [
+        "stea strălucitoare",
+        "noapte | sclipici | sclipicios | sclipitor | stea | stea strălucitoare | strălucire | victorie"
+      ],
+      "he": ["כוכב זוהר", "זוהר | כוכב | מנצנץ"],
+      "ar": [
+        "نجم ساطع",
+        "إشراق | ربح | زهو | سطوع | لامع | لمعان | مساء | نجم | نجم ساطع"
+      ],
+      "tr": [
+        "parıldayan yıldız",
+        "dilek | dilek yıldızı | kıvılcım | kutup yıldızı | parıldama | parıldayan yıldız | parlak | parlayan yıldız | pırıltı | yıldız"
+      ],
+      "vi": [
+        "ngôi sao lấp lánh",
+        "chiếu sáng | lấp lánh | ngôi sao | ngôi sao lấp lánh | phát sáng"
+      ],
+      "nl": [
+        "stralende ster",
+        "fonkelen | fonkelend | schitteren | schitterend | schittering | ster | stralen | stralende ster"
+      ]
+    }
+  ],
+  "🌠": [
+    "other",
+    "shooting star",
+    {
+      "en": ["shooting star", "falling | night | shooting | space | star"],
+      "ru": [
+        "падающая звезда",
+        "желание | загадать желание | звезда | звездопад | небо | падающая"
+      ],
+      "pl": [
+        "spadająca gwiazda",
+        "gwiazda | kometa | noc | spadająca | życzenie"
+      ],
+      "fr": ["étoile filante", "espace | étoile | étoile filante | nuit"],
+      "de": ["Sternschnuppe", "Himmel | Sternschnuppe"],
+      "es": ["estrella fugaz", "estrella | estrella fugaz | lluvia"],
+      "pt": ["estrela cadente", "cadente | cai | estrela"],
+      "it": [
+        "stella cadente",
+        "cadente | desiderio | fortuna | notte | stella"
+      ],
+      "ro": [
+        "stea căzătoare",
+        "cădere | cer | cometă | meteor | noapte | spațiu | stea | stea căzătoare"
+      ],
+      "he": ["כוכב שביט", "חלל | כוכב | כוכב נופל | שביט"],
+      "ar": ["شهاب", "انطلاق | سقوط | شهاب | طبيعة | فضاء | قنص | نجم"],
+      "tr": [
+        "yıldız kayması",
+        "gece | kayan | meteor yağmuru | uzay | yıldız | yıldız kayması"
+      ],
+      "vi": ["sao băng", "ngôi sao | phóng | rơi | sao băng"],
+      "nl": [
+        "vallende ster",
+        "hemel | ruimte | ster | vallen | vallend | vallende ster"
+      ]
+    }
+  ],
+  "🌡": [
+    "other",
+    "thermometer",
+    {
+      "en": ["thermometer", "thermometer | weather"],
+      "ru": ["термометр", "градусник | измерение | температура | термометр"],
+      "pl": ["termometr", "pogoda | temperatura | termometr"],
+      "fr": ["thermomètre", "météo | thermomètre"],
+      "de": ["Thermometer", "Temperatur | Thermometer | Wetter"],
+      "es": ["termómetro", "temperatura | termómetro"],
+      "pt": ["termômetro", "clima | temperatura | tempo | termômetro"],
+      "it": [
+        "termometro",
+        "caldo | clima | freddo | meteo | temperatura | termometro"
+      ],
+      "ro": ["termometru", "mercur | meteo | temperatură | termometru | vreme"],
+      "he": ["מדחום", "מדחום | מזג אוויר | תרמומטר"],
+      "ar": ["ترمومتر", "ترمومتر | درجة الحرارة | طقس"],
+      "tr": ["termometre", "derece | hava durumu | termometre"],
+      "vi": ["nhiệt kế", "nhiệt kế | thời tiết"],
+      "nl": ["thermometer", "koorts | thermometer | weer"]
+    }
+  ],
+  "🌢": ["other", "black droplet", {}],
+  "🌣": ["other", "white sun", {}],
+  "🌤": [
+    "other",
+    "white sun with small cloud",
+    {
+      "en": ["sun behind small cloud", "behind | cloud | sun | weather"],
+      "ru": [
+        "солнце за облачком",
+        "облако | облачко | пасмурно | солнце | солнце за облачком | туча"
+      ],
+      "pl": [
+        "słońce za chmurką",
+        "chmura | pogoda | słońce | słońce za chmurką"
+      ],
+      "fr": [
+        "soleil derrière un petit nuage",
+        "caché | météo | nuage | soleil | soleil derrière petit nuage | soleil derrière un petit nuage"
+      ],
+      "de": [
+        "Sonne hinter kleiner Wolke",
+        "bewölkt | kleine Wolke | Sonne | Sonne hinter kleiner Wolke | Wetter | Wolke"
+      ],
+      "es": [
+        "sol detrás de una nube pequeña",
+        "nube | sol | sol detrás de una nube pequeña"
+      ],
+      "pt": ["sol com nuvens", "clima | ensolarado | nublado | nuvem | sol"],
+      "it": [
+        "parzialmente nuvoloso",
+        "meteo | natura | nuvola | nuvole | nuvoloso | parzialmente nuvoloso | sole | sole dietro nuvola | variabile"
+      ],
+      "ro": [
+        "soare după un nor mic",
+        "meteo | nor | soare | soare după un nor mic | vreme"
+      ],
+      "he": [
+        "שמש מאחורי ענן קטן",
+        "מזג אוויר | מעונן | ענן | שמש | שמש מאחורי ענן קטן"
+      ],
+      "ar": [
+        "شمس خلف سحابة صغيرة",
+        "سحاب | شمس | شمس خلف سحابة صغيرة | طبيعة | طقس | غيمة | مشمس جزئيا"
+      ],
+      "tr": [
+        "bulutun arkasındaki güneş",
+        "bulut | bulutun arkasındaki güneş | güneş | hava durumu | parçalı bulutlu"
+      ],
+      "vi": [
+        "mặt trời sau đám mây nhỏ",
+        "mặt trời | mặt trời sau đám mây nhỏ | mây"
+      ],
+      "nl": [
+        "zon achter kleine wolk",
+        "weer | wolk | zon | zon achter kleine wolk"
+      ]
+    }
+  ],
+  "🌥": [
+    "other",
+    "white sun behind cloud",
+    {
+      "en": ["sun behind large cloud", "behind | cloud | sun | weather"],
+      "ru": [
+        "солнце за облаком",
+        "облако | облачно | солнце | солнце за облаком | туча"
+      ],
+      "pl": ["słońce za chmurą", "chmura | pogoda | słońce | słońce za chmurą"],
+      "fr": [
+        "soleil derrière un gros nuage",
+        "caché | météo | nuage | soleil | soleil derrière gros nuage | soleil derrière un gros nuage"
+      ],
+      "de": [
+        "Sonne hinter großer Wolke",
+        "bewölkt | große Wolke | Sonne | Sonne hinter großer Wolke | Wetter | Wolke"
+      ],
+      "es": [
+        "sol detrás de una nube grande",
+        "nube | sol | sol detrás de una nube grande"
+      ],
+      "pt": ["nublado", "clima | nublado | nuvem | sol"],
+      "it": [
+        "molto nuvoloso",
+        "coperto | maltempo | meteo | molto nuvoloso | natura | nuvole | nuvoloso"
+      ],
+      "ro": [
+        "soare după un nor mare",
+        "înnorat | meteo | nor | soare | soare după un nor mare | vreme"
+      ],
+      "he": ["שמש מאחורי ענן גדול", "מעונן | ענן | שמש | שמש מאחורי ענן גדול"],
+      "ar": [
+        "شمس خلف سحابة كبيرة",
+        "سحابة | شمس | شمس خلف سحابة كبيرة | طقس | غمامة | غيمة"
+      ],
+      "tr": [
+        "bulutta kaybolan güneş",
+        "bulut | bulutta kaybolan güneş | güneş | hava durumu | parçalı bulutlu"
+      ],
+      "vi": [
+        "mặt trời sau đám mây lớn",
+        "mặt trời | mặt trời sau đám mây lớn | mây"
+      ],
+      "nl": [
+        "zon achter grote wolk",
+        "weer | wolk | zon | zon achter grote wolk"
+      ]
+    }
+  ],
+  "🌦": [
+    "other",
+    "white sun behind cloud with rain",
+    {
+      "en": ["sun behind rain cloud", "behind | cloud | rain | sun | weather"],
+      "ru": [
+        "слепой дождь",
+        "грибной дождь | дождь | облако | осадки | слепой дождь | солнце | солнце за тучей | туча"
+      ],
+      "pl": [
+        "słońce za chmurą i deszcz",
+        "chmura | deszcz | pogoda | przejaśnienie | słońce | słońce za chmurą i deszcz"
+      ],
+      "fr": [
+        "soleil derrière un nuage de pluie",
+        "caché | gouttes | météo | nuage | pluie | soleil | soleil derrière un nuage | soleil derrière un nuage de pluie"
+      ],
+      "de": [
+        "Sonne hinter Regenwolke",
+        "Regenwolke | Sonne | Sonne hinter Regenwolke | Wetter"
+      ],
+      "es": [
+        "sol detrás de una nube con lluvia",
+        "lluvia | nube | sol | sol detrás de una nube con lluvia"
+      ],
+      "pt": ["sol com chuva", "chuva | clima | nuvem | sol | sol com chuva"],
+      "it": [
+        "sole coperto e pioggia",
+        "coperto | meteo | natura | nuvola | nuvola con sole | pioggia | sole | sole con pioggia | sole coperto e pioggia | sole dietro nuvola | variabile"
+      ],
+      "ro": [
+        "soare după nor cu ploaie",
+        "meteo | nor | norișor | ploaie | soare | soare după nor cu ploaie | vreme"
+      ],
+      "he": ["שמש מאחורי ענן עם גשם", "גשם | חורף | מעונן חלקית | ענן | שמש"],
+      "ar": [
+        "شمس خلف سحابة ومطر",
+        "سحب | شتاء | شمس | شمس خلف سحابة ومطر | طقس | غائم | غمامة | غيمة | مشمس جزئيا | مطر"
+      ],
+      "tr": [
+        "yağmur bulutunun arkasındaki güneş",
+        "bulut | güneş | hava durumu | parçalı bulutlu | yağmur | yağmur bulutunun arkasındaki güneş | yer yer yağmur"
+      ],
+      "vi": [
+        "mặt trời sau đám mây mưa",
+        "mặt trời | mặt trời sau đám mây mưa | mây | mưa"
+      ],
+      "nl": [
+        "zon achter regenwolk",
+        "regen | weer | wolk | zon | zon achter regenwolk | zon achter wolk met regen"
+      ]
+    }
+  ],
+  "🌧": [
+    "other",
+    "cloud with rain",
+    {
+      "en": ["cloud with rain", "cloud | rain | weather"],
+      "ru": ["дождь", "дождь | осадки | туча"],
+      "pl": ["chmura i deszcz", "chmura | chmura i deszcz | deszcz | pogoda"],
+      "fr": [
+        "nuage avec pluie",
+        "averse | gouttes | mauvais temps | météo | nuage | nuage avec pluie | nuage de pluie | pluie"
+      ],
+      "de": [
+        "Wolke mit Regen",
+        "Regen | Regenwolke | Wetter | Wolke | Wolke mit Regen"
+      ],
+      "es": ["nube con lluvia", "lluvia | nube | nube con lluvia"],
+      "pt": ["nuvem com chuva", "chovendo | chuva | clima | nuvem"],
+      "it": [
+        "pioggia",
+        "diluvio | meteo | natura | nuvole | nuvoloso | pioggerella | pioggia | piovere | piovigginare"
+      ],
+      "ro": [
+        "nor cu ploaie",
+        "meteo | nor | nor cu ploaie | norișor | ploaie | vreme"
+      ],
+      "he": ["ענן עם גשם", "גשום | גשם | חורף | ענן"],
+      "ar": [
+        "سحابة ومطر",
+        "سحابة ومطر | سحب | طبيعة | طقس | غمامة | غيمة | مطر | ممطر"
+      ],
+      "tr": ["yağmur bulutu", "bulut | hava durumu | yağmur | yağmur bulutu"],
+      "vi": ["mây và mưa", "mây | mây và mưa | mưa"],
+      "nl": ["wolk met regen", "regen | weer | wolk | wolk met regen"]
+    }
+  ],
+  "🌨": [
+    "other",
+    "cloud with snow",
+    {
+      "en": ["cloud with snow", "cloud | cold | snow | weather"],
+      "ru": ["снег", "облако | осадки | погода | снег | снегопад | туча"],
+      "pl": [
+        "chmura i śnieg",
+        "chmura | chmura i śnieg | pogoda | śnieg | zima | zimno"
+      ],
+      "fr": [
+        "nuage avec neige",
+        "flocons | froid | hiver | météo | neige | nuage | nuage avec neige | nuage de neige"
+      ],
+      "de": [
+        "Wolke mit Schnee",
+        "kalt | Schnee | Wetter | Wolke | Wolke mit Schnee"
+      ],
+      "es": ["nube con nieve", "frío | nieve | nube | nube con nieve"],
+      "pt": ["nuvem com neve", "clima | frio | neve | nuvem"],
+      "it": [
+        "neve",
+        "brutto tempo | freddo | meteo | natura | neve | nevica | nuovola | nuvole | tempo"
+      ],
+      "ro": [
+        "nor de ninsoare",
+        "fulgi | ninsoare | nor | nor de ninsoare | vreme | zăpadă"
+      ],
+      "he": ["ענן עם שלג", "חורף | ענן | ענן עם שלג | שלג"],
+      "ar": [
+        "سحابة وثلج",
+        "بارد | بلوري | ثلج | سحابة | سحابة وثلج | سماء | طبيعة | طقس | غيم | كريستال | مطر | ندى"
+      ],
+      "tr": ["kar bulutu", "bulut | hava durumu | kar | kar bulutu | soğuk"],
+      "vi": ["đám mây với tuyết", "đám mây với tuyết | lạnh | mây | tuyết"],
+      "nl": [
+        "wolk met sneeuw",
+        "koud | sneeuw | weer | winter | wolk | wolk met sneeuw"
+      ]
+    }
+  ],
+  "🌩": [
+    "other",
+    "cloud with lightning",
+    {
+      "en": ["cloud with lightning", "cloud | lightning | weather"],
+      "ru": ["молния", "гром | молния | облако | погода | туча"],
+      "pl": [
+        "chmura i piorun",
+        "błyskawica | burza | chmura | chmura i piorun | piorun | pogoda"
+      ],
+      "fr": [
+        "nuage avec éclair",
+        "éclair | nuage | nuage avec éclair | nuage avec un éclair | orage | orageux | temps"
+      ],
+      "de": [
+        "Wolke mit Blitz",
+        "Blitz | Gewitter | Wetter | Wolke | Wolke mit Blitz"
+      ],
+      "es": ["nube con rayo", "nube | nube con rayo | rayo"],
+      "pt": [
+        "nuvem com trovão",
+        "clima | nuvem | nuvem com trovão | relâmpago"
+      ],
+      "it": [
+        "fulmini",
+        "fulmine | fulmini | maltempo | meteo | natura | nuvola | nuvole | pioggia | tempo | temporale | temporali"
+      ],
+      "ro": ["nor cu fulger", "fulger | nor | nor cu fulger | vreme"],
+      "he": ["ענן עם ברק", "ברק | חורף | ענן | ענן עם ברק"],
+      "ar": [
+        "سحابة وبرق",
+        "برق | رعد | سحابة | سحابة وبرق | طقس | غيم | غيمة | مطر"
+      ],
+      "tr": [
+        "şimşek bulutu",
+        "bulut | fırtına | hava durumu | şimşek | şimşek bulutu | yıldırım"
+      ],
+      "vi": [
+        "đám mây với tia chớp",
+        "đám mây với tia chớp | mây | sét | thời tiết"
+      ],
+      "nl": ["wolk met bliksem", "bliksem | weer | wolk | wolk met bliksem"]
+    }
+  ],
+  "🌪": [
+    "other",
+    "cloud with tornado",
+    {
+      "en": ["tornado", "cloud | tornado | weather | whirlwind"],
+      "ru": [
+        "торнадо",
+        "ветер | вихрь | катастрофа | смерч | торнадо | ураган"
+      ],
+      "pl": ["tornado", "chmura | lej | pogoda | tornado | wir powietrzny"],
+      "fr": ["tornade", "cyclone | météo | nuage | tornade | tourbillon"],
+      "de": ["Wirbelsturm", "Tornado | Wetter | Wirbelsturm"],
+      "es": ["tornado", "nube | torbellino | tornado"],
+      "pt": ["tornado", "clima | furacão | nuvem | tornado"],
+      "it": [
+        "tornado",
+        "meteo | tornado | tromba d’aria | twister | uragano | vento"
+      ],
+      "ro": ["tornadă", "meteo | nor | tornadă | vânt | vârtej | vreme"],
+      "he": ["טורנדו", "טורנדו | סופה | סערה | רוח"],
+      "ar": ["إعصار", "إعصار | سحابة | طبيعة | طقس | مدمر"],
+      "tr": ["hortum", "bulut | fırtına | hava durumu | hortum | tayfun"],
+      "vi": ["lốc xoáy", "cơn lốc | lốc xoáy | mây | thời tiết"],
+      "nl": ["tornado", "storm | tornado | weer | wervelwind | wolk"]
+    }
+  ],
+  "🌫": [
+    "other",
+    "fog",
+    {
+      "en": ["fog", "cloud | fog | weather"],
+      "ru": [
+        "густой туман",
+        "видимость | густой туман | низкая | облачность | плохая видимость | туман"
+      ],
+      "pl": ["mgła", "chmury | mgła | pogoda"],
+      "fr": ["brouillard", "brouillard | brume | fog | météo | nuage"],
+      "de": ["Nebel", "Nebel | neblig | Wetter"],
+      "es": ["niebla", "niebla | nube"],
+      "pt": ["nevoeiro", "clima | furacão | neblina | nevoeiro | nuvem"],
+      "it": [
+        "nebbia",
+        "foschia | meteo | nebbia | nuvole | visibilità ridotta"
+      ],
+      "ro": ["ceață", "ceață | meteo | nor | vreme"],
+      "he": ["ערפל", "מזג אוויר | מעונן | ענן | ערפל"],
+      "ar": [
+        "ضبابي",
+        "رمادي | سحاب | سحب | ضباب | ضبابي | طقس | غيمة | غيوم داكنه | معتم | مغيمة | ملبدة"
+      ],
+      "tr": ["sis", "bulut | gökyüzü | hava durumu | sis"],
+      "vi": ["sương mù", "mây | sương mù | thời tiết"],
+      "nl": ["mist", "bewolkt | mist | weer | wolk"]
+    }
+  ],
+  "🌬": [
+    "other",
+    "wind blowing face",
+    {
+      "en": ["wind face", "blow | cloud | face | wind"],
+      "ru": [
+        "дует ветер",
+        "ветер | вьюга | дует | лицо | пурга | снежная королева"
+      ],
+      "pl": [
+        "dmuchająca twarz wiatru",
+        "bajka | baśń | chmura | dmuchająca twarz wiatru | pogoda | twarz | wiać | wiatr"
+      ],
+      "fr": [
+        "vent avec visage",
+        "météo | nuage | souffle | vent | vent avec visage | visage | visage du vent"
+      ],
+      "de": ["Wind", "Wetter | Wind | windig"],
+      "es": [
+        "cara de viento",
+        "cara | cara de viento | nube | soplar | viento"
+      ],
+      "pt": [
+        "rosto de vento",
+        "clima | nuvem | rosto | soprar | sopro | vento"
+      ],
+      "it": ["vento", "aria | Eolo | sbuffo | vento"],
+      "ro": [
+        "față suflând vânt",
+        "față | față suflând vânt | nor | suflă | suflare | suflu | vânt"
+      ],
+      "he": ["פני רוח נושבת", "נושבת | פני רוח נושבת | פנים | רוח"],
+      "ar": ["رياح", "رياح | سحاب | طقس | هبوب | وجه | ينفث | ينفخ"],
+      "tr": ["rüzgar", "esme | hava durumu | rüzgar"],
+      "vi": ["khuôn mặt gió", "đám mây | gió | khuôn mặt gió | mặt | thổi"],
+      "nl": [
+        "gezicht dat wind blaast",
+        "blazen | gezicht | gezicht dat wind blaast | weer | wind | wind met gezicht | wolk"
+      ]
+    }
+  ],
+  "🌭": [
+    "other",
+    "hot dog",
+    {
+      "en": ["hot dog", "dog | frankfurter | hot | hotdog | sausage"],
+      "ru": [
+        "хот-дог",
+        "в тесте | горчица | перекус | сосиска | тесто | хот-дог"
+      ],
+      "pl": ["hot dog", "frankfurterka | hot dog | hotdog | parówka"],
+      "fr": [
+        "hot dog",
+        "hot dog | nourriture | saucisse | saucisse de Francfort"
+      ],
+      "de": [
+        "Hotdog",
+        "Essen | Frankfurter | Hot Dog | Hotdog | Wurst | Würstchen"
+      ],
+      "es": ["perrito caliente", "perrito | perrito caliente | salchicha"],
+      "pt": [
+        "cachorro-quente",
+        "cachorro quente | cachorro-quente | hot dog | pão com salsicha | pão com vina | vina"
+      ],
+      "it": ["hot dog", "cibo | hot dog | panino | street food | wurstel"],
+      "ro": ["hot dog", "cârnat | fast food | hot dog | muștar"],
+      "he": [
+        "נקניקייה בלחמניה",
+        "לחמניה | נקניקיה | נקניקייה | נקניקייה בלחמניה"
+      ],
+      "ar": ["هوت دوغ", "سجق | فرانكفورتر | مقانق | نقانق | هوت دوغ"],
+      "tr": ["sosisli sandviç", "gıda | hot dog | sosis | sosisli sandviç"],
+      "vi": ["bánh mì xúc xích", "bánh mì xúc xích | xúc xích"],
+      "nl": ["hotdog", "braadworst | frankfurter | hotdog | knakworst | worst"]
+    }
+  ],
+  "🌮": [
+    "other",
+    "taco",
+    {
+      "en": ["taco", "mexican | taco"],
+      "ru": ["тако", "кухня | мексика | мексиканская кухня | перекус | тако"],
+      "pl": ["taco", "jedzenie | meksykańskie | taco"],
+      "fr": ["taco", "mexicain | nourriture | taco"],
+      "de": ["Taco", "Essen | mexikanisch | Taco"],
+      "es": ["taco", "comida | mexicano | taco"],
+      "pt": ["taco", "comida mexicana | mexicano | taco | tacos"],
+      "it": [
+        "taco",
+        "cibo | cucina messicana | guacamole | messicana | messicano | Messico | ristorante | salsa | taco | tacos"
+      ],
+      "ro": ["taco", "fast food | lipie | mâncare | mexican | taco"],
+      "he": ["טאקו", "טאקו | מקסיקני"],
+      "ar": ["تاكو", "أكل | تاكو | طعام | مكسيكي"],
+      "tr": ["tako", "gıda | meksika sandviçi | Meksika sandviçi | tako"],
+      "vi": ["bánh taco", "bánh mexico | bánh taco"],
+      "nl": ["taco", "mexicaans | taco"]
+    }
+  ],
+  "🌯": [
+    "other",
+    "burrito",
+    {
+      "en": ["burrito", "burrito | mexican | wrap"],
+      "ru": [
+        "буррито",
+        "буррито | бурритос | кухня | мексика | мексиканская кухня | ролл | тортилья"
+      ],
+      "pl": ["burrito", "burito | burrito | jedzenie | meksykańskie | wrap"],
+      "fr": ["burrito", "burrito | kebab | mexicain | wrap"],
+      "de": ["Burrito", "Burrito | essen | mexikanisch"],
+      "es": ["burrito", "burrito | comida | mexicano | tex mex | wrap"],
+      "pt": ["burrito", "burrito | comida mexicana | mexicano"],
+      "it": ["burrito", "burrito | cucina messicana | Messico"],
+      "ro": [
+        "burrito",
+        "burrito | lipie | mâncare | mexican | ruladă | sandvici rulat | sandviș rulat"
+      ],
+      "he": ["בוריטו", "בוריטו | לאפה | מקסיקני | שווארמה"],
+      "ar": [
+        "بوريتو",
+        "أكل | بوريتو | سندويتش | سندويش | طعام | عروس | مكسيكي"
+      ],
+      "tr": [
+        "burito",
+        "burito | dürüm | gıda | meksika dürümü | Meksika dürümü | yemek"
+      ],
+      "vi": ["bánh burrito", "bánh burrito | bánh mexico"],
+      "nl": ["burrito", "burrito | mexicaans | wrap"]
+    }
+  ],
+  "🌰": [
+    "other",
+    "chestnut",
+    {
+      "en": ["chestnut", "almond | chestnut | plant"],
+      "ru": ["каштан", "каштан | растение"],
+      "pl": [
+        "kasztan",
+        "jedzenie | kasztan | kasztan jadalny | orzech | orzeszek"
+      ],
+      "fr": ["châtaigne", "châtaigne | marron | nourriture | plante"],
+      "de": ["Kastanie", "Kastanie | Marone"],
+      "es": ["castaña", "castaña | castaño | fruto seco"],
+      "pt": ["castanha", "castanha | planta"],
+      "it": [
+        "castagna",
+        "autunno | bosco | caldarroste | castagna | cibo | frutta | frutto | nocciola"
+      ],
+      "ro": [
+        "castană",
+        "alună de pământ | castană | migdală | migdale | plantă"
+      ],
+      "he": ["ערמון", "ערמון | ערמונים"],
+      "ar": ["كستناء", "أبو فروة | كستنا | كستناء | كستنة | لوز | نبات"],
+      "tr": ["kestane", "ağaç | bitki | gıda | kestane"],
+      "vi": ["hạt dẻ", "hạt dẻ | thực vật"],
+      "nl": ["kastanje", "amandel | kastanje | plant"]
+    }
+  ],
+  "🌱": [
+    "other",
+    "seedling",
+    {
+      "en": ["seedling", "plant | sapling | seedling | sprout | young"],
+      "ru": [
+        "росток",
+        "молодое растение | молодой | новое растение | новый | растение | росток"
+      ],
+      "pl": [
+        "sadzonka",
+        "kiełek | młoda | pęd | roślina | roślinka | sadzonka"
+      ],
+      "fr": [
+        "jeune pousse",
+        "germe | jeune plant | jeune pousse | plante | plantule | pousser | printemps | semis"
+      ],
+      "de": ["Spross", "junge Pflanze | Spross"],
+      "es": ["planta joven", "planta joven | plantón"],
+      "pt": [
+        "muda de planta",
+        "brotar | broto | jovem | muda | muda de planta | planta jovem | plantinha"
+      ],
+      "it": ["germoglio", "germoglio | natura | pianta | piantina | primavera"],
+      "ro": ["răsad", "înmuguri | lăstar | mugur | muguri | plantă | răsad"],
+      "he": ["נבט", "נבט | צמח | שתיל"],
+      "ar": [
+        "شتلة",
+        "بستان | تنبت | حديقة | زريعة | شتلة | صغير | طبيعة | نبتة | يافع"
+      ],
+      "tr": [
+        "filizlenme",
+        "fide | filiz | filizlenme | genç | genç bitki | yeşil"
+      ],
+      "vi": ["cây non", "cây giống | cây non | nảy mầm | non | thực vật"],
+      "nl": ["zaailing", "jong | plant | spruit | stekje | zaailing"]
+    }
+  ],
+  "🌲": [
+    "other",
+    "evergreen tree",
+    {
+      "en": ["evergreen tree", "christmas | evergreen | forest | pine | tree"],
+      "ru": [
+        "елка",
+        "вечнозеленое дерево | дерево | елка | ель | лес | новый год"
+      ],
+      "pl": [
+        "wiecznie zielone drzewo",
+        "choinka | drzewo | iglaste | igły | las | roślina | wiecznie zielone"
+      ],
+      "fr": [
+        "conifère",
+        "arbre | conifère | feuilles persistantes | forêt | pin | plante | sapin | sapin de Noël"
+      ],
+      "de": ["Nadelbaum", "Baum | Nadelbaum | Pflanze | Tannenbaum"],
+      "es": [
+        "árbol de hoja perenne",
+        "árbol | árbol de hoja perenne | hoja perenne | perenne"
+      ],
+      "pt": [
+        "conífera",
+        "árvore | árvore de pinheiro | conífera | floresta | natal | pinheirinho | pinheiro"
+      ],
+      "it": [
+        "albero sempreverde",
+        "abete | albero | albero di natale | conifera | foresta | natura | pino | sempreverde"
+      ],
+      "ro": [
+        "arbore conifer",
+        "arbore conifer | brad | conifer | copac | crăciun | pom de crăciun"
+      ],
+      "he": ["עץ ירוק-עד", "אשוח | ירוק-עד | עץ | עץ חג המולד | צמח"],
+      "ar": [
+        "شجرة دائمة الخضرة",
+        "شجرة | شجرة دائمة الخضرة | صنوبر | عيد الميلاد | غابة | نبات"
+      ],
+      "tr": [
+        "yaprak dökmeyen ağaç",
+        "ağaç | çam | noel ağacı | orman | yaprak dökmeyen | yaprak dökmeyen ağaç | yeni yıl | yeşil"
+      ],
+      "vi": [
+        "cây thường xanh",
+        "cây | cây thông | cây thường xanh | giáng sinh | rừng"
+      ],
+      "nl": ["naaldboom", "boom | bos | dennenboom | kerst | naaldboom"]
+    }
+  ],
+  "🌳": [
+    "other",
+    "deciduous tree",
+    {
+      "en": [
+        "deciduous tree",
+        "deciduous | forest | green | habitat | shedding | tree"
+      ],
+      "ru": ["дерево", "дерево | зеленое | листва | растение"],
+      "pl": ["drzewo liściaste", "drzewo | liściaste | roślina"],
+      "fr": [
+        "arbre à feuilles caduques",
+        "arbre | arbre à feuilles caduques | feuilles caduques | feuillu | forêt | nature | plante"
+      ],
+      "de": [
+        "Laubbaum",
+        "Baum | Blätter | grün | Laub | Laubbaum | Pflanze | Wald"
+      ],
+      "es": [
+        "árbol de hoja caduca",
+        "árbol | árbol de hoja caduca | caducifolio | hoja caduca"
+      ],
+      "pt": [
+        "árvore caidiça",
+        "árvore | árvore cheia | caidiça | desfolha | natureza"
+      ],
+      "it": [
+        "albero deciduo",
+        "albero | albero rotondo | caduco | deciduo | natura | pianta"
+      ],
+      "ro": [
+        "arbore foios",
+        "arbore foios | copac | frunze căzătoare | pădure verde"
+      ],
+      "he": ["עץ נשיר", "ירוק | משיר | עץ | עץ נשיר | צל | צמח"],
+      "ar": [
+        "شجرة زائلة الخضرة",
+        "اخضرار | تساقط | خضار | شجرة | شجرة زائلة الخضرة | غابة | متساقط | موطن | نبات"
+      ],
+      "tr": [
+        "yaprak döken ağaç",
+        "ağaç | orman | yaprak döken | yaprak döken ağaç | yeşil ağaç"
+      ],
+      "vi": ["cây rụng lá", "cây | cây rụng lá | rơi | rụng lá"],
+      "nl": ["loofboom", "boom | bos | groen | habitat | loofboom | verliezen"]
+    }
+  ],
+  "🌴": [
+    "other",
+    "palm tree",
+    {
+      "en": ["palm tree", "beach | palm | plant | tree | tropical"],
+      "ru": ["пальма", "дерево | пальма | тропики"],
+      "pl": ["palma", "drzewo | palma | roślina | tropiki | wyspa"],
+      "fr": [
+        "palmier",
+        "arbre | cocotier | palmier | plage | plante | tropical | tropiques"
+      ],
+      "de": [
+        "Palme",
+        "Baum | Kokusnuss | Oase | Palme | Pflanze | Strand | Tropen"
+      ],
+      "es": ["palmera", "árbol | árbol de palma | palmera"],
+      "pt": ["palmeira", "árvore | árvore de palmeira | coqueiro | palmeira"],
+      "it": [
+        "palma",
+        "albero | natura | palma | spiaggia | tropicale | tropici"
+      ],
+      "ro": ["palmier", "copac | exotic | palmier | plajă | tropical"],
+      "he": ["עץ דקל", "טרופי | עץ | עץ דקל | צמח"],
+      "ar": ["نخلة", "استوائي | بحر | شاطىء | شجرة | نبات | نخلة | نخيل"],
+      "tr": ["palmiye ağacı", "ağaç | palmiye | palmiye ağacı | yaz | yeşil"],
+      "vi": ["cây cọ", "cây | cây cọ"],
+      "nl": ["palmboom", "boom | palm | plant | strand | tropisch"]
+    }
+  ],
+  "🌵": [
+    "other",
+    "cactus",
+    {
+      "en": ["cactus", "cactus | desert | drought | nature | plant"],
+      "ru": [
+        "кактус",
+        "зеленое | кактус | колючки | мексика | растение | текила"
+      ],
+      "pl": ["kaktus", "kaktus | kłuje | kolce | pustynia | roślina"],
+      "fr": [
+        "cactus",
+        "cactus | désert | épines | nature | piquant | plante | sécheresse"
+      ],
+      "de": [
+        "Kaktus",
+        "Dürre | Kaktus | Natur | Pflanze | Trockenzeit | Wüste"
+      ],
+      "es": ["cactus", "cactus | planta"],
+      "pt": ["cacto", "cacto | deserto | natureza | planta | seca"],
+      "it": [
+        "cactus",
+        "cactus | caldo | deserto | messico | natura | pianta | pianta grassa | spina | spine | west"
+      ],
+      "ro": [
+        "cactus",
+        "arid | cactus | deșert | natură | plantă | secetă | țepi"
+      ],
+      "he": ["קקטוס", "מדבר | צבר | צמח | קוצים | קוצני | קישקשתא | קקטוס"],
+      "ar": [
+        "صبار",
+        "الطبيعة | جفاف | صبار | صبيرة | صحراء | طبيعة | قحط | نبات"
+      ],
+      "tr": ["kaktüs", "bitki | çöl | diken | kaktüs"],
+      "vi": [
+        "cây xương rồng",
+        "cây xương rồng | hạn hán | sa mạc | thiên nhiên | thực vật"
+      ],
+      "nl": ["cactus", "cactus | droogte | natuur | plant | woestijn"]
+    }
+  ],
+  "🌶": [
+    "other",
+    "hot pepper",
+    {
+      "en": ["hot pepper", "hot | pepper"],
+      "ru": ["острый перец", "красный | острый | перец | растение | чили"],
+      "pl": [
+        "ostra papryka",
+        "chili | jedzenie | ostra | ostry | papryczka | papryka | przyprawa | roślina"
+      ],
+      "fr": ["piment rouge", "nourriture | piment | piment rouge | piquant"],
+      "de": [
+        "Peperoni",
+        "Chili | Paprika | Peperoni | Pfeffer | Pflanze | scharf"
+      ],
+      "es": ["chile picante", "chile | picante | planta"],
+      "pt": ["pimenta", "apimentada | apimentado | pimenta | tempero"],
+      "it": ["peperoncino", "cibo | hot | peperoncino | piccante | verdura"],
+      "ro": ["ardei iute", "ardei | iute | legumă | mâncare | picant"],
+      "he": ["פלפל חריף", "חריף | ירק | סחוג | פלפל | צ׳ילי"],
+      "ar": ["فلفل حار", "حار | شطة | فلفل | فلفل أحمر | نبات"],
+      "tr": ["acı biber", "acı | biber | bitki | gıda | kırmızı biber"],
+      "vi": ["quả ớt", "nóng | ớt | quả ớt"],
+      "nl": ["hete peper", "heet | peper"]
+    }
+  ],
+  "🌷": [
+    "other",
+    "tulip",
+    {
+      "en": ["tulip", "blossom | flower | growth | plant | tulip"],
+      "ru": ["тюльпан", "тюльпан | цвести | цветок"],
+      "pl": ["tulipan", "kwiat | pąk | roślina | tulipan"],
+      "fr": ["tulipe", "bourgeon | fleur | plante | printemps | tulipe"],
+      "de": ["Tulpe", "Blume | Blüte | Pflanze | Tulpe"],
+      "es": ["tulipán", "flor | tulipán"],
+      "pt": ["tulipa", "flor | tulipa"],
+      "it": [
+        "tulipano",
+        "fiore | giardino | natura | pianta | rosa | tulipano"
+      ],
+      "ro": ["lalea", "floare | lalea | mugur | plantă | primăvară"],
+      "he": ["צבעוני", "הולנד | טוליפ | פרח | צבעוני"],
+      "ar": [
+        "زهرة التوليب",
+        "اناقة | بستان | توليب | زهرة | زهرة التوليب | نبات"
+      ],
+      "tr": ["lale", "bitki | çiçek | kırmızı lale | lale"],
+      "vi": ["hoa tulip", "hoa | hoa tulip | thực vật"],
+      "nl": ["tulp", "bloem | bloesem | groei | plant | tulp"]
+    }
+  ],
+  "🌸": [
+    "other",
+    "cherry blossom",
+    {
+      "en": [
+        "cherry blossom",
+        "blossom | cherry | flower | plant | spring | springtime"
+      ],
+      "ru": [
+        "цветок вишни",
+        "мальва | сакура | цвести | цветок | цветок вишни"
+      ],
+      "pl": [
+        "kwiat wiśni",
+        "kwiat | kwiat wiśni | kwiatek | kwitnąca wiśnia | sakura | wiśnia"
+      ],
+      "fr": [
+        "fleur de cerisier",
+        "bourgeon | fleur | fleur de cerisier | plante | printemps"
+      ],
+      "de": ["Kirschblüte", "Blume | Blüte | Kirschblüte | Kirsche | Pflanze"],
+      "es": ["flor de cerezo", "cerezo | flor | flor de cerezo"],
+      "pt": [
+        "flor de cerejeira",
+        "cereja | cerejeira | flor | flor de cerejeira | planta | primavera"
+      ],
+      "it": [
+        "fiore di ciliegio",
+        "ciliegio | fiore | fiore di ciliegio | fiorito | natura | pianta | primavera | primula | rosa"
+      ],
+      "ro": [
+        "floare de cireș",
+        "cireș | floare | floare de cireș | parfum | plantă | pom | primăvară"
+      ],
+      "he": [
+        "פריחת דובדבן",
+        "דובדבן | פרח | פריחה | פריחת דובדבן | פריחת הדובדבן"
+      ],
+      "ar": [
+        "زهرة الكرز",
+        "بستان | جمال | حديقة | ربيع | زهرة | زهرة الكرز | زهرة كرز | نبات | وردة كرز"
+      ],
+      "tr": [
+        "kiraz çiçeği",
+        "bahar | çiçek | çiçek izleme | kiraz | kiraz çiçeği"
+      ],
+      "vi": ["hoa anh đào", "hoa | hoa anh đào | thực vật"],
+      "nl": [
+        "kersenbloesem",
+        "bloem | bloesem | kers | lente | plant | voorjaar"
+      ]
+    }
+  ],
+  "🌹": [
+    "other",
+    "rose",
+    {
+      "en": [
+        "rose",
+        "beauty | elegant | flower | love | plant | red | rose | valentine"
+      ],
+      "ru": [
+        "роза",
+        "бутон | валентинка | красная | красота | любовь | растение | роза | цветок | элегантность"
+      ],
+      "pl": ["róża", "czerwony | kwiat | miłość | roślina | róża"],
+      "fr": [
+        "rose",
+        "amour | beauté | fleur | plante | rose | rouge | Saint-Valentin"
+      ],
+      "de": ["Rose", "Blume | Blüte | Pflanze | Rose"],
+      "es": ["rosa", "flor | rosa"],
+      "pt": ["rosa", "flor | rosa"],
+      "it": [
+        "rosa",
+        "amore | bellezza | fiore | giardino | natura | pianta | regalo | rosa | rosa rossa | rosso"
+      ],
+      "ro": [
+        "trandafir",
+        "elegant | floare | frumusețe | iubire | plantă | roșu | trandafir"
+      ],
+      "he": ["ורד", "ורד | פרח | רומנטי | רומנטיקה | שושנה"],
+      "ar": [
+        "وردة",
+        "احمر | اناقة | جمال | جميل | زهرة | عيد الحب | عيد العشاق | نبات | وردة"
+      ],
+      "tr": ["gül", "aşk | bitki | çiçek | gül | kırmızı gül"],
+      "vi": [
+        "hoa hồng",
+        "cây | hoa | hoa hồng | màu đỏ | sang trọng | tình yêu | valentine | vẻ đẹp"
+      ],
+      "nl": [
+        "roos",
+        "bloem | elegant | liefde | plant | rood | roos | schoonheid | valentijn"
+      ]
+    }
+  ],
+  "🌺": [
+    "other",
+    "hibiscus",
+    {
+      "en": ["hibiscus", "flower | hibiscus | plant"],
+      "ru": ["гибискус", "гибискус | китайская роза | цветок"],
+      "pl": ["kwiat hibiskusa", "hibiskus | hibiskusa | kwiat | roślina"],
+      "fr": ["hibiscus", "fleur | hibiscus | plante"],
+      "de": ["Hibiskus", "Blume | Blüte | Hibiskus | Pflanze | Rosa"],
+      "es": ["flor de hibisco", "flor | flor de hibisco | hibisco"],
+      "pt": ["hibisco", "flor | hibisco | planta | primavera"],
+      "it": ["ibisco", "fiore | ibisco | natura | pianta | rosso"],
+      "ro": ["hibiscus", "floare | hibiscus | plantă"],
+      "he": ["היביסקוס", "היביסקוס | פרח"],
+      "ar": ["كركديه", "بستان | زهرة | كركديه | نبات"],
+      "tr": [
+        "çingülü",
+        "Atatürk çiçeği | bitki | çiçek | çingülü | hatmi çiçeği"
+      ],
+      "vi": ["hoa dâm bụt", "hoa | hoa dâm bụt | thực vật"],
+      "nl": ["hibiscus", "bloem | hibiscus | plant"]
+    }
+  ],
+  "🌻": [
+    "other",
+    "sunflower",
+    {
+      "en": ["sunflower", "flower | outdoors | plant | sun | sunflower"],
+      "ru": ["подсолнух", "подсолнух | солнце | цветок"],
+      "pl": ["słonecznik", "kwiat | roślina | słońce | słonecznik"],
+      "fr": ["tournesol", "champs | fleur | plante | soleil | tournesol"],
+      "de": ["Sonnenblume", "Blume | Blüte | Pflanze | Sonne | Sonnenblume"],
+      "es": ["girasol", "flor | girasol | sol"],
+      "pt": ["girassol", "flor | girassol | planta"],
+      "it": ["girasole", "fiore | giallo | girasole | natura | pianta"],
+      "ro": [
+        "floarea soarelui",
+        "câmp | floare | floarea soarelui | galben | plantă | soare"
+      ],
+      "he": ["חמניה", "אור | חמניה | פרח | שמש"],
+      "ar": [
+        "دوار الشمس",
+        "حديقة | دوار الشمس | طبيعة | عباد الشمس | نبات | نزهة"
+      ],
+      "tr": ["ayçiçeği", "ayçiçeği | bitki | çiçek | güneş"],
+      "vi": ["hoa hướng dương", "hoa | hoa hướng dương | mặt trời | thực vật"],
+      "nl": ["zonnebloem", "bloem | buiten | plant | zon | zonnebloem"]
+    }
+  ],
+  "🌼": [
+    "other",
+    "blossom",
+    {
+      "en": ["blossom", "blossom | buttercup | dandelion | flower | plant"],
+      "ru": ["цветок", "растение | цветок"],
+      "pl": ["kwiat", "kwiat | kwiatek | kwitnie | roślina"],
+      "fr": [
+        "bourgeon",
+        "bourgeon | bouton d’or | dent-de-lion | fleur | pissenlit | plante | printemps"
+      ],
+      "de": [
+        "gelbe Blüte",
+        "Blume | Blüte | gelbe Blüte | Gelbe Blüte | Pflanze"
+      ],
+      "es": ["flor", "flor"],
+      "pt": ["flor", "flor | florescer | planta"],
+      "it": [
+        "fiore",
+        "bocciolo | fiore | fiorellino | giallo | margherita | natura | pianta"
+      ],
+      "ro": [
+        "boboc",
+        "boboc | eforescență | floare | înflorire | păpădie | plantă"
+      ],
+      "he": ["פריחה", "אביב | חרצית | פרח | פריחה | שינן"],
+      "ar": ["زهرة", "اصفر | حديقة | ديزي | زهرة | نبات"],
+      "tr": ["çiçek açma", "bitki | çiçek | çiçek açma | sarı çiçek"],
+      "vi": ["hoa", "bồ công anh | hoa | thực vật"],
+      "nl": ["bloesem", "bloem | bloesem | boterbloem | paardenbloem | plant"]
+    }
+  ],
+  "🌽": [
+    "other",
+    "ear of maize",
+    {
+      "en": ["ear of corn", "corn | crops | ear | farm | maize | maze"],
+      "ru": ["кукурузный початок", "кукуруза | кукурузный початок | початок"],
+      "pl": [
+        "kolba kukurydzy",
+        "jedzenie | kolba | kukurydza | kukurydzy | warzywo"
+      ],
+      "fr": ["épi de maïs", "épi | épi de maïs | ferme | maïs | nourriture"],
+      "de": ["Maiskolben", "Gemüse | Mais | Maiskolben"],
+      "es": [
+        "espiga de maíz",
+        "espiga | espiga de maíz | maíz | mazorca | mijo"
+      ],
+      "pt": ["milho", "comida | espiga | espiga de milho | fome | milho"],
+      "it": [
+        "pannocchia",
+        "cibo | fattoria | granoturco | mais | pannocchia | verdura"
+      ],
+      "ro": [
+        "știulete de porumb",
+        "cereală | cereale | fermă | porumb | recoltă | știulete | știulete de porumb"
+      ],
+      "he": ["קלח תירס", "ירק | קלח תירס | תירס"],
+      "ar": ["ذرة", "ذرة | عرنوس | كوز"],
+      "tr": [
+        "mısır koçanı",
+        "başak | gıda | mısır | mısır başağı | mısır koçanı"
+      ],
+      "vi": ["bắp ngô", "bắp | ngô"],
+      "nl": ["maïskolf", "boerderij | doolhof | gewassen | kolf | maïs"]
+    }
+  ],
+  "🌾": [
+    "other",
+    "ear of rice",
+    {
+      "en": ["sheaf of rice", "ear | grain | grains | plant | rice | sheaf"],
+      "ru": ["колос", "зерно | колос | пшеница | рис"],
+      "pl": ["pędy ryżu", "pędy ryżu | roślina | ryż | ziarno | żniwa"],
+      "fr": ["plant de riz", "grain | plant de riz | plante | riz"],
+      "de": ["Reisähre", "Ähre | Pflanze | Reis | Reisähre | Reispflanze"],
+      "es": ["espiga de arroz", "arroz | espiga | espiga de arroz | planta"],
+      "pt": [
+        "planta de arroz",
+        "arroz | comida | espiga | espiga de arroz | fazenda | grãos | planta | planta de arroz | planta do arroz"
+      ],
+      "it": [
+        "pianta di riso",
+        "cereale | natura | pianta | pianta di riso | riso | spiga | spiga di riso"
+      ],
+      "ro": [
+        "snop de orez",
+        "apă | cereală | grâne | orez | plantă | snop | snop de orez | spic"
+      ],
+      "he": ["שיבולי אורז", "אורז | צמח | שיבולי אורז | שיבולים"],
+      "ar": [
+        "حزمة من الأرز",
+        "أرز | حبوب | حزمة من الأرز | رز | زرع | سنبلة أرز | نبات | ورق الارز"
+      ],
+      "tr": [
+        "pirinç bitkisi",
+        "başak | pirinç | pirinç başağı | pirinç bitkisi"
+      ],
+      "vi": ["bó lúa", "bó lúa | bông lúa | gạo | thực vật"],
+      "nl": ["rijstplant", "aar | graan | granen | plant | rijst | rijstaar"]
+    }
+  ],
+  "🌿": [
+    "other",
+    "herb",
+    {
+      "en": ["herb", "herb | leaf | plant"],
+      "ru": ["веточка", "ветка | веточка | листья | трава"],
+      "pl": ["zioło", "liście | roślina | zioła | zioło"],
+      "fr": ["feuille", "arbre | feuille | feuilles | plante"],
+      "de": ["Kräuter", "Blätter | Kräuter | Pflanze"],
+      "es": ["hierba", "hierba | hoja | verde"],
+      "pt": ["erva", "erva | folha | planta"],
+      "it": ["pianta", "foglia | natura | pianta | ramo | verde"],
+      "ro": [
+        "plantă aromatică",
+        "condiment | frunză | plantă | plantă aromatică"
+      ],
+      "he": ["צמח תבלין", "גבעול | עלה | ענף | צמח | צמח תבלין"],
+      "ar": ["عشب", "بستان | عشب | نبتة | ورق"],
+      "tr": ["ot", "bitki | ot | yaprak"],
+      "vi": ["thảo mộc", "lá cây | thảo mộc"],
+      "nl": ["kruid", "blad | kruid | plant"]
+    }
+  ],
+  "🍀": [
+    "other",
+    "four leaf clover",
+    {
+      "en": [
+        "four leaf clover",
+        "4 | clover | four | four-leaf | irish | leaf | lucky | plant"
+      ],
+      "ru": [
+        "четырехлистный клевер",
+        "клевер | удача | четыре | четырехлистный клевер"
+      ],
+      "pl": [
+        "czterolistna koniczyna",
+        "czterolistna | koniczyna | koniczynka | roślina | szczęście"
+      ],
+      "fr": [
+        "trèfle à quatre feuilles",
+        "4 | chance | feuilles | Irlande | plante | porte-bonheur | quatre | trèfle | trèfle à quatre feuilles"
+      ],
+      "de": [
+        "Glücksklee",
+        "Blatt | Glück | Glücksklee | Klee | Kleeblatt | Pflanze | Silverster | vier | vierblättrig | Vierblättriges Kleeblatt"
+      ],
+      "es": [
+        "trébol de cuatro hojas",
+        "suerte | trébol | trébol de cuatro hojas"
+      ],
+      "pt": [
+        "trevo de quatro folhas",
+        "folhas | irlandês | planta | quatro | sorte | sortudo | trevo | trevo de quatro folhas"
+      ],
+      "it": [
+        "quadrifoglio",
+        "foglia | fortuna | natura | pianta | piante | quadrifoglio | quattro"
+      ],
+      "ro": [
+        "trifoi cu patru foi",
+        "frunze | irlandez | noroc | norocos | patru | patru foi | plantă | trifoi | trifoi cu patru foi"
+      ],
+      "he": [
+        "תלתן ארבעה עלים",
+        "אירלנד | מזל | עלה | צמח | תלתן | תלתן ארבעה עלים"
+      ],
+      "ar": [
+        "ورقة برسيم رباعية",
+        "4 | أربعة | ايرلندي | باتريك | برسيم | حظ | نبات | ورقة | ورقة برسيم رباعية"
+      ],
+      "tr": [
+        "dört yapraklı yonca",
+        "bitki | dört | dört yapraklı yonca | iskoç | şans | şanslı | yaprak | yeşil | yonca"
+      ],
+      "vi": ["cỏ bốn lá", "4 | bốn | cỏ bốn lá | lá cây | thực vật"],
+      "nl": [
+        "klavertjevier",
+        "4 | blad | geluk | Iers | klaver | klavertjevier | plant | vier"
+      ]
+    }
+  ],
+  "🍁": [
+    "other",
+    "maple leaf",
+    {
+      "en": ["maple leaf", "falling | leaf | maple"],
+      "ru": ["кленовый лист", "клен | кленовый лист | красный | лист | осень"],
+      "pl": [
+        "liść klonowy",
+        "jesień | jesienny | klon | klonowy | klonu | liść"
+      ],
+      "fr": [
+        "feuille d’érable",
+        "automne | érable | feuille | feuille d’érable | feuille morte | tomber"
+      ],
+      "de": [
+        "Ahornblatt",
+        "Ahorn | Ahornblatt | Blatt | Herbst | Laub | Pflanze"
+      ],
+      "es": ["hoja de arce", "arce | hoja | hoja de arce"],
+      "pt": [
+        "folha de bordo",
+        "folha | folha caída | folha de bordo | folha vermelha | maple | outono"
+      ],
+      "it": [
+        "foglia d’acero",
+        "autunno | foglia | foglia caduta | foglia d’acero | natura"
+      ],
+      "ro": [
+        "frunză de arțar",
+        "arțar | frunză | frunză de arțar | frunză în cădere | roșu"
+      ],
+      "he": [
+        "עלה מייפל",
+        "מייפל | סירופ | סתיו | עלה מייפל | עלים נושרים | פנקייק | קנדה | שלכת"
+      ],
+      "ar": [
+        "ورقة شجر القيقب",
+        "خريف | سقوط | قيقب | نبات | ورقة | ورقة شجر القيقب | ورقة قبقب"
+      ],
+      "tr": [
+        "akçaağaç yaprağı",
+        "akçaağaç yaprağı | düşen yaprak | kırmızı yaprak | sarı yaprak | sonbahar | turuncu yaprak | yaprak"
+      ],
+      "vi": ["lá phong", "lá cây | lá phong | rụng"],
+      "nl": ["esdoornblad", "blad | esdoorn | vallend"]
+    }
+  ],
+  "🍂": [
+    "other",
+    "fallen leaf",
+    {
+      "en": ["fallen leaf", "autumn | fall | fallen | falling | leaf"],
+      "ru": ["падающие листья", "листопад | листья | осень | падающие листья"],
+      "pl": [
+        "spadające liście",
+        "jesień | jesienne | liście | roślina | spadające"
+      ],
+      "fr": [
+        "feuille morte",
+        "automne | feuille | feuille morte | feuilles mortes | tomber"
+      ],
+      "de": [
+        "Laub",
+        "Blatt | Blätter | Fallendes Laub | Herbst | Laub | Pflanze"
+      ],
+      "es": ["hojas caídas", "caída | hojas | hojas caídas"],
+      "pt": ["folhas caídas", "caídas | cair | folha | folhas | outono"],
+      "it": [
+        "foglia caduta",
+        "autunno | cadute foglia | foglia | foglia caduta | foglie | foglie cadute | foglie che cadono | foglie rosse | natura | ramo"
+      ],
+      "ro": [
+        "frunză în cădere",
+        "cădere | frunză | frunză în cădere | frunze | frunze căzătoare | toamnă"
+      ],
+      "he": ["עלי שלכת", "סתיו | עלי שלכת | עלים | צמח | שלכת"],
+      "ar": ["أوراق متساقطة", "أوراق متساقطة | خريف | سقوط | نبات | ورقة"],
+      "tr": [
+        "düşen yapraklar",
+        "düşen | düşmüş | güz | sonbahar | yaprak | yapraklar"
+      ],
+      "vi": ["lá rụng", "lá | rụng | thực vật"],
+      "nl": ["vallende bladeren", "blad | gevallen | herfst | vallend"]
+    }
+  ],
+  "🍃": [
+    "other",
+    "leaf fluttering in wind",
+    {
+      "en": [
+        "leaf fluttering in wind",
+        "blow | flutter | fluttering | leaf | wind"
+      ],
+      "ru": ["листья на ветру", "ветер | листопад | листья | листья на ветру"],
+      "pl": [
+        "liście na wietrze",
+        "liście | na wietrze | podmuch | roślina | wiatr | wicher"
+      ],
+      "fr": [
+        "feuille virevoltante",
+        "bourrasque | feuille | feuille virevoltante | souffle | tourbillon de feuilles | vent | virevolter"
+      ],
+      "de": [
+        "Blätter im Wind",
+        "Blatt | Blätter | Blätter im Wind | Laub | Pflanze | Wind"
+      ],
+      "es": [
+        "hojas revoloteando al viento",
+        "hoja | hojas revoloteando al viento | revolotear | soplar | viento"
+      ],
+      "pt": ["folha ao vento", "folha | folha ao vento | soprando | vento"],
+      "it": [
+        "foglia al vento",
+        "foglia | foglia al vento | foglie | vento | vento che soffia"
+      ],
+      "ro": [
+        "frunză plutind în aer",
+        "frunză | frunză în aer | frunză plutind în aer | plutire | vânt"
+      ],
+      "he": [
+        "עלה עף ברוח",
+        "סתיו | עלה נידף | עלה עף ברוח | עלים | עלים עפים ברוח | צמח | רוח | שלכת"
+      ],
+      "ar": [
+        "ورقة متطايرة",
+        "رياح | ريح | طبيعة | نبات | هبوب | ورقة | ورقة متطايرة"
+      ],
+      "tr": ["rüzgardaki yaprak", "esen | rüzgar | rüzgardaki yaprak | yaprak"],
+      "vi": [
+        "lá rung rinh trong gió",
+        "gió | lá cây | lá rung rinh trong gió | rung | thổi"
+      ],
+      "nl": ["blad in de wind", "blad | blazen | fladderen | wind"]
+    }
+  ],
+  "🍄": [
+    "other",
+    "mushroom",
+    {
+      "en": ["mushroom", "fungus | mushroom | toadstool"],
+      "ru": ["гриб", "гриб | мухомор | несъедобный | поганка | ядовитый"],
+      "pl": ["grzyb", "grzyb | muchomor | muchomorek | trujący"],
+      "fr": ["champignon", "champignon | champignon vénéneux | Mario | plante"],
+      "de": ["Fliegenpilz", "Fliegenpilz | giftig | Pilz"],
+      "es": ["champiñón", "champiñón | hongo | seta"],
+      "pt": ["cogumelo", "champignon | cogumelo | fungo | mario | planta"],
+      "it": [
+        "fungo",
+        "amanita | autunno | biancaneve | bosco | favola | fiaba | funghetto | fungo | natura | velenoso"
+      ],
+      "ro": ["ciupercă", "ciupercă | ciupercă otrăvitoare | fungi | plantă"],
+      "he": ["פטריה", "ירק | פטריה"],
+      "ar": ["عيش الغراب", "شومبنيو | عيش الغراب | عيش غراب | فطر | مشروم"],
+      "tr": ["mantar", "bitki | kırmızı mantar | mantar | masal"],
+      "vi": ["nấm", "nấm | thực vật"],
+      "nl": ["paddenstoel", "paddenstoel | schimmel | zwam"]
+    }
+  ],
+  "🍄‍🟫": [
+    "other",
+    "",
+    {
+      "en": [
+        "brown mushroom",
+        "food | fungi | fungus | mushroom | nature | pizza | portobello | shiitake | shroom | spore | sprout | toppings | truffle | vegetable | vegetarian | veggie"
+      ],
+      "ru": [
+        "бурый гриб",
+        "бурый гриб | вегетарианство | веги | гриб | грибок | грибочек | грибы | еда | овощ | природа"
+      ],
+      "pl": [
+        "brązowy grzyb",
+        "borowik | brązowy | grzyb | jedzenie | natura | shiitake | warzywo"
+      ],
+      "fr": [
+        "champignon marron",
+        "automne | brun | cèpe | champignon | fongus | marron | nature | nourriture"
+      ],
+      "de": [
+        "brauner Pilz",
+        "braun | Essen | Fungus | Gemüse | Lebensmittel | Natur | Pflanze | Pilz | Wald"
+      ],
+      "es": [
+        "champiñón marrón",
+        "champiñón marrón | comida | hongo | naturaleza | seta | vegetal"
+      ],
+      "pt": [
+        "cogumelo marrom",
+        "champignon | cogumelo | cogumelo marrom | comida | fungo | fungos | natureza | trufa | vegetal | vegetariano"
+      ],
+      "it": [
+        "fungo marrone",
+        "autunno | bosco | champignon | cibo | fungo | fungo marrone | natura | porcino | vegano | vegetale | vegetariano"
+      ],
+      "ro": [
+        "ciupercă maro",
+        "aliment | ciupercă | ciupercă maro | fungi | legumă | natură | portobello | shiitake | topping pentru pizza | trufe"
+      ],
+      "he": [
+        "פטרייה חומה",
+        "אוכל | טבע | טבעונות | ירקות | פורטובלו | פטריה | פטריות | פטרייה חומה | שיטקי | תוספת לפיצה"
+      ],
+      "ar": [
+        "فطر بني",
+        "إضافات البيتزا | المأكولات والمشروبات | براعم | خضروات | طبيعي | طعام | طعام، فطر، طبيعة، خضار | فطر بني | كمأة | مشروم | نباتي"
+      ],
+      "tr": [
+        "kahverengi mantar",
+        "doğa | gıda | kahverengi mantar | mantar | pizza malzemesi | portobello | sebze | şitaki | trüf | yiyecek"
+      ],
+      "vi": [
+        "nấm màu nâu",
+        "ăn chay | cây nấm nâu | nấm | nấm màu nâu | nhân nấm | nhân pizza | rau | thức ăn | tự nhiên"
+      ],
+      "nl": [
+        "bruine paddestoel",
+        "bruine paddenstoel | bruine paddestoel | champignon | eten | groente | natuur | paddenstoel | paddo | pizza | schimmel | shiitake"
+      ]
+    }
+  ],
+  "🍅": [
+    "other",
+    "tomato",
+    {
+      "en": ["tomato", "food | fruit | tomato | vegetable"],
+      "ru": ["помидор", "овощ | помидор | томат | ягода"],
+      "pl": ["pomidor", "jedzenie | pomidor | szklarniowe | warzywo"],
+      "fr": ["tomate", "fruit | légume | nourriture | plante | tomate"],
+      "de": ["Tomate", "Essen | Gemüse | Obst | Tomate"],
+      "es": ["tomate", "ensalada | fruta | tomate | verdura"],
+      "pt": ["tomate", "fruta | fruto | legume | tomate | vegetal"],
+      "it": ["pomodoro", "cibo | pomodoro | rosso | verdura"],
+      "ro": ["roșie", "fruct | fructe | legumă | mâncare | roșie | tomată"],
+      "he": ["עגבנייה", "ירק | עגבניה | עגבנייה | פרי"],
+      "ar": ["طماطم", "بندورة | خضار | خضرا | طماطم"],
+      "tr": ["domates", "domates | gıda | meyve | sebze"],
+      "vi": ["cà chua", "cà chua | rau | thực vật"],
+      "nl": ["tomaat", "fruit | groente | tomaat | voedsel"]
+    }
+  ],
+  "🍆": [
+    "other",
+    "aubergine",
+    {
+      "en": ["eggplant", "aubergine | eggplant | vegetable"],
+      "ru": ["баклажан", "баклажан | овощ | синенькие | синенький"],
+      "pl": ["bakłażan", "bakłażan | jedzenie | oberżyna | warzywo"],
+      "fr": ["aubergine", "aubergine | légume | nourriture"],
+      "de": ["Aubergine", "Aubergine | Gemüse"],
+      "es": ["berenjena", "berenjena | fruto | verdura"],
+      "pt": ["berinjela", "beringela | berinjela | comida | legume | vegetal"],
+      "it": ["melanzana", "cibo | melanzana | verdura"],
+      "ro": ["vânătă", "legumă | vânătă"],
+      "he": ["חציל", "חציל | ירק"],
+      "ar": ["باذنجان", "باتنجان | باذنجان | خضار"],
+      "tr": ["patlıcan", "gıda | patlıcan | sebze | yemek"],
+      "vi": ["cà tím", "cà tím | rau | thực vật"],
+      "nl": ["aubergine", "aubergine | groente"]
+    }
+  ],
+  "🍇": [
+    "other",
+    "grapes",
+    {
+      "en": ["grapes", "Dionysus | fruit | grape | grapes"],
+      "ru": [
+        "виноград",
+        "ветвь винограда | виноград | виноградина | сок | фрукт"
+      ],
+      "pl": ["winogrona", "jedzenie | owoce | winogrona"],
+      "fr": ["raisin", "fruit | nourriture | raisin"],
+      "de": ["Trauben", "Frucht | Obst | Traube | Trauben | Wein"],
+      "es": ["uvas", "agracejo | fruta | racimo | uva | uvas"],
+      "pt": ["uvas", "fruta | uva | uvas"],
+      "it": [
+        "uva",
+        "cibo | dioniso | frutta | frutto | grappolo | grappolo d’uva | uva | vino | viola"
+      ],
+      "ro": [
+        "struguri",
+        "boabe | dionis | fruct | fructe | struguri | vin | viță de vie"
+      ],
+      "he": ["ענבים", "ענבים | פרי | קיץ"],
+      "ar": ["عنب", "عنب | فاكهة | فواكه"],
+      "tr": ["üzüm", "gıda | meyve | salkım | üzüm"],
+      "vi": ["chùm nho", "chùm nho | hoa quả | nho"],
+      "nl": ["druiven", "Dionysus | druif | druiven | fruit"]
+    }
+  ],
+  "🍈": [
+    "other",
+    "melon",
+    {
+      "en": ["melon", "cantaloupe | fruit | melon"],
+      "ru": ["дыня", "дыня | растение | фрукт | ягода"],
+      "pl": ["melon", "jedzenie | melon | owoc"],
+      "fr": ["melon", "fruit | melon"],
+      "de": [
+        "Honigmelone",
+        "cantaloupe | Frucht | Honigmelone | Melone | Obst"
+      ],
+      "es": ["melón", "fruta | melón"],
+      "pt": ["melão", "fruta | melão"],
+      "it": ["melone", "cantaloupe | cibo | frutta | frutto | melone | oliva"],
+      "ro": ["pepene galben", "cantalup | fruct | fructe | galben | pepene"],
+      "he": ["מלון", "מלון | פרי | קיץ"],
+      "ar": ["شمام", "بطيخ أصفر | شمام | فاكهة | فواكه"],
+      "tr": ["kavun", "gıda | kavun | meyve | meze | rakı | yemek"],
+      "vi": ["dưa", "dưa | hoa quả"],
+      "nl": ["meloen", "fruit | kanteloep | meloen"]
+    }
+  ],
+  "🍉": [
+    "other",
+    "watermelon",
+    {
+      "en": ["watermelon", "fruit | watermelon"],
+      "ru": ["арбуз", "арбуз | растение | фрукт | ягода"],
+      "pl": ["arbuz", "arbuz | arbuza | jedzenie | kawałek | lato | owoc"],
+      "fr": ["pastèque", "fruit | pastèque"],
+      "de": ["Wassermelone", "Frucht | Melone | Obst | Wasser | Wassermelone"],
+      "es": ["sandía", "fruta | sandía"],
+      "pt": ["melancia", "fruta | melancia"],
+      "it": ["anguria", "anguria | cibo | frutta | frutto"],
+      "ro": [
+        "pepene verde",
+        "fruct | fructe | pepene | pepene roșu | pepene verde"
+      ],
+      "he": ["אבטיח", "אבטיח | פרי | קיץ"],
+      "ar": ["بطيخ", "بطيخ | جبس | جح | فاكهة | فواكه"],
+      "tr": ["karpuz", "gıda | karpuz | meyve"],
+      "vi": ["dưa hấu", "dưa hấu | hoa quả"],
+      "nl": ["watermeloen", "fruit | watermeloen"]
+    }
+  ],
+  "🍊": [
+    "other",
+    "tangerine",
+    {
+      "en": [
+        "tangerine",
+        "c | citrus | fruit | nectarine | orange | tangerine | vitamin"
+      ],
+      "ru": [
+        "мандарин",
+        "апельсин | клементин | мандарин | фрукт | цитрус | цитрусовый"
+      ],
+      "pl": [
+        "mandarynka",
+        "cytrus | jedzenie | mandarynka | owoc | pomarańcza"
+      ],
+      "fr": [
+        "mandarine",
+        "agrume | clémentine | fruit | mandarine | nourriture | orange | vitamine C"
+      ],
+      "de": [
+        "Mandarine",
+        "Apfelsine | Frucht | Mandarine | Obst | Orange | Vitamin"
+      ],
+      "es": ["mandarina", "fruta | mandarina | naranja"],
+      "pt": ["tangerina", "cítrica | fruta | laranja | tangerina"],
+      "it": [
+        "mandarino",
+        "agrume | agrumi | arancia | cibo | frutta | frutto | mandarino | vitamina C"
+      ],
+      "ro": [
+        "mandarină",
+        "citrice | fruct | fructe | mandarină | portocală | vitamina c"
+      ],
+      "he": ["קלמנטינה", "חורף | פרי | פרי הדר | קלמנטינה | תפוז"],
+      "ar": [
+        "يوسفي",
+        "برتقال | بو صرة | فاكهة | فواكه | فيتامين | ليمونة | مندرين | نكتارين | يوسفي"
+      ],
+      "tr": ["mandalina", "gıda | mandalina | meyve | portakal | turunç"],
+      "vi": ["quýt", "hoa quả | quả cam | quýt"],
+      "nl": [
+        "mandarijn",
+        "c | citrus | fruit | mandarijn | nectarine | sinaasappel | vitamine"
+      ]
+    }
+  ],
+  "🍋": [
+    "other",
+    "lemon",
+    {
+      "en": ["lemon", "citrus | fruit | lemon | sour"],
+      "ru": ["лимон", "кислый | лимон | фрукт | цитрус | цитрусовый"],
+      "pl": ["cytryna", "cytrus | cytryna | jedzenie | kwaśny | owoc | żółty"],
+      "fr": ["citron", "acide | agrume | citron | fruit | nourriture | zeste"],
+      "de": ["Zitrone", "Frucht | Obst | sauer | Zitrone | Zitrusfrucht"],
+      "es": ["limón", "cítrico | citrón | fruta | limón"],
+      "pt": [
+        "limão",
+        "azedo | cítrico | fruta | lima | limão | limão siciliano"
+      ],
+      "it": [
+        "limone",
+        "agrume | aspro | cibo | estate | frutta | frutto | giallo | limone"
+      ],
+      "ro": ["lămâie", "amar | citrice | fruct | fructe | lămâie"],
+      "he": ["לימון", "לימון | פרי | פרי הדר"],
+      "ar": ["ليمون", "حامض | حمضيات | فاكهة | فواكه | ليمون | موالح"],
+      "tr": ["limon", "gıda | limon | meyve | narenciye"],
+      "vi": ["chanh tây", "chanh | chanh tây | chua | họ cam quýt | hoa quả"],
+      "nl": ["citroen", "citroen | citrus | fruit | zuur"]
+    }
+  ],
+  "🍋‍🟩": [
+    "other",
+    "",
+    {
+      "en": [
+        "lime",
+        "acidity | citrus | cocktail | fruit | garnish | key | lime | margarita | mojito | refreshing | salsa | sour | tangy | tequila | tropical | zest"
+      ],
+      "ru": [
+        "лайм",
+        "зеленый | кислота | коктейль | лайм | маргарита | мохито | сок | текила | тропический | фрукт | цитрус | цитрусовый"
+      ],
+      "pl": [
+        "limonka",
+        "cytrus | kwaśne | limetka | limonka | mojito | owoc | soczysty | tequila | tropikalny"
+      ],
+      "fr": [
+        "citron vert",
+        "acide | agrume | citron | fruit | lime | mojito | tropical | vert | zeste"
+      ],
+      "de": [
+        "Limette",
+        "Cocktail | Essen | Frucht | Limette | Obst | Saft | sauer | Tequila | tropisch | Zitrusfrucht"
+      ],
+      "es": ["lima", "cítrico | fruta | lima | tropical"],
+      "pt": [
+        "lima",
+        "acidez | caipirinha | cítrica | cítrico | drink | fruta | lima | limão | limonada | tequila | tropical | verde"
+      ],
+      "it": [
+        "lime",
+        "agrume | cibo | cocktail | dissetante | frutta | lime | limone | limone verde | mojito | succo | tequila | tropicale"
+      ],
+      "ro": [
+        "limetă",
+        "acru | astringent | citrice | cocktail | fruct | lămâie verde | limetă | margarita | mojito | salsa | tequila | tropical | verde"
+      ],
+      "he": [
+        "ליים",
+        "חמוץ | טקילה | טרופי | ליים | מוחיטו | מיץ | מרגריטה | פרי | פרי הדר | קוקטייל"
+      ],
+      "ar": [
+        "الليم",
+        "أخضر | استوائي | الليم | المأكولات والمشروبات | حامض | حامض، فاكهة، إستوائي | حمضيات | عصير | فواكه | ليم | ليمون | منعش"
+      ],
+      "tr": [
+        "misket limonu",
+        "lim | limon | limonlu turta | margarita | meyve | misket limonu | narenciye | salsa | tekila | tropik | yeşil | yiyecek"
+      ],
+      "vi": [
+        "chanh ta",
+        "chanh ta | họ cam quýt | hoa quả | margarita | mojito | nhiệt đới | nước ép | nước sốt | tequila | vị chua"
+      ],
+      "nl": [
+        "limoen",
+        "citrus | cocktail | fruit | groen | limoen | margarita | sap | tropisch | vrucht | zuur"
+      ]
+    }
+  ],
+  "🍌": [
+    "other",
+    "banana",
+    {
+      "en": ["banana", "banana | fruit | potassium"],
+      "ru": ["банан", "банан | фрукт"],
+      "pl": ["banan", "banan | egzotyczny | jedzenie | owoc"],
+      "fr": ["banane", "banane | fruit | nourriture | potassium"],
+      "de": ["Banane", "Banane | Frucht | Obst | Schale"],
+      "es": ["plátano", "banana | fruta | plátano"],
+      "pt": ["banana", "banana | fruta"],
+      "it": ["banana", "banana | cibo | frutta | frutto | potassio"],
+      "ro": ["banană", "banană | exotic | fruct | fructe | mâncare | potasiu"],
+      "he": ["בננה", "בננה | פרי"],
+      "ar": ["موز", "بوتاسيوم | فاكهة | فواكه | موز"],
+      "tr": ["muz", "gıda | maymun | meyve | muz"],
+      "vi": ["chuối", "chuối | hoa quả | kali"],
+      "nl": ["banaan", "banaan | fruit | kalium"]
+    }
+  ],
+  "🍍": [
+    "other",
+    "pineapple",
+    {
+      "en": ["pineapple", "colada | fruit | pina | pineapple | tropical"],
+      "ru": ["ананас", "ананас | фрукт"],
+      "pl": ["ananas", "ananas | egzotyczny | jedzenie | owoc"],
+      "fr": ["ananas", "ananas | fruit | nourriture | tropical"],
+      "de": ["Ananas", "Ananas | Frucht | Obst"],
+      "es": ["piña", "ananás | fruta | piña"],
+      "pt": ["abacaxi", "abacaxi | comida | fome | fruta"],
+      "it": [
+        "ananas",
+        "ananas | cibo | frutta | frutto | pina colada | tropicale"
+      ],
+      "ro": [
+        "ananas",
+        "ananas | colada | exotic | fruct | fructe | pina | tropical"
+      ],
+      "he": ["אננס", "אננס | טרופי | פרי"],
+      "ar": ["أناناس", "أناناس | فاكهة | فواكه"],
+      "tr": ["ananas", "ananas | gıda | meyve | tropik"],
+      "vi": ["dứa", "dứa | hoa quả | nhiệt đới"],
+      "nl": ["ananas", "ananas | eten | fruit | tropisch | voedsel"]
+    }
+  ],
+  "🍎": [
+    "other",
+    "red apple",
+    {
+      "en": ["red apple", "apple | diet | food | fruit | health | red | ripe"],
+      "ru": ["красное яблоко", "зрелое | красное | фрукт | яблоко"],
+      "pl": [
+        "czerwone jabłko",
+        "czerwone | jabłko | jedzenie | owoc | słodkie"
+      ],
+      "fr": ["pomme rouge", "fruit | nourriture | pomme | pomme rouge"],
+      "de": ["roter Apfel", "Apfel | Frucht | Obst | rot | roter Apfel"],
+      "es": ["manzana roja", "fruta | manzana | poma | roja"],
+      "pt": ["maçã vermelha", "fruta | maçã | vermelha"],
+      "it": ["mela rossa", "cibo | dieta | frutta | frutto | mela | rossa"],
+      "ro": [
+        "măr roșu",
+        "copt | dietă | fruct | fructe | măr | roșu | sănătate | sănătos"
+      ],
+      "he": ["תפוח אדום", "אדום | אוכל | מזון | פרי | תפוח"],
+      "ar": ["تفاح أحمر", "تفاح | تفاح أحمر | تفاحة | فاكهة | فواكه"],
+      "tr": ["kırmızı elma", "elma | gıda | kırmızı | meyve"],
+      "vi": ["táo đỏ", "đỏ | hoa quả | táo"],
+      "nl": [
+        "rode appel",
+        "appel | dieet | fruit | gezondheid | rijp | rood | voedsel"
+      ]
+    }
+  ],
+  "🍏": [
+    "other",
+    "green apple",
+    {
+      "en": ["green apple", "apple | fruit | green"],
+      "ru": ["зеленое яблоко", "зеленое | фрукт | яблоко"],
+      "pl": [
+        "zielone jabłko",
+        "jabłko | jedzenie | owoc | zielone jabłko | zielone jabłuszko"
+      ],
+      "fr": ["pomme verte", "fruit | nourriture | pomme | pomme verte"],
+      "de": [
+        "grüner Apfel",
+        "Apfel | Frucht | gesund | grün | grüner Apfel | Obst"
+      ],
+      "es": ["manzana verde", "fruta | manzana | poma | verde"],
+      "pt": ["maçã verde", "comida | fome | fruta | maçã | verde"],
+      "it": ["mela verde", "cibo | dieta | frutta | frutto | mela | verde"],
+      "ro": ["măr verde", "fruct | fructe | măr | verde"],
+      "he": ["תפוח ירוק", "ירוק | פרי | תפוח"],
+      "ar": ["تفاح أخضر", "تفاح | تفاح أخضر | فاكهة | فواكه"],
+      "tr": ["yeşil elma", "ekşi elma | elma | gıda | meyve | yeşil | yiyecek"],
+      "vi": ["táo xanh", "hoa quả | táo | xanh"],
+      "nl": ["groene appel", "appel | fruit | groen"]
+    }
+  ],
+  "🍐": [
+    "other",
+    "pear",
+    {
+      "en": ["pear", "fruit | pear"],
+      "ru": ["груша", "груша | фрукт"],
+      "pl": ["gruszka", "gruszka | jedzenie | owoc"],
+      "fr": ["poire", "fruit | nourriture | poire"],
+      "de": ["Birne", "Birne | Frucht | Obst"],
+      "es": ["pera", "fruta | pera | perilla"],
+      "pt": ["pera", "comida | fome | fruta | pera"],
+      "it": ["pera", "cibo | frutta | frutto | pera"],
+      "ro": ["pară", "fruct | fructe | pară"],
+      "he": ["אגס", "אגס | פרי"],
+      "ar": ["كمثرى", "إجاص | فاكهة | فواكه | كمثرى | نجاص"],
+      "tr": ["armut", "armut | ayı | gıda | meyve"],
+      "vi": ["lê", "hoa quả | lê"],
+      "nl": ["peer", "fruit | peer"]
+    }
+  ],
+  "🍑": [
+    "other",
+    "peach",
+    {
+      "en": ["peach", "fruit | peach"],
+      "ru": ["персик", "нектарин | персик | фрукт"],
+      "pl": ["brzoskwinia", "brzoskwinia | jedzenie | owoc"],
+      "fr": ["pêche", "fruit | nourriture | pêche"],
+      "de": ["Pfirsich", "Frucht | Obst | Pfirsich"],
+      "es": ["melocotón", "durazno | fruta | melocotón"],
+      "pt": ["pêssego", "fruta | pêssego"],
+      "it": ["pesca", "cibo | frutta | frutto | pesca"],
+      "ro": ["piersică", "fruct | fructe | piersică"],
+      "he": ["אפרסק", "אפרסק | פרי"],
+      "ar": ["خوخ", "خوخ | دراق | درانقة | فاكهة | فواكه"],
+      "tr": ["şeftali", "gıda | meyve | şeftali"],
+      "vi": ["đào", "đào | hoa quả"],
+      "nl": ["perzik", "fruit | perzik"]
+    }
+  ],
+  "🍒": [
+    "other",
+    "cherries",
+    {
+      "en": ["cherries", "berries | cherries | cherry | fruit | red"],
+      "ru": [
+        "вишня",
+        "вишни | вишня | дерево | плоды | фрукт | черешни | черешня"
+      ],
+      "pl": ["wiśnie", "czereśnie | jedzenie | owoce | wiśnie"],
+      "fr": ["cerises", "cerise | cerises | fruit | nourriture"],
+      "de": ["Kirschen", "Frucht | Kirsche | Kirschen | Obst"],
+      "es": ["cerezas", "cereza | cerezas | fruta | guindas"],
+      "pt": ["cereja", "cereja | comida | fome | fruta | frutas vermelhas"],
+      "it": ["ciliegie", "cibo | ciliegia | ciliegie | frutta | frutto"],
+      "ro": [
+        "cireșe",
+        "cireașă | cireșe | fruct | fructe | lux | roșu | scump"
+      ],
+      "he": ["דובדבנים", "דובדבן | דובדבנים | פרי"],
+      "ar": ["كرز", "فاكهة | فواكه | كرز"],
+      "tr": ["kiraz", "gıda | kiraz | meyve"],
+      "vi": [
+        "anh đào",
+        "anh đào | hoa quả | màu đỏ | quả mọng | thực vật | trái cây"
+      ],
+      "nl": ["kersen", "bessen | fruit | kers | kersen | rood"]
+    }
+  ],
+  "🍓": [
+    "other",
+    "strawberry",
+    {
+      "en": ["strawberry", "berry | fruit | strawberry"],
+      "ru": ["клубника", "земляника | клубника | ягода"],
+      "pl": ["truskawka", "jedzenie | owoc | truskawka"],
+      "fr": ["fraise", "fraise | fruit | nourriture"],
+      "de": ["Erdbeere", "Beere | Erdbeere | Essen | Frucht | Obst"],
+      "es": ["fresa", "fresa | fresón | fruta"],
+      "pt": ["morango", "comida | fome | fruta | frutas vermelhas | morango"],
+      "it": ["fragola", "cibo | fragola | frutta | frutto | rosso"],
+      "ro": ["căpșună", "bacă | căpșună | fruct | fructe"],
+      "he": ["תות שדה", "פרי | תות | תות שדה"],
+      "ar": ["فراولة", "فاكهة | فراولة | فريز | فواكه"],
+      "tr": ["çilek", "çilek | gıda | meyve | yumuşak meyve"],
+      "vi": ["dâu tây", "dâu tây | quả mọng | trái cây"],
+      "nl": ["aardbei", "aardbei | bes | fruit"]
+    }
+  ],
+  "🍔": [
+    "other",
+    "hamburger",
+    {
+      "en": ["hamburger", "burger | eat | fast | food | hamburger | hungry"],
+      "ru": ["гамбургер", "бургер | бутерброд | гамбургер | сэндвич | фастфуд"],
+      "pl": ["hamburger", "bułka | burger | fast food | hamburger | jedzenie"],
+      "fr": [
+        "hamburger",
+        "burger | cheeseburger | fast food | hamburger | nourriture"
+      ],
+      "de": ["Hamburger", "Burger | Fast Food | Hamburger | Restaurant"],
+      "es": ["hamburguesa", "burger | hamburguesa"],
+      "pt": [
+        "hambúrguer",
+        "búrguer | cheese burguer | hambúrguer | restaurante"
+      ],
+      "it": [
+        "hamburger",
+        "burger | cibo | fast food | hamburger | panino | ristorante | sandwich"
+      ],
+      "ro": [
+        "hamburger",
+        "burger | carne | fast food | foame | hamburger | mâncare"
+      ],
+      "he": ["המבורגר", "בשר | המבורגר | לחמניה"],
+      "ar": ["همبرغر", "برغر | جوع | جوعان | جيعان | مطعم | همبرغر | همبورغر"],
+      "tr": [
+        "hamburger",
+        "çizburger | gıda | hamburger | restoran | yemek | yiyecek"
+      ],
+      "vi": ["bánh hamburger", "bánh hamburger | bánh kẹp"],
+      "nl": ["hamburger", "burger | eten | fastfood | hamburger | honger"]
+    }
+  ],
+  "🍕": [
+    "other",
+    "slice of pizza",
+    {
+      "en": ["pizza", "cheese | food | hungry | pepperoni | pizza | slice"],
+      "ru": ["пицца", "кусок | кусок пиццы | перекус | пицца | сыр"],
+      "pl": ["pizza", "fast food | jedzenie | kawałek | pizza | pizzy"],
+      "fr": [
+        "pizza",
+        "fromage | nourriture | part | pepperoni | pizza | tranche"
+      ],
+      "de": ["Pizza", "Pizza | Pizzastück | Pizzeria"],
+      "es": ["pizza", "pizza | porción | restaurante"],
+      "pt": ["pizza", "fatia | pizza | restaurante"],
+      "it": [
+        "pizza",
+        "cena | cibo | fame | fetta | fetta di pizza | pizza | pizzeria | ristorante"
+      ],
+      "ro": [
+        "pizza",
+        "brânză | fast food | felie | foame | mâncare | pepperoni | pizza"
+      ],
+      "he": ["פיצה", "משולש | פיצה"],
+      "ar": ["بيتزا", "أكل | بيتزا | طعام | مطعم"],
+      "tr": [
+        "pizza dilimi",
+        "dilim | gıda | peynirli pizza | pizza | pizza dilimi | restoran | yiyecek"
+      ],
+      "vi": ["bánh pizza", "bánh pizza | lát | phô mai"],
+      "nl": ["pizzapunt", "eten | honger | kaas | pepperoni | pizza | punt"]
+    }
+  ],
+  "🍖": [
+    "other",
+    "meat on bone",
+    {
+      "en": ["meat on bone", "bone | meat"],
+      "ru": ["мясо на косточке", "кость | мясо | мясо на косточке | рулька"],
+      "pl": ["mięso z kością", "jedzenie | kość | mięso | mięso z kością"],
+      "fr": ["viande sur un os", "nourriture | os | viande | viande sur un os"],
+      "de": ["Fleischhachse", "Fleisch | Fleischhachse | Knochen | Restaurant"],
+      "es": [
+        "carne con hueso",
+        "carne | carne con hueso | hueso | restaurante"
+      ],
+      "pt": [
+        "carne",
+        "carne | carne com osso | carne no osso | churras | churrasco | osso | restaurante"
+      ],
+      "it": [
+        "carne",
+        "barbecue | carne | carne con osso | cibo | fame | osso | ristorante"
+      ],
+      "ro": ["os cu carne", "carne | os | os cu carne"],
+      "he": ["בשר על עצם", "בשר | בשר על עצם | עצם"],
+      "ar": ["لحم بعظم", "عضم | عظم | لحم | لحم بعظم"],
+      "tr": ["kemikli et", "et | gıda | kemikli et | restoran | yemek"],
+      "vi": ["thịt bám xương", "thịt | thịt bám xương | xương"],
+      "nl": ["vlees met bot", "bot | vlees"]
+    }
+  ],
+  "🍗": [
+    "other",
+    "poultry leg",
+    {
+      "en": [
+        "poultry leg",
+        "bone | chicken | drumstick | hungry | leg | poultry | turkey"
+      ],
+      "ru": [
+        "куриная ножка",
+        "еда | кость | куриная ножка | курица | нога | окорочок | птица"
+      ],
+      "pl": [
+        "udko kurczaka",
+        "jedzenie | kurczak | mięso | nóżka | udko | udko kurczaka"
+      ],
+      "fr": [
+        "cuisse de poulet",
+        "cuisse | cuisse de poulet | dinde | nourriture | os | poulet | volaille"
+      ],
+      "de": [
+        "Hähnchenschenkel",
+        "Fleisch | Geflügel | Hähnchenschenkel | Hühnerbein | Restaurant"
+      ],
+      "es": ["muslo de pollo", "muslo | muslo de pollo | pollo | restaurante"],
+      "pt": [
+        "coxa de frango",
+        "aves | comida | coxa | coxa de frango | coxinha | fome | osso | peru | restaurante"
+      ],
+      "it": [
+        "coscia di pollo",
+        "carne | cibo | coscia | coscia di pollo | coscia di tacchino | fame | osso | pollo | ristorante | tacchino"
+      ],
+      "ro": [
+        "pulpă de pasăre",
+        "aliment | ciocănel | copan de pui | copănele | curcan | foame | os | pasăre | pui | pulpă | pulpă de pasăre | pulpă de pui"
+      ],
+      "he": ["שוק", "כרעיים | עוף | פולקע | שוק"],
+      "ar": [
+        "ساق دجاجة",
+        "جوع | جوعان | جيعان | حبش | دجاجة | ساق دجاجة | عظم | فخذ دجاج"
+      ],
+      "tr": [
+        "tavuk butu",
+        "but | gıda | restoran | tavuk | tavuk butu | yemek"
+      ],
+      "vi": [
+        "đùi gia cầm",
+        "chân | đói | đùi gà | gà | gà tây | gia cầm | xương"
+      ],
+      "nl": [
+        "kippenpoot",
+        "bot | gevogelte | honger | kalkoen | kip | kippenpoot | poot"
+      ]
+    }
+  ],
+  "🍘": [
+    "other",
+    "rice cracker",
+    {
+      "en": ["rice cracker", "cracker | food | rice"],
+      "ru": ["рисовый крекер", "крекер | рис | рисовый крекер"],
+      "pl": ["krakers ryżowy", "jedzenie | krakers | ryż | ryżowy"],
+      "fr": ["galette de riz", "cracker | galette de riz | nourriture | riz"],
+      "de": ["Reiscracker", "Cracker | Reiscracker"],
+      "es": ["galleta de arroz", "arroz | galleta | galleta de arroz"],
+      "pt": [
+        "biscoito de arroz",
+        "arroz | biscoito de arroz | bolacha de arroz | cracker"
+      ],
+      "it": ["galletta di riso", "cibo | galletta di riso | riso"],
+      "ro": ["biscuit de orez", "biscuit | biscuit de orez | mâncare | orez"],
+      "he": ["פריכית אורז", "אורז | פריכיות | פריכית אורז"],
+      "ar": [
+        "مقرمشات أرز",
+        "أرز | أكل | رز | طعام | قراقيش أرز | كراكرز | مقرمشات أرز"
+      ],
+      "tr": ["pirinç gevreği", "gıda | pirinç | pirinç gevreği | yemek"],
+      "vi": ["bánh gạo", "bánh quy giòn | gạo | thực phẩm"],
+      "nl": ["rijstwafel", "cracker | eten | rijst"]
+    }
+  ],
+  "🍙": [
+    "other",
+    "rice ball",
+    {
+      "en": ["rice ball", "ball | food | Japanese | rice"],
+      "ru": [
+        "онигири",
+        "онигири | рис | рисовый шар | рисовый шарик | шарик | япония"
+      ],
+      "pl": ["kulka ryżowa", "jedzenie | kulka | onigiri | ryż | ryżowa"],
+      "fr": [
+        "boulette de riz",
+        "boulette de riz | japonais | nourriture | onigiri | plat | riz"
+      ],
+      "de": ["Reisbällchen", "Essen | japanisch | Reis | Reisbällchen"],
+      "es": [
+        "bola de arroz",
+        "arroz | bola de arroz | japonés | onigiri | restaurante"
+      ],
+      "pt": [
+        "arroz japonês",
+        "arroz | bolinho de arroz | comida | fome | japonês | onigiri | restaurante"
+      ],
+      "it": [
+        "onigiri",
+        "arancino di riso | arancino di riso giapponese | cibo | giapponese | onigiri | orientale | polpetta di riso giapponese | riso | ristorante"
+      ],
+      "ro": [
+        "chifteluțe de orez",
+        "chifteluțe | chifteluțe de orez | gălușcă de orez | găluște de orez | japonez | japonia | Japonia | mâncare | orez | perișoare"
+      ],
+      "he": ["כדור אורז", "אורז | יפני | כדור"],
+      "ar": ["كرة أرز", "أرز | أكل | رز | طعام | كرة أرز | مطعم | ياباني"],
+      "tr": [
+        "pirinç topu",
+        "gıda | onigiri | pirinç | pirinç topu | restoran | yemek | yiyecek"
+      ],
+      "vi": ["cơm nắm", "cơm | cơm nắm | nhật bản"],
+      "nl": ["rijstballetje", "balletje | eten | Japans | rijst"]
+    }
+  ],
+  "🍚": [
+    "other",
+    "cooked rice",
+    {
+      "en": ["cooked rice", "cooked | food | rice"],
+      "ru": [
+        "рис",
+        "вареный | гарнир | еда | миска | обед | плошка | рис | тарелка | чашка"
+      ],
+      "pl": ["gotowany ryż", "gotowany | jedzenie | miseczka | ryż | z ryżem"],
+      "fr": ["bol de riz", "bol de riz | nourriture | riz"],
+      "de": ["Reis in Schüssel", "Essen | Reis | Reis in Schüssel"],
+      "es": ["arroz cocido", "arroz | arroz cocido | restaurante"],
+      "pt": [
+        "arroz cozido",
+        "arroz | arroz cozido | comida | fome | restaurante"
+      ],
+      "it": [
+        "riso bollito",
+        "cibo | cinese | riso | riso bollito | ristorante"
+      ],
+      "ro": ["orez gătit", "mâncare | orez | orez gătit | preparare"],
+      "he": ["אורז מבושל", "אוכל | אורז | מבושל | מזון | קערת אורז"],
+      "ar": ["أرز مطبوخ", "أرز | أرز مطبوخ | أكل | رز | طعام | مطعم"],
+      "tr": ["pilav", "gıda | pilav | pirinç | restoran"],
+      "vi": ["cơm", "cơm | gạo | nấu chín"],
+      "nl": ["gekookte rijst", "gekookt | rijst | voedsel"]
+    }
+  ],
+  "🍛": [
+    "other",
+    "curry and rice",
+    {
+      "en": ["curry rice", "curry | food | rice"],
+      "ru": ["рис с карри", "карри | обед | рис | рис с карри"],
+      "pl": ["ryż curry", "curry | jedzenie | ryż | sos | z sosem"],
+      "fr": ["riz au curry", "curry | nourriture | riz | riz au curry"],
+      "de": ["Reis mit Curry", "Curry | Reis | Reis mit Curry"],
+      "es": [
+        "arroz con curry",
+        "arroz | arroz con curry | curry | restaurante"
+      ],
+      "pt": [
+        "arroz com curry",
+        "arroz | arroz com curry | curry | curry e arroz | restaurante"
+      ],
+      "it": [
+        "riso al curry",
+        "cibo | curry | India | indiano | riso | riso al curry | ristorante"
+      ],
+      "ro": [
+        "orez cu curry",
+        "condiment | curry | mâncare | orez | orez cu curry"
+      ],
+      "he": ["אורז קארי", "אורז | קארי"],
+      "ar": [
+        "أرز وكاري",
+        "أرز | أرز وكاري | أكل | رز | رز بالكاري | طعام | كاري | كبسة | مطعم | هندي"
+      ],
+      "tr": [
+        "körili pilav",
+        "gıda | köri | körili pilav | pirinç | restoran | yemek"
+      ],
+      "vi": ["cơm cà ri", "cà ri | cơm | cơm cà ri"],
+      "nl": ["curry en rijst", "curry | rijst | voedsel"]
+    }
+  ],
+  "🍜": [
+    "other",
+    "steaming bowl",
+    {
+      "en": [
+        "steaming bowl",
+        "bowl | chopsticks | food | noodle | pho | ramen | soup | steaming"
+      ],
+      "ru": ["лапша", "доширак | лапша | локшина | миска | обед | пар | чашка"],
+      "pl": [
+        "miska parującego jedzenia",
+        "jedzenie | kluski | miska | parująca | parujące | pho | ramen | zupa"
+      ],
+      "fr": [
+        "bol fumant",
+        "bol | bol fumant | nouilles | nourriture | ramen | vapeur"
+      ],
+      "de": [
+        "Schüssel und Essstäbchen",
+        "chinesisches Essen | dampfend | Eiernudeln | Nudeln | Schüssel | Schüssel und Essstäbchen | Stäbchen | Suppe"
+      ],
+      "es": [
+        "tazón de fideos",
+        "fideos calientes | fideos chinos | fideos ramen | ramen | tazón de fideos"
+      ],
+      "pt": [
+        "lámen",
+        "comida | fome | lámen | macarrão | miojo | quentinha | ramen | restaurante | sopa | tigela | tigela de macarrão"
+      ],
+      "it": [
+        "ciotola fumante",
+        "bacchette | cibo | cinese | ciotola di noodle | ciotola fumante | giapponese | noodle | pho | piatto caldo | ramen | ristorante"
+      ],
+      "ro": [
+        "castron aburind",
+        "bețișoare | bol | castron | castron aburind | fierbinte | mâncare | pho | ramen | supă | tăiței"
+      ],
+      "he": [
+        "קערה מהבילה",
+        "אוכל | אטריות | מוקפץ | נודלס | סיני | קערה מהבילה | ראמן | תאילנדי"
+      ],
+      "ar": [
+        "سلطانية البخار",
+        "أكل | أكل ياباني | حساء | رامن | سلطانية البخار | شوبستكس | شوربا | شوربة | طعام | مطعم | معكرونة | مكرونة | نودلز"
+      ],
+      "tr": [
+        "erişte",
+        "buharda pişmiş | erişte | gıda | makarna | noodle | noodle tabağı | restoran | tabak"
+      ],
+      "vi": [
+        "bát mì",
+        "bát | đũa | mỳ | mỳ ramen | nóng hổi | phở | súp | thức ăn"
+      ],
+      "nl": [
+        "dampende kom",
+        "chopsticks | dampend | eten | kom | noedels | pho | ramen | soep"
+      ]
+    }
+  ],
+  "🍝": [
+    "other",
+    "spaghetti",
+    {
+      "en": ["spaghetti", "food | meatballs | pasta | restaurant | spaghetti"],
+      "ru": [
+        "спагетти",
+        "вермишель | лапша | макаронные изделия | макароны | паста | спагетти"
+      ],
+      "pl": [
+        "spaghetti",
+        "jedzenie | kluski | makaron | pasta | spagetti | spaghetti"
+      ],
+      "fr": [
+        "spaghetti",
+        "italien | nourriture | pâtes | restaurant | sauce bolognaise | spaghetti"
+      ],
+      "de": [
+        "Spaghetti",
+        "Essse | Nudeln mit Tomatensoße | Pasta | Restaurant | Spaghetti"
+      ],
+      "es": ["espagueti", "espagueti | pasta | restaurante"],
+      "pt": [
+        "espaguete",
+        "comida | espaguete | fome | italiano | macarrão | macarronada | restaurante"
+      ],
+      "it": [
+        "spaghetti",
+        "cena | cibo | cucina | cucinare | fame | pasta | pranzo | puttanesca | ragù | ristorante | spaghetti"
+      ],
+      "ro": [
+        "spaghete",
+        "chiftele | italia | mâncare | mâncare italienească | paste | restaurant | spaghete"
+      ],
+      "he": ["ספגטי", "מקרוני | ספגטי | פסטה"],
+      "ar": [
+        "سباغتي",
+        "أكل | إيطالي | باستا | سباغتي | طعام | طلياني | مطعم | معكرونة | مكرونة"
+      ],
+      "tr": ["spagetti", "gıda | makarna | restoran | spagetti | yemek"],
+      "vi": ["spaghetti", "nhà hàng | pasta | spaghetti | thịt viên | thức ăn"],
+      "nl": [
+        "spaghetti",
+        "eten | gehaktballen | pasta | restaurant | spaghetti"
+      ]
+    }
+  ],
+  "🍞": [
+    "other",
+    "bread",
+    {
+      "en": [
+        "bread",
+        "bread | carbs | food | grain | loaf | restaurant | toast | wheat"
+      ],
+      "ru": ["хлеб", "батон | буханка | хлеб"],
+      "pl": [
+        "chleb",
+        "bochenek | chleb | chleba | jedzenie | kawałek | pieczywo"
+      ],
+      "fr": ["pain", "miche | nourriture | pain | pain de mie"],
+      "de": [
+        "Brot",
+        "Brot | Brotlaib | Essen | Kohlenhydrate | Laib Brot | Toast | Weißbrot | Weizen"
+      ],
+      "es": ["pan de molde", "pan | pan de molde | rebanada | tostada"],
+      "pt": [
+        "pão",
+        "pão | pão de forma | pão para fatiar | restaurante | torrada | tostex"
+      ],
+      "it": [
+        "pane in cassetta",
+        "carboidrati | cereali | cibo | pancarré | pane | pane a cassetta | pane in cassetta | ristorante | toast"
+      ],
+      "ro": [
+        "pâine",
+        "aliment | carbohidrați | făină | franzelă | glucide | mâncare | pâine | restaurant | toast"
+      ],
+      "he": ["לחם", "אוכל | כיכר | לחם | מזון"],
+      "ar": ["خبز", "توست | خبز | رغيف | عيش | قمح | مطعم"],
+      "tr": [
+        "ekmek",
+        "ekmek | ekmek dilimi | gıda | kahvaltı | restoran | yemek"
+      ],
+      "vi": [
+        "bánh mì",
+        "bánh mì | bánh mì nướng | lúa mì | ngũ cốc | nhà hàng | ổ bánh mì | thực phẩm | tinh bột"
+      ],
+      "nl": ["brood", "brood | eten | koolhydraten | tarwe | voedsel"]
+    }
+  ],
+  "🍟": [
+    "other",
+    "french fries",
+    {
+      "en": ["french fries", "fast | food | french | fries"],
+      "ru": ["картофель фри", "картофель | картошка | фастфуд | фри"],
+      "pl": ["frytki", "fast food | frytki | jedzenie"],
+      "fr": ["frites", "fast food | frites | potatoes | potatœs"],
+      "de": [
+        "Pommes frites",
+        "Fritten | Pommes | Pommes frites | Pommes Frites"
+      ],
+      "es": [
+        "patatas fritas",
+        "papas fritas | patatas | patatas fritas | restaurante"
+      ],
+      "pt": [
+        "batata frita",
+        "batata frita | comida | fast food | fome | fritas | lanchonete | restaurante"
+      ],
+      "it": ["patatine", "cibo | patatine | patatine fritte | ristorante"],
+      "ro": [
+        "cartofi prăjiți",
+        "cartofi | cartofi prăjiți | fast food | french fries | mâncare"
+      ],
+      "he": ["צ׳יפס", "טוגנים | צ׳יפס | ציפס"],
+      "ar": [
+        "بطاطس مقلية",
+        "بطاطا | بطاطس مقلية | فاست فود | ماك دونالد | ماكدو | مطعم"
+      ],
+      "tr": [
+        "patates kızartması",
+        "gıda | kızartma patates | McDonald’s | patates kızartması | restoran"
+      ],
+      "vi": [
+        "khoai tây chiên",
+        "đồ ăn | đồ ăn nhanh | khoai tây chiên | kiểu pháp"
+      ],
+      "nl": ["patat", "eten | fastfood | frans | frietjes"]
+    }
+  ],
+  "🍠": [
+    "other",
+    "roasted sweet potato",
+    {
+      "en": ["roasted sweet potato", "food | potato | roasted | sweet"],
+      "ru": [
+        "печеный сладкий картофель",
+        "батат | картофель | картошка | печеный сладкий картофель | сладкий картофель"
+      ],
+      "pl": [
+        "pieczony batat",
+        "batat | jedzenie | pieczony | słodki ziemniak | ziemniak"
+      ],
+      "fr": [
+        "patate douce",
+        "nourriture | patate | patate douce | patate douce au four"
+      ],
+      "de": [
+        "geröstete Süßkartoffel",
+        "Essen | Gemüse | geröstet | Süßkartoffel"
+      ],
+      "es": ["patata asada", "asada | papa asada | patata | restaurante"],
+      "pt": [
+        "batata assada",
+        "assada | batata | batata-doce | doce | restaurante"
+      ],
+      "it": [
+        "patata dolce arrosto",
+        "arrosto | cibo | dolce | ortaggio | patata | verdura"
+      ],
+      "ro": ["cartof dulce copt", "cartof | copt | dulce | mâncare"],
+      "he": ["בטטה צלויה", "בטטה | צלויה | תפו״א | תפוח אדמה"],
+      "ar": [
+        "بطاطا حلوة مشوية",
+        "بطاطا حلوة مشوية | بطاطا مشوية | بطاطا معسلة | بطاطس | مطعم"
+      ],
+      "tr": [
+        "fırınlanmış patates",
+        "fırınlanmış patates | fırınlanmış tatlı patates | gıda | restoran | tatlı | tatlı patates | tırınlanmış"
+      ],
+      "vi": [
+        "khoai lang nướng",
+        "đồ ăn | khoai | khoai lang nướng | ngọt | nướng"
+      ],
+      "nl": ["gepofte zoete aardappel", "aardappel | eten | gepoft | zoet"]
+    }
+  ],
+  "🍡": [
+    "other",
+    "dango",
+    {
+      "en": ["dango", "dango | dessert | Japanese | skewer | stick | sweet"],
+      "ru": [
+        "данго",
+        "данго | десерт | конфета | леденец | мороженое на палочке | на палочке | сладости | сладость | японский"
+      ],
+      "pl": ["dango", "dango | deser | jedzenie | kulki mochi | mochi"],
+      "fr": [
+        "brochette de bonbons",
+        "bonbons | brochette de bonbons | dango | dessert | japonais | nourriture"
+      ],
+      "de": [
+        "Dango",
+        "Dango | japanisches Gericht | Mochi-Kugeln auf einem Spieß | Restaurant"
+      ],
+      "es": ["dango", "dango | japonés | pincho | postre | restaurante"],
+      "pt": [
+        "dango",
+        "bolinho de mochi | bolinho de mochi no espetinho | bolinho japonês | comida | dango | doce | fome | japonês | mochi | mochiko | sobremesa"
+      ],
+      "it": [
+        "dango",
+        "dango | dolce | dolcetto | palline di mochi | ristorante | spiedino di mochi"
+      ],
+      "ro": [
+        "găluște japoneze pe băț",
+        "băț | desert | dulce | dulciuri | frigărui | frigăruie | gălușcă japoneză dango | găluște japoneze pe băț | japonia | Japonia"
+      ],
+      "he": ["שיפוד כופתאות", "יפני | מתוק | קינוח | שיפוד | שיפוד כופתאות"],
+      "ar": [
+        "حلوى الدانغو",
+        "حلو | حلو ياباني | حلوى | حلوى الدانغو | حلوى من الأرز | حلويات | شيش"
+      ],
+      "tr": [
+        "pirinç tatlısı",
+        "çubukta pirinç tatlısı topları | dango | gıda | Japon pirinç tatlısı | pirinç tatlısı | pirinç tatlısı topları | restoran | tatlı"
+      ],
+      "vi": [
+        "bánh trôi Nhật Bản",
+        "bánh trôi Nhật Bản | món kiểu nhật bản | món tráng miệng | ngọt | que"
+      ],
+      "nl": ["dango", "dango | dessert | Japans | spies | stokje | zoet"]
+    }
+  ],
+  "🍢": [
+    "other",
+    "oden",
+    {
+      "en": [
+        "oden",
+        "food | kebab | oden | restaurant | seafood | skewer | stick"
+      ],
+      "ru": [
+        "одэн",
+        "закуска | на палочке | одэн | шашлык | шашлычок из морепродуктов"
+      ],
+      "pl": ["oden", "jedzenie | na patyku | oden | owoce morza | szaszłyk"],
+      "fr": [
+        "brochette de poisson",
+        "brochette | brochette de poisson | fruits de mer | nourriture | restaurant"
+      ],
+      "de": ["Oden", "japanisches Gericht | Oden | Restaurant"],
+      "es": ["brocheta", "brocheta | japonés | marisco | oden | pincho"],
+      "pt": [
+        "oden",
+        "espetinho | frutos do mar | frutos do mar no espetinho | oden | restaurante"
+      ],
+      "it": [
+        "oden giapponese",
+        "cibo | cucina | kebab | oden | oden giapponese | pesce | ristorante | spiedino | spiedino di pesce"
+      ],
+      "ro": [
+        "frigăruie japoneză",
+        "băț | frigărui | frigăruie | frigăruie japoneză | fructe de mare | kebab | mâncare | oden | restaurant"
+      ],
+      "he": ["שיפוד", "אוכל | מנגל | על האש | קבב | שיפוד"],
+      "ar": ["طعام مشكل", "أودين | طعام مشكل | كباب | مشاوي | مطعم"],
+      "tr": [
+        "oden",
+        "çubuk | çubukta deniz ürünleri | gıda | kebap | oden | restoran | şiş kebap"
+      ],
+      "vi": ["món oden", "hải sản | kẹp | món oden | que | xiên"],
+      "nl": [
+        "oden",
+        "eten | kebab | oden | restaurant | spies | stokje | zeevruchten"
+      ]
+    }
+  ],
+  "🍣": [
+    "other",
+    "sushi",
+    {
+      "en": ["sushi", "food | sushi"],
+      "ru": ["суши", "кухня | суши | япония"],
+      "pl": ["sushi", "jedzenie | sushi | suszi"],
+      "fr": ["sushi", "japonais | nourriture | poisson | riz | sushi"],
+      "de": ["Sushi", "japanisches Gericht | Restaurant | Sushi"],
+      "es": ["sushi", "restaurante | sushi"],
+      "pt": [
+        "sushi",
+        "comida japonesa | restaurante | restaurante japonês | sashimi | sushi"
+      ],
+      "it": [
+        "sushi",
+        "cibo | cucina | giapponese | riso | ristorante | salmone | sushi"
+      ],
+      "ro": ["sushi", "mâncare | sushi"],
+      "he": ["סושי", "אוכל | יפני | סושי"],
+      "ar": ["سوشي", "أكل | أكل ياباني | سوشي | طعام | مطعم"],
+      "tr": [
+        "suşi",
+        "çiğ balık | gıda | japon | restoran | sushi | suşi | suşi nigiri"
+      ],
+      "vi": ["sushi", "sushi | thực phẩm"],
+      "nl": ["sushi", "eten | sushi"]
+    }
+  ],
+  "🍤": [
+    "other",
+    "fried shrimp",
+    {
+      "en": ["fried shrimp", "fried | prawn | shrimp | tempura"],
+      "ru": [
+        "жареная креветка",
+        "жареная креветка | креветка | креветки | темпура"
+      ],
+      "pl": ["smażona krewetka", "jedzenie | krewetka | smażona | tempura"],
+      "fr": ["beignet de crevette", "beignet de crevette | crevette"],
+      "de": [
+        "frittierte Garnele",
+        "frittierte Garnele | Frittierte Garnele | Garnele | Restaurant | tempura"
+      ],
+      "es": ["gamba frita", "frito | gamba | gamba frita | restaurante"],
+      "pt": [
+        "camarão frito",
+        "camarão | camarão empanado | camarão frito | restaurante | tempura"
+      ],
+      "it": [
+        "gambero fritto",
+        "cibo | gamberetto | gambero | gambero fritto | ristorante | tempura"
+      ],
+      "ro": ["crevete prăjit", "crevete | prăjire | prăjit | tempura"],
+      "he": ["שרימפ מטוגן", "טמפורה | מטוגן | פירות ים | שרימפ מטוגן | שרימפס"],
+      "ar": ["جمبري مقلي", "تامبورا | جمبري | قريدس | مطعم | مقلي"],
+      "tr": [
+        "kızarmış karides",
+        "deniz ürünü | gıda | karides | kızarmış karides | restoran | yiyecek"
+      ],
+      "vi": ["tôm chiên", "chiên | món sốt cá cua tôm | tôm | tôm hùm"],
+      "nl": ["gefrituurde garnaal", "garnaal | garnalen | gefrituurd | tempura"]
+    }
+  ]
+}

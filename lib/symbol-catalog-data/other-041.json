@@ -1,0 +1,2931 @@
+{
+  "📎": [
+    "other",
+    "paperclip",
+    {
+      "en": ["paperclip", "paperclip"],
+      "ru": ["скрепка", "бумаги | канцелярия | скрепить | скрепка"],
+      "pl": ["spinacz", "biuro | do papieru | druciany | spinać | spinacz"],
+      "fr": ["trombone", "fournitures | trombone"],
+      "de": ["Büroklammer", "Büroklammer"],
+      "es": ["clip", "clip"],
+      "pt": ["clipe de papel", "clipe | clipe de papel"],
+      "it": [
+        "graffetta",
+        "clippy | fermaglio | graffa | graffetta | paperclip | ufficio"
+      ],
+      "ro": ["agrafă de hârtie", "agrafă | agrafă de birou | agrafă de hârtie"],
+      "he": ["אטב נייר", "אטב נייר | מהדק"],
+      "ar": ["مشبك ورق", "اتاش | مشبك | مشبك ورق"],
+      "tr": ["ataş", "ataş | klips"],
+      "vi": ["kẹp giấy", "kẹp giấy"],
+      "nl": ["paperclip", "clip | paperclip"]
+    }
+  ],
+  "📏": [
+    "other",
+    "straight ruler",
+    {
+      "en": [
+        "straight ruler",
+        "angle | edge | math | ruler | straight | straightedge"
+      ],
+      "ru": ["линейка", "измерение | линейка | прямая"],
+      "pl": ["linijka", "krawędź | linia | linijka | prosta"],
+      "fr": ["règle", "fournitures | mathématiques | règle | règle plate"],
+      "de": ["Lineal", "Lineal"],
+      "es": ["regla", "regla"],
+      "pt": ["régua reta", "régua | régua reta"],
+      "it": [
+        "righello",
+        "geometria | matematica | misurare | riga | righello | scuola | strumento | studiare"
+      ],
+      "ro": [
+        "riglă",
+        "linie | margine dreaptă | măsurare | matematică | riglă"
+      ],
+      "he": ["סרגל", "ישר | למדוד | מדידה | סרגל"],
+      "ar": ["مسطرة", "حافة مستوية | مسطرة"],
+      "tr": ["düz cetvel", "cetvel | düz cetvel"],
+      "vi": ["thước thẳng", "cạnh thẳng | thước kẻ | thước thẳng | toán"],
+      "nl": [
+        "liniaal",
+        "liniaal | meetinstrument | meten | rechte lijn | wiskunde"
+      ]
+    }
+  ],
+  "📐": [
+    "other",
+    "triangular ruler",
+    {
+      "en": [
+        "triangular ruler",
+        "angle | math | rule | ruler | set | slide | triangle | triangular"
+      ],
+      "ru": [
+        "линейка-треугольник",
+        "измерение | измерительный инструмент | линейка | линейка-треугольник | треугольная | треугольник | чертежный набор"
+      ],
+      "pl": ["ekierka", "ekierka | linia | linijka | prosta | trójkąt"],
+      "fr": ["équerre", "équerre | fournitures | mathématiques"],
+      "de": [
+        "dreieckiges Lineal",
+        "dreieckiges Lineal | Dreieckiges Lineal | Geodreieck | Lineal"
+      ],
+      "es": ["escuadra", "escuadra | regla | regla triangular | triángulo"],
+      "pt": [
+        "régua triangular",
+        "ângulo | geometria | matemática | régua | triangular | triângulo"
+      ],
+      "it": [
+        "squadra",
+        "angoli | geometria | matematica | misurare | righello | scuola | squadra | triangolo"
+      ],
+      "ro": [
+        "echer",
+        "echer | linie | măsurare | matematică | riglă | triunghi | unghi | unghi drept"
+      ],
+      "he": ["סרגל משולש", "הנדסה | משולש | סרגל"],
+      "ar": [
+        "مسطرة مثلثة",
+        "حساب | رياضيات | مثلث | مثلث رسم | مسطرة | مسطرة مثلثة"
+      ],
+      "tr": ["gönye", "cetvel | gönye | üçgen"],
+      "vi": ["thước tam giác", "bộ | tam giác | thước kẻ | thước tam giác"],
+      "nl": [
+        "geodriehoek",
+        "driehoek | geo | geodriehoek | liniaal | meetinstrument | meten | wiskunde"
+      ]
+    }
+  ],
+  "📑": [
+    "other",
+    "bookmark tabs",
+    {
+      "en": ["bookmark tabs", "bookmark | mark | marker | tabs"],
+      "ru": [
+        "стикеры-закладки",
+        "закладки | клеящиеся | наклейки | отметки | стикеры | стикеры-закладки"
+      ],
+      "pl": [
+        "karty zakładek",
+        "dokument | indeksujące | karta | karty | przekładka | przekładki | zakładek | zakładka | zakładki"
+      ],
+      "fr": ["signets", "marque | marqueur | onglets | signet | signets"],
+      "de": ["Pagemarker", "Notizen | Pagemarker"],
+      "es": ["marcadores", "marcadores | pestañas"],
+      "pt": ["marcadores de página", "marcador | marcar | página"],
+      "it": [
+        "etichette segnalibro",
+        "etichette segnalibro | linguette | segnalibro | ufficio"
+      ],
+      "ro": [
+        "marcatoare de pagini",
+        "hârtie | marcaj | marcatoare de pagini | marcator | semn | semn de carte"
+      ],
+      "he": [
+        "תוויות סימניה",
+        "דפים | מסמכים | ניירות | סימון | סימניה | סימניות | תוויות"
+      ],
+      "ar": [
+        "لصاقات علامات توقف قراءة",
+        "بوك مارك | تبويب | علامة | لصاقات علامات توقف قراءة | لصاقة | لصاقة علامات | مؤشر"
+      ],
+      "tr": [
+        "sayfa ayraçları",
+        "ayraçlar | işaretçi | sayfa ayraçları | sayfa işareti"
+      ],
+      "vi": ["tab dấu trang", "đánh dấu | dấu trang | tab | tab dấu trang"],
+      "nl": [
+        "bladwijzertabs",
+        "bladwijzer | bladwijzers | bladwijzertabs | markering | tabbladen | tabs"
+      ]
+    }
+  ],
+  "📒": [
+    "other",
+    "ledger",
+    {
+      "en": ["ledger", "ledger | notebook"],
+      "ru": [
+        "блокнот",
+        "блокнот | блокнотик | записная книжка | тетрадка | тетрадь"
+      ],
+      "pl": ["skoroszyt", "notatki | notatnik | skoroszyt | zeszyt | żółty"],
+      "fr": [
+        "carnet de compte",
+        "cahier | carnet de compte | classeur | grand livre"
+      ],
+      "de": ["Spiralblock", "Notizblock | Spiralblock"],
+      "es": ["libro de contabilidad", "cuaderno | libro de contabilidad"],
+      "pt": ["livro contábil", "caderno | livro contábil"],
+      "it": [
+        "quaderno ad anelli",
+        "annotazioni | appunti | blocco | block notes | libro mastro | note | quaderno | quaderno ad anelli | registro | registro scolastico | scuola | taccuino"
+      ],
+      "ro": ["registru", "caiet de notițe | carnet | date | registru"],
+      "he": ["יומן", "יומן | מחברת"],
+      "ar": ["دفتر", "دفتر | كراسة ملاحظات | ملاحظات"],
+      "tr": ["resmi defter", "not defteri | resmi defter"],
+      "vi": ["sổ cái", "sổ cái | sổ ghi chép"],
+      "nl": ["grootboek", "grootboek | map | notitieboek | ringband | schrift"]
+    }
+  ],
+  "📓": [
+    "other",
+    "notebook",
+    {
+      "en": ["notebook", "notebook"],
+      "ru": ["тетрадь", "блокнот | записная книжка | тетрадка | тетрадь"],
+      "pl": ["notes", "notatnik | notes | szary | zeszyt"],
+      "fr": ["carnet", "cahier | carnet | écrire"],
+      "de": ["Notizbuch", "Notizbuch | Notizen"],
+      "es": ["cuaderno", "cuaderno | libreta"],
+      "pt": ["caderno", "caderno | folhas"],
+      "it": [
+        "quaderno",
+        "appunti | biblioteca | libreria | libro | libro grigio | prendere nota | quaderno | taccuino | ufficio"
+      ],
+      "ro": ["carnet", "caiet | carnet"],
+      "he": ["מחברת", "יומן | מחברת | ספרון"],
+      "ar": ["دفتر ملاحظات", "دفتر | دفتر ملاحظات"],
+      "tr": ["not defteri", "defter | not defteri"],
+      "vi": ["sổ ghi chép", "sổ ghi chép"],
+      "nl": ["schrift", "notitieboek | schrift"]
+    }
+  ],
+  "📔": [
+    "other",
+    "notebook with decorative cover",
+    {
+      "en": [
+        "notebook with decorative cover",
+        "book | cover | decorated | decorative | education | notebook | school | writing"
+      ],
+      "ru": [
+        "записная книжка",
+        "блокнот | дневник | ежедневник | записи | записная | книжка | красивая | обложка"
+      ],
+      "pl": [
+        "notes z dekoracyjną okładką",
+        "książka | notatnik | notes | notes z dekoracyjną okładką | okładka | ozdobna"
+      ],
+      "fr": [
+        "carnet avec couverture",
+        "cahier | carnet | carnet avec couverture | école | écrire | livre"
+      ],
+      "de": [
+        "Notizbuch mit dekorativem Einband",
+        "Einband | Notizbuch | Notizbuch mit dekorativem Einband"
+      ],
+      "es": [
+        "cuaderno con tapa decorativa",
+        "cuaderno | cuaderno con tapa decorativa | decoración | tapa"
+      ],
+      "pt": [
+        "caderno decorado",
+        "agenda | caderno | capa | decoração | escola | livro"
+      ],
+      "it": [
+        "quaderno con copertina decorata",
+        "album | album delle foto | compiti | copertina | fotoalbum | quaderno con copertina decorata | scuola | taccuino | taccuino con decorazione | taccuino copertina decorata | taccuino decorato | università"
+      ],
+      "ro": [
+        "caiet cu copertă decorativă",
+        "caiet | caiet cu copertă decorativă | carnet | carte | copertă | decorațiune | educație | învățământ | notițe | școală | scriere | scris"
+      ],
+      "he": [
+        "מחברת עם כריכה מעוטרת",
+        "יומן | כריכה | כתיבה | מחברת | מחברת עם כריכה מעוטרת | ספר"
+      ],
+      "ar": [
+        "دفتر مزين",
+        "تعليم | دفتر مزخرف | دفتر مزين | دفتر ملاحظات | غلاف | غلاف مزخرف | كتاب مزخرف | مدرسة"
+      ],
+      "tr": [
+        "süslü not defteri",
+        "dekorasyonlu not defteri | kapak | not defteri | süslü not defteri"
+      ],
+      "vi": [
+        "sổ ghi chép có bìa trang trí",
+        "bìa | sách | sổ ghi chép | sổ ghi chép có bìa trang trí | trang trí"
+      ],
+      "nl": [
+        "versierd schrift",
+        "boek | decoratief | notitieboekje | omslag | opleiding | school | schrijven | versierd"
+      ]
+    }
+  ],
+  "📕": [
+    "other",
+    "closed book",
+    {
+      "en": ["closed book", "book | closed | education"],
+      "ru": [
+        "закрытая книга",
+        "закрытая | закрыть | захлопнутая | захлопнуть | книга | книжка | красивая обложка | обложка"
+      ],
+      "pl": ["zamknięta książka", "książka | zamknięta"],
+      "fr": [
+        "livre fermé",
+        "apprendre | école | enseignement | lire | littérature | livre | livre fermé | livre rouge | manuel scolaire | savoir"
+      ],
+      "de": [
+        "geschlossenes Buch",
+        "Buch | geschlossen | geschlossenes Buch | Geschlossenes Buch"
+      ],
+      "es": ["libro cerrado", "cerrado | libro"],
+      "pt": ["livro fechado", "apostila | fechado | livro"],
+      "it": [
+        "libro chiuso",
+        "biblioteca | istruzione | leggere | libreria | libro | libro chiuso | rosso | scuola | studiare | università"
+      ],
+      "ro": [
+        "carte închisă",
+        "carte | carte închisă | educație | închis | învățământ"
+      ],
+      "he": ["ספר סגור", "לימודים | סגור | ספר"],
+      "ar": ["كتاب مغلق", "تعليم | ثقافة | دراسة | كتاب | كتاب مغلق | مكتبة"],
+      "tr": ["kapalı kitap", "kapalı kitap | kitap | kırmızı kitap"],
+      "vi": ["sách đóng", "đóng | giáo dục | sách"],
+      "nl": [
+        "gesloten boek",
+        "bibliotheek | boek | educatie | gesloten | lezen | onderwijs"
+      ]
+    }
+  ],
+  "📖": [
+    "other",
+    "open book",
+    {
+      "en": [
+        "open book",
+        "book | education | fantasy | knowledge | library | novels | open | reading"
+      ],
+      "ru": [
+        "открытая книга",
+        "книга | книжка | открытая | открыть | раскрытая | раскрыть"
+      ],
+      "pl": [
+        "otwarta książka",
+        "czytać | książka | nauka | otwarta | uczyć się"
+      ],
+      "fr": [
+        "livre ouvert",
+        "apprendre | bibliothèque | école | enseignement | étudier | lecture | lire | littérature | livre ouvert | manuel scolaire | roman | savoir"
+      ],
+      "de": [
+        "offenes Buch",
+        "Bibliothek | blättern | Buch | geöffnet | lernen | lesen | offen | offenes Buch | Offenes Buch | Seite"
+      ],
+      "es": ["libro abierto", "abierto | libro"],
+      "pt": [
+        "livro aberto",
+        "aberto | biblioteca | leitura | lendo | ler | livraria | livro"
+      ],
+      "it": [
+        "libro aperto",
+        "compiti | istruzione | leggere | libreria | libro | libro aperto | romanzo | scuola"
+      ],
+      "ro": [
+        "carte deschisă",
+        "bibliotecă | carte | carte deschisă | citit | cunoaștere | cunoștiințe | deschis | educație | facultate | învățământ | roman | școală"
+      ],
+      "he": ["ספר פתוח", "ספר | פתוח | קורא"],
+      "ar": [
+        "كتاب مفتوح",
+        "امتحانات | دراسة | علم | قراءة | كتاب | كتاب مفتوح | مدرسة | معرفة"
+      ],
+      "tr": ["açık kitap", "açık defter | açık kitap | defter | kitap | okul"],
+      "vi": ["sách đang mở", "mở | sách | sách đang mở"],
+      "nl": ["geopend boek", "boek | geopend | open"]
+    }
+  ],
+  "📗": [
+    "other",
+    "green book",
+    {
+      "en": [
+        "green book",
+        "book | education | fantasy | green | library | reading"
+      ],
+      "ru": [
+        "зеленая книга",
+        "библиотека | зеленая | книга | книжка | учеба | учиться | читать | чтение"
+      ],
+      "pl": ["zielona książka", "biblioteka | czytać | książka | zielona"],
+      "fr": [
+        "livre vert",
+        "apprendre | bibliothèque | école | enseignement | étudier | lecture | lire | littérature | livre | livre vert | manuel scolaire | savoir"
+      ],
+      "de": ["grünes Buch", "Buch | grün | grünes Buch | Grünes Buch | lesen"],
+      "es": ["libro verde", "libro | verde"],
+      "pt": [
+        "livro verde",
+        "biblioteca | caderno | colégio | escola | estudar | lendo | ler | livraria | livro | verde"
+      ],
+      "it": [
+        "libro verde",
+        "biblioteca | compiti | istruzione | libreria | libro | libro verde | quaderno | scuola"
+      ],
+      "ro": [
+        "carte verde",
+        "bibliotecă | carte | citit | educație | facultate | învățământ | școală | verde"
+      ],
+      "he": ["ספר ירוק", "ירוק | ספר"],
+      "ar": [
+        "كتاب أخضر",
+        "تعلم | تعليم | دراسة | قراءة | كتاب | كتاب أخضر | مكتبة"
+      ],
+      "tr": ["yeşil kitap", "eğitim | kitap | kütüphane | okul | yeşil kitap"],
+      "vi": [
+        "sách màu lục",
+        "giáo dục | sách | sách màu lục | thư viện | xanh lục"
+      ],
+      "nl": [
+        "groen boek",
+        "bibliotheek | boek | educatie | groen | lezen | onderwijs"
+      ]
+    }
+  ],
+  "📘": [
+    "other",
+    "blue book",
+    {
+      "en": [
+        "blue book",
+        "blue | book | education | fantasy | library | reading"
+      ],
+      "ru": [
+        "синяя книга",
+        "голубая | голубой | книга | книжка | синий | синяя"
+      ],
+      "pl": ["niebieska książka", "biblioteka | czytać | książka | niebieska"],
+      "fr": [
+        "livre bleu",
+        "apprendre | école | éducation | lecture | lire | littérature | livre | livre bleu | manuel scolaire | roman"
+      ],
+      "de": ["blaues Buch", "blau | blaues Buch | Blaues Buch | Buch"],
+      "es": ["libro azul", "azul | libro"],
+      "pt": [
+        "livro azul",
+        "apostila | azul | escola | estudo | leitura | livro"
+      ],
+      "it": [
+        "libro blu",
+        "biblioteca | compiti | istruzione | leggere | libreria | libro | libro blu | quaderno | quaderno blu | scuola | studiare"
+      ],
+      "ro": [
+        "carte albastră",
+        "albastră | bibliotecă | carte | citit | educație | învățământ"
+      ],
+      "he": ["ספר כחול", "כחול | ספר"],
+      "ar": [
+        "كتاب أزرق",
+        "أزرق | تعليم | دراسة | قراءة | كتاب | مدرسة | مكتبة"
+      ],
+      "tr": ["mavi kitap", "kitap | mavi kitap"],
+      "vi": ["sách màu lam", "sách | sách màu lam | xanh lam"],
+      "nl": [
+        "blauw boek",
+        "bibliotheek | blauw | boek | educatie | lezen | onderwijs"
+      ]
+    }
+  ],
+  "📙": [
+    "other",
+    "orange book",
+    {
+      "en": [
+        "orange book",
+        "book | education | fantasy | library | orange | reading"
+      ],
+      "ru": ["оранжевая книга", "книга | книжка | оранжевая | оранжевый"],
+      "pl": [
+        "pomarańczowa książka",
+        "biblioteka | czytać | książka | pomarańczowa"
+      ],
+      "fr": [
+        "livre orange",
+        "apprendre | école | éducation | lecture | lire | littérature | livre | livre orange | manuel scolaire | roman"
+      ],
+      "de": [
+        "orangefarbenes Buch",
+        "Buch | orangefarben | orangefarbenes Buch | Orangefarbenes Buch"
+      ],
+      "es": ["libro naranja", "libro | naranja"],
+      "pt": ["livro laranja", "apostila | cartilha | laranja | livro"],
+      "it": [
+        "libro arancione",
+        "biblioteca | compiti | istruzione | leggere | libreria | libro | libro arancione | quaderno | scuola | studiare"
+      ],
+      "ro": [
+        "carte portocalie",
+        "bibliotecă | carte | carte portocalie | citit | educație | învățământ | portocaliu"
+      ],
+      "he": ["ספר כתום", "כתום | לקרוא | ספר | ספריה | קריאה"],
+      "ar": [
+        "كتاب برتقالي",
+        "تعليم | دراسة | قراءة | كتاب | كتاب برتقالي | مدرسة | مكتبة"
+      ],
+      "tr": ["turuncu kitap", "kitap | turuncu kitap"],
+      "vi": ["sách màu cam", "màu cam | sách | sách màu cam"],
+      "nl": [
+        "oranje boek",
+        "bibliotheek | boek | educatie | lezen | onderwijs | oranje"
+      ]
+    }
+  ],
+  "📚": [
+    "other",
+    "books",
+    {
+      "en": [
+        "books",
+        "book | books | education | fantasy | knowledge | library | novels | reading | school | study"
+      ],
+      "ru": [
+        "книги",
+        "библиотека | книги | книжки | много книг | сессия | стопка | стопка книг | учить | читать | экзамен"
+      ],
+      "pl": ["książki", "biblioteka | czytać | książka | książki | nauka"],
+      "fr": [
+        "livres",
+        "apprendre | bibliothèque | école | enseignement | étudier | lecture | lire | littérature | livres | manuels scolaires | roman | savoir"
+      ],
+      "de": [
+        "Bücherstapel",
+        "Bücher | Bücherstapel | Fantasie | lesen | Roman"
+      ],
+      "es": ["libros", "libro | libros"],
+      "pt": [
+        "livros",
+        "biblioteca | estudando | estudar | leitura | lendo | ler | livraria | livro | livros"
+      ],
+      "it": [
+        "libri",
+        "biblioteca | compiti | doposcuola | leggere | libreria | libri | pila di libri | quaderni | romanzi | scuola | studiare | università"
+      ],
+      "ro": [
+        "cărți",
+        "bibliotecă | carte | cărți | cunoștiințe | educație | facultate | învățat | învățătură | romane | școală | studii | studiu"
+      ],
+      "he": ["ספרים", "לימודים | ספר | ספרים | קריאה"],
+      "ar": [
+        "كتب",
+        "امتحانات | تعليم | جامعة | دراسة | درس | قراءة | كتاب | كتب | مدرسة | معرفة | وظيفية"
+      ],
+      "tr": ["kitaplar", "kitap | kitaplar"],
+      "vi": ["sách", "đọc | học tập | sách | thư viện | tri thức | trường học"],
+      "nl": [
+        "boeken",
+        "boek | boeken | educatie | kennis | lezen | onderwijs | opleiding | school"
+      ]
+    }
+  ],
+  "📛": [
+    "other",
+    "name badge",
+    {
+      "en": ["name badge", "badge | name"],
+      "ru": [
+        "бейдж",
+        "бейдж | бейджик | значок | значок с именем | имя | огонь | предупреждение"
+      ],
+      "pl": ["plakietka", "plakietka | z imieniem"],
+      "fr": ["badge nominatif", "badge | badge nominatif | nom"],
+      "de": ["Namensschild", "Namensschild | Schild"],
+      "es": [
+        "etiqueta identificativa",
+        "etiqueta | etiqueta identificativa | nombre"
+      ],
+      "pt": ["crachá", "crachá | identificação | nome"],
+      "it": [
+        "tesserino per nome",
+        "badge | etichetta | etichetta a tulipano | giappone | giapponese | nome | tesserino | tesserino per nome | tulipano"
+      ],
+      "ro": ["ecuson cu nume", "ecuson | ecuson cu nume | legitimație | nume"],
+      "he": ["תג שם", "שם | תג"],
+      "ar": ["ملصق اسم", "اسم | رمز | ستيكر اسم | ملصق"],
+      "tr": ["ad rozeti", "ad | ad rozeti | rozet"],
+      "vi": ["thẻ tên", "tên | thẻ"],
+      "nl": ["naamkaartje", "badge | kaartje | naam | naamkaartje"]
+    }
+  ],
+  "📜": [
+    "other",
+    "scroll",
+    {
+      "en": ["scroll", "paper | scroll"],
+      "ru": ["свиток", "бумага | пергамент | свиток"],
+      "pl": ["zwój", "edykt | papier | pergamin | pismo | zwój"],
+      "fr": ["parchemin", "papier | parchemin"],
+      "de": ["Schriftrolle", "Papier | Schriftrolle"],
+      "es": ["pergamino", "pergamino | pergamino de papel"],
+      "pt": ["pergaminho", "pergaminho | rolo de papel"],
+      "it": [
+        "pergamena",
+        "decreto | documento | laurea | lettera | mappa | pergamena | rotolo | rotolo di carta"
+      ],
+      "ro": ["pergament", "hârtie | pergament | rulou | scriere | sul"],
+      "he": ["מגילה", "מגילה | נייר | קלף"],
+      "ar": ["ورقة ملفوفة", "تاريخ | رسالة | مخطوطة | ورقة | ورقة ملفوفة"],
+      "tr": ["parşömen", "bildiri | kağıt | parşömen"],
+      "vi": ["cuộn sách", "cuộn giấy | cuộn sách | giấy"],
+      "nl": ["rol", "papier | papierrol | perkament | perkamentpapier | rol"]
+    }
+  ],
+  "📝": [
+    "other",
+    "memo",
+    {
+      "en": ["memo", "communication | media | memo | notes | pencil"],
+      "ru": ["заметка", "заметка | запись | карандаш | писать | письмо"],
+      "pl": [
+        "notatka",
+        "kartka | notatka | notatki | ołówek | papier | pisać | zapiski"
+      ],
+      "fr": ["mémo", "bloc-notes | crayon | écrire | mémo"],
+      "de": [
+        "Papier und Bleistift",
+        "Bleistift | Kurzmitteilung | Nachricht | Notiz | Papier | Papier und Bleistift | Schreibblock | schreiben"
+      ],
+      "es": ["cuaderno de notas", "comunicación | cuaderno de notas"],
+      "pt": [
+        "memorando",
+        "anotações | caderno | comunicação | lápis | memorando | notas"
+      ],
+      "it": [
+        "memo",
+        "appunti | blocco note | block notes | comunicazione | matita | memo | nota | scrivere | taccuino"
+      ],
+      "ro": [
+        "notă",
+        "comunicare | creion | informații | media | memo | notă | notiță | scriere"
+      ],
+      "he": ["פתק תזכורת", "עיפרון | פתק תזכורת"],
+      "ar": [
+        "مذكرة",
+        "تدوين | تذكير | تواصل | قلم رصاص | مذكرة | ملاحظة | ميديا"
+      ],
+      "tr": [
+        "not",
+        "ders | iletişim | kalem | kalem kağıt | not | not defteri"
+      ],
+      "vi": ["sổ ghi nhớ", "bút chì | sổ ghi nhớ"],
+      "nl": ["memo", "aantekeningen | memo | opmerkingen | papier | potlood"]
+    }
+  ],
+  "📞": [
+    "other",
+    "telephone receiver",
+    {
+      "en": [
+        "telephone receiver",
+        "communication | phone | receiver | telephone | voip"
+      ],
+      "ru": ["телефонная трубка", "телефон | телефонная трубка | трубка"],
+      "pl": [
+        "słuchawka telefoniczna",
+        "rozmawiać | słuchawka | telefon | telefoniczna"
+      ],
+      "fr": [
+        "combiné téléphonique",
+        "combiné téléphonique | communication | téléphone"
+      ],
+      "de": [
+        "Telefonhörer",
+        "anrufen | Hörer | Kommunikation | Telefon | Telefonhörer"
+      ],
+      "es": [
+        "auricular de teléfono",
+        "auricular de teléfono | comunicación | teléfono"
+      ],
+      "pt": ["telefone", "aparelho de telefone | comunicação | telefone"],
+      "it": [
+        "cornetta",
+        "chiamami | chiamare | comunicazione | cornetta | cornetta del telefono | fisso | telefonare | telefono | ti chiamo | ti richiamo"
+      ],
+      "ro": [
+        "receptor de telefon",
+        "comunicare | receptor | receptor de telefon | telefon | voip"
+      ],
+      "he": ["שפופרת טלפון", "אפרכסת | בשיחה | טלפון | שיחה | שפופרת"],
+      "ar": ["سماعة هاتف", "تليفون | تواصل | سماعة هاتف | هاتف"],
+      "tr": ["ahize", "ahize | alıcı | telefon"],
+      "vi": [
+        "ống nghe điện thoại bàn",
+        "điện thoại | ống nghe | ống nghe điện thoại bàn"
+      ],
+      "nl": ["telefoonhoorn", "bellen | hoorn | telefoon | telefoonhoorn"]
+    }
+  ],
+  "📟": [
+    "other",
+    "pager",
+    {
+      "en": ["pager", "communication | pager"],
+      "ru": ["пейджер", "пейджер | сообщение | строка | экран"],
+      "pl": ["pager", "pager"],
+      "fr": ["bipeur", "bip | bipeur | communication | pager"],
+      "de": ["Pager", "Kommunikation | Pager | Piepser"],
+      "es": ["busca", "busca | comunicación | localizador"],
+      "pt": ["pager", "comunicação | pager"],
+      "it": ["cercapersone", "cercapersone | comunicazione | lavoro"],
+      "ro": ["pager", "comunicare | dispozitiv | pager"],
+      "he": ["איתורית", "איתורית | ביפר | זימונית"],
+      "ar": ["جهاز نداء آلي", "بيجر | تواصل | جهاز مناداة | جهاز نداء آلي"],
+      "tr": ["çağrı cihazı", "çağrı cihazı | iletişim"],
+      "vi": ["máy nhắn tin", "máy nhắn tin"],
+      "nl": ["pager", "pager | pieper"]
+    }
+  ],
+  "📠": [
+    "other",
+    "fax machine",
+    {
+      "en": ["fax machine", "communication | fax | machine"],
+      "ru": ["факс", "бумага | сообщение | факс"],
+      "pl": ["faks", "biuro | faks"],
+      "fr": ["fax", "communication | fax | télécopieur"],
+      "de": ["Faxgerät", "Fax | Faxgerät | Kommunikation"],
+      "es": ["máquina de fax", "comunicación | fax | máquina de fax"],
+      "pt": ["fax", "comunicação | fax | máquina de fax"],
+      "it": [
+        "fax",
+        "computer | comunicazione | fax | periferiche | stampante | ufficio"
+      ],
+      "ro": [
+        "echipament fax",
+        "comunicare | dispozitiv | echipament fax | fax"
+      ],
+      "he": ["מכשיר פקס", "פקס | פקסימיליה"],
+      "ar": ["فاكس", "تلفاكس | تواصل | فاكس | ماكنة"],
+      "tr": ["faks makinesi", "faks makinesi | iletişim"],
+      "vi": ["máy fax", "fax | máy fax"],
+      "nl": ["fax", "communicatie | fax | faxapparaat"]
+    }
+  ],
+  "📡": [
+    "other",
+    "satellite antenna",
+    {
+      "en": [
+        "satellite antenna",
+        "aliens | antenna | contact | dish | satellite | science"
+      ],
+      "ru": ["спутниковая антенна", "антенна | спутник | спутниковая"],
+      "pl": [
+        "antena satelitarna",
+        "antena | antena satelitarna | czasza | kosmici | nauka | obcy | satelita | talerz"
+      ],
+      "fr": [
+        "antenne satellite",
+        "antenne | antenne parabolique | parabole | satellite | science"
+      ],
+      "de": [
+        "Satellitenschüssel",
+        "Antenne | Sat-Schüssel | Satellitenschüssel | Satschüssel | Schüssel"
+      ],
+      "es": [
+        "antena de satélite",
+        "antena | antena de satélite | comunicación | satélite"
+      ],
+      "pt": [
+        "antena parabólica",
+        "antena | comunicação | parabólica | satélite"
+      ],
+      "it": [
+        "antenna satellitare",
+        "antenna | antenna parabolica | antenne paraboliche | antenne satellitari | comunicazione | parabola | satellitare | satellite | scienza | scienze | tecnologia"
+      ],
+      "ro": [
+        "antenă satelit",
+        "antenă | comunicare | contact | extratereștri | satelit | știință"
+      ],
+      "he": ["צלחת לוויין", "אנטנה | לוויין | צלחת | תקשורת"],
+      "ar": [
+        "طبق قمر صناعي",
+        "تواصل | دش | ساتلايت | ستلايت | صحن | طبق قمر صناعي | علم | قمر صناعي | هوائي | هوائي قمر صناعي"
+      ],
+      "tr": ["uydu anteni", "anten | çanak | iletişim | uydu | uydu anteni"],
+      "vi": ["ăng-ten vệ tinh", "ăng-ten | ăng-ten vệ tinh | đĩa | vệ tinh"],
+      "nl": [
+        "satellietschotel",
+        "antenne | communicatie | satelliet | satellietschotel | schotel"
+      ]
+    }
+  ],
+  "📢": [
+    "other",
+    "public address loudspeaker",
+    {
+      "en": [
+        "loudspeaker",
+        "address | communication | loud | loudspeaker | public | sound"
+      ],
+      "ru": [
+        "громкоговоритель",
+        "внимание | громкоговоритель | звук | обращение | объявление | рупор"
+      ],
+      "pl": [
+        "głośnik",
+        "głośnik | głośno | komunikat | komunikaty publiczne | tuba głośnikowa"
+      ],
+      "fr": [
+        "haut-parleur",
+        "communication | fort | haut-parleur | mégaphone | message | son"
+      ],
+      "de": ["Lautsprecher", "Lautsprecher | Megafon | Schallendes Megafon"],
+      "es": ["altavoz de mano", "altavoz | altavoz de mano | comunicación"],
+      "pt": [
+        "buzina",
+        "alto | alto-falante | aviso | buzina | comunicado | discurso | gritar | megafone"
+      ],
+      "it": [
+        "altoparlante",
+        "audio | comunicazione | megafono | parlare in pubblico | speaker | suono | volume"
+      ],
+      "ro": [
+        "portavoce",
+        "comunicare | difuzare | difuzor | mesaj public | portavoce | sunet"
+      ],
+      "he": ["מגפון", "דובר | הודעה | הפגנה | חזק | כרוז | מגפון"],
+      "ar": [
+        "مكبر صوت",
+        "اعلان | تواصل | سماعة محمولة | صوت عال | صوت مرتفع | مجهار | مكبر صوت | مكرفون"
+      ],
+      "tr": ["hoparlör", "halka hitap | hoparlör | iletişim | megafon"],
+      "vi": [
+        "loa phát thanh",
+        "địa chỉ công cộng | loa phát thanh | loa phóng thanh | lớn"
+      ],
+      "nl": [
+        "luidspreker",
+        "luid | luidspreker | megafoon | toespraak | toespreken"
+      ]
+    }
+  ],
+  "📣": [
+    "other",
+    "cheering megaphone",
+    {
+      "en": ["megaphone", "cheering | megaphone | sound"],
+      "ru": [
+        "мегафон",
+        "громкоговоритель | звук | мегафон | обращение | объявление | речь | рупор"
+      ],
+      "pl": ["megafon", "kibicować | megafon"],
+      "fr": [
+        "porte-voix",
+        "encourager | hourra | manifestation | mégaphone | porte-voix"
+      ],
+      "de": ["Megafon", "Jubel | Lautsprecher | Megafon"],
+      "es": ["megáfono", "comunicación | megáfono"],
+      "pt": ["megafone", "aplausos | comunicação | megafone"],
+      "it": [
+        "megafono",
+        "altoparlante | altoparlanti | comunicazione | megafoni | megafono | parlare | suono | tifare | tifo | urlare"
+      ],
+      "ro": ["megafon", "difuzare | difuzor | galerie | megafon | sunet"],
+      "he": ["מגפון בלי ידית", "כרוז | מגפון | עידוד"],
+      "ar": ["مضخم الصوت", "تواصل | مضخم الصوت | ميغافون | هتاف"],
+      "tr": ["megafon", "iletişim | karşılama | megafon"],
+      "vi": ["loa phóng thanh", "cổ vũ | loa phóng thanh"],
+      "nl": [
+        "megafoon",
+        "communicatie | geluid | gouden megafoon | juichen | megafoon | versterken"
+      ]
+    }
+  ],
+  "📤": [
+    "other",
+    "outbox tray",
+    {
+      "en": [
+        "outbox tray",
+        "box | email | letter | mail | outbox | sent | tray"
+      ],
+      "ru": [
+        "исходящие",
+        "исходящая | исходящие | отправленная | отправленные | письма | почта | почтовый | сообщения | ящик"
+      ],
+      "pl": [
+        "skrzynka nadawcza",
+        "e-mail | email | list | mail | na listy | nadawać | nadawcza | pocztowa | skrzynka | wysyłać | ze strzałką"
+      ],
+      "fr": [
+        "boîte d’envoi",
+        "boîte d’envoi | courriel | courrier électronique | e-mail | envoyer | flèche | lettre | message | message électronique"
+      ],
+      "de": ["Postausgang", "Ablage | E-Mail | Postausgang"],
+      "es": [
+        "bandeja de salida",
+        "bandeja | bandeja de salida | comunicación | correo | enviado | salida"
+      ],
+      "pt": [
+        "bandeja de saída",
+        "bandeja | caixa | comunicação | correspondência | enviada | saída"
+      ],
+      "it": [
+        "posta inviata",
+        "comunicazione | in uscita | inviata | posta | posta in uscita | vaschetta"
+      ],
+      "ro": [
+        "tăviță de ieșire",
+        "corespondență | cutie | cutie poștală | e-mail | email | expediere | mail | mesaj | scrisoare | tavă | tăviță de ieșire | trimise | trimitere"
+      ],
+      "he": ["מגש דואר יוצא", "דואר | יוצא | מגש | מכתב | נשלח | תיבה"],
+      "ar": [
+        "صندوق صادر",
+        "ايميل | بريد | تواصل | جارور | رسالة | صندوق | صندوق الوارد | صندوق صادر | علبة | مرسل"
+      ],
+      "tr": [
+        "giden kutusu",
+        "giden | giden kutusu | iletişim | kutu | posta | tepsi"
+      ],
+      "vi": [
+        "khay thư đi",
+        "đã gửi | hộp | hộp thư đi | khay | khay thư đi | thư"
+      ],
+      "nl": [
+        "postvak uit",
+        "brief | mail | post | postvak | postvak uit | uitgaand | verzonden"
+      ]
+    }
+  ],
+  "📥": [
+    "other",
+    "inbox tray",
+    {
+      "en": [
+        "inbox tray",
+        "box | email | inbox | letter | mail | receive | tray | zero"
+      ],
+      "ru": [
+        "входящие",
+        "входящие | входящие письма | полученная | полученные | полученные письма | почта | почтовый | ящик"
+      ],
+      "pl": [
+        "skrzynka odbiorcza",
+        "e-mail | email | list | mail | na listy | odbierać | odbiorcza | otrzymywać | pocztowa | skrzynka | ze strzałką"
+      ],
+      "fr": [
+        "boîte de réception",
+        "boîte de réception | courriel | courrier électronique | e-mail | flèche | lettre | message | message électronique | recevoir"
+      ],
+      "de": ["Posteingang", "Ablage | E-Mail | Posteingang"],
+      "es": [
+        "bandeja de entrada",
+        "bandeja | bandeja de entrada | comunicación | correo | entrada | recibido"
+      ],
+      "pt": [
+        "bandeja de entrada",
+        "bandeja | caixa | comunicação | correspondência | e-mail | email | entrada | recebida | recebido"
+      ],
+      "it": [
+        "posta ricevuta",
+        "comunicazione | email | in arrivo | posta | posta in arrivo | ricevuta | vaschetta"
+      ],
+      "ro": [
+        "tăviță de intrare",
+        "corespondență | cutie | cutie poștală | e-mail | email | inbox | inbox gol | inbox zero | mesaj | primire | recepționare | scrisoare | tăviță de intrare"
+      ],
+      "he": ["מגש דואר נכנס", "דואר | מגש | מכתב | נכנס | קבלה | תיבה"],
+      "ar": [
+        "صندوق وارد",
+        "ايميل | بريد | بريد مستلم | تواصل | جارور | صندوق وارد | صينية | علبة | لا توجد رسائل"
+      ],
+      "tr": [
+        "gelen kutusu",
+        "gelen | gelen kutusu | iletişim | kutu | posta | tepsi"
+      ],
+      "vi": [
+        "khay thư đến",
+        "hộp | hộp thư đến | khay | khay thư đến | nhận | thư"
+      ],
+      "nl": [
+        "postvak in",
+        "brief | inkomend | mail | ontvangen | post | postvak | postvak in"
+      ]
+    }
+  ],
+  "📦": [
+    "other",
+    "package",
+    {
+      "en": [
+        "package",
+        "box | communication | delivery | package | parcel | shipping"
+      ],
+      "ru": ["посылка", "доставка | коробка | посылка | почта"],
+      "pl": ["paczka", "paczka | pakunek | przesyłka | pudełko"],
+      "fr": ["colis", "boîte | colis | livraison | paquet"],
+      "de": ["Paket", "Päckchen | Paket"],
+      "es": ["paquete", "caja | paquete"],
+      "pt": ["pacote", "caixa | embrulho | pacote"],
+      "it": [
+        "pacco",
+        "cartone | collo | consegna | pacco | scatola | scatolone | spedizione"
+      ],
+      "ro": [
+        "pachet",
+        "colet | comunicare | cutie | livrare | pachet | poștă | transport | vamă"
+      ],
+      "he": ["חבילה", "אריזה | חבילה | מעבר | משלוח | צרור"],
+      "ar": [
+        "طرد",
+        "بريد | بضائع | تسليم | حزمة | رزمة | شحن | طرد | علبة | كرتونة"
+      ],
+      "tr": ["paket", "kutu | paket | posta"],
+      "vi": ["gói", "bưu kiện | gói | hộp"],
+      "nl": [
+        "pakket",
+        "bezorging | dichtgeplakte doos | doos | pakket | pakketje"
+      ]
+    }
+  ],
+  "📧": [
+    "other",
+    "e-mail symbol",
+    {
+      "en": ["e-mail", "e-mail | email | letter | mail"],
+      "ru": [
+        "электронная почта",
+        "конверт | письмо | почта | сообщение | электронная почта | электронное письмо | электронное сообщение"
+      ],
+      "pl": ["e-mail", "e-mail | email | list | mail | poczta elektroniczna"],
+      "fr": [
+        "e-mail",
+        "courriel | courrier électronique | e-mail | lettre | message"
+      ],
+      "de": ["E-Mail", "Brief | E-Mail | E-Mail-Symbol | Post"],
+      "es": [
+        "correo electrónico",
+        "comunicación | correo | correo electrónico | sobre"
+      ],
+      "pt": ["e-mail", "carta | comunicação | correspondência | e-mail"],
+      "it": [
+        "e-mail",
+        "busta | comunicazione | e-mail | email | inviare | lettera | mail | posta | posta elettronica | ricevere"
+      ],
+      "ro": [
+        "e-mail",
+        "corespondență | e-mail | electronic | email | mail | mesaj | plic | scrisoare"
+      ],
+      "he": ["אימייל", "אימייל | דוא״ל | דואר | דואר אלקטרוני | מכתב | מעטפה"],
+      "ar": [
+        "بريد إلكتروني",
+        "ايميل | بريد | بريد إلكتروني | تواصل | خطاب | رسالة"
+      ],
+      "tr": ["e-posta", "e-posta | ileti | iletişim | mektup | posta"],
+      "vi": ["email", "email | thư"],
+      "nl": ["e-mail", "brief | e-mail | mail | post"]
+    }
+  ],
+  "📨": [
+    "other",
+    "incoming envelope",
+    {
+      "en": [
+        "incoming envelope",
+        "delivering | e-mail | email | envelope | incoming | letter | mail | receive | sent"
+      ],
+      "ru": [
+        "входящее письмо",
+        "входящее | конверт | письмо | получение | почта | сообщение | электронное"
+      ],
+      "pl": [
+        "koperta przychodząca",
+        "e-mail | email | koperta | list | mail | poczta | przychodząca | wiadomość"
+      ],
+      "fr": [
+        "message reçu",
+        "courriel | courrier | courrier électronique | e-mail | enveloppe | envoyer | lettre | message | message électronique | message reçu | recevoir"
+      ],
+      "de": [
+        "eingehender Briefumschlag",
+        "E-Mail | eingehender Briefumschlag | empfangen | Umschlag"
+      ],
+      "es": [
+        "sobre entrante",
+        "carta | comunicación | correo | correo electrónico | sobre | sobre entrante"
+      ],
+      "pt": [
+        "envelope chegando",
+        "carta | chegando | comunicação | correspondência | e-mail | envelope | nova | recebida"
+      ],
+      "it": [
+        "posta in arrivo",
+        "busta | comunicazione | consegna | consegnare | e-mail | email | in arrivo | lettera | mail | posta | posta in arrivo | posta ricevuta"
+      ],
+      "ro": [
+        "sosire plic",
+        "e-mail | email | mail | mesaj | plic | poștă | primit | recepționat | scrisoare | sosire | trimis | trimit | vine"
+      ],
+      "he": [
+        "מעטפה נכנסת",
+        "אימייל | דוא״ל נכנס | דואר | מכתב | מעטפה | מעטפה נכנסת | נכנס | קבלה"
+      ],
+      "ar": [
+        "بريد وارد",
+        "ايميل | بريد | بريد إلكتروني | بريد مستلم | تواصل | توصيل | خطاب | ظرف | كمبيوتر | مرسال | مرسل | وارد"
+      ],
+      "tr": [
+        "gelen zarf",
+        "alınan posta | e-posta | gelen | iletişim | mektup | posta | zarf"
+      ],
+      "vi": [
+        "phong bì thư đến",
+        "email | nhận | phong bì | phong bì thư đến | thư | thư đến"
+      ],
+      "nl": [
+        "inkomende post",
+        "binnengekomen | brief | e-mail | elektronische post | envelop | inkomend | inkomende post | mail | ontvangen | post"
+      ]
+    }
+  ],
+  "📪": [
+    "other",
+    "closed mailbox with lowered flag",
+    {
+      "en": [
+        "closed mailbox with lowered flag",
+        "closed | flag | lowered | mail | mailbox | postbox"
+      ],
+      "ru": [
+        "закрытый почтовый ящик с опущенным флажком",
+        "закрыт | закрытый почтовый ящик с опущенным флажком | опущенный | почта | почтовый | флаг | ящик"
+      ],
+      "pl": [
+        "zamknięta skrzynka pocztowa z opuszczoną flagą",
+        "listy | poczta | pocztowa | skrzynka | z opuszczoną flagą | zamknięta"
+      ],
+      "fr": [
+        "boîte aux lettres fermée drapeau baissé",
+        "boîte aux lettres | boîte aux lettres fermée drapeau baissé | courrier"
+      ],
+      "de": [
+        "geschlossener Briefkasten ohne Post",
+        "Briefkasten | geschlossen | geschlossener Briefkasten ohne Post | Geschlossener Briefkasten ohne Post | keine E-Mail | keine Post | Post"
+      ],
+      "es": [
+        "buzón cerrado con la bandera bajada",
+        "bandera | buzón | buzón cerrado | buzón cerrado con la bandera bajada | vacío"
+      ],
+      "pt": [
+        "caixa de correio fechada com bandeira abaixada",
+        "abaixada | bandeira | caixa | correio | correspondência | fechada | vazia"
+      ],
+      "it": [
+        "cassetta postale chiusa bandierina abbassata",
+        "bandierina | buca delle lettere | casella postale | cassetta postale | cassetta postale chiusa bandierina abbassata | cassetta postale chiusa bandierina giù | chiusa | email | inviare | mail | posta | ricevere"
+      ],
+      "ro": [
+        "cutie poștală închisă cu steagul jos",
+        "căsuță poștală închisă cu steagul jos | corespondență | cutie poștală | cutie poștală închisă cu steagul jos | închis | poștă | scrisoare"
+      ],
+      "he": [
+        "תיבת דואר סגורה עם דגלון למטה",
+        "דואר | סגורה | תיבת דואר | תיבת דואר סגורה עם דגלון למטה"
+      ],
+      "ar": [
+        "صندوق بريد مغلق بإشارة لأسفل",
+        "بريد | صندوق بريد بعلامة لأسفل | صندوق بريد مغلق بإشارة لأسفل | علبة بريد | مغلق"
+      ],
+      "tr": [
+        "işareti aşağıda kapalı posta kutusu",
+        "işaret | işareti aşağıda kapalı posta kutusu | işareti indirilmiş posta kutusu | kapalı | posta"
+      ],
+      "vi": [
+        "hộp thư được đóng với lá cờ nằm ngang",
+        "đóng | hòm thư | hộp thư | hộp thư được đóng với lá cờ nằm ngang | nằm ngang | thư"
+      ],
+      "nl": [
+        "gesloten brievenbus met vlaggetje omlaag",
+        "brievenbus | gesloten | gesloten brievenbus met vlaggetje omlaag | omlaag | post | postbus"
+      ]
+    }
+  ],
+  "📫": [
+    "other",
+    "closed mailbox with raised flag",
+    {
+      "en": [
+        "closed mailbox with raised flag",
+        "closed | communication | flag | mail | mailbox | postbox | raised"
+      ],
+      "ru": [
+        "закрытый почтовый ящик с поднятым флажком",
+        "закрыт | закрытый почтовый ящик с поднятым флажком | поднятый | почта | почтовый | флаг | ящик"
+      ],
+      "pl": [
+        "zamknięta skrzynka pocztowa z podniesioną flagą",
+        "listy | poczta | pocztowa | skrzynka | z podniesioną flagą | zamknięta"
+      ],
+      "fr": [
+        "boîte aux lettres fermée drapeau levé",
+        "boîte aux lettres | boîte aux lettres fermée drapeau levé | courrier"
+      ],
+      "de": [
+        "geschlossener Briefkasten mit Post",
+        "Briefkasten | E-Mail | geschlossen | geschlossener Briefkasten mit Post | Geschlossener Briefkasten mit Post | Post"
+      ],
+      "es": [
+        "buzón cerrado con la bandera levantada",
+        "bandera | buzón | buzón cerrado | buzón cerrado con la bandera levantada | con contenido"
+      ],
+      "pt": [
+        "caixa de correio fechada com bandeira levantada",
+        "bandeira | caixa | correio | correspondência | fechada | levantada"
+      ],
+      "it": [
+        "cassetta postale chiusa bandierina alzata",
+        "bandierina | buca delle lettere | cassetta postale | cassetta postale chiusa bandierina alzata | cassetta postale chiusa bandierina su | chiusa | comunicazione | email | inviare | mail | posta | ricevere"
+      ],
+      "ro": [
+        "cutie poștală închisă cu steagul sus",
+        "căsuță poștală închisă cu steagul sus | corespondență | cutie poștală | cutie poștală închisă cu steagul sus | închis | poștă"
+      ],
+      "he": [
+        "תיבת דואר סגורה עם דגלון למעלה",
+        "דואר | סגורה | תיבת דואר | תיבת דואר סגורה עם דגלון למעלה"
+      ],
+      "ar": [
+        "صندوق بريد مغلق بإشارة مرفوعة",
+        "بريد | صندوق بريد بعلامة لأعلى | صندوق بريد مغلق بإشارة مرفوعة | علبة بريد | مغلق"
+      ],
+      "tr": [
+        "işareti yukarıda kapalı posta kutusu",
+        "işaret | işareti kaldırılmış posta kutusu | işareti yukarıda kapalı posta kutusu | kapalı | posta"
+      ],
+      "vi": [
+        "hộp thư được đóng với lá cờ đứng",
+        "đóng | hòm thư | hộp thư | hộp thư được đóng với lá cờ đứng | thư"
+      ],
+      "nl": [
+        "gesloten brievenbus met vlaggetje omhoog",
+        "brievenbus | gesloten | gesloten brievenbus met vlaggetje omhoog | post | postbus"
+      ]
+    }
+  ],
+  "📬": [
+    "other",
+    "open mailbox with raised flag",
+    {
+      "en": [
+        "open mailbox with raised flag",
+        "flag | mail | mailbox | open | postbox | raised"
+      ],
+      "ru": [
+        "открытый почтовый ящик с поднятым флажком",
+        "открыт | открытый почтовый ящик с поднятым флажкгом | открытый почтовый ящик с поднятым флажком | письмо | поднятый | почта | почтовый | флаг | ящик"
+      ],
+      "pl": [
+        "otwarta skrzynka pocztowa z podniesioną flagą",
+        "listy | otwarta | poczta | pocztowa | skrzynka | z podniesioną flagą"
+      ],
+      "fr": [
+        "boîte aux lettres ouverte drapeau levé",
+        "boîte aux lettres | boîte aux lettres ouverte drapeau levé | courrier"
+      ],
+      "de": [
+        "offener Briefkasten mit Post",
+        "Briefkasten | E-Mail | offen | offener Briefkasten mit Post | Offener Briefkasten mit Post | Post"
+      ],
+      "es": [
+        "buzón abierto con la bandera levantada",
+        "bandera | buzón | buzón abierto | buzón abierto con la bandera levantada | con contenido"
+      ],
+      "pt": [
+        "caixa de correio aberta com bandeira levantada",
+        "aberta | bandeira | caixa de correio aberta com bandeira levantada | caixa de correspondência aberta com bandeira levantada | correspondência"
+      ],
+      "it": [
+        "cassetta postale aperta bandierina alzata",
+        "aperta | bandierina | buca delle lettere | cassetta postale | cassetta postale aperta bandierina alzata | cassetta postale aperta bandierina su | mail | posta"
+      ],
+      "ro": [
+        "cutie poștală deschisă cu steagul sus",
+        "căsuță poștală deschisă cu steagul sus | căsuță poștală plină | corespondență | cutie poștală | cutie poștală deschisă cu steagul sus | cutie poștală plină | deschis | poștă"
+      ],
+      "he": [
+        "תיבת דואר פתוחה עם דגלון למעלה",
+        "דואר | פתוחה | תיבת דואר | תיבת דואר פתוחה עם דגלון למעלה"
+      ],
+      "ar": [
+        "صندوق بريد مفتوح بإشارة مرفوعة",
+        "بريد | صندوق بريد بعلامة لأسفل | صندوق بريد مفتوح بإشارة مرفوعة | علبة بريد | مفتوح"
+      ],
+      "tr": [
+        "işareti yukarıda açık posta kutusu",
+        "açık | işaret | işareti kaldırılmış açık posta kutusu | işareti yukarıda açık posta kutusu | posta"
+      ],
+      "vi": [
+        "hộp thư được mở với lá cờ đứng",
+        "hòm thư | hộp thư | hộp thư được mở với lá cờ đứng | mở | thư"
+      ],
+      "nl": [
+        "open brievenbus met vlaggetje omhoog",
+        "brievenbus | open | open brievenbus met vlaggetje omhoog | post | postbus"
+      ]
+    }
+  ],
+  "📭": [
+    "other",
+    "open mailbox with lowered flag",
+    {
+      "en": [
+        "open mailbox with lowered flag",
+        "flag | lowered | mail | mailbox | open | postbox"
+      ],
+      "ru": [
+        "открытый почтовый ящик с опущенным флажком",
+        "опущенный | открыт | открытый почтовый ящик с опущенным флажком | письмо | почта | почтовый | флаг | ящик"
+      ],
+      "pl": [
+        "otwarta skrzynka pocztowa z opuszczoną flagą",
+        "listy | otwarta | poczta | pocztowa | skrzynka | z opuszczoną flagą"
+      ],
+      "fr": [
+        "boîte aux lettres ouverte drapeau baissé",
+        "boîte aux lettres | boîte aux lettres ouverte drapeau baissé | courrier"
+      ],
+      "de": [
+        "offener Briefkasten ohne Post",
+        "Briefkasten | keine E-Mail | keine Post | offen | offener Briefkasten ohne Post | Post"
+      ],
+      "es": [
+        "buzón abierto con la bandera bajada",
+        "bandera | buzón | buzón abierto | buzón abierto con la bandera bajada | vacío"
+      ],
+      "pt": [
+        "caixa de correio aberta com bandeira abaixada",
+        "aberta | bandeira | caixa de correio aberta com bandeira abaixada | caixa de correspondência aberta com bandeira abaixada | caixa de correspondência aberta e vazia | correspondência"
+      ],
+      "it": [
+        "cassetta postale aperta bandierina abbassata",
+        "aperta | bandierina | buca delle lettere | cassetta postale | cassetta postale aperta bandierina abbassata | cassetta postale aperta bandierina giù | cassetta postale con bandierina abbassata | consegna | inviare | mail | posta | ricevere"
+      ],
+      "ro": [
+        "cutie poștală deschisă cu steagul jos",
+        "căsuță poștală | căsuță poștală goală | corespondență | cutie poștală | cutie poștală deschisă cu steagul jos | cutie poștală goală | deschis | poștă"
+      ],
+      "he": [
+        "תיבת דואר פתוחה עם דגלון למטה",
+        "דואר | פתוחה | תיבת דואר | תיבת דואר פתוחה עם דגלון למטה"
+      ],
+      "ar": [
+        "صندوق بريد مفتوح بإشارة لأسفل",
+        "بريد | صندوق بريد بعلامة لأعلى | صندوق بريد مفتوح بإشارة لأسفل | علبة بريد | مفتوح"
+      ],
+      "tr": [
+        "işareti aşağıda açık posta kutusu",
+        "açık | işaret | işareti aşağıda açık posta kutusu | işareti indirilmiş açık posta kutusu | posta"
+      ],
+      "vi": [
+        "hộp thư được mở với lá cờ nằm ngang",
+        "hòm thư | hộp thư | hộp thư được mở với lá cờ nằm ngang | mở | nằm ngang | thư"
+      ],
+      "nl": [
+        "open brievenbus met vlaggetje omlaag",
+        "brievenbus | omlaag | open | open brievenbus met vlaggetje omlaag | post | postbus"
+      ]
+    }
+  ],
+  "📮": [
+    "other",
+    "postbox",
+    {
+      "en": ["postbox", "mail | mailbox | postbox"],
+      "ru": ["почтовый ящик", "корреспонденция | почта | почтовый | ящик"],
+      "pl": ["skrzynka na listy", "listy | na listy | pocztowa | skrzynka"],
+      "fr": ["boîte aux lettres", "boîte aux lettres | courrier | poste"],
+      "de": ["Briefkasten", "Brief | Briefkasten | Post"],
+      "es": ["buzón", "buzón | cartas | correo"],
+      "pt": [
+        "caixa de correio",
+        "caixa | carta | correio | correspondência | enviar"
+      ],
+      "it": [
+        "cassetta delle lettere",
+        "buca delle lettere | c’è posta per te | cassetta delle lettere | inviare | lettera | posta | poste | ricevere | spedire"
+      ],
+      "ro": ["cutie poștală", "corespondență | cutie poștală | poștă"],
+      "he": ["תיבת דואר", "דואר | מכתב | תיבת דואר"],
+      "ar": ["صندوق بريد", "بريد | صندوق بريد"],
+      "tr": ["posta kutusu", "posta | posta kutusu"],
+      "vi": ["hòm thư", "hòm thư | hộp thư | thư"],
+      "nl": [
+        "brievenbus",
+        "brief posten | brievenbus | brievenbus met brief | post | postbus"
+      ]
+    }
+  ],
+  "📯": [
+    "other",
+    "postal horn",
+    {
+      "en": ["postal horn", "horn | post | postal"],
+      "ru": ["почтовый рожок", "почта | почтовый рожок | рожок | труба"],
+      "pl": [
+        "trąbka pocztowa",
+        "poczta | pocztowa | pocztyliona | róg | trąbka"
+      ],
+      "fr": ["cor postal", "cor de facteur | cor postal | facteur | poste"],
+      "de": ["Posthorn", "Brief | E-Mail | Post | Posthorn"],
+      "es": ["corneta de posta", "corneta | corneta de posta | posta"],
+      "pt": ["corneta postal", "corneta | correios | postal"],
+      "it": [
+        "corno postale",
+        "cornetta da postiglione | cornetto postale | corno | nuovo messaggio | postale | tromba | trombone"
+      ],
+      "ro": [
+        "corn poștal",
+        "corn | corn poștal | goarnă | poștă | trâmbiță | trompetă"
+      ],
+      "he": ["קרן דואר", "דואר | חצוצרה | קרן"],
+      "ar": ["جرس بريد", "بوق | جرس | جرس بريد | نفخ"],
+      "tr": ["posta klaksonu", "borozan | klakson | posta | posta klaksonu"],
+      "vi": ["kèn bưu chính", "bưu chính | bưu điện | kèn | kèn bưu chính"],
+      "nl": [
+        "posthoorn",
+        "blaasinstrument | hoorn | jachthoorn | post | posthoorn"
+      ]
+    }
+  ],
+  "📰": [
+    "other",
+    "newspaper",
+    {
+      "en": ["newspaper", "communication | news | newspaper | paper"],
+      "ru": ["газета", "газета | известия | издание | новости | печать"],
+      "pl": ["gazeta", "gazeta | wiadomości"],
+      "fr": [
+        "journal",
+        "actualités | communication | gros titres | journal | presse | une"
+      ],
+      "de": ["Zeitung", "Medien | Nachrichten | Presse | Zeitung"],
+      "es": ["periódico", "diario | periódico"],
+      "pt": ["jornal", "jornal | notícias"],
+      "it": ["quotidiano", "giornale | notizia | quotidiano"],
+      "ro": [
+        "ziar",
+        "comunicare | gazetă | hârtie | presă | publicație | știri | ziar"
+      ],
+      "he": ["עיתון", "חדשות | עיתון | תקשורת"],
+      "ar": ["جريدة", "أخبار | جريدة | صحافة | صحيفة"],
+      "tr": ["gazete", "gazete | haber | kağıt | kâğıt"],
+      "vi": ["báo", "báo | tạp chí | tin tức"],
+      "nl": [
+        "krant",
+        "dagblad | krant | nieuws | nieuwsblad | voorpagina | weekblad"
+      ]
+    }
+  ],
+  "📱": [
+    "other",
+    "mobile phone",
+    {
+      "en": [
+        "mobile phone",
+        "cell | communication | mobile | phone | telephone"
+      ],
+      "ru": [
+        "мобильный телефон",
+        "мобильник | мобильный | смартфон | сотовый | телефон"
+      ],
+      "pl": [
+        "telefon komórkowy",
+        "komóra | komórka | smartfon | telefon | telefon komórkowy"
+      ],
+      "fr": [
+        "téléphone portable",
+        "communication | smartphone | téléphone | téléphone portable"
+      ],
+      "de": [
+        "Mobiltelefon",
+        "Handy | iPhone | Mobiltelefon | Smartphone | telefonieren"
+      ],
+      "es": ["teléfono móvil", "celular | móvil | teléfono"],
+      "pt": ["telefone celular", "celular | telefone | telefone móvel"],
+      "it": [
+        "telefono cellulare",
+        "cellulare | chiamare | comunicare | smartphone | telefono"
+      ],
+      "ro": [
+        "telefon mobil",
+        "celular | comunicare | dispozitiv | mobil | mobilitate | telefon"
+      ],
+      "he": ["טלפון נייד", "טלפון | נייד | סלולרי"],
+      "ar": [
+        "هاتف جوال",
+        "تليفون | خلوي | محمول | موبايل | نقال | هاتف | هاتف جوال"
+      ],
+      "tr": ["cep telefonu", "cep telefonu | iPhone | mobil telefon | telefon"],
+      "vi": ["điện thoại di động", "di động | điện thoại | điện thoại di động"],
+      "nl": [
+        "mobiele telefoon",
+        "bellen | communicatie | mobiel | mobiele telefoon | smartphone | telefoon"
+      ]
+    }
+  ],
+  "📳": [
+    "other",
+    "vibration mode",
+    {
+      "en": [
+        "vibration mode",
+        "cell | communication | mobile | mode | phone | telephone | vibration"
+      ],
+      "ru": [
+        "режим вибрации",
+        "вибрация | мобильник | мобильный | режим | режим вибрации | смартфон | телефон | телефон вибрирует"
+      ],
+      "pl": [
+        "tryb wibracji",
+        "komórka | telefon komórkowy | tryb wibracji | wibracje | znak"
+      ],
+      "fr": [
+        "mode vibreur",
+        "communication | mode vibreur | portable | téléphone | vibreur"
+      ],
+      "de": [
+        "Vibrationsmodus",
+        "Handy | Kommunikation | Mobiltelefon | Symbol für Vibrationsalarm | Vibration | Vibrationsmodus | vibrieren"
+      ],
+      "es": [
+        "modo vibración",
+        "modo vibración | móvil | teléfono | teléfono celular | vibración"
+      ],
+      "pt": [
+        "modo vibratório",
+        "cel | celular | modo | modo vibratório | smartphone | telefone | vibração"
+      ],
+      "it": [
+        "modalità vibrazione",
+        "cellulare | modalità telefono | modalità vibrazione | telefono | telefono modalità"
+      ],
+      "ro": [
+        "modul vibrare",
+        "celular | mobil | modul vibrare | telefon | vibrare | vibrație"
+      ],
+      "he": ["מצב רטט", "מושתק | מצב רטט | נייד | סלולרי | רטט"],
+      "ar": [
+        "وضع اهتزاز",
+        "تليفون | جوال | رمز | هاتف | هاتف خلوي | هاتف نقال | وضع | وضع اهتزاز"
+      ],
+      "tr": [
+        "titreşim modu",
+        "cep telefonu | mobil | mod | telefon | titreşim modu"
+      ],
+      "vi": [
+        "chế độ rung",
+        "chế độ | chế độ rung | di động | điện thoại | điện thoại di động | rung"
+      ],
+      "nl": ["trilstand", "communicatie | mobiel | modus | telefoon | trillen"]
+    }
+  ],
+  "📴": [
+    "other",
+    "mobile phone off",
+    {
+      "en": ["mobile phone off", "cell | mobile | off | phone | telephone"],
+      "ru": [
+        "выключенный телефон",
+        "выключен | выключенный телефон | выключено | мобильник | мобильный | смартфон | сотовый | телефон"
+      ],
+      "pl": [
+        "wyłączony telefon komórkowy",
+        "komórka | telefon komórkowy | wyłącz | wyłącz telefon | wyłączony | wyłączony telefon komórkowy"
+      ],
+      "fr": [
+        "téléphone éteint",
+        "éteindre | portable | téléphone | téléphone éteint"
+      ],
+      "de": [
+        "Mobiltelefon aus",
+        "ausschalten | Handy aus | Mobiltelefon | Mobiltelefon aus"
+      ],
+      "es": [
+        "teléfono móvil apagado",
+        "apagado | móvil | teléfono | teléfono celular"
+      ],
+      "pt": [
+        "telefone celular desligado",
+        "celular | desligado | desligue o celular | smartphone | telefone"
+      ],
+      "it": [
+        "cellulare spento",
+        "cellulare | off | simbolo | spento | telefono"
+      ],
+      "ro": [
+        "închidere telefoane mobile",
+        "celular | dezactivare | închidere telefoane mobile | închis | mobil | oprit | telefon"
+      ],
+      "he": ["נייד כבוי", "כבוי | לכבות | לכבות טלפונים | נייד | סלולרי"],
+      "ar": [
+        "إغلاق الجوال",
+        "إغلاق الجوال | اغلاق الجوال | تليفون | جوال | رمز | هاتف خلوي | هاتف مطفي | هاتف مغلق"
+      ],
+      "tr": [
+        "cep telefonu kapalı",
+        "cep telefonu | cep telefonu kapalı | kapalı | mobil | telefon"
+      ],
+      "vi": [
+        "tắt điện thoại di động",
+        "di động | điện thoại | tắt | tắt điện thoại di động"
+      ],
+      "nl": ["telefoon uit", "mobiel | telefoon | uit"]
+    }
+  ],
+  "📵": [
+    "other",
+    "no mobile phones",
+    {
+      "en": [
+        "no mobile phones",
+        "cell | forbidden | mobile | no | not | phone | phones | prohibited | telephone"
+      ],
+      "ru": [
+        "мобильные телефоны запрещены",
+        "запрещен | запрещено | запрещены | звонить | звонки | мобильный | перечеркнутый | смартфон | сотовый | телефон"
+      ],
+      "pl": [
+        "zakaz korzystania z telefonów komórkowych",
+        "komórka | nie wnosić | nie wolno | telefon komórkowy | zabroniony | zakaz | zakaz korzystania z telefonów komórkowych"
+      ],
+      "fr": [
+        "téléphones portables interdits",
+        "interdiction | interdit | portable | téléphone | téléphones portables interdits"
+      ],
+      "de": [
+        "Mobiltelefone verboten",
+        "Handy | Mobiltelefon | Mobiltelefone verboten | Verbot"
+      ],
+      "es": [
+        "prohibido el uso de móviles",
+        "móvil | no hacer llamadas | prohibido | prohibido el uso de móviles | teléfono"
+      ],
+      "pt": [
+        "proibido o uso de telefone celular",
+        "cel | celular | não | permitidos | proibido | sem | smartphone | telefone"
+      ],
+      "it": [
+        "simbolo che vieta l’uso dei cellulari",
+        "cellulari vietati | divieto | niente cellulare | no cellulare | no telefono | proibito | segnale | segno | simbolo | simbolo che vieta l’uso dei cellulari | telefono | vietato telefonare"
+      ],
+      "ro": [
+        "telefoanele mobile sunt interzise",
+        "celular | fără telefoane | interdicție | interzis | mobil | nu | telefoanele mobile sunt interzise | telefon"
+      ],
+      "he": [
+        "אין להשתמש במכשירים ניידים",
+        "אין להשתמש במכשירים סלולריים | איסור | אסור | בלי טלפונים | טלפון | לסגור את הטלפון | נייד | סלולרי"
+      ],
+      "ar": [
+        "ممنوع استخدام الهاتف الجوال",
+        "جوال | خلوي | رمز | عدم استعمال الهاتف | ممنوع استخدام الهاتف الجوال | ممنوع استخدام الهاتف الخلوي | ممنوع الاتصال | نقال | هاتف"
+      ],
+      "tr": [
+        "cep telefonu yasak",
+        "çağrı yapılmaz | cep telefonu yasak | mobil | telefon"
+      ],
+      "vi": [
+        "cấm điện thoại di động",
+        "cấm | cấm điện thoại di động | di động | điện thoại | điện thoại di động | không"
+      ],
+      "nl": [
+        "geen mobiele telefoon",
+        "mobiel | nee | niet | telefoon | telefoons | verboden"
+      ]
+    }
+  ],
+  "📶": [
+    "other",
+    "antenna with bars",
+    {
+      "en": [
+        "antenna bars",
+        "antenna | bar | bars | cell | communication | mobile | phone | signal | telephone"
+      ],
+      "ru": [
+        "сигнал сети",
+        "антенна | подключение | связь | сигнал сети | телефон | уровень сигнала"
+      ],
+      "pl": ["siła sygnału", "sieć komórkowa | siła sygnału | zasięg"],
+      "fr": [
+        "barres de réseau",
+        "barres de réseau | communication | couverture | portable | réception | réseau | téléphone"
+      ],
+      "de": [
+        "balkenförmige Signalstärkenanzeige",
+        "balkenförmige Signalstärkenanzeige | Balkenförmige Signalstärkenanzeige | Empfang | Mobilfunksignal | Mobiltelefon | Signalstärke"
+      ],
+      "es": [
+        "barras de cobertura",
+        "antena | barras de cobertura | celular | móvil | señal | teléfono"
+      ],
+      "pt": [
+        "barras de sinal",
+        "antena | antena com barras | barras de sinal | celular | conexão | força do sinal | internet | sinais de telefonia móvel | telefone"
+      ],
+      "it": [
+        "segnale cellulare",
+        "antenna | antenna con tacche intensità segnale | cellulare | segnale | tacche | telefono"
+      ],
+      "ro": [
+        "bare de semnal",
+        "antenă | bară | bare | bare de rețea | bare de semnal | celular | comunicare | mobil | rețea | semnal | telefon"
+      ],
+      "he": ["סמל עצמת קליטה", "אות | אנטנה | טלפון | נייד | סלולרי | קליטה"],
+      "ar": [
+        "إشارات هوائي",
+        "أنتين | إشارات الجوال | إشارات هوائي | إشارة | الإشارة | تواصل | جوال | خلوي | شبكة | قوة الإشارة | مؤشر بأشرطة | هاتف"
+      ],
+      "tr": [
+        "sinyal gücü",
+        "anten | çubuk işaretli anten | mobil | sinyal | sinyal gücü | telefon"
+      ],
+      "vi": ["vạch ăng-ten", "ăng-ten | di động | điện thoại | vạch"],
+      "nl": [
+        "mobiel signaal",
+        "antenne | communicatie | mobiel | signaal | streep | streepjes | telefoon"
+      ]
+    }
+  ],
+  "📷": [
+    "other",
+    "camera",
+    {
+      "en": ["camera", "camera | photo | selfie | snap | tbt | trip | video"],
+      "ru": ["фотоаппарат", "съемка | фото | фотоаппарат | фотокамера"],
+      "pl": [
+        "aparat fotograficzny",
+        "aparat | fotografia | fotograficzny | robić zdjęcie | wideo | zdjęcie"
+      ],
+      "fr": ["appareil photo", "appareil photo | photo | selfie | vidéo"],
+      "de": ["Fotoapparat", "Fotoapparat | Fotos | Kamera"],
+      "es": ["cámara de fotos", "cámara | cámara de fotos"],
+      "pt": ["câmera", "câmera | foto | selfie | vídeo"],
+      "it": [
+        "fotocamera",
+        "foto | fotocamera | fotografare | instagram | macchina fotografica | ricordi | scattare foto | selfie | viaggiare | video"
+      ],
+      "ro": [
+        "cameră foto",
+        "aparat de fotografiat | călătorie | cameră | cameră foto | excursie | fotografie | poză | selfie | video"
+      ],
+      "he": ["מצלמה", "וידאו | מצלמה | מצלמת כיס | צילום"],
+      "ar": [
+        "كاميرا",
+        "التقاط | انستاغرام | تصوير | سلفي | سيلفي | صورة | فيديو | كاميرا | لحظات"
+      ],
+      "tr": ["fotoğraf makinesi", "fotoğraf makinesi | video"],
+      "vi": ["máy ảnh", "máy ảnh | video"],
+      "nl": [
+        "camera",
+        "camera | fotocamera | fotograferen | selfie | snap | video"
+      ]
+    }
+  ],
+  "📸": [
+    "other",
+    "camera with flash",
+    {
+      "en": ["camera with flash", "camera | flash | video"],
+      "ru": [
+        "фотоаппарат со вспышкой",
+        "вспышка | съемка | фото | фотоаппарат | фотоаппарат со вспышкой | фотокамера"
+      ],
+      "pl": [
+        "aparat fotograficzny z lampą błyskową",
+        "aparat | błyskowa | błyskową | flesz | fotograficzny | lampa | z lampą | zdjęcie"
+      ],
+      "fr": [
+        "appareil photo avec flash",
+        "appareil photo | appareil photo avec flash | flash"
+      ],
+      "de": [
+        "Fotoapparat mit Blitz",
+        "Blitz | Fotoapparat | Fotoapparat mit Blitz"
+      ],
+      "es": ["cámara con flash", "cámara | cámara con flash | flash"],
+      "pt": ["câmera com flash", "câmera | flash | foto | fotografia | vídeo"],
+      "it": [
+        "fotocamera con flash",
+        "flash | foto con flash | fotocamera | fotocamera con flash | fotografare | macchina fotografica | macchina fotografica con flash | ricordi | scattare foto | selfie"
+      ],
+      "ro": [
+        "cameră foto cu bliț",
+        "aparat de fotografiat | bliț | cameră | cameră foto cu bliț | fotografie | video"
+      ],
+      "he": [
+        "מצלמה עם פלאש",
+        "הבזק | לצלם | מבזק | מצלמה | מצלמה עם פלאש | פלאש | צילום"
+      ],
+      "ar": ["كاميرا بفلاش", "تصوير | فلاش | فيديو | كاميرا | كاميرا بفلاش"],
+      "tr": [
+        "flaşlı fotoğraf makinesi",
+        "flaş | flaşlı fotoğraf makinesi | kamera | video"
+      ],
+      "vi": [
+        "máy ảnh có đèn flash",
+        "đèn flash | máy ảnh | máy ảnh có đèn flash | video"
+      ],
+      "nl": [
+        "camera met flitser",
+        "camera | camera met flitser | flitser | fotograferen | video"
+      ]
+    }
+  ],
+  "📹": [
+    "other",
+    "video camera",
+    {
+      "en": ["video camera", "camcorder | camera | tbt | video"],
+      "ru": ["видеокамера", "видео | видеокамера | запись | съемка"],
+      "pl": ["kamera wideo", "kamera | nagrywać | wideo"],
+      "fr": ["caméscope", "caméra | caméscope | filmer | vidéo"],
+      "de": ["Videokamera", "filmen | Videokamera | Videos"],
+      "es": ["videocámara", "cámara | vídeo | videocámara"],
+      "pt": ["câmera de vídeo", "câmera | filmadora | vídeo"],
+      "it": [
+        "videocamera",
+        "attore | attrice | camera | film | filmare | filmino | fotocamera | regista | registrare | telecamera | video | videocamera"
+      ],
+      "ro": ["cameră video", "amator | cameră | filmare | video"],
+      "he": ["מצלמת וידאו", "וידאו | מצלמה | מצלמת וידאו | צילום"],
+      "ar": ["كاميرا فيديو", "ذكريات | فيديو | كاميرا"],
+      "tr": ["video kamera", "kamera | video"],
+      "vi": ["máy quay video", "máy quay phim | máy quay video | video"],
+      "nl": ["videocamera", "camcorder | camera | video | videocamera"]
+    }
+  ],
+  "📺": [
+    "other",
+    "television",
+    {
+      "en": ["television", "television | tv | video"],
+      "ru": ["телевизор", "тв | телевидение | телевизор"],
+      "pl": [
+        "telewizja",
+        "kineskop | kineskopowy | odbiornik | stary telewizor | telewizja | telewizor | z anteną"
+      ],
+      "fr": ["téléviseur", "petit écran | télé | téléviseur | télévision | TV"],
+      "de": ["Fernseher", "Fernsehen | Fernseher | Film | TV"],
+      "es": ["televisión", "televisión | tv"],
+      "pt": ["televisão", "canal | televisão | TV | vídeo"],
+      "it": ["televisore", "arredamento | televisione | televisore | TV"],
+      "ro": ["televizor", "televizor | tv | video"],
+      "he": ["טלוויזיה", "TV | וידאו | טלוויזיה | מסך"],
+      "ar": ["تليفزيون", "تلفزيون | تليفزيون | تي في | سهرة | فيديو | مشاهدة"],
+      "tr": ["televizyon", "televizyon | tv | video"],
+      "vi": ["tivi", "tivi | tv | video"],
+      "nl": ["tv", "beeld | beeldbuis | televisie | tv"]
+    }
+  ],
+  "📻": [
+    "other",
+    "radio",
+    {
+      "en": ["radio", "entertainment | radio | tbt | video"],
+      "ru": ["радио", "передача | приемник | радио | сигнал"],
+      "pl": ["radio", "odbiornik | radio | radioodbiornik | radiowy"],
+      "fr": [
+        "radio",
+        "actualités | communication | loisirs | musique | radio | vidéo"
+      ],
+      "de": ["Radio", "Musik | Radio"],
+      "es": ["radio", "radio"],
+      "pt": ["rádio", "rádio | radiola | som | vídeo"],
+      "it": [
+        "radio",
+        "ascoltare | ascoltare la radio | musica | radio | stazioni radio"
+      ],
+      "ro": ["radio", "divertisment | radio | tbt | video"],
+      "he": ["רדיו", "מוזיקה | מוסיקה | רדיו"],
+      "ar": ["راديو", "اذاعة | ترفيه | تسلية | راديو | فيديو"],
+      "tr": ["radyo", "radyo | video"],
+      "vi": ["radio", "radio | video"],
+      "nl": ["radio", "entertainment | muziek | radio"]
+    }
+  ],
+  "📼": [
+    "other",
+    "videocassette",
+    {
+      "en": [
+        "videocassette",
+        "old | school | tape | vcr | vhs | video | videocassette"
+      ],
+      "ru": ["видеокассета", "видео | видеокассета | кассета | пленка"],
+      "pl": ["kaseta wideo", "kaseta wideo | taśma | VHS"],
+      "fr": [
+        "cassette vidéo",
+        "cassette vidéo | magnétoscope | vhs | vidéocassette | vintage"
+      ],
+      "de": ["Videokassette", "vhs | Video | Videokassette"],
+      "es": ["cinta de vídeo", "cinta | cinta de vídeo"],
+      "pt": ["videocassete", "cassete | fita | vhs | vídeo | videocassete"],
+      "it": [
+        "videocassetta",
+        "cassetta | registrare | VHS | video | videocassetta | vintage"
+      ],
+      "ro": [
+        "casetă video",
+        "casetă | modă veche | vhs | VHS | video | vintage"
+      ],
+      "he": ["קלטת וידאו", "VHS | וידאו | קלטת | קסטה"],
+      "ar": ["شريط فيديو", "vcr | شريط | فيديو"],
+      "tr": ["videokaset", "teyp | video | video kaseti | videokaset"],
+      "vi": ["băng video", "băng | vhs | video"],
+      "nl": ["videoband", "band | film | vhs | video | videoband"]
+    }
+  ],
+  "📽": [
+    "other",
+    "film projector",
+    {
+      "en": ["film projector", "cinema | film | movie | projector | video"],
+      "ru": ["кинопроектор", "видео | кино | кинопроектор | показ | проектор"],
+      "pl": [
+        "projektor filmowy",
+        "film | filmowy | kino | projekcja | projektor"
+      ],
+      "fr": [
+        "projecteur cinématographique",
+        "cinéma | film | projecteur | projecteur cinématographique | vidéo"
+      ],
+      "de": ["Filmprojektor", "Filmprojektor | Kino | Unterhaltung"],
+      "es": [
+        "proyector de cine",
+        "cine | película | proyector | proyector de cine"
+      ],
+      "pt": [
+        "projetor de filmes",
+        "cinema | filme | projetor | projetor de filmes | vídeo"
+      ],
+      "it": [
+        "proiettore cinematografico",
+        "cinema | cinepresa | film | filmato | fotocamera | fotografare | macchina fotografica | ricordi | riproduzione | scattare foto | video | videoproiettore"
+      ],
+      "ro": [
+        "proiector de film",
+        "cinema | cinematograf | film | imagini | proiector | proiector de film | video"
+      ],
+      "he": ["מקרן קולנוע", "וידאו | מסרטה | מקרן | סרט | קולנוע"],
+      "ar": [
+        "جهاز عرض أفلام",
+        "أفلام | إسقاط فيديو | بروجكتور | جهاز عرض أفلام | سينما | عارض | فلم | فيلم"
+      ],
+      "tr": [
+        "film projektörü",
+        "film | film projektörü | projektör | sinema | video"
+      ],
+      "vi": [
+        "máy chiếu phim",
+        "máy chiếu | máy chiếu phim | phim | rạp chiếu phim | video"
+      ],
+      "nl": [
+        "filmprojector",
+        "bioscoop | film | filmprojector | projector | video"
+      ]
+    }
+  ],
+  "📾": ["other", "portable stereo", {}],
+  "📿": [
+    "other",
+    "prayer beads",
+    {
+      "en": ["prayer beads", "beads | clothing | necklace | prayer | religion"],
+      "ru": ["четки", "бусы | колье | молитва | ожерелье | религия | четки"],
+      "pl": [
+        "sznur modlitewny",
+        "korale | koraliki | modlitwa | naszyjnik | religia | różaniec | sznur modlitewny"
+      ],
+      "fr": [
+        "chapelet",
+        "accessoire | chapelet | collier | perles | prière | religion | vêtements"
+      ],
+      "de": [
+        "Gebetskette",
+        "beten | Gebet | Gebetskette | Kette | Religion | Rosenkranz"
+      ],
+      "es": ["rosario", "collar | cuentas | religión | rosario"],
+      "pt": [
+        "rosário de oração",
+        "acessório | oração | religião | reza | rosário | rosário de oração | terço"
+      ],
+      "it": ["collana da preghiera", "grani | perle | pregare | religione"],
+      "ro": [
+        "mătănii",
+        "îmbrăcăminte | lanț | mărgele | mătănii | meditație | religie | rugăciune"
+      ],
+      "he": ["מחרוזת תפילה", "דת | מחרוזת | מסבחה | סביחה | שרשרת | תפילה"],
+      "ar": ["مسبحة صلاة", "تسبيح | خرز | دين | صلاة | قلادة | مسبحة | ملابس"],
+      "tr": ["tespih", "boncuk | din | dua | giyim | kolye | tesbih | tespih"],
+      "vi": [
+        "tràng hạt",
+        "hạt | lời cầu nguyện | quần áo | tôn giáo | tràng hạt | vòng cổ"
+      ],
+      "nl": [
+        "gebedssnoer",
+        "gebed | gebedsketting | gebedskralen | gebedssnoer | geloof | ketting | kleding | kralen"
+      ]
+    }
+  ],
+  "🔅": [
+    "other",
+    "low brightness symbol",
+    {
+      "en": ["dim button", "brightness | button | dim | low"],
+      "ru": [
+        "низкая яркость",
+        "низкая яркость | низкий | солнышко | темно | уровень | яркость"
+      ],
+      "pl": [
+        "przycisk małej jasności",
+        "jasność | mała | niska | przyciemnić | przycisk małej jasności | słońce"
+      ],
+      "fr": [
+        "luminosité faible",
+        "brillance | lumière | luminosité | luminosité faible | soleil"
+      ],
+      "de": [
+        "Taste Dimmen",
+        "dimmen | gedimmt | Helligkeit | schwache Helligkeit | Schwache Helligkeit | Taste Dimmen"
+      ],
+      "es": ["brillo bajo", "bajo | brillo | señal de brillo bajo | tenue"],
+      "pt": [
+        "botão de diminuir brilho",
+        "botão de diminuir brilho | brilho | diminuir | escurecer | símbolo para reduzir brilho"
+      ],
+      "it": [
+        "luminosità bassa",
+        "bassa | faretto | faro | luce | luminosità | simbolo luminosità | sole | tenue"
+      ],
+      "ro": [
+        "buton de scădere a luminozității",
+        "buton de scădere a luminozității | diminuare lumină | întunecare | luminozitate | reducere | scădere"
+      ],
+      "he": ["לחצן עמעום תאורה", "בהירות | לחצן עמעום תאורה | עמעום תאורה"],
+      "ar": ["زر سطوع منخفض", "اقل سطوع | رمز | زر | سطوع | معتم | منخفض"],
+      "tr": [
+        "düşük parlaklık",
+        "düşük | düşük parlaklık işareti | karanlık | parlaklık"
+      ],
+      "vi": ["nút mờ", "độ sáng | mờ | nút mờ | thấp"],
+      "nl": [
+        "knop voor lagere helderheid",
+        "dimmen | helderheid | knop voor lagere helderheid | laag"
+      ]
+    }
+  ],
+  "🔆": [
+    "other",
+    "high brightness symbol",
+    {
+      "en": ["bright button", "bright | brightness | button | light"],
+      "ru": [
+        "высокая яркость",
+        "высокая яркость | высокий | светло | уровень | яркость"
+      ],
+      "pl": [
+        "przycisk dużej jasności",
+        "duża | jasność | przycisk dużej jasności | rozjaśnić | słońce | wysoka"
+      ],
+      "fr": [
+        "luminosité élevée",
+        "brillance | lumière | luminosité | luminosité élevée | soleil"
+      ],
+      "de": [
+        "Heller-Taste",
+        "heller | Heller-Taste | Helligkeit | starke Helligkeit | Starke Helligkeit"
+      ],
+      "es": ["brillo alto", "alto | brillante | brillo | señal de brillo alto"],
+      "pt": [
+        "botão de aumentar brilho",
+        "aumentar brilho | botão de aumentar brilho | brilho | símbolo para aumentar brilho"
+      ],
+      "it": [
+        "luminosità elevata",
+        "alta luminosità | luminosità | luminosità elevata | luminoso | simbolo alta luminosità | sole"
+      ],
+      "ro": [
+        "buton de creștere a luminozității",
+        "buton de creștere a luminozității | buton de luminozitate | buton luminozitate | creștere | lumină | luminos | luminozitate"
+      ],
+      "he": [
+        "כפתור הגברת עוצמת תאורה",
+        "בהירות | כפתור הגברת עוצמת תאורה | עצמת תאורה"
+      ],
+      "ar": [
+        "زر سطوع مرتفع",
+        "حرارة | رمز | زر | زر السطوع | زر سطوع مرتفع | ساطع | سطوع | سطوع مرتفع | شمس | مشمس"
+      ],
+      "tr": [
+        "yüksek parlaklık",
+        "parlak | parlaklık | yüksek parlaklık | yüksek parlaklık işareti"
+      ],
+      "vi": ["nút sáng", "độ sáng | nút sáng | sáng"],
+      "nl": [
+        "knop voor hogere helderheid",
+        "helder | helderheid | knop | licht"
+      ]
+    }
+  ],
+  "🔇": [
+    "other",
+    "speaker with cancellation stroke",
+    {
+      "en": [
+        "muted speaker",
+        "mute | muted | quiet | silent | sound | speaker"
+      ],
+      "ru": [
+        "без звука",
+        "без звука | громкость | звук | молчание | тихо | тишина"
+      ],
+      "pl": [
+        "wyciszony głośnik",
+        "cicho | cisza | głośnik | głośność | wyciszony głośnik | wyciszyć"
+      ],
+      "fr": [
+        "muet",
+        "chut | enceinte | haut-parleur barré | haut-parleur d’enceinte | muet | silence | son | sourdine"
+      ],
+      "de": [
+        "durchgestrichener Lautsprecher",
+        "durchgestrichener Lautsprecher | Durchgestrichener Lautsprecher | leise | psst | stumm | stummgeschaltet"
+      ],
+      "es": [
+        "altavoz silenciado",
+        "altavoz | altavoz con marca de cancelación | altavoz silenciado | mute | silencio"
+      ],
+      "pt": [
+        "alto-falante silenciado",
+        "alto-falante | calar | mudo | mute | quieto | silenciar | silêncio | som"
+      ],
+      "it": [
+        "altoparlante disattivato",
+        "altoparlante barrato | audio | megafono barrato | musica | muto | no audio | no volume | silenzioso | speaker barrato | suono disattivato | volume | zitto"
+      ],
+      "ro": [
+        "difuzor fără sunet",
+        "difuzor | difuzor dezactivat | difuzor fără sunet | fără sunet | liniște | mut | oprit | silențios | sonor tăiat"
+      ],
+      "he": [
+        "רמקול מושתק",
+        "השתקה | ווליום | להשתיק | מושתק | קול מושתק | רמקול | שקט"
+      ],
+      "ar": [
+        "ممنوع الحديث",
+        "تسكيت | تصميت | رمز | سبيكر | سماعة وعلامة إلغاء | صامت | صمت | ممنوع الحديث | ميوت | هدوء"
+      ],
+      "tr": [
+        "ses kapalı",
+        "iptal işaretli hoparlör | lütfen sessiz olun | ses kapalı | sessiz olun"
+      ],
+      "vi": [
+        "tắt loa",
+        "cái loa | im lặng | không ồn ào | tắt loa | tắt tiếng"
+      ],
+      "nl": [
+        "speaker uit",
+        "dempen | geen geluid | geluid uit | luidspreker | mute | speaker | speaker uit | stil | volume"
+      ]
+    }
+  ],
+  "🔈": [
+    "other",
+    "speaker",
+    {
+      "en": ["speaker low volume", "low | soft | sound | speaker | volume"],
+      "ru": [
+        "низкая громкость",
+        "громкость | динамик | звук | низкая | уровень"
+      ],
+      "pl": [
+        "niska głośność głośnika",
+        "dźwięk | głośnik | głośność | niska głośność | niska głośność głośnika"
+      ],
+      "fr": [
+        "volume des enceintes faible",
+        "enceinte | haut-parleur | haut-parleur d’enceinte | son | volume bas | volume des enceintes faible"
+      ],
+      "de": [
+        "Lautsprecher mit geringer Lautstärke",
+        "eingeschaltet | Lautsprecher mit geringer Lautstärke | Ton an"
+      ],
+      "es": ["altavoz a volumen bajo", "altavoz a volumen bajo | volumen bajo"],
+      "pt": [
+        "alto-falante com volume baixo",
+        "alto-falante | baixo | mudo | música | silêncio | som | volume"
+      ],
+      "it": [
+        "altoparlante a volume basso",
+        "altoparlante a basso volume | altoparlante a volume basso | altoparlante attivato | audio | basso volume | megafono | speaker | suoneria | suono | suono attivo | volume | volume basso"
+      ],
+      "ro": [
+        "volum scăzut al difuzorului",
+        "boxă | dat încet | difuzor | sunet | sunet slab | volum | volum mic | volum scăzut al difuzorului"
+      ],
+      "he": ["ווליום נמוך", "ווליום נמוך | ווליום נמוך של הרמקול | נמוך"],
+      "ar": [
+        "صوت سماعة منخفض",
+        "رمز | سبيكر | سماعة | صوت | صوت سماعة منخفض | صوت منخفض | مجهر | مكبّر صوت | منخفض جدا"
+      ],
+      "tr": ["kısık ses", "hoparlör ses düzeyi | kısık ses | ses düzeyi"],
+      "vi": ["âm lượng loa thấp", "âm lượng loa thấp | âm thanh | nhẹ | nhỏ"],
+      "nl": ["speaker", "laag volume | luidspreker | speaker | volume | zacht"]
+    }
+  ],
+  "🔉": [
+    "other",
+    "speaker with one sound wave",
+    {
+      "en": ["speaker medium volume", "medium | sound | speaker | volume"],
+      "ru": [
+        "средняя громкость",
+        "громкоговоритель | громкость | динамик | звук | рупор | спикер | средняя | уровень"
+      ],
+      "pl": [
+        "średnia głośność głośnika",
+        "dźwięk | głośnik | głośność | mała głośność | średnia głośność | średnia głośność głośnika"
+      ],
+      "fr": [
+        "volume des enceintes moyen",
+        "enceinte | haut-parleur | haut-parleur d’enceinte | son | volume des enceintes moyen | volume moyen"
+      ],
+      "de": [
+        "Lautsprecher mit mittlerer Lautstärke",
+        "Lautsprecher mit einer Schallwelle | Lautsprecher mit mittlerer Lautstärke | leise | mittellaut | Ton"
+      ],
+      "es": [
+        "altavoz a volumen medio",
+        "altavoz a volumen medio | altavoz con volumen medio | medio | volumen medio"
+      ],
+      "pt": [
+        "alto-falante com volume médio",
+        "alto-falante | baixo | diminuir | médio | som | volume"
+      ],
+      "it": [
+        "altoparlante a volume intermedio",
+        "altoparlante a volume intermedio | altoparlante volume basso | audio | basso | megafono | speaker | suono | volume basso | volume intermedio | volume medio"
+      ],
+      "ro": [
+        "volum mediu al difuzorului",
+        "difuzor activat | difuzor pornit | sunet | sunet mediu | volum mediu | volum mediu al difuzorului"
+      ],
+      "he": [
+        "ווליום בינוני",
+        "בינוני | ווליום בינוני | ווליום בינוני של הרמקול"
+      ],
+      "ar": [
+        "صوت معتدل",
+        "رمز | سبيكر | سماعة بصوت | سماعة بصوت منخفض | صوت | صوت سماعة متوسط | صوت معتدل | متوسط | منخفض"
+      ],
+      "tr": ["ses açık", "düşük | düşük ses | düşük sesli hoparlör | ses açık"],
+      "vi": [
+        "âm lượng loa trung bình",
+        "âm lượng loa trung bình | âm thanh | trung bình"
+      ],
+      "nl": [
+        "speaker aan",
+        "gemiddeld volume | luidspreker | speaker | speaker aan | volume"
+      ]
+    }
+  ],
+  "🔊": [
+    "other",
+    "speaker with three sound waves",
+    {
+      "en": [
+        "speaker high volume",
+        "high | loud | music | sound | speaker | volume"
+      ],
+      "ru": [
+        "высокая громкость",
+        "высокая | громкость | динамик | звук | уровень"
+      ],
+      "pl": [
+        "wysoka głośność głośnika",
+        "duża głośność | dźwięk | głośnik | głośność | wysoka głośność | wysoka głośność głośnika"
+      ],
+      "fr": [
+        "volume des enceintes élevé",
+        "enceinte | fort | haut-parleur | haut-parleur d’enceinte | musique | son | volume des enceintes élevé | volume élevé"
+      ],
+      "de": [
+        "Lautsprecher mit hoher Lautstärke",
+        "Dezibel | laut | Lautsprecher mit drei Schallwellen | Lautsprecher mit hoher Lautstärke | Musik | Schallwellen"
+      ],
+      "es": [
+        "altavoz a volumen alto",
+        "altavoz | altavoz a volumen alto | alto | volumen alto"
+      ],
+      "pt": [
+        "alto-falante com volume alto",
+        "alto | alto-falante | gritar | música | som | volume"
+      ],
+      "it": [
+        "altoparlante a volume alto",
+        "alto | altoparlante a volume alto | audio | megafono | musica | speaker | suono | volume"
+      ],
+      "ro": [
+        "volum ridicat al difuzorului",
+        "dat tare | difuzor | difuzor cu sunet puternic | gălăgie | muzică | sunet | sunet puternic | volum mare | volum ridicat"
+      ],
+      "he": ["ווליום חזק", "ווליום | חזק | רמקול"],
+      "ar": [
+        "صوت سماعة مرتفع",
+        "سماعة بصوت مرتفع | صوت سماعة مرتفع | صوت عالي | مرتفع"
+      ],
+      "tr": ["yüksek ses", "yüksek | yüksek ses | yüksek sesli hoparlör"],
+      "vi": ["âm lượng loa cao", "âm lượng loa cao | lớn"],
+      "nl": [
+        "speaker luid",
+        "hard | hoog volume | luid | luidspreker | speaker | volume"
+      ]
+    }
+  ],
+  "🔋": [
+    "other",
+    "battery",
+    {
+      "en": ["battery", "battery"],
+      "ru": [
+        "батарейка",
+        "аккумулятор | батарейка | батарея | заряд | уровень заряда"
+      ],
+      "pl": ["bateria", "akumulator | akumulatorek | bateria | energia"],
+      "fr": ["pile", "pile"],
+      "de": ["Batterie", "Akku | Batterie"],
+      "es": ["pila", "batería | pila"],
+      "pt": ["pilha", "bateria | pilha"],
+      "it": [
+        "batteria",
+        "autonomia | batteria | batteria scarica | carica | pila | ricaricare | verde"
+      ],
+      "ro": ["baterie", "baterie | energie"],
+      "he": ["סוללה", "בטריה | טעינה | לטעון | מצבר | סוללה"],
+      "ar": ["بطارية", "بطارية | طاقة"],
+      "tr": ["pil", "pil"],
+      "vi": ["pin", "pin"],
+      "nl": ["batterij", "batterij"]
+    }
+  ],
+  "🔌": [
+    "other",
+    "electric plug",
+    {
+      "en": ["electric plug", "electric | electricity | plug"],
+      "ru": ["вилка", "вилка | розетка | штекер | штепсель | электричество"],
+      "pl": ["wtyczka elektryczna", "elektryczna | podłączyć | prąd | wtyczka"],
+      "fr": [
+        "câble avec fiche électrique",
+        "branché | câble avec fiche électrique | électricité | prise | prise électrique"
+      ],
+      "de": ["Netzstecker", "Netzstecker | Stecker | Stromstecker"],
+      "es": [
+        "enchufe eléctrico",
+        "corriente | electricidad | eléctrico | enchufe"
+      ],
+      "pt": [
+        "tomada elétrica",
+        "cabo | elétrica | eletricidade | energia | plugue | tomada"
+      ],
+      "it": [
+        "spina elettrica",
+        "elettrica | elettricista | elettricità | presa elettrica | spina"
+      ],
+      "ro": [
+        "fișă electrică",
+        "electric | electricitate | fișă | fișă electrică | priză | ștecher"
+      ],
+      "he": ["תקע חשמלי", "חשמל | מתח | תקע | תקע חשמלי"],
+      "ar": ["فيشة كهرباء", "بريز | فيش كهرباء | فيشة كهرباء | كهرباء"],
+      "tr": ["elektrik fişi", "elektrik | elektrik fişi"],
+      "vi": ["phích cắm điện", "điện | phích cắm điện"],
+      "nl": ["stekker", "elektriciteit | elektrisch | stekker"]
+    }
+  ],
+  "🔍": [
+    "other",
+    "left-pointing magnifying glass",
+    {
+      "en": [
+        "magnifying glass tilted left",
+        "glass | lab | left | left-pointing | magnifying | science | search | tilted | tool"
+      ],
+      "ru": [
+        "лупа, наклоненная влево",
+        "влево | линза | лупа | лупа, наклоненная влево | наклоненная влево | стекло | увеличительное"
+      ],
+      "pl": [
+        "lupa pochylona w lewo",
+        "detektyw | lupa | pochylona | skierowana | szukaj | w lewo"
+      ],
+      "fr": [
+        "loupe orientée à gauche",
+        "agrandir | chercher | détective | loupe | loupe gauche | loupe orientée à gauche | recherche"
+      ],
+      "de": ["Lupe nach links", "Lupe nach links | Suche | Vergrößerungsglas"],
+      "es": [
+        "lupa orientada hacia la izquierda",
+        "buscar | lupa | lupa orientada hacia la izquierda"
+      ],
+      "pt": [
+        "lupa para a esquerda",
+        "aumento | busca | esquerda | ferramenta | lente | lupa | pesquisa | procura"
+      ],
+      "it": [
+        "lente di ingrandimento rivolta a sinistra",
+        "cerca | cercare | investigare | lente | lente d’ingrandimento | lente di ingrandimento rivolta a sinistra | lente ingrandimento | lente ingrandimento verso sinistra | verso sinistra"
+      ],
+      "ro": [
+        "lupă înclinată spre stânga",
+        "căutare | instrument | laborator | lupă | lupă înclinată spre stânga | lupă orientată spre stânga | mărire | sticlă | știință | unealtă"
+      ],
+      "he": [
+        "זכוכית מגדלת נוטה שמאלה",
+        "בלש | זכוכית | זכוכית מגדלת נוטה שמאלה | חיפוש | מגדלת | שרלוק"
+      ],
+      "ar": [
+        "عدسة مكبرة اتجاه اليسار",
+        "بحث | تكبير | عدسة | عدسة مكبرة اتجاه اليسار | عدسة مكبرة لليسار | علم | مختبر | مكبر"
+      ],
+      "tr": [
+        "sola dönük büyüteç",
+        "arama | büyüteç | cam | sola dönük büyüteç | solu gösteren | solu gösteren büyüteç"
+      ],
+      "vi": [
+        "kính phóng đại nghiêng sang trái",
+        "dụng cụ | kính | kính phóng đại nghiêng sang trái | phóng đại | tìm kiếm"
+      ],
+      "nl": [
+        "vergrootglas naar links gericht",
+        "gereedschap | glas | vergrootglas | vergrootglas naar links gericht | vergroten | zoeken"
+      ]
+    }
+  ],
+  "🔎": [
+    "other",
+    "right-pointing magnifying glass",
+    {
+      "en": [
+        "magnifying glass tilted right",
+        "contact | glass | lab | magnifying | right | right-pointing | science | search | tilted | tool"
+      ],
+      "ru": [
+        "лупа, наклоненная вправо",
+        "вправо | исследовать | лаборатория | лупа | лупа, наклоненная вправо | наклоненная вправо | стекло | увеличительное"
+      ],
+      "pl": [
+        "lupa pochylona w prawo",
+        "detektyw | lupa | pochylona | skierowana | szukaj | w prawo"
+      ],
+      "fr": [
+        "loupe orientée à droite",
+        "agrandir | chercher | détective | loupe | loupe droite | loupe orientée à droite | recherche"
+      ],
+      "de": [
+        "Lupe nach rechts",
+        "Lupe | Lupe nach rechts | Suche | Vergrößerungsglas"
+      ],
+      "es": [
+        "lupa orientada hacia la derecha",
+        "buscar | lupa | lupa orientada hacia la derecha"
+      ],
+      "pt": [
+        "lupa para a direita",
+        "aumento | busca | direita | ferramenta | lente | lupa | pesquisa | procura"
+      ],
+      "it": [
+        "lente di ingrandimento rivolta a destra",
+        "cercare | investigare | investigatore | lente | lente di ingrandimento rivolta a destra | lente ingrandimento | lente ingrandimento verso destra | ricerca | spia | spiare | trovare"
+      ],
+      "ro": [
+        "lupă înclinată spre dreapta",
+        "căutare | contact | instrument | laborator | lupă | lupă înclinată spre dreapta | lupă orientată spre dreapta | mărire | sticlă | știință | unealtă"
+      ],
+      "he": [
+        "זכוכית מגדלת נוטה ימינה",
+        "בלש | זכוכית | זכוכית מגדלת נוטה ימינה | חוקר | חיפוש | מגדלת"
+      ],
+      "ar": [
+        "عدسة مكبرة اتجاه اليمين",
+        "اداة | بحث | عدسة | عدسة مكبرة اتجاه اليمين | عدسة مكبرة لليمين | عدسة مكبرة يسار | علم | مختبر | مكبر"
+      ],
+      "tr": [
+        "sağa dönük büyüteç",
+        "arama | büyüteç | cam | sağa dönük büyüteç | sağı gösteren | sağı gösteren büyüteç"
+      ],
+      "vi": [
+        "kính lúp nghiêng sang phải",
+        "dụng cụ | kính | kính lúp nghiêng sang phải | kính phóng đại nghiêng sang phải | phóng đại | tìm kiếm"
+      ],
+      "nl": [
+        "vergrootglas naar rechts gericht",
+        "gereedschap | glas | vergrootglas | vergrootglas naar rechts gericht | vergroten | zoeken"
+      ]
+    }
+  ],
+  "🔏": [
+    "other",
+    "lock with ink pen",
+    {
+      "en": ["locked with pen", "ink | lock | locked | nib | pen | privacy"],
+      "ru": [
+        "закрытый замок с перьевой ручкой",
+        "закрытый замок | закрытый замок с перьевой ручкой | замок | защита | конфиденциальность | перо | перьевая ручка | перьевой наконечник | ручка"
+      ],
+      "pl": [
+        "zamknięta kłódka z piórem",
+        "atrament | kłódka | niejawne | pióro | podpis | prywatność | z piórem | zamknięta"
+      ],
+      "fr": [
+        "cadenas fermé avec stylo",
+        "cadenas avec un stylo plume | cadenas fermé avec stylo | confidentiel | privé | stylo plume | verrouillé"
+      ],
+      "de": [
+        "Schloss mit Füller",
+        "Datenschutz | privat | Schloss mit Füller | Sicherheit"
+      ],
+      "es": [
+        "candado con pluma estilográfica",
+        "candado | candado con pluma estilográfica | cerrado | estilográfica | pluma | privacidad"
+      ],
+      "pt": [
+        "cadeado com caneta",
+        "cadeado | caneta | privacidade | privado | tinteiro"
+      ],
+      "it": [
+        "lucchetto con penna stilo",
+        "lucchetto | lucchetto con penna stilo | penna stilografica | privacy | stilo | stilografica"
+      ],
+      "ro": [
+        "lacăt cu stilou",
+        "cerneală | confidențialitate | lacăt | lacăt cu stilou | peniță | stilou"
+      ],
+      "he": ["מנעול עם עט", "מנעול | מנעול עם עט | סגור | עט | פרטיות"],
+      "ar": [
+        "قفل مغلق بقلم",
+        "حبر | خصوصية | سرية | قفل عليه قلم حبر | قفل مغلق بقلم | مقفل بقلم"
+      ],
+      "tr": [
+        "kilit ve kalem",
+        "gizlilik | kilit ve kalem | mürekkepli kalem | mürekkepli kalemli kilit"
+      ],
+      "vi": [
+        "khóa với bút",
+        "bút | khóa | khóa với bút | mực | ngòi bút | riêng tư"
+      ],
+      "nl": [
+        "slot met pen",
+        "inkt | pen | privacy | slot | slot met pen | slot met vulpen | vulpen"
+      ]
+    }
+  ],
+  "🔐": [
+    "other",
+    "closed lock with key",
+    {
+      "en": ["locked with key", "bike | closed | key | lock | locked | secure"],
+      "ru": [
+        "закрытый замок с ключом",
+        "безопасность | закрытый | закрытый замок с ключом | замок | ключ"
+      ],
+      "pl": [
+        "zamknięta kłódka z kluczem",
+        "blokada | kłódka | kluczyk | z kluczem | zamknięcie | zamknięta"
+      ],
+      "fr": [
+        "cadenas fermé avec clé",
+        "cadenas | cadenas avec une clé | cadenas fermé avec clé | clé | fermé | privé | sécurisé | verrouillé"
+      ],
+      "de": [
+        "Schloss mit Schlüssel",
+        "Datenschutz | privat | Schloss mit Schlüssel | Sicherheit"
+      ],
+      "es": [
+        "candado cerrado y llave",
+        "candado | candado cerrado y llave | cerrado | llave | seguro"
+      ],
+      "pt": [
+        "cadeado fechado com chave",
+        "cadeado | chave | fechado | seguro | trancado"
+      ],
+      "it": [
+        "lucchetto chiuso con chiave",
+        "chiave | chiuso a chiave | lucchetto | lucchetto chiuso | lucchetto chiuso a chave | lucchetto chiuso con chiave | segreto | sicurezza | sicuro"
+      ],
+      "ro": [
+        "lacăt închis cu cheie",
+        "cheie | închis | încuiat | lacăt | lacăt de bicicletă | lacăt închis cu cheie | securizat | sigur | siguranță"
+      ],
+      "he": [
+        "מנעול סגור עם מפתח",
+        "מאובטח | מנעול | מנעול סגור עם מפתח | מפתח | נעול עם מפתח | סגור"
+      ],
+      "ar": [
+        "قفل مغلق بمفتاح",
+        "آمن | امن | قفل دراجة هوائية | قفل عليه مفتاح | قفل مغلق بمفتاح | مفتاح"
+      ],
+      "tr": [
+        "anahtarlı kapalı kilit",
+        "anahtarlı kapalı kilit | anahtarlı kilit | güvenli"
+      ],
+      "vi": ["khóa với chìa", "bảo mật | chìa | đóng | khóa | khóa với chìa"],
+      "nl": [
+        "gesloten slot met sleutel",
+        "beveiligd | gesloten | gesloten slot met sleutel | sleutel | slok | slot met sleutel"
+      ]
+    }
+  ],
+  "🔑": [
+    "other",
+    "key",
+    {
+      "en": ["key", "key | keys | lock | major | password | unlock"],
+      "ru": ["ключ", "закрыть | ключ | открыть | пароль"],
+      "pl": ["klucz", "hasło | klucz | zamek | zamknąć"],
+      "fr": ["clé", "clé | mot de passe | ouvrir | serrure"],
+      "de": ["Schlüssel", "Passwort | schließen | Schlüssel"],
+      "es": ["llave", "contraseña | llave"],
+      "pt": ["chave", "chave | senha | trancado | trancar"],
+      "it": [
+        "chiave",
+        "casa | chiave | lucchetto | password | segreto | sicuro"
+      ],
+      "ro": ["cheie", "cheie | descuia | încuia | lacăt | parolă"],
+      "he": ["מפתח", "לנעול | מפתח | סיסמה | רמז"],
+      "ar": ["مفتاح", "فتح | قفل | قفل اساسي | كلمة سر | كلمة مرور | مفتاح"],
+      "tr": ["anahtar", "anahtar | kilit | parola | şifre"],
+      "vi": ["chìa khóa", "chìa khóa | khóa | mật khẩu"],
+      "nl": ["sleutel", "beveiligd | op slot | openen | sleutel | wachtwoord"]
+    }
+  ],
+  "🔒": [
+    "other",
+    "lock",
+    {
+      "en": ["locked", "closed | lock | locked | private"],
+      "ru": ["закрытый замок", "закрытый | замок | затвор | навесной замок"],
+      "pl": [
+        "zamknięta kłódka",
+        "kłódka | zablokowane | zamknięta | zamknięte"
+      ],
+      "fr": [
+        "cadenas fermé",
+        "cadenas | cadenas fermé | privé | verrouillé | verrouiller"
+      ],
+      "de": [
+        "geschlossenes Schloss",
+        "Datenschutz | geschlossen | geschlossenes Schloss | Geschlossenes Schloss | Schloss | Sicherheit"
+      ],
+      "es": ["candado cerrado", "candado | cerrado | cerrar"],
+      "pt": ["cadeado", "cadeado | fechado | trancado"],
+      "it": [
+        "lucchetto chiuso",
+        "chiuso | chiuso a chiave | lucchetto | segreto | sicurezza"
+      ],
+      "ro": [
+        "lacăt închis",
+        "blocat | închis | încuiat | lacăt | privat | siguranță"
+      ],
+      "he": ["מנעול", "לסגור | מנעול | סגור"],
+      "ar": ["قفل", "خاص | سري | قفل | مغلق | مقفل"],
+      "tr": ["kilit", "kapalı kilit | kilit"],
+      "vi": ["khóa", "đóng | khóa | riêng tư"],
+      "nl": ["slot", "gesloten slot | privé | slot"]
+    }
+  ],
+  "🔓": [
+    "other",
+    "open lock",
+    {
+      "en": ["unlocked", "cracked | lock | open | unlock | unlocked"],
+      "ru": ["открытый замок", "закрыть | замок | затвор | открытый"],
+      "pl": ["otwarta kłódka", "kłódka | odblokować | otwarta"],
+      "fr": ["cadenas ouvert", "cadenas | déverrouiller | ouvert | ouvrir"],
+      "de": [
+        "offenes Schloss",
+        "nicht gesichert | offen | offenes Schloss | Offenes Schloss | Schloss"
+      ],
+      "es": ["candado abierto", "abierto | abrir | candado"],
+      "pt": ["cadeado aberto", "aberto | cadeado | destrancado"],
+      "it": [
+        "lucchetto aperto",
+        "aperto | chiuso | lucchetto | segreto | sicurezza"
+      ],
+      "ro": [
+        "lacăt deschis",
+        "debloca | deblocat | deschide | deschis | descuia | descuiat | lacăt | spart"
+      ],
+      "he": ["מנעול פתוח", "לסגור | מנעול | פתוח"],
+      "ar": ["قفل مفتوح", "فتح | قفل | قفل مفتوح"],
+      "tr": ["açık kilit", "açık | kilidini açma | kilit"],
+      "vi": ["mở khóa", "khóa | mở"],
+      "nl": [
+        "geopend hangslot",
+        "gekraakt slot | geopend | hangslot | open | open slot | openen"
+      ]
+    }
+  ],
+  "🔔": [
+    "other",
+    "bell",
+    {
+      "en": ["bell", "bell | break | church | sound"],
+      "ru": ["колокольчик", "будильник | звонок | колокол | колокольчик"],
+      "pl": ["dzwonek", "dzwon | dzwonek"],
+      "fr": ["cloche", "cloche | clochette | sonner"],
+      "de": ["Glocke", "ding dong | Glocke | Klingeling | Ton eingeschaltet"],
+      "es": ["campana", "campana"],
+      "pt": ["sino", "capela | sino"],
+      "it": [
+        "campana",
+        "campana | campanella | campanello | chiesa | musica | scuola | stonato | suono"
+      ],
+      "ro": [
+        "clopoțel",
+        "biserică | clopot | clopoțel | pauză | sonerie | sunet"
+      ],
+      "he": ["פעמון", "הפסקה | פעמון | צליל | צלצול"],
+      "ar": ["جرس", "جرس | صوت | فرصة | كنيسة"],
+      "tr": ["zil", "çan | kilise | ses | tenefüs | zil"],
+      "vi": ["cái chuông", "cái chuông | giờ nghỉ | nhà thờ"],
+      "nl": ["bel", "bel | kerkklok | klok | luiden | pauze | rinkelen"]
+    }
+  ],
+  "🔕": [
+    "other",
+    "bell with cancellation stroke",
+    {
+      "en": [
+        "bell with slash",
+        "bell | forbidden | mute | no | not | prohibited | quiet | silent | slash | sound"
+      ],
+      "ru": [
+        "перечеркнутый колокольчик",
+        "будильник | будильник отключен | колокол | отключить | перечеркнутый колокольчик | перечеркнуть | тихо | тишина"
+      ],
+      "pl": [
+        "przekreślony dzwonek",
+        "cicho | cisza | dzwonek | nie wolno | przekreślony dzwonek | zabroniony | zakazany"
+      ],
+      "fr": [
+        "alarme désactivée",
+        "alarme désactivée | barrée | cloche | silence"
+      ],
+      "de": [
+        "durchgestrichene Glocke",
+        "durchgestrichene Glocke | Durchgestrichene Glocke | Glocke | kein ton | leise | Ton ausgeschaltet"
+      ],
+      "es": [
+        "campana con signo de cancelación",
+        "campana | campana con signo de cancelación | cancelación | ruido"
+      ],
+      "pt": [
+        "sino silenciado",
+        "mudo | notificação | proibido | quieto | sem som | silêncio | silencioso | sino"
+      ],
+      "it": [
+        "campana sbarrata",
+        "audio | campana | campana sbarrata | divieto | muto | silenzio | suono | volume"
+      ],
+      "ro": [
+        "clopoțel tăiat",
+        "clopot | clopot tăiat | clopoțel | clopoțel tăiat | dezactivat | interzis | liniște | mut | mute | nu | oprit | silențios | sonerie | sonerie dezactivată | sunet"
+      ],
+      "he": ["פעמון מושתק", "מושתק | פעמון | שקט"],
+      "ar": [
+        "ممنوع استخدام الجرس",
+        "جرس | جرس عليه علامة إلغاء | رمز | سكوت | عدم الازعاج | ممنوع استخدام الجرس | ممنوع الصوت | هدوء"
+      ],
+      "tr": [
+        "üzeri çizili zil",
+        "çan | çan yok | iptal işaretli çan | ses yok | sessiz | üzeri çizili zil"
+      ],
+      "vi": [
+        "chuông với dấu gạch chéo",
+        "cấm | chuông | chuông với dấu gạch chéo | im lặng | tắt tiếng"
+      ],
+      "nl": [
+        "doorgestreepte bel",
+        "bel | dempen | doorgestreepte bel | geen | geen geluid | geluid uit | niet toegestaan | stil | stilte"
+      ]
+    }
+  ],
+  "🔖": [
+    "other",
+    "bookmark",
+    {
+      "en": ["bookmark", "bookmark | mark"],
+      "ru": ["закладка", "закладка | книга | книжка | отметка"],
+      "pl": ["zakładka", "zakładka | zaznaczenie"],
+      "fr": ["marque-page", "marque-page | marqueur | signet"],
+      "de": ["Lesezeichen", "Etikett | Lesen | Lesezeichen"],
+      "es": ["marcapáginas", "marcador | marcapáginas"],
+      "pt": ["marcador de página", "livro | marcador | página"],
+      "it": [
+        "segnalibro",
+        "etichetta | leggere | lettura | libro | segnalibro"
+      ],
+      "ro": [
+        "semn de carte",
+        "carte | marcator | pagină | semn | semn de carte"
+      ],
+      "he": ["סימנייה", "סימון | סימנייה"],
+      "ar": ["علامة توقف قراءة", "بوك مارك | علامة | علامة توقف قراءة"],
+      "tr": ["yer işareti", "defter | işaret | kitap | not | yer işareti"],
+      "vi": ["đánh dấu trang", "đánh dấu | đánh dấu trang"],
+      "nl": ["bladwijzer", "bladwijzer | markering"]
+    }
+  ],
+  "🔗": [
+    "other",
+    "link symbol",
+    {
+      "en": ["link", "link | links"],
+      "ru": [
+        "гиперссылка",
+        "гиперссылка | звенья | связывание | связь | ссылка | цепочка | цепь"
+      ],
+      "pl": ["ogniwa", "hiperłącze | link | ogniwa | ogniwo | połączenie"],
+      "fr": ["chaînons", "chaîne | chaînons | maillons | mousqueton"],
+      "de": [
+        "Linksymbol",
+        "Kettenglieder | Linksymbol | verknüpfen | Verknüpfung | Verknüpfungssymbol | zwei Ringe"
+      ],
+      "es": ["eslabón", "eslabón"],
+      "pt": ["link", "anéis | corrente | dois | link | símbolo | vínculo"],
+      "it": ["collegamento", "collegamento | due anelli | link | simbolo link"],
+      "ro": ["za", "conexiune | lanț | legătură | link | verigă | za | zale"],
+      "he": [
+        "חוליות משולבות",
+        "חוליות | חוליות משולבות | קישור | שילוב | שרשרת"
+      ],
+      "ar": ["علامة رابط", "حلقتان | ربط | روابط | علامة رابط | لينك"],
+      "tr": ["bağlantı işareti", "bağlantı işareti | bağlantılar | iki halka"],
+      "vi": ["mắt xích", "mắt xích"],
+      "nl": ["schakels", "schakels | twee ringen"]
+    }
+  ],
+  "🔘": [
+    "other",
+    "radio button",
+    {
+      "en": ["radio button", "button | geometric | radio"],
+      "ru": ["круглая кнопка", "кнопка | круглая | серая"],
+      "pl": [
+        "przycisk radiowy",
+        "figura geometryczna | kółko | przycisk | przycisk radiowy | przycisk wyboru opcji"
+      ],
+      "fr": [
+        "bouton radio",
+        "bouton | forme | géométrie | géométrique | radio | rond"
+      ],
+      "de": ["Optionsfeld", "Optionsfeld | Schaltfläche"],
+      "es": ["botón de opción", "botón | botón de opción | opción"],
+      "pt": ["botão de opção", "botão | botão de opção | geométrico | rádio"],
+      "it": [
+        "pulsante rotondo",
+        "campanello | cerchio | geometria | opzione | pulsante | pulsante della radio | pulsante rotondo"
+      ],
+      "ro": [
+        "buton radio",
+        "buton | figură geometrică | formă geometrică | geometric | radio | rotund"
+      ],
+      "he": ["לחצן רדיו", "לחצן | עיגול | צורה | רדיו"],
+      "ar": ["زر تبادلي", "تبادلي | راديو | زر | شكل هندسي"],
+      "tr": ["radyo düğmesi", "düğme | radyo | radyo düğmesi"],
+      "vi": ["nút radio", "hình học | nút | radio"],
+      "nl": ["keuzerondje", "geometrisch | knop | radio"]
+    }
+  ],
+  "🔞": [
+    "other",
+    "no one under eighteen symbol",
+    {
+      "en": [
+        "no one under eighteen",
+        "18 | age | eighteen | forbidden | no | not | one | prohibited | restriction | underage"
+      ],
+      "ru": [
+        "для людей старше восемнадцати лет",
+        "18 лет | для людей старше восемнадцати лет | запрет | нельзя | несовершеннолетним запрещено"
+      ],
+      "pl": [
+        "zakaz poniżej osiemnastego roku życia",
+        "18 | niedozwolone | niepełnoletni | od lat | ograniczenie | osiemnastego | osiemnastu | poniżej | roku życia | wiekowe | zabronione | zakaz"
+      ],
+      "fr": [
+        "18 ans et plus",
+        "18 ans et plus | dix-huit | interdiction | interdit | interdit aux mineurs | interdit aux moins de dix-huit ans | limite d’âge | majorité | mineur"
+      ],
+      "de": [
+        "Minderjährige verboten",
+        "Erwachsene | Minderjährige verboten | Mindestalter | nicht jugendfrei | Zeichen mit durchgestrichener 18"
+      ],
+      "es": [
+        "prohibido para menos de 18 años",
+        "18 | no apto para menores | prohibido | prohibido para menores de 18 años | prohibido para menos de 18 años"
+      ],
+      "pt": [
+        "proibido para menores de 18 anos",
+        "18 | anos | dezoito | idade | menor | menores | proibido | restrição"
+      ],
+      "it": [
+        "simbolo di divieto ai minorenni",
+        "18 | 18 sbarrato | divieto | divieto ai minori | minori | proibito | simbolo di divieto ai minorenni | vietato | vietato ai minori | vietato ai minori di 18 | vietato ai minori di anni 18"
+      ],
+      "ro": [
+        "interzis sub 18 ani",
+        "18 | interdicție | interzis | interzis minorilor | interzis sub 18 ani | minor | minori | nu | restricție vârstă"
+      ],
+      "he": [
+        "מגיל שמונה-עשרה בלבד",
+        "18 | איסור | אסור | הגבלת גיל | לא | שמונה עשרה"
+      ],
+      "ar": [
+        "ممنوع لأقل من 18 عامًا",
+        "18 | أقل من 18 | اقل من ١٨ | رمز | غير مسموح للقاصرين | قاصر | ممنوع أقل من 18 | ممنوع لأقل من 18 عامًا"
+      ],
+      "tr": [
+        "18 yaş altı yasak",
+        "18 | 18 yaş altı | 18 yaş altı yasak | 18 yaş altı yasaktır | 18‘den küçükler giremez"
+      ],
+      "vi": [
+        "cấm người dưới 18 tuổi",
+        "18 | cấm | cấm người dưới 18 tuổi | giới hạn độ tuổi | mười tám | vị thành niên"
+      ],
+      "nl": [
+        "niemand onder de 18",
+        "18 | achttien | beperking | één | leeftijd | minderjarig | nee | niet | verboden"
+      ]
+    }
+  ],
+  "🔟": [
+    "other",
+    "keycap ten",
+    {
+      "en": ["keycap: 10", "keycap"],
+      "ru": ["клавиши: 10", "клавиши"],
+      "pl": ["klawisz: 10", "klawisz"],
+      "fr": ["touches : 10", "touches"],
+      "de": ["Taste: 10", "Taste"],
+      "es": ["Teclas: 10", "Teclas"],
+      "pt": ["tecla: 10", "tecla"],
+      "it": ["tasto: 10", "tasto"],
+      "ro": ["tastă: 10", "tastă"],
+      "he": ["מקש: 10", "מקש"],
+      "ar": ["مفتاح: 10", "مفتاح"],
+      "tr": ["tuş: 10", "tuş"],
+      "vi": ["mũ phím: 10", "mũ phím"],
+      "nl": ["toets: 10", "toets"]
+    }
+  ]
+}

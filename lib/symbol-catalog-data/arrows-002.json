@@ -1,0 +1,1862 @@
+{
+  "⇣": [
+    "arrows",
+    "downwards dashed arrow",
+    {
+      "en": ["downwards dashed arrow", "arrow | dashed | downwards"],
+      "ru": ["пунктирная стрелка вниз", "пунктирная стрелка вниз"],
+      "pl": ["przerywana strzałka w dół", "przerywana strzałka w dół"],
+      "fr": ["flèche pointillée vers le bas", "flèche pointillée vers le bas"],
+      "de": [
+        "Gestrichelter Pfeil nach unten",
+        "Gestrichelter Pfeil nach unten"
+      ],
+      "es": ["flecha discontinua hacia abajo", "abajo | discontinua | flecha"],
+      "pt": ["seta tracejada para baixo", "baixo | seta | tracejada"],
+      "it": [
+        "freccia tratteggiata verso il basso",
+        "freccia tratteggiata verso il basso"
+      ],
+      "ro": [
+        "săgeată cu linie întreruptă în jos",
+        "săgeată cu linie întreruptă în jos"
+      ],
+      "he": ["חץ מקווקו למטה", "חץ מקווקו למטה"],
+      "ar": ["سهم متقطع إلى الأسفل", "أسفل | سهم | متقطع"],
+      "tr": ["aşağı çizgili ok", "aşağı çizgili ok"],
+      "vi": ["mũi tên hướng xuống nét đứt", "mũi tên hướng xuống nét đứt"],
+      "nl": ["gestippelde pijl naar beneden", "gestippelde pijl naar beneden"]
+    }
+  ],
+  "⇤": [
+    "arrows",
+    "leftwards arrow to bar",
+    {
+      "en": ["leftwards arrow bar", "arrow | bar | leftwards"],
+      "ru": ["стрелка влево, упирающаяся в планку", "влево | планка | стрелка"],
+      "pl": ["strzałka z kreską w lewo", "strzałka z kreską w lewo"],
+      "fr": [
+        "flèche vers la gauche jusqu’à un taquet",
+        "flèche vers la gauche jusqu’à un taquet"
+      ],
+      "de": [
+        "Pfeil nach links auf Strich zulaufend",
+        "Pfeil nach links auf Strich zulaufend"
+      ],
+      "es": [
+        "flecha hacia la izquierda con barra",
+        "barra | flecha | izquierda"
+      ],
+      "pt": ["seta para a esquerda da barra", "barra | esquerda | seta"],
+      "it": [
+        "freccia a sinistra verso barra",
+        "freccia a sinistra verso barra"
+      ],
+      "ro": [
+        "săgeată spre stânga către bară",
+        "săgeată spre stânga către bară"
+      ],
+      "he": ["חץ שמאלה אל פס", "חץ שמאלה | חץ שמאלה אל פס | פס"],
+      "ar": ["سهم أيسر إلى شريط", "أيسر | سهم | شريط | شمال | يسار"],
+      "tr": ["sol ok çubuğu", "sol ok çubuğu"],
+      "vi": ["mũi tên trái đến thanh", "mũi tên trái đến thanh"],
+      "nl": ["pijl naar links naar balk", "pijl naar links naar balk"]
+    }
+  ],
+  "⇥": [
+    "arrows",
+    "rightwards arrow to bar",
+    {
+      "en": ["rightwards arrow bar", "arrow | bar | rightwards"],
+      "ru": [
+        "стрелка вправо, упирающаяся в планку",
+        "вправо | планка | стрелка"
+      ],
+      "pl": ["strzałka z kreską w prawo", "strzałka z kreską w prawo"],
+      "fr": [
+        "flèche vers la droite jusqu’à un taquet",
+        "flèche vers la droite jusqu’à un taquet"
+      ],
+      "de": [
+        "Pfeil nach rechts auf Strich zulaufend",
+        "Pfeil nach rechts auf Strich zulaufend"
+      ],
+      "es": ["flecha hacia la derecha con barra", "barra | derecha | flecha"],
+      "pt": ["seta para a direita da barra", "barra | direita | seta"],
+      "it": ["freccia a destra verso barra", "freccia a destra verso barra"],
+      "ro": [
+        "săgeată spre dreapta către bară",
+        "săgeată spre dreapta către bară"
+      ],
+      "he": ["חץ ימינה אל פס", "חץ ימינה | חץ ימינה אל פס | פס"],
+      "ar": ["سهم أيمن إلى شريط", "أيمن | سهم | شريط | يمين"],
+      "tr": ["sağ ok çubuğu", "sağ ok çubuğu"],
+      "vi": ["mũi tên phải đến thanh", "mũi tên phải đến thanh"],
+      "nl": ["pijl naar rechts naar balk", "pijl naar rechts naar balk"]
+    }
+  ],
+  "⇦": [
+    "arrows",
+    "leftwards white arrow",
+    {
+      "en": ["leftwards hollow arrow", "arrow | hollow | leftwards"],
+      "ru": ["полая стрелка влево", "полая стрелка влево"],
+      "pl": ["pusta strzałka w lewo", "pusta strzałka w lewo"],
+      "fr": ["flèche creuse vers la gauche", "flèche creuse vers la gauche"],
+      "de": ["weißer Pfeil nach links", "weißer Pfeil nach links"],
+      "es": ["flecha hueca hacia la izquierda", "flecha | hueca | izquierda"],
+      "pt": ["seta branca para a esquerda", "branca | esquerda | seta"],
+      "it": ["freccia vuota a sinistra", "freccia vuota a sinistra"],
+      "ro": ["săgeată goală spre stânga", "săgeată goală spre stânga"],
+      "he": ["חץ חלול שמאלה", "חץ חלול | חץ חלול שמאלה | חץ שמאלה"],
+      "ar": ["سهم مفرغ إلى اليسار", "سهم | شمال | فارغ | مفرغ | يسار"],
+      "tr": ["sola boş ok", "sola boş ok"],
+      "vi": ["mũi tên rỗng trái", "mũi tên rỗng trái"],
+      "nl": ["doorzichtige pijl naar linkss", "doorzichtige pijl naar linkss"]
+    }
+  ],
+  "⇧": [
+    "arrows",
+    "upwards white arrow",
+    {
+      "en": ["upwards hollow arrow", "arrow | hollow | upwards"],
+      "ru": ["полая стрелка вверх", "полая стрелка вверх"],
+      "pl": ["pusta strzałka w górę", "pusta strzałka w górę"],
+      "fr": ["flèche creuse vers le haut", "flèche creuse vers le haut"],
+      "de": ["weißer Pfeil nach oben", "weißer Pfeil nach oben"],
+      "es": ["flecha hueca hacia arriba", "arriba | flecha | hueca"],
+      "pt": ["seta branca para cima", "branca | cima | seta"],
+      "it": ["freccia vuota verso l’alto", "freccia vuota verso l’alto"],
+      "ro": ["săgeată goală în sus", "săgeată goală în sus"],
+      "he": ["חץ חלול למעלה", "חץ חלול | חץ חלול למעלה | חץ למעלה"],
+      "ar": ["سهم مفرغ إلى الأعلى", "أعلى | سهم | فارغ | مفرغ"],
+      "tr": ["yukarı boş ok", "yukarı boş ok"],
+      "vi": ["mũi tên rỗng hướng lên", "mũi tên rỗng hướng lên"],
+      "nl": ["doorzichtige pijl naar boven", "doorzichtige pijl naar boven"]
+    }
+  ],
+  "⇨": [
+    "arrows",
+    "rightwards white arrow",
+    {
+      "en": ["rightwards hollow arrow", "arrow | hollow | rightwards"],
+      "ru": ["полая стрелка вправо", "полая стрелка вправо"],
+      "pl": ["pusta strzałka w prawo", "pusta strzałka w prawo"],
+      "fr": ["flèche creuse vers la droite", "flèche creuse vers la droite"],
+      "de": ["weißer Pfeil nach rechts", "weißer Pfeil nach rechts"],
+      "es": ["flecha hueca hacia la derecha", "derecha | flecha | hueca"],
+      "pt": ["seta branca para a direita", "branca | direita | seta"],
+      "it": ["freccia vuota a destra", "freccia vuota a destra"],
+      "ro": ["săgeată goală spre dreapta", "săgeată goală spre dreapta"],
+      "he": ["חץ חלול ימינה", "חץ חלול | חץ חלול ימינה | חץ ימינה"],
+      "ar": ["سهم مفرغ إلى اليمين", "سهم | فارغ | مفرغ | يمين"],
+      "tr": ["sağa boş ok", "sağa boş ok"],
+      "vi": ["mũi tên rỗng phải", "mũi tên rỗng phải"],
+      "nl": ["doorzichtige pijl naar rechts", "doorzichtige pijl naar rechts"]
+    }
+  ],
+  "⇩": [
+    "arrows",
+    "downwards white arrow",
+    {
+      "en": ["downwards hollow arrow", "arrow | downwards | hollow"],
+      "ru": ["полая стрелка вниз", "полая стрелка вниз"],
+      "pl": ["pusta strzałka w dół", "pusta strzałka w dół"],
+      "fr": ["flèche creuse vers le bas", "flèche creuse vers le bas"],
+      "de": ["weißer Pfeil nach unten", "weißer Pfeil nach unten"],
+      "es": ["flecha hueca hacia abajo", "abajo | flecha | hueca"],
+      "pt": ["seta branca para baixo", "baixo | branca | seta"],
+      "it": ["freccia vuota verso il basso", "freccia vuota verso il basso"],
+      "ro": ["săgeată goală în jos", "săgeată goală în jos"],
+      "he": ["חץ חלול למטה", "חץ חלול | חץ חלול למטה | חץ למטה"],
+      "ar": ["سهم مفرغ إلى الأسفل", "أسفل | سهم | فارغ | مفرغ"],
+      "tr": ["aşağı boş ok", "aşağı boş ok"],
+      "vi": ["mũi tên rỗng hướng xuống", "mũi tên rỗng hướng xuống"],
+      "nl": ["doorzichtige pijl naar beneden", "doorzichtige pijl naar beneden"]
+    }
+  ],
+  "⇪": [
+    "arrows",
+    "upwards white arrow from bar",
+    {
+      "en": [
+        "upwards hollow arrow from bar",
+        "arrow | bar | from | hollow | upwards"
+      ],
+      "ru": [
+        "полая стрелка вверх на прямоугольнике",
+        "полая стрелка вверх на прямоугольнике"
+      ],
+      "pl": [
+        "pusta strzałka w górę z kreski",
+        "pusta strzałka w górę z kreski"
+      ],
+      "fr": [
+        "flèche creuse d’un taquet vers le haut",
+        "flèche creuse d’un taquet vers le haut"
+      ],
+      "de": [
+        "weißer Pfeil nach oben von Strich weglaufend",
+        "weißer Pfeil nach oben von Strich weglaufend"
+      ],
+      "es": [
+        "flecha hueca hacia arriba desde barra",
+        "arriba | barra | flecha | hueca"
+      ],
+      "pt": ["seta branca para cima da barra", "barra | branca | cima | seta"],
+      "it": [
+        "freccia vuota verso l’alto dalla barra",
+        "freccia vuota verso l’alto dalla barra"
+      ],
+      "ro": [
+        "săgeată goală în sus dinspre bară",
+        "săgeată goală în sus dinspre bară"
+      ],
+      "he": [
+        "חץ חלול למעלה מפס",
+        "חץ חלול | חץ חלול למעלה מפס | חץ למעלה | חץ מפס"
+      ],
+      "ar": ["سهم مفرغ علوي من شريط", "أعلى | سهم | شريط | علوي | فارغ | مفرغ"],
+      "tr": ["çubuktan yukarı boş ok", "çubuktan yukarı boş ok"],
+      "vi": [
+        "mũi tên rỗng hướng lên từ thanh",
+        "mũi tên rỗng hướng lên từ thanh"
+      ],
+      "nl": [
+        "doorzichtige pijl naar boven vanaf balk",
+        "doorzichtige pijl naar boven vanaf balk"
+      ]
+    }
+  ],
+  "⇫": ["arrows", "upwards white arrow on pedestal", {}],
+  "⇬": ["arrows", "upwards white arrow on pedestal with horizontal bar", {}],
+  "⇭": ["arrows", "upwards white arrow on pedestal with vertical bar", {}],
+  "⇮": ["arrows", "upwards white double arrow", {}],
+  "⇯": ["arrows", "upwards white double arrow on pedestal", {}],
+  "⇰": ["arrows", "rightwards white arrow from wall", {}],
+  "⇱": ["arrows", "north west arrow to corner", {}],
+  "⇲": ["arrows", "south east arrow to corner", {}],
+  "⇳": ["arrows", "up down white arrow", {}],
+  "⇴": ["arrows", "right arrow with small circle", {}],
+  "⇵": [
+    "arrows",
+    "downwards arrow leftwards of upwards arrow",
+    {
+      "en": [
+        "downwards arrow leftwards upwards arrow",
+        "arrow | downwards | leftwards | upwards"
+      ],
+      "ru": [
+        "стрелка вниз слева от стрелки вверх",
+        "стрелка вниз слева от стрелки вверх"
+      ],
+      "pl": [
+        "strzałka w dół po lewej strzałka w górę",
+        "strzałka w dół po lewej strzałka w górę"
+      ],
+      "fr": [
+        "flèche vers le bas à gauche d’une flèche vers le haut",
+        "flèche vers le bas à gauche d’une flèche vers le haut"
+      ],
+      "de": [
+        "Pfeil nach unten links neben Pfeil nach oben",
+        "Pfeil nach unten links neben Pfeil nach oben"
+      ],
+      "es": [
+        "flecha hacia abajo a la izquierda de flecha hacia arriba",
+        "abajo | arriba | flecha | izquierda"
+      ],
+      "pt": [
+        "seta para baixo à esquerda da seta para cima",
+        "baixo | cima | seta"
+      ],
+      "it": [
+        "freccia verso il basso con freccia verso l’alto a destra",
+        "freccia verso il basso con freccia verso l’alto a destra"
+      ],
+      "ro": [
+        "săgeată în jos lângă săgeată în sus",
+        "săgeată în jos lângă săgeată în sus"
+      ],
+      "he": ["חץ למטה משמאל למעלה מימין", "חץ | למטה | למעלה | שמאלה"],
+      "ar": ["سهم سفلي على يسار سهم علوي", "سفلي | سهم | شمال | علوي | يسار"],
+      "tr": ["aşağı ok sol yukarı ok", "aşağı ok sol yukarı ok"],
+      "vi": [
+        "mũi tên hướng xuống bên trái mũi tên hướng lên",
+        "mũi tên hướng xuống bên trái mũi tên hướng lên"
+      ],
+      "nl": [
+        "pijl omlaag links van pijl omhoog",
+        "pijl omlaag links van pijl omhoog"
+      ]
+    }
+  ],
+  "⇶": ["arrows", "three rightwards arrows", {}],
+  "⇷": ["arrows", "leftwards arrow with vertical stroke", {}],
+  "⇸": ["arrows", "rightwards arrow with vertical stroke", {}],
+  "⇹": ["arrows", "left right arrow with vertical stroke", {}],
+  "⇺": ["arrows", "leftwards arrow with double vertical stroke", {}],
+  "⇻": ["arrows", "rightwards arrow with double vertical stroke", {}],
+  "⇼": ["arrows", "left right arrow with double vertical stroke", {}],
+  "⇽": ["arrows", "leftwards open-headed arrow", {}],
+  "⇾": ["arrows", "rightwards open-headed arrow", {}],
+  "⇿": ["arrows", "left right open-headed arrow", {}],
+  "⌁": ["arrows", "electric arrow", {}],
+  "⌃": ["arrows", "up arrowhead", {}],
+  "⌄": ["arrows", "down arrowhead", {}],
+  "⌤": ["arrows", "up arrowhead between two horizontal bars", {}],
+  "⍇": ["arrows", "apl functional symbol quad leftwards arrow", {}],
+  "⍈": ["arrows", "apl functional symbol quad rightwards arrow", {}],
+  "⍐": ["arrows", "apl functional symbol quad upwards arrow", {}],
+  "⍗": ["arrows", "apl functional symbol quad downwards arrow", {}],
+  "⍼": ["arrows", "right angle with downwards zigzag arrow", {}],
+  "⎋": ["arrows", "broken circle with northwest arrow", {}],
+  "➔": ["arrows", "heavy wide-headed rightwards arrow", {}],
+  "➘": ["arrows", "heavy south east arrow", {}],
+  "➙": ["arrows", "heavy rightwards arrow", {}],
+  "➚": ["arrows", "heavy north east arrow", {}],
+  "➛": ["arrows", "drafting point rightwards arrow", {}],
+  "➜": ["arrows", "heavy round-tipped rightwards arrow", {}],
+  "➝": ["arrows", "triangle-headed rightwards arrow", {}],
+  "➞": ["arrows", "heavy triangle-headed rightwards arrow", {}],
+  "➟": ["arrows", "dashed triangle-headed rightwards arrow", {}],
+  "➠": ["arrows", "heavy dashed triangle-headed rightwards arrow", {}],
+  "➡": [
+    "arrows",
+    "black rightwards arrow",
+    {
+      "en": ["right arrow", "arrow | cardinal | direction | east | right"],
+      "ru": ["стрелка вправо", "восток | вправо | направление | стрелка"],
+      "pl": [
+        "strzałka w prawo",
+        "kierunek | strzałka | strzałka w prawo | wschód"
+      ],
+      "fr": ["flèche droite", "direction | droite | est | flèche | sens"],
+      "de": [
+        "Pfeil nach rechts",
+        "nach rechts | Osten | Pfeil | Pfeil nach rechts | rechts | Rechtspfeil"
+      ],
+      "es": [
+        "flecha hacia la derecha",
+        "derecha | dirección | este | flecha | flecha hacia la derecha"
+      ],
+      "pt": [
+        "seta para a direita",
+        "direção | direita | flecha | leste | seta | seta para a direita"
+      ],
+      "it": [
+        "freccia rivolta verso destra",
+        "avanti | destra | direzione | est | freccia | freccia a destra | freccia rivolta verso destra | punto cardinale"
+      ],
+      "ro": [
+        "săgeată orientată în dreapta",
+        "cardinal | direcție | dreapta | est | indicator | punct cardinal | săgeată | săgeată orientată în dreapta"
+      ],
+      "he": ["חץ ימינה", "חץ | ימינה | כיוון | מזרח"],
+      "ar": ["سهم لليمين", "اتجاه | رمز | سهم | سهم لليمين | شرق | كاردينال"],
+      "tr": ["sağ ok", "ana yön | doğu | ok | sağ ok | yön"],
+      "vi": ["mũi tên phải", "chính | đông | hướng | mũi tên | mũi tên phải"],
+      "nl": [
+        "pijl naar rechts",
+        "oost | pijl | rechts | richting | windrichting"
+      ]
+    }
+  ],
+  "➢": ["arrows", "three-d top-lighted rightwards arrowhead", {}],
+  "➣": ["arrows", "three-d bottom-lighted rightwards arrowhead", {}],
+  "➤": ["arrows", "black rightwards arrowhead", {}],
+  "➥": ["arrows", "heavy black curved downwards and rightwards arrow", {}],
+  "➦": ["arrows", "heavy black curved upwards and rightwards arrow", {}],
+  "➧": ["arrows", "squat black rightwards arrow", {}],
+  "➨": ["arrows", "heavy concave-pointed black rightwards arrow", {}],
+  "➩": ["arrows", "right-shaded white rightwards arrow", {}],
+  "➪": ["arrows", "left-shaded white rightwards arrow", {}],
+  "➫": ["arrows", "back-tilted shadowed white rightwards arrow", {}],
+  "➬": ["arrows", "front-tilted shadowed white rightwards arrow", {}],
+  "➭": ["arrows", "heavy lower right-shadowed white rightwards arrow", {}],
+  "➮": ["arrows", "heavy upper right-shadowed white rightwards arrow", {}],
+  "➯": ["arrows", "notched lower right-shadowed white rightwards arrow", {}],
+  "➱": ["arrows", "notched upper right-shadowed white rightwards arrow", {}],
+  "➲": ["arrows", "circled heavy white rightwards arrow", {}],
+  "➳": ["arrows", "white-feathered rightwards arrow", {}],
+  "➴": ["arrows", "black-feathered south east arrow", {}],
+  "➵": ["arrows", "black-feathered rightwards arrow", {}],
+  "➶": ["arrows", "black-feathered north east arrow", {}],
+  "➷": ["arrows", "heavy black-feathered south east arrow", {}],
+  "➸": ["arrows", "heavy black-feathered rightwards arrow", {}],
+  "➹": ["arrows", "heavy black-feathered north east arrow", {}],
+  "➺": ["arrows", "teardrop-barbed rightwards arrow", {}],
+  "➻": ["arrows", "heavy teardrop-shanked rightwards arrow", {}],
+  "➼": ["arrows", "wedge-tailed rightwards arrow", {}],
+  "➽": ["arrows", "heavy wedge-tailed rightwards arrow", {}],
+  "➾": ["arrows", "open-outlined rightwards arrow", {}],
+  "⟰": ["arrows", "upwards quadruple arrow", {}],
+  "⟱": ["arrows", "downwards quadruple arrow", {}],
+  "⟲": ["arrows", "anticlockwise gapped circle arrow", {}],
+  "⟳": ["arrows", "clockwise gapped circle arrow", {}],
+  "⟴": ["arrows", "right arrow with circled plus", {}],
+  "⟵": ["arrows", "long leftwards arrow", {}],
+  "⟶": ["arrows", "long rightwards arrow", {}],
+  "⟷": ["arrows", "long left right arrow", {}],
+  "⟸": ["arrows", "long leftwards double arrow", {}],
+  "⟹": ["arrows", "long rightwards double arrow", {}],
+  "⟺": ["arrows", "long left right double arrow", {}],
+  "⟻": ["arrows", "long leftwards arrow from bar", {}],
+  "⟼": ["arrows", "long rightwards arrow from bar", {}],
+  "⟽": ["arrows", "long leftwards double arrow from bar", {}],
+  "⟾": ["arrows", "long rightwards double arrow from bar", {}],
+  "⟿": ["arrows", "long rightwards squiggle arrow", {}],
+  "⤀": ["arrows", "rightwards two-headed arrow with vertical stroke", {}],
+  "⤁": [
+    "arrows",
+    "rightwards two-headed arrow with double vertical stroke",
+    {}
+  ],
+  "⤂": ["arrows", "leftwards double arrow with vertical stroke", {}],
+  "⤃": ["arrows", "rightwards double arrow with vertical stroke", {}],
+  "⤄": ["arrows", "left right double arrow with vertical stroke", {}],
+  "⤅": ["arrows", "rightwards two-headed arrow from bar", {}],
+  "⤆": ["arrows", "leftwards double arrow from bar", {}],
+  "⤇": ["arrows", "rightwards double arrow from bar", {}],
+  "⤈": ["arrows", "downwards arrow with horizontal stroke", {}],
+  "⤉": ["arrows", "upwards arrow with horizontal stroke", {}],
+  "⤊": ["arrows", "upwards triple arrow", {}],
+  "⤋": ["arrows", "downwards triple arrow", {}],
+  "⤌": ["arrows", "leftwards double dash arrow", {}],
+  "⤍": ["arrows", "rightwards double dash arrow", {}],
+  "⤎": ["arrows", "leftwards triple dash arrow", {}],
+  "⤏": ["arrows", "rightwards triple dash arrow", {}],
+  "⤐": ["arrows", "rightwards two-headed triple dash arrow", {}],
+  "⤑": ["arrows", "rightwards arrow with dotted stem", {}],
+  "⤒": ["arrows", "upwards arrow to bar", {}],
+  "⤓": ["arrows", "downwards arrow to bar", {}],
+  "⤔": ["arrows", "rightwards arrow with tail with vertical stroke", {}],
+  "⤕": ["arrows", "rightwards arrow with tail with double vertical stroke", {}],
+  "⤖": ["arrows", "rightwards two-headed arrow with tail", {}],
+  "⤗": [
+    "arrows",
+    "rightwards two-headed arrow with tail with vertical stroke",
+    {}
+  ],
+  "⤘": [
+    "arrows",
+    "rightwards two-headed arrow with tail with double vertical stroke",
+    {}
+  ],
+  "⤙": ["arrows", "leftwards arrow-tail", {}],
+  "⤚": ["arrows", "rightwards arrow-tail", {}],
+  "⤛": ["arrows", "leftwards double arrow-tail", {}],
+  "⤜": ["arrows", "rightwards double arrow-tail", {}],
+  "⤝": ["arrows", "leftwards arrow to black diamond", {}],
+  "⤞": ["arrows", "rightwards arrow to black diamond", {}],
+  "⤟": ["arrows", "leftwards arrow from bar to black diamond", {}],
+  "⤠": ["arrows", "rightwards arrow from bar to black diamond", {}],
+  "⤡": ["arrows", "north west and south east arrow", {}],
+  "⤢": ["arrows", "north east and south west arrow", {}],
+  "⤣": ["arrows", "north west arrow with hook", {}],
+  "⤤": ["arrows", "north east arrow with hook", {}],
+  "⤥": ["arrows", "south east arrow with hook", {}],
+  "⤦": ["arrows", "south west arrow with hook", {}],
+  "⤧": ["arrows", "north west arrow and north east arrow", {}],
+  "⤨": ["arrows", "north east arrow and south east arrow", {}],
+  "⤩": ["arrows", "south east arrow and south west arrow", {}],
+  "⤪": ["arrows", "south west arrow and north west arrow", {}],
+  "⤭": ["arrows", "south east arrow crossing north east arrow", {}],
+  "⤮": ["arrows", "north east arrow crossing south east arrow", {}],
+  "⤯": ["arrows", "falling diagonal crossing north east arrow", {}],
+  "⤰": ["arrows", "rising diagonal crossing south east arrow", {}],
+  "⤱": ["arrows", "north east arrow crossing north west arrow", {}],
+  "⤲": ["arrows", "north west arrow crossing north east arrow", {}],
+  "⤳": ["arrows", "wave arrow pointing directly right", {}],
+  "⤴": [
+    "arrows",
+    "arrow pointing rightwards then curving upwards",
+    {
+      "en": ["right arrow curving up", "arrow | curving | right | up"],
+      "ru": [
+        "стрелка вправо с поворотом вверх",
+        "вверх | вправо | изгиб | изогнутая | поворот | стрелка"
+      ],
+      "pl": [
+        "strzałka w prawo skręcająca w górę",
+        "strzałka | strzałka w prawo skręcająca w górę | w górę | zakręt"
+      ],
+      "fr": [
+        "flèche courbe haut",
+        "flèche | flèche courbe haut | flèche courbe vers la droite et le haut"
+      ],
+      "de": [
+        "geschwungener Pfeil nach oben",
+        "geschwungen | nach oben | oben | Pfeil"
+      ],
+      "es": [
+        "flecha derecha curvándose hacia arriba",
+        "arriba | curva | dirección | flecha | flecha derecha curvándose hacia arriba"
+      ],
+      "pt": [
+        "seta para a direita curvada para cima",
+        "curva | flecha | seta | seta curva de baixo para cima | seta para a direita curvada para cima | seta para cima"
+      ],
+      "it": [
+        "freccia curva in alto",
+        "curva | freccia | freccia curva in alto | in alto | in sù | verso l’alto"
+      ],
+      "ro": [
+        "săgeată dreapta curbată în sus",
+        "curbă | indicator | săgeată | săgeată dreapta curbată în sus | săgeată îndreptată în sus | sus"
+      ],
+      "he": ["חץ ימינה מתעקל מעלה", "חץ | חץ ימינה מתעקל מעלה | למעלה | מתעקל"],
+      "ar": [
+        "سهم لأعلى من اليسار",
+        "رمز | سهم | سهم باتجاه الشمال | سهم صاعد | سهم لأعلى من اليسار"
+      ],
+      "tr": ["yukarı kıvrımlı sağ ok", "ok | yukarı kıvrımlı sağ ok"],
+      "vi": ["mũi tên phải cong lên", "mũi tên | mũi tên phải cong lên"],
+      "nl": [
+        "pijl naar rechts die omhoog draait",
+        "omhoog | pijl | pijl naar rechts die omhoog draait | rechts"
+      ]
+    }
+  ],
+  "⤵": [
+    "arrows",
+    "arrow pointing rightwards then curving downwards",
+    {
+      "en": ["right arrow curving down", "arrow | curving | down | right"],
+      "ru": [
+        "стрелка вправо с поворотом вниз",
+        "вниз | вправо | изгиб | изогнутая | поворот | стрелка"
+      ],
+      "pl": [
+        "strzałka w prawo skręcająca w dół",
+        "strzałka | strzałka w prawo skręcająca dół | strzałka w prawo skręcająca w dół | w dół | zakręt"
+      ],
+      "fr": ["flèche courbe bas", "bas | flèche | flèche courbe bas"],
+      "de": [
+        "geschwungener Pfeil nach unten",
+        "geschwungen | nach unten | Pfeil | unten"
+      ],
+      "es": [
+        "flecha derecha curvándose hacia abajo",
+        "abajo | curva | dirección | flecha | flecha derecha curvándose hacia abajo"
+      ],
+      "pt": [
+        "seta para a direita curvada para baixo",
+        "curva | embaixo | flecha | seta curva de cima para baixo | seta para a direita curvada para baixo | seta para baixo"
+      ],
+      "it": [
+        "freccia curva in basso",
+        "curva | freccia | freccia curva in basso | in basso | in giù | verso il basso"
+      ],
+      "ro": [
+        "săgeată dreapta curbată în jos",
+        "curbă | indicator | jos | săgeată | săgeată dreapta curbată în jos | săgeată întoarcere în jos"
+      ],
+      "he": ["חץ ימינה מתעקל מטה", "חץ | חץ ימינה מתעקל מטה | למטה | מתעקל"],
+      "ar": [
+        "سهم لأسفل من اليسار",
+        "رمز | سهم | سهم باتجاه الجنوب | سهم لأسفل من اليسار | لأسفل"
+      ],
+      "tr": ["aşağı kıvrımlı sağ ok", "aşağı | aşağı kıvrımlı sağ ok | ok"],
+      "vi": [
+        "mũi tên phải cong xuống",
+        "mũi tên | mũi tên phải cong xuống | xuống"
+      ],
+      "nl": [
+        "pijl naar rechts die omlaag draait",
+        "gebogen | omlaag | pijl | rechts"
+      ]
+    }
+  ],
+  "⤶": ["arrows", "arrow pointing downwards then curving leftwards", {}],
+  "⤷": ["arrows", "arrow pointing downwards then curving rightwards", {}],
+  "⤸": ["arrows", "right-side arc clockwise arrow", {}],
+  "⤹": ["arrows", "left-side arc anticlockwise arrow", {}],
+  "⤺": ["arrows", "top arc anticlockwise arrow", {}],
+  "⤻": ["arrows", "bottom arc anticlockwise arrow", {}],
+  "⤼": ["arrows", "top arc clockwise arrow with minus", {}],
+  "⤽": ["arrows", "top arc anticlockwise arrow with plus", {}],
+  "⤾": ["arrows", "lower right semicircular clockwise arrow", {}],
+  "⤿": ["arrows", "lower left semicircular anticlockwise arrow", {}],
+  "⥀": ["arrows", "anticlockwise closed circle arrow", {}],
+  "⥁": ["arrows", "clockwise closed circle arrow", {}],
+  "⥂": ["arrows", "rightwards arrow above short leftwards arrow", {}],
+  "⥃": ["arrows", "leftwards arrow above short rightwards arrow", {}],
+  "⥄": ["arrows", "short rightwards arrow above leftwards arrow", {}],
+  "⥅": ["arrows", "rightwards arrow with plus below", {}],
+  "⥆": ["arrows", "leftwards arrow with plus below", {}],
+  "⥇": ["arrows", "rightwards arrow through x", {}],
+  "⥈": ["arrows", "left right arrow through small circle", {}],
+  "⥉": ["arrows", "upwards two-headed arrow from small circle", {}],
+  "⥰": ["arrows", "right double arrow with rounded head", {}],
+  "⥱": ["arrows", "equals sign above rightwards arrow", {}],
+  "⥲": ["arrows", "tilde operator above rightwards arrow", {}],
+  "⥳": ["arrows", "leftwards arrow above tilde operator", {}],
+  "⥴": ["arrows", "rightwards arrow above tilde operator", {}],
+  "⥵": ["arrows", "rightwards arrow above almost equal to", {}],
+  "⥶": ["arrows", "less-than above leftwards arrow", {}],
+  "⥷": ["arrows", "leftwards arrow through less-than", {}],
+  "⥸": ["arrows", "greater-than above rightwards arrow", {}],
+  "⥹": ["arrows", "subset above rightwards arrow", {}],
+  "⥺": ["arrows", "leftwards arrow through subset", {}],
+  "⥻": ["arrows", "superset above leftwards arrow", {}],
+  "⦨": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing up and right",
+    {}
+  ],
+  "⦩": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing up and left",
+    {}
+  ],
+  "⦪": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing down and right",
+    {}
+  ],
+  "⦫": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing down and left",
+    {}
+  ],
+  "⦬": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing right and up",
+    {}
+  ],
+  "⦭": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing left and up",
+    {}
+  ],
+  "⦮": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing right and down",
+    {}
+  ],
+  "⦯": [
+    "arrows",
+    "measured angle with open arm ending in arrow pointing left and down",
+    {}
+  ],
+  "⦳": ["arrows", "empty set with right arrow above", {}],
+  "⦴": ["arrows", "empty set with left arrow above", {}],
+  "⦽": ["arrows", "up arrow through circle", {}],
+  "⧪": ["arrows", "black diamond with down arrow", {}],
+  "⧬": ["arrows", "white circle with down arrow", {}],
+  "⧭": ["arrows", "black circle with down arrow", {}],
+  "⨗": ["arrows", "integral with leftwards arrow with hook", {}],
+  "⬀": ["arrows", "north east white arrow", {}],
+  "⬁": ["arrows", "north west white arrow", {}],
+  "⬂": ["arrows", "south east white arrow", {}],
+  "⬃": ["arrows", "south west white arrow", {}],
+  "⬄": ["arrows", "left right white arrow", {}],
+  "⬅": [
+    "arrows",
+    "leftwards black arrow",
+    {
+      "en": ["left arrow", "arrow | cardinal | direction | left | west"],
+      "ru": ["стрелка влево", "влево | запад | направление | стрелка"],
+      "pl": [
+        "strzałka w lewo",
+        "kierunek | strzałka | strzałka w lewo | zachód"
+      ],
+      "fr": [
+        "flèche gauche",
+        "direction | flèche | flèche gauche | ouest | sens"
+      ],
+      "de": [
+        "Pfeil nach links",
+        "Linkspfeil | nach links | Pfeil | Pfeil nach links | Westen"
+      ],
+      "es": [
+        "flecha hacia la izquierda",
+        "flecha | flecha hacia la izquierda | izquierda | oeste"
+      ],
+      "pt": [
+        "seta para a esquerda",
+        "atrás | direção | esquerda | flecha | oeste | seta | voltar"
+      ],
+      "it": [
+        "freccia rivolta a sinistra",
+        "direzione | freccia | freccia a sinistra | freccia rivolta a sinistra | ovest | punto cardinale | sinistra"
+      ],
+      "ro": [
+        "săgeată orientată în stânga",
+        "cardinal | direcție | indicator | săgeată | săgeată orientată în stânga | stânga | vest"
+      ],
+      "he": ["חץ שמאלה", "חץ | כיוון | מערב | שמאלה"],
+      "ar": ["سهم لليسار", "اتجاه | سهم | سهم لليسار | غرب | كاردينال"],
+      "tr": ["sol ok", "ana yön | batı | ok | sol ok | yön"],
+      "vi": [
+        "mũi tên trái",
+        "chiều hướng | chính | hướng tây | mũi tên | mũi tên trái | tây"
+      ],
+      "nl": ["pijl naar links", "links | pijl | richting | west | windrichting"]
+    }
+  ],
+  "⬆": [
+    "arrows",
+    "upwards black arrow",
+    {
+      "en": ["up arrow", "arrow | cardinal | direction | north | up"],
+      "ru": ["стрелка вверх", "вверх | направление | север | стрелка"],
+      "pl": [
+        "strzałka w górę",
+        "kierunek | północ | strzałka | strzałka do góry | strzałka w górę"
+      ],
+      "fr": ["flèche haut", "direction | flèche | flèche haut | nord | sens"],
+      "de": [
+        "Pfeil nach oben",
+        "aufwärts | Aufwärtspfeil | nach oben | Norden | Pfeil | Pfeil nach oben"
+      ],
+      "es": [
+        "flecha hacia arriba",
+        "dirección | flecha | flecha arriba | flecha hacia arriba | norte"
+      ],
+      "pt": [
+        "seta para cima",
+        "cardinal | direção | norte | seta | seta para cima"
+      ],
+      "it": [
+        "freccia rivolta verso l’alto",
+        "alto | direzione | freccia | freccia in alto | freccia rivolta verso l’alto | nord | punto cardinale"
+      ],
+      "ro": [
+        "săgeată orientată în sus",
+        "cardinal | direcție | indicator | nord | săgeată | săgeată în sus | săgeată orientată în sus | sus"
+      ],
+      "he": ["חץ למעלה", "חץ | כיוון | למעלה | צפון"],
+      "ar": ["سهم لأعلى", "اتجاه | رمز | سهم | سهم لأعلى | شمال | كاردينال"],
+      "tr": [
+        "yukarı ok",
+        "ana yön | kuzey | ok | yön | yukarı ok | yukarı yönlü ok"
+      ],
+      "vi": ["mũi tên lên", "bắc | chính | hướng | mũi tên | mũi tên lên"],
+      "nl": ["pijl omhoog", "noord | omhoog | pijl | richting | windrichting"]
+    }
+  ],
+  "⬇": [
+    "arrows",
+    "downwards black arrow",
+    {
+      "en": ["down arrow", "arrow | cardinal | direction | down | south"],
+      "ru": ["стрелка вниз", "вниз | направление | стрелка | юг"],
+      "pl": [
+        "strzałka w dół",
+        "kierunek | południe | strzałka | strzałka na dół | strzałka w dół"
+      ],
+      "fr": ["flèche bas", "direction | flèche | flèche bas | sens | sud"],
+      "de": [
+        "Pfeil nach unten",
+        "abwärts | Abwärtspfeil | nach unten | Pfeil | Pfeil nach unten | Süden"
+      ],
+      "es": [
+        "flecha hacia abajo",
+        "abajo | dirección | flecha | flecha hacia abajo | sur"
+      ],
+      "pt": [
+        "seta para baixo",
+        "abaixo | baixo | cardinal | direção | embaixo | flecha | seta | sul"
+      ],
+      "it": [
+        "freccia rivolta verso il basso",
+        "basso | direzione | freccia | freccia in basso | freccia rivolta verso il basso | punto cardinale | sud"
+      ],
+      "ro": [
+        "săgeată orientată în jos",
+        "cardinal | direcție | indicator | jos | săgeată | săgeată în jos | săgeată orientată în jos | sud"
+      ],
+      "he": ["חץ למטה", "דרום | חץ | כיוון | למטה"],
+      "ar": ["سهم لأسفل", "اتجاه | جنوب | رمز | سهم | سهم لأسفل | كاردينال"],
+      "tr": ["aşağı ok", "ana yön | aşağı | aşağı yönlü ok | güney | ok | yön"],
+      "vi": [
+        "mũi tên xuống",
+        "chính | hướng | mũi tên | mũi tên xuống | nam | xuống"
+      ],
+      "nl": ["pijl omlaag", "omlaag | pijl | richting | windrichting | zuid"]
+    }
+  ],
+  "⬈": ["arrows", "north east black arrow", {}],
+  "⬉": ["arrows", "north west black arrow", {}],
+  "⬊": ["arrows", "south east black arrow", {}],
+  "⬋": ["arrows", "south west black arrow", {}],
+  "⬌": ["arrows", "left right black arrow", {}],
+  "⬍": ["arrows", "up down black arrow", {}],
+  "⬎": ["arrows", "rightwards arrow with tip downwards", {}],
+  "⬏": ["arrows", "rightwards arrow with tip upwards", {}],
+  "⬐": ["arrows", "leftwards arrow with tip downwards", {}],
+  "⬑": ["arrows", "leftwards arrow with tip upwards", {}],
+  "⬰": ["arrows", "left arrow with small circle", {}],
+  "⬱": ["arrows", "three leftwards arrows", {}],
+  "⬲": ["arrows", "left arrow with circled plus", {}],
+  "⬳": ["arrows", "long leftwards squiggle arrow", {}],
+  "⬴": ["arrows", "leftwards two-headed arrow with vertical stroke", {}],
+  "⬵": ["arrows", "leftwards two-headed arrow with double vertical stroke", {}],
+  "⬶": ["arrows", "leftwards two-headed arrow from bar", {}],
+  "⬷": ["arrows", "leftwards two-headed triple dash arrow", {}],
+  "⬸": ["arrows", "leftwards arrow with dotted stem", {}],
+  "⬹": ["arrows", "leftwards arrow with tail with vertical stroke", {}],
+  "⬺": ["arrows", "leftwards arrow with tail with double vertical stroke", {}],
+  "⬻": ["arrows", "leftwards two-headed arrow with tail", {}],
+  "⬼": [
+    "arrows",
+    "leftwards two-headed arrow with tail with vertical stroke",
+    {}
+  ],
+  "⬽": [
+    "arrows",
+    "leftwards two-headed arrow with tail with double vertical stroke",
+    {}
+  ],
+  "⬾": ["arrows", "leftwards arrow through x", {}],
+  "⬿": ["arrows", "wave arrow pointing directly left", {}],
+  "⭀": ["arrows", "equals sign above leftwards arrow", {}],
+  "⭁": ["arrows", "reverse tilde operator above leftwards arrow", {}],
+  "⭂": ["arrows", "leftwards arrow above reverse almost equal to", {}],
+  "⭃": ["arrows", "rightwards arrow through greater-than", {}],
+  "⭄": ["arrows", "rightwards arrow through superset", {}],
+  "⭅": ["arrows", "leftwards quadruple arrow", {}],
+  "⭆": ["arrows", "rightwards quadruple arrow", {}],
+  "⭇": ["arrows", "reverse tilde operator above rightwards arrow", {}],
+  "⭈": ["arrows", "rightwards arrow above reverse almost equal to", {}],
+  "⭉": ["arrows", "tilde operator above leftwards arrow", {}],
+  "⭊": ["arrows", "leftwards arrow above almost equal to", {}],
+  "⭋": ["arrows", "leftwards arrow above reverse tilde operator", {}],
+  "⭌": ["arrows", "rightwards arrow above reverse tilde operator", {}],
+  "⭍": ["arrows", "downwards triangle-headed zigzag arrow", {}],
+  "⭎": ["arrows", "short slanted north arrow", {}],
+  "⭏": ["arrows", "short backslanted south arrow", {}],
+  "⭚": ["arrows", "slanted north arrow with hooked head", {}],
+  "⭛": ["arrows", "backslanted south arrow with hooked tail", {}],
+  "⭜": ["arrows", "slanted north arrow with horizontal tail", {}],
+  "⭝": ["arrows", "backslanted south arrow with horizontal tail", {}],
+  "⭞": ["arrows", "bent arrow pointing downwards then north east", {}],
+  "⭟": ["arrows", "short bent arrow pointing downwards then north east", {}],
+  "⭠": ["arrows", "leftwards triangle-headed arrow", {}],
+  "⭡": ["arrows", "upwards triangle-headed arrow", {}],
+  "⭢": ["arrows", "rightwards triangle-headed arrow", {}],
+  "⭣": ["arrows", "downwards triangle-headed arrow", {}],
+  "⭤": ["arrows", "left right triangle-headed arrow", {}],
+  "⭥": ["arrows", "up down triangle-headed arrow", {}],
+  "⭦": ["arrows", "north west triangle-headed arrow", {}],
+  "⭧": ["arrows", "north east triangle-headed arrow", {}],
+  "⭨": ["arrows", "south east triangle-headed arrow", {}],
+  "⭩": ["arrows", "south west triangle-headed arrow", {}],
+  "⭪": ["arrows", "leftwards triangle-headed dashed arrow", {}],
+  "⭫": ["arrows", "upwards triangle-headed dashed arrow", {}],
+  "⭬": ["arrows", "rightwards triangle-headed dashed arrow", {}],
+  "⭭": ["arrows", "downwards triangle-headed dashed arrow", {}],
+  "⭮": ["arrows", "clockwise triangle-headed open circle arrow", {}],
+  "⭯": ["arrows", "anticlockwise triangle-headed open circle arrow", {}],
+  "⭰": ["arrows", "leftwards triangle-headed arrow to bar", {}],
+  "⭱": ["arrows", "upwards triangle-headed arrow to bar", {}],
+  "⭲": ["arrows", "rightwards triangle-headed arrow to bar", {}],
+  "⭳": ["arrows", "downwards triangle-headed arrow to bar", {}],
+  "⭶": ["arrows", "north west triangle-headed arrow to bar", {}],
+  "⭷": ["arrows", "north east triangle-headed arrow to bar", {}],
+  "⭸": ["arrows", "south east triangle-headed arrow to bar", {}],
+  "⭹": ["arrows", "south west triangle-headed arrow to bar", {}],
+  "⭺": [
+    "arrows",
+    "leftwards triangle-headed arrow with double horizontal stroke",
+    {}
+  ],
+  "⭻": [
+    "arrows",
+    "upwards triangle-headed arrow with double horizontal stroke",
+    {}
+  ],
+  "⭼": [
+    "arrows",
+    "rightwards triangle-headed arrow with double horizontal stroke",
+    {}
+  ],
+  "⭽": [
+    "arrows",
+    "downwards triangle-headed arrow with double horizontal stroke",
+    {}
+  ],
+  "⮀": [
+    "arrows",
+    "leftwards triangle-headed arrow over rightwards triangle-headed arrow",
+    {}
+  ],
+  "⮁": [
+    "arrows",
+    "upwards triangle-headed arrow leftwards of downwards triangle-headed arrow",
+    {}
+  ],
+  "⮂": [
+    "arrows",
+    "rightwards triangle-headed arrow over leftwards triangle-headed arrow",
+    {}
+  ],
+  "⮃": [
+    "arrows",
+    "downwards triangle-headed arrow leftwards of upwards triangle-headed arrow",
+    {}
+  ],
+  "⮄": ["arrows", "leftwards triangle-headed paired arrows", {}],
+  "⮅": ["arrows", "upwards triangle-headed paired arrows", {}],
+  "⮆": ["arrows", "rightwards triangle-headed paired arrows", {}],
+  "⮇": ["arrows", "downwards triangle-headed paired arrows", {}],
+  "⮈": ["arrows", "leftwards black circled white arrow", {}],
+  "⮉": ["arrows", "upwards black circled white arrow", {}],
+  "⮊": ["arrows", "rightwards black circled white arrow", {}],
+  "⮋": ["arrows", "downwards black circled white arrow", {}],
+  "⮌": ["arrows", "anticlockwise triangle-headed right u-shaped arrow", {}],
+  "⮍": ["arrows", "anticlockwise triangle-headed bottom u-shaped arrow", {}],
+  "⮎": ["arrows", "anticlockwise triangle-headed left u-shaped arrow", {}],
+  "⮏": ["arrows", "anticlockwise triangle-headed top u-shaped arrow", {}],
+  "⮔": ["arrows", "four corner arrows circling anticlockwise", {}],
+  "⮕": ["arrows", "rightwards black arrow", {}],
+  "⮘": ["arrows", "three-d top-lighted leftwards equilateral arrowhead", {}],
+  "⮙": ["arrows", "three-d right-lighted upwards equilateral arrowhead", {}],
+  "⮚": ["arrows", "three-d top-lighted rightwards equilateral arrowhead", {}],
+  "⮛": ["arrows", "three-d left-lighted downwards equilateral arrowhead", {}],
+  "⮜": ["arrows", "black leftwards equilateral arrowhead", {}],
+  "⮝": ["arrows", "black upwards equilateral arrowhead", {}],
+  "⮞": ["arrows", "black rightwards equilateral arrowhead", {}],
+  "⮟": ["arrows", "black downwards equilateral arrowhead", {}],
+  "⮠": [
+    "arrows",
+    "downwards triangle-headed arrow with long tip leftwards",
+    {}
+  ],
+  "⮡": [
+    "arrows",
+    "downwards triangle-headed arrow with long tip rightwards",
+    {}
+  ],
+  "⮢": ["arrows", "upwards triangle-headed arrow with long tip leftwards", {}],
+  "⮣": ["arrows", "upwards triangle-headed arrow with long tip rightwards", {}],
+  "⮤": ["arrows", "leftwards triangle-headed arrow with long tip upwards", {}],
+  "⮥": ["arrows", "rightwards triangle-headed arrow with long tip upwards", {}],
+  "⮦": [
+    "arrows",
+    "leftwards triangle-headed arrow with long tip downwards",
+    {}
+  ],
+  "⮧": [
+    "arrows",
+    "rightwards triangle-headed arrow with long tip downwards",
+    {}
+  ],
+  "⮨": ["arrows", "black curved downwards and leftwards arrow", {}],
+  "⮩": ["arrows", "black curved downwards and rightwards arrow", {}],
+  "⮪": ["arrows", "black curved upwards and leftwards arrow", {}],
+  "⮫": ["arrows", "black curved upwards and rightwards arrow", {}],
+  "⮬": ["arrows", "black curved leftwards and upwards arrow", {}],
+  "⮭": ["arrows", "black curved rightwards and upwards arrow", {}],
+  "⮮": ["arrows", "black curved leftwards and downwards arrow", {}],
+  "⮯": ["arrows", "black curved rightwards and downwards arrow", {}],
+  "⮰": ["arrows", "ribbon arrow down left", {}],
+  "⮱": ["arrows", "ribbon arrow down right", {}],
+  "⮲": ["arrows", "ribbon arrow up left", {}],
+  "⮳": ["arrows", "ribbon arrow up right", {}],
+  "⮴": ["arrows", "ribbon arrow left up", {}],
+  "⮵": ["arrows", "ribbon arrow right up", {}],
+  "⮶": ["arrows", "ribbon arrow left down", {}],
+  "⮷": ["arrows", "ribbon arrow right down", {}],
+  "⮸": ["arrows", "upwards white arrow from bar with horizontal bar", {}],
+  "⮹": ["arrows", "up arrowhead in a rectangle box", {}],
+  "⯬": ["arrows", "leftwards two-headed arrow with triangle arrowheads", {}],
+  "⯭": ["arrows", "upwards two-headed arrow with triangle arrowheads", {}],
+  "⯮": ["arrows", "rightwards two-headed arrow with triangle arrowheads", {}],
+  "⯯": ["arrows", "downwards two-headed arrow with triangle arrowheads", {}],
+  "🄎": ["arrows", "circled anticlockwise arrow", {}],
+  "🏹": [
+    "arrows",
+    "bow and arrow",
+    {
+      "en": [
+        "bow and arrow",
+        "archer | archery | arrow | bow | Sagittarius | tool | weapon | zodiac"
+      ],
+      "ru": [
+        "лук со стрелой",
+        "знак зодиака | лук со стрелой | оружие | стрелец | стрелы"
+      ],
+      "pl": [
+        "łuk i strzała",
+        "broń | łucznik | łuk | łuk i strzała | narzędzie | strzała | strzelec | zodiak"
+      ],
+      "fr": [
+        "arc et flèche",
+        "arc | arc et flèche | archer | astrologie | flèche | horoscope | Sagittaire | sport | tir à l’arc | zodiaque"
+      ],
+      "de": ["Pfeil und Bogen", "Bogen | Pfeil | Pfeil und Bogen"],
+      "es": [
+        "arco y flecha",
+        "arco | arco y flecha | arquero | flecha | sagitario | zodiaco"
+      ],
+      "pt": [
+        "arco e flecha",
+        "arco | arco e flecha | arma | flecha | sagitário | zodíaco"
+      ],
+      "it": [
+        "arco e freccia",
+        "arciere | arco | arco e freccia | cacciare | freccia | Sagittario | sport | tiratore d’arco | tiro con l’arco"
+      ],
+      "ro": [
+        "arc și săgeată",
+        "arc | arc cu săgeată | arc și săgeată | arcaș | armă | instrument | săgeată | Săgetător | zodiac | zodie"
+      ],
+      "he": ["חץ וקשת", "גלגל המזלות | חץ | חץ וקשת | כלי נשק | קשת"],
+      "ar": [
+        "قوس وسهم",
+        "برج | برج الرامي | رامي | سلاح | سهم | قوس | قوس وسهم | وتر"
+      ],
+      "tr": ["ok ve yay", "araç | burç | ok | ok ve yay | okçu | silah | yay"],
+      "vi": [
+        "cung tên",
+        "cung | cung hoàng đạo | cung tên | cung thủ | mũi tên | Nhân Mã"
+      ],
+      "nl": [
+        "pijl en boog",
+        "boog | boogschieten | boogschutter | horoscoop | pijl | pijl en boog | sport | sterrenbeeld | wapen"
+      ]
+    }
+  ],
+  "💘": [
+    "arrows",
+    "heart with arrow",
+    {
+      "en": [
+        "heart with arrow",
+        "143 | adorbs | arrow | cupid | date | emotion | heart | ily | love | romance | valentine"
+      ],
+      "ru": [
+        "сердце, пронзенное стрелой",
+        "купидон | лук | любовь | сердце, пронзенное стрелой | стрела"
+      ],
+      "pl": [
+        "serce przebite strzałą",
+        "kocham | przebite serce | przebite strzałą | serce | serce przebite strzałą | serce ze strzałą"
+      ],
+      "fr": [
+        "cœur et flèche",
+        "amour | cœur | cœur et flèche | coeur transpercé | Cupidon | flèche | sentiment"
+      ],
+      "de": ["Herz mit Pfeil", "Herz | Herz mit Pfeil | Liebe | Pfeil"],
+      "es": [
+        "corazón con flecha",
+        "amor | corazón | corazón con flecha | emoción | flecha"
+      ],
+      "pt": [
+        "coração com flecha",
+        "amor | coração | cupido | emoção | flecha | flechado | paixão | romance | s2"
+      ],
+      "it": [
+        "cuore con freccia",
+        "amore | appuntamento | cuore con freccia | cupido | emozione | emozioni | freccia | innamorarsi | innamorati | romantico | rosa | san valentino"
+      ],
+      "ro": [
+        "inimă săgetată",
+        "cupidon | dragoste | inimă | inimă săgetată | întâlnire | iubire | săgeată | suferință"
+      ],
+      "he": [
+        "לב עם חץ",
+        "אהבה | ולנטיין | חץ | יום האהבה | לב | לב עם חץ | רומנטיקה"
+      ],
+      "ar": [
+        "قلب وسهم",
+        "حب | رومانس | رومنس | سهم | عشاق | غرام | فالنتاين | قلب | قلب وسهم | مشاعر"
+      ],
+      "tr": [
+        "ok saplanmış kalp",
+        "aşk | duygu | kalp | ok | ok saplanmış kalp"
+      ],
+      "vi": [
+        "trái tim với mũi tên",
+        "mũi tên | thần tình yêu | trái tim với mũi tên"
+      ],
+      "nl": [
+        "hart met pijl",
+        "afspraakje | cupido | date | hart | hart met pijl | hou van jou | hvj | liefde | pijl | pijl door hart | romantiek | valentijn"
+      ]
+    }
+  ],
+  "📩": [
+    "arrows",
+    "envelope with downwards arrow above",
+    {
+      "en": [
+        "envelope with arrow",
+        "arrow | communication | down | e-mail | email | envelope | letter | mail | outgoing | send | sent"
+      ],
+      "ru": [
+        "исходящее письмо",
+        "исходящее | исходящее письмо | конверт | отправка | сообщение | стрелка | электронное"
+      ],
+      "pl": [
+        "koperta ze strzałką",
+        "e-mail | email | koperta | list | mail | odebrać | poczta | przychodząca | wiadomość | ze strzałką"
+      ],
+      "fr": [
+        "enveloppe avec flèche",
+        "communication | courriel | courrier électronique | e-mail | enveloppe | enveloppe avec flèche | envoi | envoyer | flèche | message | message électronique | message envoyé"
+      ],
+      "de": ["Umschlag mit Pfeil", "E-Mail | gesendet | Umschlag mit Pfeil"],
+      "es": [
+        "sobre con flecha",
+        "carta | comunicación | correo | correo electrónico | sobre | sobre con flecha"
+      ],
+      "pt": [
+        "envelope com seta",
+        "carta | comunicação | correspondência | e-mail | email | envelope | seta"
+      ],
+      "it": [
+        "posta in uscita",
+        "busta | busta con freccia | comunicazione | email | in uscita | lettera | mail | posta | posta in uscita | posta inviata"
+      ],
+      "ro": [
+        "plic cu săgeată",
+        "comunicare | e-mail | email | expediat | jos | mail | mesaj | plecare | plic | plic cu săgeată | poștă | primit | recepționat | săgeată | scrisoare | trimis"
+      ],
+      "he": [
+        "מעטפה עם חץ",
+        "אימייל | דוא״ל | דואר אלקטרוני | חץ | מכתב | מעטפה | מעטפה עם חץ | נשלח"
+      ],
+      "ar": [
+        "بريد صادر",
+        "ايميل | بريد | بريد إلكتروني | بريد قادم | بريد مرسل | بريد وارد | تواصل | خطاب | رسالة واردة | صادر | ظرف"
+      ],
+      "tr": [
+        "oklu zarf",
+        "e-posta | giden | gönderilen posta | iletişim | mektup | oklu zarf | posta | zarf"
+      ],
+      "vi": [
+        "phong bì với mũi tên",
+        "email | mũi tên | phong bì | phong bì với mũi tên | thư đi"
+      ],
+      "nl": [
+        "envelop met pijl",
+        "brief | communicatie | e-mail | envelop | omlaag | pijl | post | uitgaand | verzenden | verzonden"
+      ]
+    }
+  ],
+  "📲": [
+    "arrows",
+    "mobile phone with rightwards arrow at left",
+    {
+      "en": [
+        "mobile phone with arrow",
+        "arrow | build | call | cell | communication | mobile | phone | receive | telephone"
+      ],
+      "ru": [
+        "входящий вызов",
+        "входящий | вызов | мобильник | мобильный | смартфон | сотовый | телефон"
+      ],
+      "pl": [
+        "telefon komórkowy ze strzałką",
+        "dzwonić | komórka | odebrać | połączenie | smartfon | smartfon ze strzałką | strzałka | telefon | telefon komórkowy ze strzałką"
+      ],
+      "fr": [
+        "appel entrant",
+        "appel | appel entrant | communication | recevoir un appel | smartphone | téléphone portable avec une flèche"
+      ],
+      "de": [
+        "Mobiltelefon mit Pfeil",
+        "Anruf | Anrufen | Handy | iPhone | Kommunikation | Mobiltelefon | Mobiltelefon mit Pfeil | Pfeil | WhatsApp"
+      ],
+      "es": [
+        "móvil con una flecha",
+        "flecha | llamada | móvil | móvil con una flecha | recibir | teléfono"
+      ],
+      "pt": [
+        "telefone celular com seta",
+        "celular | chamada | fazer | ligar | receber | seta | smartphone | telefone"
+      ],
+      "it": [
+        "telefono cellulare con freccia",
+        "cellulare | cellulare con freccia | chiamami | chiamare | ricevere | smartphone | telefonare | telefono | telefono cellulare con freccia"
+      ],
+      "ro": [
+        "telefon mobil cu săgeată",
+        "celular | comunicare | dispozitiv | mobil | primire | primit | recepție | recepționa | săgeată | telefon | telefon mobil cu săgeată"
+      ],
+      "he": [
+        "טלפון נייד עם חץ",
+        "חץ | טלפון | טלפון נייד עם חץ | נייד | סלולרי | שיחה נכנסת"
+      ],
+      "ar": [
+        "هاتف جوال مع سهم",
+        "إجراء مكالمة | استقبال اتصال | تليفون | تواصل | خلوي | رد على اتصال | سليلور | موبايل | هاتف | هاتف جوال | هاتف جوال مع سهم | هاتف خلوي مع سهم"
+      ],
+      "tr": [
+        "ok işaretli cep telefonu",
+        "çağrı yapmak | cep telefonu | mobil telefon | ok işaretli cep telefonu | telefon"
+      ],
+      "vi": [
+        "điện thoại di động có mũi tên",
+        "di động | điện thoại | điện thoại di động có mũi tên | gọi | mũi tên | nhận"
+      ],
+      "nl": [
+        "mobiel met pijl",
+        "bellen | mobiel | mobiel met pijl | mobiele telefoon | ontvangen | pijl | smartphone | telefoon"
+      ]
+    }
+  ],
+  "🔀": [
+    "arrows",
+    "twisted rightwards arrows",
+    {
+      "en": [
+        "shuffle tracks button",
+        "arrow | button | crossed | shuffle | tracks"
+      ],
+      "ru": [
+        "случайный выбор",
+        "выбор | перемешивание | пересечение | скрещенные | случайно | случайный | стрелки"
+      ],
+      "pl": [
+        "przycisk losowego odtwarzania utworów",
+        "krzyżujące się | losowe | losowego | losowo | mieszanie | odtwarzania | odtwarzanie | przecinające się | przycisk | skrzyżowane | strzałki | utworów"
+      ],
+      "fr": [
+        "bouton lecture aléatoire",
+        "bouton lecture aléatoire | flèche | flèches croisées | lecture aléatoire"
+      ],
+      "de": [
+        "Zufallsmodus",
+        "gekreuzt | Pfeile | Richtung | verschlungene Pfeile nach rechts | Verschlungene Pfeile nach rechts | Zufallsmodus"
+      ],
+      "es": [
+        "reproducción aleatoria",
+        "cruzado | flechas | flechas entrecruzadas | reproducción aleatoria"
+      ],
+      "pt": [
+        "botão de músicas aleatórias",
+        "botão de músicas aleatórias | cruzadas | flechas | seta | setas | setas cruzadas em direção à direita"
+      ],
+      "it": [
+        "pulsante di riproduzione casuale",
+        "frecce | frecce incrociate | frecce incrociate verso destra | pulsante di riproduzione casuale | shuffle"
+      ],
+      "ro": [
+        "buton de redare aleatorie",
+        "amestecare | buton de redare aleatorie | încrucișare | săgeți"
+      ],
+      "he": ["סמל השמעה אקראית", "חצים | סמל השמעה אקראית | ערבוב"],
+      "ar": [
+        "زر أسهم متداخلة",
+        "أسهم | أسهم يمنى متداخلة | خلط | زر أسهم متداخلة"
+      ],
+      "tr": [
+        "parça karıştırma düğmesi",
+        "çapraz sağ oklar | oklar | parça karıştırma düğmesi"
+      ],
+      "vi": ["nút xáo trộn bài", "bắt chéo | mũi tên | nút xáo trộn bài"],
+      "nl": ["knop voor shuffle", "gekruist | knop | nummers | pijl | shuffle"]
+    }
+  ],
+  "🔁": [
+    "arrows",
+    "clockwise rightwards and leftwards open circle arrows",
+    {
+      "en": ["repeat button", "arrow | button | clockwise | repeat"],
+      "ru": [
+        "повтор",
+        "горизонтальные | замкнутые | по | повтор | повторить | стрелке | стрелки | часовой"
+      ],
+      "pl": [
+        "przycisk powtarzania",
+        "dookoła | okrężny | ponów | powtórz | przycisk powtarzania | strzałki | w prawo"
+      ],
+      "fr": [
+        "bouton répétition",
+        "bouton répéter | bouton répétition | flèche | flèches en cercle | répéter | sens des aiguilles d’une montre | sens horaire"
+      ],
+      "de": [
+        "Wiederholen",
+        "im Uhrzeigersinn | keycap | Pfeile | tastenkappe | wiederholen | Wiederholen"
+      ],
+      "es": ["repetir", "flechas | repetición | repetir"],
+      "pt": [
+        "botão de repetir",
+        "botão de repetir | flechas | horário | repetir | sentido horário | seta | setas | setas em sentido horário"
+      ],
+      "it": [
+        "pulsante di ripetizione della riproduzione",
+        "frecce | frecce a cerchio | frecce senso orario | freccia | orario | pulsante | pulsante di ripetizione della riproduzione | senso orario | simbolo | tasto"
+      ],
+      "ro": [
+        "buton de repetare",
+        "buton de repetare | buton repetare | pe repeat | repetare | săgeți | sens orar | sensul acelor de ceasornic"
+      ],
+      "he": ["סמל השמעה חוזרת", "בכיוון השעון | חזרה | חצים | סמל השמעה חוזרת"],
+      "ar": ["زر تكرار", "أسهم | اتجاه عقارب الساعة | تكرار | زر تكرار"],
+      "tr": ["tekrarlama düğmesi", "oklar | saat yönünde | tekrarlama düğmesi"],
+      "vi": [
+        "nút lặp lại",
+        "chiều kim đồng hồ | lặp lại | mũi tên | nút lặp lại"
+      ],
+      "nl": ["knop voor herhalen", "herhalen | knop | met de klok mee | pijl"]
+    }
+  ],
+  "🔂": [
+    "arrows",
+    "clockwise rightwards and leftwards open circle arrows with circled one overlay",
+    {
+      "en": [
+        "repeat single button",
+        "arrow | button | clockwise | once | repeat | single"
+      ],
+      "ru": [
+        "повтор одной песни",
+        "две стрелки | кнопка | одна песня | повтор | повтор одной песни"
+      ],
+      "pl": [
+        "przycisk powtarzania jednokrotnego",
+        "dookoła | jednokrotnego | okrężny | ponów raz | powtarzania | powtarzanie | powtórz raz | przycisk | strzałki | w prawo"
+      ],
+      "fr": [
+        "bouton répétition de la piste",
+        "bouton répétition de la piste | flèche | flèches en cercle avec n°1 | répéter | répéter une fois | sens des aiguilles d’une montre | sens horaire"
+      ],
+      "de": [
+        "Titel wiederholen",
+        "dasselbe wiederholen | einmal | im Uhrzeigersinn | noch einmal | Pfeile | Titel wiederholen | wiederholen"
+      ],
+      "es": ["repetir una vez", "flechas | repetición | repetir una vez | uno"],
+      "pt": [
+        "botão de repetir uma única faixa",
+        "botão de repetir | botão de repetir uma única faixa | horário | número 1 | repetir | repetir uma vez | sentido horário | seta | setas | setas em sentido horário com número 1 | uma vez"
+      ],
+      "it": [
+        "pulsante di ripetizione della riproduzione di una traccia",
+        "frecce | frecce a cerchio numero 1 | frecce senso orario | frecce senso orario numero 1 | pulsante di ripetizione della riproduzione di una traccia | ripeti | ripetizione | senso orario"
+      ],
+      "ro": [
+        "buton de repetare unică",
+        "buton de repetare unică | buton repetare unică | o dată | pe repeat | repetare | sens orar | sensul acelor de ceasornic | unic"
+      ],
+      "he": [
+        "סמל חזרה על שיר אחד",
+        "חזרה | חצים | סמל חזרה על שיר אחד | פעם אחת"
+      ],
+      "ar": [
+        "زر تكرار مرة واحدة",
+        "أسهم باتجاه عقارب الساعة مع رقم 1 | باتجاه عقرب الساعة | تكرار مرة واحدة | رمز | زر تكرار مرة واحدة | سهم | مرة واحدة"
+      ],
+      "tr": [
+        "tek parça tekrarlama düğmesi",
+        "1 sayısı | 1 sayısı olan saat yönünde oklar | oklar | saat yönünde | tek parça tekrarlama düğmesi"
+      ],
+      "vi": [
+        "nút lặp lại một lần",
+        "chiều kim đồng hồ | một lần | mũi tên | nút lặp lại một lần"
+      ],
+      "nl": [
+        "knop voor één herhalen",
+        "één keer | enkel | herhalen | knop | met de klok mee | pijl"
+      ]
+    }
+  ],
+  "🔃": [
+    "arrows",
+    "clockwise downwards and upwards open circle arrows",
+    {
+      "en": [
+        "clockwise vertical arrows",
+        "arrow | arrows | clockwise | refresh | reload | vertical"
+      ],
+      "ru": [
+        "по часовой стрелке",
+        "вертикальные | зависание | перезагрузка | по | стрелке | стрелки | часовой"
+      ],
+      "pl": [
+        "pionowe strzałki zgodne z ruchem wskazówek zegara",
+        "odśwież | okrężny | pionowe strzałki zgodne z ruchem wskazówek zegara | pionowe strzałki zgodnie z ruchem wskazówek zegara | strzałka"
+      ],
+      "fr": [
+        "flèches dans le sens horaire",
+        "actualiser | flèche | flèches dans le sens horaire | sens des aiguilles d’une montre | sens horaire | symbole Recharger"
+      ],
+      "de": [
+        "kreisförmige Pfeile im Uhrzeigersinn",
+        "im Uhrzeigersinn | kreisförmige Pfeile im Uhrzeigersinn | Kreisförmige Pfeile im Uhrzeigersinn | Pfeile"
+      ],
+      "es": [
+        "flechas verticales en sentido horario",
+        "flechas | flechas verticales en sentido horario | flechas verticales sentido horario | horario | señal de recarga"
+      ],
+      "pt": [
+        "setas verticais no sentido horário",
+        "flechas | recarregar | sentido horário | seta | setas | setas em sentido horário na vertical | setas verticais no sentido horário | símbolo de recarregar"
+      ],
+      "it": [
+        "frecce verticali che ruotano in senso orario",
+        "ciclo | circolo | frecce | frecce a cerchio verticali | frecce verticali che ruotano in senso orario | frecce verticali senso orario | orario | processo | ricarica | ricaricare | senso orario | simbolo"
+      ],
+      "ro": [
+        "săgeți verticale în sens orar",
+        "refresh | reîncărcare | săgeți | săgeți verticale în sens orar | săgeți verticale orientate în sensul acelor de ceasornic | sensul acelor de ceasornic | sincronizare"
+      ],
+      "he": [
+        "חצים אנכיים מתעקלים בכיוון השעון",
+        "חצים | חצים אנכיים מתעקלים בכיוון השעון | טעינה מחדש | מעגל"
+      ],
+      "ar": [
+        "سهمان رأسيان مع عقارب الساعة",
+        "أسهم رأسية مع عقارب الساعة | أسهم عمودية باتجاه عقارب الساعة | اعادة تحميل | رمز | سهمان رأسيان مع عقارب الساعة | علامة إعادة تحميل"
+      ],
+      "tr": [
+        "saat yönünde dönen oklar",
+        "oklar | saat yönünde dikey oklar | saat yönünde dönen oklar | saat yönüne dönen oklar | yeniden yükle işareti"
+      ],
+      "vi": [
+        "mũi tên thẳng đứng theo chiều kim đồng hồ",
+        "chiều kim đồng hồ | mũi tên | mũi tên thẳng đứng theo chiều kim đồng hồ | tải lại"
+      ],
+      "nl": [
+        "verticale pijlen met de klok mee",
+        "met de klok mee | opnieuw laden | pijl | pijlen | verticaal | verversen"
+      ]
+    }
+  ],
+  "🔄": [
+    "arrows",
+    "anticlockwise downwards and upwards open circle arrows",
+    {
+      "en": [
+        "counterclockwise arrows button",
+        "again | anticlockwise | arrow | arrows | button | counterclockwise | deja | refresh | rewindershins | vu"
+      ],
+      "ru": [
+        "против часовой стрелки",
+        "горизонтальные | кнопка | обновить | обновление | против | стрелки | часовой"
+      ],
+      "pl": [
+        "przycisk ze strzałkami przeciwnie do ruchu wskazówek zegara",
+        "dookoła | okrężny | przycisk ze strzałkami przeciwnie do ruchu wskazówek zegara | przycisk ze strzałkami w kierunku przeciwnym do ruchu wskazówek zegara | strzałka"
+      ],
+      "fr": [
+        "flèches dans le sens antihoraire",
+        "actualiser | flèche | flèches | flèches dans le sens antihoraire | retour | sens antihoraire | sens contraire des aiguilles d’une montre | sens horaire inverse | sens inverse des aiguilles d’une montre"
+      ],
+      "de": [
+        "Pfeile gegen den Uhrzeigersinn",
+        "gegen den Uhrzeigersinn | kreisförmige Pfeile gegen den Uhrzeigersinn | Kreisförmige Pfeile gegen den Uhrzeigersinn | Pfeile | Pfeile gegen den Uhrzeigersinn"
+      ],
+      "es": [
+        "flechas en sentido antihorario",
+        "dirección | flechas | flechas en sentido antihorario | señal de recarga | sentido antihorario"
+      ],
+      "pt": [
+        "botão de setas em sentido anti-horário",
+        "anti-horário | atualizar | botão de setas em sentido anti-horário | botão de setas no sentido anti-horário | sentido anti-horário | seta | setas | setas em sentido anti-horário"
+      ],
+      "it": [
+        "frecce che ruotano in senso antiorario",
+        "antiorario | circolo | di nuovo | frecce | frecce a cerchio aperto | frecce che ruotano in senso antiorario | frecce senso antiorario | ricarica | ricaricare | simbolo"
+      ],
+      "ro": [
+        "buton cu săgeți în sens antiorar",
+        "antiorar | buton cu săgeți în sens antiorar | buton cu săgeți în sens invers acelor de ceasornic | dejavu | din nou | iar | încă o dată | invers | invers acelor de ceasornic | repeta | săgeată | sens | sens invers acelor de ceasornic"
+      ],
+      "he": [
+        "לחצן חצים נגד כיוון השעון",
+        "אחורה | חץ | לחצן | נגד כיוון השעון"
+      ],
+      "ar": [
+        "زر عكس اتجاه عقارب الساعة",
+        "أسهم | اعادة تحميل | رمز | زر عكس اتجاه عقارب الساعة | سهم | عكس اتجاه عقارب الساعة | مجددا | يعيد نفسه"
+      ],
+      "tr": [
+        "saat yönünün tersinde dönen oklar",
+        "oklar | saat yönünün tersinde dönen oklar | saat yönünün tersine | saat yönünün tersine dönen oklar"
+      ],
+      "vi": [
+        "nút mũi tên ngược chiều kim đồng hồ",
+        "làm mới | mũi tên | ngược chiều kim đồng | nút mũi tên ngược chiều kim đồng hồ | tua lại"
+      ],
+      "nl": [
+        "pijlen tegen de klok in",
+        "déjà | knop | linksom | pijl | pijlen | tegen de klok in | vernieuwen | vu | weer"
+      ]
+    }
+  ],
+  "🔙": [
+    "arrows",
+    "back with leftwards arrow above",
+    {
+      "en": ["BACK arrow", "arrow | BACK"],
+      "ru": ["стрелка «назад»", "вернуться | назад | стрелка"],
+      "pl": [
+        "strzałka z napisem BACK",
+        "strzałka | strzałka z napisem BACK | wstecz"
+      ],
+      "fr": ["flèche Retour", "flèche | flèche vers la gauche | retour"],
+      "de": ["BACK-Pfeil", "BACK-Pfeil | links | Pfeil | zurück"],
+      "es": [
+        "flecha BACK",
+        "atrás | atrás con flecha izquierda | back | flecha | flecha a la izquierda"
+      ],
+      "pt": [
+        "seta \"BACK\"",
+        "flecha | seta | seta \"BACK\" | seta para a esquerda | seta para voltar | voltar | voltar com seta para a esquerda"
+      ],
+      "it": [
+        "freccia BACK",
+        "back | freccia | freccia verso sinistra | indietro | indietro con freccia verso sinistra"
+      ],
+      "ro": [
+        "săgeată cu textul BACK",
+        "back | înapoi | indicator | săgeată | săgeată cu textul BACK"
+      ],
+      "he": ["חץ אחורה", "אחורה | חזרה | חץ | לאחור"],
+      "ar": ["سهم رجوع", "رجوع | رجوع مع سهم أيسر | سهم | سهم أيسر"],
+      "tr": ["geri oku", "geri ok | geri oku | ok | sol geri ok | sol ok"],
+      "vi": ["mũi tên BACK", "back | mũi tên | mũi tên BACK"],
+      "nl": ["BACK-pijl", "BACK | pijl"]
+    }
+  ],
+  "🔚": [
+    "arrows",
+    "end with leftwards arrow above",
+    {
+      "en": ["END arrow", "arrow | END"],
+      "ru": ["стрелка «конец»", "конец | стрелка «конец» | стрелка конец"],
+      "pl": [
+        "strzałka z napisem END",
+        "koniec | strzałka | strzałka z napisem END"
+      ],
+      "fr": ["flèche Fin", "fin | flèche | flèche vers la gauche"],
+      "de": ["END-Pfeil", "END-Pfeil | Ende-Zeichen | links | Pfeil"],
+      "es": [
+        "flecha END",
+        "final | final con flecha izquierda | flecha | flecha a la izquierda | flecha END"
+      ],
+      "pt": [
+        "seta \"END\"",
+        "fim | fim com seta para a esquerda | final | seta | seta \"END\" | seta para a esquerda | seta para ir para o fim"
+      ],
+      "it": [
+        "freccia END",
+        "end | end con freccia verso sinistra | fine | freccia | freccia a sinistra | freccia verso sinistra"
+      ],
+      "ro": [
+        "săgeată cu textul END",
+        "end | final | indicator | săgeată | săgeată cu textul END"
+      ],
+      "he": ["חץ לסוף", "END | חץ | חץ לסוף | סוף"],
+      "ar": [
+        "سهم النهاية",
+        "النهاية | الى اليسار | انتهاء | انتهاء مع سهم أيسر | ايسر | رمز | سهم | سهم أيسر"
+      ],
+      "tr": ["bitiş oku", "bitiş oku | ok | sol bitiş oku | sol ok"],
+      "vi": ["mũi tên END", "end | mũi tên | mũi tên END"],
+      "nl": ["END-pijl", "END | pijl"]
+    }
+  ],
+  "🔛": [
+    "arrows",
+    "on with exclamation mark with left right arrow above",
+    {
+      "en": ["ON! arrow", "arrow | mark | ON!"],
+      "ru": [
+        "стрелка «активно»",
+        "активно | включено | стрелка «активно» | стрелка активно"
+      ],
+      "pl": [
+        "strzałka z napisem ON!",
+        "strzałka | strzałka w obie strony | strzałka z napisem ON! | włączone"
+      ],
+      "fr": [
+        "flèche Activé",
+        "activé | droite et gauche | flèche | flèche dans les deux sens"
+      ],
+      "de": [
+        "ON!-Pfeil",
+        "anschalten | Ein-Zeichen | einschaltem | ON!-Pfeil | Pfeil | rechts und links"
+      ],
+      "es": [
+        "flecha ON!",
+        "flecha | flecha de doble punta con la palabra \"on\" encima | flecha ON! | on | señal"
+      ],
+      "pt": [
+        "seta \"ON!\"",
+        "flecha | marca | on | ON! | seta | seta \"ON!\" | seta “ON”"
+      ],
+      "it": [
+        "freccia ON",
+        "frecce | freccia | ON | ON con freccia e punto esclamativo | punto esclamativo | simbolo"
+      ],
+      "ro": [
+        "săgeată cu textul ON!",
+        "îndemn | indicator | marcaj | ON! | săgeată | săgeată cu textul ON! | săgeată să pornim"
+      ],
+      "he": ["חץ פועל!", "חץ | חץ פועל! | פועל"],
+      "ar": [
+        "سهم تشغيل",
+        "تشغيل مع علامة تعجب وسهم | تعجب | رمز | سهم | سهم تشغيل | علامة تعجب"
+      ],
+      "tr": [
+        "açık oku",
+        "açık oku | ok | ünlem | ünlem işareti | ünlem işareti ve okla AÇIK"
+      ],
+      "vi": ["mũi tên ON!", "dấu | mũi tên | mũi tên ON! | on"],
+      "nl": ["ON!-pijl", "ON! | pijl | teken"]
+    }
+  ],
+  "🔜": [
+    "arrows",
+    "soon with rightwards arrow above",
+    {
+      "en": ["SOON arrow", "arrow | brb | omw | SOON"],
+      "ru": [
+        "стрелка «скоро»",
+        "вправо | далее | продолжение | скоро | следует | стрелка"
+      ],
+      "pl": [
+        "strzałka z napisem SOON",
+        "strzałka | strzałka z napisem SOON | wkrótce"
+      ],
+      "fr": ["flèche Bientôt", "bientôt | flèche"],
+      "de": ["SOON-Pfeil", "Bald-Zeichen | Pfeil | rechts | SOON-Pfeil"],
+      "es": ["flecha SOON", "flecha | soon | soon con flecha a la derecha"],
+      "pt": [
+        "seta \"SOON\"",
+        "“Soon” com seta para a direita | em breve | flecha | seta | seta \"SOON\" | símbolo “Soon” | soon"
+      ],
+      "it": [
+        "freccia SOON",
+        "brb | freccia | freccia nera | presto | simbolo | soon | soon con freccia verso destra | tra poco | un attimo"
+      ],
+      "ro": [
+        "săgeată cu textul SOON",
+        "brb | curând | indicator | pe drum | săgeată | săgeată cu textul SOON | săgeată în curând | sunt pe drum"
+      ],
+      "he": ["חץ בקרוב", "בקרוב | חץ"],
+      "ar": [
+        "سهم علامة قريبًا",
+        "راجع | سهم | سهم علامة قريبًا | علامة قريبًا | عودة | قريباً | قريبًا | قريبًا مع سهم أيمن"
+      ],
+      "tr": [
+        "yakında işareti",
+        "ok | sağ okla Yakında | Yakında | yakında işareti"
+      ],
+      "vi": ["mũi tên SOON", "mũi tên | mũi tên SOON | soon"],
+      "nl": ["SOON-pijl", "onderweg | pijl | SOON | zo terug"]
+    }
+  ],
+  "🔝": [
+    "arrows",
+    "top with upwards arrow above",
+    {
+      "en": ["TOP arrow", "arrow | homie | TOP | up"],
+      "ru": ["стрелка «верх»", "вверх | верх | наверх | стрелка | топ"],
+      "pl": [
+        "strzałka z napisem TOP",
+        "góra | strzałka | strzałka z napisem TOP | w górę"
+      ],
+      "fr": [
+        "flèche En haut",
+        "flèche | flèche En haut | flèche vers le haut | haut"
+      ],
+      "de": ["TOP-Pfeil", "Pfeil nach oben | TOP-Pfeil | Top-Zeichen"],
+      "es": [
+        "flecha TOP",
+        "arriba | flecha hacia arriba | flecha TOP | top | top con flecha hacia arriba"
+      ],
+      "pt": [
+        "seta \"TOP\"",
+        "cima | para cima | seta | seta \"TOP | seta \"TOP\" | seta para cima | símbolo top | top | top com seta para cima"
+      ],
+      "it": [
+        "freccia TOP",
+        "alto | freccia in alto | freccia TOP | freccia verso l’alto | simbolo Top | Top | Top con freccia verso l’alto"
+      ],
+      "ro": [
+        "săgeată cu textul TOP",
+        "săgeată | săgeată cu textul TOP | săgeată în sus | sus | vârf"
+      ],
+      "he": ["חץ מעלה", "הטופ | הכי טוב | חץ | למעלה"],
+      "ar": [
+        "السهم لأعلى",
+        "أعلى | أعلى مع سهم لأعلى | اعلى | السهم لأعلى | توب | رمز | سهم لأعلى | علامة أعلى | موجب"
+      ],
+      "tr": [
+        "yukarı oku",
+        "yukarı | Yukarı | yukarı işareti | yukarı ok | yukarı okla Yukarı | yukarı oku"
+      ],
+      "vi": ["mũi tên TOP", "lên | mũi tên | mũi tên TOP | top"],
+      "nl": ["TOP-pijl", "omhoog | pijl | TOP"]
+    }
+  ],
+  "🗘": ["arrows", "clockwise right and left semicircle arrows", {}],
+  "🠀": ["arrows", "leftwards arrow with small triangle arrowhead", {}],
+  "🠁": ["arrows", "upwards arrow with small triangle arrowhead", {}],
+  "🠂": ["arrows", "rightwards arrow with small triangle arrowhead", {}],
+  "🠃": ["arrows", "downwards arrow with small triangle arrowhead", {}],
+  "🠄": ["arrows", "leftwards arrow with medium triangle arrowhead", {}],
+  "🠅": ["arrows", "upwards arrow with medium triangle arrowhead", {}],
+  "🠆": ["arrows", "rightwards arrow with medium triangle arrowhead", {}],
+  "🠇": ["arrows", "downwards arrow with medium triangle arrowhead", {}],
+  "🠈": ["arrows", "leftwards arrow with large triangle arrowhead", {}],
+  "🠉": ["arrows", "upwards arrow with large triangle arrowhead", {}],
+  "🠊": ["arrows", "rightwards arrow with large triangle arrowhead", {}],
+  "🠋": ["arrows", "downwards arrow with large triangle arrowhead", {}],
+  "🠐": ["arrows", "leftwards arrow with small equilateral arrowhead", {}],
+  "🠑": ["arrows", "upwards arrow with small equilateral arrowhead", {}],
+  "🠒": ["arrows", "rightwards arrow with small equilateral arrowhead", {}],
+  "🠓": ["arrows", "downwards arrow with small equilateral arrowhead", {}],
+  "🠔": ["arrows", "leftwards arrow with equilateral arrowhead", {}],
+  "🠕": ["arrows", "upwards arrow with equilateral arrowhead", {}],
+  "🠖": ["arrows", "rightwards arrow with equilateral arrowhead", {}],
+  "🠗": ["arrows", "downwards arrow with equilateral arrowhead", {}],
+  "🠘": ["arrows", "heavy leftwards arrow with equilateral arrowhead", {}],
+  "🠙": ["arrows", "heavy upwards arrow with equilateral arrowhead", {}],
+  "🠚": ["arrows", "heavy rightwards arrow with equilateral arrowhead", {}],
+  "🠛": ["arrows", "heavy downwards arrow with equilateral arrowhead", {}],
+  "🠜": ["arrows", "heavy leftwards arrow with large equilateral arrowhead", {}],
+  "🠝": ["arrows", "heavy upwards arrow with large equilateral arrowhead", {}],
+  "🠞": [
+    "arrows",
+    "heavy rightwards arrow with large equilateral arrowhead",
+    {}
+  ],
+  "🠟": ["arrows", "heavy downwards arrow with large equilateral arrowhead", {}],
+  "🠠": ["arrows", "leftwards triangle-headed arrow with narrow shaft", {}],
+  "🠡": ["arrows", "upwards triangle-headed arrow with narrow shaft", {}],
+  "🠢": ["arrows", "rightwards triangle-headed arrow with narrow shaft", {}],
+  "🠣": ["arrows", "downwards triangle-headed arrow with narrow shaft", {}],
+  "🠤": ["arrows", "leftwards triangle-headed arrow with medium shaft", {}],
+  "🠥": ["arrows", "upwards triangle-headed arrow with medium shaft", {}],
+  "🠦": ["arrows", "rightwards triangle-headed arrow with medium shaft", {}],
+  "🠧": ["arrows", "downwards triangle-headed arrow with medium shaft", {}],
+  "🠨": ["arrows", "leftwards triangle-headed arrow with bold shaft", {}],
+  "🠩": ["arrows", "upwards triangle-headed arrow with bold shaft", {}],
+  "🠪": ["arrows", "rightwards triangle-headed arrow with bold shaft", {}],
+  "🠫": ["arrows", "downwards triangle-headed arrow with bold shaft", {}],
+  "🠬": ["arrows", "leftwards triangle-headed arrow with heavy shaft", {}],
+  "🠭": ["arrows", "upwards triangle-headed arrow with heavy shaft", {}],
+  "🠮": ["arrows", "rightwards triangle-headed arrow with heavy shaft", {}],
+  "🠯": ["arrows", "downwards triangle-headed arrow with heavy shaft", {}],
+  "🠰": ["arrows", "leftwards triangle-headed arrow with very heavy shaft", {}],
+  "🠱": ["arrows", "upwards triangle-headed arrow with very heavy shaft", {}],
+  "🠲": ["arrows", "rightwards triangle-headed arrow with very heavy shaft", {}],
+  "🠳": ["arrows", "downwards triangle-headed arrow with very heavy shaft", {}],
+  "🠴": ["arrows", "leftwards finger-post arrow", {}],
+  "🠵": ["arrows", "upwards finger-post arrow", {}],
+  "🠶": ["arrows", "rightwards finger-post arrow", {}],
+  "🠷": ["arrows", "downwards finger-post arrow", {}],
+  "🠸": ["arrows", "leftwards squared arrow", {}],
+  "🠹": ["arrows", "upwards squared arrow", {}],
+  "🠺": ["arrows", "rightwards squared arrow", {}],
+  "🠻": ["arrows", "downwards squared arrow", {}],
+  "🠼": ["arrows", "leftwards compressed arrow", {}],
+  "🠽": ["arrows", "upwards compressed arrow", {}],
+  "🠾": ["arrows", "rightwards compressed arrow", {}],
+  "🠿": ["arrows", "downwards compressed arrow", {}],
+  "🡀": ["arrows", "leftwards heavy compressed arrow", {}],
+  "🡁": ["arrows", "upwards heavy compressed arrow", {}],
+  "🡂": ["arrows", "rightwards heavy compressed arrow", {}],
+  "🡃": ["arrows", "downwards heavy compressed arrow", {}],
+  "🡄": ["arrows", "leftwards heavy arrow", {}],
+  "🡅": ["arrows", "upwards heavy arrow", {}],
+  "🡆": ["arrows", "rightwards heavy arrow", {}],
+  "🡇": ["arrows", "downwards heavy arrow", {}],
+  "🡐": ["arrows", "leftwards sans-serif arrow", {}],
+  "🡑": ["arrows", "upwards sans-serif arrow", {}],
+  "🡒": ["arrows", "rightwards sans-serif arrow", {}],
+  "🡓": ["arrows", "downwards sans-serif arrow", {}],
+  "🡔": ["arrows", "north west sans-serif arrow", {}],
+  "🡕": ["arrows", "north east sans-serif arrow", {}],
+  "🡖": ["arrows", "south east sans-serif arrow", {}],
+  "🡗": ["arrows", "south west sans-serif arrow", {}],
+  "🡘": ["arrows", "left right sans-serif arrow", {}],
+  "🡙": ["arrows", "up down sans-serif arrow", {}],
+  "🡠": ["arrows", "wide-headed leftwards light barb arrow", {}],
+  "🡡": ["arrows", "wide-headed upwards light barb arrow", {}],
+  "🡢": ["arrows", "wide-headed rightwards light barb arrow", {}],
+  "🡣": ["arrows", "wide-headed downwards light barb arrow", {}],
+  "🡤": ["arrows", "wide-headed north west light barb arrow", {}],
+  "🡥": ["arrows", "wide-headed north east light barb arrow", {}],
+  "🡦": ["arrows", "wide-headed south east light barb arrow", {}],
+  "🡧": ["arrows", "wide-headed south west light barb arrow", {}],
+  "🡨": ["arrows", "wide-headed leftwards barb arrow", {}],
+  "🡩": ["arrows", "wide-headed upwards barb arrow", {}],
+  "🡪": ["arrows", "wide-headed rightwards barb arrow", {}],
+  "🡫": ["arrows", "wide-headed downwards barb arrow", {}],
+  "🡬": ["arrows", "wide-headed north west barb arrow", {}],
+  "🡭": ["arrows", "wide-headed north east barb arrow", {}],
+  "🡮": ["arrows", "wide-headed south east barb arrow", {}],
+  "🡯": ["arrows", "wide-headed south west barb arrow", {}],
+  "🡰": ["arrows", "wide-headed leftwards medium barb arrow", {}],
+  "🡱": ["arrows", "wide-headed upwards medium barb arrow", {}],
+  "🡲": ["arrows", "wide-headed rightwards medium barb arrow", {}],
+  "🡳": ["arrows", "wide-headed downwards medium barb arrow", {}],
+  "🡴": ["arrows", "wide-headed north west medium barb arrow", {}],
+  "🡵": ["arrows", "wide-headed north east medium barb arrow", {}],
+  "🡶": ["arrows", "wide-headed south east medium barb arrow", {}],
+  "🡷": ["arrows", "wide-headed south west medium barb arrow", {}],
+  "🡸": ["arrows", "wide-headed leftwards heavy barb arrow", {}],
+  "🡹": ["arrows", "wide-headed upwards heavy barb arrow", {}],
+  "🡺": ["arrows", "wide-headed rightwards heavy barb arrow", {}],
+  "🡻": ["arrows", "wide-headed downwards heavy barb arrow", {}],
+  "🡼": ["arrows", "wide-headed north west heavy barb arrow", {}],
+  "🡽": ["arrows", "wide-headed north east heavy barb arrow", {}],
+  "🡾": ["arrows", "wide-headed south east heavy barb arrow", {}],
+  "🡿": ["arrows", "wide-headed south west heavy barb arrow", {}],
+  "🢀": ["arrows", "wide-headed leftwards very heavy barb arrow", {}],
+  "🢁": ["arrows", "wide-headed upwards very heavy barb arrow", {}],
+  "🢂": ["arrows", "wide-headed rightwards very heavy barb arrow", {}],
+  "🢃": ["arrows", "wide-headed downwards very heavy barb arrow", {}],
+  "🢄": ["arrows", "wide-headed north west very heavy barb arrow", {}],
+  "🢅": ["arrows", "wide-headed north east very heavy barb arrow", {}],
+  "🢆": ["arrows", "wide-headed south east very heavy barb arrow", {}],
+  "🢇": ["arrows", "wide-headed south west very heavy barb arrow", {}],
+  "🢐": ["arrows", "leftwards triangle arrowhead", {}],
+  "🢑": ["arrows", "upwards triangle arrowhead", {}],
+  "🢒": ["arrows", "rightwards triangle arrowhead", {}],
+  "🢓": ["arrows", "downwards triangle arrowhead", {}],
+  "🢔": ["arrows", "leftwards white arrow within triangle arrowhead", {}],
+  "🢕": ["arrows", "upwards white arrow within triangle arrowhead", {}],
+  "🢖": ["arrows", "rightwards white arrow within triangle arrowhead", {}],
+  "🢗": ["arrows", "downwards white arrow within triangle arrowhead", {}],
+  "🢘": ["arrows", "leftwards arrow with notched tail", {}],
+  "🢙": ["arrows", "upwards arrow with notched tail", {}],
+  "🢚": ["arrows", "rightwards arrow with notched tail", {}],
+  "🢛": ["arrows", "downwards arrow with notched tail", {}],
+  "🢜": ["arrows", "heavy arrow shaft width one", {}],
+  "🢝": ["arrows", "heavy arrow shaft width two thirds", {}],
+  "🢞": ["arrows", "heavy arrow shaft width one half", {}],
+  "🢟": ["arrows", "heavy arrow shaft width one third", {}],
+  "🢠": ["arrows", "leftwards bottom-shaded white arrow", {}],
+  "🢡": ["arrows", "rightwards bottom shaded white arrow", {}],
+  "🢢": ["arrows", "leftwards top shaded white arrow", {}],
+  "🢣": ["arrows", "rightwards top shaded white arrow", {}],
+  "🢤": ["arrows", "leftwards left-shaded white arrow", {}],
+  "🢥": ["arrows", "rightwards right-shaded white arrow", {}],
+  "🢦": ["arrows", "leftwards right-shaded white arrow", {}],
+  "🢧": ["arrows", "rightwards left-shaded white arrow", {}],
+  "🢨": ["arrows", "leftwards back-tilted shadowed white arrow", {}],
+  "🢩": ["arrows", "rightwards back-tilted shadowed white arrow", {}],
+  "🢪": ["arrows", "leftwards front-tilted shadowed white arrow", {}],
+  "🢫": ["arrows", "rightwards front-tilted shadowed white arrow", {}],
+  "🢬": ["arrows", "white arrow shaft width one", {}],
+  "🢭": ["arrows", "white arrow shaft width two thirds", {}],
+  "🢰": ["arrows", "arrow pointing upwards then north west", {}],
+  "🢱": ["arrows", "arrow pointing rightwards then curving south west", {}],
+  "🢲": ["arrows", "rightwards arrow with lower hook", {}],
+  "🢳": ["arrows", "downwards black arrow to bar", {}],
+  "🢴": ["arrows", "negative squared leftwards arrow", {}],
+  "🢵": ["arrows", "negative squared upwards arrow", {}],
+  "🢶": ["arrows", "negative squared rightwards arrow", {}],
+  "🢷": ["arrows", "negative squared downwards arrow", {}],
+  "🢸": ["arrows", "north west arrow from bar", {}],
+  "🢹": ["arrows", "north east arrow from bar", {}],
+  "🢺": ["arrows", "south east arrow from bar", {}],
+  "🢻": ["arrows", "south west arrow from bar", {}],
+  "🣀": ["arrows", "leftwards arrow from downwards arrow", {}],
+  "🣁": ["arrows", "rightwards arrow from downwards arrow", {}],
+  "🣐": ["arrows", "long rightwards arrow over long leftwards arrow", {}],
+  "🣖": ["arrows", "long rightwards arrow through x", {}],
+  "🣗": ["arrows", "long rightwards arrow with double slash", {}],
+  "🣘": ["arrows", "long left right arrow with dependent lobe", {}]
+}

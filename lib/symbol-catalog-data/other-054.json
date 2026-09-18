@@ -1,0 +1,2615 @@
+{
+  "🤡": [
+    "other",
+    "clown face",
+    {
+      "en": ["clown face", "clown | face"],
+      "ru": ["клоун", "арлекин | клоун | смех | смешно | улыбка | цирк | шут"],
+      "pl": ["twarz klauna", "buźka | cyrk | klown | twarz klauna"],
+      "fr": [
+        "visage de clown",
+        "clown | émoticône | maquillage | visage | visage de clown"
+      ],
+      "de": ["Clown-Gesicht", "Clown | Clown-Gesicht | Gesicht"],
+      "es": ["cara de payaso", "cara | cara de payaso | payaso"],
+      "pt": [
+        "rosto de palhaço",
+        "cara | circo | engraçado | palhaço | piada | rosto"
+      ],
+      "it": [
+        "faccina pagliaccio",
+        "carnevale | circo | clown | faccina | faccina del clown | It | maschera | pagliaccio | teatro"
+      ],
+      "ro": [
+        "față de clovn",
+        "arlechin | claun | clovn | față | față de clovn"
+      ],
+      "he": ["פרצוף ליצן", "ליצן | פרצוף"],
+      "ar": ["وجه مهرج", "مهرج | وجه"],
+      "tr": ["palyaço yüzü", "palyaço | palyaço yüzü | yüz"],
+      "vi": ["mặt hề", "hề | mặt"],
+      "nl": ["clownsgezicht", "clown | gezicht"]
+    }
+  ],
+  "🤢": [
+    "other",
+    "nauseated face",
+    {
+      "en": [
+        "nauseated face",
+        "face | gross | nasty | nauseated | sick | vomit"
+      ],
+      "ru": [
+        "тошнит",
+        "блевать | болезнь | выворачивать | вырвет | зеленый | морская | наизнанку | отравиться | плохо | тошнит"
+      ],
+      "pl": [
+        "twarz z mdłościami",
+        "buźka | choroba | chory | mdłości | obrzydliwe | twarz z mdłościami | wymiotować | zielony"
+      ],
+      "fr": [
+        "visage nauséeux",
+        "dégoûtant | écœuré | émoticône | malade | nausée | visage | visage nauséeux | visage vert qui a la nausée | vomir"
+      ],
+      "de": [
+        "würgendes Gesicht",
+        "ekel | eklig | erbrechen | Gesicht | grün | igitt | Smiley | Übelkeit | übergeben | widerlich | würgen"
+      ],
+      "es": ["cara de náuseas", "cara | cara de náuseas | náuseas | vomitar"],
+      "pt": [
+        "rosto nauseado",
+        "doente | enjoado | enjoo | náusea | rosto nauseado | vômito"
+      ],
+      "it": [
+        "faccina nauseata",
+        "faccina | faccina che vomita | faccina con la nausea | faccina nauseata | hang over | mal di mare | malato | nausea | nauseato | sto male | verde | vomito"
+      ],
+      "ro": [
+        "față îngrețoșată",
+        "bolnav | dezgustător | față | față îngrețoșată | greață | îmi vine rău | lehamite | mi-e greață | mi-e rău | scârbos | vomă"
+      ],
+      "he": [
+        "פרצוף סובל מבחילה",
+        "איכסה | בחילה | הקאה | להקיא | מגעיל | פרצוף"
+      ],
+      "ar": [
+        "وجه مشمئز",
+        "استفراغ | استفرغ | اشمئزاز | تقيأ | تقيؤ | حومة كبد | غثيان | قرف | مريض | مصاب بغثيان | وجه | وجه متقزز | وجه مشمئز | وع"
+      ],
+      "tr": [
+        "kusmak üzere olan yüz",
+        "iğrenç | istifra | kusmak üzere | kusmak üzere olan yüz | midesi bulanmış | yüz"
+      ],
+      "vi": ["mặt buồn nôn", "buồn nôn | mặt | mặt buồn nôn | nôn mửa"],
+      "nl": [
+        "misselijk gezicht",
+        "gadver | gezicht | misselijk | overgeven | vies | ziek"
+      ]
+    }
+  ],
+  "🤣": [
+    "other",
+    "rolling on the floor laughing",
+    {
+      "en": [
+        "rolling on the floor laughing",
+        "crying | face | floor | funny | haha | happy | hehe | hilarious | joy | laugh | lmao | lol | rofl | roflmao | rolling | tear"
+      ],
+      "ru": [
+        "катается со смеху",
+        "глаза | катаюсь | плач | пол | ржака | ржач | слезы | умора | ха-ха | хохот"
+      ],
+      "pl": [
+        "tarza się ze śmiechu",
+        "buźka | haha | hehe | kulać się | lol | łza | łzy | płakać | płakać ze śmiechu | śmiech | śmieszne | tarza się ze śmiechu | wesoły"
+      ],
+      "fr": [
+        "se rouler par terre de rire",
+        "content | drôle | émoticône | hilare | joyeux | larmes | lol | mdr | pleurer de rire | rire | rire aux larmes | se rouler par terre | se rouler par terre de rire | se tordre de rire | visage | visage qui rit aux larmes"
+      ],
+      "de": [
+        "sich vor Lachen auf dem Boden wälzen",
+        "Boden | Gesicht | haha | hehe | lachen | lol | lustig | muahaha | rofl | Smiley | Tränen | wälzen | witzig"
+      ],
+      "es": [
+        "cara revolviéndose de la risa",
+        "cara | cara revolviéndose de la risa | carcajada | ojos cerrados | risa"
+      ],
+      "pt": [
+        "rolando no chão de rir",
+        "chão | choro | engraçada | feliz | gargalhada | haha | kkk | lágrimas | rindo | rir | risada | rolando"
+      ],
+      "it": [
+        "ridere a crepapelle",
+        "ahah | crepapelle | divertente | esilarante | faccia che si rotola | faccina che ride | felice | felicissimo | lacrime dal ridere | lmao | lol | molto felice | occhi chiusi | ridere a crepapelle | ridicolo | risata | rofl"
+      ],
+      "ro": [
+        "tăvălindu-se pe jos de râs",
+        "amuzant | față | haha | hehe | jos | lacrimi | leșin | lmao | lmfao | lol | lololol | mă tăvălesc | mor de râs | mortal | pe jos de râs | râde | râs | râset | roflmao"
+      ],
+      "he": [
+        "מתגלגל על הרצפה מרוב צחוק",
+        "בוכה | דמעות | חחח | מצחיק | מתגלגל | מתפקע מצחוק | פרצוף | צוחק | צחוק"
+      ],
+      "ar": [
+        "وجه ضاحك يتدحرج على الأرض",
+        "أرض | المشاعر والضحك بالدموع | بكاء | تبكي | تدحرج | دمعة | دموع | دموع الفرح | سعيد | ضحك | فرح | مش قادر | مضحك | ههه | وجه | وجه ضاحك | وجه ضاحك يتدحرج على الأرض | يا نهار ضحك | يبكي"
+      ],
+      "tr": [
+        "gülmekten yerlere yatma",
+        "ahaha | çok komik | gözümden yaş geldi | gözyaşı | gülme | hahaha | kahkaha | komik | mutluluk | neşe | yerlere yatmak | yüz"
+      ],
+      "vi": [
+        "mặt cười lăn cười bò",
+        "cười | cười chảy nước mắt | cười sung sướng | lăn | mặt | mặt cười lăn cười bò | sàn"
+      ],
+      "nl": [
+        "gezicht dat op de grond rolt van het lachen",
+        "blij | gezicht | grappig | haha | hehe | hilarisch | huilen | lachen | lmao | lol | rofl | roflmao | rollen | traan | vloer | vreugde"
+      ]
+    }
+  ],
+  "🤤": [
+    "other",
+    "drooling face",
+    {
+      "en": ["drooling face", "drooling | face"],
+      "ru": ["пускает слюни", "лицо | пускает слюни | слюни"],
+      "pl": [
+        "śliniąca się twarz",
+        "buźka | cieknie mi ślinka | głodny | mniam | ślina | śliniąca się twarz | ślinka"
+      ],
+      "fr": [
+        "visage qui bave",
+        "baver | délicieux | émoticône | mmh | visage | visage qui bave"
+      ],
+      "de": ["sabberndes Gesicht", "Gesicht | sabbern | Smiley"],
+      "es": ["cara babeando", "baba | babeando | cara"],
+      "pt": ["rosto babando", "babando | babar | rosto | salivando"],
+      "it": [
+        "faccina che sbava",
+        "bava | che buono | faccina | faccina che sbava | felice | figata | sbavare"
+      ],
+      "ro": [
+        "față care salivează",
+        "față | față care salivează | salivă | salivare | salivează"
+      ],
+      "he": ["פרצוף מזיל ריר", "מזיל | מרייר | פרצוף | ריר"],
+      "ar": [
+        "وجه بلعاب سائل",
+        "بزق | شهي | لذيذ | لعاب | مشهي | وجه | وجه بلعاب سائل"
+      ],
+      "tr": [
+        "salya akıtan yüz",
+        "ağzı sulanmış | salya akıtan yüz | salya akıtma | yüz"
+      ],
+      "vi": ["mặt chảy dãi", "chảy dãi | mặt | mặt chảy dãi"],
+      "nl": ["kwijlend gezicht", "gezicht | kwijlend"]
+    }
+  ],
+  "🤥": [
+    "other",
+    "lying face",
+    {
+      "en": ["lying face", "face | liar | lie | lying | pinocchio"],
+      "ru": [
+        "лжец",
+        "буратино | врать | врешь | лжец | лицо | ложь | обман | обманывать | пиноккио"
+      ],
+      "pl": [
+        "twarz kłamcy",
+        "buźka | długi nos | kłamać | kłamca | pinokio | twarz kłamcy"
+      ],
+      "fr": [
+        "visage de menteur",
+        "émoticône | mensonge | menteur | pinocchio | visage | visage de menteur | visage dont le nez s’allonge"
+      ],
+      "de": [
+        "lügendes Gesicht",
+        "Gesicht | Lüge | Nase | Pinocchio | Schwindel"
+      ],
+      "es": [
+        "cara de mentiroso",
+        "cara | cara de mentiroso | mentiroso | nariz | pinocho"
+      ],
+      "pt": [
+        "rosto de mentiroso",
+        "mentindo | mentira | mentiroso | nariz crescendo | pinocchio | pinóquio | rosto de mentiroso"
+      ],
+      "it": [
+        "faccina bugiarda",
+        "bugia | bugiardo | dire le bugie | faccina | faccina bugiarda | faccina con il naso lungo | mentire | naso lungo | pinocchio"
+      ],
+      "ro": [
+        "fața mincinoasă",
+        "față | fața mincinoasă | mincinos | minciună | pinocchio"
+      ],
+      "he": ["פרצוף עם אף פינוקיו", "אף ארוך | פינוקיו | שקר | שקרן"],
+      "ar": ["وجه كاذب", "بينوكيو | كاذب | كذاب | كذب | وجه"],
+      "tr": [
+        "yalan söyleyen yüz",
+        "pinokyo | yalan söyleme | yalan söyleyen yüz | yüz"
+      ],
+      "vi": ["mặt nói dối", "mặt | mặt nói dối | nói dối | pinocchio"],
+      "nl": [
+        "liegend gezicht",
+        "gezicht | leugen | leugenaar | liegen | pinokkio"
+      ]
+    }
+  ],
+  "🤦": [
+    "other",
+    "face palm",
+    {
+      "en": [
+        "person facepalming",
+        "again | bewilder | disbelief | exasperation | facepalm | no | not | oh | omg | person | shock | smh"
+      ],
+      "ru": [
+        "человек потерял дар речи",
+        "надоело | нет | омг | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "osoba trzymająca się za czoło",
+        "facepalm | fejspalm | niedowierzanie | osoba trzymająca się za czoło | osoba zakrywająca twarz dłonią | tylko nie to | załamanie | załamka"
+      ],
+      "fr": [
+        "personne avec la paume sur le visage",
+        "drame | exaspération | femme avec paume sur visage | geste | incrédulité | incroyable | j’en peux plus | main | pas possible | paume de main | personne | personne avec la paume sur le visage | visage"
+      ],
+      "de": [
+        "sich an den Kopf fassende Person",
+        "fassen | frustriert | genervt | Gesicht | Kopf | oh nein | OMG | Person | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "persona con la mano en la frente",
+        "facepalm | frente | incredulidad | mano | persona con la mano en la frente"
+      ],
+      "pt": [
+        "pessoa decepcionada",
+        "como assim | decepção | decepcionada | decepcionado | desapontamento | descrença | inacreditável | meu deus | não acredito | não é possível | pessoa | pessoa dececionada"
+      ],
+      "it": [
+        "persona esasperata",
+        "disperazione | esasperazione | facepalm | incredulità | mano in fronte | oddio | oh no | persona | persona esasperata"
+      ],
+      "ro": [
+        "persoană care își acoperă fața cu o palmă",
+        "dă din cap | exasperare | față | incredibil | nu din nou | omg | palmă | palmă peste față | persoană | persoană care își acoperă fața cu o palmă"
+      ],
+      "he": [
+        "אישה עם יד על הפנים",
+        "אוי לא | אישה | הלם | זועמת | זעזוע | כועסת | לא יכול להיות | לא מאמינה"
+      ],
+      "ar": [
+        "شخص محبط",
+        "أشخاص | إحباط | راحة يد | سخط | شخص محبط | صدمة | لا | لا أعتقد ذلك | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "yüzünü eliyle kapama",
+        "aman tanrım | çileden çıkma | inanamıyorum | inanmama | inanmıyorum | kızgınlık | öfke | olamaz | şok | yüzünü eliyle kapama"
+      ],
+      "vi": [
+        "người lấy tay che mặt",
+        "hoài nghi | không tin nổi | lại nữa rồi | lòng bàn tay | mặt | người dùng tay che mặt | người lấy tay che mặt | tay che mặt | tức giận"
+      ],
+      "nl": [
+        "persoon die het gezicht met de hand bedekt",
+        "ergernis | gebaar | gezicht | hand voor gezicht | niet opnieuw | ongeloof | ongelooflijk | palm | persoon | persoon die het gezicht met de hand bedekt | schaamte | zucht"
+      ]
+    }
+  ],
+  "🤦‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman facepalming",
+        "again | bewilder | disbelief | exasperation | facepalm | no | not | oh | omg | shock | smh | woman"
+      ],
+      "ru": [
+        "женщина потеряла дар речи",
+        "женщина | надоело | нет | омг | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "kobieta trzymająca się za czoło",
+        "brak słów | facepalm | fejspalm | irytacja | kobieta | kobieta trzymająca się za czoło | nie | niedowierzanie | omg | osoba | załamka | zrezygnowanie"
+      ],
+      "fr": [
+        "femme avec la paume sur le visage",
+        "encore | exaspération | femme | femme avec la paume sur le visage | incrédulité | incroyable | j’y crois pas | main sur le visage | oh non | oubli | paume | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassende Frau",
+        "fassen | Frau | frustriert | genervt | Gesicht | Kopf | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "mujer con la mano en la frente",
+        "facepalm | frente | incredulidad | mano | mujer con la mano en la frente"
+      ],
+      "pt": [
+        "mulher decepcionada",
+        "como assim | decepção | decepcionada | desapontamento | inacreditável | meu deus | mulher | não acredito | não é possível"
+      ],
+      "it": [
+        "donna esasperata",
+        "donna | esasperata | esasperazione | figuraccia | gesto | imbarazzo | incredula | mano sul viso | non ci credo | oddio | persona"
+      ],
+      "ro": [
+        "femeie care își acoperă fața cu o palmă",
+        "dă din cap | exasperare | femeie | femeie care își acoperă fața cu o palmă | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană"
+      ],
+      "he": [
+        "אישה מתוסכלת",
+        "אדם | אוי לא | אין מצב | אישה | בהלם | לא מאמינה | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "سيدة تشعر بإحباط",
+        "أشخاص | إحباط | السخط | امرأة | حيرة | سيدة تشعر بإحباط | صدمة | عدم تصديق | لا | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan kadın",
+        "aman tanrım | çileden çıkma | el | eliyle yüzünü kapatan kadın | inanamıyorum | inanmama | kadın | öfke | olamaz | sinir | utanç | utancından eliyle yüzünü kapatma"
+      ],
+      "vi": [
+        "người phụ nữ lấy tay che mặt",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | người lấy tay che mặt | người phụ nữ lấy tay che mặt | nữ | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "vrouw die het gezicht met de hand bedekt",
+        "ergernis | facepalm | gebaar | gezicht bedekken | omg | ongeloof | ongelooflijk | persoon | schaamte | vrouw | vrouw die het gezicht met de hand bedekt"
+      ]
+    }
+  ],
+  "🤦‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man facepalming",
+        "again | bewilder | disbelief | exasperation | facepalm | man | no | not | oh | omg | shock | smh"
+      ],
+      "ru": [
+        "мужчина потерял дар речи",
+        "мужчина | надоело | нет | омг | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "mężczyzna trzymający się za czoło",
+        "brak słów | facepalm | irytacja | mężczyzna | mężczyzna trzymający się za czoło | nie | niedowierzanie | osoba | szok | załamka"
+      ],
+      "fr": [
+        "homme avec la paume sur le visage",
+        "encore | exaspération | homme | homme avec la paume sur le visage | incrédulité | incroyable | main sur le visage | oh non | oubli | paume | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassender Mann",
+        "fassen | frustriert | genervt | Gesicht | Kopf | Mann | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "hombre con la mano en la frente",
+        "facepalm | frente | hombre con la mano en la frente | incredulidad | mano"
+      ],
+      "pt": [
+        "homem decepcionado",
+        "como assim | decepção | decepcionado | desapontamento | homem | inacreditável | meu deus | não acredito | não é possível"
+      ],
+      "it": [
+        "uomo esasperato",
+        "esasperato | esasperazione | facepalm | figuraccia | gesto | imbarazzo | incredulo | non ci credo | oddio | persona | uomo"
+      ],
+      "ro": [
+        "bărbat care își acoperă fața cu o palmă",
+        "bărbat | bărbat care își acoperă fața cu o palmă | dă din cap | exasperare | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană"
+      ],
+      "he": [
+        "גבר מתוסכל",
+        "אדם | אוי לא | אין מצב | איש | גבר | לא מאמין | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "رجل يشعر بإحباط",
+        "أشخاص | إحباط | السخط | رجل | رجل يشعر بإحباط | صدمة | عدم تصديق | لا | لا أصدق | ليس مجددًا | وضع اليد على الوجه | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan erkek",
+        "adam | aman tanrım | çileden çıkma | eliyle yüzünü kapatan erkek | erkek | inanamıyorum | inanmama | öfke | olamaz | sinir | utancından eliyle yüzünü kapatma | utanma"
+      ],
+      "vi": [
+        "người đàn ông lấy tay che mặt",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | nam | người đàn ông lấy tay che mặt | người lấy tay che mặt | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "man die het gezicht met de hand bedekt",
+        "ergernis | facepalm | gebaar | gezicht bedekken | man | man die het gezicht met de hand bedekt | omg | ongeloof | ongelooflijk | persoon | schaamte"
+      ]
+    }
+  ],
+  "🤦🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "person facepalming: light skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | light skin tone | no | not | oh | omg | person | shock | smh"
+      ],
+      "ru": [
+        "человек потерял дар речи: очень светлый тон кожи",
+        "надоело | нет | омг | очень светлый тон кожи | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "osoba trzymająca się za czoło: karnacja jasna",
+        "facepalm | fejspalm | karnacja jasna | niedowierzanie | osoba trzymająca się za czoło | osoba zakrywająca twarz dłonią | tylko nie to | załamanie | załamka"
+      ],
+      "fr": [
+        "personne avec la paume sur le visage : peau claire",
+        "drame | exaspération | femme avec paume sur visage | geste | incrédulité | incroyable | j’en peux plus | main | pas possible | paume de main | peau claire | personne | personne avec la paume sur le visage | visage"
+      ],
+      "de": [
+        "sich an den Kopf fassende Person: helle Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | helle Hautfarbe | Kopf | oh nein | OMG | Person | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "persona con la mano en la frente: tono de piel claro",
+        "facepalm | frente | incredulidad | mano | persona con la mano en la frente | tono de piel claro"
+      ],
+      "pt": [
+        "pessoa decepcionada: pele clara",
+        "como assim | decepção | decepcionada | decepcionado | desapontamento | descrença | inacreditável | meu deus | não acredito | não é possível | pele clara | pessoa | pessoa dececionada"
+      ],
+      "it": [
+        "persona esasperata: carnagione chiara",
+        "carnagione chiara | disperazione | esasperazione | facepalm | incredulità | mano in fronte | oddio | oh no | persona | persona esasperata"
+      ],
+      "ro": [
+        "persoană care își acoperă fața cu o palmă: ton deschis al pielii",
+        "dă din cap | exasperare | față | incredibil | nu din nou | omg | palmă | palmă peste față | persoană | persoană care își acoperă fața cu o palmă | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה עם יד על הפנים: גוון עור בהיר",
+        "אוי לא | אישה | גוון עור בהיר | הלם | זועמת | זעזוע | כועסת | לא יכול להיות | לא מאמינה"
+      ],
+      "ar": [
+        "شخص محبط: بشرة بلون فاتح",
+        "أشخاص | إحباط | بشرة بلون فاتح | راحة يد | سخط | شخص محبط | صدمة | لا | لا أعتقد ذلك | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "yüzünü eliyle kapama: açık cilt tonu",
+        "açık cilt tonu | aman tanrım | çileden çıkma | inanamıyorum | inanmama | inanmıyorum | kızgınlık | öfke | olamaz | şok | yüzünü eliyle kapama"
+      ],
+      "vi": [
+        "người lấy tay che mặt: màu da sáng",
+        "hoài nghi | không tin nổi | lại nữa rồi | lòng bàn tay | mặt | màu da sáng | người dùng tay che mặt | người lấy tay che mặt | tay che mặt | tức giận"
+      ],
+      "nl": [
+        "persoon die het gezicht met de hand bedekt: lichte huidskleur",
+        "ergernis | gebaar | gezicht | hand voor gezicht | lichte huidskleur | niet opnieuw | ongeloof | ongelooflijk | palm | persoon | persoon die het gezicht met de hand bedekt | schaamte | zucht"
+      ]
+    }
+  ],
+  "🤦🏻‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman facepalming: light skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | light skin tone | no | not | oh | omg | shock | smh | woman"
+      ],
+      "ru": [
+        "женщина потеряла дар речи: очень светлый тон кожи",
+        "женщина | надоело | нет | омг | очень светлый тон кожи | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "kobieta trzymająca się za czoło: karnacja jasna",
+        "brak słów | facepalm | fejspalm | irytacja | karnacja jasna | kobieta | kobieta trzymająca się za czoło | nie | niedowierzanie | omg | osoba | załamka | zrezygnowanie"
+      ],
+      "fr": [
+        "femme avec la paume sur le visage : peau claire",
+        "encore | exaspération | femme | femme avec la paume sur le visage | incrédulité | incroyable | j’y crois pas | main sur le visage | oh non | oubli | paume | peau claire | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassende Frau: helle Hautfarbe",
+        "fassen | Frau | frustriert | genervt | Gesicht | helle Hautfarbe | Kopf | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "mujer con la mano en la frente: tono de piel claro",
+        "facepalm | frente | incredulidad | mano | mujer con la mano en la frente | tono de piel claro"
+      ],
+      "pt": [
+        "mulher decepcionada: pele clara",
+        "como assim | decepção | decepcionada | desapontamento | inacreditável | meu deus | mulher | não acredito | não é possível | pele clara"
+      ],
+      "it": [
+        "donna esasperata: carnagione chiara",
+        "carnagione chiara | donna | esasperata | esasperazione | figuraccia | gesto | imbarazzo | incredula | mano sul viso | non ci credo | oddio | persona"
+      ],
+      "ro": [
+        "femeie care își acoperă fața cu o palmă: ton deschis al pielii",
+        "dă din cap | exasperare | femeie | femeie care își acoperă fața cu o palmă | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה מתוסכלת: גוון עור בהיר",
+        "אדם | אוי לא | אין מצב | אישה | בהלם | גוון עור בהיר | לא מאמינה | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "سيدة تشعر بإحباط: بشرة بلون فاتح",
+        "أشخاص | إحباط | السخط | امرأة | بشرة بلون فاتح | حيرة | سيدة تشعر بإحباط | صدمة | عدم تصديق | لا | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan kadın: açık cilt tonu",
+        "açık cilt tonu | aman tanrım | çileden çıkma | el | eliyle yüzünü kapatan kadın | inanamıyorum | inanmama | kadın | öfke | olamaz | sinir | utanç | utancından eliyle yüzünü kapatma"
+      ],
+      "vi": [
+        "người phụ nữ lấy tay che mặt: màu da sáng",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da sáng | người lấy tay che mặt | người phụ nữ lấy tay che mặt | nữ | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "vrouw die het gezicht met de hand bedekt: lichte huidskleur",
+        "ergernis | facepalm | gebaar | gezicht bedekken | lichte huidskleur | omg | ongeloof | ongelooflijk | persoon | schaamte | vrouw | vrouw die het gezicht met de hand bedekt"
+      ]
+    }
+  ],
+  "🤦🏻‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man facepalming: light skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | light skin tone | man | no | not | oh | omg | shock | smh"
+      ],
+      "ru": [
+        "мужчина потерял дар речи: очень светлый тон кожи",
+        "мужчина | надоело | нет | омг | очень светлый тон кожи | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "mężczyzna trzymający się za czoło: karnacja jasna",
+        "brak słów | facepalm | irytacja | karnacja jasna | mężczyzna | mężczyzna trzymający się za czoło | nie | niedowierzanie | osoba | szok | załamka"
+      ],
+      "fr": [
+        "homme avec la paume sur le visage : peau claire",
+        "encore | exaspération | homme | homme avec la paume sur le visage | incrédulité | incroyable | main sur le visage | oh non | oubli | paume | peau claire | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassender Mann: helle Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | helle Hautfarbe | Kopf | Mann | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "hombre con la mano en la frente: tono de piel claro",
+        "facepalm | frente | hombre con la mano en la frente | incredulidad | mano | tono de piel claro"
+      ],
+      "pt": [
+        "homem decepcionado: pele clara",
+        "como assim | decepção | decepcionado | desapontamento | homem | inacreditável | meu deus | não acredito | não é possível | pele clara"
+      ],
+      "it": [
+        "uomo esasperato: carnagione chiara",
+        "carnagione chiara | esasperato | esasperazione | facepalm | figuraccia | gesto | imbarazzo | incredulo | non ci credo | oddio | persona | uomo"
+      ],
+      "ro": [
+        "bărbat care își acoperă fața cu o palmă: ton deschis al pielii",
+        "bărbat | bărbat care își acoperă fața cu o palmă | dă din cap | exasperare | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton deschis al pielii"
+      ],
+      "he": [
+        "גבר מתוסכל: גוון עור בהיר",
+        "אדם | אוי לא | אין מצב | איש | גבר | גוון עור בהיר | לא מאמין | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "رجل يشعر بإحباط: بشرة بلون فاتح",
+        "أشخاص | إحباط | السخط | بشرة بلون فاتح | رجل | رجل يشعر بإحباط | صدمة | عدم تصديق | لا | لا أصدق | ليس مجددًا | وضع اليد على الوجه | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan erkek: açık cilt tonu",
+        "açık cilt tonu | adam | aman tanrım | çileden çıkma | eliyle yüzünü kapatan erkek | erkek | inanamıyorum | inanmama | öfke | olamaz | sinir | utancından eliyle yüzünü kapatma | utanma"
+      ],
+      "vi": [
+        "người đàn ông lấy tay che mặt: màu da sáng",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da sáng | nam | người đàn ông lấy tay che mặt | người lấy tay che mặt | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "man die het gezicht met de hand bedekt: lichte huidskleur",
+        "ergernis | facepalm | gebaar | gezicht bedekken | lichte huidskleur | man | man die het gezicht met de hand bedekt | omg | ongeloof | ongelooflijk | persoon | schaamte"
+      ]
+    }
+  ],
+  "🤦🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "person facepalming: medium-light skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | medium-light skin tone | no | not | oh | omg | person | shock | smh"
+      ],
+      "ru": [
+        "человек потерял дар речи: светлый тон кожи",
+        "надоело | нет | омг | позор | раздражение | светлый тон кожи | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "osoba trzymająca się za czoło: karnacja średnio jasna",
+        "facepalm | fejspalm | karnacja średnio jasna | niedowierzanie | osoba trzymająca się za czoło | osoba zakrywająca twarz dłonią | tylko nie to | załamanie | załamka"
+      ],
+      "fr": [
+        "personne avec la paume sur le visage : peau moyennement claire",
+        "drame | exaspération | femme avec paume sur visage | geste | incrédulité | incroyable | j’en peux plus | main | pas possible | paume de main | peau moyennement claire | personne | personne avec la paume sur le visage | visage"
+      ],
+      "de": [
+        "sich an den Kopf fassende Person: mittelhelle Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | Kopf | mittelhelle Hautfarbe | oh nein | OMG | Person | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "persona con la mano en la frente: tono de piel claro medio",
+        "facepalm | frente | incredulidad | mano | persona con la mano en la frente | tono de piel claro medio"
+      ],
+      "pt": [
+        "pessoa decepcionada: pele morena clara",
+        "como assim | decepção | decepcionada | decepcionado | desapontamento | descrença | inacreditável | meu deus | não acredito | não é possível | pele morena clara | pessoa | pessoa dececionada"
+      ],
+      "it": [
+        "persona esasperata: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | disperazione | esasperazione | facepalm | incredulità | mano in fronte | oddio | oh no | persona | persona esasperata"
+      ],
+      "ro": [
+        "persoană care își acoperă fața cu o palmă: ton semi‑deschis al pielii",
+        "dă din cap | exasperare | față | incredibil | nu din nou | omg | palmă | palmă peste față | persoană | persoană care își acoperă fața cu o palmă | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה עם יד על הפנים: גוון עור בהיר בינוני",
+        "אוי לא | אישה | גוון עור בהיר בינוני | הלם | זועמת | זעזוע | כועסת | לא יכול להיות | לא מאמינה"
+      ],
+      "ar": [
+        "شخص محبط: بشرة بلون فاتح ومعتدل",
+        "أشخاص | إحباط | بشرة بلون فاتح ومعتدل | راحة يد | سخط | شخص محبط | صدمة | لا | لا أعتقد ذلك | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "yüzünü eliyle kapama: orta açık cilt tonu",
+        "aman tanrım | çileden çıkma | inanamıyorum | inanmama | inanmıyorum | kızgınlık | öfke | olamaz | orta açık cilt tonu | şok | yüzünü eliyle kapama"
+      ],
+      "vi": [
+        "người lấy tay che mặt: màu da sáng trung bình",
+        "hoài nghi | không tin nổi | lại nữa rồi | lòng bàn tay | mặt | màu da sáng trung bình | người dùng tay che mặt | người lấy tay che mặt | tay che mặt | tức giận"
+      ],
+      "nl": [
+        "persoon die het gezicht met de hand bedekt: lichtgetinte huidskleur",
+        "ergernis | gebaar | gezicht | hand voor gezicht | lichtgetinte huidskleur | niet opnieuw | ongeloof | ongelooflijk | palm | persoon | persoon die het gezicht met de hand bedekt | schaamte | zucht"
+      ]
+    }
+  ],
+  "🤦🏼‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman facepalming: medium-light skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | medium-light skin tone | no | not | oh | omg | shock | smh | woman"
+      ],
+      "ru": [
+        "женщина потеряла дар речи: светлый тон кожи",
+        "женщина | надоело | нет | омг | позор | раздражение | светлый тон кожи | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "kobieta trzymająca się za czoło: karnacja średnio jasna",
+        "brak słów | facepalm | fejspalm | irytacja | karnacja średnio jasna | kobieta | kobieta trzymająca się za czoło | nie | niedowierzanie | omg | osoba | załamka | zrezygnowanie"
+      ],
+      "fr": [
+        "femme avec la paume sur le visage : peau moyennement claire",
+        "encore | exaspération | femme | femme avec la paume sur le visage | incrédulité | incroyable | j’y crois pas | main sur le visage | oh non | oubli | paume | peau moyennement claire | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassende Frau: mittelhelle Hautfarbe",
+        "fassen | Frau | frustriert | genervt | Gesicht | Kopf | mittelhelle Hautfarbe | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "mujer con la mano en la frente: tono de piel claro medio",
+        "facepalm | frente | incredulidad | mano | mujer con la mano en la frente | tono de piel claro medio"
+      ],
+      "pt": [
+        "mulher decepcionada: pele morena clara",
+        "como assim | decepção | decepcionada | desapontamento | inacreditável | meu deus | mulher | não acredito | não é possível | pele morena clara"
+      ],
+      "it": [
+        "donna esasperata: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | donna | esasperata | esasperazione | figuraccia | gesto | imbarazzo | incredula | mano sul viso | non ci credo | oddio | persona"
+      ],
+      "ro": [
+        "femeie care își acoperă fața cu o palmă: ton semi‑deschis al pielii",
+        "dă din cap | exasperare | femeie | femeie care își acoperă fața cu o palmă | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה מתוסכלת: גוון עור בהיר בינוני",
+        "אדם | אוי לא | אין מצב | אישה | בהלם | גוון עור בהיר בינוני | לא מאמינה | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "سيدة تشعر بإحباط: بشرة بلون فاتح ومعتدل",
+        "أشخاص | إحباط | السخط | امرأة | بشرة بلون فاتح ومعتدل | حيرة | سيدة تشعر بإحباط | صدمة | عدم تصديق | لا | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan kadın: orta açık cilt tonu",
+        "aman tanrım | çileden çıkma | el | eliyle yüzünü kapatan kadın | inanamıyorum | inanmama | kadın | öfke | olamaz | orta açık cilt tonu | sinir | utanç | utancından eliyle yüzünü kapatma"
+      ],
+      "vi": [
+        "người phụ nữ lấy tay che mặt: màu da sáng trung bình",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da sáng trung bình | người lấy tay che mặt | người phụ nữ lấy tay che mặt | nữ | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "vrouw die het gezicht met de hand bedekt: lichtgetinte huidskleur",
+        "ergernis | facepalm | gebaar | gezicht bedekken | lichtgetinte huidskleur | omg | ongeloof | ongelooflijk | persoon | schaamte | vrouw | vrouw die het gezicht met de hand bedekt"
+      ]
+    }
+  ],
+  "🤦🏼‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man facepalming: medium-light skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | man | medium-light skin tone | no | not | oh | omg | shock | smh"
+      ],
+      "ru": [
+        "мужчина потерял дар речи: светлый тон кожи",
+        "мужчина | надоело | нет | омг | позор | раздражение | светлый тон кожи | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "mężczyzna trzymający się za czoło: karnacja średnio jasna",
+        "brak słów | facepalm | irytacja | karnacja średnio jasna | mężczyzna | mężczyzna trzymający się za czoło | nie | niedowierzanie | osoba | szok | załamka"
+      ],
+      "fr": [
+        "homme avec la paume sur le visage : peau moyennement claire",
+        "encore | exaspération | homme | homme avec la paume sur le visage | incrédulité | incroyable | main sur le visage | oh non | oubli | paume | peau moyennement claire | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassender Mann: mittelhelle Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | Kopf | Mann | mittelhelle Hautfarbe | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "hombre con la mano en la frente: tono de piel claro medio",
+        "facepalm | frente | hombre con la mano en la frente | incredulidad | mano | tono de piel claro medio"
+      ],
+      "pt": [
+        "homem decepcionado: pele morena clara",
+        "como assim | decepção | decepcionado | desapontamento | homem | inacreditável | meu deus | não acredito | não é possível | pele morena clara"
+      ],
+      "it": [
+        "uomo esasperato: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | esasperato | esasperazione | facepalm | figuraccia | gesto | imbarazzo | incredulo | non ci credo | oddio | persona | uomo"
+      ],
+      "ro": [
+        "bărbat care își acoperă fața cu o palmă: ton semi‑deschis al pielii",
+        "bărbat | bărbat care își acoperă fața cu o palmă | dă din cap | exasperare | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "גבר מתוסכל: גוון עור בהיר בינוני",
+        "אדם | אוי לא | אין מצב | איש | גבר | גוון עור בהיר בינוני | לא מאמין | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "رجل يشعر بإحباط: بشرة بلون فاتح ومعتدل",
+        "أشخاص | إحباط | السخط | بشرة بلون فاتح ومعتدل | رجل | رجل يشعر بإحباط | صدمة | عدم تصديق | لا | لا أصدق | ليس مجددًا | وضع اليد على الوجه | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan erkek: orta açık cilt tonu",
+        "adam | aman tanrım | çileden çıkma | eliyle yüzünü kapatan erkek | erkek | inanamıyorum | inanmama | öfke | olamaz | orta açık cilt tonu | sinir | utancından eliyle yüzünü kapatma | utanma"
+      ],
+      "vi": [
+        "người đàn ông lấy tay che mặt: màu da sáng trung bình",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da sáng trung bình | nam | người đàn ông lấy tay che mặt | người lấy tay che mặt | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "man die het gezicht met de hand bedekt: lichtgetinte huidskleur",
+        "ergernis | facepalm | gebaar | gezicht bedekken | lichtgetinte huidskleur | man | man die het gezicht met de hand bedekt | omg | ongeloof | ongelooflijk | persoon | schaamte"
+      ]
+    }
+  ],
+  "🤦🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "person facepalming: medium skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | medium skin tone | no | not | oh | omg | person | shock | smh"
+      ],
+      "ru": [
+        "человек потерял дар речи: средний тон кожи",
+        "надоело | нет | омг | позор | раздражение | слов | средний тон кожи | фейспалм | хватит"
+      ],
+      "pl": [
+        "osoba trzymająca się za czoło: karnacja średnia",
+        "facepalm | fejspalm | karnacja średnia | niedowierzanie | osoba trzymająca się za czoło | osoba zakrywająca twarz dłonią | tylko nie to | załamanie | załamka"
+      ],
+      "fr": [
+        "personne avec la paume sur le visage : peau légèrement mate",
+        "drame | exaspération | femme avec paume sur visage | geste | incrédulité | incroyable | j’en peux plus | main | pas possible | paume de main | peau légèrement mate | personne | personne avec la paume sur le visage | visage"
+      ],
+      "de": [
+        "sich an den Kopf fassende Person: mittlere Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | Kopf | mittlere Hautfarbe | oh nein | OMG | Person | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "persona con la mano en la frente: tono de piel medio",
+        "facepalm | frente | incredulidad | mano | persona con la mano en la frente | tono de piel medio"
+      ],
+      "pt": [
+        "pessoa decepcionada: pele morena",
+        "como assim | decepção | decepcionada | decepcionado | desapontamento | descrença | inacreditável | meu deus | não acredito | não é possível | pele morena | pessoa | pessoa dececionada"
+      ],
+      "it": [
+        "persona esasperata: carnagione olivastra",
+        "carnagione olivastra | disperazione | esasperazione | facepalm | incredulità | mano in fronte | oddio | oh no | persona | persona esasperata"
+      ],
+      "ro": [
+        "persoană care își acoperă fața cu o palmă: ton mediu al pielii",
+        "dă din cap | exasperare | față | incredibil | nu din nou | omg | palmă | palmă peste față | persoană | persoană care își acoperă fața cu o palmă | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה עם יד על הפנים: גוון עור בינוני",
+        "אוי לא | אישה | גוון עור בינוני | הלם | זועמת | זעזוע | כועסת | לא יכול להיות | לא מאמינה"
+      ],
+      "ar": [
+        "شخص محبط: بشرة بلون معتدل",
+        "أشخاص | إحباط | بشرة بلون معتدل | راحة يد | سخط | شخص محبط | صدمة | لا | لا أعتقد ذلك | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "yüzünü eliyle kapama: orta cilt tonu",
+        "aman tanrım | çileden çıkma | inanamıyorum | inanmama | inanmıyorum | kızgınlık | öfke | olamaz | orta cilt tonu | şok | yüzünü eliyle kapama"
+      ],
+      "vi": [
+        "người lấy tay che mặt: màu da trung bình",
+        "hoài nghi | không tin nổi | lại nữa rồi | lòng bàn tay | mặt | màu da trung bình | người dùng tay che mặt | người lấy tay che mặt | tay che mặt | tức giận"
+      ],
+      "nl": [
+        "persoon die het gezicht met de hand bedekt: getinte huidskleur",
+        "ergernis | gebaar | getinte huidskleur | gezicht | hand voor gezicht | niet opnieuw | ongeloof | ongelooflijk | palm | persoon | persoon die het gezicht met de hand bedekt | schaamte | zucht"
+      ]
+    }
+  ],
+  "🤦🏽‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman facepalming: medium skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | medium skin tone | no | not | oh | omg | shock | smh | woman"
+      ],
+      "ru": [
+        "женщина потеряла дар речи: средний тон кожи",
+        "женщина | надоело | нет | омг | позор | раздражение | слов | средний тон кожи | фейспалм | хватит"
+      ],
+      "pl": [
+        "kobieta trzymająca się za czoło: karnacja średnia",
+        "brak słów | facepalm | fejspalm | irytacja | karnacja średnia | kobieta | kobieta trzymająca się za czoło | nie | niedowierzanie | omg | osoba | załamka | zrezygnowanie"
+      ],
+      "fr": [
+        "femme avec la paume sur le visage : peau légèrement mate",
+        "encore | exaspération | femme | femme avec la paume sur le visage | incrédulité | incroyable | j’y crois pas | main sur le visage | oh non | oubli | paume | peau légèrement mate | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassende Frau: mittlere Hautfarbe",
+        "fassen | Frau | frustriert | genervt | Gesicht | Kopf | mittlere Hautfarbe | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "mujer con la mano en la frente: tono de piel medio",
+        "facepalm | frente | incredulidad | mano | mujer con la mano en la frente | tono de piel medio"
+      ],
+      "pt": [
+        "mulher decepcionada: pele morena",
+        "como assim | decepção | decepcionada | desapontamento | inacreditável | meu deus | mulher | não acredito | não é possível | pele morena"
+      ],
+      "it": [
+        "donna esasperata: carnagione olivastra",
+        "carnagione olivastra | donna | esasperata | esasperazione | figuraccia | gesto | imbarazzo | incredula | mano sul viso | non ci credo | oddio | persona"
+      ],
+      "ro": [
+        "femeie care își acoperă fața cu o palmă: ton mediu al pielii",
+        "dă din cap | exasperare | femeie | femeie care își acoperă fața cu o palmă | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה מתוסכלת: גוון עור בינוני",
+        "אדם | אוי לא | אין מצב | אישה | בהלם | גוון עור בינוני | לא מאמינה | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "سيدة تشعر بإحباط: بشرة بلون معتدل",
+        "أشخاص | إحباط | السخط | امرأة | بشرة بلون معتدل | حيرة | سيدة تشعر بإحباط | صدمة | عدم تصديق | لا | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan kadın: orta cilt tonu",
+        "aman tanrım | çileden çıkma | el | eliyle yüzünü kapatan kadın | inanamıyorum | inanmama | kadın | öfke | olamaz | orta cilt tonu | sinir | utanç | utancından eliyle yüzünü kapatma"
+      ],
+      "vi": [
+        "người phụ nữ lấy tay che mặt: màu da trung bình",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da trung bình | người lấy tay che mặt | người phụ nữ lấy tay che mặt | nữ | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "vrouw die het gezicht met de hand bedekt: getinte huidskleur",
+        "ergernis | facepalm | gebaar | getinte huidskleur | gezicht bedekken | omg | ongeloof | ongelooflijk | persoon | schaamte | vrouw | vrouw die het gezicht met de hand bedekt"
+      ]
+    }
+  ],
+  "🤦🏽‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man facepalming: medium skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | man | medium skin tone | no | not | oh | omg | shock | smh"
+      ],
+      "ru": [
+        "мужчина потерял дар речи: средний тон кожи",
+        "мужчина | надоело | нет | омг | позор | раздражение | слов | средний тон кожи | фейспалм | хватит"
+      ],
+      "pl": [
+        "mężczyzna trzymający się za czoło: karnacja średnia",
+        "brak słów | facepalm | irytacja | karnacja średnia | mężczyzna | mężczyzna trzymający się za czoło | nie | niedowierzanie | osoba | szok | załamka"
+      ],
+      "fr": [
+        "homme avec la paume sur le visage : peau légèrement mate",
+        "encore | exaspération | homme | homme avec la paume sur le visage | incrédulité | incroyable | main sur le visage | oh non | oubli | paume | peau légèrement mate | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassender Mann: mittlere Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | Kopf | Mann | mittlere Hautfarbe | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "hombre con la mano en la frente: tono de piel medio",
+        "facepalm | frente | hombre con la mano en la frente | incredulidad | mano | tono de piel medio"
+      ],
+      "pt": [
+        "homem decepcionado: pele morena",
+        "como assim | decepção | decepcionado | desapontamento | homem | inacreditável | meu deus | não acredito | não é possível | pele morena"
+      ],
+      "it": [
+        "uomo esasperato: carnagione olivastra",
+        "carnagione olivastra | esasperato | esasperazione | facepalm | figuraccia | gesto | imbarazzo | incredulo | non ci credo | oddio | persona | uomo"
+      ],
+      "ro": [
+        "bărbat care își acoperă fața cu o palmă: ton mediu al pielii",
+        "bărbat | bărbat care își acoperă fața cu o palmă | dă din cap | exasperare | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton mediu al pielii"
+      ],
+      "he": [
+        "גבר מתוסכל: גוון עור בינוני",
+        "אדם | אוי לא | אין מצב | איש | גבר | גוון עור בינוני | לא מאמין | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "رجل يشعر بإحباط: بشرة بلون معتدل",
+        "أشخاص | إحباط | السخط | بشرة بلون معتدل | رجل | رجل يشعر بإحباط | صدمة | عدم تصديق | لا | لا أصدق | ليس مجددًا | وضع اليد على الوجه | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan erkek: orta cilt tonu",
+        "adam | aman tanrım | çileden çıkma | eliyle yüzünü kapatan erkek | erkek | inanamıyorum | inanmama | öfke | olamaz | orta cilt tonu | sinir | utancından eliyle yüzünü kapatma | utanma"
+      ],
+      "vi": [
+        "người đàn ông lấy tay che mặt: màu da trung bình",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da trung bình | nam | người đàn ông lấy tay che mặt | người lấy tay che mặt | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "man die het gezicht met de hand bedekt: getinte huidskleur",
+        "ergernis | facepalm | gebaar | getinte huidskleur | gezicht bedekken | man | man die het gezicht met de hand bedekt | omg | ongeloof | ongelooflijk | persoon | schaamte"
+      ]
+    }
+  ],
+  "🤦🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "person facepalming: medium-dark skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | medium-dark skin tone | no | not | oh | omg | person | shock | smh"
+      ],
+      "ru": [
+        "человек потерял дар речи: темный тон кожи",
+        "надоело | нет | омг | позор | раздражение | слов | темный тон кожи | фейспалм | хватит"
+      ],
+      "pl": [
+        "osoba trzymająca się za czoło: karnacja średnio ciemna",
+        "facepalm | fejspalm | karnacja średnio ciemna | niedowierzanie | osoba trzymająca się za czoło | osoba zakrywająca twarz dłonią | tylko nie to | załamanie | załamka"
+      ],
+      "fr": [
+        "personne avec la paume sur le visage : peau mate",
+        "drame | exaspération | femme avec paume sur visage | geste | incrédulité | incroyable | j’en peux plus | main | pas possible | paume de main | peau mate | personne | personne avec la paume sur le visage | visage"
+      ],
+      "de": [
+        "sich an den Kopf fassende Person: mitteldunkle Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | Kopf | mitteldunkle Hautfarbe | oh nein | OMG | Person | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "persona con la mano en la frente: tono de piel oscuro medio",
+        "facepalm | frente | incredulidad | mano | persona con la mano en la frente | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "pessoa decepcionada: pele morena escura",
+        "como assim | decepção | decepcionada | decepcionado | desapontamento | descrença | inacreditável | meu deus | não acredito | não é possível | pele morena escura | pessoa | pessoa dececionada"
+      ],
+      "it": [
+        "persona esasperata: carnagione abbastanza scura",
+        "carnagione abbastanza scura | disperazione | esasperazione | facepalm | incredulità | mano in fronte | oddio | oh no | persona | persona esasperata"
+      ],
+      "ro": [
+        "persoană care își acoperă fața cu o palmă: ton semi‑închis al pielii",
+        "dă din cap | exasperare | față | incredibil | nu din nou | omg | palmă | palmă peste față | persoană | persoană care își acoperă fața cu o palmă | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אישה עם יד על הפנים: גוון עור כהה בינוני",
+        "אוי לא | אישה | גוון עור כהה בינוני | הלם | זועמת | זעזוע | כועסת | לא יכול להיות | לא מאמינה"
+      ],
+      "ar": [
+        "شخص محبط: بشرة بلون معتدل مائل للغامق",
+        "أشخاص | إحباط | بشرة بلون معتدل مائل للغامق | راحة يد | سخط | شخص محبط | صدمة | لا | لا أعتقد ذلك | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "yüzünü eliyle kapama: orta koyu cilt tonu",
+        "aman tanrım | çileden çıkma | inanamıyorum | inanmama | inanmıyorum | kızgınlık | öfke | olamaz | orta koyu cilt tonu | şok | yüzünü eliyle kapama"
+      ],
+      "vi": [
+        "người lấy tay che mặt: màu da tối trung bình",
+        "hoài nghi | không tin nổi | lại nữa rồi | lòng bàn tay | mặt | màu da tối trung bình | người dùng tay che mặt | người lấy tay che mặt | tay che mặt | tức giận"
+      ],
+      "nl": [
+        "persoon die het gezicht met de hand bedekt: donkergetinte huidskleur",
+        "donkergetinte huidskleur | ergernis | gebaar | gezicht | hand voor gezicht | niet opnieuw | ongeloof | ongelooflijk | palm | persoon | persoon die het gezicht met de hand bedekt | schaamte | zucht"
+      ]
+    }
+  ],
+  "🤦🏾‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman facepalming: medium-dark skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | medium-dark skin tone | no | not | oh | omg | shock | smh | woman"
+      ],
+      "ru": [
+        "женщина потеряла дар речи: темный тон кожи",
+        "женщина | надоело | нет | омг | позор | раздражение | слов | темный тон кожи | фейспалм | хватит"
+      ],
+      "pl": [
+        "kobieta trzymająca się za czoło: karnacja średnio ciemna",
+        "brak słów | facepalm | fejspalm | irytacja | karnacja średnio ciemna | kobieta | kobieta trzymająca się za czoło | nie | niedowierzanie | omg | osoba | załamka | zrezygnowanie"
+      ],
+      "fr": [
+        "femme avec la paume sur le visage : peau mate",
+        "encore | exaspération | femme | femme avec la paume sur le visage | incrédulité | incroyable | j’y crois pas | main sur le visage | oh non | oubli | paume | peau mate | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassende Frau: mitteldunkle Hautfarbe",
+        "fassen | Frau | frustriert | genervt | Gesicht | Kopf | mitteldunkle Hautfarbe | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "mujer con la mano en la frente: tono de piel oscuro medio",
+        "facepalm | frente | incredulidad | mano | mujer con la mano en la frente | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "mulher decepcionada: pele morena escura",
+        "como assim | decepção | decepcionada | desapontamento | inacreditável | meu deus | mulher | não acredito | não é possível | pele morena escura"
+      ],
+      "it": [
+        "donna esasperata: carnagione abbastanza scura",
+        "carnagione abbastanza scura | donna | esasperata | esasperazione | figuraccia | gesto | imbarazzo | incredula | mano sul viso | non ci credo | oddio | persona"
+      ],
+      "ro": [
+        "femeie care își acoperă fața cu o palmă: ton semi‑închis al pielii",
+        "dă din cap | exasperare | femeie | femeie care își acoperă fața cu o palmă | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אישה מתוסכלת: גוון עור כהה בינוני",
+        "אדם | אוי לא | אין מצב | אישה | בהלם | גוון עור כהה בינוני | לא מאמינה | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "سيدة تشعر بإحباط: بشرة بلون معتدل مائل للغامق",
+        "أشخاص | إحباط | السخط | امرأة | بشرة بلون معتدل مائل للغامق | حيرة | سيدة تشعر بإحباط | صدمة | عدم تصديق | لا | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan kadın: orta koyu cilt tonu",
+        "aman tanrım | çileden çıkma | el | eliyle yüzünü kapatan kadın | inanamıyorum | inanmama | kadın | öfke | olamaz | orta koyu cilt tonu | sinir | utanç | utancından eliyle yüzünü kapatma"
+      ],
+      "vi": [
+        "người phụ nữ lấy tay che mặt: màu da tối trung bình",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da tối trung bình | người lấy tay che mặt | người phụ nữ lấy tay che mặt | nữ | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "vrouw die het gezicht met de hand bedekt: donkergetinte huidskleur",
+        "donkergetinte huidskleur | ergernis | facepalm | gebaar | gezicht bedekken | omg | ongeloof | ongelooflijk | persoon | schaamte | vrouw | vrouw die het gezicht met de hand bedekt"
+      ]
+    }
+  ],
+  "🤦🏾‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man facepalming: medium-dark skin tone",
+        "again | bewilder | disbelief | exasperation | facepalm | man | medium-dark skin tone | no | not | oh | omg | shock | smh"
+      ],
+      "ru": [
+        "мужчина потерял дар речи: темный тон кожи",
+        "мужчина | надоело | нет | омг | позор | раздражение | слов | темный тон кожи | фейспалм | хватит"
+      ],
+      "pl": [
+        "mężczyzna trzymający się za czoło: karnacja średnio ciemna",
+        "brak słów | facepalm | irytacja | karnacja średnio ciemna | mężczyzna | mężczyzna trzymający się za czoło | nie | niedowierzanie | osoba | szok | załamka"
+      ],
+      "fr": [
+        "homme avec la paume sur le visage : peau mate",
+        "encore | exaspération | homme | homme avec la paume sur le visage | incrédulité | incroyable | main sur le visage | oh non | oubli | paume | peau mate | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassender Mann: mitteldunkle Hautfarbe",
+        "fassen | frustriert | genervt | Gesicht | Kopf | Mann | mitteldunkle Hautfarbe | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "hombre con la mano en la frente: tono de piel oscuro medio",
+        "facepalm | frente | hombre con la mano en la frente | incredulidad | mano | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "homem decepcionado: pele morena escura",
+        "como assim | decepção | decepcionado | desapontamento | homem | inacreditável | meu deus | não acredito | não é possível | pele morena escura"
+      ],
+      "it": [
+        "uomo esasperato: carnagione abbastanza scura",
+        "carnagione abbastanza scura | esasperato | esasperazione | facepalm | figuraccia | gesto | imbarazzo | incredulo | non ci credo | oddio | persona | uomo"
+      ],
+      "ro": [
+        "bărbat care își acoperă fața cu o palmă: ton semi‑închis al pielii",
+        "bărbat | bărbat care își acoperă fața cu o palmă | dă din cap | exasperare | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "גבר מתוסכל: גוון עור כהה בינוני",
+        "אדם | אוי לא | אין מצב | איש | גבר | גוון עור כהה בינוני | לא מאמין | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "رجل يشعر بإحباط: بشرة بلون معتدل مائل للغامق",
+        "أشخاص | إحباط | السخط | بشرة بلون معتدل مائل للغامق | رجل | رجل يشعر بإحباط | صدمة | عدم تصديق | لا | لا أصدق | ليس مجددًا | وضع اليد على الوجه | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan erkek: orta koyu cilt tonu",
+        "adam | aman tanrım | çileden çıkma | eliyle yüzünü kapatan erkek | erkek | inanamıyorum | inanmama | öfke | olamaz | orta koyu cilt tonu | sinir | utancından eliyle yüzünü kapatma | utanma"
+      ],
+      "vi": [
+        "người đàn ông lấy tay che mặt: màu da tối trung bình",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da tối trung bình | nam | người đàn ông lấy tay che mặt | người lấy tay che mặt | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "man die het gezicht met de hand bedekt: donkergetinte huidskleur",
+        "donkergetinte huidskleur | ergernis | facepalm | gebaar | gezicht bedekken | man | man die het gezicht met de hand bedekt | omg | ongeloof | ongelooflijk | persoon | schaamte"
+      ]
+    }
+  ],
+  "🤦🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "person facepalming: dark skin tone",
+        "again | bewilder | dark skin tone | disbelief | exasperation | facepalm | no | not | oh | omg | person | shock | smh"
+      ],
+      "ru": [
+        "человек потерял дар речи: очень темный тон кожи",
+        "надоело | нет | омг | очень темный тон кожи | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "osoba trzymająca się za czoło: karnacja ciemna",
+        "facepalm | fejspalm | karnacja ciemna | niedowierzanie | osoba trzymająca się za czoło | osoba zakrywająca twarz dłonią | tylko nie to | załamanie | załamka"
+      ],
+      "fr": [
+        "personne avec la paume sur le visage : peau foncée",
+        "drame | exaspération | femme avec paume sur visage | geste | incrédulité | incroyable | j’en peux plus | main | pas possible | paume de main | peau foncée | personne | personne avec la paume sur le visage | visage"
+      ],
+      "de": [
+        "sich an den Kopf fassende Person: dunkle Hautfarbe",
+        "dunkle Hautfarbe | fassen | frustriert | genervt | Gesicht | Kopf | oh nein | OMG | Person | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "persona con la mano en la frente: tono de piel oscuro",
+        "facepalm | frente | incredulidad | mano | persona con la mano en la frente | tono de piel oscuro"
+      ],
+      "pt": [
+        "pessoa decepcionada: pele escura",
+        "como assim | decepção | decepcionada | decepcionado | desapontamento | descrença | inacreditável | meu deus | não acredito | não é possível | pele escura | pessoa | pessoa dececionada"
+      ],
+      "it": [
+        "persona esasperata: carnagione scura",
+        "carnagione scura | disperazione | esasperazione | facepalm | incredulità | mano in fronte | oddio | oh no | persona | persona esasperata"
+      ],
+      "ro": [
+        "persoană care își acoperă fața cu o palmă: ton închis al pielii",
+        "dă din cap | exasperare | față | incredibil | nu din nou | omg | palmă | palmă peste față | persoană | persoană care își acoperă fața cu o palmă | ton închis al pielii"
+      ],
+      "he": [
+        "אישה עם יד על הפנים: גוון עור כהה",
+        "אוי לא | אישה | גוון עור כהה | הלם | זועמת | זעזוע | כועסת | לא יכול להיות | לא מאמינה"
+      ],
+      "ar": [
+        "شخص محبط: بشرة بلون غامق",
+        "أشخاص | إحباط | بشرة بلون غامق | راحة يد | سخط | شخص محبط | صدمة | لا | لا أعتقد ذلك | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "yüzünü eliyle kapama: koyu cilt tonu",
+        "aman tanrım | çileden çıkma | inanamıyorum | inanmama | inanmıyorum | kızgınlık | koyu cilt tonu | öfke | olamaz | şok | yüzünü eliyle kapama"
+      ],
+      "vi": [
+        "người lấy tay che mặt: màu da tối",
+        "hoài nghi | không tin nổi | lại nữa rồi | lòng bàn tay | mặt | màu da tối | người dùng tay che mặt | người lấy tay che mặt | tay che mặt | tức giận"
+      ],
+      "nl": [
+        "persoon die het gezicht met de hand bedekt: donkere huidskleur",
+        "donkere huidskleur | ergernis | gebaar | gezicht | hand voor gezicht | niet opnieuw | ongeloof | ongelooflijk | palm | persoon | persoon die het gezicht met de hand bedekt | schaamte | zucht"
+      ]
+    }
+  ],
+  "🤦🏿‍♀": [
+    "other",
+    "",
+    {
+      "en": [
+        "woman facepalming: dark skin tone",
+        "again | bewilder | dark skin tone | disbelief | exasperation | facepalm | no | not | oh | omg | shock | smh | woman"
+      ],
+      "ru": [
+        "женщина потеряла дар речи: очень темный тон кожи",
+        "женщина | надоело | нет | омг | очень темный тон кожи | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "kobieta trzymająca się za czoło: karnacja ciemna",
+        "brak słów | facepalm | fejspalm | irytacja | karnacja ciemna | kobieta | kobieta trzymająca się za czoło | nie | niedowierzanie | omg | osoba | załamka | zrezygnowanie"
+      ],
+      "fr": [
+        "femme avec la paume sur le visage : peau foncée",
+        "encore | exaspération | femme | femme avec la paume sur le visage | incrédulité | incroyable | j’y crois pas | main sur le visage | oh non | oubli | paume | peau foncée | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassende Frau: dunkle Hautfarbe",
+        "dunkle Hautfarbe | fassen | Frau | frustriert | genervt | Gesicht | Kopf | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "mujer con la mano en la frente: tono de piel oscuro",
+        "facepalm | frente | incredulidad | mano | mujer con la mano en la frente | tono de piel oscuro"
+      ],
+      "pt": [
+        "mulher decepcionada: pele escura",
+        "como assim | decepção | decepcionada | desapontamento | inacreditável | meu deus | mulher | não acredito | não é possível | pele escura"
+      ],
+      "it": [
+        "donna esasperata: carnagione scura",
+        "carnagione scura | donna | esasperata | esasperazione | figuraccia | gesto | imbarazzo | incredula | mano sul viso | non ci credo | oddio | persona"
+      ],
+      "ro": [
+        "femeie care își acoperă fața cu o palmă: ton închis al pielii",
+        "dă din cap | exasperare | femeie | femeie care își acoperă fața cu o palmă | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton închis al pielii"
+      ],
+      "he": [
+        "אישה מתוסכלת: גוון עור כהה",
+        "אדם | אוי לא | אין מצב | אישה | בהלם | גוון עור כהה | לא מאמינה | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "سيدة تشعر بإحباط: بشرة بلون غامق",
+        "أشخاص | إحباط | السخط | امرأة | بشرة بلون غامق | حيرة | سيدة تشعر بإحباط | صدمة | عدم تصديق | لا | ليس مجددًا | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan kadın: koyu cilt tonu",
+        "aman tanrım | çileden çıkma | el | eliyle yüzünü kapatan kadın | inanamıyorum | inanmama | kadın | koyu cilt tonu | öfke | olamaz | sinir | utanç | utancından eliyle yüzünü kapatma"
+      ],
+      "vi": [
+        "người phụ nữ lấy tay che mặt: màu da tối",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da tối | người lấy tay che mặt | người phụ nữ lấy tay che mặt | nữ | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "vrouw die het gezicht met de hand bedekt: donkere huidskleur",
+        "donkere huidskleur | ergernis | facepalm | gebaar | gezicht bedekken | omg | ongeloof | ongelooflijk | persoon | schaamte | vrouw | vrouw die het gezicht met de hand bedekt"
+      ]
+    }
+  ],
+  "🤦🏿‍♂": [
+    "other",
+    "",
+    {
+      "en": [
+        "man facepalming: dark skin tone",
+        "again | bewilder | dark skin tone | disbelief | exasperation | facepalm | man | no | not | oh | omg | shock | smh"
+      ],
+      "ru": [
+        "мужчина потерял дар речи: очень темный тон кожи",
+        "мужчина | надоело | нет | омг | очень темный тон кожи | позор | раздражение | слов | фейспалм | хватит"
+      ],
+      "pl": [
+        "mężczyzna trzymający się za czoło: karnacja ciemna",
+        "brak słów | facepalm | irytacja | karnacja ciemna | mężczyzna | mężczyzna trzymający się za czoło | nie | niedowierzanie | osoba | szok | załamka"
+      ],
+      "fr": [
+        "homme avec la paume sur le visage : peau foncée",
+        "encore | exaspération | homme | homme avec la paume sur le visage | incrédulité | incroyable | main sur le visage | oh non | oubli | paume | peau foncée | personne"
+      ],
+      "de": [
+        "sich an den Kopf fassender Mann: dunkle Hautfarbe",
+        "dunkle Hautfarbe | fassen | frustriert | genervt | Gesicht | Kopf | Mann | oh nein | OMG | unfassbar | unglaublich | verzweifelt"
+      ],
+      "es": [
+        "hombre con la mano en la frente: tono de piel oscuro",
+        "facepalm | frente | hombre con la mano en la frente | incredulidad | mano | tono de piel oscuro"
+      ],
+      "pt": [
+        "homem decepcionado: pele escura",
+        "como assim | decepção | decepcionado | desapontamento | homem | inacreditável | meu deus | não acredito | não é possível | pele escura"
+      ],
+      "it": [
+        "uomo esasperato: carnagione scura",
+        "carnagione scura | esasperato | esasperazione | facepalm | figuraccia | gesto | imbarazzo | incredulo | non ci credo | oddio | persona | uomo"
+      ],
+      "ro": [
+        "bărbat care își acoperă fața cu o palmă: ton închis al pielii",
+        "bărbat | bărbat care își acoperă fața cu o palmă | dă din cap | exasperare | incredibil | nu din nou | nu se poate | omg | palmă peste față | persoană | ton închis al pielii"
+      ],
+      "he": [
+        "גבר מתוסכל: גוון עור כהה",
+        "אדם | אוי לא | אין מצב | איש | גבר | גוון עור כהה | לא מאמין | לא עוד פעם | נו באמת | תסכול"
+      ],
+      "ar": [
+        "رجل يشعر بإحباط: بشرة بلون غامق",
+        "أشخاص | إحباط | السخط | بشرة بلون غامق | رجل | رجل يشعر بإحباط | صدمة | عدم تصديق | لا | لا أصدق | ليس مجددًا | وضع اليد على الوجه | يا إلهي"
+      ],
+      "tr": [
+        "eliyle yüzünü kapatan erkek: koyu cilt tonu",
+        "adam | aman tanrım | çileden çıkma | eliyle yüzünü kapatan erkek | erkek | inanamıyorum | inanmama | koyu cilt tonu | öfke | olamaz | sinir | utancından eliyle yüzünü kapatma | utanma"
+      ],
+      "vi": [
+        "người đàn ông lấy tay che mặt: màu da tối",
+        "hoài nghi | không tin nổi | lắc đầu | lại nữa rồi | màu da tối | nam | người đàn ông lấy tay che mặt | người lấy tay che mặt | tay che mặt | thở dài thườn thượt | tức giận"
+      ],
+      "nl": [
+        "man die het gezicht met de hand bedekt: donkere huidskleur",
+        "donkere huidskleur | ergernis | facepalm | gebaar | gezicht bedekken | man | man die het gezicht met de hand bedekt | omg | ongeloof | ongelooflijk | persoon | schaamte"
+      ]
+    }
+  ],
+  "🤧": [
+    "other",
+    "sneezing face",
+    {
+      "en": [
+        "sneezing face",
+        "face | fever | flu | gesundheit | sick | sneeze | sneezing"
+      ],
+      "ru": ["чихает", "апчхи | лицо | насморк | пчхи | чихает"],
+      "pl": [
+        "kichająca twarz",
+        "buźka | choroba | chory | katar | kichać | kichająca twarz | kicham | na zdrowie | smarkanie"
+      ],
+      "fr": [
+        "visage qui éternue",
+        "à tes souhaits | atchoum | émoticône | éternuement | éternuer | fièvre | grippe | malade | mouchoir | rhume | se moucher | visage qui éternue"
+      ],
+      "de": [
+        "niesendes Gesicht",
+        "erkältet | Erkältung | Gesicht | Gesundheit | Grippe | hatschi | krank | Nase | niesen | putzen | Smiley | Taschentuch"
+      ],
+      "es": [
+        "cara estornudando",
+        "cara | cara estornudando | estornudar | estornudo | pañuelo"
+      ],
+      "pt": [
+        "rosto espirrando",
+        "de cama | doente | espirrando | espirro | gripado | resfriado | rosto espirrando"
+      ],
+      "it": [
+        "faccina che starnutisce",
+        "faccina | faccina che starnutisce | faccina con fazzoletto | faccina con raffreddore | fazzoletto | malato | raffreddore | starnutire | starnuto"
+      ],
+      "ro": [
+        "față care strănută",
+        "boală | bolnav | față | față care strănută | febră | gripă | noroc | răceală | sănătate | strănut"
+      ],
+      "he": [
+        "פרצוף מקנח אף",
+        "אף | אפצ׳י | חולה | מצונן | מקנח | מתעטש | פרצוף"
+      ],
+      "ar": [
+        "وجه يعطس",
+        "انفلونزا | حرارة | حمة | زكام | زكمة | ساخن | صحة | عطس | مريض | وجه | وجه يعطس | يرحمك الله | يرحمكم الله"
+      ],
+      "tr": [
+        "hapşıran yüz",
+        "çok yaşa | grip | hapşıran yüz | hapşırma | hasta | nezle | yüz"
+      ],
+      "vi": ["mặt hắt hơi", "cúm | hắt hơi | mặt | mặt hắt hơi | sức khỏe"],
+      "nl": [
+        "niezend gezicht",
+        "gezicht | gezondheid | griep | koorts | niezen | niezend | ziek"
+      ]
+    }
+  ],
+  "🤨": [
+    "other",
+    "face with one eyebrow raised",
+    {
+      "en": [
+        "face with raised eyebrow",
+        "disapproval | disbelief | distrust | emoji | eyebrow | face | hmm | mild | raised | skeptic | skeptical | skepticism | surprise | what"
+      ],
+      "ru": [
+        "не верит",
+        "быть | верю | может | не | недоверие | подозрение | правда | скептик | сомневаюсь | хм"
+      ],
+      "pl": [
+        "twarz z podniesioną brwią",
+        "brew | buźka | dziwne | głowa | hę | hmm | nie wierzę | sceptyczny | twarz | twarz z podniesioną brwią | zdziwiony | że co"
+      ],
+      "fr": [
+        "visage avec les sourcils relevés",
+        "euh | hein | incrédule | méfiant | pas vrai | quoi | sceptique | surprise | tête avec sourcil levé | visage avec les sourcils relevés"
+      ],
+      "de": [
+        "Gesicht mit hochgezogenen Augenbrauen",
+        "argwöhnisch | Augenbrauen | Gesicht | hochgezogen | misstrauen | skeptisch | Smiley | stutzig | Zweifel"
+      ],
+      "es": [
+        "cara con ceja alzada",
+        "cara con ceja alzada | desconfiado | escéptico"
+      ],
+      "pt": [
+        "rosto com sobrancelha levantada",
+        "cética | ceticismo | cético | confusa | confuso | desconfiada | desconfiado | desconfiança | rosto com sobrancelha levantada"
+      ],
+      "it": [
+        "faccina con sopracciglia alzate",
+        "diffidente | disappunto | eh | faccia con sopracciglia alzate | faccina con sopracciglio alzato | incredulo | mah | non ci credo | scetticismo | scettico | sconcertato | sorpresa | sorpreso"
+      ],
+      "ro": [
+        "față cu sprânceană ridicată",
+        "bănuială | dezaprobare | față cu sprânceana ridicată | față cu sprânceană ridicată | greu de crezut | neîncredere | sceptic | surprins"
+      ],
+      "he": [
+        "פרצוף עם גבות מורמות",
+        "לא מאמין | מטיל ספק | ספקן | פקפקן | פרצוף | פרצוף עם גבות מורמות"
+      ],
+      "ar": [
+        "وجه بحاجب مرفوع",
+        "حاجب مرفوع | شاكك | غير راض | غير موافق | كولبير | لا يعجبني | متفاجئ | مشكك | هممم | وجه | وجه بحاجب مرتفع | وجه بحاجب مرفوع | يشك"
+      ],
+      "tr": [
+        "tek kaşı çatık yüz",
+        "güvenmeyen | şüpheci | surat | tek kaşı çatık yüz | tek kaşı havada"
+      ],
+      "vi": [
+        "mặt với lông mày rướn lên",
+        "hoài nghi | mặt với lông mày rướn lên | ngờ vực"
+      ],
+      "nl": [
+        "gezicht met opgeheven wenkbrauw",
+        "afkeurend | frons | gezicht met opgeheven wenkbrauw | gezicht met opgetrokken wenkbrauw | hmm | ongeloof | sceptisch | skeptisch | smiley | verrassing | wantrouwen | wantrouwend | wat"
+      ]
+    }
+  ],
+  "🤩": [
+    "other",
+    "grinning face with star eyes",
+    {
+      "en": [
+        "star-struck",
+        "excited | eyes | face | grinning | smile | star | star-struck | starry-eyed | wow"
+      ],
+      "ru": [
+        "звезды в глазах",
+        "вау | глаза | звезда | звездный | звезды | обалдеть | радость | супер | улыбка | широкая"
+      ],
+      "pl": [
+        "zafascynowany",
+        "buźka | fascynacja | głowa | gwiazdy | haha | hehe | śmiech | szczęście | twarz | uśmiech | zabawa | zafascynowany"
+      ],
+      "fr": [
+        "visage avec des étoiles à la place des yeux",
+        "étoile | étoiles dans les yeux | grand sourire | heureux | pressé | surexcité | tête avec étoiles | visage | visage avec des étoiles à la place des yeux | wow | yeux"
+      ],
+      "de": [
+        "überwältigt",
+        "aufgeregt | Augen | Gesicht | grinsen | Smiley | Star | Stern | überwältigt | wow"
+      ],
+      "es": [
+        "cara sonriendo con estrellas",
+        "cara | cara sonriendo con estrellas | estrellas | sonrisa"
+      ],
+      "pt": [
+        "rosto com olhar maravilhado",
+        "estrela | gargalhando | olhos | rosto | rosto com olhar maravilhado | super animada | super animado | super feliz | superanimada | superanimado | superfeliz"
+      ],
+      "it": [
+        "colpo di fulmine",
+        "emozionante | emozionato | faccia sorridente | faccina con le stelle | felice | figata | figo | occhi a stella | stelline | wow"
+      ],
+      "ro": [
+        "față cu steluțe la ochi",
+        "față | față cu steluțe la ochi | încântare | încântată | ochi | ochi steluță | stea | stele | steluțe | super | uau | wow | zâmbește | zâmbet"
+      ],
+      "he": [
+        "פרצוף עם עיני כוכבים",
+        "ואו | כוכבים | להט״ב | מחייך | נלהב | עיניים | פרצוף | שמח"
+      ],
+      "ar": [
+        "وجه بعينين على شكل نجمة",
+        "أعين | بسمة | عينان | عيون | فرح | فرحان | قهقه | مبسوط | منفعل | نجمة | نجوم | ههه | واو | وجه | وجه بعينين على شكل نجمة"
+      ],
+      "tr": [
+        "yıldız çarpmış",
+        "gözler | heyecanlı | sırıtan | surat | vov | yıldız | yıldız çarpmış | yüz"
+      ],
+      "vi": ["ngưỡng mộ", "cười toét | mắt | mặt | ngôi sao | ngưỡng mộ"],
+      "nl": [
+        "sterren in de ogen",
+        "gezicht | grijnzend | lach | ogen | opgewonden | ster | sterren als ogen | sterren in de ogen | wauw"
+      ]
+    }
+  ],
+  "🤪": [
+    "other",
+    "grinning face with one large and one small eye",
+    {
+      "en": [
+        "zany face",
+        "crazy | eye | eyes | face | goofy | large | small | zany"
+      ],
+      "ru": [
+        "сумасшедшее лицо",
+        "крейзи | показать | псих | сдвиг | сошел | сумасшедший | ума | фазе | чокнуться | язык"
+      ],
+      "pl": [
+        "szalona twarz",
+        "buźka | crazy | duże | głowa | haha | hehe | małe | oko | oszaleć | śmiech | szał | szalona twarz | szalony | twarz"
+      ],
+      "fr": [
+        "tête de fou",
+        "grand | large | oeil | œil | petit | tête de fou | tête folle | yeux | yeux fous"
+      ],
+      "de": [
+        "irres Gesicht",
+        "Auge | Augen | Gesicht | groß | irre | klein | Smiley | verrückt"
+      ],
+      "es": ["cara de loco", "cara de loco | grande | ojo | pequeño"],
+      "pt": [
+        "rosto bizarro",
+        "cara de maluco | doida | doido | excêntrico | grande | louca | louco | olhar de maluco | olho | pequeno | rosto bizarro"
+      ],
+      "it": [
+        "faccina impazzita",
+        "faccina | faccina con occhi pazzi | faccina impazzita | faccina pazza | grande | inquietante | occhi | occhi diversi | occhio | pazzo | piccolo | sclerato"
+      ],
+      "ro": [
+        "față nebună",
+        "ciudat | dubios | dus | față de nebun | față nebună | mare | mic | nebun | ochi | trăsnit | zurliu"
+      ],
+      "he": ["פרצוף משוגע", "מוזר | משוגע | עין | עיניים | פסיכי"],
+      "ar": [
+        "وجه غريب الشكل",
+        "أخوت | صغير | عين | عيون | عيون مجنونة | غريب الأطوار | مجنون | وجه | وجه غريب | وجه غريب الشكل"
+      ],
+      "tr": [
+        "çılgın surat",
+        "büyük | çılgın | deli | göz | gözler | küçük | surat"
+      ],
+      "vi": ["mặt làm trò hề", "lớn | mắt | mặt làm trò hề | ngốc | nhỏ"],
+      "nl": [
+        "gek gezicht",
+        "gek gezicht | gekke blik | gestoord | groot | klein | oog | smiley"
+      ]
+    }
+  ],
+  "🤫": [
+    "other",
+    "face with finger covering closed lips",
+    {
+      "en": ["shushing face", "face | quiet | shh | shush | shushing"],
+      "ru": [
+        "тс-с-с",
+        "говори | закрой | никому | секрет | тайна | тихо | тсс | узнает | услышать | шепот"
+      ],
+      "pl": [
+        "uciszająca twarz",
+        "buźka | cicho | cii | cisza | głowa | sza | twarz | uciszać | uciszająca twarz"
+      ],
+      "fr": [
+        "visage avec un doigt sur la bouche",
+        "chut | pas un bruit | silence | tête qui dit chut | visage avec un doigt sur la bouche"
+      ],
+      "de": [
+        "ermahnendes Gesicht",
+        "ermahnen | Finger | Gesicht | leise | psst | pst | Ruhe | ruhig | sch | Smiley"
+      ],
+      "es": [
+        "cara pidiendo silencio",
+        "callado | cara pidiendo silencio | silencio"
+      ],
+      "pt": [
+        "rosto fazendo sinal de silêncio",
+        "faça silêncio | fica quieta | quieta | quieto | rosto fazendo sinal de silêncio | silêncio"
+      ],
+      "it": [
+        "faccina che zittisce",
+        "dito | faccina che zittisce | muto | non parlare | segreto | silenzio | silenzioso | zittire | zitto"
+      ],
+      "ro": [
+        "față care șâșâie",
+        "față | față care șâșâie | liniște | șșșt | șșt | taci din gură"
+      ],
+      "he": ["פרצוף עושה סימן לשקט", "הס | סוד | שקט | ששש"],
+      "ar": [
+        "وجه يطلب الصمت",
+        "اخرس | اصمت | اهدأ | سكون | ششش | صمت | هدوء | وجه | وجه يطلب الصمت"
+      ],
+      "tr": [
+        "sus işareti yapan yüz",
+        "sessiz | şişt | şş | surat | sus işareti yapan yüz"
+      ],
+      "vi": ["mặt ra dấu suỵt", "im lặng | mặt ra dấu suỵt | suỵt"],
+      "nl": [
+        "gezicht dat tot stilte maant",
+        "gezicht | manen | sst | stil | stilte"
+      ]
+    }
+  ],
+  "🤬": [
+    "other",
+    "serious face with symbols covering mouth",
+    {
+      "en": [
+        "face with symbols on mouth",
+        "censor | cursing | cussing | face | mad | mouth | pissed | swearing | symbols"
+      ],
+      "ru": [
+        "цензура",
+        "браниться | брань | мат | материться | ругань | ругаться | цензура"
+      ],
+      "pl": [
+        "twarz z symbolami na ustach",
+        "bluzgać | buźka | głowa | kląć | przekleństwo | przeklinać | twarz | twarz z symbolami na ustach | zły"
+      ],
+      "fr": [
+        "visage avec des symboles dans la bouche",
+        "censuré | colère | gros mots | insulter | insultes | jurer | juron | tête avec des symboles sur la bouche | visage avec des symboles dans la bouche"
+      ],
+      "de": [
+        "Gesicht mit Symbolen über dem Mund",
+        "Ärger | ärgern | fluchen | Gesicht | Mund | schimpfen | Schimpfwort | Smiley | Symbole | verdammt | Wut | wütend | Zensur"
+      ],
+      "es": [
+        "cara con símbolos en la boca",
+        "cara con símbolos en la boca | maldecir | palabrota | símbolo"
+      ],
+      "pt": [
+        "rosto com símbolos na boca",
+        "boca | censurado | fala | mal | rosto | rude | símbolos | xingando"
+      ],
+      "it": [
+        "faccina con simboli sulla bocca",
+        "arrabbiato | bestemmiare | censura | faccina | faccina che bestemmia | faccina che impreca | faccina con simboli sulla bocca | imprecare | incavolato | insultare | molto arrabbiato"
+      ],
+      "ro": [
+        "față cu simboluri la gură",
+        "cenzurat | enervat | față cenzurată | față cu simboluri la gură | înjurătură | înjurături | nervos | supărat | vorbit urât"
+      ],
+      "he": [
+        "פרצוף עם סמלים על הפה",
+        "כועס | מעוצבן | מקלל | סמלים על הפה | קללות"
+      ],
+      "ar": [
+        "وجه مع رموز على الفم",
+        "رقابة | سب | سباب | شتائم | شتم | عصبي | غاضب | غضب | غضبان | لعن | مسبات | وجه | وجه مع رموز على الفم | وجه يسب | يشتم"
+      ],
+      "tr": [
+        "ağzında semboller olan yüz",
+        "ağzında semboller olan yüz | kızgın | kızmış | küfür eden | küfür etmek | sembol surat | sensör | surat"
+      ],
+      "vi": [
+        "mặt có các ký hiệu trên miệng",
+        "chửi rủa | chửi thề | mặt có các ký hiệu trên miệng | tức giận"
+      ],
+      "nl": [
+        "gezicht met symbolen op mond",
+        "boos | censuur | gezicht met symbolen op mond | gezicht met tekens over mond | kwaad | schelden | smiley | vloeken"
+      ]
+    }
+  ],
+  "🤭": [
+    "other",
+    "smiling face with smiling eyes and hand covering mouth",
+    {
+      "en": [
+        "face with hand over mouth",
+        "face | giggle | giggling | hand | mouth | oops | realization | secret | shock | sudden | surprise | whoops"
+      ],
+      "ru": [
+        "прикрывает рот рукой",
+        "лишнее | ляпнуть | посмеиваться | проговорился | секрет | смешок | сюрприз | тайна | упс | хи"
+      ],
+      "pl": [
+        "twarz z ręką na ustach",
+        "buźka | chichotać | głowa | haha | hehe | hihi | śmiech | twarz | twarz z ręką na ustach | ups"
+      ],
+      "fr": [
+        "visage avec une main sur la bouche",
+        "malin | oops | oups | rigole | secret | surprise | visage avec main devant la bouche | visage avec une main sur la bouche"
+      ],
+      "de": [
+        "verlegen kicherndes Gesicht",
+        "Gesicht | haha | Hand | hihi | Huch | kichern | lachen | Mund | rot | Smiley | verlegen | Wangen"
+      ],
+      "es": [
+        "cara con mano sobre la boca",
+        "cara con mano sobre la boca | ostras | uy | vaya"
+      ],
+      "pt": [
+        "rosto com a mão sobre a boca",
+        "hehe | ops | risadinha | risonho | rosto com a mão sobre a boca | sorriso envergonhado | vergonha"
+      ],
+      "it": [
+        "faccina con mano sulla bocca",
+        "faccina che sogghigna | imbarazzato | imbarazzo | mano davanti alla bocca | non ci credo | oddio | oops | ridacchiare | ridere | segreto | sogghignare | sorpresa"
+      ],
+      "ro": [
+        "față cu mâna peste gură",
+        "chicoteală | chicoti | față | față cu mâna pe gură | față cu mâna peste gură | oops | râs | secret | șoc | surprindere | surprins | ups"
+      ],
+      "he": ["פרצוף עם יד על הפה", "אוי | אופס | טעות | פרצוף עם יד על הפה"],
+      "ar": [
+        "وجه ضاحك مع يد تغطّي الفم",
+        "أوبس | تقهقه | سر | قهقهة | لاحظت | مفاجأة | ههه | وجه | وجه ضاحك مع يد تغطّي الفم | وجه عليه يد"
+      ],
+      "tr": [
+        "eliyle ağzını kapatan yüz",
+        "a ah | eliyle ağzını kapatan yüz | sır | şok olmak | süpriz | surat | tüh"
+      ],
+      "vi": [
+        "mặt với tay che miệng",
+        "mặt với tay che miệng | tay che miệng cười | xin lỗi"
+      ],
+      "nl": [
+        "gezicht met hand over de mond",
+        "geheim | geschrokken | gezicht met hand over de mond | gezicht met hand over mond | giechelen | oeps | smiley | verrast"
+      ]
+    }
+  ],
+  "🤮": [
+    "other",
+    "face with open mouth vomiting",
+    {
+      "en": [
+        "face vomiting",
+        "barf | ew | face | gross | puke | sick | spew | throw | up | vomit | vomiting"
+      ],
+      "ru": [
+        "рвота",
+        "блевать | болезнь | вырвало | гадость | морская | отравиться | плохо | рвота | тошнит | фу"
+      ],
+      "pl": [
+        "wymiotująca twarz",
+        "ble | buźka | choroba | chory | fuj | głowa | obrzydliwe | rzygać | twarz | wymiotować | wymiotująca twarz | wymioty"
+      ],
+      "fr": [
+        "visage qui vomit",
+        "gerbe | gerber | malade | tête qui vomit | visage qui vomit | vomi | vomissure"
+      ],
+      "de": [
+        "kotzendes Gesicht",
+        "brechen | erbrechen | Gesicht | kotzen | krank | schlecht | Smiley | speien | spucken | übel | übergeben"
+      ],
+      "es": ["cara vomitando", "cara vomitando | enfermo | malo | vomitar"],
+      "pt": [
+        "rosto vomitando",
+        "doente | nojenta | nojento | nojo | rosto vomitando | vomitando | vômito"
+      ],
+      "it": [
+        "faccina che vomita",
+        "faccina | faccina che vomita | malato | male | nausea | sputare | sto male | verde | vomitare | vomito"
+      ],
+      "ro": [
+        "față vomitând",
+        "față | față care vomită | față vomitând | greață | scârbos | vomă"
+      ],
+      "he": ["פרצוף מקיא", "בחילה | הקאה | להקיא | פרצוף מקיא"],
+      "ar": [
+        "وجه يتقيّأ",
+        "استفراغ | تقيؤ | قيء | مريض | وجه | وجه يتقيّأ | يتقيأ | يتقياً | يستفرغ"
+      ],
+      "tr": [
+        "kusan yüz",
+        "hasta | istifra | kusan yüz | kusmak | kusmuk | surat"
+      ],
+      "vi": ["mặt nôn mửa", "mặt nôn mửa | nôn mửa | ốm"],
+      "nl": [
+        "brakend gezicht",
+        "braaksel | braken | brakend gezicht | misselijk | overgeven | spuwen | walgelijk | ziek"
+      ]
+    }
+  ],
+  "🤯": [
+    "other",
+    "shocked face with exploding head",
+    {
+      "en": [
+        "exploding head",
+        "blown | explode | exploding | head | mind | mindblown | no | shocked | way"
+      ],
+      "ru": [
+        "взрыв мозга",
+        "быть | взрыв | голова | может | мозга | не | омг | шок"
+      ],
+      "pl": [
+        "eksplodująca głowa",
+        "buźka | eksplodująca głowa | eksplozja | głowa | nie wiedzieć | niemożliwe | szok | wybuch"
+      ],
+      "fr": [
+        "tête qui explose",
+        "choc | choqué | surpris | surprise | tête choquée | tête qui explose"
+      ],
+      "de": [
+        "explodierender Kopf",
+        "entsetzt | explodieren | geschockt | Gesicht | Kopf | Schock | schockiert | Smiley | überwältigt | unglaublich"
+      ],
+      "es": ["cabeza explotando", "cabeza | cabeza explotando | explosión"],
+      "pt": [
+        "cabeça explodindo",
+        "cabeça | chocada | chocado | chocante | choque | explodindo | incrível | perplexo | surpreendente | surpresa | surpreso"
+      ],
+      "it": [
+        "testa che esplode",
+        "cervello | faccina sorpresa | mindblown | non ci credo | sbalordito | scioccato | sconcertato | sorpesa | sorpreso | stupore | testa che esplode"
+      ],
+      "ro": [
+        "cap care explodează",
+        "bubuie mintea | bum | cap care explodează | exploda | explozie | mirare | mirat | nu se poate | șoc | șocat"
+      ],
+      "he": ["ראש מתפוצץ", "המום | פרצוף מתפוצץ | ראש מתפוצץ | שוק"],
+      "ar": [
+        "وجه برأس منفجر",
+        "انفجار | رأس ينفجر | لا مجال | لا يصدق | متفاجئ | مصدوم | وجه | وجه برأس منفجر"
+      ],
+      "tr": [
+        "patlayan kafa",
+        "aklını başından almak | patlayan kafa | şaşırmış | şok olmuş | şoke | surat"
+      ],
+      "vi": ["đầu nổ tung", "bị sốc | đầu nổ tung | nổ"],
+      "nl": [
+        "ontploffend hoofd",
+        "exploderen | geschokt | ondersteboven | onmogelijk | ontploffend hoofd | smiley | verbaasd | verbijsterd | verrast | wow"
+      ]
+    }
+  ],
+  "🤰": [
+    "other",
+    "pregnant woman",
+    {
+      "en": ["pregnant woman", "pregnant | woman"],
+      "ru": ["беременная женщина", "беременная | беременность | женщина"],
+      "pl": ["kobieta w ciąży", "ciąża | ciężarna | kobieta | w ciąży"],
+      "fr": ["femme enceinte", "enceinte | femme"],
+      "de": ["schwangere Frau", "Frau | schwanger | schwangere Frau"],
+      "es": ["mujer embarazada", "embarazada | mujer"],
+      "pt": ["grávida", "estou grávida | grávida | gravidez | mulher"],
+      "it": [
+        "donna incinta",
+        "donna | gravidanza | incinta | mamma | pancione"
+      ],
+      "ro": ["femeie însărcinată", "femeie | gravidă | însărcinată | persoană"],
+      "he": ["אישה בהיריון", "אישה | אישה בהיריון | היריון | הרה | הריונית"],
+      "ar": ["امرأة حامل", "امرأة | بيبي | حامل | حبل | حبلة | سيدة"],
+      "tr": ["hamile kadın", "hamile | kadın"],
+      "vi": [
+        "người phụ nữ có thai",
+        "mang thai | người phụ nữ có thai | phụ nữ | phụ nữ mang thai"
+      ],
+      "nl": ["zwangere vrouw", "vrouw | zwanger"]
+    }
+  ],
+  "🤰🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant woman: light skin tone",
+        "light skin tone | pregnant | woman"
+      ],
+      "ru": [
+        "беременная женщина: очень светлый тон кожи",
+        "беременная | беременность | женщина | очень светлый тон кожи"
+      ],
+      "pl": [
+        "kobieta w ciąży: karnacja jasna",
+        "ciąża | ciężarna | karnacja jasna | kobieta | w ciąży"
+      ],
+      "fr": ["femme enceinte : peau claire", "enceinte | femme | peau claire"],
+      "de": [
+        "schwangere Frau: helle Hautfarbe",
+        "Frau | helle Hautfarbe | schwanger | schwangere Frau"
+      ],
+      "es": [
+        "mujer embarazada: tono de piel claro",
+        "embarazada | mujer | tono de piel claro"
+      ],
+      "pt": [
+        "grávida: pele clara",
+        "estou grávida | grávida | gravidez | mulher | pele clara"
+      ],
+      "it": [
+        "donna incinta: carnagione chiara",
+        "carnagione chiara | donna | gravidanza | incinta | mamma | pancione"
+      ],
+      "ro": [
+        "femeie însărcinată: ton deschis al pielii",
+        "femeie | gravidă | însărcinată | persoană | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה בהיריון: גוון עור בהיר",
+        "אישה | אישה בהיריון | גוון עור בהיר | היריון | הרה | הריונית"
+      ],
+      "ar": [
+        "امرأة حامل: بشرة بلون فاتح",
+        "امرأة | بشرة بلون فاتح | بيبي | حامل | حبل | حبلة | سيدة"
+      ],
+      "tr": ["hamile kadın: açık cilt tonu", "açık cilt tonu | hamile | kadın"],
+      "vi": [
+        "người phụ nữ có thai: màu da sáng",
+        "mang thai | màu da sáng | người phụ nữ có thai | phụ nữ | phụ nữ mang thai"
+      ],
+      "nl": [
+        "zwangere vrouw: lichte huidskleur",
+        "lichte huidskleur | vrouw | zwanger"
+      ]
+    }
+  ],
+  "🤰🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant woman: medium-light skin tone",
+        "medium-light skin tone | pregnant | woman"
+      ],
+      "ru": [
+        "беременная женщина: светлый тон кожи",
+        "беременная | беременность | женщина | светлый тон кожи"
+      ],
+      "pl": [
+        "kobieta w ciąży: karnacja średnio jasna",
+        "ciąża | ciężarna | karnacja średnio jasna | kobieta | w ciąży"
+      ],
+      "fr": [
+        "femme enceinte : peau moyennement claire",
+        "enceinte | femme | peau moyennement claire"
+      ],
+      "de": [
+        "schwangere Frau: mittelhelle Hautfarbe",
+        "Frau | mittelhelle Hautfarbe | schwanger | schwangere Frau"
+      ],
+      "es": [
+        "mujer embarazada: tono de piel claro medio",
+        "embarazada | mujer | tono de piel claro medio"
+      ],
+      "pt": [
+        "grávida: pele morena clara",
+        "estou grávida | grávida | gravidez | mulher | pele morena clara"
+      ],
+      "it": [
+        "donna incinta: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | donna | gravidanza | incinta | mamma | pancione"
+      ],
+      "ro": [
+        "femeie însărcinată: ton semi‑deschis al pielii",
+        "femeie | gravidă | însărcinată | persoană | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה בהיריון: גוון עור בהיר בינוני",
+        "אישה | אישה בהיריון | גוון עור בהיר בינוני | היריון | הרה | הריונית"
+      ],
+      "ar": [
+        "امرأة حامل: بشرة بلون فاتح ومعتدل",
+        "امرأة | بشرة بلون فاتح ومعتدل | بيبي | حامل | حبل | حبلة | سيدة"
+      ],
+      "tr": [
+        "hamile kadın: orta açık cilt tonu",
+        "hamile | kadın | orta açık cilt tonu"
+      ],
+      "vi": [
+        "người phụ nữ có thai: màu da sáng trung bình",
+        "mang thai | màu da sáng trung bình | người phụ nữ có thai | phụ nữ | phụ nữ mang thai"
+      ],
+      "nl": [
+        "zwangere vrouw: lichtgetinte huidskleur",
+        "lichtgetinte huidskleur | vrouw | zwanger"
+      ]
+    }
+  ],
+  "🤰🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant woman: medium skin tone",
+        "medium skin tone | pregnant | woman"
+      ],
+      "ru": [
+        "беременная женщина: средний тон кожи",
+        "беременная | беременность | женщина | средний тон кожи"
+      ],
+      "pl": [
+        "kobieta w ciąży: karnacja średnia",
+        "ciąża | ciężarna | karnacja średnia | kobieta | w ciąży"
+      ],
+      "fr": [
+        "femme enceinte : peau légèrement mate",
+        "enceinte | femme | peau légèrement mate"
+      ],
+      "de": [
+        "schwangere Frau: mittlere Hautfarbe",
+        "Frau | mittlere Hautfarbe | schwanger | schwangere Frau"
+      ],
+      "es": [
+        "mujer embarazada: tono de piel medio",
+        "embarazada | mujer | tono de piel medio"
+      ],
+      "pt": [
+        "grávida: pele morena",
+        "estou grávida | grávida | gravidez | mulher | pele morena"
+      ],
+      "it": [
+        "donna incinta: carnagione olivastra",
+        "carnagione olivastra | donna | gravidanza | incinta | mamma | pancione"
+      ],
+      "ro": [
+        "femeie însărcinată: ton mediu al pielii",
+        "femeie | gravidă | însărcinată | persoană | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה בהיריון: גוון עור בינוני",
+        "אישה | אישה בהיריון | גוון עור בינוני | היריון | הרה | הריונית"
+      ],
+      "ar": [
+        "امرأة حامل: بشرة بلون معتدل",
+        "امرأة | بشرة بلون معتدل | بيبي | حامل | حبل | حبلة | سيدة"
+      ],
+      "tr": ["hamile kadın: orta cilt tonu", "hamile | kadın | orta cilt tonu"],
+      "vi": [
+        "người phụ nữ có thai: màu da trung bình",
+        "mang thai | màu da trung bình | người phụ nữ có thai | phụ nữ | phụ nữ mang thai"
+      ],
+      "nl": [
+        "zwangere vrouw: getinte huidskleur",
+        "getinte huidskleur | vrouw | zwanger"
+      ]
+    }
+  ],
+  "🤰🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant woman: medium-dark skin tone",
+        "medium-dark skin tone | pregnant | woman"
+      ],
+      "ru": [
+        "беременная женщина: темный тон кожи",
+        "беременная | беременность | женщина | темный тон кожи"
+      ],
+      "pl": [
+        "kobieta w ciąży: karnacja średnio ciemna",
+        "ciąża | ciężarna | karnacja średnio ciemna | kobieta | w ciąży"
+      ],
+      "fr": ["femme enceinte : peau mate", "enceinte | femme | peau mate"],
+      "de": [
+        "schwangere Frau: mitteldunkle Hautfarbe",
+        "Frau | mitteldunkle Hautfarbe | schwanger | schwangere Frau"
+      ],
+      "es": [
+        "mujer embarazada: tono de piel oscuro medio",
+        "embarazada | mujer | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "grávida: pele morena escura",
+        "estou grávida | grávida | gravidez | mulher | pele morena escura"
+      ],
+      "it": [
+        "donna incinta: carnagione abbastanza scura",
+        "carnagione abbastanza scura | donna | gravidanza | incinta | mamma | pancione"
+      ],
+      "ro": [
+        "femeie însărcinată: ton semi‑închis al pielii",
+        "femeie | gravidă | însărcinată | persoană | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אישה בהיריון: גוון עור כהה בינוני",
+        "אישה | אישה בהיריון | גוון עור כהה בינוני | היריון | הרה | הריונית"
+      ],
+      "ar": [
+        "امرأة حامل: بشرة بلون معتدل مائل للغامق",
+        "امرأة | بشرة بلون معتدل مائل للغامق | بيبي | حامل | حبل | حبلة | سيدة"
+      ],
+      "tr": [
+        "hamile kadın: orta koyu cilt tonu",
+        "hamile | kadın | orta koyu cilt tonu"
+      ],
+      "vi": [
+        "người phụ nữ có thai: màu da tối trung bình",
+        "mang thai | màu da tối trung bình | người phụ nữ có thai | phụ nữ | phụ nữ mang thai"
+      ],
+      "nl": [
+        "zwangere vrouw: donkergetinte huidskleur",
+        "donkergetinte huidskleur | vrouw | zwanger"
+      ]
+    }
+  ],
+  "🤰🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "pregnant woman: dark skin tone",
+        "dark skin tone | pregnant | woman"
+      ],
+      "ru": [
+        "беременная женщина: очень темный тон кожи",
+        "беременная | беременность | женщина | очень темный тон кожи"
+      ],
+      "pl": [
+        "kobieta w ciąży: karnacja ciemna",
+        "ciąża | ciężarna | karnacja ciemna | kobieta | w ciąży"
+      ],
+      "fr": ["femme enceinte : peau foncée", "enceinte | femme | peau foncée"],
+      "de": [
+        "schwangere Frau: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Frau | schwanger | schwangere Frau"
+      ],
+      "es": [
+        "mujer embarazada: tono de piel oscuro",
+        "embarazada | mujer | tono de piel oscuro"
+      ],
+      "pt": [
+        "grávida: pele escura",
+        "estou grávida | grávida | gravidez | mulher | pele escura"
+      ],
+      "it": [
+        "donna incinta: carnagione scura",
+        "carnagione scura | donna | gravidanza | incinta | mamma | pancione"
+      ],
+      "ro": [
+        "femeie însărcinată: ton închis al pielii",
+        "femeie | gravidă | însărcinată | persoană | ton închis al pielii"
+      ],
+      "he": [
+        "אישה בהיריון: גוון עור כהה",
+        "אישה | אישה בהיריון | גוון עור כהה | היריון | הרה | הריונית"
+      ],
+      "ar": [
+        "امرأة حامل: بشرة بلون غامق",
+        "امرأة | بشرة بلون غامق | بيبي | حامل | حبل | حبلة | سيدة"
+      ],
+      "tr": ["hamile kadın: koyu cilt tonu", "hamile | kadın | koyu cilt tonu"],
+      "vi": [
+        "người phụ nữ có thai: màu da tối",
+        "mang thai | màu da tối | người phụ nữ có thai | phụ nữ | phụ nữ mang thai"
+      ],
+      "nl": [
+        "zwangere vrouw: donkere huidskleur",
+        "donkere huidskleur | vrouw | zwanger"
+      ]
+    }
+  ],
+  "🤱": [
+    "other",
+    "breast-feeding",
+    {
+      "en": [
+        "breast-feeding",
+        "baby | breast | breast-feeding | feeding | mom | mother | nursing | woman"
+      ],
+      "ru": [
+        "кормление грудью",
+        "вскармливание | грудь | кормить | кормящая | лактация | мать | младенец | молоко | ребенок"
+      ],
+      "pl": [
+        "karmienie piersią",
+        "dziecko | karmić | karmić piersią | karmienie piersią | kobieta | matka | miłość | niemowlę | pierś | praca"
+      ],
+      "fr": [
+        "allaitement",
+        "allaitement | bébé | maman | nourrice | nourrir le bébé | sein | soins"
+      ],
+      "de": ["Stillen", "Baby | Brust | Frau | Person | stillen | Stillen"],
+      "es": [
+        "lactancia materna",
+        "amamantar | bebé | dar pecho | lactancia materna | pecho"
+      ],
+      "pt": [
+        "amamentando",
+        "amamentação | bebê | leite | mãe | materno | neném"
+      ],
+      "it": [
+        "allattare",
+        "allattamento | allattare | allattare al seno | bebé | donna | donna che allatta | mamma | mamma che allatta | persona"
+      ],
+      "ro": [
+        "alăptare la sân",
+        "alăptare | alăptare la sân | bebeluș | copil | mamă | piept | sân"
+      ],
+      "he": [
+        "אישה מניקה",
+        "אישה מניקה | אמהות | הנקה | חלב אם | מיניקה | מניקה | תינוק"
+      ],
+      "ar": [
+        "رضاعة",
+        "أم | أمومة | ترضيع | رضاعة | رضيع | شخص | صدر | طفل | مرضعة"
+      ],
+      "tr": [
+        "emziren kadın",
+        "anne sütü | bebek | emziren kadın | emzirme | göğüs | meme verme | süt izni"
+      ],
+      "vi": [
+        "cho con bú",
+        "cho bú | cho con bú | em bé | nuôi con bằng sữa mẹ | vú"
+      ],
+      "nl": [
+        "borstvoeding",
+        "baby | borst | borstvoeding | de borst geven | persoon"
+      ]
+    }
+  ],
+  "🤱🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "breast-feeding: light skin tone",
+        "baby | breast | breast-feeding | feeding | light skin tone | mom | mother | nursing | woman"
+      ],
+      "ru": [
+        "кормление грудью: очень светлый тон кожи",
+        "вскармливание | грудь | кормить | кормящая | лактация | мать | младенец | молоко | очень светлый тон кожи | ребенок"
+      ],
+      "pl": [
+        "karmienie piersią: karnacja jasna",
+        "dziecko | karmić | karmić piersią | karmienie piersią | karnacja jasna | kobieta | matka | miłość | niemowlę | pierś | praca"
+      ],
+      "fr": [
+        "allaitement : peau claire",
+        "allaitement | bébé | maman | nourrice | nourrir le bébé | peau claire | sein | soins"
+      ],
+      "de": [
+        "Stillen: helle Hautfarbe",
+        "Baby | Brust | Frau | helle Hautfarbe | Person | stillen | Stillen"
+      ],
+      "es": [
+        "lactancia materna: tono de piel claro",
+        "amamantar | bebé | dar pecho | lactancia materna | pecho | tono de piel claro"
+      ],
+      "pt": [
+        "amamentando: pele clara",
+        "amamentação | bebê | leite | mãe | materno | neném | pele clara"
+      ],
+      "it": [
+        "allattare: carnagione chiara",
+        "allattamento | allattare | allattare al seno | bebé | carnagione chiara | donna | donna che allatta | mamma | mamma che allatta | persona"
+      ],
+      "ro": [
+        "alăptare la sân: ton deschis al pielii",
+        "alăptare | alăptare la sân | bebeluș | copil | mamă | piept | sân | ton deschis al pielii"
+      ],
+      "he": [
+        "אישה מניקה: גוון עור בהיר",
+        "אישה מניקה | אמהות | גוון עור בהיר | הנקה | חלב אם | מיניקה | מניקה | תינוק"
+      ],
+      "ar": [
+        "رضاعة: بشرة بلون فاتح",
+        "أم | أمومة | بشرة بلون فاتح | ترضيع | رضاعة | رضيع | شخص | صدر | طفل | مرضعة"
+      ],
+      "tr": [
+        "emziren kadın: açık cilt tonu",
+        "açık cilt tonu | anne sütü | bebek | emziren kadın | emzirme | göğüs | meme verme | süt izni"
+      ],
+      "vi": [
+        "cho con bú: màu da sáng",
+        "cho bú | cho con bú | em bé | màu da sáng | nuôi con bằng sữa mẹ | vú"
+      ],
+      "nl": [
+        "borstvoeding: lichte huidskleur",
+        "baby | borst | borstvoeding | de borst geven | lichte huidskleur | persoon"
+      ]
+    }
+  ],
+  "🤱🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "breast-feeding: medium-light skin tone",
+        "baby | breast | breast-feeding | feeding | medium-light skin tone | mom | mother | nursing | woman"
+      ],
+      "ru": [
+        "кормление грудью: светлый тон кожи",
+        "вскармливание | грудь | кормить | кормящая | лактация | мать | младенец | молоко | ребенок | светлый тон кожи"
+      ],
+      "pl": [
+        "karmienie piersią: karnacja średnio jasna",
+        "dziecko | karmić | karmić piersią | karmienie piersią | karnacja średnio jasna | kobieta | matka | miłość | niemowlę | pierś | praca"
+      ],
+      "fr": [
+        "allaitement : peau moyennement claire",
+        "allaitement | bébé | maman | nourrice | nourrir le bébé | peau moyennement claire | sein | soins"
+      ],
+      "de": [
+        "Stillen: mittelhelle Hautfarbe",
+        "Baby | Brust | Frau | mittelhelle Hautfarbe | Person | stillen | Stillen"
+      ],
+      "es": [
+        "lactancia materna: tono de piel claro medio",
+        "amamantar | bebé | dar pecho | lactancia materna | pecho | tono de piel claro medio"
+      ],
+      "pt": [
+        "amamentando: pele morena clara",
+        "amamentação | bebê | leite | mãe | materno | neném | pele morena clara"
+      ],
+      "it": [
+        "allattare: carnagione abbastanza chiara",
+        "allattamento | allattare | allattare al seno | bebé | carnagione abbastanza chiara | donna | donna che allatta | mamma | mamma che allatta | persona"
+      ],
+      "ro": [
+        "alăptare la sân: ton semi‑deschis al pielii",
+        "alăptare | alăptare la sân | bebeluș | copil | mamă | piept | sân | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אישה מניקה: גוון עור בהיר בינוני",
+        "אישה מניקה | אמהות | גוון עור בהיר בינוני | הנקה | חלב אם | מיניקה | מניקה | תינוק"
+      ],
+      "ar": [
+        "رضاعة: بشرة بلون فاتح ومعتدل",
+        "أم | أمومة | بشرة بلون فاتح ومعتدل | ترضيع | رضاعة | رضيع | شخص | صدر | طفل | مرضعة"
+      ],
+      "tr": [
+        "emziren kadın: orta açık cilt tonu",
+        "anne sütü | bebek | emziren kadın | emzirme | göğüs | meme verme | orta açık cilt tonu | süt izni"
+      ],
+      "vi": [
+        "cho con bú: màu da sáng trung bình",
+        "cho bú | cho con bú | em bé | màu da sáng trung bình | nuôi con bằng sữa mẹ | vú"
+      ],
+      "nl": [
+        "borstvoeding: lichtgetinte huidskleur",
+        "baby | borst | borstvoeding | de borst geven | lichtgetinte huidskleur | persoon"
+      ]
+    }
+  ],
+  "🤱🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "breast-feeding: medium skin tone",
+        "baby | breast | breast-feeding | feeding | medium skin tone | mom | mother | nursing | woman"
+      ],
+      "ru": [
+        "кормление грудью: средний тон кожи",
+        "вскармливание | грудь | кормить | кормящая | лактация | мать | младенец | молоко | ребенок | средний тон кожи"
+      ],
+      "pl": [
+        "karmienie piersią: karnacja średnia",
+        "dziecko | karmić | karmić piersią | karmienie piersią | karnacja średnia | kobieta | matka | miłość | niemowlę | pierś | praca"
+      ],
+      "fr": [
+        "allaitement : peau légèrement mate",
+        "allaitement | bébé | maman | nourrice | nourrir le bébé | peau légèrement mate | sein | soins"
+      ],
+      "de": [
+        "Stillen: mittlere Hautfarbe",
+        "Baby | Brust | Frau | mittlere Hautfarbe | Person | stillen | Stillen"
+      ],
+      "es": [
+        "lactancia materna: tono de piel medio",
+        "amamantar | bebé | dar pecho | lactancia materna | pecho | tono de piel medio"
+      ],
+      "pt": [
+        "amamentando: pele morena",
+        "amamentação | bebê | leite | mãe | materno | neném | pele morena"
+      ],
+      "it": [
+        "allattare: carnagione olivastra",
+        "allattamento | allattare | allattare al seno | bebé | carnagione olivastra | donna | donna che allatta | mamma | mamma che allatta | persona"
+      ],
+      "ro": [
+        "alăptare la sân: ton mediu al pielii",
+        "alăptare | alăptare la sân | bebeluș | copil | mamă | piept | sân | ton mediu al pielii"
+      ],
+      "he": [
+        "אישה מניקה: גוון עור בינוני",
+        "אישה מניקה | אמהות | גוון עור בינוני | הנקה | חלב אם | מיניקה | מניקה | תינוק"
+      ],
+      "ar": [
+        "رضاعة: بشرة بلون معتدل",
+        "أم | أمومة | بشرة بلون معتدل | ترضيع | رضاعة | رضيع | شخص | صدر | طفل | مرضعة"
+      ],
+      "tr": [
+        "emziren kadın: orta cilt tonu",
+        "anne sütü | bebek | emziren kadın | emzirme | göğüs | meme verme | orta cilt tonu | süt izni"
+      ],
+      "vi": [
+        "cho con bú: màu da trung bình",
+        "cho bú | cho con bú | em bé | màu da trung bình | nuôi con bằng sữa mẹ | vú"
+      ],
+      "nl": [
+        "borstvoeding: getinte huidskleur",
+        "baby | borst | borstvoeding | de borst geven | getinte huidskleur | persoon"
+      ]
+    }
+  ],
+  "🤱🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "breast-feeding: medium-dark skin tone",
+        "baby | breast | breast-feeding | feeding | medium-dark skin tone | mom | mother | nursing | woman"
+      ],
+      "ru": [
+        "кормление грудью: темный тон кожи",
+        "вскармливание | грудь | кормить | кормящая | лактация | мать | младенец | молоко | ребенок | темный тон кожи"
+      ],
+      "pl": [
+        "karmienie piersią: karnacja średnio ciemna",
+        "dziecko | karmić | karmić piersią | karmienie piersią | karnacja średnio ciemna | kobieta | matka | miłość | niemowlę | pierś | praca"
+      ],
+      "fr": [
+        "allaitement : peau mate",
+        "allaitement | bébé | maman | nourrice | nourrir le bébé | peau mate | sein | soins"
+      ],
+      "de": [
+        "Stillen: mitteldunkle Hautfarbe",
+        "Baby | Brust | Frau | mitteldunkle Hautfarbe | Person | stillen | Stillen"
+      ],
+      "es": [
+        "lactancia materna: tono de piel oscuro medio",
+        "amamantar | bebé | dar pecho | lactancia materna | pecho | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "amamentando: pele morena escura",
+        "amamentação | bebê | leite | mãe | materno | neném | pele morena escura"
+      ],
+      "it": [
+        "allattare: carnagione abbastanza scura",
+        "allattamento | allattare | allattare al seno | bebé | carnagione abbastanza scura | donna | donna che allatta | mamma | mamma che allatta | persona"
+      ],
+      "ro": [
+        "alăptare la sân: ton semi‑închis al pielii",
+        "alăptare | alăptare la sân | bebeluș | copil | mamă | piept | sân | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אישה מניקה: גוון עור כהה בינוני",
+        "אישה מניקה | אמהות | גוון עור כהה בינוני | הנקה | חלב אם | מיניקה | מניקה | תינוק"
+      ],
+      "ar": [
+        "رضاعة: بشرة بلون معتدل مائل للغامق",
+        "أم | أمومة | بشرة بلون معتدل مائل للغامق | ترضيع | رضاعة | رضيع | شخص | صدر | طفل | مرضعة"
+      ],
+      "tr": [
+        "emziren kadın: orta koyu cilt tonu",
+        "anne sütü | bebek | emziren kadın | emzirme | göğüs | meme verme | orta koyu cilt tonu | süt izni"
+      ],
+      "vi": [
+        "cho con bú: màu da tối trung bình",
+        "cho bú | cho con bú | em bé | màu da tối trung bình | nuôi con bằng sữa mẹ | vú"
+      ],
+      "nl": [
+        "borstvoeding: donkergetinte huidskleur",
+        "baby | borst | borstvoeding | de borst geven | donkergetinte huidskleur | persoon"
+      ]
+    }
+  ],
+  "🤱🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "breast-feeding: dark skin tone",
+        "baby | breast | breast-feeding | dark skin tone | feeding | mom | mother | nursing | woman"
+      ],
+      "ru": [
+        "кормление грудью: очень темный тон кожи",
+        "вскармливание | грудь | кормить | кормящая | лактация | мать | младенец | молоко | очень темный тон кожи | ребенок"
+      ],
+      "pl": [
+        "karmienie piersią: karnacja ciemna",
+        "dziecko | karmić | karmić piersią | karmienie piersią | karnacja ciemna | kobieta | matka | miłość | niemowlę | pierś | praca"
+      ],
+      "fr": [
+        "allaitement : peau foncée",
+        "allaitement | bébé | maman | nourrice | nourrir le bébé | peau foncée | sein | soins"
+      ],
+      "de": [
+        "Stillen: dunkle Hautfarbe",
+        "Baby | Brust | dunkle Hautfarbe | Frau | Person | stillen | Stillen"
+      ],
+      "es": [
+        "lactancia materna: tono de piel oscuro",
+        "amamantar | bebé | dar pecho | lactancia materna | pecho | tono de piel oscuro"
+      ],
+      "pt": [
+        "amamentando: pele escura",
+        "amamentação | bebê | leite | mãe | materno | neném | pele escura"
+      ],
+      "it": [
+        "allattare: carnagione scura",
+        "allattamento | allattare | allattare al seno | bebé | carnagione scura | donna | donna che allatta | mamma | mamma che allatta | persona"
+      ],
+      "ro": [
+        "alăptare la sân: ton închis al pielii",
+        "alăptare | alăptare la sân | bebeluș | copil | mamă | piept | sân | ton închis al pielii"
+      ],
+      "he": [
+        "אישה מניקה: גוון עור כהה",
+        "אישה מניקה | אמהות | גוון עור כהה | הנקה | חלב אם | מיניקה | מניקה | תינוק"
+      ],
+      "ar": [
+        "رضاعة: بشرة بلون غامق",
+        "أم | أمومة | بشرة بلون غامق | ترضيع | رضاعة | رضيع | شخص | صدر | طفل | مرضعة"
+      ],
+      "tr": [
+        "emziren kadın: koyu cilt tonu",
+        "anne sütü | bebek | emziren kadın | emzirme | göğüs | koyu cilt tonu | meme verme | süt izni"
+      ],
+      "vi": [
+        "cho con bú: màu da tối",
+        "cho bú | cho con bú | em bé | màu da tối | nuôi con bằng sữa mẹ | vú"
+      ],
+      "nl": [
+        "borstvoeding: donkere huidskleur",
+        "baby | borst | borstvoeding | de borst geven | donkere huidskleur | persoon"
+      ]
+    }
+  ],
+  "🤲": [
+    "other",
+    "palms up together",
+    {
+      "en": [
+        "palms up together",
+        "cupped | dua | hands | palms | pray | prayer | together | up | wish"
+      ],
+      "ru": [
+        "ладони лодочкой",
+        "вверх | вместе | горсть | дуа | желание | ладони | лодочкой | молитва | молиться | руки"
+      ],
+      "pl": [
+        "dłonie do góry razem",
+        "dawać | dłonie | dłonie do góry razem | modlić się | modlitwa | ręce | ręka"
+      ],
+      "fr": [
+        "paume contre paume doigts vers le haut",
+        "espérer | mains | paume contre paume doigts vers le haut | paumes des mains ensemble | prier | prière"
+      ],
+      "de": [
+        "Handflächen nach oben",
+        "beten | Gebet | Hand | Hände | nach oben | zusammen"
+      ],
+      "es": [
+        "palmas hacia arriba juntas",
+        "oración | palmas hacia arriba juntas"
+      ],
+      "pt": [
+        "palmas unidas para cima",
+        "cima | devoção | juntas | oração | palmas | unidas"
+      ],
+      "it": [
+        "mani unite in alto",
+        "desiderare | mani | mani a coppa | mani in preghiera | mani unite | mani unite in alto | mano | offrire | palmi | palmo della mano | pregare | preghiera"
+      ],
+      "ro": [
+        "palme ridicate împreună",
+        "dorință | mâini aduse ca pentru rugăciune | mâini împreunate | palme ridicate împreună | rugăciune"
+      ],
+      "he": [
+        "כפות ידיים מוצמדות ופונות כלפי מעלה",
+        "דועא | כפות ידיים במחוות תפילה | תפילה"
+      ],
+      "ar": [
+        "راحتان مفتوحتان",
+        "أتمنى | أمنية | استخارة | دعاء | دعوات | راحتان مفتوحتان | صلاة | يد | يدان تصليان"
+      ],
+      "tr": [
+        "iki avuç açık",
+        "dilek | dua | dua eden eller | dua etmek | ellerini açmak | iki avuç açık"
+      ],
+      "vi": [
+        "hai bàn tay chạm vào nhau",
+        "cầu nguyện | hai bàn tay chạm vào nhau | lời cầu nguyện"
+      ],
+      "nl": [
+        "beide handpalmen omhoog",
+        "beide handpalmen omhoog | bidden | gebed | hand | kommetje maken met handen | palmen bij elkaar"
+      ]
+    }
+  ]
+}

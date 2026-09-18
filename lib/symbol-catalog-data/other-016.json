@@ -1,0 +1,2703 @@
+{
+  "👇🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing down: dark skin tone",
+        "backhand | dark skin tone | down | finger | hand | index | point | pointing"
+      ],
+      "ru": [
+        "указывающий вниз палец: очень темный тон кожи",
+        "вниз | жест | направление | ниже | очень темный тон кожи | палец | рука | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w dół: karnacja ciemna",
+        "dłoń z palcem wskazującym w dół | dół | karnacja ciemna | na dół | palec | palec w dół | ręka | w dół | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant vers le bas : peau foncée",
+        "bas | doigt | index | index vers le bas | main | main avec index pointant vers le bas | montrer | peau foncée"
+      ],
+      "de": [
+        "nach unten weisender Zeigefinger: dunkle Hautfarbe",
+        "abwärts | dunkle Hautfarbe | Finger | Handrücken | Handrückseite | hinab | hinunter | runter | unten | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice hacia abajo: tono de piel oscuro",
+        "abajo | apuntar | dedo | dorso de mano con índice hacia abajo | mano | tono de piel oscuro"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para baixo: pele escura",
+        "abaixo | costas da mão | dedo | dedo apontado para baixo | dedo indicador | dedo para baixo | dorso da mão com dedo indicador apontando para baixo | embaixo | pele escura"
+      ],
+      "it": [
+        "indice abbassato: carnagione scura",
+        "carnagione scura | dito | dito abbassato | dito in giù | dito indice | indicare | indice abbassato | indice in giù | mano | qui | sotto"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul în jos: ton închis al pielii",
+        "arătător | deget | dos de mână cu arătătorul în jos | dos de mână cu degetul arătător îndreptat în jos | dosul palmei | indica | jos | mână | ton închis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה למטה: גוון עור כהה",
+        "אצבע | גוון עור כהה | יד | כאן | להצביע | למטה | מצביעה"
+      ],
+      "ar": [
+        "إصبع لأسفل: بشرة بلون غامق",
+        "أدنى | أسفل | إشارة | إصبع | إصبع لأسفل | السبابة | بشرة بلون غامق | تحت | يد"
+      ],
+      "tr": [
+        "elinin tersiyle aşağıyı gösteren işaret parmağı: koyu cilt tonu",
+        "aşağıyı gösteren parmak | el | elin arkası | elinin tersiyle aşağıyı gösteren işaret parmağı | işaret parmağı | koyu cilt tonu | parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ xuống: màu da tối",
+        "màu da tối | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ xuống | tay | trỏ"
+      ],
+      "nl": [
+        "achterkant van hand met omlaag wijzende wijsvinger: donkere huidskleur",
+        "achterkant | donkere huidskleur | hand | omlaag | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👈": [
+    "other",
+    "white left pointing backhand index",
+    {
+      "en": [
+        "backhand index pointing left",
+        "backhand | finger | hand | index | left | point | pointing"
+      ],
+      "ru": [
+        "указывающий налево палец",
+        "влево | жест | налево | направление | палец | рука | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w lewo",
+        "dłoń z palcem wskazującym w lewo | lewa strona | palec | palec w lewo | ręka | tam | w lewo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à gauche",
+        "doigt | gauche | index | index pointé vers la gauche | main | main avec index pointant à gauche"
+      ],
+      "de": [
+        "nach links weisender Zeigefinger",
+        "Finger | Handrückseite | links | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la izquierda",
+        "dedo | dorso de mano con índice a la izquierda | índice | izquierda | mano"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a esquerda",
+        "costas | dedo | dorso | esquerda | indicador | mão"
+      ],
+      "it": [
+        "indice verso sinistra",
+        "direzione | dito | dito verso sinistra | indicare | indice | indice verso sinistra | là | mano | sinistra"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre stânga",
+        "arătător | deget | deget indicând spre stânga | dos de mână cu arătătorul spre stânga | dosul palmei | indica | mână | stânga"
+      ],
+      "he": [
+        "גב יד מצביעה שמאלה",
+        "אצבע | יד | להצביע | מצביעה | צד שמאל | שמאלה"
+      ],
+      "ar": [
+        "إصبع لليسار",
+        "إشارة | إصبع | إصبع لليسار | السبابة | تأشير | يد | يسار"
+      ],
+      "tr": [
+        "elinin tersiyle solu gösteren işaret parmağı",
+        "el | elin arkası | elinin tersiyle solu gösteren işaret parmağı | işaret parmağı | parmak | solu gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang trái",
+        "chỉ | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang trái | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar links wijzende wijsvinger",
+        "achterkant | hand | links | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👈🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing left: light skin tone",
+        "backhand | finger | hand | index | left | light skin tone | point | pointing"
+      ],
+      "ru": [
+        "указывающий налево палец: очень светлый тон кожи",
+        "влево | жест | налево | направление | очень светлый тон кожи | палец | рука | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w lewo: karnacja jasna",
+        "dłoń z palcem wskazującym w lewo | karnacja jasna | lewa strona | palec | palec w lewo | ręka | tam | w lewo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à gauche : peau claire",
+        "doigt | gauche | index | index pointé vers la gauche | main | main avec index pointant à gauche | peau claire"
+      ],
+      "de": [
+        "nach links weisender Zeigefinger: helle Hautfarbe",
+        "Finger | Handrückseite | helle Hautfarbe | links | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la izquierda: tono de piel claro",
+        "dedo | dorso de mano con índice a la izquierda | índice | izquierda | mano | tono de piel claro"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a esquerda: pele clara",
+        "costas | dedo | dorso | esquerda | indicador | mão | pele clara"
+      ],
+      "it": [
+        "indice verso sinistra: carnagione chiara",
+        "carnagione chiara | direzione | dito | dito verso sinistra | indicare | indice | indice verso sinistra | là | mano | sinistra"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre stânga: ton deschis al pielii",
+        "arătător | deget | deget indicând spre stânga | dos de mână cu arătătorul spre stânga | dosul palmei | indica | mână | stânga | ton deschis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה שמאלה: גוון עור בהיר",
+        "אצבע | גוון עור בהיר | יד | להצביע | מצביעה | צד שמאל | שמאלה"
+      ],
+      "ar": [
+        "إصبع لليسار: بشرة بلون فاتح",
+        "إشارة | إصبع | إصبع لليسار | السبابة | بشرة بلون فاتح | تأشير | يد | يسار"
+      ],
+      "tr": [
+        "elinin tersiyle solu gösteren işaret parmağı: açık cilt tonu",
+        "açık cilt tonu | el | elin arkası | elinin tersiyle solu gösteren işaret parmağı | işaret parmağı | parmak | solu gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang trái: màu da sáng",
+        "chỉ | màu da sáng | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang trái | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar links wijzende wijsvinger: lichte huidskleur",
+        "achterkant | hand | lichte huidskleur | links | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👈🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing left: medium-light skin tone",
+        "backhand | finger | hand | index | left | medium-light skin tone | point | pointing"
+      ],
+      "ru": [
+        "указывающий налево палец: светлый тон кожи",
+        "влево | жест | налево | направление | палец | рука | светлый тон кожи | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w lewo: karnacja średnio jasna",
+        "dłoń z palcem wskazującym w lewo | karnacja średnio jasna | lewa strona | palec | palec w lewo | ręka | tam | w lewo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à gauche : peau moyennement claire",
+        "doigt | gauche | index | index pointé vers la gauche | main | main avec index pointant à gauche | peau moyennement claire"
+      ],
+      "de": [
+        "nach links weisender Zeigefinger: mittelhelle Hautfarbe",
+        "Finger | Handrückseite | links | mittelhelle Hautfarbe | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la izquierda: tono de piel claro medio",
+        "dedo | dorso de mano con índice a la izquierda | índice | izquierda | mano | tono de piel claro medio"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a esquerda: pele morena clara",
+        "costas | dedo | dorso | esquerda | indicador | mão | pele morena clara"
+      ],
+      "it": [
+        "indice verso sinistra: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | direzione | dito | dito verso sinistra | indicare | indice | indice verso sinistra | là | mano | sinistra"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre stânga: ton semi‑deschis al pielii",
+        "arătător | deget | deget indicând spre stânga | dos de mână cu arătătorul spre stânga | dosul palmei | indica | mână | stânga | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה שמאלה: גוון עור בהיר בינוני",
+        "אצבע | גוון עור בהיר בינוני | יד | להצביע | מצביעה | צד שמאל | שמאלה"
+      ],
+      "ar": [
+        "إصبع لليسار: بشرة بلون فاتح ومعتدل",
+        "إشارة | إصبع | إصبع لليسار | السبابة | بشرة بلون فاتح ومعتدل | تأشير | يد | يسار"
+      ],
+      "tr": [
+        "elinin tersiyle solu gösteren işaret parmağı: orta açık cilt tonu",
+        "el | elin arkası | elinin tersiyle solu gösteren işaret parmağı | işaret parmağı | orta açık cilt tonu | parmak | solu gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang trái: màu da sáng trung bình",
+        "chỉ | màu da sáng trung bình | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang trái | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar links wijzende wijsvinger: lichtgetinte huidskleur",
+        "achterkant | hand | lichtgetinte huidskleur | links | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👈🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing left: medium skin tone",
+        "backhand | finger | hand | index | left | medium skin tone | point | pointing"
+      ],
+      "ru": [
+        "указывающий налево палец: средний тон кожи",
+        "влево | жест | налево | направление | палец | рука | средний тон кожи | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w lewo: karnacja średnia",
+        "dłoń z palcem wskazującym w lewo | karnacja średnia | lewa strona | palec | palec w lewo | ręka | tam | w lewo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à gauche : peau légèrement mate",
+        "doigt | gauche | index | index pointé vers la gauche | main | main avec index pointant à gauche | peau légèrement mate"
+      ],
+      "de": [
+        "nach links weisender Zeigefinger: mittlere Hautfarbe",
+        "Finger | Handrückseite | links | mittlere Hautfarbe | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la izquierda: tono de piel medio",
+        "dedo | dorso de mano con índice a la izquierda | índice | izquierda | mano | tono de piel medio"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a esquerda: pele morena",
+        "costas | dedo | dorso | esquerda | indicador | mão | pele morena"
+      ],
+      "it": [
+        "indice verso sinistra: carnagione olivastra",
+        "carnagione olivastra | direzione | dito | dito verso sinistra | indicare | indice | indice verso sinistra | là | mano | sinistra"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre stânga: ton mediu al pielii",
+        "arătător | deget | deget indicând spre stânga | dos de mână cu arătătorul spre stânga | dosul palmei | indica | mână | stânga | ton mediu al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה שמאלה: גוון עור בינוני",
+        "אצבע | גוון עור בינוני | יד | להצביע | מצביעה | צד שמאל | שמאלה"
+      ],
+      "ar": [
+        "إصبع لليسار: بشرة بلون معتدل",
+        "إشارة | إصبع | إصبع لليسار | السبابة | بشرة بلون معتدل | تأشير | يد | يسار"
+      ],
+      "tr": [
+        "elinin tersiyle solu gösteren işaret parmağı: orta cilt tonu",
+        "el | elin arkası | elinin tersiyle solu gösteren işaret parmağı | işaret parmağı | orta cilt tonu | parmak | solu gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang trái: màu da trung bình",
+        "chỉ | màu da trung bình | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang trái | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar links wijzende wijsvinger: getinte huidskleur",
+        "achterkant | getinte huidskleur | hand | links | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👈🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing left: medium-dark skin tone",
+        "backhand | finger | hand | index | left | medium-dark skin tone | point | pointing"
+      ],
+      "ru": [
+        "указывающий налево палец: темный тон кожи",
+        "влево | жест | налево | направление | палец | рука | темный тон кожи | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w lewo: karnacja średnio ciemna",
+        "dłoń z palcem wskazującym w lewo | karnacja średnio ciemna | lewa strona | palec | palec w lewo | ręka | tam | w lewo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à gauche : peau mate",
+        "doigt | gauche | index | index pointé vers la gauche | main | main avec index pointant à gauche | peau mate"
+      ],
+      "de": [
+        "nach links weisender Zeigefinger: mitteldunkle Hautfarbe",
+        "Finger | Handrückseite | links | mitteldunkle Hautfarbe | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la izquierda: tono de piel oscuro medio",
+        "dedo | dorso de mano con índice a la izquierda | índice | izquierda | mano | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a esquerda: pele morena escura",
+        "costas | dedo | dorso | esquerda | indicador | mão | pele morena escura"
+      ],
+      "it": [
+        "indice verso sinistra: carnagione abbastanza scura",
+        "carnagione abbastanza scura | direzione | dito | dito verso sinistra | indicare | indice | indice verso sinistra | là | mano | sinistra"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre stânga: ton semi‑închis al pielii",
+        "arătător | deget | deget indicând spre stânga | dos de mână cu arătătorul spre stânga | dosul palmei | indica | mână | stânga | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה שמאלה: גוון עור כהה בינוני",
+        "אצבע | גוון עור כהה בינוני | יד | להצביע | מצביעה | צד שמאל | שמאלה"
+      ],
+      "ar": [
+        "إصبع لليسار: بشرة بلون معتدل مائل للغامق",
+        "إشارة | إصبع | إصبع لليسار | السبابة | بشرة بلون معتدل مائل للغامق | تأشير | يد | يسار"
+      ],
+      "tr": [
+        "elinin tersiyle solu gösteren işaret parmağı: orta koyu cilt tonu",
+        "el | elin arkası | elinin tersiyle solu gösteren işaret parmağı | işaret parmağı | orta koyu cilt tonu | parmak | solu gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang trái: màu da tối trung bình",
+        "chỉ | màu da tối trung bình | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang trái | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar links wijzende wijsvinger: donkergetinte huidskleur",
+        "achterkant | donkergetinte huidskleur | hand | links | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👈🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing left: dark skin tone",
+        "backhand | dark skin tone | finger | hand | index | left | point | pointing"
+      ],
+      "ru": [
+        "указывающий налево палец: очень темный тон кожи",
+        "влево | жест | налево | направление | очень темный тон кожи | палец | рука | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w lewo: karnacja ciemna",
+        "dłoń z palcem wskazującym w lewo | karnacja ciemna | lewa strona | palec | palec w lewo | ręka | tam | w lewo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à gauche : peau foncée",
+        "doigt | gauche | index | index pointé vers la gauche | main | main avec index pointant à gauche | peau foncée"
+      ],
+      "de": [
+        "nach links weisender Zeigefinger: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Finger | Handrückseite | links | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la izquierda: tono de piel oscuro",
+        "dedo | dorso de mano con índice a la izquierda | índice | izquierda | mano | tono de piel oscuro"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a esquerda: pele escura",
+        "costas | dedo | dorso | esquerda | indicador | mão | pele escura"
+      ],
+      "it": [
+        "indice verso sinistra: carnagione scura",
+        "carnagione scura | direzione | dito | dito verso sinistra | indicare | indice | indice verso sinistra | là | mano | sinistra"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre stânga: ton închis al pielii",
+        "arătător | deget | deget indicând spre stânga | dos de mână cu arătătorul spre stânga | dosul palmei | indica | mână | stânga | ton închis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה שמאלה: גוון עור כהה",
+        "אצבע | גוון עור כהה | יד | להצביע | מצביעה | צד שמאל | שמאלה"
+      ],
+      "ar": [
+        "إصبع لليسار: بشرة بلون غامق",
+        "إشارة | إصبع | إصبع لليسار | السبابة | بشرة بلون غامق | تأشير | يد | يسار"
+      ],
+      "tr": [
+        "elinin tersiyle solu gösteren işaret parmağı: koyu cilt tonu",
+        "el | elin arkası | elinin tersiyle solu gösteren işaret parmağı | işaret parmağı | koyu cilt tonu | parmak | solu gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang trái: màu da tối",
+        "chỉ | màu da tối | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang trái | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar links wijzende wijsvinger: donkere huidskleur",
+        "achterkant | donkere huidskleur | hand | links | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👉": [
+    "other",
+    "white right pointing backhand index",
+    {
+      "en": [
+        "backhand index pointing right",
+        "backhand | finger | hand | index | point | pointing | right"
+      ],
+      "ru": [
+        "указывающий направо палец",
+        "вправо | жест | направление | направо | палец | рука | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w prawo",
+        "dłoń z palcem wskazującym w prawo | palec | palec w prawo | prawa strona | ręka | tam | w prawo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à droite",
+        "doigt | droite | index | index pointé vers la droite | main | main avec index pointant à droite"
+      ],
+      "de": [
+        "nach rechts weisender Zeigefinger",
+        "Finger | Handrückseite | rechts | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la derecha",
+        "dedo | derecha | dorso de mano con índice a la derecha | índice | mano"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a direita",
+        "apontar | costas | dedo | direita | dorso | indicador | mão"
+      ],
+      "it": [
+        "indice verso destra",
+        "a destra | destra | di là | dito | dito indice | dito verso destra | indicare | indice verso destra | mano"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre dreapta",
+        "arătător | deget | deget indicând spre dreapta | dos de mână cu arătătorul spre dreapta | dosul palmei | dreapta | indica | mână"
+      ],
+      "he": [
+        "גב יד מצביעה ימינה",
+        "אצבע | יד | ימינה | להצביע | מצביעה | צד ימין"
+      ],
+      "ar": [
+        "إصبع لليمين",
+        "إشارة | إصبع | إصبع لليمين | السبابة | تأشير | يد | يمين"
+      ],
+      "tr": [
+        "elinin tersiyle sağı gösteren işaret parmağı",
+        "el | elin arkası | elinin tersiyle sağı gösteren işaret parmağı | işaret parmağı | parmak | sağı gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang phải",
+        "chỉ | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang phải | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar rechts wijzende wijsvinger",
+        "achterkant | hand | rechts | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👉🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing right: light skin tone",
+        "backhand | finger | hand | index | light skin tone | point | pointing | right"
+      ],
+      "ru": [
+        "указывающий направо палец: очень светлый тон кожи",
+        "вправо | жест | направление | направо | очень светлый тон кожи | палец | рука | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w prawo: karnacja jasna",
+        "dłoń z palcem wskazującym w prawo | karnacja jasna | palec | palec w prawo | prawa strona | ręka | tam | w prawo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à droite : peau claire",
+        "doigt | droite | index | index pointé vers la droite | main | main avec index pointant à droite | peau claire"
+      ],
+      "de": [
+        "nach rechts weisender Zeigefinger: helle Hautfarbe",
+        "Finger | Handrückseite | helle Hautfarbe | rechts | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la derecha: tono de piel claro",
+        "dedo | derecha | dorso de mano con índice a la derecha | índice | mano | tono de piel claro"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a direita: pele clara",
+        "apontar | costas | dedo | direita | dorso | indicador | mão | pele clara"
+      ],
+      "it": [
+        "indice verso destra: carnagione chiara",
+        "a destra | carnagione chiara | destra | di là | dito | dito indice | dito verso destra | indicare | indice verso destra | mano"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre dreapta: ton deschis al pielii",
+        "arătător | deget | deget indicând spre dreapta | dos de mână cu arătătorul spre dreapta | dosul palmei | dreapta | indica | mână | ton deschis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה ימינה: גוון עור בהיר",
+        "אצבע | גוון עור בהיר | יד | ימינה | להצביע | מצביעה | צד ימין"
+      ],
+      "ar": [
+        "إصبع لليمين: بشرة بلون فاتح",
+        "إشارة | إصبع | إصبع لليمين | السبابة | بشرة بلون فاتح | تأشير | يد | يمين"
+      ],
+      "tr": [
+        "elinin tersiyle sağı gösteren işaret parmağı: açık cilt tonu",
+        "açık cilt tonu | el | elin arkası | elinin tersiyle sağı gösteren işaret parmağı | işaret parmağı | parmak | sağı gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang phải: màu da sáng",
+        "chỉ | màu da sáng | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang phải | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar rechts wijzende wijsvinger: lichte huidskleur",
+        "achterkant | hand | lichte huidskleur | rechts | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👉🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing right: medium-light skin tone",
+        "backhand | finger | hand | index | medium-light skin tone | point | pointing | right"
+      ],
+      "ru": [
+        "указывающий направо палец: светлый тон кожи",
+        "вправо | жест | направление | направо | палец | рука | светлый тон кожи | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w prawo: karnacja średnio jasna",
+        "dłoń z palcem wskazującym w prawo | karnacja średnio jasna | palec | palec w prawo | prawa strona | ręka | tam | w prawo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à droite : peau moyennement claire",
+        "doigt | droite | index | index pointé vers la droite | main | main avec index pointant à droite | peau moyennement claire"
+      ],
+      "de": [
+        "nach rechts weisender Zeigefinger: mittelhelle Hautfarbe",
+        "Finger | Handrückseite | mittelhelle Hautfarbe | rechts | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la derecha: tono de piel claro medio",
+        "dedo | derecha | dorso de mano con índice a la derecha | índice | mano | tono de piel claro medio"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a direita: pele morena clara",
+        "apontar | costas | dedo | direita | dorso | indicador | mão | pele morena clara"
+      ],
+      "it": [
+        "indice verso destra: carnagione abbastanza chiara",
+        "a destra | carnagione abbastanza chiara | destra | di là | dito | dito indice | dito verso destra | indicare | indice verso destra | mano"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre dreapta: ton semi‑deschis al pielii",
+        "arătător | deget | deget indicând spre dreapta | dos de mână cu arătătorul spre dreapta | dosul palmei | dreapta | indica | mână | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה ימינה: גוון עור בהיר בינוני",
+        "אצבע | גוון עור בהיר בינוני | יד | ימינה | להצביע | מצביעה | צד ימין"
+      ],
+      "ar": [
+        "إصبع لليمين: بشرة بلون فاتح ومعتدل",
+        "إشارة | إصبع | إصبع لليمين | السبابة | بشرة بلون فاتح ومعتدل | تأشير | يد | يمين"
+      ],
+      "tr": [
+        "elinin tersiyle sağı gösteren işaret parmağı: orta açık cilt tonu",
+        "el | elin arkası | elinin tersiyle sağı gösteren işaret parmağı | işaret parmağı | orta açık cilt tonu | parmak | sağı gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang phải: màu da sáng trung bình",
+        "chỉ | màu da sáng trung bình | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang phải | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar rechts wijzende wijsvinger: lichtgetinte huidskleur",
+        "achterkant | hand | lichtgetinte huidskleur | rechts | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👉🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing right: medium skin tone",
+        "backhand | finger | hand | index | medium skin tone | point | pointing | right"
+      ],
+      "ru": [
+        "указывающий направо палец: средний тон кожи",
+        "вправо | жест | направление | направо | палец | рука | средний тон кожи | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w prawo: karnacja średnia",
+        "dłoń z palcem wskazującym w prawo | karnacja średnia | palec | palec w prawo | prawa strona | ręka | tam | w prawo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à droite : peau légèrement mate",
+        "doigt | droite | index | index pointé vers la droite | main | main avec index pointant à droite | peau légèrement mate"
+      ],
+      "de": [
+        "nach rechts weisender Zeigefinger: mittlere Hautfarbe",
+        "Finger | Handrückseite | mittlere Hautfarbe | rechts | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la derecha: tono de piel medio",
+        "dedo | derecha | dorso de mano con índice a la derecha | índice | mano | tono de piel medio"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a direita: pele morena",
+        "apontar | costas | dedo | direita | dorso | indicador | mão | pele morena"
+      ],
+      "it": [
+        "indice verso destra: carnagione olivastra",
+        "a destra | carnagione olivastra | destra | di là | dito | dito indice | dito verso destra | indicare | indice verso destra | mano"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre dreapta: ton mediu al pielii",
+        "arătător | deget | deget indicând spre dreapta | dos de mână cu arătătorul spre dreapta | dosul palmei | dreapta | indica | mână | ton mediu al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה ימינה: גוון עור בינוני",
+        "אצבע | גוון עור בינוני | יד | ימינה | להצביע | מצביעה | צד ימין"
+      ],
+      "ar": [
+        "إصبع لليمين: بشرة بلون معتدل",
+        "إشارة | إصبع | إصبع لليمين | السبابة | بشرة بلون معتدل | تأشير | يد | يمين"
+      ],
+      "tr": [
+        "elinin tersiyle sağı gösteren işaret parmağı: orta cilt tonu",
+        "el | elin arkası | elinin tersiyle sağı gösteren işaret parmağı | işaret parmağı | orta cilt tonu | parmak | sağı gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang phải: màu da trung bình",
+        "chỉ | màu da trung bình | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang phải | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar rechts wijzende wijsvinger: getinte huidskleur",
+        "achterkant | getinte huidskleur | hand | rechts | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👉🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing right: medium-dark skin tone",
+        "backhand | finger | hand | index | medium-dark skin tone | point | pointing | right"
+      ],
+      "ru": [
+        "указывающий направо палец: темный тон кожи",
+        "вправо | жест | направление | направо | палец | рука | темный тон кожи | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w prawo: karnacja średnio ciemna",
+        "dłoń z palcem wskazującym w prawo | karnacja średnio ciemna | palec | palec w prawo | prawa strona | ręka | tam | w prawo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à droite : peau mate",
+        "doigt | droite | index | index pointé vers la droite | main | main avec index pointant à droite | peau mate"
+      ],
+      "de": [
+        "nach rechts weisender Zeigefinger: mitteldunkle Hautfarbe",
+        "Finger | Handrückseite | mitteldunkle Hautfarbe | rechts | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la derecha: tono de piel oscuro medio",
+        "dedo | derecha | dorso de mano con índice a la derecha | índice | mano | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a direita: pele morena escura",
+        "apontar | costas | dedo | direita | dorso | indicador | mão | pele morena escura"
+      ],
+      "it": [
+        "indice verso destra: carnagione abbastanza scura",
+        "a destra | carnagione abbastanza scura | destra | di là | dito | dito indice | dito verso destra | indicare | indice verso destra | mano"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre dreapta: ton semi‑închis al pielii",
+        "arătător | deget | deget indicând spre dreapta | dos de mână cu arătătorul spre dreapta | dosul palmei | dreapta | indica | mână | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה ימינה: גוון עור כהה בינוני",
+        "אצבע | גוון עור כהה בינוני | יד | ימינה | להצביע | מצביעה | צד ימין"
+      ],
+      "ar": [
+        "إصبع لليمين: بشرة بلون معتدل مائل للغامق",
+        "إشارة | إصبع | إصبع لليمين | السبابة | بشرة بلون معتدل مائل للغامق | تأشير | يد | يمين"
+      ],
+      "tr": [
+        "elinin tersiyle sağı gösteren işaret parmağı: orta koyu cilt tonu",
+        "el | elin arkası | elinin tersiyle sağı gösteren işaret parmağı | işaret parmağı | orta koyu cilt tonu | parmak | sağı gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang phải: màu da tối trung bình",
+        "chỉ | màu da tối trung bình | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang phải | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar rechts wijzende wijsvinger: donkergetinte huidskleur",
+        "achterkant | donkergetinte huidskleur | hand | rechts | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👉🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "backhand index pointing right: dark skin tone",
+        "backhand | dark skin tone | finger | hand | index | point | pointing | right"
+      ],
+      "ru": [
+        "указывающий направо палец: очень темный тон кожи",
+        "вправо | жест | направление | направо | очень темный тон кожи | палец | рука | тыльная | указательный | указывать | указывающий"
+      ],
+      "pl": [
+        "dłoń z palcem wskazującym w prawo: karnacja ciemna",
+        "dłoń z palcem wskazującym w prawo | karnacja ciemna | palec | palec w prawo | prawa strona | ręka | tam | w prawo | wskazujący"
+      ],
+      "fr": [
+        "main avec index pointant à droite : peau foncée",
+        "doigt | droite | index | index pointé vers la droite | main | main avec index pointant à droite | peau foncée"
+      ],
+      "de": [
+        "nach rechts weisender Zeigefinger: dunkle Hautfarbe",
+        "dunkle Hautfarbe | Finger | Handrückseite | rechts | weisen | Zeigefinger | zeigen"
+      ],
+      "es": [
+        "dorso de mano con índice a la derecha: tono de piel oscuro",
+        "dedo | derecha | dorso de mano con índice a la derecha | índice | mano | tono de piel oscuro"
+      ],
+      "pt": [
+        "dorso da mão com indicador apontando para a direita: pele escura",
+        "apontar | costas | dedo | direita | dorso | indicador | mão | pele escura"
+      ],
+      "it": [
+        "indice verso destra: carnagione scura",
+        "a destra | carnagione scura | destra | di là | dito | dito indice | dito verso destra | indicare | indice verso destra | mano"
+      ],
+      "ro": [
+        "dos de mână cu arătătorul spre dreapta: ton închis al pielii",
+        "arătător | deget | deget indicând spre dreapta | dos de mână cu arătătorul spre dreapta | dosul palmei | dreapta | indica | mână | ton închis al pielii"
+      ],
+      "he": [
+        "גב יד מצביעה ימינה: גוון עור כהה",
+        "אצבע | גוון עור כהה | יד | ימינה | להצביע | מצביעה | צד ימין"
+      ],
+      "ar": [
+        "إصبع لليمين: بشرة بلون غامق",
+        "إشارة | إصبع | إصبع لليمين | السبابة | بشرة بلون غامق | تأشير | يد | يمين"
+      ],
+      "tr": [
+        "elinin tersiyle sağı gösteren işaret parmağı: koyu cilt tonu",
+        "el | elin arkası | elinin tersiyle sağı gösteren işaret parmağı | işaret parmağı | koyu cilt tonu | parmak | sağı gösteren parmak"
+      ],
+      "vi": [
+        "ngón trỏ trái chỉ sang phải: màu da tối",
+        "chỉ | màu da tối | mu bàn tay | ngón tay | ngón trỏ | ngón trỏ trái chỉ sang phải | tay"
+      ],
+      "nl": [
+        "achterkant van hand met naar rechts wijzende wijsvinger: donkere huidskleur",
+        "achterkant | donkere huidskleur | hand | rechts | vinger | wijs | wijsvinger | wijzen"
+      ]
+    }
+  ],
+  "👊": [
+    "other",
+    "fisted hand sign",
+    {
+      "en": [
+        "oncoming fist",
+        "absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | oncoming | pound | punch | rock | ttyl"
+      ],
+      "ru": [
+        "кулак",
+        "бокс | боксировать | бро | кулак | кулачок | опасность | рука | удар"
+      ],
+      "pl": [
+        "pięść od przodu",
+        "cios | cios pięścią | dłoń | pięść | pięść od przodu | prawy prosty | ręka | sierpowy | zaciśnięta pięść"
+      ],
+      "fr": [
+        "poing de face",
+        "absolument | battre | boum | correct | coup de poing | d’accord | main | mon pote | poing | poing de face | serrer"
+      ],
+      "de": [
+        "geballte Faust",
+        "absolut | Bro | Faust | geballt | Hand | korrekt | zustimmen"
+      ],
+      "es": ["puño cerrado", "puñetazo | puño | puño cerrado"],
+      "pt": [
+        "soco",
+        "beleza | fechado | força | mão | punho | soco | tá ligado"
+      ],
+      "it": [
+        "pugno chiuso",
+        "d’accordo | mano | ok | patto | pugno | pugno chiuso | rock | sì"
+      ],
+      "ro": [
+        "lovitură de pumn",
+        "bro | bum | de acord | frate | încleștare | încleștat | lovitură | lovitură de pumn | mână | pe mai încolo | pumn | sigur | strâns"
+      ],
+      "he": [
+        "מכת אגרוף",
+        "אגרוף | אלימות | בוקס | כוח | כועס | מכה | מכת אגרוף"
+      ],
+      "ar": ["قبضة يد", "أكيد | بوكس | صحيح | ضربة | قبضة يد | كف | يد"],
+      "tr": [
+        "yaklaşan yumruk",
+        "anlaştık | bam | el | katılıyorum | tamam | yaklaşan yumruk | yumruk"
+      ],
+      "vi": ["nắm đấm", "cú đấm | nắm đấm | nắm tay | siết chặt | tay"],
+      "nl": [
+        "stotende vuist",
+        "boks | gebald | gebalde vuist | groet | hand | mee eens | stoot | stotende vuist | vuist"
+      ]
+    }
+  ],
+  "👊🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "oncoming fist: light skin tone",
+        "absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | light skin tone | oncoming | pound | punch | rock | ttyl"
+      ],
+      "ru": [
+        "кулак: очень светлый тон кожи",
+        "бокс | боксировать | бро | кулак | кулачок | опасность | очень светлый тон кожи | рука | удар"
+      ],
+      "pl": [
+        "pięść od przodu: karnacja jasna",
+        "cios | cios pięścią | dłoń | karnacja jasna | pięść | pięść od przodu | prawy prosty | ręka | sierpowy | zaciśnięta pięść"
+      ],
+      "fr": [
+        "poing de face : peau claire",
+        "absolument | battre | boum | correct | coup de poing | d’accord | main | mon pote | peau claire | poing | poing de face | serrer"
+      ],
+      "de": [
+        "geballte Faust: helle Hautfarbe",
+        "absolut | Bro | Faust | geballt | Hand | helle Hautfarbe | korrekt | zustimmen"
+      ],
+      "es": [
+        "puño cerrado: tono de piel claro",
+        "puñetazo | puño | puño cerrado | tono de piel claro"
+      ],
+      "pt": [
+        "soco: pele clara",
+        "beleza | fechado | força | mão | pele clara | punho | soco | tá ligado"
+      ],
+      "it": [
+        "pugno chiuso: carnagione chiara",
+        "carnagione chiara | d’accordo | mano | ok | patto | pugno | pugno chiuso | rock | sì"
+      ],
+      "ro": [
+        "lovitură de pumn: ton deschis al pielii",
+        "bro | bum | de acord | frate | încleștare | încleștat | lovitură | lovitură de pumn | mână | pe mai încolo | pumn | sigur | strâns | ton deschis al pielii"
+      ],
+      "he": [
+        "מכת אגרוף: גוון עור בהיר",
+        "אגרוף | אלימות | בוקס | גוון עור בהיר | כוח | כועס | מכה | מכת אגרוף"
+      ],
+      "ar": [
+        "قبضة يد: بشرة بلون فاتح",
+        "أكيد | بشرة بلون فاتح | بوكس | صحيح | ضربة | قبضة يد | كف | يد"
+      ],
+      "tr": [
+        "yaklaşan yumruk: açık cilt tonu",
+        "açık cilt tonu | anlaştık | bam | el | katılıyorum | tamam | yaklaşan yumruk | yumruk"
+      ],
+      "vi": [
+        "nắm đấm: màu da sáng",
+        "cú đấm | màu da sáng | nắm đấm | nắm tay | siết chặt | tay"
+      ],
+      "nl": [
+        "stotende vuist: lichte huidskleur",
+        "boks | gebald | gebalde vuist | groet | hand | lichte huidskleur | mee eens | stoot | stotende vuist | vuist"
+      ]
+    }
+  ],
+  "👊🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "oncoming fist: medium-light skin tone",
+        "absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | medium-light skin tone | oncoming | pound | punch | rock | ttyl"
+      ],
+      "ru": [
+        "кулак: светлый тон кожи",
+        "бокс | боксировать | бро | кулак | кулачок | опасность | рука | светлый тон кожи | удар"
+      ],
+      "pl": [
+        "pięść od przodu: karnacja średnio jasna",
+        "cios | cios pięścią | dłoń | karnacja średnio jasna | pięść | pięść od przodu | prawy prosty | ręka | sierpowy | zaciśnięta pięść"
+      ],
+      "fr": [
+        "poing de face : peau moyennement claire",
+        "absolument | battre | boum | correct | coup de poing | d’accord | main | mon pote | peau moyennement claire | poing | poing de face | serrer"
+      ],
+      "de": [
+        "geballte Faust: mittelhelle Hautfarbe",
+        "absolut | Bro | Faust | geballt | Hand | korrekt | mittelhelle Hautfarbe | zustimmen"
+      ],
+      "es": [
+        "puño cerrado: tono de piel claro medio",
+        "puñetazo | puño | puño cerrado | tono de piel claro medio"
+      ],
+      "pt": [
+        "soco: pele morena clara",
+        "beleza | fechado | força | mão | pele morena clara | punho | soco | tá ligado"
+      ],
+      "it": [
+        "pugno chiuso: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | d’accordo | mano | ok | patto | pugno | pugno chiuso | rock | sì"
+      ],
+      "ro": [
+        "lovitură de pumn: ton semi‑deschis al pielii",
+        "bro | bum | de acord | frate | încleștare | încleștat | lovitură | lovitură de pumn | mână | pe mai încolo | pumn | sigur | strâns | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "מכת אגרוף: גוון עור בהיר בינוני",
+        "אגרוף | אלימות | בוקס | גוון עור בהיר בינוני | כוח | כועס | מכה | מכת אגרוף"
+      ],
+      "ar": [
+        "قبضة يد: بشرة بلون فاتح ومعتدل",
+        "أكيد | بشرة بلون فاتح ومعتدل | بوكس | صحيح | ضربة | قبضة يد | كف | يد"
+      ],
+      "tr": [
+        "yaklaşan yumruk: orta açık cilt tonu",
+        "anlaştık | bam | el | katılıyorum | orta açık cilt tonu | tamam | yaklaşan yumruk | yumruk"
+      ],
+      "vi": [
+        "nắm đấm: màu da sáng trung bình",
+        "cú đấm | màu da sáng trung bình | nắm đấm | nắm tay | siết chặt | tay"
+      ],
+      "nl": [
+        "stotende vuist: lichtgetinte huidskleur",
+        "boks | gebald | gebalde vuist | groet | hand | lichtgetinte huidskleur | mee eens | stoot | stotende vuist | vuist"
+      ]
+    }
+  ],
+  "👊🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "oncoming fist: medium skin tone",
+        "absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | medium skin tone | oncoming | pound | punch | rock | ttyl"
+      ],
+      "ru": [
+        "кулак: средний тон кожи",
+        "бокс | боксировать | бро | кулак | кулачок | опасность | рука | средний тон кожи | удар"
+      ],
+      "pl": [
+        "pięść od przodu: karnacja średnia",
+        "cios | cios pięścią | dłoń | karnacja średnia | pięść | pięść od przodu | prawy prosty | ręka | sierpowy | zaciśnięta pięść"
+      ],
+      "fr": [
+        "poing de face : peau légèrement mate",
+        "absolument | battre | boum | correct | coup de poing | d’accord | main | mon pote | peau légèrement mate | poing | poing de face | serrer"
+      ],
+      "de": [
+        "geballte Faust: mittlere Hautfarbe",
+        "absolut | Bro | Faust | geballt | Hand | korrekt | mittlere Hautfarbe | zustimmen"
+      ],
+      "es": [
+        "puño cerrado: tono de piel medio",
+        "puñetazo | puño | puño cerrado | tono de piel medio"
+      ],
+      "pt": [
+        "soco: pele morena",
+        "beleza | fechado | força | mão | pele morena | punho | soco | tá ligado"
+      ],
+      "it": [
+        "pugno chiuso: carnagione olivastra",
+        "carnagione olivastra | d’accordo | mano | ok | patto | pugno | pugno chiuso | rock | sì"
+      ],
+      "ro": [
+        "lovitură de pumn: ton mediu al pielii",
+        "bro | bum | de acord | frate | încleștare | încleștat | lovitură | lovitură de pumn | mână | pe mai încolo | pumn | sigur | strâns | ton mediu al pielii"
+      ],
+      "he": [
+        "מכת אגרוף: גוון עור בינוני",
+        "אגרוף | אלימות | בוקס | גוון עור בינוני | כוח | כועס | מכה | מכת אגרוף"
+      ],
+      "ar": [
+        "قبضة يد: بشرة بلون معتدل",
+        "أكيد | بشرة بلون معتدل | بوكس | صحيح | ضربة | قبضة يد | كف | يد"
+      ],
+      "tr": [
+        "yaklaşan yumruk: orta cilt tonu",
+        "anlaştık | bam | el | katılıyorum | orta cilt tonu | tamam | yaklaşan yumruk | yumruk"
+      ],
+      "vi": [
+        "nắm đấm: màu da trung bình",
+        "cú đấm | màu da trung bình | nắm đấm | nắm tay | siết chặt | tay"
+      ],
+      "nl": [
+        "stotende vuist: getinte huidskleur",
+        "boks | gebald | gebalde vuist | getinte huidskleur | groet | hand | mee eens | stoot | stotende vuist | vuist"
+      ]
+    }
+  ],
+  "👊🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "oncoming fist: medium-dark skin tone",
+        "absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | medium-dark skin tone | oncoming | pound | punch | rock | ttyl"
+      ],
+      "ru": [
+        "кулак: темный тон кожи",
+        "бокс | боксировать | бро | кулак | кулачок | опасность | рука | темный тон кожи | удар"
+      ],
+      "pl": [
+        "pięść od przodu: karnacja średnio ciemna",
+        "cios | cios pięścią | dłoń | karnacja średnio ciemna | pięść | pięść od przodu | prawy prosty | ręka | sierpowy | zaciśnięta pięść"
+      ],
+      "fr": [
+        "poing de face : peau mate",
+        "absolument | battre | boum | correct | coup de poing | d’accord | main | mon pote | peau mate | poing | poing de face | serrer"
+      ],
+      "de": [
+        "geballte Faust: mitteldunkle Hautfarbe",
+        "absolut | Bro | Faust | geballt | Hand | korrekt | mitteldunkle Hautfarbe | zustimmen"
+      ],
+      "es": [
+        "puño cerrado: tono de piel oscuro medio",
+        "puñetazo | puño | puño cerrado | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "soco: pele morena escura",
+        "beleza | fechado | força | mão | pele morena escura | punho | soco | tá ligado"
+      ],
+      "it": [
+        "pugno chiuso: carnagione abbastanza scura",
+        "carnagione abbastanza scura | d’accordo | mano | ok | patto | pugno | pugno chiuso | rock | sì"
+      ],
+      "ro": [
+        "lovitură de pumn: ton semi‑închis al pielii",
+        "bro | bum | de acord | frate | încleștare | încleștat | lovitură | lovitură de pumn | mână | pe mai încolo | pumn | sigur | strâns | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "מכת אגרוף: גוון עור כהה בינוני",
+        "אגרוף | אלימות | בוקס | גוון עור כהה בינוני | כוח | כועס | מכה | מכת אגרוף"
+      ],
+      "ar": [
+        "قبضة يد: بشرة بلون معتدل مائل للغامق",
+        "أكيد | بشرة بلون معتدل مائل للغامق | بوكس | صحيح | ضربة | قبضة يد | كف | يد"
+      ],
+      "tr": [
+        "yaklaşan yumruk: orta koyu cilt tonu",
+        "anlaştık | bam | el | katılıyorum | orta koyu cilt tonu | tamam | yaklaşan yumruk | yumruk"
+      ],
+      "vi": [
+        "nắm đấm: màu da tối trung bình",
+        "cú đấm | màu da tối trung bình | nắm đấm | nắm tay | siết chặt | tay"
+      ],
+      "nl": [
+        "stotende vuist: donkergetinte huidskleur",
+        "boks | donkergetinte huidskleur | gebald | gebalde vuist | groet | hand | mee eens | stoot | stotende vuist | vuist"
+      ]
+    }
+  ],
+  "👊🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "oncoming fist: dark skin tone",
+        "absolutely | agree | boom | bro | bruh | bump | clenched | correct | dark skin tone | fist | hand | knuckle | oncoming | pound | punch | rock | ttyl"
+      ],
+      "ru": [
+        "кулак: очень темный тон кожи",
+        "бокс | боксировать | бро | кулак | кулачок | опасность | очень темный тон кожи | рука | удар"
+      ],
+      "pl": [
+        "pięść od przodu: karnacja ciemna",
+        "cios | cios pięścią | dłoń | karnacja ciemna | pięść | pięść od przodu | prawy prosty | ręka | sierpowy | zaciśnięta pięść"
+      ],
+      "fr": [
+        "poing de face : peau foncée",
+        "absolument | battre | boum | correct | coup de poing | d’accord | main | mon pote | peau foncée | poing | poing de face | serrer"
+      ],
+      "de": [
+        "geballte Faust: dunkle Hautfarbe",
+        "absolut | Bro | dunkle Hautfarbe | Faust | geballt | Hand | korrekt | zustimmen"
+      ],
+      "es": [
+        "puño cerrado: tono de piel oscuro",
+        "puñetazo | puño | puño cerrado | tono de piel oscuro"
+      ],
+      "pt": [
+        "soco: pele escura",
+        "beleza | fechado | força | mão | pele escura | punho | soco | tá ligado"
+      ],
+      "it": [
+        "pugno chiuso: carnagione scura",
+        "carnagione scura | d’accordo | mano | ok | patto | pugno | pugno chiuso | rock | sì"
+      ],
+      "ro": [
+        "lovitură de pumn: ton închis al pielii",
+        "bro | bum | de acord | frate | încleștare | încleștat | lovitură | lovitură de pumn | mână | pe mai încolo | pumn | sigur | strâns | ton închis al pielii"
+      ],
+      "he": [
+        "מכת אגרוף: גוון עור כהה",
+        "אגרוף | אלימות | בוקס | גוון עור כהה | כוח | כועס | מכה | מכת אגרוף"
+      ],
+      "ar": [
+        "قبضة يد: بشرة بلون غامق",
+        "أكيد | بشرة بلون غامق | بوكس | صحيح | ضربة | قبضة يد | كف | يد"
+      ],
+      "tr": [
+        "yaklaşan yumruk: koyu cilt tonu",
+        "anlaştık | bam | el | katılıyorum | koyu cilt tonu | tamam | yaklaşan yumruk | yumruk"
+      ],
+      "vi": [
+        "nắm đấm: màu da tối",
+        "cú đấm | màu da tối | nắm đấm | nắm tay | siết chặt | tay"
+      ],
+      "nl": [
+        "stotende vuist: donkere huidskleur",
+        "boks | donkere huidskleur | gebald | gebalde vuist | groet | hand | mee eens | stoot | stotende vuist | vuist"
+      ]
+    }
+  ],
+  "👋": [
+    "other",
+    "waving hand sign",
+    {
+      "en": [
+        "waving hand",
+        "bye | cya | g2g | greetings | gtg | hand | hello | hey | hi | later | outtie | ttfn | ttyl | wave | yo | you"
+      ],
+      "ru": ["машет рукой", "взмах | привет | приветствие | прощание | рука"],
+      "pl": [
+        "machająca dłoń",
+        "cześć | dłoń | halo | hej | machać | machająca dłoń | pa | papa | powitanie | pożegnanie | ręka | witaj"
+      ],
+      "fr": [
+        "signe de la main",
+        "à bientôt | à plus tard | au revoir | bonjour | bye | coucou | hello | il y a quelqu’un ? | main | main qui salue | salut | signe | signe de la main"
+      ],
+      "de": [
+        "winkende Hand",
+        "auf Wiedersehen | bis später | ciao | guten Tag | hallo | Hand | hey | hi | tschüs | tschüss | winken"
+      ],
+      "es": [
+        "mano saludando",
+        "agitar | mano | mano saludando | saludar | saludo"
+      ],
+      "pt": [
+        "mão acenando",
+        "acenando | aceno | até mais | está aí? | flw | mão | oi | olá | taí? | tchau"
+      ],
+      "it": [
+        "mano che saluta",
+        "a dopo | ci sei? | ci vediamo | ciao | ciaone | gesto di saluto | mano | mano aperta | mano che saluta | salutare | schiaffo"
+      ],
+      "ro": [
+        "mână fluturată",
+        "adio | alo | am plecat | bună | ciao | despărțire | face cu mâna | la revedere | mână | mână fluturată | pa pa | pe mai încolo | salut | sărumâna | semn | servus"
+      ],
+      "he": ["יד מנופפת", "ביי | היי | יד | כיף | להתראות | מנופפת | שלום"],
+      "ar": [
+        "تلويح باليد",
+        "أهلا | إلى اللقاء | انظر إلي | باي | بدي روح | تأشير | ترحيب | تلويح | لاحقًا | مرحبا | هاي | هلا | يد"
+      ],
+      "tr": [
+        "el sallama",
+        "bay bay | bye | el | görüşürüz | güle güle | hey | merhaba | orada mısın | sallama | sallamak | selam"
+      ],
+      "vi": [
+        "vẫy tay",
+        "chào | chào nhé | có ai ở đó không? | đang vẫy | tay | vẫy | vẫy tay nè | xin chào"
+      ],
+      "nl": [
+        "zwaaiende hand",
+        "ben je er | doei | groet | groeten | hallo | hand | is daar iemand | moet gaan | spreek je later | tot later | tot ziens | ttyl | zwaai | zwaaien | zwaaiende hand"
+      ]
+    }
+  ],
+  "👋🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "waving hand: light skin tone",
+        "bye | cya | g2g | greetings | gtg | hand | hello | hey | hi | later | light skin tone | outtie | ttfn | ttyl | wave | yo | you"
+      ],
+      "ru": [
+        "машет рукой: очень светлый тон кожи",
+        "взмах | очень светлый тон кожи | привет | приветствие | прощание | рука"
+      ],
+      "pl": [
+        "machająca dłoń: karnacja jasna",
+        "cześć | dłoń | halo | hej | karnacja jasna | machać | machająca dłoń | pa | papa | powitanie | pożegnanie | ręka | witaj"
+      ],
+      "fr": [
+        "signe de la main : peau claire",
+        "à bientôt | à plus tard | au revoir | bonjour | bye | coucou | hello | il y a quelqu’un ? | main | main qui salue | peau claire | salut | signe | signe de la main"
+      ],
+      "de": [
+        "winkende Hand: helle Hautfarbe",
+        "auf Wiedersehen | bis später | ciao | guten Tag | hallo | Hand | helle Hautfarbe | hey | hi | tschüs | tschüss | winken"
+      ],
+      "es": [
+        "mano saludando: tono de piel claro",
+        "agitar | mano | mano saludando | saludar | saludo | tono de piel claro"
+      ],
+      "pt": [
+        "mão acenando: pele clara",
+        "acenando | aceno | até mais | está aí? | flw | mão | oi | olá | pele clara | taí? | tchau"
+      ],
+      "it": [
+        "mano che saluta: carnagione chiara",
+        "a dopo | carnagione chiara | ci sei? | ci vediamo | ciao | ciaone | gesto di saluto | mano | mano aperta | mano che saluta | salutare | schiaffo"
+      ],
+      "ro": [
+        "mână fluturată: ton deschis al pielii",
+        "adio | alo | am plecat | bună | ciao | despărțire | face cu mâna | la revedere | mână | mână fluturată | pa pa | pe mai încolo | salut | sărumâna | semn | servus | ton deschis al pielii"
+      ],
+      "he": [
+        "יד מנופפת: גוון עור בהיר",
+        "ביי | גוון עור בהיר | היי | יד | כיף | להתראות | מנופפת | שלום"
+      ],
+      "ar": [
+        "تلويح باليد: بشرة بلون فاتح",
+        "أهلا | إلى اللقاء | انظر إلي | باي | بدي روح | بشرة بلون فاتح | تأشير | ترحيب | تلويح | لاحقًا | مرحبا | هاي | هلا | يد"
+      ],
+      "tr": [
+        "el sallama: açık cilt tonu",
+        "açık cilt tonu | bay bay | bye | el | görüşürüz | güle güle | hey | merhaba | orada mısın | sallama | sallamak | selam"
+      ],
+      "vi": [
+        "vẫy tay: màu da sáng",
+        "chào | chào nhé | có ai ở đó không? | đang vẫy | màu da sáng | tay | vẫy | vẫy tay nè | xin chào"
+      ],
+      "nl": [
+        "zwaaiende hand: lichte huidskleur",
+        "ben je er | doei | groet | groeten | hallo | hand | is daar iemand | lichte huidskleur | moet gaan | spreek je later | tot later | tot ziens | ttyl | zwaai | zwaaien | zwaaiende hand"
+      ]
+    }
+  ],
+  "👋🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "waving hand: medium-light skin tone",
+        "bye | cya | g2g | greetings | gtg | hand | hello | hey | hi | later | medium-light skin tone | outtie | ttfn | ttyl | wave | yo | you"
+      ],
+      "ru": [
+        "машет рукой: светлый тон кожи",
+        "взмах | привет | приветствие | прощание | рука | светлый тон кожи"
+      ],
+      "pl": [
+        "machająca dłoń: karnacja średnio jasna",
+        "cześć | dłoń | halo | hej | karnacja średnio jasna | machać | machająca dłoń | pa | papa | powitanie | pożegnanie | ręka | witaj"
+      ],
+      "fr": [
+        "signe de la main : peau moyennement claire",
+        "à bientôt | à plus tard | au revoir | bonjour | bye | coucou | hello | il y a quelqu’un ? | main | main qui salue | peau moyennement claire | salut | signe | signe de la main"
+      ],
+      "de": [
+        "winkende Hand: mittelhelle Hautfarbe",
+        "auf Wiedersehen | bis später | ciao | guten Tag | hallo | Hand | hey | hi | mittelhelle Hautfarbe | tschüs | tschüss | winken"
+      ],
+      "es": [
+        "mano saludando: tono de piel claro medio",
+        "agitar | mano | mano saludando | saludar | saludo | tono de piel claro medio"
+      ],
+      "pt": [
+        "mão acenando: pele morena clara",
+        "acenando | aceno | até mais | está aí? | flw | mão | oi | olá | pele morena clara | taí? | tchau"
+      ],
+      "it": [
+        "mano che saluta: carnagione abbastanza chiara",
+        "a dopo | carnagione abbastanza chiara | ci sei? | ci vediamo | ciao | ciaone | gesto di saluto | mano | mano aperta | mano che saluta | salutare | schiaffo"
+      ],
+      "ro": [
+        "mână fluturată: ton semi‑deschis al pielii",
+        "adio | alo | am plecat | bună | ciao | despărțire | face cu mâna | la revedere | mână | mână fluturată | pa pa | pe mai încolo | salut | sărumâna | semn | servus | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "יד מנופפת: גוון עור בהיר בינוני",
+        "ביי | גוון עור בהיר בינוני | היי | יד | כיף | להתראות | מנופפת | שלום"
+      ],
+      "ar": [
+        "تلويح باليد: بشرة بلون فاتح ومعتدل",
+        "أهلا | إلى اللقاء | انظر إلي | باي | بدي روح | بشرة بلون فاتح ومعتدل | تأشير | ترحيب | تلويح | لاحقًا | مرحبا | هاي | هلا | يد"
+      ],
+      "tr": [
+        "el sallama: orta açık cilt tonu",
+        "bay bay | bye | el | görüşürüz | güle güle | hey | merhaba | orada mısın | orta açık cilt tonu | sallama | sallamak | selam"
+      ],
+      "vi": [
+        "vẫy tay: màu da sáng trung bình",
+        "chào | chào nhé | có ai ở đó không? | đang vẫy | màu da sáng trung bình | tay | vẫy | vẫy tay nè | xin chào"
+      ],
+      "nl": [
+        "zwaaiende hand: lichtgetinte huidskleur",
+        "ben je er | doei | groet | groeten | hallo | hand | is daar iemand | lichtgetinte huidskleur | moet gaan | spreek je later | tot later | tot ziens | ttyl | zwaai | zwaaien | zwaaiende hand"
+      ]
+    }
+  ],
+  "👋🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "waving hand: medium skin tone",
+        "bye | cya | g2g | greetings | gtg | hand | hello | hey | hi | later | medium skin tone | outtie | ttfn | ttyl | wave | yo | you"
+      ],
+      "ru": [
+        "машет рукой: средний тон кожи",
+        "взмах | привет | приветствие | прощание | рука | средний тон кожи"
+      ],
+      "pl": [
+        "machająca dłoń: karnacja średnia",
+        "cześć | dłoń | halo | hej | karnacja średnia | machać | machająca dłoń | pa | papa | powitanie | pożegnanie | ręka | witaj"
+      ],
+      "fr": [
+        "signe de la main : peau légèrement mate",
+        "à bientôt | à plus tard | au revoir | bonjour | bye | coucou | hello | il y a quelqu’un ? | main | main qui salue | peau légèrement mate | salut | signe | signe de la main"
+      ],
+      "de": [
+        "winkende Hand: mittlere Hautfarbe",
+        "auf Wiedersehen | bis später | ciao | guten Tag | hallo | Hand | hey | hi | mittlere Hautfarbe | tschüs | tschüss | winken"
+      ],
+      "es": [
+        "mano saludando: tono de piel medio",
+        "agitar | mano | mano saludando | saludar | saludo | tono de piel medio"
+      ],
+      "pt": [
+        "mão acenando: pele morena",
+        "acenando | aceno | até mais | está aí? | flw | mão | oi | olá | pele morena | taí? | tchau"
+      ],
+      "it": [
+        "mano che saluta: carnagione olivastra",
+        "a dopo | carnagione olivastra | ci sei? | ci vediamo | ciao | ciaone | gesto di saluto | mano | mano aperta | mano che saluta | salutare | schiaffo"
+      ],
+      "ro": [
+        "mână fluturată: ton mediu al pielii",
+        "adio | alo | am plecat | bună | ciao | despărțire | face cu mâna | la revedere | mână | mână fluturată | pa pa | pe mai încolo | salut | sărumâna | semn | servus | ton mediu al pielii"
+      ],
+      "he": [
+        "יד מנופפת: גוון עור בינוני",
+        "ביי | גוון עור בינוני | היי | יד | כיף | להתראות | מנופפת | שלום"
+      ],
+      "ar": [
+        "تلويح باليد: بشرة بلون معتدل",
+        "أهلا | إلى اللقاء | انظر إلي | باي | بدي روح | بشرة بلون معتدل | تأشير | ترحيب | تلويح | لاحقًا | مرحبا | هاي | هلا | يد"
+      ],
+      "tr": [
+        "el sallama: orta cilt tonu",
+        "bay bay | bye | el | görüşürüz | güle güle | hey | merhaba | orada mısın | orta cilt tonu | sallama | sallamak | selam"
+      ],
+      "vi": [
+        "vẫy tay: màu da trung bình",
+        "chào | chào nhé | có ai ở đó không? | đang vẫy | màu da trung bình | tay | vẫy | vẫy tay nè | xin chào"
+      ],
+      "nl": [
+        "zwaaiende hand: getinte huidskleur",
+        "ben je er | doei | getinte huidskleur | groet | groeten | hallo | hand | is daar iemand | moet gaan | spreek je later | tot later | tot ziens | ttyl | zwaai | zwaaien | zwaaiende hand"
+      ]
+    }
+  ],
+  "👋🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "waving hand: medium-dark skin tone",
+        "bye | cya | g2g | greetings | gtg | hand | hello | hey | hi | later | medium-dark skin tone | outtie | ttfn | ttyl | wave | yo | you"
+      ],
+      "ru": [
+        "машет рукой: темный тон кожи",
+        "взмах | привет | приветствие | прощание | рука | темный тон кожи"
+      ],
+      "pl": [
+        "machająca dłoń: karnacja średnio ciemna",
+        "cześć | dłoń | halo | hej | karnacja średnio ciemna | machać | machająca dłoń | pa | papa | powitanie | pożegnanie | ręka | witaj"
+      ],
+      "fr": [
+        "signe de la main : peau mate",
+        "à bientôt | à plus tard | au revoir | bonjour | bye | coucou | hello | il y a quelqu’un ? | main | main qui salue | peau mate | salut | signe | signe de la main"
+      ],
+      "de": [
+        "winkende Hand: mitteldunkle Hautfarbe",
+        "auf Wiedersehen | bis später | ciao | guten Tag | hallo | Hand | hey | hi | mitteldunkle Hautfarbe | tschüs | tschüss | winken"
+      ],
+      "es": [
+        "mano saludando: tono de piel oscuro medio",
+        "agitar | mano | mano saludando | saludar | saludo | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "mão acenando: pele morena escura",
+        "acenando | aceno | até mais | está aí? | flw | mão | oi | olá | pele morena escura | taí? | tchau"
+      ],
+      "it": [
+        "mano che saluta: carnagione abbastanza scura",
+        "a dopo | carnagione abbastanza scura | ci sei? | ci vediamo | ciao | ciaone | gesto di saluto | mano | mano aperta | mano che saluta | salutare | schiaffo"
+      ],
+      "ro": [
+        "mână fluturată: ton semi‑închis al pielii",
+        "adio | alo | am plecat | bună | ciao | despărțire | face cu mâna | la revedere | mână | mână fluturată | pa pa | pe mai încolo | salut | sărumâna | semn | servus | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "יד מנופפת: גוון עור כהה בינוני",
+        "ביי | גוון עור כהה בינוני | היי | יד | כיף | להתראות | מנופפת | שלום"
+      ],
+      "ar": [
+        "تلويح باليد: بشرة بلون معتدل مائل للغامق",
+        "أهلا | إلى اللقاء | انظر إلي | باي | بدي روح | بشرة بلون معتدل مائل للغامق | تأشير | ترحيب | تلويح | لاحقًا | مرحبا | هاي | هلا | يد"
+      ],
+      "tr": [
+        "el sallama: orta koyu cilt tonu",
+        "bay bay | bye | el | görüşürüz | güle güle | hey | merhaba | orada mısın | orta koyu cilt tonu | sallama | sallamak | selam"
+      ],
+      "vi": [
+        "vẫy tay: màu da tối trung bình",
+        "chào | chào nhé | có ai ở đó không? | đang vẫy | màu da tối trung bình | tay | vẫy | vẫy tay nè | xin chào"
+      ],
+      "nl": [
+        "zwaaiende hand: donkergetinte huidskleur",
+        "ben je er | doei | donkergetinte huidskleur | groet | groeten | hallo | hand | is daar iemand | moet gaan | spreek je later | tot later | tot ziens | ttyl | zwaai | zwaaien | zwaaiende hand"
+      ]
+    }
+  ],
+  "👋🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "waving hand: dark skin tone",
+        "bye | cya | dark skin tone | g2g | greetings | gtg | hand | hello | hey | hi | later | outtie | ttfn | ttyl | wave | yo | you"
+      ],
+      "ru": [
+        "машет рукой: очень темный тон кожи",
+        "взмах | очень темный тон кожи | привет | приветствие | прощание | рука"
+      ],
+      "pl": [
+        "machająca dłoń: karnacja ciemna",
+        "cześć | dłoń | halo | hej | karnacja ciemna | machać | machająca dłoń | pa | papa | powitanie | pożegnanie | ręka | witaj"
+      ],
+      "fr": [
+        "signe de la main : peau foncée",
+        "à bientôt | à plus tard | au revoir | bonjour | bye | coucou | hello | il y a quelqu’un ? | main | main qui salue | peau foncée | salut | signe | signe de la main"
+      ],
+      "de": [
+        "winkende Hand: dunkle Hautfarbe",
+        "auf Wiedersehen | bis später | ciao | dunkle Hautfarbe | guten Tag | hallo | Hand | hey | hi | tschüs | tschüss | winken"
+      ],
+      "es": [
+        "mano saludando: tono de piel oscuro",
+        "agitar | mano | mano saludando | saludar | saludo | tono de piel oscuro"
+      ],
+      "pt": [
+        "mão acenando: pele escura",
+        "acenando | aceno | até mais | está aí? | flw | mão | oi | olá | pele escura | taí? | tchau"
+      ],
+      "it": [
+        "mano che saluta: carnagione scura",
+        "a dopo | carnagione scura | ci sei? | ci vediamo | ciao | ciaone | gesto di saluto | mano | mano aperta | mano che saluta | salutare | schiaffo"
+      ],
+      "ro": [
+        "mână fluturată: ton închis al pielii",
+        "adio | alo | am plecat | bună | ciao | despărțire | face cu mâna | la revedere | mână | mână fluturată | pa pa | pe mai încolo | salut | sărumâna | semn | servus | ton închis al pielii"
+      ],
+      "he": [
+        "יד מנופפת: גוון עור כהה",
+        "ביי | גוון עור כהה | היי | יד | כיף | להתראות | מנופפת | שלום"
+      ],
+      "ar": [
+        "تلويح باليد: بشرة بلون غامق",
+        "أهلا | إلى اللقاء | انظر إلي | باي | بدي روح | بشرة بلون غامق | تأشير | ترحيب | تلويح | لاحقًا | مرحبا | هاي | هلا | يد"
+      ],
+      "tr": [
+        "el sallama: koyu cilt tonu",
+        "bay bay | bye | el | görüşürüz | güle güle | hey | koyu cilt tonu | merhaba | orada mısın | sallama | sallamak | selam"
+      ],
+      "vi": [
+        "vẫy tay: màu da tối",
+        "chào | chào nhé | có ai ở đó không? | đang vẫy | màu da tối | tay | vẫy | vẫy tay nè | xin chào"
+      ],
+      "nl": [
+        "zwaaiende hand: donkere huidskleur",
+        "ben je er | doei | donkere huidskleur | groet | groeten | hallo | hand | is daar iemand | moet gaan | spreek je later | tot later | tot ziens | ttyl | zwaai | zwaaien | zwaaiende hand"
+      ]
+    }
+  ],
+  "👌": [
+    "other",
+    "ok hand sign",
+    {
+      "en": [
+        "OK hand",
+        "awesome | bet | dope | fleek | fosho | got | gotcha | hand | legit | OK | okay | pinch | rad | sure | sweet | three"
+      ],
+      "ru": [
+        "жест «все хорошо»",
+        "жест | ок | окей | отлично | рука | хорошо | ясно"
+      ],
+      "pl": [
+        "dłoń z gestem OK",
+        "dłoń | dłoń z gestem OK | dobre | idealnie | ok | okej | potwierdzenie | racja | ręka | super | tak | w porządku | zgoda | znak OK"
+      ],
+      "fr": [
+        "ok",
+        "compris | d’accord | geste | main | nickel | ok | OK | parfait | super | tout va bien"
+      ],
+      "de": [
+        "OK-Zeichen",
+        "exzellent | Finger | genial | Hand | in Ordnung | natürlich | OK | OK-Zeichen | perfekt | super"
+      ],
+      "es": [
+        "señal de aprobación con la mano",
+        "aprobación | mano | ok | señal de aprobación con la mano"
+      ],
+      "pt": [
+        "sinal de ok",
+        "beliscar | certo | concordo | mão | ok | ótimo | rude | sinal | sinalizando"
+      ],
+      "it": [
+        "mano che fa OK",
+        "bene | capito | d’accordo | dito | gesto di ok | ho capito | indice e pollice | mano che fa OK | OK con la mano | segno di OK | va bene"
+      ],
+      "ro": [
+        "semnul ok",
+        "am înțeles | bine | bun | ca lumea | ciupi | ciupitură | de acord | fain | gest | mână | mișto | ok | semnul ok | super"
+      ],
+      "he": [
+        "יד מסמנת שהכל בסדר",
+        "ok | אוקיי | אחלה | אישור | בסדר | הבנתי | יד | מעולה | סבבה | צביטה"
+      ],
+      "ar": [
+        "يد تشير للموافقة",
+        "أوكي | الأشخاص وإيماءات موافقة الرأي | بالضبط | تمام | عظيم | علامة | قرص | قرصة | ممتاز | موافق | موافقة | مية مية | يد | يد تشير للموافقة"
+      ],
+      "tr": [
+        "tamam işareti",
+        "anlaştık | el | harika | işaret | işte bu | mükemmel | müthiş | ok | süper | tam olarak | Tamam | tamamdır"
+      ],
+      "vi": [
+        "bàn tay làm dấu OK",
+        "bàn tay làm dấu OK | chắc chắn rồi | được | ok | OK nha | tay | tuyệt"
+      ],
+      "nl": [
+        "OK-handgebaar",
+        "fantastisch | geweldig | goed | hand | oké | prima | top | vingers"
+      ]
+    }
+  ],
+  "👌🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "OK hand: light skin tone",
+        "awesome | bet | dope | fleek | fosho | got | gotcha | hand | legit | light skin tone | OK | okay | pinch | rad | sure | sweet | three"
+      ],
+      "ru": [
+        "жест «все хорошо»: очень светлый тон кожи",
+        "жест | ок | окей | отлично | очень светлый тон кожи | рука | хорошо | ясно"
+      ],
+      "pl": [
+        "dłoń z gestem OK: karnacja jasna",
+        "dłoń | dłoń z gestem OK | dobre | idealnie | karnacja jasna | ok | okej | potwierdzenie | racja | ręka | super | tak | w porządku | zgoda | znak OK"
+      ],
+      "fr": [
+        "ok : peau claire",
+        "compris | d’accord | geste | main | nickel | ok | OK | parfait | peau claire | super | tout va bien"
+      ],
+      "de": [
+        "OK-Zeichen: helle Hautfarbe",
+        "exzellent | Finger | genial | Hand | helle Hautfarbe | in Ordnung | natürlich | OK | OK-Zeichen | perfekt | super"
+      ],
+      "es": [
+        "señal de aprobación con la mano: tono de piel claro",
+        "aprobación | mano | ok | señal de aprobación con la mano | tono de piel claro"
+      ],
+      "pt": [
+        "sinal de ok: pele clara",
+        "beliscar | certo | concordo | mão | ok | ótimo | pele clara | rude | sinal | sinalizando"
+      ],
+      "it": [
+        "mano che fa OK: carnagione chiara",
+        "bene | capito | carnagione chiara | d’accordo | dito | gesto di ok | ho capito | indice e pollice | mano che fa OK | OK con la mano | segno di OK | va bene"
+      ],
+      "ro": [
+        "semnul ok: ton deschis al pielii",
+        "am înțeles | bine | bun | ca lumea | ciupi | ciupitură | de acord | fain | gest | mână | mișto | ok | semnul ok | super | ton deschis al pielii"
+      ],
+      "he": [
+        "יד מסמנת שהכל בסדר: גוון עור בהיר",
+        "ok | אוקיי | אחלה | אישור | בסדר | גוון עור בהיר | הבנתי | יד | מעולה | סבבה | צביטה"
+      ],
+      "ar": [
+        "يد تشير للموافقة: بشرة بلون فاتح",
+        "أوكي | الأشخاص وإيماءات موافقة الرأي | بالضبط | بشرة بلون فاتح | تمام | عظيم | علامة | قرص | قرصة | ممتاز | موافق | موافقة | مية مية | يد | يد تشير للموافقة"
+      ],
+      "tr": [
+        "tamam işareti: açık cilt tonu",
+        "açık cilt tonu | anlaştık | el | harika | işaret | işte bu | mükemmel | müthiş | ok | süper | tam olarak | Tamam | tamamdır"
+      ],
+      "vi": [
+        "bàn tay làm dấu OK: màu da sáng",
+        "bàn tay làm dấu OK | chắc chắn rồi | được | màu da sáng | ok | OK nha | tay | tuyệt"
+      ],
+      "nl": [
+        "OK-handgebaar: lichte huidskleur",
+        "fantastisch | geweldig | goed | hand | lichte huidskleur | oké | prima | top | vingers"
+      ]
+    }
+  ],
+  "👌🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "OK hand: medium-light skin tone",
+        "awesome | bet | dope | fleek | fosho | got | gotcha | hand | legit | medium-light skin tone | OK | okay | pinch | rad | sure | sweet | three"
+      ],
+      "ru": [
+        "жест «все хорошо»: светлый тон кожи",
+        "жест | ок | окей | отлично | рука | светлый тон кожи | хорошо | ясно"
+      ],
+      "pl": [
+        "dłoń z gestem OK: karnacja średnio jasna",
+        "dłoń | dłoń z gestem OK | dobre | idealnie | karnacja średnio jasna | ok | okej | potwierdzenie | racja | ręka | super | tak | w porządku | zgoda | znak OK"
+      ],
+      "fr": [
+        "ok : peau moyennement claire",
+        "compris | d’accord | geste | main | nickel | ok | OK | parfait | peau moyennement claire | super | tout va bien"
+      ],
+      "de": [
+        "OK-Zeichen: mittelhelle Hautfarbe",
+        "exzellent | Finger | genial | Hand | in Ordnung | mittelhelle Hautfarbe | natürlich | OK | OK-Zeichen | perfekt | super"
+      ],
+      "es": [
+        "señal de aprobación con la mano: tono de piel claro medio",
+        "aprobación | mano | ok | señal de aprobación con la mano | tono de piel claro medio"
+      ],
+      "pt": [
+        "sinal de ok: pele morena clara",
+        "beliscar | certo | concordo | mão | ok | ótimo | pele morena clara | rude | sinal | sinalizando"
+      ],
+      "it": [
+        "mano che fa OK: carnagione abbastanza chiara",
+        "bene | capito | carnagione abbastanza chiara | d’accordo | dito | gesto di ok | ho capito | indice e pollice | mano che fa OK | OK con la mano | segno di OK | va bene"
+      ],
+      "ro": [
+        "semnul ok: ton semi‑deschis al pielii",
+        "am înțeles | bine | bun | ca lumea | ciupi | ciupitură | de acord | fain | gest | mână | mișto | ok | semnul ok | super | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "יד מסמנת שהכל בסדר: גוון עור בהיר בינוני",
+        "ok | אוקיי | אחלה | אישור | בסדר | גוון עור בהיר בינוני | הבנתי | יד | מעולה | סבבה | צביטה"
+      ],
+      "ar": [
+        "يد تشير للموافقة: بشرة بلون فاتح ومعتدل",
+        "أوكي | الأشخاص وإيماءات موافقة الرأي | بالضبط | بشرة بلون فاتح ومعتدل | تمام | عظيم | علامة | قرص | قرصة | ممتاز | موافق | موافقة | مية مية | يد | يد تشير للموافقة"
+      ],
+      "tr": [
+        "tamam işareti: orta açık cilt tonu",
+        "anlaştık | el | harika | işaret | işte bu | mükemmel | müthiş | ok | orta açık cilt tonu | süper | tam olarak | Tamam | tamamdır"
+      ],
+      "vi": [
+        "bàn tay làm dấu OK: màu da sáng trung bình",
+        "bàn tay làm dấu OK | chắc chắn rồi | được | màu da sáng trung bình | ok | OK nha | tay | tuyệt"
+      ],
+      "nl": [
+        "OK-handgebaar: lichtgetinte huidskleur",
+        "fantastisch | geweldig | goed | hand | lichtgetinte huidskleur | oké | prima | top | vingers"
+      ]
+    }
+  ],
+  "👌🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "OK hand: medium skin tone",
+        "awesome | bet | dope | fleek | fosho | got | gotcha | hand | legit | medium skin tone | OK | okay | pinch | rad | sure | sweet | three"
+      ],
+      "ru": [
+        "жест «все хорошо»: средний тон кожи",
+        "жест | ок | окей | отлично | рука | средний тон кожи | хорошо | ясно"
+      ],
+      "pl": [
+        "dłoń z gestem OK: karnacja średnia",
+        "dłoń | dłoń z gestem OK | dobre | idealnie | karnacja średnia | ok | okej | potwierdzenie | racja | ręka | super | tak | w porządku | zgoda | znak OK"
+      ],
+      "fr": [
+        "ok : peau légèrement mate",
+        "compris | d’accord | geste | main | nickel | ok | OK | parfait | peau légèrement mate | super | tout va bien"
+      ],
+      "de": [
+        "OK-Zeichen: mittlere Hautfarbe",
+        "exzellent | Finger | genial | Hand | in Ordnung | mittlere Hautfarbe | natürlich | OK | OK-Zeichen | perfekt | super"
+      ],
+      "es": [
+        "señal de aprobación con la mano: tono de piel medio",
+        "aprobación | mano | ok | señal de aprobación con la mano | tono de piel medio"
+      ],
+      "pt": [
+        "sinal de ok: pele morena",
+        "beliscar | certo | concordo | mão | ok | ótimo | pele morena | rude | sinal | sinalizando"
+      ],
+      "it": [
+        "mano che fa OK: carnagione olivastra",
+        "bene | capito | carnagione olivastra | d’accordo | dito | gesto di ok | ho capito | indice e pollice | mano che fa OK | OK con la mano | segno di OK | va bene"
+      ],
+      "ro": [
+        "semnul ok: ton mediu al pielii",
+        "am înțeles | bine | bun | ca lumea | ciupi | ciupitură | de acord | fain | gest | mână | mișto | ok | semnul ok | super | ton mediu al pielii"
+      ],
+      "he": [
+        "יד מסמנת שהכל בסדר: גוון עור בינוני",
+        "ok | אוקיי | אחלה | אישור | בסדר | גוון עור בינוני | הבנתי | יד | מעולה | סבבה | צביטה"
+      ],
+      "ar": [
+        "يد تشير للموافقة: بشرة بلون معتدل",
+        "أوكي | الأشخاص وإيماءات موافقة الرأي | بالضبط | بشرة بلون معتدل | تمام | عظيم | علامة | قرص | قرصة | ممتاز | موافق | موافقة | مية مية | يد | يد تشير للموافقة"
+      ],
+      "tr": [
+        "tamam işareti: orta cilt tonu",
+        "anlaştık | el | harika | işaret | işte bu | mükemmel | müthiş | ok | orta cilt tonu | süper | tam olarak | Tamam | tamamdır"
+      ],
+      "vi": [
+        "bàn tay làm dấu OK: màu da trung bình",
+        "bàn tay làm dấu OK | chắc chắn rồi | được | màu da trung bình | ok | OK nha | tay | tuyệt"
+      ],
+      "nl": [
+        "OK-handgebaar: getinte huidskleur",
+        "fantastisch | getinte huidskleur | geweldig | goed | hand | oké | prima | top | vingers"
+      ]
+    }
+  ],
+  "👌🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "OK hand: medium-dark skin tone",
+        "awesome | bet | dope | fleek | fosho | got | gotcha | hand | legit | medium-dark skin tone | OK | okay | pinch | rad | sure | sweet | three"
+      ],
+      "ru": [
+        "жест «все хорошо»: темный тон кожи",
+        "жест | ок | окей | отлично | рука | темный тон кожи | хорошо | ясно"
+      ],
+      "pl": [
+        "dłoń z gestem OK: karnacja średnio ciemna",
+        "dłoń | dłoń z gestem OK | dobre | idealnie | karnacja średnio ciemna | ok | okej | potwierdzenie | racja | ręka | super | tak | w porządku | zgoda | znak OK"
+      ],
+      "fr": [
+        "ok : peau mate",
+        "compris | d’accord | geste | main | nickel | ok | OK | parfait | peau mate | super | tout va bien"
+      ],
+      "de": [
+        "OK-Zeichen: mitteldunkle Hautfarbe",
+        "exzellent | Finger | genial | Hand | in Ordnung | mitteldunkle Hautfarbe | natürlich | OK | OK-Zeichen | perfekt | super"
+      ],
+      "es": [
+        "señal de aprobación con la mano: tono de piel oscuro medio",
+        "aprobación | mano | ok | señal de aprobación con la mano | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "sinal de ok: pele morena escura",
+        "beliscar | certo | concordo | mão | ok | ótimo | pele morena escura | rude | sinal | sinalizando"
+      ],
+      "it": [
+        "mano che fa OK: carnagione abbastanza scura",
+        "bene | capito | carnagione abbastanza scura | d’accordo | dito | gesto di ok | ho capito | indice e pollice | mano che fa OK | OK con la mano | segno di OK | va bene"
+      ],
+      "ro": [
+        "semnul ok: ton semi‑închis al pielii",
+        "am înțeles | bine | bun | ca lumea | ciupi | ciupitură | de acord | fain | gest | mână | mișto | ok | semnul ok | super | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "יד מסמנת שהכל בסדר: גוון עור כהה בינוני",
+        "ok | אוקיי | אחלה | אישור | בסדר | גוון עור כהה בינוני | הבנתי | יד | מעולה | סבבה | צביטה"
+      ],
+      "ar": [
+        "يد تشير للموافقة: بشرة بلون معتدل مائل للغامق",
+        "أوكي | الأشخاص وإيماءات موافقة الرأي | بالضبط | بشرة بلون معتدل مائل للغامق | تمام | عظيم | علامة | قرص | قرصة | ممتاز | موافق | موافقة | مية مية | يد | يد تشير للموافقة"
+      ],
+      "tr": [
+        "tamam işareti: orta koyu cilt tonu",
+        "anlaştık | el | harika | işaret | işte bu | mükemmel | müthiş | ok | orta koyu cilt tonu | süper | tam olarak | Tamam | tamamdır"
+      ],
+      "vi": [
+        "bàn tay làm dấu OK: màu da tối trung bình",
+        "bàn tay làm dấu OK | chắc chắn rồi | được | màu da tối trung bình | ok | OK nha | tay | tuyệt"
+      ],
+      "nl": [
+        "OK-handgebaar: donkergetinte huidskleur",
+        "donkergetinte huidskleur | fantastisch | geweldig | goed | hand | oké | prima | top | vingers"
+      ]
+    }
+  ],
+  "👌🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "OK hand: dark skin tone",
+        "awesome | bet | dark skin tone | dope | fleek | fosho | got | gotcha | hand | legit | OK | okay | pinch | rad | sure | sweet | three"
+      ],
+      "ru": [
+        "жест «все хорошо»: очень темный тон кожи",
+        "жест | ок | окей | отлично | очень темный тон кожи | рука | хорошо | ясно"
+      ],
+      "pl": [
+        "dłoń z gestem OK: karnacja ciemna",
+        "dłoń | dłoń z gestem OK | dobre | idealnie | karnacja ciemna | ok | okej | potwierdzenie | racja | ręka | super | tak | w porządku | zgoda | znak OK"
+      ],
+      "fr": [
+        "ok : peau foncée",
+        "compris | d’accord | geste | main | nickel | ok | OK | parfait | peau foncée | super | tout va bien"
+      ],
+      "de": [
+        "OK-Zeichen: dunkle Hautfarbe",
+        "dunkle Hautfarbe | exzellent | Finger | genial | Hand | in Ordnung | natürlich | OK | OK-Zeichen | perfekt | super"
+      ],
+      "es": [
+        "señal de aprobación con la mano: tono de piel oscuro",
+        "aprobación | mano | ok | señal de aprobación con la mano | tono de piel oscuro"
+      ],
+      "pt": [
+        "sinal de ok: pele escura",
+        "beliscar | certo | concordo | mão | ok | ótimo | pele escura | rude | sinal | sinalizando"
+      ],
+      "it": [
+        "mano che fa OK: carnagione scura",
+        "bene | capito | carnagione scura | d’accordo | dito | gesto di ok | ho capito | indice e pollice | mano che fa OK | OK con la mano | segno di OK | va bene"
+      ],
+      "ro": [
+        "semnul ok: ton închis al pielii",
+        "am înțeles | bine | bun | ca lumea | ciupi | ciupitură | de acord | fain | gest | mână | mișto | ok | semnul ok | super | ton închis al pielii"
+      ],
+      "he": [
+        "יד מסמנת שהכל בסדר: גוון עור כהה",
+        "ok | אוקיי | אחלה | אישור | בסדר | גוון עור כהה | הבנתי | יד | מעולה | סבבה | צביטה"
+      ],
+      "ar": [
+        "يد تشير للموافقة: بشرة بلون غامق",
+        "أوكي | الأشخاص وإيماءات موافقة الرأي | بالضبط | بشرة بلون غامق | تمام | عظيم | علامة | قرص | قرصة | ممتاز | موافق | موافقة | مية مية | يد | يد تشير للموافقة"
+      ],
+      "tr": [
+        "tamam işareti: koyu cilt tonu",
+        "anlaştık | el | harika | işaret | işte bu | koyu cilt tonu | mükemmel | müthiş | ok | süper | tam olarak | Tamam | tamamdır"
+      ],
+      "vi": [
+        "bàn tay làm dấu OK: màu da tối",
+        "bàn tay làm dấu OK | chắc chắn rồi | được | màu da tối | ok | OK nha | tay | tuyệt"
+      ],
+      "nl": [
+        "OK-handgebaar: donkere huidskleur",
+        "donkere huidskleur | fantastisch | geweldig | goed | hand | oké | prima | top | vingers"
+      ]
+    }
+  ],
+  "👍": [
+    "other",
+    "thumbs up sign",
+    {
+      "en": ["thumbs up", "+1 | good | hand | like | thumb | up | yes"],
+      "ru": [
+        "большой палец вверх",
+        "вверх | договорились | жест | лайк | нравится | одобрение | отлично | палец | рука | супер | хорошо"
+      ],
+      "pl": [
+        "kciuk w górę",
+        "brawo | kciuk | kciuk w górę | lubię | lubię to | OK | okej | podoba mi się | ręka | tak | w porządku | zgoda"
+      ],
+      "fr": [
+        "pouce vers le haut",
+        "bien | compris | d’accord | génial | haut | main | moi aussi | OK | oui | pouce levé | pouce vers le haut | super | top"
+      ],
+      "de": [
+        "Daumen hoch",
+        "Daumen | Daumen hoch | einverstanden | Finger | gut | Hand | in Ordnung | jawohl | klar | klasse | like | nach oben | ok | super | top"
+      ],
+      "es": [
+        "pulgar hacia arriba",
+        "arriba | mano | pulgar | pulgar hacia arriba | señal"
+      ],
+      "pt": [
+        "polegar para cima",
+        "beleza | cima | concordo | dedão | joia | mão | ok | polegar | sim | sinal | valeu"
+      ],
+      "it": [
+        "pollice in su",
+        "+1 | bene | capito | certo | d’accordo | dito | mi piace | ok | perfetto | pollice in su | sì | va bene"
+      ],
+      "ro": [
+        "semn de aprobare",
+        "+1 | am înțeles | apreciere | aprobare | bine | bun | da | de acord | deget | fain | like | mână | mișto | ok | pozitiv | semn de aprobare | super"
+      ],
+      "he": [
+        "אגודל למעלה",
+        "אגודל | אהבתי | אישור | טוב | כן | לייק | למעלה | מעולה | מצוין | סבבה"
+      ],
+      "ar": [
+        "قبول",
+        "أعلى | أوكي | إبهام | إشارة | إصبع | الأشخاص والإبهام لأعلى | تمام | حلو | عظيم | علامة | قبول | كده | موافق | مية مية | نعم | يد"
+      ],
+      "tr": [
+        "baş parmak yukarıda",
+        "+1 | anlaştık | beğendim | bence de | el | iyi | onay | tamam"
+      ],
+      "vi": [
+        "dấu ra hiệu đồng ý",
+        "+1 | dấu ra hiệu đồng ý | lên | ngón tay cái | tay"
+      ],
+      "nl": ["duim omhoog", "+1 | duim | goed | hand | ja | leuk | omhoog"]
+    }
+  ],
+  "👍🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs up: light skin tone",
+        "+1 | good | hand | light skin tone | like | thumb | up | yes"
+      ],
+      "ru": [
+        "большой палец вверх: очень светлый тон кожи",
+        "вверх | договорились | жест | лайк | нравится | одобрение | отлично | очень светлый тон кожи | палец | рука | супер | хорошо"
+      ],
+      "pl": [
+        "kciuk w górę: karnacja jasna",
+        "brawo | karnacja jasna | kciuk | kciuk w górę | lubię | lubię to | OK | okej | podoba mi się | ręka | tak | w porządku | zgoda"
+      ],
+      "fr": [
+        "pouce vers le haut : peau claire",
+        "bien | compris | d’accord | génial | haut | main | moi aussi | OK | oui | peau claire | pouce levé | pouce vers le haut | super | top"
+      ],
+      "de": [
+        "Daumen hoch: helle Hautfarbe",
+        "Daumen | Daumen hoch | einverstanden | Finger | gut | Hand | helle Hautfarbe | in Ordnung | jawohl | klar | klasse | like | nach oben | ok | super | top"
+      ],
+      "es": [
+        "pulgar hacia arriba: tono de piel claro",
+        "arriba | mano | pulgar | pulgar hacia arriba | señal | tono de piel claro"
+      ],
+      "pt": [
+        "polegar para cima: pele clara",
+        "beleza | cima | concordo | dedão | joia | mão | ok | pele clara | polegar | sim | sinal | valeu"
+      ],
+      "it": [
+        "pollice in su: carnagione chiara",
+        "+1 | bene | capito | carnagione chiara | certo | d’accordo | dito | mi piace | ok | perfetto | pollice in su | sì | va bene"
+      ],
+      "ro": [
+        "semn de aprobare: ton deschis al pielii",
+        "+1 | am înțeles | apreciere | aprobare | bine | bun | da | de acord | deget | fain | like | mână | mișto | ok | pozitiv | semn de aprobare | super | ton deschis al pielii"
+      ],
+      "he": [
+        "אגודל למעלה: גוון עור בהיר",
+        "אגודל | אהבתי | אישור | גוון עור בהיר | טוב | כן | לייק | למעלה | מעולה | מצוין | סבבה"
+      ],
+      "ar": [
+        "قبول: بشرة بلون فاتح",
+        "أعلى | أوكي | إبهام | إشارة | إصبع | الأشخاص والإبهام لأعلى | بشرة بلون فاتح | تمام | حلو | عظيم | علامة | قبول | كده | موافق | مية مية | نعم | يد"
+      ],
+      "tr": [
+        "baş parmak yukarıda: açık cilt tonu",
+        "+1 | açık cilt tonu | anlaştık | beğendim | bence de | el | iyi | onay | tamam"
+      ],
+      "vi": [
+        "dấu ra hiệu đồng ý: màu da sáng",
+        "+1 | dấu ra hiệu đồng ý | lên | màu da sáng | ngón tay cái | tay"
+      ],
+      "nl": [
+        "duim omhoog: lichte huidskleur",
+        "+1 | duim | goed | hand | ja | leuk | lichte huidskleur | omhoog"
+      ]
+    }
+  ],
+  "👍🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs up: medium-light skin tone",
+        "+1 | good | hand | like | medium-light skin tone | thumb | up | yes"
+      ],
+      "ru": [
+        "большой палец вверх: светлый тон кожи",
+        "вверх | договорились | жест | лайк | нравится | одобрение | отлично | палец | рука | светлый тон кожи | супер | хорошо"
+      ],
+      "pl": [
+        "kciuk w górę: karnacja średnio jasna",
+        "brawo | karnacja średnio jasna | kciuk | kciuk w górę | lubię | lubię to | OK | okej | podoba mi się | ręka | tak | w porządku | zgoda"
+      ],
+      "fr": [
+        "pouce vers le haut : peau moyennement claire",
+        "bien | compris | d’accord | génial | haut | main | moi aussi | OK | oui | peau moyennement claire | pouce levé | pouce vers le haut | super | top"
+      ],
+      "de": [
+        "Daumen hoch: mittelhelle Hautfarbe",
+        "Daumen | Daumen hoch | einverstanden | Finger | gut | Hand | in Ordnung | jawohl | klar | klasse | like | mittelhelle Hautfarbe | nach oben | ok | super | top"
+      ],
+      "es": [
+        "pulgar hacia arriba: tono de piel claro medio",
+        "arriba | mano | pulgar | pulgar hacia arriba | señal | tono de piel claro medio"
+      ],
+      "pt": [
+        "polegar para cima: pele morena clara",
+        "beleza | cima | concordo | dedão | joia | mão | ok | pele morena clara | polegar | sim | sinal | valeu"
+      ],
+      "it": [
+        "pollice in su: carnagione abbastanza chiara",
+        "+1 | bene | capito | carnagione abbastanza chiara | certo | d’accordo | dito | mi piace | ok | perfetto | pollice in su | sì | va bene"
+      ],
+      "ro": [
+        "semn de aprobare: ton semi‑deschis al pielii",
+        "+1 | am înțeles | apreciere | aprobare | bine | bun | da | de acord | deget | fain | like | mână | mișto | ok | pozitiv | semn de aprobare | super | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אגודל למעלה: גוון עור בהיר בינוני",
+        "אגודל | אהבתי | אישור | גוון עור בהיר בינוני | טוב | כן | לייק | למעלה | מעולה | מצוין | סבבה"
+      ],
+      "ar": [
+        "قبول: بشرة بلون فاتح ومعتدل",
+        "أعلى | أوكي | إبهام | إشارة | إصبع | الأشخاص والإبهام لأعلى | بشرة بلون فاتح ومعتدل | تمام | حلو | عظيم | علامة | قبول | كده | موافق | مية مية | نعم | يد"
+      ],
+      "tr": [
+        "baş parmak yukarıda: orta açık cilt tonu",
+        "+1 | anlaştık | beğendim | bence de | el | iyi | onay | orta açık cilt tonu | tamam"
+      ],
+      "vi": [
+        "dấu ra hiệu đồng ý: màu da sáng trung bình",
+        "+1 | dấu ra hiệu đồng ý | lên | màu da sáng trung bình | ngón tay cái | tay"
+      ],
+      "nl": [
+        "duim omhoog: lichtgetinte huidskleur",
+        "+1 | duim | goed | hand | ja | leuk | lichtgetinte huidskleur | omhoog"
+      ]
+    }
+  ],
+  "👍🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs up: medium skin tone",
+        "+1 | good | hand | like | medium skin tone | thumb | up | yes"
+      ],
+      "ru": [
+        "большой палец вверх: средний тон кожи",
+        "вверх | договорились | жест | лайк | нравится | одобрение | отлично | палец | рука | средний тон кожи | супер | хорошо"
+      ],
+      "pl": [
+        "kciuk w górę: karnacja średnia",
+        "brawo | karnacja średnia | kciuk | kciuk w górę | lubię | lubię to | OK | okej | podoba mi się | ręka | tak | w porządku | zgoda"
+      ],
+      "fr": [
+        "pouce vers le haut : peau légèrement mate",
+        "bien | compris | d’accord | génial | haut | main | moi aussi | OK | oui | peau légèrement mate | pouce levé | pouce vers le haut | super | top"
+      ],
+      "de": [
+        "Daumen hoch: mittlere Hautfarbe",
+        "Daumen | Daumen hoch | einverstanden | Finger | gut | Hand | in Ordnung | jawohl | klar | klasse | like | mittlere Hautfarbe | nach oben | ok | super | top"
+      ],
+      "es": [
+        "pulgar hacia arriba: tono de piel medio",
+        "arriba | mano | pulgar | pulgar hacia arriba | señal | tono de piel medio"
+      ],
+      "pt": [
+        "polegar para cima: pele morena",
+        "beleza | cima | concordo | dedão | joia | mão | ok | pele morena | polegar | sim | sinal | valeu"
+      ],
+      "it": [
+        "pollice in su: carnagione olivastra",
+        "+1 | bene | capito | carnagione olivastra | certo | d’accordo | dito | mi piace | ok | perfetto | pollice in su | sì | va bene"
+      ],
+      "ro": [
+        "semn de aprobare: ton mediu al pielii",
+        "+1 | am înțeles | apreciere | aprobare | bine | bun | da | de acord | deget | fain | like | mână | mișto | ok | pozitiv | semn de aprobare | super | ton mediu al pielii"
+      ],
+      "he": [
+        "אגודל למעלה: גוון עור בינוני",
+        "אגודל | אהבתי | אישור | גוון עור בינוני | טוב | כן | לייק | למעלה | מעולה | מצוין | סבבה"
+      ],
+      "ar": [
+        "قبول: بشرة بلون معتدل",
+        "أعلى | أوكي | إبهام | إشارة | إصبع | الأشخاص والإبهام لأعلى | بشرة بلون معتدل | تمام | حلو | عظيم | علامة | قبول | كده | موافق | مية مية | نعم | يد"
+      ],
+      "tr": [
+        "baş parmak yukarıda: orta cilt tonu",
+        "+1 | anlaştık | beğendim | bence de | el | iyi | onay | orta cilt tonu | tamam"
+      ],
+      "vi": [
+        "dấu ra hiệu đồng ý: màu da trung bình",
+        "+1 | dấu ra hiệu đồng ý | lên | màu da trung bình | ngón tay cái | tay"
+      ],
+      "nl": [
+        "duim omhoog: getinte huidskleur",
+        "+1 | duim | getinte huidskleur | goed | hand | ja | leuk | omhoog"
+      ]
+    }
+  ],
+  "👍🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs up: medium-dark skin tone",
+        "+1 | good | hand | like | medium-dark skin tone | thumb | up | yes"
+      ],
+      "ru": [
+        "большой палец вверх: темный тон кожи",
+        "вверх | договорились | жест | лайк | нравится | одобрение | отлично | палец | рука | супер | темный тон кожи | хорошо"
+      ],
+      "pl": [
+        "kciuk w górę: karnacja średnio ciemna",
+        "brawo | karnacja średnio ciemna | kciuk | kciuk w górę | lubię | lubię to | OK | okej | podoba mi się | ręka | tak | w porządku | zgoda"
+      ],
+      "fr": [
+        "pouce vers le haut : peau mate",
+        "bien | compris | d’accord | génial | haut | main | moi aussi | OK | oui | peau mate | pouce levé | pouce vers le haut | super | top"
+      ],
+      "de": [
+        "Daumen hoch: mitteldunkle Hautfarbe",
+        "Daumen | Daumen hoch | einverstanden | Finger | gut | Hand | in Ordnung | jawohl | klar | klasse | like | mitteldunkle Hautfarbe | nach oben | ok | super | top"
+      ],
+      "es": [
+        "pulgar hacia arriba: tono de piel oscuro medio",
+        "arriba | mano | pulgar | pulgar hacia arriba | señal | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "polegar para cima: pele morena escura",
+        "beleza | cima | concordo | dedão | joia | mão | ok | pele morena escura | polegar | sim | sinal | valeu"
+      ],
+      "it": [
+        "pollice in su: carnagione abbastanza scura",
+        "+1 | bene | capito | carnagione abbastanza scura | certo | d’accordo | dito | mi piace | ok | perfetto | pollice in su | sì | va bene"
+      ],
+      "ro": [
+        "semn de aprobare: ton semi‑închis al pielii",
+        "+1 | am înțeles | apreciere | aprobare | bine | bun | da | de acord | deget | fain | like | mână | mișto | ok | pozitiv | semn de aprobare | super | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אגודל למעלה: גוון עור כהה בינוני",
+        "אגודל | אהבתי | אישור | גוון עור כהה בינוני | טוב | כן | לייק | למעלה | מעולה | מצוין | סבבה"
+      ],
+      "ar": [
+        "قبول: بشرة بلون معتدل مائل للغامق",
+        "أعلى | أوكي | إبهام | إشارة | إصبع | الأشخاص والإبهام لأعلى | بشرة بلون معتدل مائل للغامق | تمام | حلو | عظيم | علامة | قبول | كده | موافق | مية مية | نعم | يد"
+      ],
+      "tr": [
+        "baş parmak yukarıda: orta koyu cilt tonu",
+        "+1 | anlaştık | beğendim | bence de | el | iyi | onay | orta koyu cilt tonu | tamam"
+      ],
+      "vi": [
+        "dấu ra hiệu đồng ý: màu da tối trung bình",
+        "+1 | dấu ra hiệu đồng ý | lên | màu da tối trung bình | ngón tay cái | tay"
+      ],
+      "nl": [
+        "duim omhoog: donkergetinte huidskleur",
+        "+1 | donkergetinte huidskleur | duim | goed | hand | ja | leuk | omhoog"
+      ]
+    }
+  ],
+  "👍🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs up: dark skin tone",
+        "+1 | dark skin tone | good | hand | like | thumb | up | yes"
+      ],
+      "ru": [
+        "большой палец вверх: очень темный тон кожи",
+        "вверх | договорились | жест | лайк | нравится | одобрение | отлично | очень темный тон кожи | палец | рука | супер | хорошо"
+      ],
+      "pl": [
+        "kciuk w górę: karnacja ciemna",
+        "brawo | karnacja ciemna | kciuk | kciuk w górę | lubię | lubię to | OK | okej | podoba mi się | ręka | tak | w porządku | zgoda"
+      ],
+      "fr": [
+        "pouce vers le haut : peau foncée",
+        "bien | compris | d’accord | génial | haut | main | moi aussi | OK | oui | peau foncée | pouce levé | pouce vers le haut | super | top"
+      ],
+      "de": [
+        "Daumen hoch: dunkle Hautfarbe",
+        "Daumen | Daumen hoch | dunkle Hautfarbe | einverstanden | Finger | gut | Hand | in Ordnung | jawohl | klar | klasse | like | nach oben | ok | super | top"
+      ],
+      "es": [
+        "pulgar hacia arriba: tono de piel oscuro",
+        "arriba | mano | pulgar | pulgar hacia arriba | señal | tono de piel oscuro"
+      ],
+      "pt": [
+        "polegar para cima: pele escura",
+        "beleza | cima | concordo | dedão | joia | mão | ok | pele escura | polegar | sim | sinal | valeu"
+      ],
+      "it": [
+        "pollice in su: carnagione scura",
+        "+1 | bene | capito | carnagione scura | certo | d’accordo | dito | mi piace | ok | perfetto | pollice in su | sì | va bene"
+      ],
+      "ro": [
+        "semn de aprobare: ton închis al pielii",
+        "+1 | am înțeles | apreciere | aprobare | bine | bun | da | de acord | deget | fain | like | mână | mișto | ok | pozitiv | semn de aprobare | super | ton închis al pielii"
+      ],
+      "he": [
+        "אגודל למעלה: גוון עור כהה",
+        "אגודל | אהבתי | אישור | גוון עור כהה | טוב | כן | לייק | למעלה | מעולה | מצוין | סבבה"
+      ],
+      "ar": [
+        "قبول: بشرة بلون غامق",
+        "أعلى | أوكي | إبهام | إشارة | إصبع | الأشخاص والإبهام لأعلى | بشرة بلون غامق | تمام | حلو | عظيم | علامة | قبول | كده | موافق | مية مية | نعم | يد"
+      ],
+      "tr": [
+        "baş parmak yukarıda: koyu cilt tonu",
+        "+1 | anlaştık | beğendim | bence de | el | iyi | koyu cilt tonu | onay | tamam"
+      ],
+      "vi": [
+        "dấu ra hiệu đồng ý: màu da tối",
+        "+1 | dấu ra hiệu đồng ý | lên | màu da tối | ngón tay cái | tay"
+      ],
+      "nl": [
+        "duim omhoog: donkere huidskleur",
+        "+1 | donkere huidskleur | duim | goed | hand | ja | leuk | omhoog"
+      ]
+    }
+  ],
+  "👎": [
+    "other",
+    "thumbs down sign",
+    {
+      "en": [
+        "thumbs down",
+        "-1 | bad | dislike | down | good | hand | no | nope | thumb | thumbs"
+      ],
+      "ru": [
+        "большой палец вниз",
+        "бу | вниз | недоволен | недовольна | нет | палец | плохо | порицание | рука | фу"
+      ],
+      "pl": [
+        "kciuk w dół",
+        "brzydkie | kciuk w dół | nie | nie lubię | nie podoba mi się | ręka"
+      ],
+      "fr": [
+        "pouce vers le bas",
+        "bas | main | mauvais | non | nul | pouce | pouce baissé | pouce vers le bas"
+      ],
+      "de": [
+        "Daumen runter",
+        "Daumen | Daumen runter | Hand | nach unten | schlecht"
+      ],
+      "es": [
+        "pulgar hacia abajo",
+        "abajo | mano | pulgar | pulgar hacia abajo | señal"
+      ],
+      "pt": [
+        "polegar para baixo",
+        "dedão | dedão para baixo | desaprovação | desaprovado | mão | não | não gostei | para baixo | polegar para baixo | ruim | sinal"
+      ],
+      "it": [
+        "pollice verso",
+        "giù | in basso | mano | no | non mi piace | pollice | pollice abbassato | pollice in giù | pollice verso | segno"
+      ],
+      "ro": [
+        "semn de dezaprobare",
+        "-1 | așa nu | deget | degetul mare | dezaprobare | jos | mână | negativ | nu | nu e bine | prost | rău | semn de dezaprobare"
+      ],
+      "he": [
+        "אגודל למטה",
+        "אגודל למטה | בוז | לא אהבתי | לא טוב | למטה | ממש לא | נגד | רע"
+      ],
+      "ar": [
+        "رفض",
+        "آفاا | أسفل | إبهام | رفض | سيئ | علامة | كلا | لا | لا يعجبني | ما يعجبني | مش منيح | يد"
+      ],
+      "tr": [
+        "baş parmak aşağıda",
+        "aşağı | baş parmak | baş parmak aşağıda | el | işaret"
+      ],
+      "vi": [
+        "dấu ra hiệu từ chối",
+        "-1 | dấu ra hiệu từ chối | không thích | ngón tay cái | tay | xuống"
+      ],
+      "nl": [
+        "duim omlaag",
+        "-1 | duim | fout | hand | lichaam | niet goed | niet leuk | omlaag | slecht | stom"
+      ]
+    }
+  ],
+  "👎🏻": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs down: light skin tone",
+        "-1 | bad | dislike | down | good | hand | light skin tone | no | nope | thumb | thumbs"
+      ],
+      "ru": [
+        "большой палец вниз: очень светлый тон кожи",
+        "бу | вниз | недоволен | недовольна | нет | очень светлый тон кожи | палец | плохо | порицание | рука | фу"
+      ],
+      "pl": [
+        "kciuk w dół: karnacja jasna",
+        "brzydkie | karnacja jasna | kciuk w dół | nie | nie lubię | nie podoba mi się | ręka"
+      ],
+      "fr": [
+        "pouce vers le bas : peau claire",
+        "bas | main | mauvais | non | nul | peau claire | pouce | pouce baissé | pouce vers le bas"
+      ],
+      "de": [
+        "Daumen runter: helle Hautfarbe",
+        "Daumen | Daumen runter | Hand | helle Hautfarbe | nach unten | schlecht"
+      ],
+      "es": [
+        "pulgar hacia abajo: tono de piel claro",
+        "abajo | mano | pulgar | pulgar hacia abajo | señal | tono de piel claro"
+      ],
+      "pt": [
+        "polegar para baixo: pele clara",
+        "dedão | dedão para baixo | desaprovação | desaprovado | mão | não | não gostei | para baixo | pele clara | polegar para baixo | ruim | sinal"
+      ],
+      "it": [
+        "pollice verso: carnagione chiara",
+        "carnagione chiara | giù | in basso | mano | no | non mi piace | pollice | pollice abbassato | pollice in giù | pollice verso | segno"
+      ],
+      "ro": [
+        "semn de dezaprobare: ton deschis al pielii",
+        "-1 | așa nu | deget | degetul mare | dezaprobare | jos | mână | negativ | nu | nu e bine | prost | rău | semn de dezaprobare | ton deschis al pielii"
+      ],
+      "he": [
+        "אגודל למטה: גוון עור בהיר",
+        "אגודל למטה | בוז | גוון עור בהיר | לא אהבתי | לא טוב | למטה | ממש לא | נגד | רע"
+      ],
+      "ar": [
+        "رفض: بشرة بلون فاتح",
+        "آفاا | أسفل | إبهام | بشرة بلون فاتح | رفض | سيئ | علامة | كلا | لا | لا يعجبني | ما يعجبني | مش منيح | يد"
+      ],
+      "tr": [
+        "baş parmak aşağıda: açık cilt tonu",
+        "açık cilt tonu | aşağı | baş parmak | baş parmak aşağıda | el | işaret"
+      ],
+      "vi": [
+        "dấu ra hiệu từ chối: màu da sáng",
+        "-1 | dấu ra hiệu từ chối | không thích | màu da sáng | ngón tay cái | tay | xuống"
+      ],
+      "nl": [
+        "duim omlaag: lichte huidskleur",
+        "-1 | duim | fout | hand | lichaam | lichte huidskleur | niet goed | niet leuk | omlaag | slecht | stom"
+      ]
+    }
+  ],
+  "👎🏼": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs down: medium-light skin tone",
+        "-1 | bad | dislike | down | good | hand | medium-light skin tone | no | nope | thumb | thumbs"
+      ],
+      "ru": [
+        "большой палец вниз: светлый тон кожи",
+        "бу | вниз | недоволен | недовольна | нет | палец | плохо | порицание | рука | светлый тон кожи | фу"
+      ],
+      "pl": [
+        "kciuk w dół: karnacja średnio jasna",
+        "brzydkie | karnacja średnio jasna | kciuk w dół | nie | nie lubię | nie podoba mi się | ręka"
+      ],
+      "fr": [
+        "pouce vers le bas : peau moyennement claire",
+        "bas | main | mauvais | non | nul | peau moyennement claire | pouce | pouce baissé | pouce vers le bas"
+      ],
+      "de": [
+        "Daumen runter: mittelhelle Hautfarbe",
+        "Daumen | Daumen runter | Hand | mittelhelle Hautfarbe | nach unten | schlecht"
+      ],
+      "es": [
+        "pulgar hacia abajo: tono de piel claro medio",
+        "abajo | mano | pulgar | pulgar hacia abajo | señal | tono de piel claro medio"
+      ],
+      "pt": [
+        "polegar para baixo: pele morena clara",
+        "dedão | dedão para baixo | desaprovação | desaprovado | mão | não | não gostei | para baixo | pele morena clara | polegar para baixo | ruim | sinal"
+      ],
+      "it": [
+        "pollice verso: carnagione abbastanza chiara",
+        "carnagione abbastanza chiara | giù | in basso | mano | no | non mi piace | pollice | pollice abbassato | pollice in giù | pollice verso | segno"
+      ],
+      "ro": [
+        "semn de dezaprobare: ton semi‑deschis al pielii",
+        "-1 | așa nu | deget | degetul mare | dezaprobare | jos | mână | negativ | nu | nu e bine | prost | rău | semn de dezaprobare | ton semi‑deschis al pielii"
+      ],
+      "he": [
+        "אגודל למטה: גוון עור בהיר בינוני",
+        "אגודל למטה | בוז | גוון עור בהיר בינוני | לא אהבתי | לא טוב | למטה | ממש לא | נגד | רע"
+      ],
+      "ar": [
+        "رفض: بشرة بلون فاتح ومعتدل",
+        "آفاا | أسفل | إبهام | بشرة بلون فاتح ومعتدل | رفض | سيئ | علامة | كلا | لا | لا يعجبني | ما يعجبني | مش منيح | يد"
+      ],
+      "tr": [
+        "baş parmak aşağıda: orta açık cilt tonu",
+        "aşağı | baş parmak | baş parmak aşağıda | el | işaret | orta açık cilt tonu"
+      ],
+      "vi": [
+        "dấu ra hiệu từ chối: màu da sáng trung bình",
+        "-1 | dấu ra hiệu từ chối | không thích | màu da sáng trung bình | ngón tay cái | tay | xuống"
+      ],
+      "nl": [
+        "duim omlaag: lichtgetinte huidskleur",
+        "-1 | duim | fout | hand | lichaam | lichtgetinte huidskleur | niet goed | niet leuk | omlaag | slecht | stom"
+      ]
+    }
+  ],
+  "👎🏽": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs down: medium skin tone",
+        "-1 | bad | dislike | down | good | hand | medium skin tone | no | nope | thumb | thumbs"
+      ],
+      "ru": [
+        "большой палец вниз: средний тон кожи",
+        "бу | вниз | недоволен | недовольна | нет | палец | плохо | порицание | рука | средний тон кожи | фу"
+      ],
+      "pl": [
+        "kciuk w dół: karnacja średnia",
+        "brzydkie | karnacja średnia | kciuk w dół | nie | nie lubię | nie podoba mi się | ręka"
+      ],
+      "fr": [
+        "pouce vers le bas : peau légèrement mate",
+        "bas | main | mauvais | non | nul | peau légèrement mate | pouce | pouce baissé | pouce vers le bas"
+      ],
+      "de": [
+        "Daumen runter: mittlere Hautfarbe",
+        "Daumen | Daumen runter | Hand | mittlere Hautfarbe | nach unten | schlecht"
+      ],
+      "es": [
+        "pulgar hacia abajo: tono de piel medio",
+        "abajo | mano | pulgar | pulgar hacia abajo | señal | tono de piel medio"
+      ],
+      "pt": [
+        "polegar para baixo: pele morena",
+        "dedão | dedão para baixo | desaprovação | desaprovado | mão | não | não gostei | para baixo | pele morena | polegar para baixo | ruim | sinal"
+      ],
+      "it": [
+        "pollice verso: carnagione olivastra",
+        "carnagione olivastra | giù | in basso | mano | no | non mi piace | pollice | pollice abbassato | pollice in giù | pollice verso | segno"
+      ],
+      "ro": [
+        "semn de dezaprobare: ton mediu al pielii",
+        "-1 | așa nu | deget | degetul mare | dezaprobare | jos | mână | negativ | nu | nu e bine | prost | rău | semn de dezaprobare | ton mediu al pielii"
+      ],
+      "he": [
+        "אגודל למטה: גוון עור בינוני",
+        "אגודל למטה | בוז | גוון עור בינוני | לא אהבתי | לא טוב | למטה | ממש לא | נגד | רע"
+      ],
+      "ar": [
+        "رفض: بشرة بلون معتدل",
+        "آفاا | أسفل | إبهام | بشرة بلون معتدل | رفض | سيئ | علامة | كلا | لا | لا يعجبني | ما يعجبني | مش منيح | يد"
+      ],
+      "tr": [
+        "baş parmak aşağıda: orta cilt tonu",
+        "aşağı | baş parmak | baş parmak aşağıda | el | işaret | orta cilt tonu"
+      ],
+      "vi": [
+        "dấu ra hiệu từ chối: màu da trung bình",
+        "-1 | dấu ra hiệu từ chối | không thích | màu da trung bình | ngón tay cái | tay | xuống"
+      ],
+      "nl": [
+        "duim omlaag: getinte huidskleur",
+        "-1 | duim | fout | getinte huidskleur | hand | lichaam | niet goed | niet leuk | omlaag | slecht | stom"
+      ]
+    }
+  ],
+  "👎🏾": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs down: medium-dark skin tone",
+        "-1 | bad | dislike | down | good | hand | medium-dark skin tone | no | nope | thumb | thumbs"
+      ],
+      "ru": [
+        "большой палец вниз: темный тон кожи",
+        "бу | вниз | недоволен | недовольна | нет | палец | плохо | порицание | рука | темный тон кожи | фу"
+      ],
+      "pl": [
+        "kciuk w dół: karnacja średnio ciemna",
+        "brzydkie | karnacja średnio ciemna | kciuk w dół | nie | nie lubię | nie podoba mi się | ręka"
+      ],
+      "fr": [
+        "pouce vers le bas : peau mate",
+        "bas | main | mauvais | non | nul | peau mate | pouce | pouce baissé | pouce vers le bas"
+      ],
+      "de": [
+        "Daumen runter: mitteldunkle Hautfarbe",
+        "Daumen | Daumen runter | Hand | mitteldunkle Hautfarbe | nach unten | schlecht"
+      ],
+      "es": [
+        "pulgar hacia abajo: tono de piel oscuro medio",
+        "abajo | mano | pulgar | pulgar hacia abajo | señal | tono de piel oscuro medio"
+      ],
+      "pt": [
+        "polegar para baixo: pele morena escura",
+        "dedão | dedão para baixo | desaprovação | desaprovado | mão | não | não gostei | para baixo | pele morena escura | polegar para baixo | ruim | sinal"
+      ],
+      "it": [
+        "pollice verso: carnagione abbastanza scura",
+        "carnagione abbastanza scura | giù | in basso | mano | no | non mi piace | pollice | pollice abbassato | pollice in giù | pollice verso | segno"
+      ],
+      "ro": [
+        "semn de dezaprobare: ton semi‑închis al pielii",
+        "-1 | așa nu | deget | degetul mare | dezaprobare | jos | mână | negativ | nu | nu e bine | prost | rău | semn de dezaprobare | ton semi‑închis al pielii"
+      ],
+      "he": [
+        "אגודל למטה: גוון עור כהה בינוני",
+        "אגודל למטה | בוז | גוון עור כהה בינוני | לא אהבתי | לא טוב | למטה | ממש לא | נגד | רע"
+      ],
+      "ar": [
+        "رفض: بشرة بلون معتدل مائل للغامق",
+        "آفاا | أسفل | إبهام | بشرة بلون معتدل مائل للغامق | رفض | سيئ | علامة | كلا | لا | لا يعجبني | ما يعجبني | مش منيح | يد"
+      ],
+      "tr": [
+        "baş parmak aşağıda: orta koyu cilt tonu",
+        "aşağı | baş parmak | baş parmak aşağıda | el | işaret | orta koyu cilt tonu"
+      ],
+      "vi": [
+        "dấu ra hiệu từ chối: màu da tối trung bình",
+        "-1 | dấu ra hiệu từ chối | không thích | màu da tối trung bình | ngón tay cái | tay | xuống"
+      ],
+      "nl": [
+        "duim omlaag: donkergetinte huidskleur",
+        "-1 | donkergetinte huidskleur | duim | fout | hand | lichaam | niet goed | niet leuk | omlaag | slecht | stom"
+      ]
+    }
+  ],
+  "👎🏿": [
+    "other",
+    "",
+    {
+      "en": [
+        "thumbs down: dark skin tone",
+        "-1 | bad | dark skin tone | dislike | down | good | hand | no | nope | thumb | thumbs"
+      ],
+      "ru": [
+        "большой палец вниз: очень темный тон кожи",
+        "бу | вниз | недоволен | недовольна | нет | очень темный тон кожи | палец | плохо | порицание | рука | фу"
+      ],
+      "pl": [
+        "kciuk w dół: karnacja ciemna",
+        "brzydkie | karnacja ciemna | kciuk w dół | nie | nie lubię | nie podoba mi się | ręka"
+      ],
+      "fr": [
+        "pouce vers le bas : peau foncée",
+        "bas | main | mauvais | non | nul | peau foncée | pouce | pouce baissé | pouce vers le bas"
+      ],
+      "de": [
+        "Daumen runter: dunkle Hautfarbe",
+        "Daumen | Daumen runter | dunkle Hautfarbe | Hand | nach unten | schlecht"
+      ],
+      "es": [
+        "pulgar hacia abajo: tono de piel oscuro",
+        "abajo | mano | pulgar | pulgar hacia abajo | señal | tono de piel oscuro"
+      ],
+      "pt": [
+        "polegar para baixo: pele escura",
+        "dedão | dedão para baixo | desaprovação | desaprovado | mão | não | não gostei | para baixo | pele escura | polegar para baixo | ruim | sinal"
+      ],
+      "it": [
+        "pollice verso: carnagione scura",
+        "carnagione scura | giù | in basso | mano | no | non mi piace | pollice | pollice abbassato | pollice in giù | pollice verso | segno"
+      ],
+      "ro": [
+        "semn de dezaprobare: ton închis al pielii",
+        "-1 | așa nu | deget | degetul mare | dezaprobare | jos | mână | negativ | nu | nu e bine | prost | rău | semn de dezaprobare | ton închis al pielii"
+      ],
+      "he": [
+        "אגודל למטה: גוון עור כהה",
+        "אגודל למטה | בוז | גוון עור כהה | לא אהבתי | לא טוב | למטה | ממש לא | נגד | רע"
+      ],
+      "ar": [
+        "رفض: بشرة بلون غامق",
+        "آفاا | أسفل | إبهام | بشرة بلون غامق | رفض | سيئ | علامة | كلا | لا | لا يعجبني | ما يعجبني | مش منيح | يد"
+      ],
+      "tr": [
+        "baş parmak aşağıda: koyu cilt tonu",
+        "aşağı | baş parmak | baş parmak aşağıda | el | işaret | koyu cilt tonu"
+      ],
+      "vi": [
+        "dấu ra hiệu từ chối: màu da tối",
+        "-1 | dấu ra hiệu từ chối | không thích | màu da tối | ngón tay cái | tay | xuống"
+      ],
+      "nl": [
+        "duim omlaag: donkere huidskleur",
+        "-1 | donkere huidskleur | duim | fout | hand | lichaam | niet goed | niet leuk | omlaag | slecht | stom"
+      ]
+    }
+  ],
+  "👏": [
+    "other",
+    "clapping hands sign",
+    {
+      "en": [
+        "clapping hands",
+        "applause | approval | awesome | clap | congrats | congratulations | excited | good | great | hand | homie | job | nice | prayed | well | yay"
+      ],
+      "ru": [
+        "аплодисменты",
+        "аплодисменты | движение | жест | овация | рука | хлопать"
+      ],
+      "pl": [
+        "klaskanie",
+        "brawa | brawo | klaskać | klaskanie | oklaski | ręce | ręka"
+      ],
+      "fr": [
+        "applaudissements",
+        "applaudissements | bien joué | bon travail | bravo | félicitations | formidable | geste | mains | mains qui applaudissent | super"
+      ],
+      "de": [
+        "klatschende Hände",
+        "applaudieren | Applaus | Beifall | Gratulation | großartig | gut | Hand | Hände | Klatschen | klatschend | toll"
+      ],
+      "es": [
+        "manos aplaudiendo",
+        "aplaudir | manos | manos aplaudiendo | palmas | señal"
+      ],
+      "pt": [
+        "mãos aplaudindo",
+        "aplauso | bom trabalho | mãos | mãos aplaudindo | palmas | parabéns | sinal"
+      ],
+      "it": [
+        "mani che applaudono",
+        "applaudire | applauso | bravo | clap clap | complimenti | congratulazioni | mani che applaudono | ok | pregare | preghiera | segno | yeah"
+      ],
+      "ro": [
+        "mâini care aplaudă",
+        "aplauda | aplauze | aprobare | bine așa | bravo | felicitări | fericire | foarte bine | încântare | încântat | mâini | mâini care aplaudă | rugă | rugăciune | super | tare"
+      ],
+      "he": ["מחיאות כפיים", "הדרן | ידיים | כל הכבוד | כפיים | מחיאות כפיים"],
+      "ar": [
+        "يدان تصفقان",
+        "أصلي | أيادي | تزقيف | تصفيق | تصلي | زقف | صلاة | صلي | عظيم | علامة | مبروك | يد | يد تصفق | يدان تصفقان | يصلي"
+      ],
+      "tr": [
+        "el çırpma",
+        "alkış | bravo | çırpma | el | eller | işaret | tebrik"
+      ],
+      "vi": ["vỗ tay", "hai bàn tay đang vỗ | tay | vỗ tay"],
+      "nl": [
+        "klappende handen",
+        "applaudiseren | applaus | bidden | dankjewel | gefeliciteerd | goed gedaan | goedkeuring | hand | hoera | klappen | klappende handen"
+      ]
+    }
+  ]
+}
