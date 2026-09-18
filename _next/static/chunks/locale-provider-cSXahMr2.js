@@ -1,0 +1,32 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{i as t,r as n}from"./framework-BlZLPK95.js";import{s as r}from"./keyboard-locales-CKAeOfq4.js";import{a as i,r as a,t as o}from"./messages-X2XgFm5o.js";import{a as s,i as c,r as l,s as u}from"./seo-9fnY_2sk.js";import{a as d,n as f,t as p}from"./theme-Dc7KDQWQ.js";var m=e(t(),1),h=`keyboard-layout-demo.ui-locale`,g=`keyboard-layout-demo:ui-locale-change`;function _(e){return o.includes(e)?e:null}function v(e){return _(e.split(`/`).filter(Boolean).findLast(e=>_(e)!==null))}function y(){return window.location?v(window.location.pathname):null}function b(e){for(let t of e){let e=_(t.toLowerCase().split(/[-_]/)[0].replace(/^iw$/,`he`));if(e)return e}return`en`}function x(){return navigator.languages?.length?navigator.languages:[navigator.language]}function S(){return r(document.documentElement.dataset.keyboardLocale)??b(x())}function C(){return()=>{}}function w(){let e=document.documentElement.dataset.uiLocalePreference;if(e)return _(e);try{return _(localStorage.getItem(h))}catch{return null}}function T(){return y()??_(document.documentElement.dataset.uiLocale)??w()??b(x())}function E(){return`en`}function D(e){let t=y()??e??b(x()),n=document.documentElement;n.dataset.uiLocalePreference=e??`auto`,n.dataset.uiLocale=t,n.lang=t,n.dir=[`he`,`ar`].includes(t)?`rtl`:`ltr`;let r=window.location?.pathname.includes(`/reference`)?s(t):{title:i[t].pageTitle,description:i[t].pageDescription};document.title=r.title,document.querySelector(`meta[name="description"]`)?.setAttribute(`content`,r.description),window.location&&(document.querySelector(`link[rel="canonical"]`)?.setAttribute(`href`,window.location.pathname.includes(`/reference`)?u(t):c(y()??void 0)),document.querySelector(`meta[property="og:title"]`)?.setAttribute(`content`,r.title),document.querySelector(`meta[property="og:description"]`)?.setAttribute(`content`,r.description),document.querySelector(`meta[property="og:url"]`)?.setAttribute(`content`,window.location.pathname.includes(`/reference`)?u(t):c(y()??void 0)))}function O(e){let t=_(e);if(t){window.location&&window.history&&window.history.replaceState(window.history.state,``,`${l(t)}${window.location.search}${window.location.hash}`),D(t);try{localStorage.setItem(h,t)}catch{}window.dispatchEvent(new Event(g))}}function k(e){let t=()=>{D(w()),e()},n=t=>{(t.key===`keyboard-layout-demo.ui-locale`||t.key===null)&&(D(_(t.newValue)),e())};return window.addEventListener(`languagechange`,t),window.addEventListener(g,t),window.addEventListener(`storage`,n),t(),()=>{window.removeEventListener(`languagechange`,t),window.removeEventListener(g,t),window.removeEventListener(`storage`,n)}}var A=Object.fromEntries(o.map(e=>[e,{title:i[e].pageTitle,description:i[e].pageDescription,referenceTitle:s(e).title,referenceDescription:s(e).description}])),j=`(() => {
+  const supported = ${JSON.stringify(o)};
+  let preference = null;
+  try {
+    const saved = localStorage.getItem('${h}');
+    if (supported.includes(saved)) preference = saved;
+  } catch {}
+  const languages = navigator.languages?.length ? navigator.languages : [navigator.language];
+  const detected = languages.map(language => language.toLowerCase().split(/[-_]/)[0].replace(/^iw$/, 'he')).find(language => supported.includes(language)) || 'en';
+  const route = window.location?.pathname.split('/').filter(Boolean).findLast(part => supported.includes(part));
+  const explicit = supported.includes(route) ? route : null;
+  const locale = explicit || preference || detected;
+  const root = document.documentElement;
+  root.dataset.keyboardLocale = explicit || detected;
+  root.dataset.uiLocalePreference = preference || 'auto';
+  root.dataset.uiLocale = locale;
+  root.lang = locale;
+  root.dir = ['he', 'ar'].includes(locale) ? 'rtl' : 'ltr';
+  const metadata = ${JSON.stringify(A)};
+  const reference = window.location?.pathname.includes('/reference');
+  document.title = reference ? metadata[locale].referenceTitle : metadata[locale].title;
+  document.querySelector('meta[name="description"]')?.setAttribute('content', reference ? metadata[locale].referenceDescription : metadata[locale].description);
+})();`,M=[`linux`,`windows`,`macos`],N=`keyboard-layout-demo.platform`,P=`keyboard-layout-demo:platform-change`,F={linux:`Linux`,windows:`Windows`,macos:`macOS`};function I(e){let t=e.userAgent??``,n=e.platform??``;if(/Android|iPhone|iPad|iPod/i.test(t)||/Mac/i.test(n)&&(e.maxTouchPoints??0)>1)return`linux`;for(let t of[e.userAgentData?.platform??``,n]){if(/^win/i.test(t))return`windows`;if(/^mac/i.test(t))return`macos`;if(/^linux/i.test(t))return`linux`}return/Windows|Win32|Win64/i.test(t)?`windows`:/Macintosh|Mac OS X/i.test(t)?`macos`:`linux`}function L(e){return M.includes(e)?e:null}function R(){let e=document.documentElement.dataset.platformPreference;if(e)return L(e);try{return L(localStorage.getItem(N))}catch{return null}}function z(){return L(document.documentElement.dataset.platform)??R()??I(navigator)}function B(){return`linux`}function V(e){let t=document.documentElement;t.dataset.platformPreference=e??`auto`,t.dataset.platform=e??I(navigator)}function H(e){let t=L(e);if(t){V(t);try{localStorage.setItem(N,t)}catch{}window.dispatchEvent(new Event(P))}}function U(e){let t=()=>{V(R()),e()},n=t=>{(t.key===`keyboard-layout-demo.platform`||t.key===null)&&(V(L(t.newValue)),e())};return window.addEventListener(P,t),window.addEventListener(`storage`,n),t(),()=>{window.removeEventListener(P,t),window.removeEventListener(`storage`,n)}}var W=`(() => {
+  let preference = null;
+  try {
+    const saved = localStorage.getItem('${N}');
+    if (${JSON.stringify(M)}.includes(saved)) preference = saved;
+  } catch {}
+  const root = document.documentElement;
+  root.dataset.platformPreference = preference || 'auto';
+  root.dataset.platform = preference || (${I.toString()})(navigator);
+})();`,G=n(),K=(0,m.createContext)(null);function q({children:e,initialLocale:t=`en`}){let n=(0,m.useSyncExternalStore)(k,T,()=>t),r=(0,m.useSyncExternalStore)(d,p,f),o=(0,m.useSyncExternalStore)(U,z,B),s=(0,m.useMemo)(()=>({uiLocale:n,theme:r,platform:o,m:i[n],t:(e,t)=>a(i[n][e],t)}),[n,r,o]);return(0,G.jsx)(K.Provider,{value:s,children:e})}function J(){let e=(0,m.useContext)(K);if(!e)throw Error(`useLocale requires LocaleProvider`);return e}export{C as _,N as a,B as c,H as d,S as f,O as g,j as h,P as i,W as l,T as m,J as n,I as o,E as p,M as r,z as s,q as t,F as u};

@@ -23,6 +23,17 @@ Third-party code, data, fonts and icons retain their respective terms. Preserve
 source references and applicable license notices when including or distributing
 these materials.
 
+## Unicode symbol palette
+
+The settings palette includes character names from the
+[Unicode Character Database 17.0.0](https://www.unicode.org/Public/17.0.0/ucd/)
+and translated names and keywords from
+[Unicode CLDR 48](https://github.com/unicode-org/cldr/tree/release-48). These
+data are distributed under the [Unicode License v3](public/unicode-license.txt).
+`tools/build-symbol-catalog.py` rebuilds the checked-in catalog. Translations
+are used where CLDR supplies them; remaining names fall back to English Unicode
+names. Glyph availability depends on the user's fonts and operating system.
+
 ## Application dependencies
 
 The application uses React, React DOM, Vinext, Vite and Tailwind CSS, with

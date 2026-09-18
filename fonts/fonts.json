@@ -29,6 +29,18 @@
     "NotoSansArabic.ttf": {
       "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarabic/NotoSansArabic%5Bwdth,wght%5D.ttf",
       "sha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    },
+    "PaletteMath.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmath/NotoSansMath-Regular.ttf",
+      "sha256": "3f495fe933c06786e4d5f6d86b8ee70b6753a68ee3b9d87528726de0f6e2c47d"
+    },
+    "PaletteSymbols.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssymbols/NotoSansSymbols%5Bwght%5D.ttf",
+      "sha256": "f7e7e04b4a24b6c78893d50cbfd2b2f6cae49617ab047bfef668d252adb128f7"
+    },
+    "PaletteSymbols2.ttf": {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssymbols2/NotoSansSymbols2-Regular.ttf",
+      "sha256": "7d5fb73b7ca67a6798101741f5d280a3d016a56a197afcd4199dbb57b4b82a21"
     }
   },
   "fonts": [
@@ -108,6 +120,39 @@
       "modifications": "Full coverage, shaping and variable axes retained; renamed family.",
       "sha256": "ac8a96819a5b328c94123e51f6b9d39e366258787f737af829649d4934b39f3c",
       "bytes": 361204
+    },
+    {
+      "file": "palette-math.woff2",
+      "family": "Palette Math",
+      "source": "PaletteMath.ttf",
+      "license": "PaletteMath-OFL.txt",
+      "unicodeRange": "U+20D0-20EF, U+25CC",
+      "weight": "400",
+      "modifications": "Static combining-symbol subset with dotted circle; renamed family; shaping retained.",
+      "sha256": "7496ffc40cce9df1c648ee54e0131e1c40028da5cf7f611a5e86a7a667230ee8",
+      "bytes": 5444
+    },
+    {
+      "file": "palette-symbols.woff2",
+      "family": "Palette Symbols",
+      "source": "PaletteSymbols.ttf",
+      "license": "PaletteSymbols-OFL.txt",
+      "unicodeRange": "U+20D0-20EF, U+25CC",
+      "weight": "400",
+      "modifications": "Static combining-symbol subset with dotted circle; renamed family; shaping retained.",
+      "sha256": "b814eb622b3e26a2a56e89a67a1deff4687f8dc01d2c496744fc592a3267fefe",
+      "bytes": 1284
+    },
+    {
+      "file": "palette-symbols2.woff2",
+      "family": "Palette Symbols2",
+      "source": "PaletteSymbols2.ttf",
+      "license": "PaletteSymbols2-OFL.txt",
+      "unicodeRange": "U+20D0-20EF, U+25CC",
+      "weight": "400",
+      "modifications": "Static combining-symbol subset with dotted circle; renamed family; shaping retained.",
+      "sha256": "96dcb50c227b292309b602bf2c339142dba1a8d043b522b1be73107fb1c38e92",
+      "bytes": 3888
     }
   ]
 }

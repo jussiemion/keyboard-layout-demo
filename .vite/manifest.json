@@ -22,15 +22,37 @@
       "_rolldown-runtime-hePW80VL.js"
     ]
   },
-  "_preferences-DJmo-14m.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/preferences-DJmo-14m.js",
+  "_keyboard-locales-CKAeOfq4.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/keyboard-locales-CKAeOfq4.js",
+    "name": "keyboard-locales"
+  },
+  "_locale-provider-cSXahMr2.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-cSXahMr2.js",
+    "name": "locale-provider",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-BlZLPK95.js",
+      "_keyboard-locales-CKAeOfq4.js",
+      "_messages-X2XgFm5o.js",
+      "_seo-9fnY_2sk.js",
+      "_theme-Dc7KDQWQ.js"
+    ]
+  },
+  "_messages-X2XgFm5o.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/messages-X2XgFm5o.js",
+    "name": "messages"
+  },
+  "_preferences-Cq-kqYaN.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/preferences-Cq-kqYaN.js",
     "name": "preferences",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_seo-DhuooNDZ.js",
-      "_theme-CVRFaN_P.js",
-      "components/locale-provider.tsx",
+      "_keyboard-locales-CKAeOfq4.js",
+      "_seo-9fnY_2sk.js",
+      "_locale-provider-cSXahMr2.js",
+      "_theme-Dc7KDQWQ.js",
+      "_symbol-search-categories-CQLn6bir.js",
       "_useBaseUiId-CQzsLfx3.js",
       "_utils-DojpP95n.js"
     ]
@@ -39,12 +61,27 @@
     "file": "keyboard-layout-demo/_next/static/chunks/rolldown-runtime-hePW80VL.js",
     "name": "rolldown-runtime"
   },
-  "_seo-DhuooNDZ.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/seo-DhuooNDZ.js",
-    "name": "seo"
+  "_seo-9fnY_2sk.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/seo-9fnY_2sk.js",
+    "name": "seo",
+    "imports": [
+      "_messages-X2XgFm5o.js"
+    ]
   },
-  "_theme-CVRFaN_P.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/theme-CVRFaN_P.js",
+  "_symbol-presentation-D3OxU25W.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/symbol-presentation-D3OxU25W.js",
+    "name": "symbol-presentation"
+  },
+  "_symbol-search-categories-CQLn6bir.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/symbol-search-categories-CQLn6bir.js",
+    "name": "symbol-search-categories",
+    "imports": [
+      "_keyboard-locales-CKAeOfq4.js",
+      "_messages-X2XgFm5o.js"
+    ]
+  },
+  "_theme-Dc7KDQWQ.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/theme-Dc7KDQWQ.js",
     "name": "theme"
   },
   "_useBaseUiId-CQzsLfx3.js": {
@@ -59,82 +96,94 @@
     "file": "keyboard-layout-demo/_next/static/chunks/utils-DojpP95n.js",
     "name": "utils"
   },
-  "_vinext-D5URtASc.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/vinext-D5URtASc.js",
+  "_vinext-DfJVJ_Cy.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/vinext-DfJVJ_Cy.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js"
     ],
     "dynamicImports": [
-      "_vinext-D5URtASc.js"
+      "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "node_modules/vinext/dist/shims/internal/app-prefetch-rsc-request.js"
     ]
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-CMe5GgPm.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-D208Blh7.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_seo-DhuooNDZ.js",
-      "_preferences-DJmo-14m.js",
-      "_theme-CVRFaN_P.js",
-      "components/locale-provider.tsx",
+      "_vinext-DfJVJ_Cy.js",
+      "_preferences-Cq-kqYaN.js",
+      "_keyboard-locales-CKAeOfq4.js",
+      "_messages-X2XgFm5o.js",
+      "_seo-9fnY_2sk.js",
+      "_locale-provider-cSXahMr2.js",
+      "_theme-Dc7KDQWQ.js",
+      "_symbol-search-categories-CQLn6bir.js",
       "_useBaseUiId-CQzsLfx3.js",
       "_utils-DojpP95n.js",
       "_DirectionContext-CEAsAqb6.js",
+      "_symbol-presentation-D3OxU25W.js",
       "_brand-mark-CTWd7vDw.js"
+    ],
+    "dynamicImports": [
+      "lib/symbol-catalog.ts"
+    ],
+    "assets": [
+      "keyboard-layout-demo/_next/static/workers/symbol-catalog.worker-fXf0Y_fu.js"
     ]
   },
   "components/local-console-message.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/local-console-message-CZXqCOWY.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/local-console-message-vtAxGd9N.js",
     "name": "local-console-message",
     "src": "components/local-console-message.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_seo-DhuooNDZ.js"
+      "_seo-9fnY_2sk.js"
     ]
   },
   "components/locale-provider.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-DJBVamvt.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/locale-provider-C7z-c4gS.js",
     "name": "locale-provider",
     "src": "components/locale-provider.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_rolldown-runtime-hePW80VL.js",
-      "_framework-BlZLPK95.js",
-      "_seo-DhuooNDZ.js",
-      "_theme-CVRFaN_P.js"
+      "_locale-provider-cSXahMr2.js"
     ]
   },
   "components/theme-favicon.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/theme-favicon-7GtV1eRK.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/theme-favicon-QIJ2S26C.js",
     "name": "theme-favicon",
     "src": "components/theme-favicon.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_theme-CVRFaN_P.js",
+      "_theme-Dc7KDQWQ.js",
       "_brand-mark-CTWd7vDw.js"
     ]
   },
   "components/typography-reference.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-C_4Gx11x.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-CMsgMD-m.js",
     "name": "typography-reference",
     "src": "components/typography-reference.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_seo-DhuooNDZ.js",
-      "_preferences-DJmo-14m.js",
-      "_theme-CVRFaN_P.js",
-      "components/locale-provider.tsx",
+      "_preferences-Cq-kqYaN.js",
+      "_keyboard-locales-CKAeOfq4.js",
+      "_messages-X2XgFm5o.js",
+      "_seo-9fnY_2sk.js",
+      "_locale-provider-cSXahMr2.js",
+      "_theme-Dc7KDQWQ.js",
+      "_symbol-search-categories-CQLn6bir.js",
       "_brand-mark-CTWd7vDw.js"
     ]
   },
@@ -151,36 +200,785 @@
       "_DirectionContext-CEAsAqb6.js"
     ]
   },
+  "lib/symbol-catalog-data/arrows-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/arrows-001-DokaZR-H.js",
+    "name": "arrows-001",
+    "src": "lib/symbol-catalog-data/arrows-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/arrows-002.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/arrows-002-BS3JfEQP.js",
+    "name": "arrows-002",
+    "src": "lib/symbol-catalog-data/arrows-002.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/currency-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/currency-001-BuCwS-wI.js",
+    "name": "currency-001",
+    "src": "lib/symbol-catalog-data/currency-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/diacritics-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/diacritics-001-ClqVc4LG.js",
+    "name": "diacritics-001",
+    "src": "lib/symbol-catalog-data/diacritics-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/keyboard-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/keyboard-001-B4WFG5KZ.js",
+    "name": "keyboard-001",
+    "src": "lib/symbol-catalog-data/keyboard-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/letters-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/letters-001-Dd5cWaLp.js",
+    "name": "letters-001",
+    "src": "lib/symbol-catalog-data/letters-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/letters-002.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/letters-002-sDcIzXrE.js",
+    "name": "letters-002",
+    "src": "lib/symbol-catalog-data/letters-002.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/math-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/math-001-DhxRpRSq.js",
+    "name": "math-001",
+    "src": "lib/symbol-catalog-data/math-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/math-002.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/math-002-BehRGlQI.js",
+    "name": "math-002",
+    "src": "lib/symbol-catalog-data/math-002.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/math-003.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/math-003-z8alhwTN.js",
+    "name": "math-003",
+    "src": "lib/symbol-catalog-data/math-003.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-001-BEnJC9fc.js",
+    "name": "other-001",
+    "src": "lib/symbol-catalog-data/other-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-002.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-002-BqF1yfaw.js",
+    "name": "other-002",
+    "src": "lib/symbol-catalog-data/other-002.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-003.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-003-BKyXsKJQ.js",
+    "name": "other-003",
+    "src": "lib/symbol-catalog-data/other-003.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-004.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-004-DOt3SkrI.js",
+    "name": "other-004",
+    "src": "lib/symbol-catalog-data/other-004.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-005.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-005-iDIBOenE.js",
+    "name": "other-005",
+    "src": "lib/symbol-catalog-data/other-005.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-006.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-006-B9kZmbwl.js",
+    "name": "other-006",
+    "src": "lib/symbol-catalog-data/other-006.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-007.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-007-B1x4ioKV.js",
+    "name": "other-007",
+    "src": "lib/symbol-catalog-data/other-007.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-008.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-008-C8UyUE_7.js",
+    "name": "other-008",
+    "src": "lib/symbol-catalog-data/other-008.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-009.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-009-Btd21beW.js",
+    "name": "other-009",
+    "src": "lib/symbol-catalog-data/other-009.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-010.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-010-CXi4kj0h.js",
+    "name": "other-010",
+    "src": "lib/symbol-catalog-data/other-010.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-011.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-011-BrxxYPjV.js",
+    "name": "other-011",
+    "src": "lib/symbol-catalog-data/other-011.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-012.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-012-Bh51hGnM.js",
+    "name": "other-012",
+    "src": "lib/symbol-catalog-data/other-012.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-013.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-013-0aXR2cQs.js",
+    "name": "other-013",
+    "src": "lib/symbol-catalog-data/other-013.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-014.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-014-CCOKdUmd.js",
+    "name": "other-014",
+    "src": "lib/symbol-catalog-data/other-014.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-015.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-015-DiAAeOdP.js",
+    "name": "other-015",
+    "src": "lib/symbol-catalog-data/other-015.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-016.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-016-Dy7fDTfx.js",
+    "name": "other-016",
+    "src": "lib/symbol-catalog-data/other-016.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-017.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-017-ukLTM57M.js",
+    "name": "other-017",
+    "src": "lib/symbol-catalog-data/other-017.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-018.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-018-BYysMSK8.js",
+    "name": "other-018",
+    "src": "lib/symbol-catalog-data/other-018.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-019.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-019-Dzw4Vy6s.js",
+    "name": "other-019",
+    "src": "lib/symbol-catalog-data/other-019.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-020.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-020-CyddJjdx.js",
+    "name": "other-020",
+    "src": "lib/symbol-catalog-data/other-020.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-021.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-021-BxJNOnj6.js",
+    "name": "other-021",
+    "src": "lib/symbol-catalog-data/other-021.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-022.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-022-Dy8CK8I1.js",
+    "name": "other-022",
+    "src": "lib/symbol-catalog-data/other-022.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-023.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-023-Bn8jm3uE.js",
+    "name": "other-023",
+    "src": "lib/symbol-catalog-data/other-023.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-024.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-024-BJyOmulD.js",
+    "name": "other-024",
+    "src": "lib/symbol-catalog-data/other-024.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-025.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-025-DMtFsiSI.js",
+    "name": "other-025",
+    "src": "lib/symbol-catalog-data/other-025.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-026.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-026-Bq4j7R4p.js",
+    "name": "other-026",
+    "src": "lib/symbol-catalog-data/other-026.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-027.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-027-C_CwML_E.js",
+    "name": "other-027",
+    "src": "lib/symbol-catalog-data/other-027.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-028.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-028-BdmJgH7J.js",
+    "name": "other-028",
+    "src": "lib/symbol-catalog-data/other-028.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-029.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-029-DfFbRcCo.js",
+    "name": "other-029",
+    "src": "lib/symbol-catalog-data/other-029.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-030.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-030-BYzgvbeG.js",
+    "name": "other-030",
+    "src": "lib/symbol-catalog-data/other-030.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-031.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-031-BzMhjv0z.js",
+    "name": "other-031",
+    "src": "lib/symbol-catalog-data/other-031.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-032.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-032-B5Fi4diB.js",
+    "name": "other-032",
+    "src": "lib/symbol-catalog-data/other-032.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-033.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-033-CwLAKf7c.js",
+    "name": "other-033",
+    "src": "lib/symbol-catalog-data/other-033.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-034.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-034-GAIOB70P.js",
+    "name": "other-034",
+    "src": "lib/symbol-catalog-data/other-034.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-035.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-035-dGORktm-.js",
+    "name": "other-035",
+    "src": "lib/symbol-catalog-data/other-035.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-036.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-036-VB_JTYZ5.js",
+    "name": "other-036",
+    "src": "lib/symbol-catalog-data/other-036.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-037.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-037-BrkU8MK0.js",
+    "name": "other-037",
+    "src": "lib/symbol-catalog-data/other-037.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-038.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-038-D-E1wlaI.js",
+    "name": "other-038",
+    "src": "lib/symbol-catalog-data/other-038.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-039.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-039-Fmnh3Zrm.js",
+    "name": "other-039",
+    "src": "lib/symbol-catalog-data/other-039.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-040.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-040-DUKOw6um.js",
+    "name": "other-040",
+    "src": "lib/symbol-catalog-data/other-040.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-041.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-041-Bd5Ahzd6.js",
+    "name": "other-041",
+    "src": "lib/symbol-catalog-data/other-041.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-042.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-042-BJQuQw5W.js",
+    "name": "other-042",
+    "src": "lib/symbol-catalog-data/other-042.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-043.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-043-D2cny-ni.js",
+    "name": "other-043",
+    "src": "lib/symbol-catalog-data/other-043.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-044.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-044-erb3_k48.js",
+    "name": "other-044",
+    "src": "lib/symbol-catalog-data/other-044.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-045.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-045-AS9kj6W7.js",
+    "name": "other-045",
+    "src": "lib/symbol-catalog-data/other-045.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-046.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-046-uptHICKk.js",
+    "name": "other-046",
+    "src": "lib/symbol-catalog-data/other-046.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-047.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-047-C665ahGI.js",
+    "name": "other-047",
+    "src": "lib/symbol-catalog-data/other-047.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-048.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-048-IjaxVHL9.js",
+    "name": "other-048",
+    "src": "lib/symbol-catalog-data/other-048.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-049.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-049-CpYGkmpR.js",
+    "name": "other-049",
+    "src": "lib/symbol-catalog-data/other-049.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-050.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-050-DtEkDBzn.js",
+    "name": "other-050",
+    "src": "lib/symbol-catalog-data/other-050.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-051.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-051-qSb38dQM.js",
+    "name": "other-051",
+    "src": "lib/symbol-catalog-data/other-051.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-052.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-052-Dl4SDvBH.js",
+    "name": "other-052",
+    "src": "lib/symbol-catalog-data/other-052.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-053.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-053-Dj1iXO_q.js",
+    "name": "other-053",
+    "src": "lib/symbol-catalog-data/other-053.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-054.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-054-BLIbgEEF.js",
+    "name": "other-054",
+    "src": "lib/symbol-catalog-data/other-054.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-055.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-055-D98HB27s.js",
+    "name": "other-055",
+    "src": "lib/symbol-catalog-data/other-055.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-056.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-056-BViwB1YJ.js",
+    "name": "other-056",
+    "src": "lib/symbol-catalog-data/other-056.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-057.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-057-C2MiB3l8.js",
+    "name": "other-057",
+    "src": "lib/symbol-catalog-data/other-057.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-058.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-058-DF94-l8d.js",
+    "name": "other-058",
+    "src": "lib/symbol-catalog-data/other-058.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-059.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-059-CSRgYVpr.js",
+    "name": "other-059",
+    "src": "lib/symbol-catalog-data/other-059.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-060.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-060-BxCAhe6b.js",
+    "name": "other-060",
+    "src": "lib/symbol-catalog-data/other-060.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-061.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-061-YAJX_-os.js",
+    "name": "other-061",
+    "src": "lib/symbol-catalog-data/other-061.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-062.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-062-B2Ef0Uos.js",
+    "name": "other-062",
+    "src": "lib/symbol-catalog-data/other-062.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-063.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-063-CxpyB7Cm.js",
+    "name": "other-063",
+    "src": "lib/symbol-catalog-data/other-063.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-064.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-064-B0LiEiEB.js",
+    "name": "other-064",
+    "src": "lib/symbol-catalog-data/other-064.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-065.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-065-BPAiKV2L.js",
+    "name": "other-065",
+    "src": "lib/symbol-catalog-data/other-065.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-066.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-066-eTD39f5D.js",
+    "name": "other-066",
+    "src": "lib/symbol-catalog-data/other-066.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-067.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-067-s2Li-Bs6.js",
+    "name": "other-067",
+    "src": "lib/symbol-catalog-data/other-067.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-068.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-068-xz2NRX3f.js",
+    "name": "other-068",
+    "src": "lib/symbol-catalog-data/other-068.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-069.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-069-CK0kLv-0.js",
+    "name": "other-069",
+    "src": "lib/symbol-catalog-data/other-069.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-070.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-070-ovo-O4fk.js",
+    "name": "other-070",
+    "src": "lib/symbol-catalog-data/other-070.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-071.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-071-C41tt_Dk.js",
+    "name": "other-071",
+    "src": "lib/symbol-catalog-data/other-071.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-072.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-072-C2koMzQ7.js",
+    "name": "other-072",
+    "src": "lib/symbol-catalog-data/other-072.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-073.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-073-C11c5IU_.js",
+    "name": "other-073",
+    "src": "lib/symbol-catalog-data/other-073.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-074.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-074-aWAgNFb1.js",
+    "name": "other-074",
+    "src": "lib/symbol-catalog-data/other-074.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-075.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-075-D7gJe4CR.js",
+    "name": "other-075",
+    "src": "lib/symbol-catalog-data/other-075.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-076.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-076-ZjxN4h_o.js",
+    "name": "other-076",
+    "src": "lib/symbol-catalog-data/other-076.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/other-077.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/other-077-BvNP7lPC.js",
+    "name": "other-077",
+    "src": "lib/symbol-catalog-data/other-077.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/punctuation-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/punctuation-001-BPVuqeU2.js",
+    "name": "punctuation-001",
+    "src": "lib/symbol-catalog-data/punctuation-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog-data/punctuation-002.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/punctuation-002-A4SeQbUX.js",
+    "name": "punctuation-002",
+    "src": "lib/symbol-catalog-data/punctuation-002.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-catalog.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/symbol-catalog-1ohM2RoD.js",
+    "name": "symbol-catalog",
+    "src": "lib/symbol-catalog.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js",
+      "_messages-X2XgFm5o.js",
+      "_symbol-search-categories-CQLn6bir.js",
+      "_symbol-presentation-D3OxU25W.js"
+    ],
+    "dynamicImports": [
+      "lib/symbol-standard-names/names-001.ts",
+      "lib/symbol-standard-names/names-002.ts",
+      "lib/symbol-standard-names/names-003.ts",
+      "lib/symbol-standard-names/names-004.ts",
+      "lib/symbol-standard-names/names-005.ts",
+      "lib/symbol-catalog-data/math-001.ts",
+      "lib/symbol-catalog-data/math-002.ts",
+      "lib/symbol-catalog-data/math-003.ts",
+      "lib/symbol-catalog-data/punctuation-001.ts",
+      "lib/symbol-catalog-data/punctuation-002.ts",
+      "lib/symbol-catalog-data/other-001.ts",
+      "lib/symbol-catalog-data/other-002.ts",
+      "lib/symbol-catalog-data/other-003.ts",
+      "lib/symbol-catalog-data/other-004.ts",
+      "lib/symbol-catalog-data/other-005.ts",
+      "lib/symbol-catalog-data/other-006.ts",
+      "lib/symbol-catalog-data/other-007.ts",
+      "lib/symbol-catalog-data/other-008.ts",
+      "lib/symbol-catalog-data/other-009.ts",
+      "lib/symbol-catalog-data/other-010.ts",
+      "lib/symbol-catalog-data/other-011.ts",
+      "lib/symbol-catalog-data/other-012.ts",
+      "lib/symbol-catalog-data/other-013.ts",
+      "lib/symbol-catalog-data/other-014.ts",
+      "lib/symbol-catalog-data/other-015.ts",
+      "lib/symbol-catalog-data/other-016.ts",
+      "lib/symbol-catalog-data/other-017.ts",
+      "lib/symbol-catalog-data/other-018.ts",
+      "lib/symbol-catalog-data/other-019.ts",
+      "lib/symbol-catalog-data/other-020.ts",
+      "lib/symbol-catalog-data/other-021.ts",
+      "lib/symbol-catalog-data/other-022.ts",
+      "lib/symbol-catalog-data/other-023.ts",
+      "lib/symbol-catalog-data/other-024.ts",
+      "lib/symbol-catalog-data/other-025.ts",
+      "lib/symbol-catalog-data/other-026.ts",
+      "lib/symbol-catalog-data/other-027.ts",
+      "lib/symbol-catalog-data/other-028.ts",
+      "lib/symbol-catalog-data/other-029.ts",
+      "lib/symbol-catalog-data/other-030.ts",
+      "lib/symbol-catalog-data/other-031.ts",
+      "lib/symbol-catalog-data/other-032.ts",
+      "lib/symbol-catalog-data/other-033.ts",
+      "lib/symbol-catalog-data/other-034.ts",
+      "lib/symbol-catalog-data/other-035.ts",
+      "lib/symbol-catalog-data/other-036.ts",
+      "lib/symbol-catalog-data/other-037.ts",
+      "lib/symbol-catalog-data/other-038.ts",
+      "lib/symbol-catalog-data/other-039.ts",
+      "lib/symbol-catalog-data/other-040.ts",
+      "lib/symbol-catalog-data/other-041.ts",
+      "lib/symbol-catalog-data/other-042.ts",
+      "lib/symbol-catalog-data/other-043.ts",
+      "lib/symbol-catalog-data/other-044.ts",
+      "lib/symbol-catalog-data/other-045.ts",
+      "lib/symbol-catalog-data/other-046.ts",
+      "lib/symbol-catalog-data/other-047.ts",
+      "lib/symbol-catalog-data/other-048.ts",
+      "lib/symbol-catalog-data/other-049.ts",
+      "lib/symbol-catalog-data/other-050.ts",
+      "lib/symbol-catalog-data/other-051.ts",
+      "lib/symbol-catalog-data/other-052.ts",
+      "lib/symbol-catalog-data/other-053.ts",
+      "lib/symbol-catalog-data/other-054.ts",
+      "lib/symbol-catalog-data/other-055.ts",
+      "lib/symbol-catalog-data/other-056.ts",
+      "lib/symbol-catalog-data/other-057.ts",
+      "lib/symbol-catalog-data/other-058.ts",
+      "lib/symbol-catalog-data/other-059.ts",
+      "lib/symbol-catalog-data/other-060.ts",
+      "lib/symbol-catalog-data/other-061.ts",
+      "lib/symbol-catalog-data/other-062.ts",
+      "lib/symbol-catalog-data/other-063.ts",
+      "lib/symbol-catalog-data/other-064.ts",
+      "lib/symbol-catalog-data/other-065.ts",
+      "lib/symbol-catalog-data/other-066.ts",
+      "lib/symbol-catalog-data/other-067.ts",
+      "lib/symbol-catalog-data/other-068.ts",
+      "lib/symbol-catalog-data/other-069.ts",
+      "lib/symbol-catalog-data/other-070.ts",
+      "lib/symbol-catalog-data/other-071.ts",
+      "lib/symbol-catalog-data/other-072.ts",
+      "lib/symbol-catalog-data/other-073.ts",
+      "lib/symbol-catalog-data/other-074.ts",
+      "lib/symbol-catalog-data/other-075.ts",
+      "lib/symbol-catalog-data/other-076.ts",
+      "lib/symbol-catalog-data/other-077.ts",
+      "lib/symbol-catalog-data/currency-001.ts",
+      "lib/symbol-catalog-data/letters-001.ts",
+      "lib/symbol-catalog-data/letters-002.ts",
+      "lib/symbol-catalog-data/diacritics-001.ts",
+      "lib/symbol-catalog-data/arrows-001.ts",
+      "lib/symbol-catalog-data/arrows-002.ts",
+      "lib/symbol-catalog-data/keyboard-001.ts"
+    ]
+  },
+  "lib/symbol-standard-names/names-001.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/names-001-D-3KsyL4.js",
+    "name": "names-001",
+    "src": "lib/symbol-standard-names/names-001.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-standard-names/names-002.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/names-002-IOocJR8u.js",
+    "name": "names-002",
+    "src": "lib/symbol-standard-names/names-002.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-standard-names/names-003.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/names-003-Cjrr_GD3.js",
+    "name": "names-003",
+    "src": "lib/symbol-standard-names/names-003.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-standard-names/names-004.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/names-004-C8iv6s9I.js",
+    "name": "names-004",
+    "src": "lib/symbol-standard-names/names-004.ts",
+    "isDynamicEntry": true
+  },
+  "lib/symbol-standard-names/names-005.ts": {
+    "file": "keyboard-layout-demo/_next/static/chunks/names-005-B74DzQ8J.js",
+    "name": "names-005",
+    "src": "lib/symbol-standard-names/names-005.ts",
+    "isDynamicEntry": true
+  },
+  "node_modules/vinext/dist/shims/app-router-scroll.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/app-router-scroll-C_lZiQPK.js",
+    "name": "app-router-scroll",
+    "src": "node_modules/vinext/dist/shims/app-router-scroll.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/default-global-error.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/default-global-error-BZIgRcE2.js",
+    "name": "default-global-error",
+    "src": "node_modules/vinext/dist/shims/default-global-error.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/error-boundary.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/error-boundary-D_0FCeYY.js",
+    "name": "error-boundary",
+    "src": "node_modules/vinext/dist/shims/error-boundary.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/internal/app-prefetch-fetch-queue.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/app-prefetch-fetch-queue-DCsBlnBg.js",
+    "name": "app-prefetch-fetch-queue",
+    "src": "node_modules/vinext/dist/shims/internal/app-prefetch-fetch-queue.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/internal/app-prefetch-rsc-request.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/app-prefetch-rsc-request-BLAwDETw.js",
+    "name": "app-prefetch-rsc-request",
+    "src": "node_modules/vinext/dist/shims/internal/app-prefetch-rsc-request.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-D5RSJcRY.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-D6_ttt7F.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-BKuPNyea.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-D5URtASc.js"
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/slot.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/slot-6sTs-ZuV.js",
+    "name": "slot",
+    "src": "node_modules/vinext/dist/shims/slot.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/streamed-icons-DBoiHq5n.js",
+    "name": "streamed-icons",
+    "src": "node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vinext-DfJVJ_Cy.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-DltK88qL.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-HeUjaThF.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-D5URtASc.js"
+      "_vinext-DfJVJ_Cy.js"
     ],
     "dynamicImports": [
-      "_vinext-D5URtASc.js",
+      "node_modules/vinext/dist/shims/default-global-error.js",
       "components/locale-provider.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/ui/scroll-area.tsx",
       "components/theme-favicon.tsx",
+      "node_modules/vinext/dist/shims/error-boundary.js",
       "app/page.tsx",
+      "node_modules/vinext/dist/shims/streamed-icons.js",
+      "node_modules/vinext/dist/shims/slot.js",
+      "node_modules/vinext/dist/shims/app-router-scroll.js",
       "components/local-console-message.tsx",
-      "components/typography-reference.tsx"
+      "components/typography-reference.tsx",
+      "node_modules/vinext/dist/shims/internal/app-prefetch-fetch-queue.js"
     ]
   }
 }
