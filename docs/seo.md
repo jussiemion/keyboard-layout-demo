@@ -38,9 +38,15 @@ Vinext root layout does not receive descendant route parameters.
 1. Add the URL-prefix property
    `https://jussiemion.github.io/keyboard-layout-demo/` to Google Search
    Console.
-2. Verify ownership using Google's HTML file method: place the exact supplied
-   file in `public/`, then publish it. Do not invent a verification token.
-3. Submit `https://jussiemion.github.io/keyboard-layout-demo/sitemap.xml`.
+2. Verify ownership using the HTML tag method. The supplied
+   `google-site-verification` meta tag is already in `app/layout.tsx` and is
+   included in the published homepage.
+3. Open **Sitemaps**, submit `sitemap.xml` for this property and check that its
+   status becomes **Success**. The full URL is
+   `https://jussiemion.github.io/keyboard-layout-demo/sitemap.xml`. It includes
+   29 pages: the homepage, 14 localized trainers and 14 localized references,
+   with language alternates. Both production builds regenerate it automatically;
+   no manual XML updates are needed.
 4. Inspect the homepage and a reference URL, then request indexing.
 5. Optionally import the verified property into Bing Webmaster Tools and submit
    the same sitemap.
