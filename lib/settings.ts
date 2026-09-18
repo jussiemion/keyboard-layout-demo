@@ -1,4 +1,5 @@
-import { KEYBOARD_LOCALES, type KeyboardLocale } from './typing-engine.ts';
+import { KEYBOARD_LOCALES, type KeyboardLocale } from './keyboard-locales.ts';
+import { validSymbolMap, type SymbolMap } from './symbol-map.ts';
 import { defaultLanguageConfig } from './language-switching.ts';
 
 export type LanguageMapping = {
@@ -13,6 +14,8 @@ export type LanguageMapping = {
 export type UserSettings = {
   version: 1;
   languageMapping: LanguageMapping | null;
+  symbolMap?: SymbolMap;
+  keyboardLocale?: KeyboardLocale;
 };
 
 export const SETTINGS_STORAGE_KEY = 'keyboard-layout-demo.settings';
@@ -56,6 +59,10 @@ export function parseSettings(raw: string | null): UserSettings {
       languages(mapping.slots, 4);
     return {
       version: 1,
+      ...(KEYBOARD_LOCALES.includes(data.keyboardLocale)
+        ? { keyboardLocale: data.keyboardLocale }
+        : {}),
+      ...(validSymbolMap(data.symbolMap) ? { symbolMap: data.symbolMap } : {}),
       languageMapping: valid
         ? {
             order: [mapping.order[0], mapping.order[1]],

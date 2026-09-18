@@ -270,6 +270,13 @@ function isShift(code: string): boolean {
 
 /** Browser port of core/state.hpp. No clocks, input logs, or global injection. */
 export class TypingEngine {
+  private symbolKeys = keyMap;
+
+  setLayout(keys: readonly LayoutKey[]) {
+    this.reset();
+    this.symbolKeys = new Map(keys.map((entry) => [entry.code, entry]));
+  }
+
   enabled = true;
   held = new Set<string>();
   private consumed = new Set<string>();
@@ -563,7 +570,7 @@ export class TypingEngine {
       return pass;
     }
     this.altEligible = false;
-    const entry = keyMap.get(code);
+    const entry = this.symbolKeys.get(code);
     const nationalAction = this.altHeld
       ? nationalKeyAction(
           code,
