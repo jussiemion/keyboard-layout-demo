@@ -73,6 +73,51 @@ n’est nécessaire pour essayer la démo.
 saisie reste dans la démo ; les autres applications nécessitent une installation
 système distincte. Les langues non européennes sont expérimentales.
 
+## Questions fréquentes
+
+### Comment saisir des caractères spéciaux sans codes Alt ?
+
+Avec la carte par défaut, <kbd>Alt</kbd> + moins produit — et <kbd>Alt</kbd> + /
+produit …. Pour ©, appuyez sur <kbd>Alt</kbd>, relâchez, puis appuyez sur C. Sur
+macOS, utilisez <kbd>Option</kbd>. Les positions correspondent au clavier US
+QWERTY ; le guide indique les autres séquences.
+
+### Comment saisir rapidement des lettres accentuées ?
+
+Choisissez la langue du clavier, tapez une lettre et relâchez sa touche. Appuyez
+ensuite séparément sur <kbd>Shift</kbd> pour parcourir ses variantes : en
+français e → é → è → ê → ë et c → ç ; en allemand u → ü. Les variantes dépendent
+de la langue.
+
+### Comment placer un signe d’accent tonique sur une lettre ?
+
+Avec la carte par défaut, appuyez deux fois sur <kbd>Alt</kbd> en relâchant à
+chaque fois, puis sur / à sa position US QWERTY, puis sur la voyelle : par
+exemple, en russe, а → а́. Ces frappes sont successives, pas simultanées.
+Choisissez l’accent avant la lettre. Sur macOS, utilisez <kbd>Option</kbd> ;
+<kbd>Esc</kbd> annule l’accent en attente.
+
+### Quelle différence avec la disposition de [Birman](https://ilyabirman.ru/typography-layout/) pour les lettres étrangères ?
+
+La disposition de Yushkevich permet de parcourir les variantes de la dernière
+lettre avec <kbd>Shift</kbd> et de changer de langue dans la démo. Celle de
+[Birman](https://ilyabirman.ru/typography-layout/) prend aussi en charge les
+diacritiques ; sa carte de symboles sert de base au projet. Le choix dépend de
+vos habitudes et de vos langues.
+
+### Comment saisir €, © ou ™ pour une maquette ?
+
+Recherchez le nom du symbole ou le symbole lui-même dans la démo. Le guide
+explique son usage et sa saisie. Copiez-le dans Figma, un éditeur de texte ou
+une présentation.
+
+### Peut-on essayer la disposition sans l’installer ?
+
+Oui. Ouvrez la démo dans un navigateur et utilisez le clavier physique ou
+visuel. Aucune installation ni aucun pack de langue système n’est nécessaire. La
+saisie reste limitée à la page ; la disposition des autres applications ne
+change pas.
+
 ## Premiers caractères
 
 **Puis** signifie appuyer et relâcher avant la touche suivante ; **+**,

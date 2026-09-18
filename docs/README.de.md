@@ -73,6 +73,50 @@ Sprachpakete im Betriebssystem.
 Varianten. Die Eingabe gilt im Demo; andere Apps benötigen eine separate
 Systeminstallation. Außereuropäische Sprachen werden experimentell unterstützt.
 
+## Häufig gestellte Fragen
+
+### Wie gebe ich Sonderzeichen ohne Alt-Codes ein?
+
+In der Standardbelegung erzeugt <kbd>Alt</kbd> + Minus — und <kbd>Alt</kbd> + /
+…. Für © drücke <kbd>Alt</kbd>, lasse die Taste los und drücke C. Unter macOS
+verwende <kbd>Option</kbd> statt <kbd>Alt</kbd>. Die Tastenpositionen
+entsprechen US QWERTY; weitere Eingabefolgen stehen im Nachschlagewerk.
+
+### Wie gebe ich Umlaute und Akzente schnell ein?
+
+Wähle die Tastatursprache, tippe einen Grundbuchstaben und lasse die Taste los.
+Drücke anschließend <kbd>Shift</kbd> einzeln, um Varianten zu durchlaufen:
+Deutsch u → ü, Französisch e → é → è → ê → ë. Die Varianten hängen von der
+Sprache ab.
+
+### Wie setze ich ein Betonungszeichen über einen Buchstaben?
+
+Drücke in der Standardbelegung zweimal einzeln <kbd>Alt</kbd>, dann / an der
+US-QWERTY-Position und anschließend den Vokal: etwa russisch а → а́. Drücke die
+Tasten nacheinander, nicht gleichzeitig. Wähle das Zeichen vor dem Buchstaben.
+Unter macOS verwende <kbd>Option</kbd>; <kbd>Esc</kbd> bricht den wartenden
+Akzent ab.
+
+### Wie unterscheidet sich Yushkevichs Belegung von [Birman](https://ilyabirman.ru/typography-layout/)s bei fremdsprachigen Buchstaben?
+
+Mit <kbd>Shift</kbd> lassen sich Varianten des zuletzt eingegebenen Buchstabens
+durchlaufen; zugewiesene Sprachen können im Demo gewechselt werden. Auch
+[Birman](https://ilyabirman.ru/typography-layout/)s Belegung unterstützt
+Diakritika. Ihre Symbolanordnung bildet die Grundlage des Projekts. Die Wahl
+hängt von Gewohnheiten und Sprachen ab.
+
+### Wie gebe ich €, © oder ™ für einen Entwurf ein?
+
+Suche im Demo nach dem Namen oder dem Zeichen selbst. Das Nachschlagewerk
+erklärt Verwendung und Eingabe. Kopiere das Zeichen in Figma, einen Texteditor
+oder eine Präsentation.
+
+### Kann ich die Belegung ohne Installation ausprobieren?
+
+Ja. Öffne das Browser-Demo und nutze die physische oder die Bildschirmtastatur.
+Installation und zusätzliche Systemsprachpakete sind nicht nötig. Das Demo wirkt
+nur innerhalb der Seite und ändert die Systembelegung nicht.
+
 ## Erste Zeichen
 
 **Dann** bedeutet drücken und loslassen, bevor die nächste Taste folgt; **+**

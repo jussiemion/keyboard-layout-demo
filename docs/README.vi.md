@@ -74,6 +74,48 @@ Demo không cần cài gói ngôn ngữ hệ điều hành.
 hoạt động trong demo; ứng dụng khác cần cài đặt riêng ở cấp hệ thống. Hỗ trợ
 ngôn ngữ ngoài châu Âu còn thử nghiệm.
 
+## Câu hỏi thường gặp
+
+### Làm sao gõ ký tự đặc biệt mà không dùng mã Alt?
+
+Với bảng ký tự mặc định, <kbd>Alt</kbd> + dấu trừ nhập —, còn <kbd>Alt</kbd> + /
+nhập …. Để nhập ©, nhấn rồi thả <kbd>Alt</kbd>, sau đó nhấn C. Trên macOS, dùng
+<kbd>Option</kbd>. Vị trí phím theo US QWERTY; các chuỗi phím khác có trong phần
+tra cứu.
+
+### Làm sao gõ nhanh chữ có dấu?
+
+Chọn ngôn ngữ bàn phím, gõ chữ cơ sở rồi thả phím. Sau đó nhấn <kbd>Shift</kbd>
+riêng từng lần để chuyển qua các biến thể: tiếng Đức u → ü, tiếng Pháp e → é → è
+→ ê → ë. Các biến thể phụ thuộc vào ngôn ngữ.
+
+### Làm sao thêm dấu trọng âm phía trên chữ?
+
+Với bảng mặc định, nhấn rồi thả <kbd>Alt</kbd> hai lần, sau đó nhấn / ở vị trí
+US QWERTY, rồi gõ nguyên âm: ví dụ trong tiếng Nga, а → а́. Nhấn các phím lần
+lượt, không đồng thời. Chọn dấu trước khi gõ chữ. Trên macOS, dùng
+<kbd>Option</kbd>; <kbd>Esc</kbd> hủy dấu đang chờ.
+
+### Bố cục Yushkevich khác bố cục [Birman](https://ilyabirman.ru/typography-layout/) thế nào khi gõ chữ nước ngoài?
+
+Bạn có thể dùng <kbd>Shift</kbd> để chuyển qua các biến thể của chữ vừa gõ và
+chuyển giữa các ngôn ngữ đã gán trong bản demo. Bố cục
+[Birman](https://ilyabirman.ru/typography-layout/) cũng hỗ trợ dấu phụ; bảng ký
+tự của nó là nền tảng của dự án. Lựa chọn tùy thuộc thói quen và ngôn ngữ sử
+dụng.
+
+### Làm sao nhập €, © hoặc ™ vào thiết kế?
+
+Tìm theo tên hoặc chính ký tự trong bản demo. Phần tra cứu giải thích cách dùng
+và chuỗi phím nhập. Sao chép ký tự vào Figma, trình soạn thảo hoặc bài thuyết
+trình.
+
+### Có thể thử bố cục mà không cài đặt không?
+
+Có. Mở bản demo trong trình duyệt và dùng bàn phím vật lý hoặc bàn phím trên màn
+hình. Không cần cài đặt hay thêm gói ngôn ngữ hệ điều hành. Việc nhập chỉ có
+hiệu lực trong trang, không thay đổi bàn phím của ứng dụng khác.
+
 ## Ký hiệu đầu tiên
 
 Trong chuỗi phím, thả <kbd>Alt</kbd> trước khi nhấn phím tiếp theo. Dấu `+`

@@ -76,6 +76,49 @@ escritura funciona dentro de la demo; otras aplicaciones requieren una
 instalación de sistema independiente. Los idiomas no europeos son
 experimentales.
 
+## Preguntas frecuentes
+
+### ¿Cómo escribir caracteres especiales sin códigos Alt?
+
+En el mapa predeterminado, <kbd>Alt</kbd> + menos escribe — y <kbd>Alt</kbd> + /
+escribe …. Para ©, pulsa y suelta <kbd>Alt</kbd> y después pulsa C. En macOS usa
+<kbd>Option</kbd>. Las posiciones corresponden a US QWERTY; la guía muestra las
+demás secuencias.
+
+### ¿Cómo escribir letras con diacríticos rápidamente?
+
+Elige el idioma del teclado, escribe la letra base y suelta la tecla. Después
+pulsa <kbd>Shift</kbd> por separado para recorrer las variantes: en español n →
+ñ, en alemán u → ü y en francés e → é → è → ê → ë. Las variantes dependen del
+idioma.
+
+### ¿Cómo colocar una marca de acento sobre una letra?
+
+En el mapa predeterminado, pulsa y suelta <kbd>Alt</kbd> dos veces, después / en
+su posición US QWERTY y luego la vocal: por ejemplo, en ruso, а → а́. Son
+pulsaciones consecutivas, no simultáneas. Selecciona el acento antes de la
+letra. En macOS usa <kbd>Option</kbd>; <kbd>Esc</kbd> cancela el acento
+pendiente.
+
+### ¿Qué diferencia hay respecto a la distribución de [Birman](https://ilyabirman.ru/typography-layout/) para letras extranjeras?
+
+La distribución de Yushkevich permite recorrer variantes de la última letra con
+<kbd>Shift</kbd> y cambiar entre idiomas asignados en la demo. La de
+[Birman](https://ilyabirman.ru/typography-layout/) también admite diacríticos;
+su mapa de símbolos es la base del proyecto. La elección depende de tus hábitos
+e idiomas.
+
+### ¿Cómo escribir €, © o ™ para un diseño?
+
+Busca el nombre o el propio símbolo en la demo. La guía explica su uso y cómo
+escribirlo. Copia el símbolo en Figma, un editor de texto o una presentación.
+
+### ¿Puedo probar la distribución sin instalarla?
+
+Sí. Abre la demo en el navegador y usa el teclado físico o el de pantalla. No
+requiere instalación ni paquetes de idiomas del sistema. Solo funciona dentro de
+la página y no cambia el teclado de otras aplicaciones.
+
 ## Primeros caracteres
 
 En las secuencias, suelta <kbd>Alt</kbd> antes de la siguiente tecla. El signo +

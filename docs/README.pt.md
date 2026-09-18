@@ -75,6 +75,48 @@ experimentar a demo.
 escrita funciona na demo; outras aplicações precisam de instalação própria no
 sistema. Os idiomas não europeus são experimentais.
 
+## Perguntas frequentes
+
+### Como escrever caracteres especiais sem códigos Alt?
+
+No mapa padrão, <kbd>Alt</kbd> + menos insere — e <kbd>Alt</kbd> + / insere ….
+Para ©, pressione e solte <kbd>Alt</kbd> e depois pressione C. No macOS, use
+<kbd>Option</kbd>. As posições seguem US QWERTY; o guia apresenta as outras
+sequências.
+
+### Como escrever letras com diacríticos rapidamente?
+
+Escolha o idioma do teclado, digite a letra base e solte a tecla. Depois
+pressione <kbd>Shift</kbd> separadamente para percorrer as variantes: em alemão
+u → ü e em francês e → é → è → ê → ë. As variantes dependem do idioma.
+
+### Como colocar uma marca de acento sobre uma letra?
+
+No mapa padrão, pressione e solte <kbd>Alt</kbd> duas vezes, depois / na posição
+US QWERTY e então a vogal: por exemplo, em russo, а → а́. Pressione as teclas em
+sequência, não ao mesmo tempo. Escolha o acento antes da letra. No macOS, use
+<kbd>Option</kbd>; <kbd>Esc</kbd> cancela o acento pendente.
+
+### Qual é a diferença em relação ao layout de [Birman](https://ilyabirman.ru/typography-layout/) para letras estrangeiras?
+
+O layout de Yushkevich permite percorrer variantes da última letra com
+<kbd>Shift</kbd> e alternar entre idiomas atribuídos na demonstração. O de
+[Birman](https://ilyabirman.ru/typography-layout/) também suporta diacríticos;
+seu mapa de símbolos é a base do projeto. A escolha depende dos seus hábitos e
+idiomas.
+
+### Como escrever €, © ou ™ em um projeto gráfico?
+
+Pesquise pelo nome ou pelo próprio símbolo na demonstração. O guia explica o uso
+e a sequência de entrada. Copie o símbolo para o Figma, um editor de texto ou
+uma apresentação.
+
+### Posso experimentar o layout sem instalar?
+
+Sim. Abra a demonstração no navegador e use o teclado físico ou virtual. Não é
+necessário instalar nada nem adicionar pacotes de idiomas ao sistema. A entrada
+funciona apenas na página e não altera o teclado de outros aplicativos.
+
 ## Primeiros caracteres
 
 Numa sequência, solte <kbd>Alt</kbd> antes da tecla seguinte. O sinal + indica

@@ -74,6 +74,49 @@ variantele limbii selectate. Demo-ul nu necesită pachete de limbă în sistem.
 Introducerea funcționează în demo; alte aplicații necesită instalare separată în
 sistem. Limbile neeuropene sunt experimentale.
 
+## Întrebări frecvente
+
+### Cum introduc caractere speciale fără coduri Alt?
+
+În harta implicită, <kbd>Alt</kbd> + minus introduce —, iar <kbd>Alt</kbd> + /
+introduce …. Pentru ©, apasă și eliberează <kbd>Alt</kbd>, apoi apasă C. Pe
+macOS folosește <kbd>Option</kbd>. Pozițiile corespund tastaturii US QWERTY;
+ghidul prezintă celelalte secvențe.
+
+### Cum introduc rapid litere cu diacritice?
+
+Alege limba tastaturii, scrie litera de bază și eliberează tasta. Apoi apasă
+<kbd>Shift</kbd> separat pentru a parcurge variantele: în germană u → ü, în
+franceză e → é → è → ê → ë. Variantele depind de limbă.
+
+### Cum pun un semn de accent deasupra unei litere?
+
+În harta implicită, apasă și eliberează <kbd>Alt</kbd> de două ori, apoi / în
+poziția US QWERTY și după aceea vocala: de exemplu, în rusă, а → а́. Apasă
+tastele pe rând, nu simultan. Alege accentul înaintea literei. Pe macOS
+folosește <kbd>Option</kbd>; <kbd>Esc</kbd> anulează accentul în așteptare.
+
+### Cum diferă aranjamentul Yushkevich de cel al lui [Birman](https://ilyabirman.ru/typography-layout/) pentru litere străine?
+
+Permite parcurgerea variantelor ultimei litere cu <kbd>Shift</kbd> și comutarea
+între limbile atribuite în demonstrație. Aranjamentul
+[Birman](https://ilyabirman.ru/typography-layout/) acceptă și el diacritice;
+harta sa de simboluri stă la baza proiectului. Alegerea depinde de obiceiuri și
+de limbile folosite.
+
+### Cum introduc €, © sau ™ într-un proiect grafic?
+
+Caută numele sau simbolul în demonstrație. Ghidul explică utilizarea și secvența
+de introducere. Copiază simbolul în Figma, într-un editor de text sau într-o
+prezentare.
+
+### Pot încerca aranjamentul fără instalare?
+
+Da. Deschide demonstrația în browser și folosește tastatura fizică sau cea de pe
+ecran. Nu sunt necesare instalarea ori pachete de limbi ale sistemului.
+Introducerea funcționează doar în pagină și nu schimbă tastatura altor
+aplicații.
+
 ## Primele caractere
 
 **Apoi** înseamnă apăsare și eliberare înainte de următoarea tastă; **+**,

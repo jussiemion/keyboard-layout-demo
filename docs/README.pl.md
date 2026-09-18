@@ -73,6 +73,48 @@ systemu.
 działa w demo; inne aplikacje wymagają osobnej instalacji systemowej. Obsługa
 języków pozaeuropejskich jest eksperymentalna.
 
+## Najczęstsze pytania
+
+### Jak wpisywać znaki specjalne bez kodów Alt?
+
+W domyślnej mapie <kbd>Alt</kbd> + minus wpisuje —, a <kbd>Alt</kbd> + / wpisuje
+…. Aby wpisać ©, naciśnij i zwolnij <kbd>Alt</kbd>, a następnie C. Na macOS
+używaj <kbd>Option</kbd> zamiast <kbd>Alt</kbd>. Pozycje klawiszy odpowiadają US
+QWERTY; pozostałe sekwencje znajdziesz w przewodniku.
+
+### Jak szybko wpisywać litery z diakrytyką?
+
+Wybierz język klawiatury, wpisz literę i zwolnij jej klawisz. Kolejne
+naciśnięcia <kbd>Shift</kbd> zmieniają wariant: po polsku a → ą, po niemiecku u
+→ ü, po francusku e → é → è → ê → ë. Dostępne warianty zależą od języka.
+
+### Jak wpisać znak akcentu nad literą?
+
+W domyślnej mapie naciśnij i zwolnij <kbd>Alt</kbd> dwa razy, następnie / na
+pozycji US QWERTY, a potem samogłoskę: np. rosyjskie а → а́. Naciskaj klawisze
+kolejno, nie jednocześnie. Akcent wybierz przed literą. Na macOS użyj
+<kbd>Option</kbd>; <kbd>Esc</kbd> anuluje oczekujący akcent.
+
+### Czym układ Yushkevicha różni się od układu [Birman](https://ilyabirman.ru/typography-layout/)a przy wpisywaniu obcych liter?
+
+Pozwala zmieniać wariant już wpisanej litery za pomocą <kbd>Shift</kbd> i
+przełączać przypisane języki w demo. Układ
+[Birmana](https://ilyabirman.ru/typography-layout/) również obsługuje
+diakrytykę; jego mapa symboli jest podstawą projektu. Wybór zależy od
+przyzwyczajeń i używanych języków.
+
+### Jak wpisać €, © lub ™ do projektu graficznego?
+
+Wyszukaj znak po nazwie lub wklej go w wyszukiwarkę demo. Przewodnik wyjaśnia
+jego zastosowanie i sposób wpisywania. Skopiuj znak do Figmy, edytora tekstu lub
+prezentacji.
+
+### Czy można wypróbować układ bez instalacji?
+
+Tak. Otwórz demo w przeglądarce i używaj fizycznej lub ekranowej klawiatury. Nie
+potrzebujesz instalacji ani pakietów językowych systemu. Demo działa tylko na
+stronie i nie zmienia układu w innych aplikacjach.
+
 ## Pierwsze znaki
 
 **Potem** oznacza naciśnięcie i zwolnienie przed kolejną literą; **+** —

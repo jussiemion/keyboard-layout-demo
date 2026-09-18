@@ -1,0 +1,408 @@
+{
+  "ru": {
+    "title": "Часто задаваемые вопросы",
+    "items": [
+      [
+        "Как вводить спецсимволы без Alt-кодов?",
+        "В демо раскладки Юшкевича используйте короткие сочетания клавиш. Alt + минус вводит длинное тире —, а Alt + / — многоточие …. Для символа копирайта © нажмите и отпустите Alt, затем нажмите C. На macOS используйте Option вместо Alt. Клавиши указаны по позициям US QWERTY; сочетания для других символов доступны в справочнике."
+      ],
+      [
+        "Как быстро набирать умлауты ä, ö, ü и акценты é, è, ç?",
+        "Выберите язык клавиатуры в демо. Напечатайте базовую букву, отпустите клавишу, затем нажимайте Shift отдельно. В немецком a → ä, o → ö, u → ü; во французском e → é → è → ê → ë, а c → ç. Каждое нажатие Shift выбирает следующий вариант. Набор вариантов зависит от языка."
+      ],
+      [
+        "Как поставить ударение над буквой?",
+        "В стандартной карте нажмите и отпустите Alt два раза, затем нажмите клавишу / (по расположению US QWERTY), а после неё — гласную: например, а → а́. Это последовательные нажатия, а не одновременное сочетание. Ударение выбирается перед буквой. На macOS используйте Option вместо Alt; Esc отменяет ожидающее ударение."
+      ],
+      [
+        "Чем раскладка Юшкевича отличается от раскладки Бирмана при вводе иностранных букв?",
+        "Главное отличие для такого сценария — перебор вариантов уже набранной буквы через Shift и переключение между назначенными языками внутри демо. Это может быть удобно, если вы часто вводите национальные буквы. Раскладка Бирмана также поддерживает диакритику, а её карта символов послужила основой проекта. Выбор зависит от привычек и рабочих языков."
+      ],
+      [
+        "Как набрать символ евро €, копирайт © или товарный знак ™ для макета?",
+        "Найдите символ по названию или самому знаку в поиске демо. Справочник покажет его назначение и способ ввода. Скопируйте нужный знак в Figma, текстовый редактор или презентацию: он вставляется как обычный текстовый символ."
+      ],
+      [
+        "Можно ли попробовать раскладку без установки в Windows или macOS?",
+        "Да. Откройте демо в браузере и печатайте физической клавиатурой или нажимайте экранные клавиши. Для знакомства с раскладкой не нужны установка и языковые пакеты ОС. Ввод действует внутри страницы; системную раскладку для остальных приложений демо не меняет."
+      ]
+    ]
+  },
+  "en": {
+    "title": "Frequently asked questions",
+    "items": [
+      [
+        "How can I type special characters without Alt codes?",
+        "Use short keyboard combinations in Yushkevich’s layout demo. Alt + minus types an em dash —, and Alt + / types an ellipsis …. For the copyright symbol ©, press and release Alt, then press C. On macOS, use Option instead of Alt. These shortcuts use US QWERTY key positions; the reference lists input sequences for other symbols."
+      ],
+      [
+        "How can I type umlauts ä, ö, ü and accented letters é, è, ç quickly?",
+        "Select a keyboard language in the demo. Type a base letter, release its key, then tap Shift separately. In German, use a → ä, o → ö and u → ü; in French, use e → é → è → ê → ë and c → ç. Each Shift tap selects the next variant. Available variants depend on the language."
+      ],
+      [
+        "How do I type a stress mark above a letter?",
+        "With the default symbol map, press and release Alt twice, press the / key in its US QWERTY position, then type a vowel: for example, а → а́ in Russian. Press these keys in sequence, not together. Select the stress mark before typing the letter. On macOS, use Option instead of Alt; Esc cancels the pending accent."
+      ],
+      [
+        "How does Yushkevich’s layout compare with Birman’s for foreign languages?",
+        "For this use case, its distinctive features are cycling a previously typed letter with Shift and switching between assigned languages within the demo. These may suit frequent national-character input. Birman’s layout also supports diacritics, and its symbol map forms the foundation of this project. The better fit depends on your habits and working languages."
+      ],
+      [
+        "How do I type euro €, copyright © or trademark ™ symbols for a design?",
+        "Search the demo by a symbol’s name or by the character itself. The reference explains its purpose and input sequence. Copy the symbol into Figma, a text editor or a presentation: it is inserted as an ordinary text character."
+      ],
+      [
+        "Can I try the layout on Windows or macOS without installing it?",
+        "Yes. Open the browser demo and use your physical keyboard or click the on-screen keys. No installation or OS language packs are needed to try it. Typing works within the page; the demo does not change your system keyboard layout for other applications."
+      ]
+    ]
+  },
+  "pl": {
+    "title": "Najczęstsze pytania",
+    "items": [
+      [
+        "Jak wpisywać znaki specjalne bez kodów Alt?",
+        "W domyślnej mapie Alt + minus wpisuje —, a Alt + / wpisuje …. Aby wpisać ©, naciśnij i zwolnij Alt, a następnie C. Na macOS używaj Option zamiast Alt. Pozycje klawiszy odpowiadają US QWERTY; pozostałe sekwencje znajdziesz w przewodniku."
+      ],
+      [
+        "Jak szybko wpisywać litery z diakrytyką?",
+        "Wybierz język klawiatury, wpisz literę i zwolnij jej klawisz. Kolejne naciśnięcia Shift zmieniają wariant: po polsku a → ą, po niemiecku u → ü, po francusku e → é → è → ê → ë. Dostępne warianty zależą od języka."
+      ],
+      [
+        "Jak wpisać znak akcentu nad literą?",
+        "W domyślnej mapie naciśnij i zwolnij Alt dwa razy, następnie / na pozycji US QWERTY, a potem samogłoskę: np. rosyjskie а → а́. Naciskaj klawisze kolejno, nie jednocześnie. Akcent wybierz przed literą. Na macOS użyj Option; Esc anuluje oczekujący akcent."
+      ],
+      [
+        "Czym układ Yushkevicha różni się od układu Birmana przy wpisywaniu obcych liter?",
+        "Pozwala zmieniać wariant już wpisanej litery za pomocą Shift i przełączać przypisane języki w demo. Układ Birmana również obsługuje diakrytykę; jego mapa symboli jest podstawą projektu. Wybór zależy od przyzwyczajeń i używanych języków."
+      ],
+      [
+        "Jak wpisać €, © lub ™ do projektu graficznego?",
+        "Wyszukaj znak po nazwie lub wklej go w wyszukiwarkę demo. Przewodnik wyjaśnia jego zastosowanie i sposób wpisywania. Skopiuj znak do Figmy, edytora tekstu lub prezentacji."
+      ],
+      [
+        "Czy można wypróbować układ bez instalacji?",
+        "Tak. Otwórz demo w przeglądarce i używaj fizycznej lub ekranowej klawiatury. Nie potrzebujesz instalacji ani pakietów językowych systemu. Demo działa tylko na stronie i nie zmienia układu w innych aplikacjach."
+      ]
+    ]
+  },
+  "de": {
+    "title": "Häufig gestellte Fragen",
+    "items": [
+      [
+        "Wie gebe ich Sonderzeichen ohne Alt-Codes ein?",
+        "In der Standardbelegung erzeugt Alt + Minus — und Alt + / …. Für © drücke Alt, lasse die Taste los und drücke C. Unter macOS verwende Option statt Alt. Die Tastenpositionen entsprechen US QWERTY; weitere Eingabefolgen stehen im Nachschlagewerk."
+      ],
+      [
+        "Wie gebe ich Umlaute und Akzente schnell ein?",
+        "Wähle die Tastatursprache, tippe einen Grundbuchstaben und lasse die Taste los. Drücke anschließend Shift einzeln, um Varianten zu durchlaufen: Deutsch u → ü, Französisch e → é → è → ê → ë. Die Varianten hängen von der Sprache ab."
+      ],
+      [
+        "Wie setze ich ein Betonungszeichen über einen Buchstaben?",
+        "Drücke in der Standardbelegung zweimal einzeln Alt, dann / an der US-QWERTY-Position und anschließend den Vokal: etwa russisch а → а́. Drücke die Tasten nacheinander, nicht gleichzeitig. Wähle das Zeichen vor dem Buchstaben. Unter macOS verwende Option; Esc bricht den wartenden Akzent ab."
+      ],
+      [
+        "Wie unterscheidet sich Yushkevichs Belegung von Birmans bei fremdsprachigen Buchstaben?",
+        "Mit Shift lassen sich Varianten des zuletzt eingegebenen Buchstabens durchlaufen; zugewiesene Sprachen können im Demo gewechselt werden. Auch Birmans Belegung unterstützt Diakritika. Ihre Symbolanordnung bildet die Grundlage des Projekts. Die Wahl hängt von Gewohnheiten und Sprachen ab."
+      ],
+      [
+        "Wie gebe ich €, © oder ™ für einen Entwurf ein?",
+        "Suche im Demo nach dem Namen oder dem Zeichen selbst. Das Nachschlagewerk erklärt Verwendung und Eingabe. Kopiere das Zeichen in Figma, einen Texteditor oder eine Präsentation."
+      ],
+      [
+        "Kann ich die Belegung ohne Installation ausprobieren?",
+        "Ja. Öffne das Browser-Demo und nutze die physische oder die Bildschirmtastatur. Installation und zusätzliche Systemsprachpakete sind nicht nötig. Das Demo wirkt nur innerhalb der Seite und ändert die Systembelegung nicht."
+      ]
+    ]
+  },
+  "fr": {
+    "title": "Questions fréquentes",
+    "items": [
+      [
+        "Comment saisir des caractères spéciaux sans codes Alt ?",
+        "Avec la carte par défaut, Alt + moins produit — et Alt + / produit …. Pour ©, appuyez sur Alt, relâchez, puis appuyez sur C. Sur macOS, utilisez Option. Les positions correspondent au clavier US QWERTY ; le guide indique les autres séquences."
+      ],
+      [
+        "Comment saisir rapidement des lettres accentuées ?",
+        "Choisissez la langue du clavier, tapez une lettre et relâchez sa touche. Appuyez ensuite séparément sur Shift pour parcourir ses variantes : en français e → é → è → ê → ë et c → ç ; en allemand u → ü. Les variantes dépendent de la langue."
+      ],
+      [
+        "Comment placer un signe d’accent tonique sur une lettre ?",
+        "Avec la carte par défaut, appuyez deux fois sur Alt en relâchant à chaque fois, puis sur / à sa position US QWERTY, puis sur la voyelle : par exemple, en russe, а → а́. Ces frappes sont successives, pas simultanées. Choisissez l’accent avant la lettre. Sur macOS, utilisez Option ; Esc annule l’accent en attente."
+      ],
+      [
+        "Quelle différence avec la disposition de Birman pour les lettres étrangères ?",
+        "La disposition de Yushkevich permet de parcourir les variantes de la dernière lettre avec Shift et de changer de langue dans la démo. Celle de Birman prend aussi en charge les diacritiques ; sa carte de symboles sert de base au projet. Le choix dépend de vos habitudes et de vos langues."
+      ],
+      [
+        "Comment saisir €, © ou ™ pour une maquette ?",
+        "Recherchez le nom du symbole ou le symbole lui-même dans la démo. Le guide explique son usage et sa saisie. Copiez-le dans Figma, un éditeur de texte ou une présentation."
+      ],
+      [
+        "Peut-on essayer la disposition sans l’installer ?",
+        "Oui. Ouvrez la démo dans un navigateur et utilisez le clavier physique ou visuel. Aucune installation ni aucun pack de langue système n’est nécessaire. La saisie reste limitée à la page ; la disposition des autres applications ne change pas."
+      ]
+    ]
+  },
+  "es": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      [
+        "¿Cómo escribir caracteres especiales sin códigos Alt?",
+        "En el mapa predeterminado, Alt + menos escribe — y Alt + / escribe …. Para ©, pulsa y suelta Alt y después pulsa C. En macOS usa Option. Las posiciones corresponden a US QWERTY; la guía muestra las demás secuencias."
+      ],
+      [
+        "¿Cómo escribir letras con diacríticos rápidamente?",
+        "Elige el idioma del teclado, escribe la letra base y suelta la tecla. Después pulsa Shift por separado para recorrer las variantes: en español n → ñ, en alemán u → ü y en francés e → é → è → ê → ë. Las variantes dependen del idioma."
+      ],
+      [
+        "¿Cómo colocar una marca de acento sobre una letra?",
+        "En el mapa predeterminado, pulsa y suelta Alt dos veces, después / en su posición US QWERTY y luego la vocal: por ejemplo, en ruso, а → а́. Son pulsaciones consecutivas, no simultáneas. Selecciona el acento antes de la letra. En macOS usa Option; Esc cancela el acento pendiente."
+      ],
+      [
+        "¿Qué diferencia hay respecto a la distribución de Birman para letras extranjeras?",
+        "La distribución de Yushkevich permite recorrer variantes de la última letra con Shift y cambiar entre idiomas asignados en la demo. La de Birman también admite diacríticos; su mapa de símbolos es la base del proyecto. La elección depende de tus hábitos e idiomas."
+      ],
+      [
+        "¿Cómo escribir €, © o ™ para un diseño?",
+        "Busca el nombre o el propio símbolo en la demo. La guía explica su uso y cómo escribirlo. Copia el símbolo en Figma, un editor de texto o una presentación."
+      ],
+      [
+        "¿Puedo probar la distribución sin instalarla?",
+        "Sí. Abre la demo en el navegador y usa el teclado físico o el de pantalla. No requiere instalación ni paquetes de idiomas del sistema. Solo funciona dentro de la página y no cambia el teclado de otras aplicaciones."
+      ]
+    ]
+  },
+  "pt": {
+    "title": "Perguntas frequentes",
+    "items": [
+      [
+        "Como escrever caracteres especiais sem códigos Alt?",
+        "No mapa padrão, Alt + menos insere — e Alt + / insere …. Para ©, pressione e solte Alt e depois pressione C. No macOS, use Option. As posições seguem US QWERTY; o guia apresenta as outras sequências."
+      ],
+      [
+        "Como escrever letras com diacríticos rapidamente?",
+        "Escolha o idioma do teclado, digite a letra base e solte a tecla. Depois pressione Shift separadamente para percorrer as variantes: em alemão u → ü e em francês e → é → è → ê → ë. As variantes dependem do idioma."
+      ],
+      [
+        "Como colocar uma marca de acento sobre uma letra?",
+        "No mapa padrão, pressione e solte Alt duas vezes, depois / na posição US QWERTY e então a vogal: por exemplo, em russo, а → а́. Pressione as teclas em sequência, não ao mesmo tempo. Escolha o acento antes da letra. No macOS, use Option; Esc cancela o acento pendente."
+      ],
+      [
+        "Qual é a diferença em relação ao layout de Birman para letras estrangeiras?",
+        "O layout de Yushkevich permite percorrer variantes da última letra com Shift e alternar entre idiomas atribuídos na demonstração. O de Birman também suporta diacríticos; seu mapa de símbolos é a base do projeto. A escolha depende dos seus hábitos e idiomas."
+      ],
+      [
+        "Como escrever €, © ou ™ em um projeto gráfico?",
+        "Pesquise pelo nome ou pelo próprio símbolo na demonstração. O guia explica o uso e a sequência de entrada. Copie o símbolo para o Figma, um editor de texto ou uma apresentação."
+      ],
+      [
+        "Posso experimentar o layout sem instalar?",
+        "Sim. Abra a demonstração no navegador e use o teclado físico ou virtual. Não é necessário instalar nada nem adicionar pacotes de idiomas ao sistema. A entrada funciona apenas na página e não altera o teclado de outros aplicativos."
+      ]
+    ]
+  },
+  "it": {
+    "title": "Domande frequenti",
+    "items": [
+      [
+        "Come si digitano i caratteri speciali senza codici Alt?",
+        "Nella mappa predefinita, Alt + meno inserisce — e Alt + / inserisce …. Per ©, premi e rilascia Alt, poi premi C. Su macOS usa Option. Le posizioni seguono US QWERTY; la guida riporta le altre sequenze."
+      ],
+      [
+        "Come si digitano rapidamente le lettere con segni diacritici?",
+        "Scegli la lingua della tastiera, digita la lettera di base e rilascia il tasto. Poi premi Shift separatamente per scorrere le varianti: in tedesco u → ü, in francese e → é → è → ê → ë. Le varianti dipendono dalla lingua."
+      ],
+      [
+        "Come si inserisce un segno di accento sopra una lettera?",
+        "Nella mappa predefinita, premi e rilascia Alt due volte, poi / nella posizione US QWERTY e infine la vocale: per esempio, in russo, а → а́. Premi i tasti in sequenza, non insieme. Scegli l’accento prima della lettera. Su macOS usa Option; Esc annulla l’accento in attesa."
+      ],
+      [
+        "Qual è la differenza rispetto alla disposizione di Birman per le lettere straniere?",
+        "La disposizione di Yushkevich permette di scorrere le varianti dell’ultima lettera con Shift e cambiare tra le lingue assegnate nella demo. Anche quella di Birman supporta i diacritici; la sua mappa dei simboli è alla base del progetto. La scelta dipende dalle abitudini e dalle lingue usate."
+      ],
+      [
+        "Come si inseriscono €, © o ™ in un progetto grafico?",
+        "Cerca il nome o il simbolo stesso nella demo. La guida ne spiega l’uso e la sequenza di digitazione. Copialo in Figma, in un editor di testo o in una presentazione."
+      ],
+      [
+        "Posso provare la disposizione senza installarla?",
+        "Sì. Apri la demo nel browser e usa la tastiera fisica o quella su schermo. Non servono installazioni né pacchetti linguistici di sistema. La digitazione funziona solo nella pagina e non modifica la tastiera delle altre applicazioni."
+      ]
+    ]
+  },
+  "ro": {
+    "title": "Întrebări frecvente",
+    "items": [
+      [
+        "Cum introduc caractere speciale fără coduri Alt?",
+        "În harta implicită, Alt + minus introduce —, iar Alt + / introduce …. Pentru ©, apasă și eliberează Alt, apoi apasă C. Pe macOS folosește Option. Pozițiile corespund tastaturii US QWERTY; ghidul prezintă celelalte secvențe."
+      ],
+      [
+        "Cum introduc rapid litere cu diacritice?",
+        "Alege limba tastaturii, scrie litera de bază și eliberează tasta. Apoi apasă Shift separat pentru a parcurge variantele: în germană u → ü, în franceză e → é → è → ê → ë. Variantele depind de limbă."
+      ],
+      [
+        "Cum pun un semn de accent deasupra unei litere?",
+        "În harta implicită, apasă și eliberează Alt de două ori, apoi / în poziția US QWERTY și după aceea vocala: de exemplu, în rusă, а → а́. Apasă tastele pe rând, nu simultan. Alege accentul înaintea literei. Pe macOS folosește Option; Esc anulează accentul în așteptare."
+      ],
+      [
+        "Cum diferă aranjamentul Yushkevich de cel al lui Birman pentru litere străine?",
+        "Permite parcurgerea variantelor ultimei litere cu Shift și comutarea între limbile atribuite în demonstrație. Aranjamentul Birman acceptă și el diacritice; harta sa de simboluri stă la baza proiectului. Alegerea depinde de obiceiuri și de limbile folosite."
+      ],
+      [
+        "Cum introduc €, © sau ™ într-un proiect grafic?",
+        "Caută numele sau simbolul în demonstrație. Ghidul explică utilizarea și secvența de introducere. Copiază simbolul în Figma, într-un editor de text sau într-o prezentare."
+      ],
+      [
+        "Pot încerca aranjamentul fără instalare?",
+        "Da. Deschide demonstrația în browser și folosește tastatura fizică sau cea de pe ecran. Nu sunt necesare instalarea ori pachete de limbi ale sistemului. Introducerea funcționează doar în pagină și nu schimbă tastatura altor aplicații."
+      ]
+    ]
+  },
+  "nl": {
+    "title": "Veelgestelde vragen",
+    "items": [
+      [
+        "Hoe typ ik speciale tekens zonder Alt-codes?",
+        "In de standaardindeling typt Alt + min — en Alt + / …. Voor © druk je op Alt, laat je los en druk je op C. Op macOS gebruik je Option. De toetsposities volgen US QWERTY; andere invoerreeksen staan in de naslaggids."
+      ],
+      [
+        "Hoe typ ik snel letters met diakritische tekens?",
+        "Kies de toetsenbordtaal, typ een basisletter en laat de toets los. Druk daarna afzonderlijk op Shift om varianten te doorlopen: Duits u → ü, Frans e → é → è → ê → ë. De varianten hangen af van de taal."
+      ],
+      [
+        "Hoe plaats ik een klemtoonteken boven een letter?",
+        "Druk in de standaardindeling tweemaal op Alt en laat telkens los, druk daarna op / op de US-QWERTY-positie en typ vervolgens de klinker: bijvoorbeeld Russisch а → а́. Druk de toetsen achter elkaar in, niet tegelijk. Kies het accent vóór de letter. Op macOS gebruik je Option; Esc annuleert het wachtende accent."
+      ],
+      [
+        "Hoe verschilt de indeling van Yushkevich van die van Birman voor buitenlandse letters?",
+        "Je kunt varianten van de laatste letter doorlopen met Shift en schakelen tussen toegewezen talen in de demo. Birmans indeling ondersteunt ook diakritische tekens; zijn symboolkaart vormt de basis van dit project. De keuze hangt af van je gewoonten en talen."
+      ],
+      [
+        "Hoe typ ik €, © of ™ voor een ontwerp?",
+        "Zoek in de demo op de naam of het teken zelf. De naslaggids legt het gebruik en de invoer uit. Kopieer het teken naar Figma, een teksteditor of een presentatie."
+      ],
+      [
+        "Kan ik de indeling zonder installatie proberen?",
+        "Ja. Open de demo in je browser en gebruik je fysieke toetsenbord of het schermtoetsenbord. Installatie en extra systeemtaalpakketten zijn niet nodig. De invoer werkt alleen binnen de pagina en verandert de indeling in andere apps niet."
+      ]
+    ]
+  },
+  "tr": {
+    "title": "Sık sorulan sorular",
+    "items": [
+      [
+        "Alt kodları olmadan özel karakterleri nasıl yazabilirim?",
+        "Varsayılan eşlemede Alt + eksi —, Alt + / ise … yazar. © için Alt tuşuna basıp bırakın, ardından C tuşuna basın. macOS’ta Option kullanın. Tuş konumları US QWERTY’ye göredir; diğer giriş dizileri başvuru kılavuzundadır."
+      ],
+      [
+        "Aksanlı harfleri nasıl hızlı yazabilirim?",
+        "Klavye dilini seçin, temel harfi yazıp tuşu bırakın. Ardından Shift tuşuna ayrı ayrı basarak seçenekleri dolaşın: Almancada u → ü, Fransızcada e → é → è → ê → ë. Seçenekler dile göre değişir."
+      ],
+      [
+        "Bir harfin üzerine vurgu işareti nasıl koyabilirim?",
+        "Varsayılan eşlemede Alt tuşuna iki kez basıp bırakın, ardından US QWERTY konumundaki / tuşuna, sonra ünlü harfe basın: örneğin Rusçada а → а́. Tuşlara birlikte değil, sırayla basın. İşareti harften önce seçin. macOS’ta Option kullanın; Esc bekleyen aksanı iptal eder."
+      ],
+      [
+        "Yabancı harfler için Yushkevich düzeni Birman düzeninden nasıl ayrılır?",
+        "Son yazılan harfin seçeneklerini Shift ile dolaşmayı ve demoda atanmış diller arasında geçiş yapmayı sağlar. Birman düzeni de aksan işaretlerini destekler; projenin temelinde onun sembol haritası vardır. Tercih, alışkanlıklara ve kullanılan dillere bağlıdır."
+      ],
+      [
+        "Bir tasarım için €, © veya ™ nasıl yazabilirim?",
+        "Demoda sembolün adını veya kendisini arayın. Kılavuz, kullanımını ve giriş dizisini açıklar. Sembolü Figma’ya, bir metin düzenleyiciye veya sunuma kopyalayın."
+      ],
+      [
+        "Düzeni kurmadan deneyebilir miyim?",
+        "Evet. Demoyu tarayıcıda açıp fiziksel veya ekran klavyesini kullanın. Kurulum ya da sistem dil paketi gerekmez. Giriş yalnızca sayfada çalışır; diğer uygulamaların klavye düzenini değiştirmez."
+      ]
+    ]
+  },
+  "vi": {
+    "title": "Câu hỏi thường gặp",
+    "items": [
+      [
+        "Làm sao gõ ký tự đặc biệt mà không dùng mã Alt?",
+        "Với bảng ký tự mặc định, Alt + dấu trừ nhập —, còn Alt + / nhập …. Để nhập ©, nhấn rồi thả Alt, sau đó nhấn C. Trên macOS, dùng Option. Vị trí phím theo US QWERTY; các chuỗi phím khác có trong phần tra cứu."
+      ],
+      [
+        "Làm sao gõ nhanh chữ có dấu?",
+        "Chọn ngôn ngữ bàn phím, gõ chữ cơ sở rồi thả phím. Sau đó nhấn Shift riêng từng lần để chuyển qua các biến thể: tiếng Đức u → ü, tiếng Pháp e → é → è → ê → ë. Các biến thể phụ thuộc vào ngôn ngữ."
+      ],
+      [
+        "Làm sao thêm dấu trọng âm phía trên chữ?",
+        "Với bảng mặc định, nhấn rồi thả Alt hai lần, sau đó nhấn / ở vị trí US QWERTY, rồi gõ nguyên âm: ví dụ trong tiếng Nga, а → а́. Nhấn các phím lần lượt, không đồng thời. Chọn dấu trước khi gõ chữ. Trên macOS, dùng Option; Esc hủy dấu đang chờ."
+      ],
+      [
+        "Bố cục Yushkevich khác bố cục Birman thế nào khi gõ chữ nước ngoài?",
+        "Bạn có thể dùng Shift để chuyển qua các biến thể của chữ vừa gõ và chuyển giữa các ngôn ngữ đã gán trong bản demo. Bố cục Birman cũng hỗ trợ dấu phụ; bảng ký tự của nó là nền tảng của dự án. Lựa chọn tùy thuộc thói quen và ngôn ngữ sử dụng."
+      ],
+      [
+        "Làm sao nhập €, © hoặc ™ vào thiết kế?",
+        "Tìm theo tên hoặc chính ký tự trong bản demo. Phần tra cứu giải thích cách dùng và chuỗi phím nhập. Sao chép ký tự vào Figma, trình soạn thảo hoặc bài thuyết trình."
+      ],
+      [
+        "Có thể thử bố cục mà không cài đặt không?",
+        "Có. Mở bản demo trong trình duyệt và dùng bàn phím vật lý hoặc bàn phím trên màn hình. Không cần cài đặt hay thêm gói ngôn ngữ hệ điều hành. Việc nhập chỉ có hiệu lực trong trang, không thay đổi bàn phím của ứng dụng khác."
+      ]
+    ]
+  },
+  "he": {
+    "title": "שאלות נפוצות",
+    "items": [
+      [
+        "איך מקלידים סימנים מיוחדים בלי קודי Alt?",
+        "במיפוי ברירת המחדל, Alt + מינוס מקליד — ו־Alt + / מקליד …. כדי להקליד ©, לחצו על Alt ושחררו, ואז לחצו על C. ב־macOS השתמשו ב־Option. מיקומי המקשים הם לפי US QWERTY; רצפים נוספים מופיעים במדריך."
+      ],
+      [
+        "איך מקלידים במהירות אותיות עם סימנים דיאקריטיים?",
+        "בחרו שפת מקלדת, הקלידו אות בסיס ושחררו את המקש. בשפות התומכות במחזור, לחיצות נפרדות על Shift עוברות בין הגרסאות: בגרמנית u → ü ובצרפתית e → é → è → ê → ë. האפשרויות תלויות בשפה; ניקוד בעברית מוזן באמצעות Alt הימני."
+      ],
+      [
+        "איך מוסיפים סימן הטעמה מעל אות?",
+        "במיפוי ברירת המחדל, לחצו על Alt ושחררו פעמיים, אחר כך לחצו על / במיקום US QWERTY, ואז הקלידו תנועה: למשל ברוסית а → а́. הלחיצות הן בזו אחר זו ולא יחד. בוחרים את הסימן לפני האות. ב־macOS השתמשו ב־Option; Esc מבטל את הסימן הממתין. זהו סימן הטעמה, לא ניקוד עברי."
+      ],
+      [
+        "במה פריסת Yushkevich שונה מפריסת Birman בהקלדת אותיות זרות?",
+        "היא מאפשרת לעבור בין גרסאות האות האחרונה באמצעות Shift ולהחליף בין שפות שהוגדרו בהדגמה. גם פריסת Birman תומכת בסימנים דיאקריטיים; מפת הסימנים שלה היא הבסיס לפרויקט. הבחירה תלויה בהרגלים ובשפות שבהן משתמשים."
+      ],
+      [
+        "איך מקלידים €, © או ™ לעיצוב?",
+        "חפשו בהדגמה לפי שם הסימן או לפי הסימן עצמו. המדריך מסביר את השימוש ואת רצף ההקלדה. אפשר להעתיק את הסימן ל־Figma, לעורך טקסט או למצגת."
+      ],
+      [
+        "אפשר לנסות את הפריסה בלי התקנה?",
+        "כן. פתחו את ההדגמה בדפדפן והשתמשו במקלדת פיזית או במקלדת שעל המסך. אין צורך בהתקנה או בחבילות שפה למערכת. ההקלדה פועלת רק בתוך הדף ואינה משנה את המקלדת ביישומים אחרים."
+      ]
+    ]
+  },
+  "ar": {
+    "title": "الأسئلة الشائعة",
+    "items": [
+      [
+        "كيف أكتب الرموز الخاصة دون أكواد Alt؟",
+        "في الخريطة الافتراضية، يُدخل Alt + ناقص الرمز —، ويُدخل Alt + / الرمز …. لكتابة © اضغط Alt ثم اتركه، وبعده اضغط C. على macOS استخدم Option. مواضع المفاتيح وفق US QWERTY؛ تجد التسلسلات الأخرى في المرجع."
+      ],
+      [
+        "كيف أكتب الحروف ذات العلامات بسرعة؟",
+        "اختر لغة لوحة المفاتيح، واكتب الحرف الأساسي ثم اترك مفتاحه. في اللغات التي تدعم التدوير، اضغط Shift بشكل منفصل للتنقل بين البدائل: بالألمانية u → ü وبالفرنسية e → é → è → ê → ë. البدائل تعتمد على اللغة؛ أما التشكيل العربي فيُكتب مع الضغط المستمر على Shift."
+      ],
+      [
+        "كيف أضع علامة نبر فوق حرف؟",
+        "في الخريطة الافتراضية، اضغط Alt واتركه مرتين، ثم اضغط / في موضع US QWERTY، وبعده اكتب حرف العلة: مثلًا بالروسية а → а́. اضغط المفاتيح بالتتابع لا معًا، واختر العلامة قبل الحرف. على macOS استخدم Option؛ يلغي Esc العلامة المنتظرة. هذه علامة نبر وليست حركة من التشكيل العربي."
+      ],
+      [
+        "بماذا يختلف تخطيط Yushkevich عن تخطيط Birman لكتابة الحروف الأجنبية؟",
+        "يتيح التنقل بين بدائل آخر حرف باستخدام Shift والتبديل بين اللغات المعيّنة داخل العرض التجريبي. يدعم تخطيط Birman العلامات أيضًا، وخريطة رموزه هي أساس المشروع. الاختيار يعتمد على عاداتك واللغات التي تستخدمها."
+      ],
+      [
+        "كيف أكتب €, © أو ™ في تصميم؟",
+        "ابحث في العرض التجريبي باسم الرمز أو بالرمز نفسه. يوضح المرجع استخدامه وتسلسل إدخاله. انسخه إلى Figma أو محرر نصوص أو عرض تقديمي."
+      ],
+      [
+        "هل يمكن تجربة التخطيط دون تثبيت؟",
+        "نعم. افتح العرض التجريبي في المتصفح واستخدم لوحة المفاتيح الفعلية أو المعروضة على الشاشة. لا تحتاج إلى تثبيت أو حزم لغات للنظام. يعمل الإدخال داخل الصفحة فقط ولا يغيّر لوحة المفاتيح في التطبيقات الأخرى."
+      ]
+    ]
+  }
+}

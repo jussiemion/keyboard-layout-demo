@@ -73,6 +73,49 @@ varianten van de gekozen taal. Voor de demo zijn geen taalpakketten nodig.
 in de demo; andere apps vereisen een aparte systeeminstallatie. Niet-Europese
 talen zijn experimenteel.
 
+## Veelgestelde vragen
+
+### Hoe typ ik speciale tekens zonder Alt-codes?
+
+In de standaardindeling typt <kbd>Alt</kbd> + min — en <kbd>Alt</kbd> + / ….
+Voor © druk je op <kbd>Alt</kbd>, laat je los en druk je op C. Op macOS gebruik
+je <kbd>Option</kbd>. De toetsposities volgen US QWERTY; andere invoerreeksen
+staan in de naslaggids.
+
+### Hoe typ ik snel letters met diakritische tekens?
+
+Kies de toetsenbordtaal, typ een basisletter en laat de toets los. Druk daarna
+afzonderlijk op <kbd>Shift</kbd> om varianten te doorlopen: Duits u → ü, Frans e
+→ é → è → ê → ë. De varianten hangen af van de taal.
+
+### Hoe plaats ik een klemtoonteken boven een letter?
+
+Druk in de standaardindeling tweemaal op <kbd>Alt</kbd> en laat telkens los,
+druk daarna op / op de US-QWERTY-positie en typ vervolgens de klinker:
+bijvoorbeeld Russisch а → а́. Druk de toetsen achter elkaar in, niet tegelijk.
+Kies het accent vóór de letter. Op macOS gebruik je <kbd>Option</kbd>;
+<kbd>Esc</kbd> annuleert het wachtende accent.
+
+### Hoe verschilt de indeling van Yushkevich van die van [Birman](https://ilyabirman.ru/typography-layout/) voor buitenlandse letters?
+
+Je kunt varianten van de laatste letter doorlopen met <kbd>Shift</kbd> en
+schakelen tussen toegewezen talen in de demo.
+[Birman](https://ilyabirman.ru/typography-layout/)s indeling ondersteunt ook
+diakritische tekens; zijn symboolkaart vormt de basis van dit project. De keuze
+hangt af van je gewoonten en talen.
+
+### Hoe typ ik €, © of ™ voor een ontwerp?
+
+Zoek in de demo op de naam of het teken zelf. De naslaggids legt het gebruik en
+de invoer uit. Kopieer het teken naar Figma, een teksteditor of een presentatie.
+
+### Kan ik de indeling zonder installatie proberen?
+
+Ja. Open de demo in je browser en gebruik je fysieke toetsenbord of het
+schermtoetsenbord. Installatie en extra systeemtaalpakketten zijn niet nodig. De
+invoer werkt alleen binnen de pagina en verandert de indeling in andere apps
+niet.
+
 ## Eerste symbolen
 
 Laat <kbd>Alt</kbd> los voordat je de volgende toets van een reeks indrukt. `+`

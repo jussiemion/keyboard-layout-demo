@@ -75,6 +75,48 @@ sistema.
 La digitazione funziona nella demo; le altre app richiedono un’installazione di
 sistema separata. Le lingue non europee sono sperimentali.
 
+## Domande frequenti
+
+### Come si digitano i caratteri speciali senza codici Alt?
+
+Nella mappa predefinita, <kbd>Alt</kbd> + meno inserisce — e <kbd>Alt</kbd> + /
+inserisce …. Per ©, premi e rilascia <kbd>Alt</kbd>, poi premi C. Su macOS usa
+<kbd>Option</kbd>. Le posizioni seguono US QWERTY; la guida riporta le altre
+sequenze.
+
+### Come si digitano rapidamente le lettere con segni diacritici?
+
+Scegli la lingua della tastiera, digita la lettera di base e rilascia il tasto.
+Poi premi <kbd>Shift</kbd> separatamente per scorrere le varianti: in tedesco u
+→ ü, in francese e → é → è → ê → ë. Le varianti dipendono dalla lingua.
+
+### Come si inserisce un segno di accento sopra una lettera?
+
+Nella mappa predefinita, premi e rilascia <kbd>Alt</kbd> due volte, poi / nella
+posizione US QWERTY e infine la vocale: per esempio, in russo, а → а́. Premi i
+tasti in sequenza, non insieme. Scegli l’accento prima della lettera. Su macOS
+usa <kbd>Option</kbd>; <kbd>Esc</kbd> annulla l’accento in attesa.
+
+### Qual è la differenza rispetto alla disposizione di [Birman](https://ilyabirman.ru/typography-layout/) per le lettere straniere?
+
+La disposizione di Yushkevich permette di scorrere le varianti dell’ultima
+lettera con <kbd>Shift</kbd> e cambiare tra le lingue assegnate nella demo.
+Anche quella di [Birman](https://ilyabirman.ru/typography-layout/) supporta i
+diacritici; la sua mappa dei simboli è alla base del progetto. La scelta dipende
+dalle abitudini e dalle lingue usate.
+
+### Come si inseriscono €, © o ™ in un progetto grafico?
+
+Cerca il nome o il simbolo stesso nella demo. La guida ne spiega l’uso e la
+sequenza di digitazione. Copialo in Figma, in un editor di testo o in una
+presentazione.
+
+### Posso provare la disposizione senza installarla?
+
+Sì. Apri la demo nel browser e usa la tastiera fisica o quella su schermo. Non
+servono installazioni né pacchetti linguistici di sistema. La digitazione
+funziona solo nella pagina e non modifica la tastiera delle altre applicazioni.
+
 ## Primi caratteri
 
 Nelle sequenze, rilascia <kbd>Alt</kbd> prima del tasto successivo. Il segno +

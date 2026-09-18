@@ -72,6 +72,48 @@ denemek için sisteme dil paketi kurmanız gerekmez.
 içinde çalışır; diğer uygulamalar ayrı sistem kurulumu gerektirir. Avrupa dışı
 dillerin desteği deneyseldir.
 
+## Sık sorulan sorular
+
+### Alt kodları olmadan özel karakterleri nasıl yazabilirim?
+
+Varsayılan eşlemede <kbd>Alt</kbd> + eksi —, <kbd>Alt</kbd> + / ise … yazar. ©
+için <kbd>Alt</kbd> tuşuna basıp bırakın, ardından C tuşuna basın. macOS’ta
+<kbd>Option</kbd> kullanın. Tuş konumları US QWERTY’ye göredir; diğer giriş
+dizileri başvuru kılavuzundadır.
+
+### Aksanlı harfleri nasıl hızlı yazabilirim?
+
+Klavye dilini seçin, temel harfi yazıp tuşu bırakın. Ardından <kbd>Shift</kbd>
+tuşuna ayrı ayrı basarak seçenekleri dolaşın: Almancada u → ü, Fransızcada e → é
+→ è → ê → ë. Seçenekler dile göre değişir.
+
+### Bir harfin üzerine vurgu işareti nasıl koyabilirim?
+
+Varsayılan eşlemede <kbd>Alt</kbd> tuşuna iki kez basıp bırakın, ardından US
+QWERTY konumundaki / tuşuna, sonra ünlü harfe basın: örneğin Rusçada а → а́.
+Tuşlara birlikte değil, sırayla basın. İşareti harften önce seçin. macOS’ta
+<kbd>Option</kbd> kullanın; <kbd>Esc</kbd> bekleyen aksanı iptal eder.
+
+### Yabancı harfler için Yushkevich düzeni [Birman](https://ilyabirman.ru/typography-layout/) düzeninden nasıl ayrılır?
+
+Son yazılan harfin seçeneklerini <kbd>Shift</kbd> ile dolaşmayı ve demoda
+atanmış diller arasında geçiş yapmayı sağlar.
+[Birman](https://ilyabirman.ru/typography-layout/) düzeni de aksan işaretlerini
+destekler; projenin temelinde onun sembol haritası vardır. Tercih,
+alışkanlıklara ve kullanılan dillere bağlıdır.
+
+### Bir tasarım için €, © veya ™ nasıl yazabilirim?
+
+Demoda sembolün adını veya kendisini arayın. Kılavuz, kullanımını ve giriş
+dizisini açıklar. Sembolü Figma’ya, bir metin düzenleyiciye veya sunuma
+kopyalayın.
+
+### Düzeni kurmadan deneyebilir miyim?
+
+Evet. Demoyu tarayıcıda açıp fiziksel veya ekran klavyesini kullanın. Kurulum ya
+da sistem dil paketi gerekmez. Giriş yalnızca sayfada çalışır; diğer
+uygulamaların klavye düzenini değiştirmez.
+
 ## İlk simgeler
 
 Sıralı girişte <kbd>Alt</kbd> tuşunu sonraki tuştan önce bırakın. `+` birlikte

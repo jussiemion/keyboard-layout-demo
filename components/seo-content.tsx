@@ -12,6 +12,7 @@ import { localePath, referencePath, REPOSITORY_URL } from '@/lib/seo';
 import copy from '@/lib/audience-copy.json';
 import seoCopy from '@/lib/seo-copy.json';
 import details from '@/lib/audience-details.json';
+import faqCopy from '@/lib/faq-copy.json';
 
 const examples = [
   { id: 'writers', icon: PenLine, symbols: ['—', '«', '»', '„', '“'] },
@@ -30,6 +31,7 @@ const examples = [
 export function SeoContent({ page }: { page: 'trainer' | 'reference' }) {
   const { uiLocale, m } = useLocale();
   const overview = seoCopy[uiLocale];
+  const faq = faqCopy[uiLocale];
   const LinkIcon = page === 'trainer' ? BookOpen : Keyboard;
   const text = copy[uiLocale];
   const expanded =
@@ -145,42 +147,38 @@ export function SeoContent({ page }: { page: 'trainer' | 'reference' }) {
       <p className="text-muted-foreground mt-5 text-sm leading-7 text-pretty">
         {expanded?.scope ?? text.scope}
       </p>
-      {expanded && (
-        <section aria-labelledby="faq-heading" className="mt-14 sm:mt-16">
-          <h2
-            id="faq-heading"
-            className="text-foreground mb-6 text-xl font-semibold tracking-tight text-balance sm:text-2xl"
-          >
-            {expanded.faqTitle}
-          </h2>
-          <div className="border-border divide-border divide-y rounded-2xl border">
-            {expanded.faq.map(([question, answer]) => (
-              <details key={question} className="group px-5 sm:px-6">
-                <summary
+      <section aria-labelledby="faq-heading" className="mt-14 sm:mt-16">
+        <h2
+          id="faq-heading"
+          className="text-foreground mb-6 text-xl font-semibold tracking-tight text-balance sm:text-2xl"
+        >
+          {faq.title}
+        </h2>
+        <div className="border-border divide-border divide-y rounded-2xl border">
+          {faq.items.map(([question, answer]) => (
+            <details key={question} className="group px-5 sm:px-6">
+              <summary
+                className={[
+                  'text-foreground flex cursor-pointer list-none items-start',
+                  'justify-between gap-4 rounded-sm py-5 font-medium text-balance',
+                  'focus-visible:outline-2 focus-visible:outline-ring',
+                  '[&::-webkit-details-marker]:hidden',
+                ].join(' ')}
+              >
+                {question}
+                <ChevronDown
+                  aria-hidden="true"
                   className={[
-                    'text-foreground flex cursor-pointer list-none items-start',
-                    'justify-between gap-4 rounded-sm py-5 font-medium text-balance',
-                    'focus-visible:outline-2 focus-visible:outline-ring',
-                    '[&::-webkit-details-marker]:hidden',
+                    'text-muted-foreground mt-0.5 size-4 shrink-0 transition-transform',
+                    'group-open:rotate-180 motion-reduce:transition-none',
                   ].join(' ')}
-                >
-                  {question}
-                  <ChevronDown
-                    aria-hidden="true"
-                    className={[
-                      'text-muted-foreground mt-0.5 size-4 shrink-0 transition-transform',
-                      'group-open:rotate-180 motion-reduce:transition-none',
-                    ].join(' ')}
-                  />
-                </summary>
-                <p className="text-muted-foreground pb-6 text-pretty">
-                  {answer}
-                </p>
-              </details>
-            ))}
-          </div>
-        </section>
-      )}
+                />
+              </summary>
+              <p className="text-muted-foreground pb-6 text-pretty">{answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
       <footer className="text-muted-foreground mt-12 text-sm leading-7 sm:mt-16">
         {overview.basedOn}{' '}
         <a

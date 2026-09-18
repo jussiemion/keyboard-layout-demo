@@ -86,19 +86,21 @@ for its
 [AI search features](https://developers.google.com/search/docs/appearance/ai-features);
 no ranking or AI citation is guaranteed.
 
-## English and Russian benefits and FAQ
+## Localized benefits and FAQ
 
-`lib/audience-details.json` contains the English and Russian benefit lists and
-five FAQ answers. `SeoContent` renders them as visible headings, lists and
-paragraphs on both the trainer and reference pages. The corresponding README
-sections use the same copy; keep them in sync when editing. Other locales keep
-their translated audience introductions.
+`lib/audience-details.json` contains the English and Russian benefit lists.
+`lib/faq-copy.json` contains six FAQ answers for all 14 interface languages.
+`SeoContent` renders them as visible headings, lists and paragraphs on both the
+trainer and reference pages. The corresponding README sections use the same
+copy; keep them in sync when editing. Other locales keep their translated
+audience introductions alongside the complete FAQ.
 
 The application schema includes the benefit labels as `featureList`, a stable
 application identifier and the browser operating environment. Existing
 canonical, Open Graph, Twitter and language alternate metadata remain in place.
 English and Russian titles stay within 60 characters and descriptions within 160
-characters. The export verifies both those limits and the visible FAQ answers.
+characters. The export verifies those limits and checks the visible FAQ answers
+in every language on both the trainer and reference pages.
 
 README uses Markdown FAQ headings. It does not embed executable JSON-LD. Google
 discontinued FAQ rich results in 2026; this content answers reader questions

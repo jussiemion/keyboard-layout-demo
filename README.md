@@ -137,6 +137,14 @@ then tap <kbd>Shift</kbd> separately. In German, use a → ä, o → ö and u �
 French, use e → é → è → ê → ë and c → ç. Each <kbd>Shift</kbd> tap selects the
 next variant. Available variants depend on the language.
 
+### How do I type a stress mark above a letter?
+
+With the default symbol map, press and release <kbd>Alt</kbd> twice, press the
+<kbd>/</kbd> key in its US QWERTY position, then type a vowel: for example, а →
+а́ in Russian. Press these keys in sequence, not together. Select the stress mark
+before typing the letter. On macOS, use <kbd>Option</kbd> instead of
+<kbd>Alt</kbd>; <kbd>Esc</kbd> cancels the pending accent.
+
 ### How does Semyon Yushkevich’s layout compare with [Birman’s](https://ilyabirman.ru/typography-layout/) for foreign languages?
 
 For this use case, its distinctive features are cycling a previously typed
