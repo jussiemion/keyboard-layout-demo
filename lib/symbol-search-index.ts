@@ -1,5 +1,11 @@
+import { symbolAssociationTerms } from './symbol-search-associations.ts';
 import { accentMessageKeys, messages } from './messages.ts';
-import { accents, layout, type Locale } from './typing-engine.ts';
+import {
+  accents,
+  layout,
+  type Locale,
+  type LayoutKey,
+} from './typing-engine.ts';
 export type { Locale } from './typing-engine.ts';
 import {
   searchGroups,
@@ -21,6 +27,7 @@ export type SymbolSearchBinding = {
 
 export type SymbolSearchItem = {
   symbol: string;
+  standardName?: string;
   names: Record<Locale, string>;
   aliases: Partial<Record<Locale, readonly string[]>>;
   tags: Partial<Record<Locale, readonly string[]>>;
@@ -1029,85 +1036,94 @@ function createItem(symbol: string): SymbolSearchItem {
   };
 }
 
-const searchIndexItems: SymbolSearchItem[] = [];
-const itemsBySymbol = new Map<string, SymbolSearchItem>(
-  [...Object.keys(symbolNames), '\u00a0'].map((symbol) => [
-    symbol,
-    createItem(symbol),
-  ]),
-);
+function buildSearchIndex(keys: readonly LayoutKey[]) {
+  const searchIndexItems: SymbolSearchItem[] = [];
+  const itemsBySymbol = new Map<string, SymbolSearchItem>(
+    [...Object.keys(symbolNames), '\u00a0'].map((symbol) => [
+      symbol,
+      createItem(symbol),
+    ]),
+  );
 
-for (const entry of layout) {
-  const addBinding = (
-    mode: SymbolSearchMode,
-    text: string | undefined,
-    quick = false,
-  ) => {
-    if (!text) {
-      return;
-    }
-    const record = itemsBySymbol.get(text) ?? createItem(text);
-    itemsBySymbol.set(text, record);
-
-    if (
-      record.bindings.some(
-        (item) => item.mode === mode && item.keyCode === entry.code,
-      )
-    ) {
-      return;
-    }
-
-    record.bindings.push({
-      mode,
-      keyLabel: entry.label || entry.code,
-      keyCode: entry.code,
-      quick,
-    });
-  };
-
-  addBinding(1, entry.primary.text, entry.quick);
-  addBinding(2, entry.secondary.text);
-  const dead = entry.secondary.dead;
-  if (dead && accents[dead]) {
-    const symbol = accents[dead].spacing;
-    const record = itemsBySymbol.get(symbol) ?? createItem(symbol);
-    for (const locale of locales) {
-      const name = messages[locale][accentMessageKeys[dead]];
-      if (!itemsBySymbol.has(symbol)) {
-        record.names[locale] = name;
+  for (const entry of keys) {
+    const addBinding = (
+      mode: SymbolSearchMode,
+      text: string | undefined,
+      quick = false,
+    ) => {
+      if (!text) {
+        return;
       }
-      record.aliases[locale] = [
-        ...(record.aliases[locale] ?? []),
-        name,
-        ...accentSearchMetadata[locale][0].split('|'),
-      ];
-      record.description[locale] = accentSearchMetadata[locale][1];
+      const record = itemsBySymbol.get(text) ?? createItem(text);
+      itemsBySymbol.set(text, record);
+
+      if (
+        record.bindings.some(
+          (item) => item.mode === mode && item.keyCode === entry.code,
+        )
+      ) {
+        return;
+      }
+
+      record.bindings.push({
+        mode,
+        keyLabel: entry.label || entry.code,
+        keyCode: entry.code,
+        quick,
+      });
+    };
+
+    addBinding(1, entry.primary.text, entry.quick);
+    addBinding(2, entry.secondary.text);
+    for (const [mode, action] of [
+      [1, entry.primary],
+      [2, entry.secondary],
+    ] as const) {
+      const dead = action.dead;
+      if (dead && accents[dead]) {
+        const symbol = accents[dead].spacing;
+        const record = itemsBySymbol.get(symbol) ?? createItem(symbol);
+        for (const locale of locales) {
+          const name = messages[locale][accentMessageKeys[dead]];
+          if (!itemsBySymbol.has(symbol)) {
+            record.names[locale] = name;
+          }
+          record.aliases[locale] = [
+            ...(record.aliases[locale] ?? []),
+            name,
+            ...accentSearchMetadata[locale][0].split('|'),
+          ];
+          record.description[locale] = accentSearchMetadata[locale][1];
+        }
+        record.bindings.push({
+          mode,
+          keyCode: entry.code,
+          keyLabel: entry.label,
+          quick: mode === 1 && entry.quick,
+          finishWithSpace: true,
+        });
+        itemsBySymbol.set(symbol, record);
+      }
     }
-    record.bindings.push({
-      mode: 2,
-      keyCode: entry.code,
-      keyLabel: entry.label,
-      quick: false,
-      finishWithSpace: true,
+  }
+
+  for (const record of itemsBySymbol.values()) {
+    if (!record.bindings.length) {
+      continue;
+    }
+    record.bindings.sort((left, right) => {
+      if (left.mode !== right.mode) {
+        return left.mode - right.mode;
+      }
+      return left.keyLabel.localeCompare(right.keyLabel);
     });
-    itemsBySymbol.set(symbol, record);
+    enrichSymbolUsage(record);
+    searchIndexItems.push(record);
   }
-}
 
-for (const record of itemsBySymbol.values()) {
-  if (!record.bindings.length) {
-    continue;
-  }
-  record.bindings.sort((left, right) => {
-    if (left.mode !== right.mode) {
-      return left.mode - right.mode;
-    }
-    return left.keyLabel.localeCompare(right.keyLabel);
-  });
-  enrichSymbolUsage(record);
-  searchIndexItems.push(record);
+  return searchIndexItems;
 }
-
+const indexCache = new WeakMap<readonly LayoutKey[], SymbolSearchItem[]>();
 /** Fold accents without collapsing distinct symbols such as superscript digits. */
 export function normalizeSearchTerm(value: string): string {
   return value
@@ -1166,9 +1182,15 @@ export function scoreSearchTerm(
   }
   const at = candidate.indexOf(token);
   if (at >= 0) {
-    return (
-      (/[^\p{L}\p{N}]/u.test(candidate[at - 1]) ? 200 : 300) + Math.min(at, 30)
-    );
+    // An earlier substring must not hide a later word prefix (строчная ять).
+    let occurrence = at;
+    while (occurrence >= 0) {
+      if (/[^\p{L}\p{N}]/u.test(candidate[occurrence - 1])) {
+        return 200 + Math.min(occurrence, 30);
+      }
+      occurrence = candidate.indexOf(token, occurrence + 1);
+    }
+    return 300 + Math.min(at, 30);
   }
   if (token.length < 2 || !/^[\p{L}\p{N}]+$/u.test(token)) {
     return null;
@@ -1206,51 +1228,88 @@ export function scoreSearchTerm(
   return Number.isFinite(best) ? best : null;
 }
 
-const searchable = searchIndexItems.map((item) => ({
-  item,
-  fields: [
-    ...Object.values(item.names).map((value) => ({
-      value: normalizeSearchTerm(value),
-      weight: 0,
-    })),
-    ...Object.values(metadata[item.symbol]?.aliases ?? {})
-      .flat()
-      .map((value) => ({ value: normalizeSearchTerm(value), weight: 5 })),
-    ...Object.values(item.aliases)
-      .flat()
-      .map((value) => ({ value: normalizeSearchTerm(value), weight: 10 })),
-    ...Object.values(item.tags)
-      .flat()
-      .map((value) => ({ value: normalizeSearchTerm(value), weight: 20 })),
-    {
-      value: item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
-      weight: 0,
-    },
-    {
-      value: 'u+' + item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
-      weight: 0,
-    },
-  ],
-}));
+const searchableFields = (items: readonly SymbolSearchItem[]) =>
+  items.map((item) => ({
+    item,
+    fields: [
+      ...symbolAssociationTerms(item.symbol).map((value) => ({
+        value: normalizeSearchTerm(value),
+        weight: 10,
+      })),
+      { value: normalizeSearchTerm(item.symbol), weight: 0 },
+      ...Object.values(item.names).map((value) => ({
+        value: normalizeSearchTerm(value),
+        weight: 0,
+      })),
+      ...Object.values(metadata[item.symbol]?.aliases ?? {})
+        .flat()
+        .map((value) => ({ value: normalizeSearchTerm(value), weight: 5 })),
+      ...Object.values(item.aliases)
+        .flat()
+        .map((value) => ({ value: normalizeSearchTerm(value), weight: 10 })),
+      ...Object.values(item.tags)
+        .flat()
+        .map((value) => ({ value: normalizeSearchTerm(value), weight: 20 })),
+      {
+        value: item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
+        weight: 0,
+      },
+      {
+        value: 'u+' + item.symbol.codePointAt(0)!.toString(16).padStart(4, '0'),
+        weight: 0,
+      },
+    ],
+  }));
 
-export function getAllSymbolSearchItems(): readonly SymbolSearchItem[] {
-  return searchIndexItems;
+export function getAllSymbolSearchItems(
+  keys: readonly LayoutKey[] = layout,
+): readonly SymbolSearchItem[] {
+  let items = indexCache.get(keys);
+  if (!items) {
+    items = buildSearchIndex(keys);
+    indexCache.set(keys, items);
+  }
+  return items;
 }
 
 export function searchSymbolItems(
   query: string,
   locale: Locale,
+  keys: readonly LayoutKey[] = layout,
 ): SearchMatch[] {
+  return searchSymbolCollection(query, locale, getAllSymbolSearchItems(keys));
+}
+
+const fieldsCache = new WeakMap<
+  readonly SymbolSearchItem[],
+  ReturnType<typeof searchableFields>
+>();
+
+/** Shared matching for the trainer and the configurable symbol palette. */
+export function searchSymbolCollection(
+  query: string,
+  locale: Locale,
+  searchIndexItems: readonly SymbolSearchItem[],
+): SearchMatch[] {
+  let searchable = fieldsCache.get(searchIndexItems);
+  if (!searchable) {
+    searchable = searchableFields(searchIndexItems);
+    fieldsCache.set(searchIndexItems, searchable);
+  }
   const collator = new Intl.Collator(locale);
   // Literal lookup happens before trimming: NBSP itself is a searchable symbol.
   const literal = searchIndexItems.find((item) => item.symbol === query);
-  if (literal) {
+  const tokens = normalizeSearchTerm(query).split(/\s+/u).filter(Boolean);
+  if (literal && !tokens.length) {
     return [{ item: literal, score: -1 }];
   }
-  const tokens = normalizeSearchTerm(query).split(/\s+/u).filter(Boolean);
   const ranked: SearchMatch[] = [];
   const scoreCache = new Map<string, number | null>();
   for (const { item, fields } of searchable) {
+    if (item === literal) {
+      ranked.push({ item, score: -1 });
+      continue;
+    }
     const scores = tokens.map((token) =>
       Math.min(
         ...fields.map((field) => {

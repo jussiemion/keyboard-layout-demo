@@ -1,0 +1,1953 @@
+[
+  {
+    "symbols": ["👍", "👌", "✅", "💯", "🤘"],
+    "terms": {
+      "en": [
+        "cool",
+        "great",
+        "awesome",
+        "nice",
+        "good",
+        "well done",
+        "bravo",
+        "like",
+        "approved",
+        "yes",
+        "agree",
+        "excellent"
+      ],
+      "ru": [
+        "класс",
+        "классно",
+        "круто",
+        "крутяк",
+        "супер",
+        "отлично",
+        "отличный",
+        "здорово",
+        "зачёт",
+        "зачет",
+        "молодец",
+        "лайк",
+        "нравится",
+        "одобряю",
+        "согласен",
+        "да",
+        "хорошо",
+        "огонь",
+        "топ"
+      ],
+      "pl": [
+        "super",
+        "świetnie",
+        "fajnie",
+        "dobrze",
+        "brawo",
+        "lubię",
+        "zgoda",
+        "tak",
+        "ekstra"
+      ],
+      "de": [
+        "cool",
+        "super",
+        "toll",
+        "klasse",
+        "prima",
+        "gut",
+        "gefällt mir",
+        "einverstanden",
+        "ja",
+        "ausgezeichnet"
+      ],
+      "fr": [
+        "super",
+        "génial",
+        "bravo",
+        "cool",
+        "bien",
+        "j’aime",
+        "d’accord",
+        "oui",
+        "excellent"
+      ],
+      "es": [
+        "genial",
+        "bien",
+        "bravo",
+        "me gusta",
+        "de acuerdo",
+        "sí",
+        "excelente",
+        "guay"
+      ],
+      "pt": [
+        "legal",
+        "ótimo",
+        "fixe",
+        "bom",
+        "gosto",
+        "concordo",
+        "sim",
+        "excelente",
+        "parabéns"
+      ],
+      "it": [
+        "fantastico",
+        "ottimo",
+        "bravo",
+        "bene",
+        "mi piace",
+        "d’accordo",
+        "sì",
+        "grande"
+      ],
+      "ro": [
+        "super",
+        "grozav",
+        "bravo",
+        "bine",
+        "îmi place",
+        "de acord",
+        "da",
+        "excelent"
+      ],
+      "nl": [
+        "geweldig",
+        "leuk",
+        "prima",
+        "goed",
+        "mooi",
+        "vind ik leuk",
+        "akkoord",
+        "ja",
+        "klasse"
+      ],
+      "tr": [
+        "harika",
+        "süper",
+        "güzel",
+        "iyi",
+        "beğendim",
+        "katılıyorum",
+        "evet",
+        "aferin"
+      ],
+      "vi": [
+        "hay",
+        "tuyệt",
+        "tuyệt vời",
+        "giỏi",
+        "tốt",
+        "thích",
+        "đồng ý",
+        "đúng",
+        "xuất sắc"
+      ],
+      "he": [
+        "מעולה",
+        "מצוין",
+        "נהדר",
+        "אחלה",
+        "כל הכבוד",
+        "אהבתי",
+        "מסכים",
+        "כן",
+        "טוב"
+      ],
+      "ar": [
+        "رائع",
+        "ممتاز",
+        "جميل",
+        "حلو",
+        "تمام",
+        "عظيم",
+        "أعجبني",
+        "موافق",
+        "نعم",
+        "برافو"
+      ]
+    }
+  },
+  {
+    "symbols": ["👎", "🙅", "❌", "🚫"],
+    "terms": {
+      "en": ["bad", "dislike", "no", "disagree", "reject", "not good", "fail"],
+      "ru": [
+        "плохо",
+        "не нравится",
+        "дизлайк",
+        "нет",
+        "не согласен",
+        "отказ",
+        "не одобряю",
+        "отстой",
+        "провал"
+      ],
+      "pl": ["źle", "nie lubię", "nie", "odmowa", "porażka"],
+      "de": ["schlecht", "gefällt mir nicht", "nein", "ablehnen", "falsch"],
+      "fr": ["nul", "mauvais", "non", "pas d’accord", "refus"],
+      "es": ["mal", "no me gusta", "no", "rechazar", "fracaso"],
+      "pt": ["ruim", "mau", "não gosto", "não", "rejeitar", "falha"],
+      "it": ["male", "non mi piace", "no", "rifiuto", "fallimento"],
+      "ro": ["rău", "nu îmi place", "nu", "refuz", "eșec"],
+      "nl": ["slecht", "niet leuk", "nee", "afwijzen", "mislukt"],
+      "tr": ["kötü", "beğenmedim", "hayır", "katılmıyorum", "reddet"],
+      "vi": ["tệ", "không thích", "không", "phản đối", "thất bại"],
+      "he": ["גרוע", "לא אהבתי", "לא", "לא מסכים", "סירוב"],
+      "ar": ["سيئ", "لا يعجبني", "لا", "أرفض", "فشل"]
+    }
+  },
+  {
+    "symbols": ["❤", "♥", "💕", "💖", "🥰", "😍", "😘"],
+    "terms": {
+      "en": [
+        "love",
+        "lovely",
+        "adorable",
+        "darling",
+        "romance",
+        "kiss",
+        "affection"
+      ],
+      "ru": [
+        "любовь",
+        "люблю",
+        "обожаю",
+        "сердечко",
+        "сердце",
+        "милота",
+        "любимый",
+        "любимая",
+        "романтика",
+        "поцелуй"
+      ],
+      "pl": ["miłość", "kocham", "urocze", "serduszko", "pocałunek"],
+      "de": ["liebe", "lieben", "süß", "herzchen", "kuss"],
+      "fr": ["amour", "adorable", "aimer", "chéri", "bisou"],
+      "es": ["amor", "te quiero", "adorable", "cariño", "beso"],
+      "pt": ["amor", "te amo", "adorável", "carinho", "beijo"],
+      "it": ["amore", "ti amo", "adorabile", "carino", "bacio"],
+      "ro": ["dragoste", "iubire", "te iubesc", "drăguț", "sărut"],
+      "nl": ["liefde", "hou van", "schattig", "lief", "kus"],
+      "tr": ["aşk", "sevgi", "seviyorum", "tatlı", "öpücük"],
+      "vi": ["yêu", "tình yêu", "đáng yêu", "dễ thương", "hôn"],
+      "he": ["אהבה", "אוהב", "אוהבת", "חמוד", "נשיקה"],
+      "ar": ["حب", "أحبك", "حبيبي", "حبيبتي", "لطيف", "قبلة"]
+    }
+  },
+  {
+    "symbols": ["😂", "🤣", "😆", "😹"],
+    "terms": {
+      "en": ["lol", "lmao", "rofl", "haha", "funny", "hilarious", "laugh"],
+      "ru": [
+        "ахаха",
+        "хаха",
+        "ха-ха",
+        "ржу",
+        "ржач",
+        "лол",
+        "смешно",
+        "угар",
+        "смех",
+        "смеюсь",
+        "ор"
+      ],
+      "pl": ["haha", "śmieszne", "śmiech", "beka", "lol"],
+      "de": ["haha", "lustig", "lachen", "witzig"],
+      "fr": ["mdr", "ptdr", "haha", "drôle", "rire"],
+      "es": ["jajaja", "jaja", "risa", "gracioso", "me río"],
+      "pt": ["kkkk", "rsrs", "haha", "engraçado", "rir"],
+      "it": ["ahah", "ahahah", "ridere", "divertente"],
+      "ro": ["haha", "râs", "amuzant", "râd"],
+      "nl": ["haha", "grappig", "lachen", "lol"],
+      "tr": ["haha", "komik", "kahkaha", "gülüyorum"],
+      "vi": ["haha", "hihi", "cười", "buồn cười", "hài"],
+      "he": ["חחח", "חח", "מצחיק", "צחוק"],
+      "ar": ["هههه", "ههه", "ضحك", "مضحك"]
+    }
+  },
+  {
+    "symbols": ["😢", "😭", "😿", "💔"],
+    "terms": {
+      "en": ["sad", "cry", "crying", "tears", "heartbroken", "upset"],
+      "ru": [
+        "грустно",
+        "грусть",
+        "плачу",
+        "слёзы",
+        "слезы",
+        "рыдаю",
+        "печаль",
+        "обидно",
+        "разбитое сердце"
+      ],
+      "pl": ["smutno", "płacz", "łzy", "smutek"],
+      "de": ["traurig", "weinen", "tränen", "kummer"],
+      "fr": ["triste", "pleurer", "larmes", "chagrin"],
+      "es": ["triste", "llorar", "lágrimas", "pena"],
+      "pt": ["triste", "chorar", "lágrimas", "mágoa"],
+      "it": ["triste", "piangere", "lacrime", "dolore"],
+      "ro": ["trist", "plâns", "lacrimi", "supărat"],
+      "nl": ["verdrietig", "huilen", "tranen", "verdriet"],
+      "tr": ["üzgün", "ağlamak", "gözyaşı", "kırgın"],
+      "vi": ["buồn", "khóc", "nước mắt", "đau lòng"],
+      "he": ["עצוב", "בכי", "דמעות", "לב שבור"],
+      "ar": ["حزين", "حزن", "بكاء", "دموع", "زعلان"]
+    }
+  },
+  {
+    "symbols": ["😡", "😠", "🤬", "💢"],
+    "terms": {
+      "en": ["angry", "rage", "mad", "furious", "annoyed"],
+      "ru": [
+        "злой",
+        "злая",
+        "злость",
+        "бесит",
+        "ярость",
+        "злюсь",
+        "раздражение",
+        "гнев"
+      ],
+      "pl": ["zły", "złość", "wściekły", "gniew"],
+      "de": ["wütend", "ärger", "sauer", "zorn"],
+      "fr": ["colère", "énervé", "furieux", "rage"],
+      "es": ["enojado", "enfadado", "rabia", "furia"],
+      "pt": ["raiva", "bravo", "irritado", "furioso"],
+      "it": ["arrabbiato", "rabbia", "furioso", "irritato"],
+      "ro": ["furios", "supărat", "mânie", "enervat"],
+      "nl": ["boos", "woede", "kwaad", "geïrriteerd"],
+      "tr": ["kızgın", "öfke", "sinirli", "kızdım"],
+      "vi": ["giận", "tức", "tức giận", "bực"],
+      "he": ["כועס", "כעס", "זועם", "עצבים"],
+      "ar": ["غاضب", "غضب", "عصبي", "غيظ"]
+    }
+  },
+  {
+    "symbols": ["🙏", "🤝", "💐"],
+    "terms": {
+      "en": [
+        "thanks",
+        "thank you",
+        "please",
+        "grateful",
+        "appreciate",
+        "gratitude"
+      ],
+      "ru": [
+        "спасибо",
+        "спс",
+        "благодарю",
+        "благодарность",
+        "пожалуйста",
+        "очень признателен"
+      ],
+      "pl": ["dziękuję", "dzięki", "proszę", "wdzięczność"],
+      "de": ["danke", "bitte", "dankbar", "vielen dank"],
+      "fr": ["merci", "svp", "s’il vous plaît", "reconnaissant"],
+      "es": ["gracias", "por favor", "agradecido"],
+      "pt": ["obrigado", "obrigada", "por favor", "gratidão"],
+      "it": ["grazie", "per favore", "gratitudine"],
+      "ro": ["mulțumesc", "mersi", "te rog", "recunoștință"],
+      "nl": ["bedankt", "dank je", "alsjeblieft", "dankbaar"],
+      "tr": ["teşekkür", "sağ ol", "lütfen", "minnet"],
+      "vi": ["cảm ơn", "xin", "biết ơn", "làm ơn"],
+      "he": ["תודה", "בבקשה", "מודה", "תודה רבה"],
+      "ar": ["شكرا", "شكرًا", "لو سمحت", "من فضلك", "ممتن"]
+    }
+  },
+  {
+    "symbols": ["👏", "🙌", "🎉", "🥳", "🎊", "🥂"],
+    "terms": {
+      "en": [
+        "congrats",
+        "congratulations",
+        "celebrate",
+        "party",
+        "bravo",
+        "applause",
+        "hooray"
+      ],
+      "ru": [
+        "поздравляю",
+        "поздравления",
+        "ура",
+        "браво",
+        "аплодисменты",
+        "праздник",
+        "вечеринка",
+        "победа"
+      ],
+      "pl": ["gratulacje", "brawo", "hurra", "impreza", "świętowanie"],
+      "de": [
+        "glückwunsch",
+        "gratulieren",
+        "feiern",
+        "party",
+        "applaus",
+        "hurra"
+      ],
+      "fr": ["félicitations", "bravo", "fête", "applaudir", "youpi"],
+      "es": ["felicidades", "enhorabuena", "fiesta", "aplausos", "hurra"],
+      "pt": ["parabéns", "festa", "celebrar", "aplausos", "viva"],
+      "it": ["auguri", "congratulazioni", "festa", "applausi", "evviva"],
+      "ro": ["felicitări", "petrecere", "sărbătoare", "aplauze", "ura"],
+      "nl": ["gefeliciteerd", "feest", "vieren", "applaus", "hoera"],
+      "tr": ["tebrikler", "kutlama", "parti", "alkış", "yaşasın"],
+      "vi": ["chúc mừng", "ăn mừng", "tiệc", "vỗ tay", "hoan hô"],
+      "he": ["מזל טוב", "ברכות", "מסיבה", "חגיגה", "מחיאות כפיים", "הידד"],
+      "ar": ["مبروك", "تهانينا", "حفلة", "احتفال", "تصفيق"]
+    }
+  },
+  {
+    "symbols": ["😮", "😲", "🤯", "😱"],
+    "terms": {
+      "en": [
+        "wow",
+        "omg",
+        "surprised",
+        "shocked",
+        "mind blown",
+        "unbelievable"
+      ],
+      "ru": [
+        "вау",
+        "ого",
+        "ух ты",
+        "ничего себе",
+        "удивление",
+        "шок",
+        "офигеть",
+        "невероятно"
+      ],
+      "pl": ["wow", "ojej", "zaskoczenie", "szok", "niesamowite"],
+      "de": ["wow", "oh gott", "überrascht", "schock", "unglaublich"],
+      "fr": ["ouah", "oh là là", "surprise", "choc", "incroyable"],
+      "es": ["guau", "sorpresa", "asombro", "increíble"],
+      "pt": ["uau", "surpresa", "choque", "incrível"],
+      "it": ["wow", "sorpresa", "stupore", "incredibile"],
+      "ro": ["uau", "surpriză", "șoc", "incredibil"],
+      "nl": ["wauw", "verrast", "schok", "ongelooflijk"],
+      "tr": ["vay", "şaşkın", "şok", "inanılmaz"],
+      "vi": ["wow", "ôi", "ngạc nhiên", "sốc", "không thể tin"],
+      "he": ["וואו", "מופתע", "הלם", "לא ייאמן"],
+      "ar": ["واو", "يا إلهي", "دهشة", "صدمة", "مذهل"]
+    }
+  },
+  {
+    "symbols": ["🤔", "🧐", "❓", "❔"],
+    "terms": {
+      "en": ["hmm", "think", "thinking", "question", "why", "wonder", "unsure"],
+      "ru": [
+        "хм",
+        "думаю",
+        "задумался",
+        "вопрос",
+        "почему",
+        "как",
+        "интересно",
+        "сомнение",
+        "непонятно"
+      ],
+      "pl": ["hmm", "myślę", "pytanie", "dlaczego", "ciekawe"],
+      "de": ["hmm", "denken", "frage", "warum", "unsicher"],
+      "fr": ["hmm", "penser", "question", "pourquoi", "doute"],
+      "es": ["pensar", "pregunta", "por qué", "duda"],
+      "pt": ["pensar", "pergunta", "por quê", "dúvida"],
+      "it": ["pensare", "domanda", "perché", "dubbio"],
+      "ro": ["gândesc", "întrebare", "de ce", "îndoială"],
+      "nl": ["denken", "vraag", "waarom", "twijfel"],
+      "tr": ["düşünmek", "soru", "neden", "şüphe"],
+      "vi": ["nghĩ", "suy nghĩ", "câu hỏi", "tại sao", "thắc mắc"],
+      "he": ["חושב", "שאלה", "למה", "ספק", "מעניין"],
+      "ar": ["تفكير", "سؤال", "لماذا", "حيرة", "شك"]
+    }
+  },
+  {
+    "symbols": ["⚠", "❗", "‼", "🚨", "⛔"],
+    "terms": {
+      "en": ["warning", "attention", "danger", "important", "urgent", "alert"],
+      "ru": [
+        "внимание",
+        "важно",
+        "опасность",
+        "предупреждение",
+        "осторожно",
+        "срочно",
+        "тревога"
+      ],
+      "pl": ["uwaga", "ważne", "niebezpieczeństwo", "ostrzeżenie", "pilne"],
+      "de": ["achtung", "wichtig", "gefahr", "warnung", "dringend"],
+      "fr": ["attention", "important", "danger", "avertissement", "urgent"],
+      "es": ["atención", "importante", "peligro", "advertencia", "urgente"],
+      "pt": ["atenção", "importante", "perigo", "aviso", "urgente"],
+      "it": ["attenzione", "importante", "pericolo", "avviso", "urgente"],
+      "ro": ["atenție", "important", "pericol", "avertisment", "urgent"],
+      "nl": ["let op", "belangrijk", "gevaar", "waarschuwing", "dringend"],
+      "tr": ["dikkat", "önemli", "tehlike", "uyarı", "acil"],
+      "vi": ["chú ý", "quan trọng", "nguy hiểm", "cảnh báo", "khẩn cấp"],
+      "he": ["שים לב", "חשוב", "סכנה", "אזהרה", "דחוף"],
+      "ar": ["انتباه", "مهم", "خطر", "تحذير", "عاجل"]
+    }
+  },
+  {
+    "symbols": ["✅", "✔", "☑", "✓"],
+    "terms": {
+      "en": [
+        "done",
+        "ready",
+        "complete",
+        "success",
+        "correct",
+        "check",
+        "finished"
+      ],
+      "ru": [
+        "готово",
+        "сделано",
+        "выполнено",
+        "успех",
+        "верно",
+        "правильно",
+        "галочка",
+        "проверено"
+      ],
+      "pl": ["gotowe", "zrobione", "sukces", "poprawnie", "odhaczone"],
+      "de": ["fertig", "erledigt", "erfolg", "richtig", "haken"],
+      "fr": ["fait", "terminé", "prêt", "réussi", "correct", "coché"],
+      "es": ["hecho", "listo", "completo", "éxito", "correcto"],
+      "pt": ["feito", "pronto", "concluído", "sucesso", "correto"],
+      "it": ["fatto", "pronto", "completo", "successo", "corretto"],
+      "ro": ["gata", "terminat", "succes", "corect", "bifat"],
+      "nl": ["klaar", "gedaan", "voltooid", "succes", "juist", "vinkje"],
+      "tr": ["tamam", "bitti", "hazır", "başarı", "doğru", "onay"],
+      "vi": ["xong", "hoàn thành", "sẵn sàng", "thành công", "đúng"],
+      "he": ["בוצע", "מוכן", "הושלם", "הצלחה", "נכון", "סימון"],
+      "ar": ["تم", "جاهز", "مكتمل", "نجاح", "صحيح", "صح"]
+    }
+  },
+  {
+    "symbols": ["❌", "✖", "✕", "✗"],
+    "terms": {
+      "en": [
+        "error",
+        "wrong",
+        "mistake",
+        "cancel",
+        "close",
+        "delete",
+        "remove"
+      ],
+      "ru": [
+        "ошибка",
+        "неверно",
+        "неправильно",
+        "отмена",
+        "закрыть",
+        "удалить",
+        "крестик"
+      ],
+      "pl": ["błąd", "źle", "anuluj", "zamknij", "usuń"],
+      "de": ["fehler", "falsch", "abbrechen", "schließen", "löschen"],
+      "fr": ["erreur", "faux", "annuler", "fermer", "supprimer"],
+      "es": ["error", "incorrecto", "cancelar", "cerrar", "borrar"],
+      "pt": ["erro", "errado", "cancelar", "fechar", "apagar"],
+      "it": ["errore", "sbagliato", "annulla", "chiudi", "elimina"],
+      "ro": ["eroare", "greșit", "anulează", "închide", "șterge"],
+      "nl": ["fout", "verkeerd", "annuleren", "sluiten", "verwijderen"],
+      "tr": ["hata", "yanlış", "iptal", "kapat", "sil"],
+      "vi": ["lỗi", "sai", "hủy", "đóng", "xóa"],
+      "he": ["שגיאה", "טעות", "לא נכון", "ביטול", "סגור", "מחק"],
+      "ar": ["خطأ", "غلط", "إلغاء", "إغلاق", "حذف"]
+    }
+  },
+  {
+    "symbols": ["⏳", "⌛", "🕐", "🕒"],
+    "terms": {
+      "en": ["wait", "waiting", "later", "soon", "time", "pending", "loading"],
+      "ru": [
+        "жду",
+        "подожди",
+        "ожидание",
+        "позже",
+        "скоро",
+        "время",
+        "загрузка"
+      ],
+      "pl": ["czekaj", "czekam", "później", "wkrótce", "czas", "ładowanie"],
+      "de": ["warten", "später", "bald", "zeit", "laden"],
+      "fr": [
+        "attendre",
+        "attente",
+        "plus tard",
+        "bientôt",
+        "temps",
+        "chargement"
+      ],
+      "es": ["esperar", "esperando", "luego", "pronto", "tiempo", "cargando"],
+      "pt": ["esperar", "aguardando", "depois", "logo", "tempo", "carregando"],
+      "it": ["aspettare", "attesa", "dopo", "presto", "tempo", "caricamento"],
+      "ro": [
+        "așteaptă",
+        "așteptare",
+        "mai târziu",
+        "curând",
+        "timp",
+        "încărcare"
+      ],
+      "nl": ["wachten", "later", "binnenkort", "tijd", "laden"],
+      "tr": ["bekle", "bekliyorum", "sonra", "yakında", "zaman", "yükleniyor"],
+      "vi": ["đợi", "chờ", "sau", "sớm", "thời gian", "đang tải"],
+      "he": ["חכה", "מחכה", "אחר כך", "בקרוב", "זמן", "טעינה"],
+      "ar": ["انتظر", "انتظار", "لاحقا", "قريبا", "وقت", "تحميل"]
+    }
+  },
+  {
+    "symbols": ["💰", "💵", "💸", "🤑", "$", "€", "£", "¥", "₽"],
+    "terms": {
+      "en": [
+        "money",
+        "cash",
+        "payment",
+        "pay",
+        "price",
+        "salary",
+        "rich",
+        "finance"
+      ],
+      "ru": [
+        "деньги",
+        "бабки",
+        "бабло",
+        "денежки",
+        "наличные",
+        "оплата",
+        "цена",
+        "зарплата",
+        "богатство",
+        "финансы"
+      ],
+      "pl": ["pieniądze", "kasa", "gotówka", "płatność", "cena", "pensja"],
+      "de": ["geld", "kohle", "bargeld", "bezahlen", "preis", "gehalt"],
+      "fr": ["argent", "fric", "cash", "payer", "prix", "salaire"],
+      "es": [
+        "dinero",
+        "plata",
+        "pasta",
+        "efectivo",
+        "pago",
+        "precio",
+        "sueldo"
+      ],
+      "pt": ["dinheiro", "grana", "pagamento", "preço", "salário"],
+      "it": ["soldi", "denaro", "contanti", "pagare", "prezzo", "stipendio"],
+      "ro": ["bani", "numerar", "plată", "preț", "salariu"],
+      "nl": ["geld", "poen", "contant", "betalen", "prijs", "salaris"],
+      "tr": ["para", "nakit", "ödeme", "fiyat", "maaş"],
+      "vi": ["tiền", "tiền mặt", "thanh toán", "giá", "lương"],
+      "he": ["כסף", "מזומן", "תשלום", "מחיר", "משכורת"],
+      "ar": ["مال", "فلوس", "نقود", "دفع", "سعر", "راتب"]
+    }
+  },
+  {
+    "symbols": ["💡", "✨", "🧠"],
+    "terms": {
+      "en": ["idea", "inspiration", "creative", "eureka", "insight", "smart"],
+      "ru": [
+        "идея",
+        "эврика",
+        "придумал",
+        "озарение",
+        "вдохновение",
+        "креатив",
+        "умный"
+      ],
+      "pl": ["pomysł", "inspiracja", "kreatywność", "eureka", "mądry"],
+      "de": ["idee", "inspiration", "kreativ", "einfall", "klug"],
+      "fr": ["idée", "inspiration", "créatif", "eurêka", "intelligent"],
+      "es": ["idea", "inspiración", "creativo", "eureka", "inteligente"],
+      "pt": ["ideia", "inspiração", "criativo", "eureka", "inteligente"],
+      "it": ["idea", "ispirazione", "creativo", "eureka", "intelligente"],
+      "ro": ["idee", "inspirație", "creativ", "evrika", "inteligent"],
+      "nl": ["idee", "inspiratie", "creatief", "inzicht", "slim"],
+      "tr": ["fikir", "ilham", "yaratıcı", "buldum", "zeki"],
+      "vi": ["ý tưởng", "cảm hứng", "sáng tạo", "thông minh"],
+      "he": ["רעיון", "השראה", "יצירתי", "הברקה", "חכם"],
+      "ar": ["فكرة", "إلهام", "إبداع", "ذكي"]
+    }
+  },
+  {
+    "symbols": ["🔥", "🚀", "⚡"],
+    "terms": {
+      "en": ["fire", "hot", "fast", "boost", "launch", "amazing", "trending"],
+      "ru": [
+        "огонь",
+        "жара",
+        "горячо",
+        "быстро",
+        "ускорение",
+        "запуск",
+        "взлёт",
+        "взлет",
+        "вирусный"
+      ],
+      "pl": ["ogień", "gorąco", "szybko", "start", "odlot"],
+      "de": ["feuer", "heiß", "schnell", "start", "durchstarten"],
+      "fr": ["feu", "chaud", "rapide", "lancement", "tendance"],
+      "es": ["fuego", "caliente", "rápido", "lanzamiento", "tendencia"],
+      "pt": ["fogo", "quente", "rápido", "lançamento", "tendência"],
+      "it": ["fuoco", "caldo", "veloce", "lancio", "tendenza"],
+      "ro": ["foc", "fierbinte", "rapid", "lansare", "tendință"],
+      "nl": ["vuur", "heet", "snel", "lancering", "populair"],
+      "tr": ["ateş", "sıcak", "hızlı", "başlat", "trend"],
+      "vi": ["lửa", "nóng", "nhanh", "ra mắt", "xu hướng"],
+      "he": ["אש", "חם", "מהר", "השקה", "טרנד"],
+      "ar": ["نار", "حار", "سريع", "إطلاق", "رائج"]
+    }
+  },
+  {
+    "symbols": ["😴", "💤", "🥱"],
+    "terms": {
+      "en": ["sleep", "sleepy", "tired", "boring", "bored", "good night"],
+      "ru": [
+        "спать",
+        "сон",
+        "сонный",
+        "устал",
+        "устала",
+        "скучно",
+        "засыпаю",
+        "спокойной ночи"
+      ],
+      "pl": ["sen", "śpiący", "zmęczony", "nudno", "dobranoc"],
+      "de": ["schlafen", "müde", "langweilig", "gute nacht"],
+      "fr": ["dormir", "sommeil", "fatigué", "ennui", "bonne nuit"],
+      "es": ["dormir", "sueño", "cansado", "aburrido", "buenas noches"],
+      "pt": ["dormir", "sono", "cansado", "tédio", "boa noite"],
+      "it": ["dormire", "sonno", "stanco", "noia", "buonanotte"],
+      "ro": ["somn", "somnoros", "obosit", "plictisit", "noapte bună"],
+      "nl": ["slapen", "slaperig", "moe", "saai", "welterusten"],
+      "tr": ["uyku", "uykulu", "yorgun", "sıkıcı", "iyi geceler"],
+      "vi": ["ngủ", "buồn ngủ", "mệt", "chán", "chúc ngủ ngon"],
+      "he": ["לישון", "שינה", "עייף", "משעמם", "לילה טוב"],
+      "ar": ["نوم", "نعسان", "تعبان", "ملل", "تصبح على خير"]
+    }
+  },
+  {
+    "symbols": ["👋", "🤗"],
+    "terms": {
+      "en": ["hello", "hi", "hey", "bye", "goodbye", "welcome", "greetings"],
+      "ru": [
+        "привет",
+        "здравствуй",
+        "здравствуйте",
+        "приветик",
+        "пока",
+        "до свидания",
+        "добро пожаловать"
+      ],
+      "pl": ["cześć", "hej", "witaj", "pa", "do widzenia"],
+      "de": ["hallo", "hi", "tschüss", "willkommen", "auf wiedersehen"],
+      "fr": ["bonjour", "salut", "coucou", "au revoir", "bienvenue"],
+      "es": ["hola", "buenas", "adiós", "bienvenido"],
+      "pt": ["olá", "oi", "tchau", "adeus", "bem-vindo"],
+      "it": ["ciao", "salve", "arrivederci", "benvenuto"],
+      "ro": ["salut", "bună", "pa", "la revedere", "bun venit"],
+      "nl": ["hallo", "hoi", "dag", "doei", "welkom"],
+      "tr": ["merhaba", "selam", "hoşça kal", "güle güle", "hoş geldin"],
+      "vi": ["xin chào", "chào", "tạm biệt", "hoan nghênh"],
+      "he": ["שלום", "היי", "להתראות", "ברוך הבא", "ביי"],
+      "ar": ["مرحبا", "أهلا", "سلام", "وداعا", "مع السلامة"]
+    }
+  },
+  {
+    "symbols": ["🤦", "🙈", "😳", "😅"],
+    "terms": {
+      "en": ["facepalm", "oops", "awkward", "embarrassed", "shame", "cringe"],
+      "ru": [
+        "рукалицо",
+        "фейспалм",
+        "упс",
+        "ой",
+        "неловко",
+        "стыдно",
+        "стыд",
+        "кринж"
+      ],
+      "pl": ["facepalm", "ups", "wstyd", "niezręcznie", "żenada"],
+      "de": ["facepalm", "ups", "peinlich", "scham", "fremdschämen"],
+      "fr": ["oups", "gênant", "honte", "embarrassé"],
+      "es": ["ups", "vergüenza", "incómodo", "pena"],
+      "pt": ["ops", "vergonha", "constrangido", "mico"],
+      "it": ["ops", "vergogna", "imbarazzo", "figuraccia"],
+      "ro": ["ups", "rușine", "jenant", "stânjenit"],
+      "nl": ["oeps", "schaamte", "ongemakkelijk", "gênant"],
+      "tr": ["pardon", "utanç", "mahcup", "utandım"],
+      "vi": ["ôi", "ngại", "xấu hổ", "bối rối"],
+      "he": ["אופס", "מביך", "בושה", "פדיחה"],
+      "ar": ["أوبس", "خجل", "إحراج", "كسوف"]
+    }
+  },
+  {
+    "symbols": ["☕", "🍵", "🫖"],
+    "terms": {
+      "en": ["coffee", "tea", "break", "caffeine", "drink", "morning"],
+      "ru": [
+        "кофе",
+        "кофеёк",
+        "кофеек",
+        "чай",
+        "чаёк",
+        "чаек",
+        "перерыв",
+        "кофеин",
+        "утро"
+      ],
+      "pl": ["kawa", "kawka", "herbata", "przerwa", "kofeina", "rano"],
+      "de": ["kaffee", "tee", "pause", "koffein", "morgen"],
+      "fr": ["café", "thé", "pause", "caféine", "matin"],
+      "es": ["café", "té", "descanso", "cafeína", "mañana"],
+      "pt": ["café", "chá", "pausa", "cafeína", "manhã"],
+      "it": ["caffè", "tè", "pausa", "caffeina", "mattina"],
+      "ro": ["cafea", "ceai", "pauză", "cofeină", "dimineață"],
+      "nl": ["koffie", "thee", "pauze", "cafeïne", "ochtend"],
+      "tr": ["kahve", "çay", "mola", "kafein", "sabah"],
+      "vi": ["cà phê", "trà", "nghỉ", "caffeine", "buổi sáng"],
+      "he": ["קפה", "תה", "הפסקה", "קפאין", "בוקר"],
+      "ar": ["قهوة", "شاي", "استراحة", "كافيين", "صباح"]
+    }
+  },
+  {
+    "symbols": ["🔍", "🔎"],
+    "terms": {
+      "en": ["search", "find", "lookup", "magnifier", "zoom", "inspect"],
+      "ru": [
+        "поиск",
+        "найти",
+        "ищу",
+        "лупа",
+        "увеличить",
+        "посмотреть",
+        "проверить"
+      ],
+      "pl": ["szukaj", "znajdź", "lupa", "powiększ", "sprawdź"],
+      "de": ["suchen", "finden", "lupe", "vergrößern", "prüfen"],
+      "fr": ["chercher", "rechercher", "trouver", "loupe", "zoom"],
+      "es": ["buscar", "encontrar", "lupa", "ampliar"],
+      "pt": ["buscar", "procurar", "encontrar", "lupa", "ampliar"],
+      "it": ["cercare", "trovare", "lente", "ingrandire"],
+      "ro": ["căutare", "caută", "găsește", "lupă", "mărire"],
+      "nl": ["zoeken", "vinden", "vergrootglas", "inzoomen"],
+      "tr": ["ara", "bul", "arama", "büyüteç", "yakınlaştır"],
+      "vi": ["tìm", "tìm kiếm", "kính lúp", "phóng to"],
+      "he": ["חיפוש", "מצא", "לחפש", "זכוכית מגדלת", "הגדלה"],
+      "ar": ["بحث", "ابحث", "اعثر", "عدسة", "تكبير"]
+    }
+  },
+  {
+    "symbols": ["🔒", "🔐", "🛡"],
+    "terms": {
+      "en": [
+        "safe",
+        "security",
+        "protect",
+        "private",
+        "privacy",
+        "password",
+        "lock"
+      ],
+      "ru": [
+        "безопасность",
+        "защита",
+        "защитить",
+        "приватность",
+        "пароль",
+        "замок",
+        "закрыто"
+      ],
+      "pl": ["bezpieczeństwo", "ochrona", "prywatność", "hasło", "zamek"],
+      "de": ["sicherheit", "schutz", "privat", "passwort", "schloss"],
+      "fr": [
+        "sécurité",
+        "protection",
+        "privé",
+        "confidentialité",
+        "mot de passe",
+        "verrou"
+      ],
+      "es": [
+        "seguridad",
+        "proteger",
+        "privado",
+        "privacidad",
+        "contraseña",
+        "candado"
+      ],
+      "pt": [
+        "segurança",
+        "proteção",
+        "privado",
+        "privacidade",
+        "senha",
+        "cadeado"
+      ],
+      "it": [
+        "sicurezza",
+        "protezione",
+        "privato",
+        "riservatezza",
+        "password",
+        "lucchetto"
+      ],
+      "ro": [
+        "siguranță",
+        "securitate",
+        "protecție",
+        "privat",
+        "parolă",
+        "lacăt"
+      ],
+      "nl": [
+        "veiligheid",
+        "beveiliging",
+        "bescherming",
+        "privacy",
+        "wachtwoord",
+        "slot"
+      ],
+      "tr": ["güvenlik", "koruma", "özel", "gizlilik", "şifre", "kilit"],
+      "vi": ["an toàn", "bảo mật", "bảo vệ", "riêng tư", "mật khẩu", "khóa"],
+      "he": ["בטיחות", "אבטחה", "הגנה", "פרטי", "פרטיות", "סיסמה", "מנעול"],
+      "ar": ["أمان", "حماية", "خاص", "خصوصية", "كلمة المرور", "قفل"]
+    }
+  },
+  {
+    "symbols": ["🔗", "📎"],
+    "terms": {
+      "en": ["link", "url", "attach", "attachment", "connect", "connection"],
+      "ru": [
+        "ссылка",
+        "линк",
+        "прикрепить",
+        "вложение",
+        "соединить",
+        "связь",
+        "скрепка"
+      ],
+      "pl": ["link", "odnośnik", "załącznik", "dołącz", "połączenie"],
+      "de": ["link", "verknüpfung", "anhang", "anhängen", "verbindung"],
+      "fr": ["lien", "url", "joindre", "pièce jointe", "connexion"],
+      "es": ["enlace", "vínculo", "adjuntar", "adjunto", "conexión"],
+      "pt": ["link", "ligação", "anexar", "anexo", "conexão"],
+      "it": ["collegamento", "link", "allegare", "allegato", "connessione"],
+      "ro": ["legătură", "link", "atașare", "atașament", "conexiune"],
+      "nl": ["link", "koppeling", "bijlage", "bijvoegen", "verbinding"],
+      "tr": ["bağlantı", "link", "ekle", "ek", "bağla"],
+      "vi": ["liên kết", "đường dẫn", "đính kèm", "kết nối"],
+      "he": ["קישור", "לינק", "צרף", "קובץ מצורף", "חיבור"],
+      "ar": ["رابط", "ارتباط", "إرفاق", "مرفق", "اتصال"]
+    }
+  },
+  {
+    "symbols": ["ѣ", "Ѣ"],
+    "terms": {
+      "en": ["yat"],
+      "ru": ["ять"],
+      "pl": ["jać"],
+      "de": ["Jat"],
+      "fr": ["yat"],
+      "es": ["yat"],
+      "pt": ["yat"],
+      "it": ["jat"],
+      "ro": ["iat"],
+      "nl": ["jat"],
+      "tr": ["yat"],
+      "vi": ["yat"],
+      "he": ["יאט"],
+      "ar": ["يات"]
+    }
+  },
+  {
+    "id": "casino",
+    "symbols": [
+      "🎰",
+      "🎲",
+      "🃏",
+      "♠",
+      "♥",
+      "♦",
+      "♣",
+      "♤",
+      "♡",
+      "♢",
+      "♧",
+      "🀄",
+      "⚀",
+      "⚁",
+      "⚂",
+      "⚃",
+      "⚄",
+      "⚅",
+      "🂠",
+      "🂡",
+      "🂢",
+      "🂣",
+      "🂤",
+      "🂥",
+      "🂦",
+      "🂧",
+      "🂨",
+      "🂩",
+      "🂪",
+      "🂫",
+      "🂬",
+      "🂭",
+      "🂮",
+      "🂱",
+      "🂲",
+      "🂳",
+      "🂴",
+      "🂵",
+      "🂶",
+      "🂷",
+      "🂸",
+      "🂹",
+      "🂺",
+      "🂻",
+      "🂼",
+      "🂽",
+      "🂾",
+      "🂿",
+      "🃁",
+      "🃂",
+      "🃃",
+      "🃄",
+      "🃅",
+      "🃆",
+      "🃇",
+      "🃈",
+      "🃉",
+      "🃊",
+      "🃋",
+      "🃌",
+      "🃍",
+      "🃎",
+      "🃑",
+      "🃒",
+      "🃓",
+      "🃔",
+      "🃕",
+      "🃖",
+      "🃗",
+      "🃘",
+      "🃙",
+      "🃚",
+      "🃛",
+      "🃜",
+      "🃝",
+      "🃞",
+      "🃟",
+      "🃠",
+      "🃡",
+      "🃢",
+      "🃣",
+      "🃤",
+      "🃥",
+      "🃦",
+      "🃧",
+      "🃨",
+      "🃩",
+      "🃪",
+      "🃫",
+      "🃬",
+      "🃭",
+      "🃮",
+      "🃯",
+      "🃰",
+      "🃱",
+      "🃲",
+      "🃳",
+      "🃴",
+      "🃵"
+    ],
+    "terms": {
+      "en": [
+        "gambling",
+        "casino",
+        "bet",
+        "betting",
+        "poker",
+        "blackjack",
+        "roulette",
+        "playing cards",
+        "luck",
+        "jackpot"
+      ],
+      "ru": [
+        "азарт",
+        "азартные игры",
+        "казино",
+        "ставки",
+        "покер",
+        "блэкджек",
+        "рулетка",
+        "игральные карты",
+        "масти",
+        "джекпот",
+        "везение"
+      ],
+      "pl": ["hazard", "kasyno", "zakłady", "poker", "ruletka", "karty do gry"],
+      "fr": [
+        "jeux de hasard",
+        "casino",
+        "pari",
+        "poker",
+        "roulette",
+        "cartes à jouer"
+      ],
+      "de": [
+        "Glücksspiel",
+        "Casino",
+        "Kasino",
+        "Wetten",
+        "Poker",
+        "Roulette",
+        "Spielkarten"
+      ],
+      "es": ["azar", "casino", "apuestas", "póquer", "ruleta", "naipes"],
+      "pt": [
+        "jogos de azar",
+        "cassino",
+        "casino",
+        "apostas",
+        "pôquer",
+        "roleta",
+        "baralho"
+      ],
+      "it": [
+        "azzardo",
+        "casinò",
+        "scommesse",
+        "poker",
+        "roulette",
+        "carte da gioco"
+      ],
+      "ro": [
+        "jocuri de noroc",
+        "cazinou",
+        "pariuri",
+        "poker",
+        "ruletă",
+        "cărți de joc"
+      ],
+      "he": ["הימורים", "קזינו", "פוקר", "רולטה", "קלפי משחק", "מזל"],
+      "ar": ["قمار", "كازينو", "رهان", "بوكر", "روليت", "ورق اللعب", "حظ"],
+      "tr": [
+        "kumar",
+        "gazino",
+        "casino",
+        "bahis",
+        "poker",
+        "rulet",
+        "iskambil"
+      ],
+      "vi": [
+        "cờ bạc",
+        "sòng bạc",
+        "cá cược",
+        "poker",
+        "roulette",
+        "bài tây",
+        "may mắn"
+      ],
+      "nl": [
+        "gokken",
+        "casino",
+        "wedden",
+        "poker",
+        "roulette",
+        "speelkaarten",
+        "geluk"
+      ]
+    }
+  },
+  {
+    "id": "linux",
+    "symbols": ["🐧"],
+    "terms": {
+      "en": [
+        "linux",
+        "gnu",
+        "ubuntu",
+        "debian",
+        "arch",
+        "fedora",
+        "tux",
+        "open source",
+        "free software"
+      ],
+      "ru": [
+        "линукс",
+        "линукс пингвин",
+        "гну",
+        "убунту",
+        "дебиан",
+        "арч",
+        "федора",
+        "тукс",
+        "такс",
+        "открытый код",
+        "свободное по"
+      ],
+      "pl": ["linux", "pingwin", "otwarte źródła", "wolne oprogramowanie"],
+      "fr": ["linux", "manchot", "logiciel libre", "code ouvert"],
+      "de": ["Linux", "Pinguin", "freie Software", "quelloffen"],
+      "es": ["linux", "pingüino", "código abierto", "software libre"],
+      "pt": ["linux", "pinguim", "código aberto", "software livre"],
+      "it": ["linux", "pinguino", "codice aperto", "software libero"],
+      "ro": ["linux", "pinguin", "sursă deschisă", "software liber"],
+      "he": ["לינוקס", "פינגווין", "קוד פתוח", "תוכנה חופשית"],
+      "ar": ["لينكس", "لِنُكس", "بطريق", "مفتوح المصدر", "برمجيات حرة"],
+      "tr": ["linux", "penguen", "açık kaynak", "özgür yazılım"],
+      "vi": ["linux", "chim cánh cụt", "mã nguồn mở", "phần mềm tự do"],
+      "nl": ["linux", "pinguïn", "open bron", "vrije software"]
+    }
+  },
+  {
+    "id": "programming",
+    "symbols": ["💻", "🖥", "⌨", "💾", "⚙", "🤖"],
+    "terms": {
+      "en": [
+        "programming",
+        "coding",
+        "developer",
+        "software",
+        "algorithm",
+        "computer"
+      ],
+      "ru": [
+        "программирование",
+        "код",
+        "кодинг",
+        "разработчик",
+        "программист",
+        "алгоритм",
+        "компьютер"
+      ],
+      "pl": ["programowanie", "kodowanie", "programista", "oprogramowanie"],
+      "fr": ["programmation", "code", "développeur", "logiciel"],
+      "de": ["Programmierung", "Code", "Entwickler", "Software"],
+      "es": ["programación", "código", "desarrollador", "software"],
+      "pt": ["programação", "código", "desenvolvedor", "software"],
+      "it": ["programmazione", "codice", "sviluppatore", "software"],
+      "ro": ["programare", "cod", "dezvoltator", "software"],
+      "he": ["תכנות", "קוד", "מפתח", "תוכנה"],
+      "ar": ["برمجة", "كود", "مطور", "برمجيات"],
+      "tr": ["programlama", "kod", "yazılımcı", "yazılım"],
+      "vi": ["lập trình", "mã", "lập trình viên", "phần mềm"],
+      "nl": ["programmeren", "code", "ontwikkelaar", "software"]
+    }
+  },
+  {
+    "id": "debugging",
+    "symbols": ["🐛", "🪲", "🔧", "🛠"],
+    "terms": {
+      "en": ["bug", "debug", "debugging", "fix", "troubleshooting"],
+      "ru": [
+        "баг",
+        "ошибка в коде",
+        "дебаг",
+        "отладка",
+        "починка",
+        "исправление"
+      ],
+      "pl": ["błąd", "debugowanie", "naprawa"],
+      "fr": ["bogue", "bug", "débogage", "correction"],
+      "de": ["Bug", "Fehlersuche", "Debugging", "Reparatur"],
+      "es": ["error", "bug", "depuración", "arreglo"],
+      "pt": ["bug", "erro", "depuração", "correção"],
+      "it": ["bug", "errore", "debug", "correzione"],
+      "ro": ["bug", "eroare", "depanare", "reparare"],
+      "he": ["באג", "תקלה", "ניפוי שגיאות", "תיקון"],
+      "ar": ["خلل", "خطأ برمجي", "تصحيح الأخطاء", "إصلاح"],
+      "tr": ["hata", "hata ayıklama", "düzeltme"],
+      "vi": ["lỗi", "gỡ lỗi", "sửa lỗi"],
+      "nl": ["bug", "fout", "debuggen", "reparatie"]
+    }
+  },
+  {
+    "id": "internet",
+    "symbols": ["🌐", "🌍", "📡", "📶", "🔗"],
+    "terms": {
+      "en": ["internet", "web", "website", "online", "network", "wifi"],
+      "ru": ["интернет", "веб", "сайт", "онлайн", "сеть", "вайфай"],
+      "pl": ["internet", "sieć", "strona", "online", "wifi"],
+      "fr": ["internet", "web", "site", "réseau", "wifi"],
+      "de": ["Internet", "Web", "Website", "Netzwerk", "WLAN"],
+      "es": ["internet", "web", "sitio", "red", "wifi"],
+      "pt": ["internet", "site", "rede", "online", "wifi"],
+      "it": ["internet", "web", "sito", "rete", "wifi"],
+      "ro": ["internet", "site", "rețea", "online", "wifi"],
+      "he": ["אינטרנט", "אתר", "רשת", "מקוון", "וייפיי"],
+      "ar": ["إنترنت", "موقع", "شبكة", "متصل", "واي فاي"],
+      "tr": ["internet", "web", "site", "ağ", "wifi"],
+      "vi": ["internet", "trang web", "trực tuyến", "mạng", "wifi"],
+      "nl": ["internet", "website", "netwerk", "online", "wifi"]
+    }
+  },
+  {
+    "id": "writing",
+    "symbols": ["✍", "✏", "🖊", "📝", "📖"],
+    "terms": {
+      "en": ["writing", "writer", "author", "copywriting", "editor", "draft"],
+      "ru": [
+        "писать",
+        "писательство",
+        "писатель",
+        "автор",
+        "копирайтинг",
+        "редактор",
+        "черновик"
+      ],
+      "pl": ["pisanie", "pisarz", "autor", "redaktor", "szkic"],
+      "fr": ["écriture", "écrivain", "auteur", "rédacteur", "brouillon"],
+      "de": ["Schreiben", "Autor", "Schriftsteller", "Redaktion", "Entwurf"],
+      "es": ["escritura", "escritor", "autor", "redactor", "borrador"],
+      "pt": ["escrita", "escritor", "autor", "redator", "rascunho"],
+      "it": ["scrittura", "scrittore", "autore", "redattore", "bozza"],
+      "ro": ["scriere", "scriitor", "autor", "redactor", "ciornă"],
+      "he": ["כתיבה", "סופר", "מחבר", "עורך", "טיוטה"],
+      "ar": ["كتابة", "كاتب", "مؤلف", "محرر", "مسودة"],
+      "tr": ["yazmak", "yazar", "editör", "taslak"],
+      "vi": ["viết", "nhà văn", "tác giả", "biên tập", "bản nháp"],
+      "nl": ["schrijven", "schrijver", "auteur", "redacteur", "concept"]
+    }
+  },
+  {
+    "id": "typography",
+    "symbols": [
+      "«",
+      "»",
+      "“",
+      "”",
+      "„",
+      "‘",
+      "’",
+      "—",
+      "–",
+      "…",
+      "•",
+      "·",
+      "№",
+      "§",
+      "¶",
+      "†",
+      "‡",
+      "′",
+      "″"
+    ],
+    "terms": {
+      "en": [
+        "typography",
+        "typesetting",
+        "punctuation",
+        "proofreading",
+        "publishing"
+      ],
+      "ru": [
+        "типографика",
+        "типографский",
+        "набор текста",
+        "пунктуация",
+        "корректура",
+        "вёрстка",
+        "верстка"
+      ],
+      "pl": ["typografia", "skład tekstu", "interpunkcja", "korekta"],
+      "fr": ["typographie", "composition", "ponctuation", "correction"],
+      "de": [
+        "Typografie",
+        "Typographie",
+        "Satz",
+        "Zeichensetzung",
+        "Korrektur"
+      ],
+      "es": ["tipografía", "composición", "puntuación", "corrección"],
+      "pt": ["tipografia", "diagramação", "pontuação", "revisão"],
+      "it": ["tipografia", "impaginazione", "punteggiatura", "correzione"],
+      "ro": ["tipografie", "tehnoredactare", "punctuație", "corectură"],
+      "he": ["טיפוגרפיה", "סדר דפוס", "פיסוק", "הגהה"],
+      "ar": ["طباعة", "تنضيد", "ترقيم", "تدقيق لغوي"],
+      "tr": ["tipografi", "dizgi", "noktalama", "düzeltme"],
+      "vi": ["kiểu chữ", "dàn trang", "dấu câu", "hiệu đính"],
+      "nl": ["typografie", "zetwerk", "interpunctie", "proeflezen"]
+    }
+  },
+  {
+    "id": "design",
+    "symbols": ["🎨", "🖌", "✏", "📐", "📏"],
+    "terms": {
+      "en": [
+        "design",
+        "designer",
+        "art",
+        "drawing",
+        "creative",
+        "illustration"
+      ],
+      "ru": [
+        "дизайн",
+        "дизайнер",
+        "искусство",
+        "рисовать",
+        "рисование",
+        "творчество",
+        "иллюстрация"
+      ],
+      "pl": ["projektowanie", "projektant", "sztuka", "rysunek", "twórczość"],
+      "fr": ["design", "designer", "art", "dessin", "création", "illustration"],
+      "de": ["Design", "Gestaltung", "Kunst", "Zeichnen", "Kreativität"],
+      "es": ["diseño", "diseñador", "arte", "dibujo", "creatividad"],
+      "pt": ["design", "desenho", "arte", "criatividade", "ilustração"],
+      "it": ["design", "disegno", "arte", "creatività", "illustrazione"],
+      "ro": ["design", "desen", "artă", "creativitate", "ilustrație"],
+      "he": ["עיצוב", "מעצב", "אמנות", "ציור", "יצירה"],
+      "ar": ["تصميم", "مصمم", "فن", "رسم", "إبداع"],
+      "tr": ["tasarım", "tasarımcı", "sanat", "çizim", "yaratıcılık"],
+      "vi": ["thiết kế", "nhà thiết kế", "nghệ thuật", "vẽ", "sáng tạo"],
+      "nl": ["ontwerp", "ontwerper", "kunst", "tekenen", "creativiteit"]
+    }
+  },
+  {
+    "id": "work",
+    "symbols": ["💼", "🏢", "📊", "📈", "📋", "📅"],
+    "terms": {
+      "en": ["work", "job", "office", "business", "career", "meeting"],
+      "ru": ["работа", "офис", "бизнес", "карьера", "совещание", "вакансия"],
+      "pl": ["praca", "biuro", "biznes", "kariera", "spotkanie"],
+      "fr": ["travail", "emploi", "bureau", "affaires", "carrière", "réunion"],
+      "de": ["Arbeit", "Beruf", "Büro", "Geschäft", "Karriere", "Besprechung"],
+      "es": ["trabajo", "empleo", "oficina", "negocio", "carrera", "reunión"],
+      "pt": [
+        "trabalho",
+        "emprego",
+        "escritório",
+        "negócio",
+        "carreira",
+        "reunião"
+      ],
+      "it": ["lavoro", "ufficio", "affari", "carriera", "riunione"],
+      "ro": ["muncă", "serviciu", "birou", "afaceri", "carieră", "ședință"],
+      "he": ["עבודה", "משרד", "עסקים", "קריירה", "פגישה"],
+      "ar": ["عمل", "وظيفة", "مكتب", "أعمال", "مهنة", "اجتماع"],
+      "tr": ["iş", "ofis", "meslek", "kariyer", "toplantı"],
+      "vi": ["công việc", "văn phòng", "kinh doanh", "sự nghiệp", "cuộc họp"],
+      "nl": ["werk", "baan", "kantoor", "zaken", "carrière", "vergadering"]
+    }
+  },
+  {
+    "id": "education",
+    "symbols": ["🎓", "📚", "📖", "📝", "🏫"],
+    "terms": {
+      "en": ["education", "study", "learning", "school", "university", "exam"],
+      "ru": [
+        "учёба",
+        "учеба",
+        "образование",
+        "учиться",
+        "школа",
+        "университет",
+        "экзамен"
+      ],
+      "pl": ["edukacja", "nauka", "szkoła", "uniwersytet", "egzamin"],
+      "fr": [
+        "éducation",
+        "études",
+        "apprentissage",
+        "école",
+        "université",
+        "examen"
+      ],
+      "de": ["Bildung", "Lernen", "Schule", "Universität", "Prüfung"],
+      "es": [
+        "educación",
+        "estudio",
+        "aprendizaje",
+        "escuela",
+        "universidad",
+        "examen"
+      ],
+      "pt": [
+        "educação",
+        "estudo",
+        "aprendizagem",
+        "escola",
+        "universidade",
+        "exame"
+      ],
+      "it": [
+        "istruzione",
+        "studio",
+        "apprendimento",
+        "scuola",
+        "università",
+        "esame"
+      ],
+      "ro": [
+        "educație",
+        "studiu",
+        "învățare",
+        "școală",
+        "universitate",
+        "examen"
+      ],
+      "he": ["חינוך", "לימודים", "למידה", "בית ספר", "אוניברסיטה", "מבחן"],
+      "ar": ["تعليم", "دراسة", "تعلم", "مدرسة", "جامعة", "امتحان"],
+      "tr": ["eğitim", "öğrenme", "okul", "üniversite", "sınav"],
+      "vi": ["giáo dục", "học tập", "trường học", "đại học", "kỳ thi"],
+      "nl": ["onderwijs", "studie", "leren", "school", "universiteit", "examen"]
+    }
+  },
+  {
+    "id": "science",
+    "symbols": ["🔬", "🔭", "🧪", "⚗", "🧬", "⚛"],
+    "terms": {
+      "en": [
+        "science",
+        "research",
+        "experiment",
+        "laboratory",
+        "physics",
+        "chemistry"
+      ],
+      "ru": [
+        "наука",
+        "исследование",
+        "эксперимент",
+        "лаборатория",
+        "физика",
+        "химия"
+      ],
+      "pl": [
+        "nauka",
+        "badania",
+        "eksperyment",
+        "laboratorium",
+        "fizyka",
+        "chemia"
+      ],
+      "fr": [
+        "science",
+        "recherche",
+        "expérience",
+        "laboratoire",
+        "physique",
+        "chimie"
+      ],
+      "de": [
+        "Wissenschaft",
+        "Forschung",
+        "Experiment",
+        "Labor",
+        "Physik",
+        "Chemie"
+      ],
+      "es": [
+        "ciencia",
+        "investigación",
+        "experimento",
+        "laboratorio",
+        "física",
+        "química"
+      ],
+      "pt": [
+        "ciência",
+        "pesquisa",
+        "experimento",
+        "laboratório",
+        "física",
+        "química"
+      ],
+      "it": [
+        "scienza",
+        "ricerca",
+        "esperimento",
+        "laboratorio",
+        "fisica",
+        "chimica"
+      ],
+      "ro": [
+        "știință",
+        "cercetare",
+        "experiment",
+        "laborator",
+        "fizică",
+        "chimie"
+      ],
+      "he": ["מדע", "מחקר", "ניסוי", "מעבדה", "פיזיקה", "כימיה"],
+      "ar": ["علم", "بحث", "تجربة", "مختبر", "فيزياء", "كيمياء"],
+      "tr": ["bilim", "araştırma", "deney", "laboratuvar", "fizik", "kimya"],
+      "vi": [
+        "khoa học",
+        "nghiên cứu",
+        "thí nghiệm",
+        "phòng thí nghiệm",
+        "vật lý",
+        "hóa học"
+      ],
+      "nl": [
+        "wetenschap",
+        "onderzoek",
+        "experiment",
+        "laboratorium",
+        "natuurkunde",
+        "scheikunde"
+      ]
+    }
+  },
+  {
+    "id": "travel",
+    "symbols": ["✈", "🚆", "🚗", "🧳", "🌍", "🗺", "🏖", "🏨"],
+    "terms": {
+      "en": ["travel", "trip", "tourism", "vacation", "holiday", "journey"],
+      "ru": ["путешествие", "поездка", "туризм", "отпуск", "каникулы", "отдых"],
+      "pl": ["podróż", "wycieczka", "turystyka", "wakacje", "urlop"],
+      "fr": ["voyage", "tourisme", "vacances", "séjour"],
+      "de": ["Reise", "Tourismus", "Urlaub", "Ferien"],
+      "es": ["viaje", "turismo", "vacaciones", "excursión"],
+      "pt": ["viagem", "turismo", "férias", "passeio"],
+      "it": ["viaggio", "turismo", "vacanza", "ferie"],
+      "ro": ["călătorie", "turism", "vacanță", "concediu"],
+      "he": ["טיול", "נסיעה", "תיירות", "חופשה"],
+      "ar": ["سفر", "رحلة", "سياحة", "عطلة", "إجازة"],
+      "tr": ["seyahat", "gezi", "turizm", "tatil"],
+      "vi": ["du lịch", "chuyến đi", "kỳ nghỉ", "nghỉ mát"],
+      "nl": ["reizen", "reis", "toerisme", "vakantie", "uitstapje"]
+    }
+  },
+  {
+    "id": "health",
+    "symbols": ["⚕", "🏥", "🩺", "💊", "💉", "🩹"],
+    "terms": {
+      "en": [
+        "health",
+        "medicine",
+        "doctor",
+        "hospital",
+        "treatment",
+        "pharmacy"
+      ],
+      "ru": ["здоровье", "медицина", "врач", "больница", "лечение", "аптека"],
+      "pl": ["zdrowie", "medycyna", "lekarz", "szpital", "leczenie", "apteka"],
+      "fr": ["santé", "médecine", "médecin", "hôpital", "soins", "pharmacie"],
+      "de": [
+        "Gesundheit",
+        "Medizin",
+        "Arzt",
+        "Krankenhaus",
+        "Behandlung",
+        "Apotheke"
+      ],
+      "es": [
+        "salud",
+        "medicina",
+        "médico",
+        "hospital",
+        "tratamiento",
+        "farmacia"
+      ],
+      "pt": [
+        "saúde",
+        "medicina",
+        "médico",
+        "hospital",
+        "tratamento",
+        "farmácia"
+      ],
+      "it": ["salute", "medicina", "medico", "ospedale", "cura", "farmacia"],
+      "ro": [
+        "sănătate",
+        "medicină",
+        "medic",
+        "spital",
+        "tratament",
+        "farmacie"
+      ],
+      "he": ["בריאות", "רפואה", "רופא", "בית חולים", "טיפול", "בית מרקחת"],
+      "ar": ["صحة", "طب", "طبيب", "مستشفى", "علاج", "صيدلية"],
+      "tr": ["sağlık", "tıp", "doktor", "hastane", "tedavi", "eczane"],
+      "vi": [
+        "sức khỏe",
+        "y học",
+        "bác sĩ",
+        "bệnh viện",
+        "điều trị",
+        "nhà thuốc"
+      ],
+      "nl": [
+        "gezondheid",
+        "geneeskunde",
+        "arts",
+        "ziekenhuis",
+        "behandeling",
+        "apotheek"
+      ]
+    }
+  },
+  {
+    "id": "music",
+    "symbols": ["♪", "♫", "♬", "🎵", "🎶", "🎼", "🎤", "🎧", "🎸", "🎹"],
+    "terms": {
+      "en": ["music", "song", "singing", "concert", "melody", "playlist"],
+      "ru": ["музыка", "песня", "пение", "концерт", "мелодия", "плейлист"],
+      "pl": ["muzyka", "piosenka", "śpiew", "koncert", "melodia"],
+      "fr": ["musique", "chanson", "chant", "concert", "mélodie"],
+      "de": ["Musik", "Lied", "Gesang", "Konzert", "Melodie"],
+      "es": ["música", "canción", "canto", "concierto", "melodía"],
+      "pt": ["música", "canção", "canto", "concerto", "melodia"],
+      "it": ["musica", "canzone", "canto", "concerto", "melodia"],
+      "ro": ["muzică", "cântec", "cântat", "concert", "melodie"],
+      "he": ["מוזיקה", "מוסיקה", "שיר", "שירה", "הופעה", "מנגינה"],
+      "ar": ["موسيقى", "أغنية", "غناء", "حفلة", "لحن"],
+      "tr": ["müzik", "şarkı", "konser", "melodi"],
+      "vi": ["âm nhạc", "bài hát", "hát", "buổi hòa nhạc", "giai điệu"],
+      "nl": ["muziek", "lied", "zingen", "concert", "melodie"]
+    }
+  },
+  {
+    "id": "sport",
+    "symbols": ["⚽", "🏀", "🎾", "🏈", "🏐", "🏓", "🏋", "🏃", "🏆", "🥇"],
+    "terms": {
+      "en": [
+        "sport",
+        "fitness",
+        "training",
+        "workout",
+        "competition",
+        "champion"
+      ],
+      "ru": [
+        "спорт",
+        "фитнес",
+        "тренировка",
+        "соревнование",
+        "чемпион",
+        "победа"
+      ],
+      "pl": ["sport", "fitness", "trening", "zawody", "mistrz"],
+      "fr": ["sport", "fitness", "entraînement", "compétition", "champion"],
+      "de": ["Sport", "Fitness", "Training", "Wettkampf", "Meister"],
+      "es": ["deporte", "fitness", "entrenamiento", "competición", "campeón"],
+      "pt": ["esporte", "desporto", "treino", "competição", "campeão"],
+      "it": ["sport", "fitness", "allenamento", "gara", "campione"],
+      "ro": ["sport", "fitness", "antrenament", "competiție", "campion"],
+      "he": ["ספורט", "כושר", "אימון", "תחרות", "אלוף"],
+      "ar": ["رياضة", "لياقة", "تدريب", "منافسة", "بطل"],
+      "tr": ["spor", "fitness", "antrenman", "yarışma", "şampiyon"],
+      "vi": ["thể thao", "thể hình", "tập luyện", "thi đấu", "vô địch"],
+      "nl": ["sport", "fitness", "training", "wedstrijd", "kampioen"]
+    }
+  },
+  {
+    "id": "gaming",
+    "symbols": ["🎮", "🕹", "👾", "🎲", "♟"],
+    "terms": {
+      "en": ["gaming", "gamer", "video game", "console", "play", "esports"],
+      "ru": [
+        "гейминг",
+        "геймер",
+        "видеоигры",
+        "игры",
+        "приставка",
+        "играть",
+        "киберспорт"
+      ],
+      "pl": ["granie", "gracz", "gry", "gra wideo", "konsola"],
+      "fr": ["jeu vidéo", "joueur", "gaming", "console", "jouer"],
+      "de": ["Gaming", "Spieler", "Videospiel", "Konsole", "Spielen"],
+      "es": ["videojuegos", "jugador", "consola", "jugar"],
+      "pt": ["jogos", "jogador", "videogame", "consola", "console", "jogar"],
+      "it": ["videogiochi", "giocatore", "console", "giocare"],
+      "ro": ["jocuri", "gamer", "joc video", "consolă", "joacă"],
+      "he": ["גיימינג", "גיימר", "משחקי וידאו", "קונסולה", "לשחק"],
+      "ar": ["ألعاب", "لاعب", "لعبة فيديو", "جهاز ألعاب"],
+      "tr": ["oyun", "oyuncu", "video oyunu", "konsol"],
+      "vi": ["chơi game", "game thủ", "trò chơi điện tử", "máy chơi game"],
+      "nl": ["gamen", "gamer", "videospel", "spelcomputer", "spelen"]
+    }
+  },
+  {
+    "id": "nature",
+    "symbols": ["🌿", "🌱", "🌳", "🌲", "🌻", "🍃", "♻", "🌍"],
+    "terms": {
+      "en": [
+        "nature",
+        "ecology",
+        "environment",
+        "green",
+        "sustainability",
+        "garden"
+      ],
+      "ru": [
+        "природа",
+        "экология",
+        "окружающая среда",
+        "зелёный",
+        "зеленый",
+        "сад"
+      ],
+      "pl": ["przyroda", "ekologia", "środowisko", "zielony", "ogród"],
+      "fr": ["nature", "écologie", "environnement", "vert", "jardin"],
+      "de": ["Natur", "Ökologie", "Umwelt", "grün", "Garten"],
+      "es": ["naturaleza", "ecología", "medio ambiente", "verde", "jardín"],
+      "pt": ["natureza", "ecologia", "meio ambiente", "verde", "jardim"],
+      "it": ["natura", "ecologia", "ambiente", "verde", "giardino"],
+      "ro": ["natură", "ecologie", "mediu", "verde", "grădină"],
+      "he": ["טבע", "אקולוגיה", "סביבה", "ירוק", "גינה"],
+      "ar": ["طبيعة", "بيئة", "أخضر", "استدامة", "حديقة"],
+      "tr": ["doğa", "ekoloji", "çevre", "yeşil", "bahçe"],
+      "vi": ["thiên nhiên", "sinh thái", "môi trường", "xanh", "vườn"],
+      "nl": ["natuur", "ecologie", "milieu", "groen", "tuin"]
+    }
+  },
+  {
+    "id": "weather",
+    "symbols": ["☀", "🌤", "☁", "🌧", "⛈", "❄", "🌈", "🌡", "☂"],
+    "terms": {
+      "en": ["weather", "forecast", "temperature", "rain", "sunshine"],
+      "ru": ["погода", "прогноз", "температура", "осадки", "непогода"],
+      "pl": ["pogoda", "prognoza", "temperatura", "opady"],
+      "fr": ["météo", "prévisions", "température", "intempéries"],
+      "de": ["Wetter", "Vorhersage", "Temperatur", "Niederschlag"],
+      "es": ["tiempo", "clima", "pronóstico", "temperatura"],
+      "pt": ["tempo", "clima", "previsão", "temperatura"],
+      "it": ["meteo", "tempo", "previsioni", "temperatura"],
+      "ro": ["vreme", "prognoză", "temperatură", "precipitații"],
+      "he": ["מזג אוויר", "תחזית", "טמפרטורה"],
+      "ar": ["طقس", "توقعات", "حرارة", "هطول"],
+      "tr": ["hava durumu", "tahmin", "sıcaklık", "yağış"],
+      "vi": ["thời tiết", "dự báo", "nhiệt độ", "mưa"],
+      "nl": ["weer", "weersverwachting", "temperatuur", "neerslag"]
+    }
+  },
+  {
+    "id": "space",
+    "symbols": ["🚀", "🛸", "🛰", "🌌", "🌠", "🪐", "🌙", "⭐"],
+    "terms": {
+      "en": ["space", "astronomy", "universe", "cosmos", "galaxy"],
+      "ru": ["космос", "астрономия", "вселенная", "галактика", "космический"],
+      "pl": ["kosmos", "astronomia", "wszechświat", "galaktyka"],
+      "fr": ["espace", "astronomie", "univers", "cosmos", "galaxie"],
+      "de": ["Weltraum", "Astronomie", "Universum", "Kosmos", "Galaxie"],
+      "es": ["espacio", "astronomía", "universo", "cosmos", "galaxia"],
+      "pt": ["espaço", "astronomia", "universo", "cosmos", "galáxia"],
+      "it": ["spazio", "astronomia", "universo", "cosmo", "galassia"],
+      "ro": ["spațiu", "astronomie", "univers", "cosmos", "galaxie"],
+      "he": ["חלל", "אסטרונומיה", "יקום", "גלקסיה"],
+      "ar": ["فضاء", "فلك", "كون", "مجرة"],
+      "tr": ["uzay", "astronomi", "evren", "galaksi"],
+      "vi": ["vũ trụ", "thiên văn", "ngân hà", "không gian"],
+      "nl": ["ruimte", "astronomie", "heelal", "kosmos", "sterrenstelsel"]
+    }
+  },
+  {
+    "id": "shopping",
+    "symbols": ["🛒", "🛍", "💳", "💰", "🏷", "🎁"],
+    "terms": {
+      "en": ["shopping", "buy", "purchase", "store", "sale", "discount"],
+      "ru": ["покупки", "купить", "покупка", "магазин", "распродажа", "скидка"],
+      "pl": ["zakupy", "kupić", "sklep", "wyprzedaż", "rabat"],
+      "fr": ["achats", "acheter", "boutique", "magasin", "soldes", "réduction"],
+      "de": [
+        "Einkaufen",
+        "kaufen",
+        "Geschäft",
+        "Laden",
+        "Ausverkauf",
+        "Rabatt"
+      ],
+      "es": ["compras", "comprar", "tienda", "rebajas", "descuento"],
+      "pt": ["compras", "comprar", "loja", "promoção", "desconto"],
+      "it": ["acquisti", "comprare", "negozio", "saldi", "sconto"],
+      "ro": ["cumpărături", "cumpărare", "magazin", "solduri", "reducere"],
+      "he": ["קניות", "לקנות", "חנות", "מבצע", "הנחה"],
+      "ar": ["تسوق", "شراء", "متجر", "تخفيضات", "خصم"],
+      "tr": ["alışveriş", "satın almak", "mağaza", "indirim"],
+      "vi": ["mua sắm", "mua", "cửa hàng", "khuyến mãi", "giảm giá"],
+      "nl": ["winkelen", "kopen", "aankoop", "winkel", "uitverkoop", "korting"]
+    }
+  },
+  {
+    "id": "food",
+    "symbols": ["🍽", "🍴", "🍕", "🍔", "🥗", "🍲", "🍳", "👨‍🍳", "👩‍🍳"],
+    "terms": {
+      "en": ["food", "eat", "meal", "cooking", "restaurant", "hungry"],
+      "ru": [
+        "еда",
+        "есть",
+        "поесть",
+        "готовка",
+        "кулинария",
+        "ресторан",
+        "голод"
+      ],
+      "pl": ["jedzenie", "jeść", "posiłek", "gotowanie", "restauracja", "głód"],
+      "fr": ["nourriture", "manger", "repas", "cuisine", "restaurant", "faim"],
+      "de": ["Essen", "Mahlzeit", "Kochen", "Restaurant", "Hunger"],
+      "es": ["comida", "comer", "cocina", "restaurante", "hambre"],
+      "pt": ["comida", "comer", "refeição", "cozinha", "restaurante", "fome"],
+      "it": ["cibo", "mangiare", "pasto", "cucina", "ristorante", "fame"],
+      "ro": ["mâncare", "a mânca", "masă", "gătit", "restaurant", "foame"],
+      "he": ["אוכל", "לאכול", "ארוחה", "בישול", "מסעדה", "רעב"],
+      "ar": ["طعام", "أكل", "وجبة", "طبخ", "مطعم", "جوع"],
+      "tr": ["yemek", "öğün", "pişirmek", "restoran", "açlık"],
+      "vi": ["đồ ăn", "ăn", "bữa ăn", "nấu ăn", "nhà hàng", "đói"],
+      "nl": ["eten", "voedsel", "maaltijd", "koken", "restaurant", "honger"]
+    }
+  },
+  {
+    "id": "photography",
+    "symbols": ["📷", "📸", "🎥", "📹", "🎬", "🖼"],
+    "terms": {
+      "en": ["photography", "photo", "camera", "video", "filming", "cinema"],
+      "ru": [
+        "фотография",
+        "фото",
+        "фотограф",
+        "камера",
+        "видео",
+        "съёмка",
+        "съемка",
+        "кино"
+      ],
+      "pl": ["fotografia", "zdjęcie", "aparat", "wideo", "film", "kino"],
+      "fr": [
+        "photographie",
+        "photo",
+        "appareil",
+        "vidéo",
+        "tournage",
+        "cinéma"
+      ],
+      "de": ["Fotografie", "Foto", "Kamera", "Video", "Film", "Kino"],
+      "es": ["fotografía", "foto", "cámara", "vídeo", "rodaje", "cine"],
+      "pt": [
+        "fotografia",
+        "foto",
+        "câmera",
+        "câmara",
+        "vídeo",
+        "filmagem",
+        "cinema"
+      ],
+      "it": ["fotografia", "foto", "fotocamera", "video", "riprese", "cinema"],
+      "ro": ["fotografie", "poză", "cameră", "video", "filmare", "cinema"],
+      "he": ["צילום", "תמונה", "מצלמה", "וידאו", "קולנוע"],
+      "ar": ["تصوير", "صورة", "كاميرا", "فيديو", "سينما"],
+      "tr": ["fotoğrafçılık", "fotoğraf", "kamera", "video", "çekim", "sinema"],
+      "vi": ["nhiếp ảnh", "ảnh", "máy ảnh", "video", "quay phim", "điện ảnh"],
+      "nl": ["fotografie", "foto", "camera", "video", "filmen", "bioscoop"]
+    }
+  }
+]

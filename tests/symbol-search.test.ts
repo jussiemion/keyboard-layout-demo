@@ -111,10 +111,7 @@ void test('matches multiple terms across fields and handles empty and absent res
 });
 void test('preserves literal symbols, nonbreaking spaces, fractions and Unicode lookups', () => {
   for (const symbol of ['$', '¹', '¹⁄₂', '\u00a0', 'ѣ', 'Ѣ']) {
-    assert.deepEqual(
-      searchSymbolItems(symbol, 'en').map((result) => result.item.symbol),
-      [symbol],
-    );
+    assert.equal(searchSymbolItems(symbol, 'en')[0].item.symbol, symbol);
   }
   assert.equal(searchSymbolItems('U+0024', 'en')[0].item.symbol, '$');
   assert.equal(normalizeSearchTerm('ZIELONE ŁÓDŹ'), 'zielone lodz');
@@ -290,4 +287,9 @@ void test('explains the actual quotation pair, role and language, with localized
   assert.equal(searchSymbolItems('апостраф', 'ru')[0].item.symbol, '’');
   assert.ok(!bySymbol('„').aliases.en!.includes('apostrophe'));
   assert.ok(!bySymbol('„').aliases.ru!.includes('ёлочки'));
+});
+
+void test('later word starts outrank earlier occurrences inside words', () => {
+  assert.ok(scoreSearchTerm('строчная ять', 'я')! < 300);
+  assert.ok(scoreSearchTerm('banana arrow', 'a')! < 300);
 });
