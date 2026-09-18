@@ -1,0 +1,1 @@
+import{n as e,t}from"./locale-provider-Ba_T3FO3.js";export{t as LocaleProvider,e as useLocale};
