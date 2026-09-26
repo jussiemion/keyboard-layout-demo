@@ -9,7 +9,6 @@ import {
 } from '@/lib/configuration-link';
 import { configurationMessages } from '@/lib/configuration-messages';
 import { getThemePreference, setThemePreference } from '@/lib/theme';
-import { PreliminaryIndicator } from '@/components/preliminary-indicator';
 import { applicationSchema } from '@/lib/seo';
 
 import { helpCloseClasses } from '@/components/layout-classes';
@@ -144,8 +143,6 @@ export default function Home({
   const input = useRef<HTMLInputElement>(null);
   const keyboardFrame = useRef<HTMLElement>(null);
   const [value, setValue] = useState('');
-  const [preliminary, setPreliminary] =
-    useState<TypingEngine['preliminaryRange']>(null);
   const initialKeyboardLocale = useSyncExternalStore(
     subscribeToInitialKeyboardLocale,
     getInitialKeyboardLocale,
@@ -340,7 +337,6 @@ export default function Home({
   }, []);
 
   function refresh() {
-    setPreliminary(engine.current.preliminaryRange);
     setAccent(engine.current.accent);
     setMode(engine.current.mode);
     setHeld([
@@ -373,7 +369,6 @@ export default function Home({
       toggleController.current.reset();
       engine.current.reset();
       languageController.current.reset();
-      setPreliminary(null);
       setMode(0);
       setAccent(null);
       setHeld([]);
@@ -407,7 +402,6 @@ export default function Home({
         return;
       }
       engine.current.resetPostfix();
-      setPreliminary(null);
     };
     window.addEventListener('pointerdown', resetPostfix, true);
     window.addEventListener('wheel', resetPostfix, true);
@@ -444,7 +438,6 @@ export default function Home({
         target.selectionEnd !== replacement.end)
     ) {
       engine.current.resetPostfix();
-      setPreliminary(null);
       return;
     }
     const next = replaceSelection(
@@ -482,7 +475,6 @@ export default function Home({
     activeLocale.current = next;
     setLocale(next);
     engine.current.reset();
-    setPreliminary(null);
     setVirtualShift(false);
   }
 
@@ -1072,28 +1064,18 @@ export default function Home({
                   onKeyDown={(event) => handleKey(event.nativeEvent, true)}
                   onKeyUp={(event) => handleKey(event.nativeEvent, false)}
                   onSelect={(event) => {
-                    const candidate = engine.current.preliminaryRange;
                     const target = event.currentTarget;
-                    if (
-                      candidate &&
-                      (target.value !== candidate.value ||
-                        target.selectionStart !== candidate.end ||
-                        target.selectionEnd !== candidate.end)
-                    ) {
-                      engine.current.resetPostfix();
-                      setPreliminary(null);
-                    }
+                    engine.current.validatePostfix({
+                      value: target.value,
+                      start: target.selectionStart ?? 0,
+                      end: target.selectionEnd ?? 0,
+                    });
                   }}
                   onBlur={resetState}
                   onCompositionStart={resetState}
                   onPaste={resetState}
                   onCut={resetState}
                   onDrop={resetState}
-                />
-                <PreliminaryIndicator
-                  input={input}
-                  value={value}
-                  range={preliminary}
                 />
                 <Tooltip>
                   <TooltipTrigger

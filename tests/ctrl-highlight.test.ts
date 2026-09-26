@@ -72,7 +72,6 @@ for (const nativeLayoutActive of [false, true]) {
             state.enabled = enabled;
           },
           setCanCycleDiacritic: noop,
-          setPreliminary: noop,
           setAccent: noop,
           setMode: noop,
           setVirtualShift: noop,

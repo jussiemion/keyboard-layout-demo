@@ -78,8 +78,9 @@ is retained. Native `Dead` and IME events reset demo state and continue through
 native composition. Acute stress previews eligible letters and shows a state
 notification while armed.
 
-Postfix diacritics work after a released letter: tap and release either
-<kbd>Shift</kbd> to cycle its language-specific variants. The on-screen
+Letters enter the text immediately, without a preliminary underline or deferred
+commit. Postfix diacritics replace the last entered letter: tap and release
+either <kbd>Shift</kbd> to cycle its language-specific variants. The on-screen
 <kbd>Shift</kbd> also preserves this candidate. <kbd>Shift</kbd> held with a
 letter retains normal capitalization. Case and independent stress survive
 cycling, including `á → ą́ → á` and `е́ → ё́ → е́`. A national acute and independent

@@ -288,16 +288,17 @@ export class TypingEngine {
   private postfixShift: string | null = null;
   private postfixLocale: KeyboardLocale | null = null;
 
-  /** UTF-16 range of the editable grapheme, including combining stress marks. */
-  get preliminaryRange() {
-    const candidate = this.postfix;
-    return candidate && this.canCycleDiacritic
-      ? {
-          start: candidate.caret - candidate.text.length,
-          end: candidate.caret,
-          value: candidate.value,
-        }
-      : null;
+  /** Cancel replacement when the user edits the text or moves the caret. */
+  validatePostfix(context: KeyInput['context']) {
+    if (
+      this.postfix &&
+      (!context ||
+        context.value !== this.postfix.value ||
+        context.start !== this.postfix.caret ||
+        context.end !== context.start)
+    ) {
+      this.resetPostfix();
+    }
   }
 
   get canCycleDiacritic() {
@@ -421,15 +422,7 @@ export class TypingEngine {
     const context = event.context;
     const shift = isShift(event.code);
     const alone = this.held.size === 0;
-    if (
-      this.postfix &&
-      (!context ||
-        context.value !== this.postfix.value ||
-        context.start !== this.postfix.caret ||
-        context.end !== context.start)
-    ) {
-      this.resetPostfix();
-    }
+    this.validatePostfix(context);
     if (command) {
       this.resetPostfix();
     }

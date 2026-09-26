@@ -254,64 +254,52 @@ for (const { locale, row, shift } of nationalScenarios) {
   }
 }
 
-void test('preliminary range follows the editable grapheme and clears on commit', () => {
-  const f = field('pl');
-  f.acute();
-  f.tap('KeyA', 'a');
-  assert.deepEqual(f.engine.preliminaryRange, {
-    start: 1,
-    end: 2,
-    value: 'bá',
-  });
-  f.tap('ShiftLeft');
-  assert.deepEqual(f.engine.preliminaryRange, {
-    start: 1,
-    end: 3,
-    value: 'bą́',
-  });
-  f.tap('Space', ' ');
-  assert.equal(f.engine.preliminaryRange, null);
-});
-
-void test('preliminary range disappears after moving the caret or resetting', () => {
+void test('letters enter the text immediately and Shift replaces the last letter', () => {
   const f = field();
   f.tap('KeyZ', 'z');
-  f.state.start = f.state.end = 0;
+  assert.equal(f.state.value, 'bz');
   f.tap('ShiftLeft');
-  assert.equal(f.engine.preliminaryRange, null);
+  assert.equal(f.state.value, 'bż');
   f.tap('KeyA', 'a');
-  assert.ok(f.engine.preliminaryRange);
-  f.engine.reset();
-  assert.equal(f.engine.preliminaryRange, null);
+  assert.equal(f.state.value, 'bża');
+  f.tap('ShiftRight');
+  assert.equal(f.state.value, 'bżą');
 });
 
-void test('Russian vowels without a Shift cycle never get a preliminary range', () => {
+void test('moving the caret cancels replacement even after returning it', () => {
+  const f = field();
+  f.tap('KeyZ', 'z');
+  f.engine.validatePostfix({ value: f.state.value, start: 0, end: 0 });
+  f.engine.validatePostfix(f.state);
+  f.tap('ShiftLeft');
+  assert.equal(f.state.value, 'bz');
+});
+
+void test('Russian vowels without variants cannot be cycled', () => {
   for (const letter of 'аоуыэюяАОУЫЭЮЯ') {
     const f = field('ru');
     f.tap('KeyE', letter);
     assert.equal(f.engine.canCycleDiacritic, false, letter);
-    assert.equal(f.engine.preliminaryRange, null, letter);
     f.acute();
     f.tap('KeyE', letter);
-    assert.equal(f.engine.preliminaryRange, null, `stressed ${letter}`);
+    assert.equal(f.engine.canCycleDiacritic, false, `stressed ${letter}`);
   }
 });
 
-void test('a non-cycling Russian letter clears the preceding indicator', () => {
+void test('a non-cycling Russian letter clears the preceding candidate', () => {
   const f = field('ru');
   f.tap('KeyT', 'е');
-  assert.ok(f.engine.preliminaryRange);
+  assert.ok(f.engine.canCycleDiacritic);
   f.tap('KeyE', 'у');
-  assert.equal(f.engine.preliminaryRange, null);
+  assert.equal(f.engine.canCycleDiacritic, false);
   f.tap('ShiftLeft');
   assert.equal(f.state.value, 'bеу');
 });
 
-void test('disabled typography does not advertise an editable character', () => {
+void test('disabled typography does not offer a Shift cycle', () => {
   const f = field('ru');
   f.tap('KeyT', 'е');
-  assert.ok(f.engine.preliminaryRange);
+  assert.ok(f.engine.canCycleDiacritic);
   f.engine.enabled = false;
   assert.equal(f.engine.canCycleDiacritic, false);
-  assert.equal(f.engine.preliminaryRange, null);
 });
