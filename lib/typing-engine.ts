@@ -233,7 +233,37 @@ export type KeyResult = {
 const pass: KeyResult = { prevent: false, route: 'pass' };
 const suppress: KeyResult = { prevent: true, route: 'suppress' };
 
-export function nextDiacritic(base: string, locale: KeyboardLocale): string {
+const directLetterCache = new Map<string, Set<string>>();
+
+/** Letters on ordinary keys need no postfix alternative (including their case pair). */
+export function directLetters(locale: KeyboardLocale): ReadonlySet<string> {
+  const map = keyboardMap(locale);
+  const cached = directLetterCache.get(map);
+  if (cached) {
+    return cached;
+  }
+  const letters = new Set<string>();
+  const codes = Object.keys(
+    (nationalMaps as Record<string, Record<string, Action[]>>)[map] || {},
+  ).concat(Array.from(keyMap.keys()));
+  for (const code of codes) {
+    const letter = baseKey(code, locale);
+    if (!/^\p{L}$/u.test(letter)) {
+      continue;
+    }
+    letters.add(letter);
+    letters.add(letter.toLocaleLowerCase(keyboardLanguage(locale)));
+    letters.add(letter.toLocaleUpperCase(keyboardLanguage(locale)));
+  }
+  directLetterCache.set(map, letters);
+  return letters;
+}
+
+export function nextDiacritic(
+  base: string,
+  locale: KeyboardLocale,
+  direction: 1 | -1 = 1,
+): string {
   const upper = (text: string) =>
     Array.from(text)
       .map(
@@ -245,10 +275,19 @@ export function nextDiacritic(base: string, locale: KeyboardLocale): string {
   for (const cycle of (
     diacritics.profiles as Partial<Record<KeyboardLocale, string[]>>
   )[keyboardLanguage(locale)] || []) {
-    for (const row of [cycle, upper(cycle)]) {
+    // Keep the base as the return point; omit variants available on ordinary keys.
+    const filtered = Array.from(cycle)
+      .filter(
+        (letter, index) => index === 0 || !directLetters(locale).has(letter),
+      )
+      .join('');
+    if (filtered.length < 2) {
+      continue;
+    }
+    for (const row of [filtered, upper(filtered)]) {
       const index = base.length === 1 ? row.indexOf(base) : -1;
       if (index >= 0) {
-        return row[(index + 1) % row.length];
+        return row[(index + direction + row.length) % row.length];
       }
     }
   }
@@ -389,7 +428,11 @@ export class TypingEngine {
       this.held.size === 0 &&
       this.postfix
     ) {
-      return this.cyclePostfix(this.postfix, locale);
+      return this.cyclePostfix(
+        this.postfix,
+        locale,
+        event.code === 'ShiftRight' ? -1 : 1,
+      );
     }
     if (event.down && !shift && event.context) {
       this.rememberPostfix(event, locale, result, accent, event.context);
@@ -436,8 +479,9 @@ export class TypingEngine {
   private cyclePostfix(
     previous: PostfixCandidate,
     locale: KeyboardLocale,
+    direction: 1 | -1,
   ): KeyResult {
-    const base = nextDiacritic(previous.base, locale);
+    const base = nextDiacritic(previous.base, locale, direction);
     const text = (base + (previous.stressed ? '\u0301' : '')).normalize('NFC');
     const start = previous.caret - previous.text.length;
     const next = replaceSelection(previous.value, start, previous.caret, text);

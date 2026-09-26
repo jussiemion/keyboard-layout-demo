@@ -27,7 +27,13 @@ returned actions to its text field.
 The shared symbol layers follow
 [Ilya Birman’s Typography Layout 3.9](https://ilyabirman.ru/typography-layout/).
 National keyboard maps determine ordinary and shifted input; supported languages
-can also provide postfix <kbd>Shift</kbd> diacritic cycles.
+can also provide postfix <kbd>Shift</kbd> diacritic cycles. After releasing the
+letter key, tap left <kbd>Shift</kbd> to move forward or right <kbd>Shift</kbd>
+to move backward. Both directions wrap around and preserve case and stress.
+Variants already available on an ordinary key in the selected national map are
+excluded, along with their uppercase equivalents. This does not exclude Alt
+combinations or dead-key sequences. For example, Russian е/ё and и/й need no
+Shift cycle.
 
 ## Source files
 

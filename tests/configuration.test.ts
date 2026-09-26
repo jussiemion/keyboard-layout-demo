@@ -145,3 +145,22 @@ void test('custom maps do not leak across engine instances or mutate the canonic
   assert.notEqual(tap(second, 'KeyD').text, '🧑‍💻');
   assert.notEqual(layout.find((key) => key.key === 'AC03')?.primary.text, '🧑‍💻');
 });
+
+void test('language switching preference travels in configuration links', () => {
+  for (const enabled of [true, false]) {
+    const value = configuration(
+      { ...DEFAULT_SETTINGS, keepLanguageSwitching: enabled },
+      profile.preferences,
+    );
+    const decoded = decodeConfiguration(
+      encodeConfiguration(value, 'https://example.org/'),
+    );
+    assert.equal(decoded.settings.keepLanguageSwitching, enabled);
+  }
+  assert.throws(() =>
+    validateConfiguration({
+      ...profile,
+      settings: { ...profile.settings, keepLanguageSwitching: 'false' },
+    }),
+  );
+});

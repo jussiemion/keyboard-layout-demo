@@ -153,6 +153,8 @@ export default function Home({
     getSettings,
     getServerSettings,
   );
+  const languageSwitchingEnabled =
+    typographyEnabled || settings.keepLanguageSwitching !== false;
   const languageConfig = settings.languageMapping ?? defaultLanguageConfig();
   const [selectedLocale, setLocale] = useState<KeyboardLocale | null>(null);
   const locale =
@@ -534,6 +536,7 @@ export default function Home({
       activeLocale.current,
       languageConfig.order,
       languageConfig.slots,
+      engine.current.enabled || settings.keepLanguageSwitching !== false,
     );
     if (language.prevent) {
       event.preventDefault();
@@ -689,6 +692,13 @@ export default function Home({
     };
   });
 
+  useEffect(() => {
+    languageController.current.reset();
+    if (!languageSwitchingEnabled) {
+      capsManaged.current = false;
+    }
+  }, [languageSwitchingEnabled]);
+
   function chooseMode(next: Mode) {
     if (!engine.current.enabled) {
       return;
@@ -725,6 +735,11 @@ export default function Home({
       return;
     }
     if (code === 'CapsLock') {
+      if (!languageSwitchingEnabled) {
+        logicalCaps.current = !caps;
+        setCaps(!caps);
+        return;
+      }
       languageController.current.reset();
       selectKeyboardLanguage(
         languageController.current.nextLanguage(
@@ -737,7 +752,15 @@ export default function Home({
     }
     if (code.startsWith('Shift')) {
       const result = engine.current.handle(
-        { code: 'ShiftLeft', down: !virtualShift, context: context() },
+        {
+          code: virtualShift
+            ? engine.current.held.has('ShiftRight')
+              ? 'ShiftRight'
+              : 'ShiftLeft'
+            : code,
+          down: !virtualShift,
+          context: context(),
+        },
         locale,
       );
       if (result.text) {
@@ -801,7 +824,13 @@ export default function Home({
     );
     if (!code.startsWith('Alt') && !code.startsWith('Shift') && virtualShift) {
       engine.current.handle(
-        { code: 'ShiftLeft', down: false, context: context() },
+        {
+          code: engine.current.held.has('ShiftRight')
+            ? 'ShiftRight'
+            : 'ShiftLeft',
+          down: false,
+          context: context(),
+        },
         locale,
       );
       setVirtualShift(false);
@@ -1181,6 +1210,7 @@ export default function Home({
                   nationalAlt={nationalAlt}
                   accent={accent}
                   typographyEnabled={typographyEnabled}
+                  languageSwitchingEnabled={languageSwitchingEnabled}
                   languageSlots={languageConfig.slots}
                   highlightedKeys={tourTask?.keys}
                   onKeyPress={virtualKey}

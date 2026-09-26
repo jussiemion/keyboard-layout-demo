@@ -15,6 +15,7 @@ export type UserSettings = {
   version: 1;
   languageMapping: LanguageMapping | null;
   symbolMap?: SymbolMap;
+  keepLanguageSwitching?: boolean;
   keyboardLocale?: KeyboardLocale;
 };
 
@@ -23,6 +24,7 @@ export const SETTINGS_CHANGE_EVENT = 'keyboard-layout-demo:settings-change';
 export const DEFAULT_SETTINGS: UserSettings = {
   version: 1,
   languageMapping: null,
+  keepLanguageSwitching: true,
 };
 
 export function defaultLanguageMapping(): LanguageMapping {
@@ -59,6 +61,9 @@ export function parseSettings(raw: string | null): UserSettings {
       languages(mapping.slots, 4);
     return {
       version: 1,
+      ...(typeof data.keepLanguageSwitching === 'boolean'
+        ? { keepLanguageSwitching: data.keepLanguageSwitching }
+        : {}),
       ...(KEYBOARD_LOCALES.includes(data.keyboardLocale)
         ? { keyboardLocale: data.keyboardLocale }
         : {}),

@@ -102,7 +102,7 @@
 .typography-disabled
   .keycap:not([data-key-code='ControlLeft']):not(
     [data-key-code='ControlRight']
-  ) {
+  ):not([data-language-active='true']) {
   opacity: 0.3;
 }
 

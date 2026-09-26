@@ -8,7 +8,7 @@
     "bun": ">=1.4.0"
   },
   "scripts": {
-    "dev": "vinext dev --hostname 127.0.0.1 --port 6699",
+    "dev": "VINEXT_NO_DEV_LOCK=1 vinext dev --hostname 127.0.0.1 --port 6699",
     "build": "vinext build && node tools/export-seo.mjs",
     "start": "node tools/serve.mjs",
     "lint": "bun run lint:js && bun run lint:css && bun run lint:md && bun run format:check",

@@ -97,3 +97,14 @@ void test('screen postfix preserves independent stress', () => {
   press('ShiftLeft');
   assert.equal(input.value, 'ą\u0301');
 });
+
+void test('screen right Shift cycles backward and left Shift reverses it', () => {
+  const { input, press } = setup();
+  press('KeyZ');
+  press('ShiftRight');
+  press('ShiftRight');
+  assert.equal(input.value, 'ź');
+  press('ShiftLeft');
+  press('ShiftLeft');
+  assert.equal(input.value, 'z');
+});

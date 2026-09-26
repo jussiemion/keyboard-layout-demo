@@ -151,3 +151,48 @@ void test('saving publishes a stable snapshot, syncs storage changes, and handle
     }
   }
 });
+
+void test('language switching defaults on and persists either explicit choice', () => {
+  assert.equal(DEFAULT_SETTINGS.keepLanguageSwitching, true);
+  assert.notEqual(parseSettings('{"version":1}').keepLanguageSwitching, false);
+  for (const enabled of [true, false]) {
+    assert.equal(
+      parseSettings(
+        JSON.stringify({ ...custom, keepLanguageSwitching: enabled }),
+      ).keepLanguageSwitching,
+      enabled,
+    );
+  }
+});
+
+void test('disabled language switching passes Caps through and cancels a pending chord', () => {
+  const controller = new LanguageSwitchController();
+  const { order, slots } = defaultLanguageMapping();
+  controller.handle({ code: 'CapsLock', down: true }, 'en', order, slots);
+  assert.deepEqual(
+    controller.handle({ code: 'KeyJ', down: true }, 'en', order, slots, false),
+    { prevent: false },
+  );
+  assert.deepEqual(
+    controller.handle(
+      { code: 'CapsLock', down: false },
+      'en',
+      order,
+      slots,
+      false,
+    ),
+    { prevent: false },
+  );
+  assert.equal(controller.held.size, 0);
+  controller.handle({ code: 'CapsLock', down: true }, 'en', order, slots, true);
+  assert.equal(
+    controller.handle(
+      { code: 'CapsLock', down: false },
+      'en',
+      order,
+      slots,
+      true,
+    ).locale,
+    'ru',
+  );
+});

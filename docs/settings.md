@@ -115,3 +115,8 @@ For catalog updates, follow the regeneration steps in the
 [symbol localization checklist](symbol-localization.md). The
 [bundled font guide](fonts.md#symbol-palette) describes glyph coverage and
 system-font limitations.
+
+Language switching stays enabled when typography is turned off by default.
+Disable **Keep language switching on when typography is off** in the language
+map settings to restore ordinary Caps Lock behavior while typography is off. The
+preference is saved locally and included in configuration links.

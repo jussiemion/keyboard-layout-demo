@@ -295,6 +295,20 @@ export function SettingsDialog({
               <p className="text-muted-foreground mb-4 text-xs leading-relaxed">
                 <KeyTerminology kind="switcher" locale={uiLocale} />
               </p>
+              <label className="border-border bg-card mb-4 flex cursor-pointer items-center gap-3 rounded-lg border p-4 text-sm">
+                <input
+                  type="checkbox"
+                  className="accent-primary size-4 shrink-0"
+                  checked={draft.keepLanguageSwitching !== false}
+                  onChange={(event) =>
+                    setDraft({
+                      ...draft,
+                      keepLanguageSwitching: event.target.checked,
+                    })
+                  }
+                />
+                <span>{text.keepLanguageSwitching}</span>
+              </label>
               <ExperimentalLanguageWarning />
               <fieldset className="settings-pair mapping-card">
                 <legend>

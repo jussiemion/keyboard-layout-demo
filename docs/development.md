@@ -34,6 +34,13 @@ bun run dev
 
 Open [localhost:6699](http://127.0.0.1:6699).
 
+The dev command disables vinext’s PID-based lock with `VINEXT_NO_DEV_LOCK=1`. A
+stale lock can refer to an unrelated process after a reboot or a change of
+environment and incorrectly block startup. Vite’s `strictPort` remains enabled:
+if port 6699 is occupied, a second server fails instead of choosing another
+port. Do not kill a process solely because its PID appears in
+`.vinext/dev/lock.json`.
+
 ## Commands
 
 | <kbd>Command</kbd>      | Purpose                                                      |

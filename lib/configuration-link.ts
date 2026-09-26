@@ -32,6 +32,7 @@ export function configuration(
       version: 1,
       languageMapping: settings.languageMapping ?? defaultLanguageMapping(),
       symbolMap: settings.symbolMap ?? {},
+      keepLanguageSwitching: settings.keepLanguageSwitching ?? true,
     },
     preferences,
   };
@@ -64,8 +65,15 @@ export function validateConfiguration(value: unknown): Configuration {
   const { settings, preferences } = value;
   if (
     !record(settings) ||
-    !onlyKeys(settings, ['version', 'languageMapping', 'symbolMap']) ||
+    !onlyKeys(settings, [
+      'version',
+      'languageMapping',
+      'symbolMap',
+      'keepLanguageSwitching',
+    ]) ||
     settings.version !== 1 ||
+    (settings.keepLanguageSwitching !== undefined &&
+      typeof settings.keepLanguageSwitching !== 'boolean') ||
     !validSymbolMap(settings.symbolMap)
   ) {
     return fail();

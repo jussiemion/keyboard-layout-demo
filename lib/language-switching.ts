@@ -82,7 +82,12 @@ export class LanguageSwitchController {
     locale: KeyboardLocale,
     order = LANGUAGE_SLOTS,
     slots = LANGUAGE_SLOTS,
+    enabled = true,
   ): LanguageResult {
+    if (!enabled) {
+      this.reset();
+      return { prevent: false };
+    }
     if (event.synthetic) {
       return { prevent: false };
     }

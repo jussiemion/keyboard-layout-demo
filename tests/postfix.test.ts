@@ -3,6 +3,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   TypingEngine,
+  directLetters,
   replaceSelection,
   type KeyInput,
   type Locale,
@@ -57,7 +58,11 @@ function assertCycle(locale: Locale, row: string, shift: string, base: string) {
     f.tap(shift);
     assert.equal(
       f.state.value,
-      'b' + row[(start + step) % row.length],
+      'b' +
+        row[
+          (start + (shift === 'ShiftRight' ? -step : step) + row.length * 2) %
+            row.length
+        ],
       `starting at ${base}, Shift tap ${step}`,
     );
   }
@@ -216,7 +221,16 @@ void test('non-acute composition stays unchanged', () => {
 // Expand national profiles once; test bodies describe only the interaction.
 const nationalRows = Object.entries(profiles.profiles).flatMap(
   ([locale, cycles]) =>
-    cycles.flatMap((cycle) => {
+    cycles.flatMap((original) => {
+      const cycle = Array.from(original)
+        .filter(
+          (letter, index) =>
+            index === 0 || !directLetters(locale as Locale).has(letter),
+        )
+        .join('');
+      if (cycle.length < 2) {
+        return [];
+      }
       const upper = Array.from(cycle)
         .map(
           (letter) =>
@@ -245,7 +259,14 @@ for (const { locale, row, shift } of nationalScenarios) {
       for (let step = 0; step <= row.length; step++) {
         assert.equal(
           f.state.value,
-          'b' + (row[step % row.length] + '\u0301').normalize('NFC'),
+          'b' +
+            (
+              row[
+                (shift === 'ShiftRight'
+                  ? row.length - (step % row.length)
+                  : step) % row.length
+              ] + '\u0301'
+            ).normalize('NFC'),
           `Shift tap ${step}`,
         );
         f.tap(shift);
@@ -286,20 +307,44 @@ void test('Russian vowels without variants cannot be cycled', () => {
   }
 });
 
-void test('a non-cycling Russian letter clears the preceding candidate', () => {
-  const f = field('ru');
-  f.tap('KeyT', 'е');
+void test('a non-cycling letter clears the preceding candidate', () => {
+  const f = field('pl');
+  f.tap('KeyZ', 'z');
   assert.ok(f.engine.canCycleDiacritic);
-  f.tap('KeyE', 'у');
+  f.tap('KeyB', 'b');
   assert.equal(f.engine.canCycleDiacritic, false);
   f.tap('ShiftLeft');
-  assert.equal(f.state.value, 'bеу');
+  assert.equal(f.state.value, 'bzb');
 });
 
 void test('disabled typography does not offer a Shift cycle', () => {
-  const f = field('ru');
-  f.tap('KeyT', 'е');
+  const f = field('pl');
+  f.tap('KeyZ', 'z');
   assert.ok(f.engine.canCycleDiacritic);
   f.engine.enabled = false;
   assert.equal(f.engine.canCycleDiacritic, false);
+});
+
+void test('changing Shift sides reverses the last step', () => {
+  const f = field();
+  f.tap('KeyZ', 'z');
+  f.tap('ShiftRight');
+  assert.equal(f.state.value, 'bź');
+  f.tap('ShiftLeft');
+  assert.equal(f.state.value, 'bz');
+  f.tap('ShiftLeft');
+  assert.equal(f.state.value, 'bż');
+  f.tap('ShiftRight');
+  assert.equal(f.state.value, 'bz');
+});
+
+void test('Russian letters on ordinary keys never participate in the cycle', () => {
+  for (const letter of 'еёийЕЁИЙ') {
+    const f = field('ru');
+    f.tap('KeyA', letter);
+    assert.equal(f.engine.canCycleDiacritic, false);
+    f.tap('ShiftLeft');
+    f.tap('ShiftRight');
+    assert.equal(f.state.value, 'b' + letter);
+  }
 });

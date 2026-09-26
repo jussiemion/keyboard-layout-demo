@@ -49,6 +49,7 @@ for (const nativeLayoutActive of [false, true]) {
         const noop = () => {};
         const context = {
           nativeLayoutActive,
+          settings: { keepLanguageSwitching: true },
           nativeDetector: { current: new NativeLayoutDetector() },
           setNativeLayoutActive: (_active: boolean) => {},
           setCheckingNativeLayout: noop,

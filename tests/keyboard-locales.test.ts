@@ -4,7 +4,6 @@ import assert from 'node:assert/strict';
 import {
   LANGUAGES,
   KEYBOARD_LOCALES,
-  keyboardLanguage,
   keyboardLabel,
   parseKeyboardLocale,
   isRtl,
@@ -109,17 +108,13 @@ void test('product names and page titles use the surname without the given name'
   }
 });
 
-void test('regional options preserve their base-language diacritic profiles', () => {
+void test('regional options are parsed and share English keyboard mappings', () => {
   for (const locale of KEYBOARD_LOCALES.filter((value) =>
     value.includes('-'),
   )) {
     assert.equal(
       parseKeyboardLocale(locale.toLowerCase().replace('-', '_')),
       locale,
-    );
-    assert.equal(
-      nextDiacritic('a', locale),
-      nextDiacritic('a', keyboardLanguage(locale)),
     );
   }
   assert.equal(parseKeyboardLocale('fr-BE'), null);
@@ -159,15 +154,15 @@ void test('regional physical maps differ where expected', () => {
   }
 });
 
-void test('Turkish dotted and dotless i keep distinct case and postfix cycles', () => {
+void test('Turkish dotted and dotless i keep distinct case without redundant cycles', () => {
   assert.equal(baseKey('KeyI', 'tr'), 'ı');
   assert.equal(baseKey('KeyI', 'tr', true), 'I');
   assert.equal(baseKey('Quote', 'tr'), 'i');
   assert.equal(baseKey('Quote', 'tr', true), 'İ');
   assert.equal(baseKey('Quote', 'tr', false, true), 'İ');
-  assert.equal(nextDiacritic('İ', 'tr'), 'I');
-  assert.equal(nextDiacritic('I', 'tr'), 'İ');
-  assert.equal(nextDiacritic('i', 'tr'), 'ı');
+  assert.equal(nextDiacritic('İ', 'tr'), '');
+  assert.equal(nextDiacritic('I', 'tr'), '');
+  assert.equal(nextDiacritic('i', 'tr'), '');
 });
 
 void test('Arabic uses canonical letters and following vowel marks', () => {
@@ -188,7 +183,7 @@ void test('Vietnamese direct letters and native dead-key composition', () => {
     'ẳ',
   );
   assert.equal(nextDiacritic('ấ', 'vi'), 'ầ');
-  assert.equal(nextDiacritic('D', 'vi'), 'Đ');
+  assert.equal(nextDiacritic('D', 'vi'), '');
   assert.equal(nationalKeyAction('Quote', 'nl').dead, 'acute');
 });
 
@@ -264,4 +259,18 @@ void test('new-language search includes localized names and national association
       query,
     );
   }
+});
+
+void test('cycles omit direct letters using the selected regional map', () => {
+  assert.equal(nextDiacritic('e', 'fr'), 'ê');
+  assert.equal(nextDiacritic('ê', 'fr', -1), 'e');
+  assert.equal(nextDiacritic('é', 'fr'), '');
+  assert.equal(nextDiacritic('a', 'de'), '');
+  assert.equal(nextDiacritic('ä', 'de'), '');
+  assert.equal(nextDiacritic('n', 'es'), '');
+  assert.equal(nextDiacritic('c', 'pt'), '');
+  assert.equal(nextDiacritic('a', 'fr'), 'â');
+  assert.equal(nextDiacritic('a', 'fr-CA'), 'à');
+  assert.equal(nextDiacritic('z', 'pl'), 'ż');
+  assert.equal(nextDiacritic('z', 'pl', -1), 'ź');
 });

@@ -56,6 +56,7 @@ export function OnScreenKeyboard({
   nationalAlt = false,
   accent = null,
   typographyEnabled = true,
+  languageSwitchingEnabled = typographyEnabled,
   languageSlots,
   highlightedKeys = [],
   disabledKeys = [],
@@ -81,6 +82,7 @@ export function OnScreenKeyboard({
   nationalAlt?: boolean;
   accent?: string | null;
   typographyEnabled?: boolean;
+  languageSwitchingEnabled?: boolean;
   languageSlots?: readonly KeyboardLocale[];
   highlightedKeys?: readonly string[];
   disabledKeys?: readonly string[];
@@ -164,6 +166,12 @@ export function OnScreenKeyboard({
         }
         aria-controls={editableOnly && entry ? 'symbol-key-editor' : undefined}
         data-key-code={key.code}
+        data-language-active={
+          (showLanguageIndicators &&
+            languageSwitchingEnabled &&
+            Boolean(languageSlot || key.code === 'CapsLock')) ||
+          undefined
+        }
         data-customized={changedKeys.includes(key.code) || undefined}
         data-tour-key={highlightedKeys.includes(key.code) || undefined}
         data-mode={isAlt ? mode : undefined}

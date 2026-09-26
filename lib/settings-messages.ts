@@ -2,6 +2,7 @@ import type { UiLocale } from './messages';
 
 type SettingsMessages = {
   title: string;
+  keepLanguageSwitching: string;
   map: string;
   pairHint: string;
   slotsHint: string;
@@ -17,6 +18,7 @@ type SettingsMessages = {
 
 export const settingsMessages: Record<UiLocale, SettingsMessages> = {
   tr: {
+    keepLanguageSwitching: 'Tipografi kapalıyken de dil değiştirmeyi etkin tut',
     title: 'Ayarlar',
     map: 'Dil haritası',
     pairHint: 'Bu iki dil arasında geçmek için Caps Lock tuşuna basın.',
@@ -32,6 +34,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Bu sekmede uygulandı. Tarayıcı depolaması kullanılamıyor; yenilemede ayarlar kaybolur.',
   },
   nl: {
+    keepLanguageSwitching: 'Talen wisselen wanneer typografie is uitgeschakeld',
     title: 'Instellingen',
     map: 'Taalindeling',
     pairHint: 'Druk op Caps Lock om tussen deze twee talen te wisselen.',
@@ -48,6 +51,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Toegepast in dit tabblad. Browseropslag is niet beschikbaar; bij herladen gaan de instellingen verloren.',
   },
   vi: {
+    keepLanguageSwitching: 'Vẫn chuyển ngôn ngữ khi tắt chế độ ký tự đặc biệt',
     title: 'Cài đặt',
     map: 'Bản đồ ngôn ngữ',
     pairHint: 'Nhấn Caps Lock để đổi qua lại giữa hai ngôn ngữ này.',
@@ -63,6 +67,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Đã áp dụng trong thẻ này. Bộ nhớ trình duyệt không khả dụng; cài đặt sẽ mất khi tải lại.',
   },
   ar: {
+    keepLanguageSwitching: 'إبقاء تبديل اللغات مفعّلًا عند إيقاف الطباعة المحسّنة',
     title: 'الإعدادات',
     map: 'خريطة اللغات',
     pairHint: 'اضغط Caps Lock للتبديل بين هاتين اللغتين.',
@@ -79,6 +84,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
   },
 
   en: {
+    keepLanguageSwitching: 'Keep language switching on when typography is off',
     title: 'Settings',
     map: 'Language map',
     pairHint: 'Tap Caps Lock to switch between these two languages.',
@@ -95,6 +101,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Applied for this tab. Browser storage is unavailable; these settings will not survive a reload.',
   },
   ru: {
+    keepLanguageSwitching: 'Переключать языки при выключенной типографике',
     title: 'Настройки',
     map: 'Карта языков',
     pairHint: 'Нажимайте Caps Lock для переключения между этими двумя языками.',
@@ -111,6 +118,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Применено в этой вкладке. Хранилище браузера недоступно: после перезагрузки настройки сбросятся.',
   },
   he: {
+    keepLanguageSwitching: 'לאפשר החלפת שפות גם כשהטיפוגרפיה כבויה',
     title: 'הגדרות',
     map: 'מפת שפות',
     pairHint: 'לחצו על Caps Lock כדי לעבור בין שתי השפות האלה.',
@@ -126,6 +134,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'ההגדרות הוחלו בכרטיסייה זו. אחסון הדפדפן אינו זמין והן יאבדו ברענון.',
   },
   de: {
+    keepLanguageSwitching: 'Sprachwechsel auch bei ausgeschalteter Typografie',
     title: 'Einstellungen',
     map: 'Sprachbelegung',
     pairHint: 'Mit Caps Lock zwischen diesen beiden Sprachen wechseln.',
@@ -142,6 +151,8 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Für diesen Tab übernommen. Browserspeicher nicht verfügbar; nach dem Neuladen gehen die Einstellungen verloren.',
   },
   fr: {
+    keepLanguageSwitching:
+      'Changer de langue même lorsque la typographie est désactivée',
     title: 'Paramètres',
     map: 'Affectation des langues',
     pairHint: 'Appuyez sur Caps Lock pour alterner entre ces deux langues.',
@@ -158,6 +169,8 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Appliqué à cet onglet. Le stockage est indisponible ; les réglages seront perdus au rechargement.',
   },
   es: {
+    keepLanguageSwitching:
+      'Cambiar de idioma incluso con la tipografía desactivada',
     title: 'Ajustes',
     map: 'Mapa de idiomas',
     pairHint: 'Pulsa Caps Lock para alternar entre estos dos idiomas.',
@@ -174,6 +187,8 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Aplicado en esta pestaña. El almacenamiento no está disponible; los ajustes se perderán al recargar.',
   },
   it: {
+    keepLanguageSwitching:
+      'Cambiare lingua anche con la tipografia disattivata',
     title: 'Impostazioni',
     map: 'Mappa delle lingue',
     pairHint: 'Premi Caps Lock per alternare queste due lingue.',
@@ -190,6 +205,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Applicato in questa scheda. Archivio non disponibile; le impostazioni andranno perse al ricaricamento.',
   },
   pl: {
+    keepLanguageSwitching: 'Przełączaj języki także przy wyłączonej typografii',
     title: 'Ustawienia',
     map: 'Mapa języków',
     pairHint: 'Naciśnij Caps Lock, aby przełączać te dwa języki.',
@@ -206,6 +222,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Zastosowano w tej karcie. Pamięć przeglądarki jest niedostępna; ustawienia znikną po odświeżeniu.',
   },
   pt: {
+    keepLanguageSwitching: 'Alternar idiomas mesmo com a tipografia desativada',
     title: 'Definições',
     map: 'Mapa de idiomas',
     pairHint: 'Prima Caps Lock para alternar entre estes dois idiomas.',
@@ -222,6 +239,7 @@ export const settingsMessages: Record<UiLocale, SettingsMessages> = {
       'Aplicado neste separador. O armazenamento não está disponível; as definições perdem-se ao recarregar.',
   },
   ro: {
+    keepLanguageSwitching: 'Schimbă limba și când tipografia este dezactivată',
     title: 'Setări',
     map: 'Harta limbilor',
     pairHint: 'Apăsați Caps Lock pentru a alterna între aceste două limbi.',
