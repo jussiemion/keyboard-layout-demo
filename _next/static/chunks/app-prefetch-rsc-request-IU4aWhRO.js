@@ -1,0 +1,1 @@
+import{o as e}from"./vinext-C_I4HTUP.js";export{e as resolveAppPrefetchRscRequest};

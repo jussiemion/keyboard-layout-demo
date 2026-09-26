@@ -1,0 +1,1 @@
+import{a as e,i as t,r as n}from"./vinext-C_I4HTUP.js";export{n as canAutoPrefetchFullAppRoute,t as resolveAutoAppRoutePrefetch,e as resolveFullAppRoutePrefetch};
