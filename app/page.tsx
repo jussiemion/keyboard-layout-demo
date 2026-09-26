@@ -800,8 +800,7 @@ export default function Home({
     }
     if (code.startsWith('Shift')) {
       if (accentHold.menu) {
-        accentHold.before(new KeyboardEvent('keydown', { code }), true);
-        accentHold.before(new KeyboardEvent('keyup', { code }), false);
+        accentHold.open(code === 'ShiftRight' ? -1 : 1);
         return;
       }
       const result = engine.current.handle(

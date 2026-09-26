@@ -60,5 +60,6 @@ persistence failures. Browser checks cover physical/virtual input, dialogs,
 cancellation, mobile and RTL.
 
 The Polish postfix step demonstrates a → ą and explains letter hold (250 ms),
-Shift hold/repeat (500 ms), persistent selection and numbered choices. Its menu
-instructions reuse the localized cheat-sheet copy.
+standalone Shift taps (holding Shift retains normal input), persistent selection
+and numbered choices. Its menu instructions reuse the localized cheat-sheet
+copy.

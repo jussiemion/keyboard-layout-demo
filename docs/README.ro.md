@@ -156,9 +156,10 @@ cel drept merge înapoi. Fiecare apăsare înlocuiește litera și păstrează m
 deschis.
 
 Ține litera de bază apăsată 250 ms pentru a deschide meniul și aplica
-opțiunea 2. <kbd>Shift</kbd> ținut apăsat deschide meniul după 500 ms și schimbă
-varianta la fiecare 500 ms. Doar ținerea literei nu repetă schimbarea. Dacă
-<kbd>Shift</kbd> era deja apăsat, meniul începe cu opțiunea 1.
+opțiunea 2. O apăsare scurtă și separată pe <kbd>Shift</kbd> schimbă varianta la
+eliberare. <kbd>Shift</kbd> ținut apăsat servește pentru majuscule și
+simbolurile superioare, fără a parcurge variantele. Dacă <kbd>Shift</kbd> era
+deja apăsat când litera deschide meniul, rămâne selectată opțiunea 1.
 
 Litera de bază este prima: z (1), ż (2), ź (3). Cifrele 1–9, <kbd>Enter</kbd>
 sau un clic selectează și închid. Eliberarea tastelor nu închide meniul;

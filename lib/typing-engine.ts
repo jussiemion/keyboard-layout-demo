@@ -216,6 +216,7 @@ export type KeyInput = {
   capsLock?: boolean;
   synthetic?: boolean;
   previewDiacritic?: boolean;
+  timeStamp?: number;
   context?: { value: string; start: number; end: number };
 };
 export type KeyResult = {
@@ -339,6 +340,7 @@ export class TypingEngine {
   private shortcut = false;
   private postfix: PostfixCandidate | null = null;
   private postfixShift: string | null = null;
+  private postfixShiftStarted = 0;
   private postfixLocale: KeyboardLocale | null = null;
 
   /** Cancel replacement when the user edits the text or moves the caret. */
@@ -462,6 +464,7 @@ export class TypingEngine {
       shift &&
       !event.down &&
       this.postfixShift === event.code &&
+      (event.timeStamp ?? performance.now()) - this.postfixShiftStarted < 500 &&
       this.canStartPostfixShift &&
       this.postfix
     ) {
@@ -511,6 +514,7 @@ export class TypingEngine {
     }
     if (fresh && shift && event.down) {
       this.postfixShift = afterText && this.postfix ? event.code : null;
+      this.postfixShiftStarted = event.timeStamp ?? performance.now();
     } else if (fresh && event.down) {
       this.resetPostfix();
     }

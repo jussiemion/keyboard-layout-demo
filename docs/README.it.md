@@ -158,9 +158,10 @@ quello destro torna indietro. Ogni pressione sostituisce la lettera e lascia
 aperto il menu.
 
 Tieni premuta la lettera base per 250 ms per aprire il menu e applicare
-l’opzione 2. Tenere premuto <kbd>Shift</kbd> apre il menu dopo 500 ms e cambia
-variante ogni 500 ms. La sola lettera tenuta premuta non ripete il cambio. Se
-<kbd>Shift</kbd> era già premuto, il menu parte dall’opzione 1.
+l’opzione 2. Una breve pressione separata di <kbd>Shift</kbd> cambia variante al
+rilascio. Tenere premuto <kbd>Shift</kbd> serve per maiuscole e simboli
+superiori, senza scorrere le varianti. Se <kbd>Shift</kbd> era già premuto
+quando la lettera apre il menu, resta selezionata l’opzione 1.
 
 La lettera base è sempre la prima: z (1), ż (2), ź (3). Le cifre 1–9, Invio o un
 clic selezionano e chiudono. Rilasciare i tasti non chiude il menu;

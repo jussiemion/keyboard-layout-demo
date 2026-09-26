@@ -155,9 +155,10 @@ chế độ.
 Chọn tiếng Ba Lan và gõ z: <kbd>Shift</kbd> trái chuyển z → ż → ź → z,
 <kbd>Shift</kbd> phải chuyển ngược lại. Mỗi lần nhấn thay chữ và giữ menu mở.
 
-Giữ chữ cơ sở 250 ms để mở menu và chọn mục 2. Giữ <kbd>Shift</kbd> mở menu sau
-500 ms và chuyển tiếp mỗi 500 ms. Chỉ giữ phím chữ không lặp lại việc chuyển.
-Nếu <kbd>Shift</kbd> đã được giữ trước đó, menu bắt đầu ở mục 1.
+Giữ chữ cơ sở 250 ms để mở menu và chọn mục 2. Nhấn nhanh riêng phím
+<kbd>Shift</kbd> để đổi biến thể khi thả phím. Giữ <kbd>Shift</kbd> dùng để gõ
+chữ hoa và ký hiệu phía trên, không tự chuyển biến thể. Nếu <kbd>Shift</kbd> đã
+được giữ khi phím chữ mở menu, mục 1 vẫn được chọn.
 
 Chữ cơ sở luôn đứng đầu: z (1), ż (2), ź (3). Phím 1–9, <kbd>Enter</kbd> hoặc
 nhấp chuột chọn và đóng. Thả phím không đóng menu; <kbd>Esc</kbd> đóng mà không

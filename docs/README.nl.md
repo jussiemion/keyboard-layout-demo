@@ -158,9 +158,10 @@ Kies Pools en typ z: linker <kbd>Shift</kbd> doorloopt z → ż → ź → z, re
 open.
 
 Houd de basisletter 250 ms vast om het menu te openen en optie 2 toe te passen.
-<kbd>Shift</kbd> vasthouden opent na 500 ms het menu en wisselt elke 500 ms.
-Alleen de letter vasthouden herhaalt de wissel niet. Was <kbd>Shift</kbd> al
-ingedrukt, dan begint het menu bij optie 1.
+Een korte losse <kbd>Shift</kbd>-aanslag wisselt de variant bij loslaten.
+<kbd>Shift</kbd> vasthouden dient voor hoofdletters en bovenste tekens, zonder
+varianten te doorlopen. Was <kbd>Shift</kbd> al ingedrukt toen de letter het
+menu opende, dan blijft optie 1 geselecteerd.
 
 De basisletter staat altijd eerst: z (1), ż (2), ź (3). Cijfers 1–9,
 <kbd>Enter</kbd> of een klik kiezen en sluiten. Loslaten sluit het menu niet;

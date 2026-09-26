@@ -152,9 +152,10 @@ Wybierz polski i wpisz z: lewy <kbd>Shift</kbd> przechodzi przez z → ż → ź
 prawy wstecz. Każde naciśnięcie zastępuje literę i pozostawia menu otwarte.
 
 Przytrzymaj literę bazową przez 250 ms, aby otworzyć menu i wybrać wariant 2.
-Przytrzymanie <kbd>Shift</kbd> otwiera menu po 500 ms i zmienia wariant co 500
-ms. Samo przytrzymanie litery nie powtarza zmiany. Jeśli <kbd>Shift</kbd> był
-już wciśnięty, menu zaczyna od opcji 1.
+Krótkie osobne naciśnięcie <kbd>Shift</kbd> zmienia wariant po zwolnieniu.
+Przytrzymanie <kbd>Shift</kbd> nie przełącza wariantów: służy do wielkich liter
+i górnych symboli klawiszy. Jeśli <kbd>Shift</kbd> był już wciśnięty, gdy
+przytrzymana litera otwiera menu, pozostaje opcja 1.
 
 Litera bazowa jest pierwsza: z (1), ż (2), ź (3). Cyfry 1–9, <kbd>Enter</kbd>
 lub kliknięcie wybierają i zamykają menu. Zwolnienie klawiszy nie zamyka menu;

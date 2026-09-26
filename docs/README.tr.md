@@ -156,9 +156,10 @@ Lehçeyi seçip z yazın: sol <kbd>Shift</kbd> z → ż → ź → z sırasıyla
 tutar.
 
 Temel harfi 250 ms basılı tutmak menüyü açıp 2. seçeneği uygular.
-<kbd>Shift</kbd> tuşunu tutmak 500 ms sonra menüyü açar ve her 500 ms’de
-seçeneği değiştirir. Yalnızca harfi tutmak değişimi tekrarlamaz.
-<kbd>Shift</kbd> önceden basılıysa menü 1. seçenekten başlar.
+<kbd>Shift</kbd> tuşuna kısa ve tek başına basmak, tuş bırakıldığında seçeneği
+değiştirir. <kbd>Shift</kbd> basılı tutulduğunda seçenekler değişmez; büyük
+harfler ve tuşların üst simgeleri yazılır. Harf menüyü açarken <kbd>Shift</kbd>
+zaten basılıysa 1. seçenek korunur.
 
 Temel harf her zaman ilk sıradadır: z (1), ż (2), ź (3). 1–9, <kbd>Enter</kbd>
 veya tıklama seçip kapatır. Tuşları bırakmak menüyü kapatmaz; <kbd>Esc</kbd> son

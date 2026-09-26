@@ -121,8 +121,38 @@ function setup(letter = 'z', code = 'KeyZ', locale: KeyboardLocale = 'pl') {
     }
     now = end;
   }
+  function key(code: string, down: boolean, key = '') {
+    if (render().before(event(code), down)) {
+      return;
+    }
+    const result = engine.handle(
+      {
+        code,
+        key,
+        down,
+        timeStamp: now,
+        previewDiacritic: true,
+        context: {
+          value: field.value,
+          start: field.selectionStart,
+          end: field.selectionEnd,
+        },
+      },
+      locale,
+    );
+    if (result.route === 'accent-menu') {
+      render().open(code === 'ShiftRight' ? -1 : 1);
+    }
+  }
+  function tap(code: string) {
+    key(code, true);
+    advance(50);
+    key(code, false);
+  }
   return {
     render,
+    key,
+    tap,
     field,
     engine,
     event,
@@ -212,23 +242,7 @@ void test('digit selects immediately and stops cycling and native repeats', () =
   s.advance(100);
   assert.equal(s.field.value, 'ź');
 });
-void test('held Shift repeats every 500 ms and stops on release', () => {
-  const s = setup();
-  s.render().arm('KeyZ');
-  s.advance(250);
-  s.render().before(s.event('ShiftLeft'), true);
-  assert.equal(s.field.value, 'ź');
-  s.advance(499);
-  assert.equal(s.field.value, 'ź');
-  s.advance(1);
-  assert.equal(s.field.value, 'z');
-  s.advance(500);
-  assert.equal(s.field.value, 'ż');
-  s.render().before(s.event('ShiftLeft'), false);
-  s.advance(1000);
-  assert.equal(s.field.value, 'ż');
-  assert.ok(s.render().menu); // base is still held
-});
+
 void test('first Shift applies the first accent and opens the menu', () => {
   const s = setup();
   const context = { value: 'z', start: 1, end: 1 };
@@ -243,7 +257,7 @@ void test('first Shift applies the first accent and opens the menu', () => {
   s.render().open();
   assert.equal(s.render().menu?.index, 1);
   assert.equal(s.field.value, 'ż');
-  s.render().before(s.event('ShiftLeft'), true);
+  s.tap('ShiftLeft');
   assert.equal(s.render().menu?.index, 2);
   assert.equal(s.field.value, 'ź');
   s.render().before(s.event('Escape'), true);
@@ -253,8 +267,8 @@ void test('first Shift applies the first accent and opens the menu', () => {
 void test('new input closes the menu and preserves the last replacement', () => {
   const s = setup();
   s.render().open();
-  s.render().before(s.event('ShiftLeft'), true);
-  s.render().before(s.event('ShiftLeft'), false);
+  s.key('ShiftLeft', true);
+  s.key('ShiftLeft', false);
   s.render().before(s.event('KeyB'), true);
   assert.equal(s.render().menu, null);
   assert.equal(s.field.value, 'ź');
@@ -284,12 +298,12 @@ void test('blur/reset clears consumed modifier state', () => {
   const s = setup();
   s.render().arm('KeyZ');
   s.advance(250);
-  s.render().before(s.event('ShiftLeft'), true);
+  s.key('ShiftLeft', true);
   s.render().cancel();
   assert.equal(s.render().before(s.event('ShiftLeft'), true), false);
   s.advance(100);
   assert.equal(s.render().menu, null);
-  assert.equal(s.field.value, 'ź');
+  assert.equal(s.field.value, 'ż');
 });
 
 void test('release preserves the menu and stops cycling; Shift does not restart it', () => {
@@ -300,8 +314,8 @@ void test('release preserves the menu and stops cycling; Shift does not restart 
   s.advance(100);
   assert.equal(s.field.value, 'ż');
   assert.equal(s.render().menu?.index, 1);
-  assert.equal(s.render().before(s.event('ShiftLeft'), true), true);
-  s.render().before(s.event('ShiftLeft'), false);
+  s.key('ShiftLeft', true);
+  s.key('ShiftLeft', false);
   s.advance(100);
   assert.equal(s.field.value, 'ź');
   assert.equal(s.render().menu?.index, 2);
@@ -370,35 +384,12 @@ void test('Shift wraps in both directions without closing the menu', () => {
     ['ShiftRight', 'ź', 2],
     ['ShiftRight', 'ż', 1],
   ] as const) {
-    s.render().before(s.event(code), true);
-    s.render().before(s.event(code), false);
+    s.tap(code);
     assert.equal(s.field.value, expected);
     assert.equal(s.render().menu?.index, index);
   }
 });
 
-void test('Shift held before opening starts at the base, then cycles', () => {
-  const s = setup('Z');
-  s.render().before(s.event('ShiftLeft'), true);
-  s.render().arm('KeyZ');
-  s.advance(249);
-  assert.equal(s.render().menu, null);
-  s.advance(1);
-  assert.equal(s.field.value, 'Z');
-  assert.equal(s.render().menu?.index, 0);
-  s.advance(499);
-  assert.equal(s.field.value, 'Z');
-  s.advance(1);
-  assert.equal(s.field.value, 'Ż');
-  s.render().before(s.event('KeyZ'), false);
-  s.advance(500);
-  assert.ok(s.render().menu); // Shift still held
-  s.render().before(s.event('ShiftLeft'), false);
-  s.advance(499);
-  assert.ok(s.render().menu);
-  s.advance(1);
-  assert.ok(s.render().menu);
-});
 void test('menu persists indefinitely after releasing all keys', () => {
   const s = setup();
   s.render().arm('KeyZ');
@@ -408,79 +399,18 @@ void test('menu persists indefinitely after releasing all keys', () => {
   assert.ok(s.render().menu);
   assert.equal(s.field.value, 'ż');
 });
-void test('holding Shift alone opens after 500 ms and keeps cycling until release', () => {
-  const s = setup();
-  const context = { value: 'z', start: 1, end: 1 };
-  s.engine.handle({ code: 'KeyZ', down: false, context }, 'pl');
-  s.render().before(s.event('ShiftLeft'), true);
-  s.engine.handle({ code: 'ShiftLeft', down: true, context }, 'pl');
-  s.advance(499);
-  assert.equal(s.render().menu, null);
-  s.advance(1);
-  assert.equal(s.field.value, 'ż');
-  s.advance(500);
-  assert.equal(s.field.value, 'ź');
-  assert.equal(s.render().before(s.event('ShiftLeft'), false), true);
-  assert.equal(s.engine.shiftHeld, false);
-  s.advance(5000);
-  assert.equal(s.field.value, 'ź');
-  assert.ok(s.render().menu);
-});
+
 void test('Shift plus another key cancels delayed opening and keeps uppercase input', () => {
   const s = setup();
   const context = { value: 'z', start: 1, end: 1 };
   s.engine.handle({ code: 'KeyZ', down: false, context }, 'pl');
-  s.render().before(s.event('ShiftLeft'), true);
+  s.key('ShiftLeft', true);
   s.engine.handle({ code: 'ShiftLeft', down: true, context }, 'pl');
   s.advance(100);
   s.render().before(s.event('KeyB'), true);
   s.advance(1000);
   assert.equal(s.render().menu, null);
   assert.equal(s.field.value, 'z');
-});
-
-void test('a fast Shift press during base release grace still opens the menu', () => {
-  const s = setup();
-  const context = { value: 'z', start: 1, end: 1 };
-  s.render().arm('KeyZ');
-  s.render().before(s.event('KeyZ'), false);
-  s.engine.handle({ code: 'KeyZ', down: false, context }, 'pl');
-  s.render().before(s.event('ShiftLeft'), true);
-  s.engine.handle({ code: 'ShiftLeft', down: true, context }, 'pl');
-  s.advance(500);
-  assert.equal(s.field.value, 'ż');
-  assert.ok(s.render().menu);
-});
-
-void test('digit closes a Shift-opened menu without leaving Shift held', () => {
-  const s = setup();
-  const context = { value: 'z', start: 1, end: 1 };
-  s.engine.handle({ code: 'KeyZ', down: false, context }, 'pl');
-  s.render().before(s.event('ShiftLeft'), true);
-  s.engine.handle({ code: 'ShiftLeft', down: true, context }, 'pl');
-  s.advance(500);
-  s.render().before(s.event('Digit3'), true);
-  s.render().before(s.event('Digit3'), false);
-  s.render().before(s.event('ShiftLeft'), false);
-  assert.equal(s.engine.shiftHeld, false);
-  assert.equal(s.field.value, 'ź');
-  s.advance(1000);
-  assert.equal(s.render().menu, null);
-});
-
-void test('Shift hold overlapping the base waits for its own timer', () => {
-  const s = setup();
-  const context = { value: 'z', start: 1, end: 1 };
-  s.render().arm('KeyZ');
-  s.advance(50);
-  s.render().before(s.event('ShiftLeft'), true);
-  s.engine.handle({ code: 'ShiftLeft', down: true, context }, 'pl');
-  s.advance(499);
-  assert.equal(s.render().menu, null);
-  assert.equal(s.field.value, 'z');
-  s.advance(1);
-  assert.equal(s.field.value, 'ż');
-  assert.ok(s.render().menu);
 });
 
 // Exercise the UI controller for every eligible base on every physical map.
@@ -524,14 +454,12 @@ for (const { locale, letter, code, choices } of languageCases) {
     s.advance(1000);
     assert.ok(s.render().menu);
     assert.equal(s.field.value, choices[1]);
-    s.render().before(s.event('ShiftLeft'), true);
+    s.tap('ShiftLeft');
     assert.equal(s.field.value, choices[2 % choices.length]);
-    s.advance(500);
-    assert.equal(s.field.value, choices[3 % choices.length]);
-    s.render().before(s.event('ShiftLeft'), false);
-    s.render().before(s.event('ShiftRight'), true);
+    s.advance(1000);
     assert.equal(s.field.value, choices[2 % choices.length]);
-    s.render().before(s.event('ShiftRight'), false);
+    s.tap('ShiftRight');
+    assert.equal(s.field.value, choices[1]);
     s.render().before(s.event('Digit1'), true);
     s.render().before(s.event('Digit1'), false);
     assert.equal(s.field.value, letter);
@@ -541,22 +469,17 @@ for (const { locale, letter, code, choices } of languageCases) {
     assert.equal(s.field.value, choices.at(-1));
     assert.equal(s.render().menu, null);
   });
-  void test(`${locale} ${letter}: Shift hold opens and repeats`, () => {
+  void test(`${locale} ${letter}: held Shift never changes text or opens a menu`, () => {
     const s = setup(letter, code, locale);
-    const context = { value: letter, start: letter.length, end: letter.length };
-    s.engine.handle({ code, down: false, context }, locale);
-    s.render().before(s.event('ShiftLeft'), true);
-    s.engine.handle({ code: 'ShiftLeft', down: true, context }, locale);
-    s.advance(499);
+    s.key(code, false);
+    s.key('ShiftLeft', true);
+    s.advance(2000);
+    assert.equal(s.field.value, letter);
     assert.equal(s.render().menu, null);
-    s.advance(1);
+    s.key('ShiftLeft', false);
+    assert.equal(s.field.value, letter);
+    s.tap('ShiftLeft');
     assert.equal(s.field.value, choices[1]);
-    s.advance(500);
-    assert.equal(s.field.value, choices[2 % choices.length]);
-    s.render().before(s.event('ShiftLeft'), false);
-    s.advance(1000);
-    assert.equal(s.field.value, choices[2 % choices.length]);
-    assert.ok(s.render().menu);
   });
 }
 
@@ -606,3 +529,49 @@ for (const [locale, letter, code] of [
     assert.equal(s.field.value, letter);
   });
 }
+
+for (const shift of ['ShiftLeft', 'ShiftRight']) {
+  for (const visible of [false, true]) {
+    void test(`${shift}, menu ${visible}: long hold and uppercase/symbol chords preserve text`, () => {
+      const s = setup();
+      s.key('KeyZ', false);
+      if (visible) {
+        s.render().open();
+      }
+      const original = s.field.value;
+      s.key(shift, true);
+      s.advance(2000);
+      assert.equal(s.field.value, original);
+      assert.equal(s.render().before(s.event('Digit1'), true), false);
+      const result = s.engine.handle(
+        {
+          code: 'Digit1',
+          key: '!',
+          down: true,
+          shiftKey: true,
+          timeStamp: 2000,
+          context: {
+            value: original,
+            start: original.length,
+            end: original.length,
+          },
+        },
+        'pl',
+      );
+      assert.equal(result.route, 'pass');
+      s.key('Digit1', false);
+      s.key(shift, false);
+      assert.equal(s.engine.shiftHeld, false);
+      assert.equal(s.field.value, original);
+      assert.equal(s.render().menu, null);
+    });
+  }
+}
+void test('a short overlapping Shift tap still opens after base release grace', () => {
+  const s = setup();
+  s.render().arm('KeyZ');
+  s.key('KeyZ', false);
+  s.tap('ShiftLeft');
+  assert.equal(s.field.value, 'ż');
+  assert.ok(s.render().menu);
+});

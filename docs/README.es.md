@@ -156,10 +156,11 @@ para la siguiente entrada. No hay límite de tiempo entre pulsaciones.
 Elige polaco y escribe z: <kbd>Shift</kbd> izquierdo recorre z → ż → ź → z; el
 derecho retrocede. Cada pulsación reemplaza la letra y mantiene abierto el menú.
 
-Mantén la letra base 250 ms para abrir el menú y aplicar la opción 2. Mantener
-<kbd>Shift</kbd> abre el menú tras 500 ms y cambia de variante cada 500 ms.
-Mantener solo la letra no repite el cambio. Si <kbd>Shift</kbd> ya estaba
-pulsado, el menú empieza en la opción 1.
+Mantén la letra base 250 ms para abrir el menú y aplicar la opción 2. Una
+pulsación breve y aislada de <kbd>Shift</kbd> cambia la variante al soltarlo.
+Mantener <kbd>Shift</kbd> sirve para mayúsculas y símbolos superiores, sin
+recorrer variantes. Si <kbd>Shift</kbd> ya estaba pulsado cuando la letra abre
+el menú, queda seleccionada la opción 1.
 
 La letra base siempre es la primera: z (1), ż (2), ź (3). Los dígitos 1–9,
 <kbd>Enter</kbd> o un clic seleccionan y cierran. Soltar las teclas no cierra el

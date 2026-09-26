@@ -155,9 +155,10 @@ droite revient en arrière. Chaque pression remplace la lettre et garde le menu
 ouvert.
 
 Maintenez la lettre de base 250 ms pour ouvrir le menu et appliquer le choix 2.
-Maintenir Maj ouvre le menu après 500 ms et change de variante toutes les 500
-ms. Maintenir seulement la lettre ne répète pas le changement. Si Maj était déjà
-maintenue, le menu commence au choix 1.
+Une brève pression isolée sur Maj change la variante au relâchement. Maintenir
+Maj sert aux majuscules et aux symboles supérieurs, sans parcourir les
+variantes. Si Maj était déjà maintenue lorsque la lettre ouvre le menu, le choix
+1 reste sélectionné.
 
 La lettre de base est toujours première : z (1), ż (2), ź (3). Les chiffres 1–9,
 Entrée ou un clic sélectionnent et ferment. Relâcher les touches ne ferme pas le

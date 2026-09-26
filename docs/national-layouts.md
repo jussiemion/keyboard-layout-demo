@@ -180,7 +180,8 @@ syllable.
 
 </details>
 
-The accent-menu tests exercise letter hold, both Shift directions, Shift hold,
-numbered selection, reopening and persistence for every eligible cycle on all 24
-keyboard options, in both cases. A map with no remaining variants has no accent
-menu; Hebrew and Arabic retain their separate national mark layers.
+The accent-menu tests exercise letter hold, both Shift directions, ordinary
+Shift holds, numbered selection, reopening and persistence for every eligible
+cycle on all 24 keyboard options, in both cases. A map with no remaining
+variants has no accent menu; Hebrew and Arabic retain their separate national
+mark layers.

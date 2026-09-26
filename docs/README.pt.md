@@ -155,10 +155,11 @@ para a próxima entrada. Não existe limite de tempo entre as teclas.
 Escolha polaco e escreva z: <kbd>Shift</kbd> esquerdo percorre z → ż → ź → z; o
 direito recua. Cada pressão substitui a letra e mantém o menu aberto.
 
-Mantenha a letra base durante 250 ms para abrir o menu e aplicar a opção 2.
-Manter <kbd>Shift</kbd> abre o menu após 500 ms e muda a variante a cada 500 ms.
-Manter apenas a letra não repete a mudança. Se <kbd>Shift</kbd> já estava
-premido, o menu começa na opção 1.
+Mantenha a letra base durante 250 ms para abrir o menu e aplicar a opção 2. Um
+toque breve e isolado em <kbd>Shift</kbd> muda a variante ao soltar. Manter
+<kbd>Shift</kbd> serve para maiúsculas e símbolos superiores, sem percorrer
+variantes. Se <kbd>Shift</kbd> já estava premido quando a letra abre o menu,
+fica selecionada a opção 1.
 
 A letra base é sempre a primeira: z (1), ż (2), ź (3). Os dígitos 1–9,
 <kbd>Enter</kbd> ou um clique selecionam e fecham. Soltar as teclas não fecha o

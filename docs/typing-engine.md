@@ -73,9 +73,10 @@ case.
 
 After typing or choosing a character, tap left/right Shift to apply the
 next/previous variant and open the menu. Reopening continues from the current
-character: z → ż → ź → z. Holding Shift alone for 500 ms also opens the menu and
-applies the next/previous variant; continued holding repeats every 500 ms.
-Releasing Shift stops repetition without applying an extra step.
+character: z → ż → ź → z. Only a standalone Shift tap shorter than 500 ms
+switches on release. Holding Shift never opens or cycles the menu. Shift
+combined with a letter or digit keeps its ordinary uppercase or upper-symbol
+behavior, even with the menu open.
 
 The menu stays open indefinitely, including after all keys are released. Enter,
 digits 1–9 and clicks select and close it. Escape closes it without undoing the

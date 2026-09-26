@@ -3,7 +3,6 @@ import type { TypingEngine } from '@/lib/typing-engine';
 
 type Choices = NonNullable<TypingEngine['accentChoices']>;
 export const ACCENT_MENU_DELAY = 250;
-export const ACCENT_REPEAT_DELAY = 500;
 // Some Linux input paths report autorepeat as a release/press pair instead
 // of repeat=true. Give that pair one short grace period, not a new hold.
 const RELEASE_GRACE = 12;
@@ -19,13 +18,6 @@ export function useAccentHold(
   const menuTimer = useRef<ReturnType<typeof setTimeout> | undefined>(
     undefined,
   );
-  const lifecycleTimer = useRef<ReturnType<typeof setTimeout> | undefined>(
-    undefined,
-  );
-  const shiftOpenTimer = useRef<ReturnType<typeof setTimeout> | undefined>(
-    undefined,
-  );
-  const shifts = useRef(new Set<string>());
   const handled = useRef(new Set<string>());
   const pending = useRef<{
     choices: string[];
@@ -45,8 +37,6 @@ export function useAccentHold(
       blockedRepeats.current.add(pending.current.code);
     }
     clearTimeout(menuTimer.current);
-    clearTimeout(shiftOpenTimer.current);
-    clearTimeout(lifecycleTimer.current);
     setMenu(null);
     pending.current = null;
   }
@@ -88,37 +78,6 @@ export function useAccentHold(
     setMenu({ choices: current.choices, index });
     return true;
   }
-  function activity() {
-    clearTimeout(lifecycleTimer.current);
-    const current = pending.current;
-    if (!current?.visible) {
-      return;
-    }
-    const shift = Array.from(shifts.current).at(-1);
-    if (!shift) {
-      return;
-    }
-    lifecycleTimer.current = setTimeout(() => {
-      if (pending.current !== current) {
-        return;
-      }
-      if (!valid(current.data) || document.activeElement !== input.current) {
-        cancel();
-        return;
-      }
-      if (shift && shifts.current.has(shift)) {
-        const direction = shift === 'ShiftRight' ? -1 : 1;
-        if (
-          select(
-            (current.index + current.choices.length + direction) %
-              current.choices.length,
-          )
-        ) {
-          activity();
-        }
-      }
-    }, ACCENT_REPEAT_DELAY);
-  }
   function choose(index: number) {
     if (select(index)) {
       cancel();
@@ -133,55 +92,20 @@ export function useAccentHold(
           current.choices.length,
       );
     }
-    activity();
   }
   function before(event: KeyboardEvent, down: boolean) {
     const isShift = event.code === 'ShiftLeft' || event.code === 'ShiftRight';
-    if (isShift && !event.repeat) {
-      if (down) {
-        shifts.current.add(event.code);
-      } else {
-        shifts.current.delete(event.code);
+    if (isShift) {
+      // Let the engine distinguish a standalone tap from ordinary Shift input.
+      // In particular, never replace text on keydown or while Shift is held.
+      if (down && !pending.current?.visible) {
+        cancel();
       }
-      activity();
-    }
-    if (down && !isShift) {
-      clearTimeout(shiftOpenTimer.current);
-    }
-    if (isShift && !event.repeat) {
-      clearTimeout(shiftOpenTimer.current);
-      const data = engine.current.accentChoices;
-      if (
-        down &&
-        !pending.current?.visible &&
-        engine.current.canStartPostfixShift &&
-        !event.ctrlKey &&
-        !event.altKey &&
-        !event.metaKey &&
-        !event.isComposing &&
-        data &&
-        valid(data)
-      ) {
-        clearTimeout(menuTimer.current);
-        shiftOpenTimer.current = setTimeout(() => {
-          if (
-            !shifts.current.has(event.code) ||
-            !valid(data) ||
-            document.activeElement !== input.current
-          ) {
-            return;
-          }
-          open(event.code === 'ShiftRight' ? -1 : 1);
-          handled.current.add(event.code);
-        }, ACCENT_REPEAT_DELAY);
-      }
+      return false;
     }
     if (handled.current.has(event.code)) {
       if (!down) {
         handled.current.delete(event.code);
-        if (isShift) {
-          engine.current.held.delete(event.code);
-        }
       }
       event.preventDefault();
       return true;
@@ -226,19 +150,8 @@ export function useAccentHold(
           blockedRepeats.current.delete(event.code);
           if (current && pending.current === current) {
             current.held = false;
-            if (
-              !current.visible &&
-              shiftOpenTimer.current &&
-              shifts.current.size
-            ) {
-              // A fast Shift press may overlap the Linux release-pair grace.
-              clearTimeout(menuTimer.current);
-              pending.current = null;
-              setMenu(null);
-            } else if (!current.visible) {
+            if (!current.visible) {
               cancel();
-            } else {
-              activity();
             }
           }
         }, RELEASE_GRACE),
@@ -278,31 +191,20 @@ export function useAccentHold(
     if (!down) {
       return false;
     }
-    if (!current.visible && isShift) {
+    if (engine.current.shiftHeld) {
+      cancel();
       return false;
     }
     if (current.visible) {
       const digit = /^Digit([1-9])$/.exec(event.code);
-      const shift = event.code === 'ShiftLeft' || event.code === 'ShiftRight';
       const confirm = event.code === 'Enter' || event.code === 'NumpadEnter';
-      if (
-        shift ||
-        confirm ||
-        (digit && Number(digit[1]) <= current.choices.length)
-      ) {
+      if (confirm || (digit && Number(digit[1]) <= current.choices.length)) {
         handled.current.add(event.code);
         event.preventDefault();
         if (confirm) {
           choose(current.index);
         } else if (digit) {
           choose(Number(digit[1]) - 1);
-        } else {
-          const direction = event.code === 'ShiftRight' ? -1 : 1;
-          select(
-            (current.index + current.choices.length + direction) %
-              current.choices.length,
-          );
-          activity();
         }
         return true;
       }
@@ -321,11 +223,6 @@ export function useAccentHold(
       data.replace.end,
     );
     const index = data.menuChoices.indexOf(text);
-    for (const shift of ['ShiftLeft', 'ShiftRight']) {
-      if (engine.current.held.has(shift)) {
-        shifts.current.add(shift);
-      }
-    }
     const current = {
       code,
       data,
@@ -355,9 +252,12 @@ export function useAccentHold(
       if (current.held) {
         current.visible = true;
         select(
-          shifts.current.size ? 0 : current.index === 0 ? 1 : current.index,
+          engine.current.shiftHeld
+            ? 0
+            : current.index === 0
+              ? 1
+              : current.index,
         );
-        activity();
       }
     }
     menuTimer.current = setTimeout(showMenu, ACCENT_MENU_DELAY);
@@ -367,8 +267,6 @@ export function useAccentHold(
     const releaseTimers = releases.current;
     return () => {
       clearTimeout(menuTimer.current);
-      clearTimeout(shiftOpenTimer.current);
-      clearTimeout(lifecycleTimer.current);
       for (const release of releaseTimers.values()) {
         clearTimeout(release.timer);
       }
@@ -381,7 +279,6 @@ export function useAccentHold(
     }
     releases.current.clear();
     handled.current.clear();
-    shifts.current.clear();
     blockedRepeats.current.clear();
   }
   return {

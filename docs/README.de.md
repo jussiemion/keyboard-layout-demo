@@ -154,9 +154,10 @@ rechtes <kbd>Shift</kbd> rückwärts. Jeder Tastendruck ersetzt den Buchstaben u
 lässt das Menü offen.
 
 Halte den Grundbuchstaben 250 ms, um das Menü zu öffnen und Variante 2
-einzusetzen. <kbd>Shift</kbd> öffnet nach 500 ms das Menü und wechselt alle 500
-ms weiter. Der gehaltene Buchstabe allein wiederholt den Wechsel nicht. War
-<kbd>Shift</kbd> schon gedrückt, beginnt das Menü bei Option 1.
+einzusetzen. Ein kurzer einzelner <kbd>Shift</kbd>-Tastendruck wechselt beim
+Loslassen die Variante. Gehaltenes <kbd>Shift</kbd> dient nur Großbuchstaben und
+den oberen Tastenzeichen. War <kbd>Shift</kbd> beim Öffnen durch Halten des
+Buchstabens bereits gedrückt, bleibt Option 1 ausgewählt.
 
 Der Grundbuchstabe steht zuerst: z (1), ż (2), ź (3). Ziffern 1–9,
 <kbd>Enter</kbd> oder ein Klick wählen und schließen. Loslassen schließt das

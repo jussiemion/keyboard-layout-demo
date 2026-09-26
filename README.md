@@ -212,10 +212,11 @@ Select Polish and type z: left <kbd>Shift</kbd> cycles z → ż → ź → z; ri
 <kbd>Shift</kbd> cycles backward. Each tap replaces the letter and keeps the
 menu open.
 
-Hold a base letter for 250 ms to open the menu and apply option 2. Hold
-<kbd>Shift</kbd> for 500 ms to open and cycle; it repeats every 500 ms. Holding
-only the letter does not repeat. If <kbd>Shift</kbd> was already held, the menu
-starts at option 1.
+Hold a base letter for 250 ms to open the menu and apply option 2. A short
+standalone <kbd>Shift</kbd> tap changes the variant on release. Holding
+<kbd>Shift</kbd> does not cycle: use it for uppercase letters and upper-key
+symbols. If <kbd>Shift</kbd> was already held when the letter opens the menu,
+selection stays on option 1.
 
 The base is option 1: z (1), ż (2), ź (3). Digits 1–9, <kbd>Enter</kbd> or a
 click select and close. Releasing keys does not close the menu; <kbd>Esc</kbd>

@@ -1,85 +1,85 @@
 {
   "en": {
     "intro": "Select Polish and type z: left Shift cycles z → ż → ź → z; right Shift cycles backward. Each tap replaces the letter and keeps the menu open.",
-    "timing": "Hold a base letter for 250 ms to open the menu and apply option 2. Hold Shift for 500 ms to open and cycle; it repeats every 500 ms. Holding only the letter does not repeat. If Shift was already held, the menu starts at option 1.",
+    "timing": "Hold a base letter for 250 ms to open the menu and apply option 2. A short standalone Shift tap changes the variant on release. Holding Shift does not cycle: use it for uppercase letters and upper-key symbols. If Shift was already held when the letter opens the menu, selection stays on option 1.",
     "selection": "The base is option 1: z (1), ż (2), ź (3). Digits 1–9, Enter or a click select and close. Releasing keys does not close the menu; Esc closes it without undoing the last change.",
     "rules": "Variants depend on the selected keyboard map. Letters available on an unmodified key are excluded, including their uppercase forms: Russian ё and й need no cycle. Press Shift before a letter for uppercase input. Fast overlapping letter presses are supported."
   },
   "ru": {
     "intro": "Выберите польский язык и наберите z: левый Shift перебирает z → ż → ź → z, правый — в обратную сторону. Каждое нажатие заменяет букву и оставляет меню открытым.",
-    "timing": "Удерживайте базовую букву 250 мс, чтобы открыть меню и выбрать вариант 2. Удержание Shift открывает меню через 500 мс и повторяет переключение каждые 500 мс. Одна удерживаемая буква не запускает перебор. Если Shift был зажат заранее, меню начинается с варианта 1.",
+    "timing": "Удерживайте базовую букву 250 мс, чтобы открыть меню и выбрать вариант 2. Короткое отдельное нажатие Shift меняет вариант при отпускании. Удержание Shift не перебирает варианты: оно служит для заглавных букв и верхних символов клавиш. Если Shift был зажат до открытия меню удержанием буквы, остаётся вариант 1.",
     "selection": "Базовая буква всегда первая: z (1), ż (2), ź (3). Цифры 1–9, Enter или клик выбирают вариант и закрывают меню. Отпускание клавиш не закрывает меню; Esc закрывает его, сохраняя последнюю замену.",
     "rules": "Варианты зависят от карты клавиатуры. Буквы, доступные без модификаторов, и их заглавные формы исключены из цикла: русские ё и й набираются напрямую. Shift перед буквой вводит заглавную. Быстрые перекрывающиеся нажатия букв поддерживаются."
   },
   "pl": {
     "intro": "Wybierz polski i wpisz z: lewy Shift przechodzi przez z → ż → ź → z, prawy wstecz. Każde naciśnięcie zastępuje literę i pozostawia menu otwarte.",
-    "timing": "Przytrzymaj literę bazową przez 250 ms, aby otworzyć menu i wybrać wariant 2. Przytrzymanie Shift otwiera menu po 500 ms i zmienia wariant co 500 ms. Samo przytrzymanie litery nie powtarza zmiany. Jeśli Shift był już wciśnięty, menu zaczyna od opcji 1.",
+    "timing": "Przytrzymaj literę bazową przez 250 ms, aby otworzyć menu i wybrać wariant 2. Krótkie osobne naciśnięcie Shift zmienia wariant po zwolnieniu. Przytrzymanie Shift nie przełącza wariantów: służy do wielkich liter i górnych symboli klawiszy. Jeśli Shift był już wciśnięty, gdy przytrzymana litera otwiera menu, pozostaje opcja 1.",
     "selection": "Litera bazowa jest pierwsza: z (1), ż (2), ź (3). Cyfry 1–9, Enter lub kliknięcie wybierają i zamykają menu. Zwolnienie klawiszy nie zamyka menu; Esc zamyka je bez cofania ostatniej zmiany.",
     "rules": "Warianty zależą od mapy klawiatury. Litery dostępne bez modyfikatorów i ich wielkie odpowiedniki są pomijane: rosyjskie ё i й wpisuje się bez cyklu. Shift przed literą daje wielką literę. Szybkie, nakładające się naciśnięcia są obsługiwane."
   },
   "de": {
     "intro": "Wähle Polnisch und tippe z: linkes Shift wechselt z → ż → ź → z, rechtes Shift rückwärts. Jeder Tastendruck ersetzt den Buchstaben und lässt das Menü offen.",
-    "timing": "Halte den Grundbuchstaben 250 ms, um das Menü zu öffnen und Variante 2 einzusetzen. Shift öffnet nach 500 ms das Menü und wechselt alle 500 ms weiter. Der gehaltene Buchstabe allein wiederholt den Wechsel nicht. War Shift schon gedrückt, beginnt das Menü bei Option 1.",
+    "timing": "Halte den Grundbuchstaben 250 ms, um das Menü zu öffnen und Variante 2 einzusetzen. Ein kurzer einzelner Shift-Tastendruck wechselt beim Loslassen die Variante. Gehaltenes Shift dient nur Großbuchstaben und den oberen Tastenzeichen. War Shift beim Öffnen durch Halten des Buchstabens bereits gedrückt, bleibt Option 1 ausgewählt.",
     "selection": "Der Grundbuchstabe steht zuerst: z (1), ż (2), ź (3). Ziffern 1–9, Enter oder ein Klick wählen und schließen. Loslassen schließt das Menü nicht; Esc schließt es ohne die letzte Änderung rückgängig zu machen.",
     "rules": "Varianten hängen von der Tastaturbelegung ab. Ohne Modifikatortaste direkt verfügbare Buchstaben und ihre Großbuchstaben werden ausgelassen, etwa russisches ё und й. Shift vor dem Buchstaben erzeugt Großschreibung. Schnelle überlappende Tastendrücke funktionieren."
   },
   "fr": {
     "intro": "Choisissez le polonais et tapez z : Maj gauche parcourt z → ż → ź → z, Maj droite revient en arrière. Chaque pression remplace la lettre et garde le menu ouvert.",
-    "timing": "Maintenez la lettre de base 250 ms pour ouvrir le menu et appliquer le choix 2. Maintenir Maj ouvre le menu après 500 ms et change de variante toutes les 500 ms. Maintenir seulement la lettre ne répète pas le changement. Si Maj était déjà maintenue, le menu commence au choix 1.",
+    "timing": "Maintenez la lettre de base 250 ms pour ouvrir le menu et appliquer le choix 2. Une brève pression isolée sur Maj change la variante au relâchement. Maintenir Maj sert aux majuscules et aux symboles supérieurs, sans parcourir les variantes. Si Maj était déjà maintenue lorsque la lettre ouvre le menu, le choix 1 reste sélectionné.",
     "selection": "La lettre de base est toujours première : z (1), ż (2), ź (3). Les chiffres 1–9, Entrée ou un clic sélectionnent et ferment. Relâcher les touches ne ferme pas le menu ; Échap le ferme sans annuler la dernière modification.",
     "rules": "Les variantes dépendent de la disposition. Les lettres accessibles sans modificateur et leurs majuscules sont exclues du cycle, comme ё et й en russe. Maj avant la lettre produit une majuscule. Les frappes rapides qui se chevauchent sont prises en charge."
   },
   "es": {
     "intro": "Elige polaco y escribe z: Shift izquierdo recorre z → ż → ź → z; el derecho retrocede. Cada pulsación reemplaza la letra y mantiene abierto el menú.",
-    "timing": "Mantén la letra base 250 ms para abrir el menú y aplicar la opción 2. Mantener Shift abre el menú tras 500 ms y cambia de variante cada 500 ms. Mantener solo la letra no repite el cambio. Si Shift ya estaba pulsado, el menú empieza en la opción 1.",
+    "timing": "Mantén la letra base 250 ms para abrir el menú y aplicar la opción 2. Una pulsación breve y aislada de Shift cambia la variante al soltarlo. Mantener Shift sirve para mayúsculas y símbolos superiores, sin recorrer variantes. Si Shift ya estaba pulsado cuando la letra abre el menú, queda seleccionada la opción 1.",
     "selection": "La letra base siempre es la primera: z (1), ż (2), ź (3). Los dígitos 1–9, Enter o un clic seleccionan y cierran. Soltar las teclas no cierra el menú; Esc lo cierra sin deshacer el último cambio.",
     "rules": "Las variantes dependen de la distribución. Se excluyen las letras disponibles sin modificadores y sus mayúsculas, como ё y й en ruso. Shift antes de una letra produce una mayúscula. Se admiten pulsaciones rápidas superpuestas."
   },
   "pt": {
     "intro": "Escolha polaco e escreva z: Shift esquerdo percorre z → ż → ź → z; o direito recua. Cada pressão substitui a letra e mantém o menu aberto.",
-    "timing": "Mantenha a letra base durante 250 ms para abrir o menu e aplicar a opção 2. Manter Shift abre o menu após 500 ms e muda a variante a cada 500 ms. Manter apenas a letra não repete a mudança. Se Shift já estava premido, o menu começa na opção 1.",
+    "timing": "Mantenha a letra base durante 250 ms para abrir o menu e aplicar a opção 2. Um toque breve e isolado em Shift muda a variante ao soltar. Manter Shift serve para maiúsculas e símbolos superiores, sem percorrer variantes. Se Shift já estava premido quando a letra abre o menu, fica selecionada a opção 1.",
     "selection": "A letra base é sempre a primeira: z (1), ż (2), ź (3). Os dígitos 1–9, Enter ou um clique selecionam e fecham. Soltar as teclas não fecha o menu; Esc fecha-o sem desfazer a última alteração.",
     "rules": "As variantes dependem do mapa do teclado. Letras disponíveis sem modificadores e as suas maiúsculas ficam fora do ciclo, como ё e й em russo. Shift antes da letra produz uma maiúscula. São aceites pressões rápidas sobrepostas."
   },
   "it": {
     "intro": "Seleziona il polacco e digita z: Shift sinistro scorre z → ż → ź → z, quello destro torna indietro. Ogni pressione sostituisce la lettera e lascia aperto il menu.",
-    "timing": "Tieni premuta la lettera base per 250 ms per aprire il menu e applicare l’opzione 2. Tenere premuto Shift apre il menu dopo 500 ms e cambia variante ogni 500 ms. La sola lettera tenuta premuta non ripete il cambio. Se Shift era già premuto, il menu parte dall’opzione 1.",
+    "timing": "Tieni premuta la lettera base per 250 ms per aprire il menu e applicare l’opzione 2. Una breve pressione separata di Shift cambia variante al rilascio. Tenere premuto Shift serve per maiuscole e simboli superiori, senza scorrere le varianti. Se Shift era già premuto quando la lettera apre il menu, resta selezionata l’opzione 1.",
     "selection": "La lettera base è sempre la prima: z (1), ż (2), ź (3). Le cifre 1–9, Invio o un clic selezionano e chiudono. Rilasciare i tasti non chiude il menu; Esc lo chiude senza annullare l’ultima modifica.",
     "rules": "Le varianti dipendono dalla mappa della tastiera. Le lettere disponibili senza modificatori e le loro maiuscole sono escluse dal ciclo, come ё e й in russo. Shift prima della lettera produce una maiuscola. Sono supportate pressioni rapide sovrapposte."
   },
   "ro": {
     "intro": "Alege poloneza și scrie z: Shift stâng parcurge z → ż → ź → z, iar cel drept merge înapoi. Fiecare apăsare înlocuiește litera și păstrează meniul deschis.",
-    "timing": "Ține litera de bază apăsată 250 ms pentru a deschide meniul și aplica opțiunea 2. Shift ținut apăsat deschide meniul după 500 ms și schimbă varianta la fiecare 500 ms. Doar ținerea literei nu repetă schimbarea. Dacă Shift era deja apăsat, meniul începe cu opțiunea 1.",
+    "timing": "Ține litera de bază apăsată 250 ms pentru a deschide meniul și aplica opțiunea 2. O apăsare scurtă și separată pe Shift schimbă varianta la eliberare. Shift ținut apăsat servește pentru majuscule și simbolurile superioare, fără a parcurge variantele. Dacă Shift era deja apăsat când litera deschide meniul, rămâne selectată opțiunea 1.",
     "selection": "Litera de bază este prima: z (1), ż (2), ź (3). Cifrele 1–9, Enter sau un clic selectează și închid. Eliberarea tastelor nu închide meniul; Esc îl închide fără a anula ultima schimbare.",
     "rules": "Variantele depind de harta tastaturii. Literele disponibile fără modificatori și majusculele lor sunt excluse, precum ё și й în rusă. Shift înaintea literei produce o majusculă. Sunt acceptate apăsările rapide suprapuse."
   },
   "nl": {
     "intro": "Kies Pools en typ z: linker Shift doorloopt z → ż → ź → z, rechter Shift gaat terug. Elke druk vervangt de letter en houdt het menu open.",
-    "timing": "Houd de basisletter 250 ms vast om het menu te openen en optie 2 toe te passen. Shift vasthouden opent na 500 ms het menu en wisselt elke 500 ms. Alleen de letter vasthouden herhaalt de wissel niet. Was Shift al ingedrukt, dan begint het menu bij optie 1.",
+    "timing": "Houd de basisletter 250 ms vast om het menu te openen en optie 2 toe te passen. Een korte losse Shift-aanslag wisselt de variant bij loslaten. Shift vasthouden dient voor hoofdletters en bovenste tekens, zonder varianten te doorlopen. Was Shift al ingedrukt toen de letter het menu opende, dan blijft optie 1 geselecteerd.",
     "selection": "De basisletter staat altijd eerst: z (1), ż (2), ź (3). Cijfers 1–9, Enter of een klik kiezen en sluiten. Loslaten sluit het menu niet; Esc sluit zonder de laatste wijziging terug te draaien.",
     "rules": "Varianten hangen af van de toetsenbordindeling. Letters die zonder modificatietoets beschikbaar zijn en hun hoofdletters worden overgeslagen, zoals ё en й in het Russisch. Shift vóór de letter geeft een hoofdletter. Snelle overlappende aanslagen worden ondersteund."
   },
   "tr": {
     "intro": "Lehçeyi seçip z yazın: sol Shift z → ż → ź → z sırasıyla, sağ Shift ters yönde ilerler. Her basış harfi değiştirir ve menüyü açık tutar.",
-    "timing": "Temel harfi 250 ms basılı tutmak menüyü açıp 2. seçeneği uygular. Shift tuşunu tutmak 500 ms sonra menüyü açar ve her 500 ms’de seçeneği değiştirir. Yalnızca harfi tutmak değişimi tekrarlamaz. Shift önceden basılıysa menü 1. seçenekten başlar.",
+    "timing": "Temel harfi 250 ms basılı tutmak menüyü açıp 2. seçeneği uygular. Shift tuşuna kısa ve tek başına basmak, tuş bırakıldığında seçeneği değiştirir. Shift basılı tutulduğunda seçenekler değişmez; büyük harfler ve tuşların üst simgeleri yazılır. Harf menüyü açarken Shift zaten basılıysa 1. seçenek korunur.",
     "selection": "Temel harf her zaman ilk sıradadır: z (1), ż (2), ź (3). 1–9, Enter veya tıklama seçip kapatır. Tuşları bırakmak menüyü kapatmaz; Esc son değişikliği geri almadan kapatır.",
     "rules": "Seçenekler klavye haritasına bağlıdır. Değiştirici olmadan yazılabilen harfler ve büyük harfleri döngüye girmez; Rusça ё ve й gibi. Harften önce Shift büyük harf yazar. Hızlı, örtüşen tuş basışları desteklenir."
   },
   "vi": {
     "intro": "Chọn tiếng Ba Lan và gõ z: Shift trái chuyển z → ż → ź → z, Shift phải chuyển ngược lại. Mỗi lần nhấn thay chữ và giữ menu mở.",
-    "timing": "Giữ chữ cơ sở 250 ms để mở menu và chọn mục 2. Giữ Shift mở menu sau 500 ms và chuyển tiếp mỗi 500 ms. Chỉ giữ phím chữ không lặp lại việc chuyển. Nếu Shift đã được giữ trước đó, menu bắt đầu ở mục 1.",
+    "timing": "Giữ chữ cơ sở 250 ms để mở menu và chọn mục 2. Nhấn nhanh riêng phím Shift để đổi biến thể khi thả phím. Giữ Shift dùng để gõ chữ hoa và ký hiệu phía trên, không tự chuyển biến thể. Nếu Shift đã được giữ khi phím chữ mở menu, mục 1 vẫn được chọn.",
     "selection": "Chữ cơ sở luôn đứng đầu: z (1), ż (2), ź (3). Phím 1–9, Enter hoặc nhấp chuột chọn và đóng. Thả phím không đóng menu; Esc đóng mà không hoàn tác lần thay cuối.",
     "rules": "Các biến thể phụ thuộc vào bản đồ bàn phím. Chữ gõ được không cần phím bổ trợ và dạng viết hoa của chúng bị loại khỏi vòng, như ё và й tiếng Nga. Nhấn Shift trước chữ để viết hoa. Hỗ trợ các lần nhấn nhanh chồng nhau."
   },
   "he": {
     "intro": "בחרו פולנית והקלידו z: Shift שמאלי עובר בין z → ż → ź → z, וימני חוזר לאחור. כל לחיצה מחליפה את האות ומשאירה את התפריט פתוח.",
-    "timing": "החזיקו את אות הבסיס 250 מילישניות כדי לפתוח את התפריט ולהחיל אפשרות 2. החזקת Shift פותחת לאחר 500 מילישניות ומחליפה אפשרות כל 500 מילישניות. החזקת האות בלבד אינה חוזרת על ההחלפה. אם Shift כבר היה לחוץ, התפריט מתחיל באפשרות 1.",
+    "timing": "החזיקו את אות הבסיס 250 מילישניות כדי לפתוח את התפריט ולהחיל אפשרות 2. לחיצה קצרה ונפרדת על Shift מחליפה אפשרות בעת השחרור. החזקת Shift משמשת לאותיות גדולות ולסימנים העליונים, ללא מעבר בין אפשרויות. אם Shift כבר היה לחוץ כשהאות פתחה את התפריט, אפשרות 1 נשארת מסומנת.",
     "selection": "אות הבסיס תמיד ראשונה: z (1), ż (2), ź (3). המקשים 1–9, Enter או לחיצה בעכבר בוחרים וסוגרים. שחרור המקשים אינו סוגר את התפריט; Esc סוגר בלי לבטל את ההחלפה האחרונה.",
     "rules": "האפשרויות תלויות במפת המקלדת. אותיות הזמינות ללא מקשי שינוי וצורותיהן הגדולות אינן נכללות במחזור, למשל ё ו־й ברוסית. Shift לפני האות יוצר אות גדולה. לחיצות מהירות החופפות זו לזו נתמכות."
   },
   "ar": {
     "intro": "اختر البولندية واكتب z: يتنقل Shift الأيسر عبر z → ż → ź → z، والأيمن بالعكس. كل ضغطة تستبدل الحرف وتبقي القائمة مفتوحة.",
-    "timing": "اضغط مطولًا على الحرف الأساسي لمدة 250 مللي ثانية لفتح القائمة وتطبيق الخيار 2. إبقاء Shift مضغوطًا يفتحها بعد 500 مللي ثانية ويبدّل الخيار كل 500 مللي ثانية. إبقاء الحرف وحده مضغوطًا لا يكرر التبديل. إذا كان Shift مضغوطًا مسبقًا، تبدأ القائمة بالخيار 1.",
+    "timing": "اضغط مطولًا على الحرف الأساسي لمدة 250 مللي ثانية لفتح القائمة وتطبيق الخيار 2. ضغطة قصيرة ومنفردة على Shift تغيّر البديل عند إفلاته. إبقاء Shift مضغوطًا مخصص للأحرف الكبيرة والرموز العلوية، ولا يبدّل البدائل. إذا كان Shift مضغوطًا مسبقًا عندما يفتح الحرف القائمة، يبقى الخيار 1 محددًا.",
     "selection": "الحرف الأساسي أولًا دائمًا: z (1)، ż (2)، ź (3). الأرقام 1–9 أو Enter أو النقر تختار وتغلق. إفلات المفاتيح لا يغلق القائمة؛ Esc يغلقها دون التراجع عن آخر استبدال.",
     "rules": "تعتمد البدائل على خريطة لوحة المفاتيح. تُستثنى الحروف المتاحة دون مفاتيح تعديل وأشكالها الكبيرة، مثل ё وй بالروسية. اضغط Shift قبل الحرف لكتابته كبيرًا. الضغطات السريعة المتداخلة مدعومة."
   }
