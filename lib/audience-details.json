@@ -42,7 +42,7 @@
         "items": [
           [
             "Умлауты и акценты через Shift.",
-            "Наберите базовую букву, отпустите её клавишу и нажимайте Shift для перебора вариантов: u → ü в немецком или e → é → è → ê → ë во французском."
+            "Выберите польский язык и наберите z: левый Shift перебирает z → ż → ź → z, правый — в обратную сторону. Каждое нажатие заменяет букву и оставляет меню открытым."
           ],
           [
             "Национальные буквы на привычной клавиатуре.",
@@ -101,7 +101,7 @@
         "items": [
           [
             "Type umlauts and accents with Shift.",
-            "Type a base letter, release its key, then tap Shift to cycle through its variants: u → ü in German or e → é → è → ê → ë in French."
+            "Select Polish and type z: left Shift cycles z → ż → ź → z; right Shift cycles backward. Each tap replaces the letter and keeps the menu open."
           ],
           [
             "National characters on your familiar keyboard.",

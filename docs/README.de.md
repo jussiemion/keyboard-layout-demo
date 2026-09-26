@@ -84,10 +84,12 @@ entsprechen US QWERTY; weitere Eingabefolgen stehen im Nachschlagewerk.
 
 ### Wie gebe ich Umlaute und Akzente schnell ein?
 
-Wähle die Tastatursprache, tippe einen Grundbuchstaben und lasse die Taste los.
-Drücke anschließend <kbd>Shift</kbd> einzeln, um Varianten zu durchlaufen:
-Deutsch u → ü, Französisch e → é → è → ê → ë. Die Varianten hängen von der
-Sprache ab.
+Wähle Polnisch und tippe z: linkes <kbd>Shift</kbd> wechselt z → ż → ź → z,
+rechtes <kbd>Shift</kbd> rückwärts. Jeder Tastendruck ersetzt den Buchstaben und
+lässt das Menü offen. Varianten hängen von der Tastaturbelegung ab. Ohne
+Modifikatortaste direkt verfügbare Buchstaben und ihre Großbuchstaben werden
+ausgelassen, etwa russisches ё und й. <kbd>Shift</kbd> vor dem Buchstaben
+erzeugt Großschreibung. Schnelle überlappende Tastendrücke funktionieren.
 
 ### Wie setze ich ein Betonungszeichen über einen Buchstaben?
 
@@ -147,10 +149,24 @@ verwirft ein ausstehendes Zeichen oder einen Akzent.
 
 ## Akzente
 
-Die deutsche Karte verwendet QWERTZ. Tippe einen Buchstaben und lasse ihn los;
-tippe danach <kbd>Shift</kbd>, um Varianten zu wechseln: `u → ü → u`,
-`s → ß → s`. Die Großschreibung bleibt erhalten. Zusammen mit dem Buchstaben
-gehaltenes <kbd>Shift</kbd> funktioniert wie gewohnt.
+Wähle Polnisch und tippe z: linkes <kbd>Shift</kbd> wechselt z → ż → ź → z,
+rechtes <kbd>Shift</kbd> rückwärts. Jeder Tastendruck ersetzt den Buchstaben und
+lässt das Menü offen.
+
+Halte den Grundbuchstaben 250 ms, um das Menü zu öffnen und Variante 2
+einzusetzen. <kbd>Shift</kbd> öffnet nach 500 ms das Menü und wechselt alle 500
+ms weiter. Der gehaltene Buchstabe allein wiederholt den Wechsel nicht. War
+<kbd>Shift</kbd> schon gedrückt, beginnt das Menü bei Option 1.
+
+Der Grundbuchstabe steht zuerst: z (1), ż (2), ź (3). Ziffern 1–9,
+<kbd>Enter</kbd> oder ein Klick wählen und schließen. Loslassen schließt das
+Menü nicht; <kbd>Esc</kbd> schließt es ohne die letzte Änderung rückgängig zu
+machen.
+
+Varianten hängen von der Tastaturbelegung ab. Ohne Modifikatortaste direkt
+verfügbare Buchstaben und ihre Großbuchstaben werden ausgelassen, etwa
+russisches ё und й. <kbd>Shift</kbd> vor dem Buchstaben erzeugt Großschreibung.
+Schnelle überlappende Tastendrücke funktionieren.
 
 Akut: nacheinander <kbd>Alt</kbd>, <kbd>Alt</kbd>, <kbd>/</kbd>, dann der Vokal.
 Hebräisches Niqqud nutzt rechtes <kbd>Alt</kbd>, arabische Vokalzeichen

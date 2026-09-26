@@ -120,3 +120,6 @@ Language switching stays enabled when typography is turned off by default.
 Disable **Keep language switching on when typography is off** in the language
 map settings to restore ordinary Caps Lock behavior while typography is off. The
 preference is saved locally and included in configuration links.
+
+The installed Linux prototype does not yet import these configuration URLs. See
+[desktop compatibility](desktop-parity.md) for the implementation scope.

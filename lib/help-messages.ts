@@ -1,3 +1,4 @@
+import accentGuide from './accent-guide.json' with { type: 'json' };
 import type { UiLocale } from './messages';
 
 type HelpMessages = {
@@ -12,6 +13,8 @@ type HelpMessages = {
   twice: string;
   variants: string;
   holdVariants: string;
+  openVariants: string;
+  chooseVariant: string;
   stress: string;
   search: string;
   cancel: string;
@@ -24,8 +27,9 @@ type HelpMessages = {
 
 export const helpMessages: Record<UiLocale, HelpMessages> = {
   tr: {
-    holdVariants:
-      'Harfi 250 ms tutarak menüyü açın. Sol/sağ Shift sonraki/önceki seçeneği uygular; 500 ms tutmak menüyü açar ve aynı aralıkla değiştirir. Menü kendiliğinden kapanmaz. 1–9 seçer ve kapatır',
+    openVariants: 'Veya seçenekleri açmak için harfi basılı tutun.',
+    chooseVariant: 'Seçmek için {digits} veya {enter}; kapatmak için {esc}.',
+    holdVariants: `${accentGuide.tr.timing} ${accentGuide.tr.selection} ${accentGuide.tr.rules}`,
     toggleKeys: 'İki {ctrl} → bırak',
     title: 'Kısa başvuru',
     symbols: 'Simgeler ve modlar',
@@ -36,7 +40,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: '{alt} basılıyken bir tuşa basın',
     tap: '{alt} tuşuna basıp bırakın, ardından bir tuşa basın',
     twice: '{alt} tuşuna iki kez, ardından bir tuşa basın',
-    variants: 'Harften sonra: sol Shift ileri, sağ Shift geri',
+    variants: 'Harften sonra: sol {shift} ileri, sağ {shift} geri',
     stress: 'Vurgu: önce işaret, sonra ünlü',
     search: 'Simge bul',
     cancel: 'Bekleyen girişi iptal et',
@@ -48,8 +52,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: '{cycle} arasında geçiş için {caps} tuşuna basın.',
   },
   nl: {
-    holdVariants:
-      'Houd een letter 250 ms vast voor het menu. Linker/rechter Shift kiest de volgende/vorige variant; 500 ms vasthouden opent het menu en herhaalt elke 500 ms. Het menu sluit niet vanzelf. 1–9 kiest en sluit',
+    openVariants: 'Of houd de letter vast om de varianten te openen.',
+    chooseVariant: '{digits} of {enter} om te kiezen; {esc} om te sluiten.',
+    holdVariants: `${accentGuide.nl.timing} ${accentGuide.nl.selection} ${accentGuide.nl.rules}`,
     toggleKeys: 'Beide {ctrl} → loslaten',
     title: 'Spiekbrief',
     symbols: 'Symbolen en modi',
@@ -60,7 +65,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Houd {alt} vast en druk op een toets',
     tap: 'Druk op {alt}, laat los en druk op een toets',
     twice: 'Druk tweemaal op {alt} en daarna op een toets',
-    variants: 'Na een letter: linker Shift vooruit, rechter Shift achteruit',
+    variants:
+      'Na een letter: linker {shift} vooruit, rechter {shift} achteruit',
     stress: 'Klemtoon: eerst teken, dan klinker',
     search: 'Symbool zoeken',
     cancel: 'Wachtende invoer annuleren',
@@ -72,8 +78,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Druk op {caps} voor {cycle}.',
   },
   vi: {
-    holdVariants:
-      'Giữ chữ 250 ms để mở menu. Shift trái/phải chọn biến thể tiếp/trước; giữ 500 ms để mở và lặp mỗi 500 ms. Menu không tự đóng. 1–9 chọn và đóng',
+    openVariants: 'Hoặc giữ phím chữ để mở các biến thể.',
+    chooseVariant: '{digits} hoặc {enter} để chọn; {esc} để đóng.',
+    holdVariants: `${accentGuide.vi.timing} ${accentGuide.vi.selection} ${accentGuide.vi.rules}`,
     toggleKeys: 'Cả hai {ctrl} → thả',
     title: 'Bảng tra nhanh',
     symbols: 'Ký hiệu và chế độ',
@@ -84,7 +91,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Giữ {alt} và nhấn một phím',
     tap: 'Nhấn rồi thả {alt}, sau đó nhấn một phím',
     twice: 'Nhấn {alt} hai lần, sau đó nhấn một phím',
-    variants: 'Sau chữ: Shift trái tiến, Shift phải lùi',
+    variants: 'Sau chữ: {shift} trái tiến, {shift} phải lùi',
     stress: 'Dấu nhấn: dấu trước, nguyên âm sau',
     search: 'Tìm ký hiệu',
     cancel: 'Hủy nhập đang chờ',
@@ -96,8 +103,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Nhấn {caps} để chuyển qua {cycle}.',
   },
   ar: {
-    holdVariants:
-      'اضغط الحرف 250 مللي ثانية لفتح القائمة. Shift الأيسر والأيمن يختاران البديل التالي والسابق؛ الضغط 500 مللي ثانية يفتح القائمة ويكرر كل 500 مللي ثانية. لا تُغلق تلقائيًا. 1–9 للاختيار والإغلاق',
+    openVariants: 'أو اضغط مطولًا على الحرف لفتح بدائله.',
+    chooseVariant: '{digits} أو {enter} للاختيار؛ {esc} للإغلاق.',
+    holdVariants: `${accentGuide.ar.timing} ${accentGuide.ar.selection} ${accentGuide.ar.rules}`,
     toggleKeys: 'مفتاحا {ctrl} → اتركهما',
     title: 'ورقة مرجعية',
     symbols: 'الرموز والأوضاع',
@@ -108,7 +116,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'أبقِ {alt} مضغوطًا واضغط مفتاحًا',
     tap: 'اضغط {alt} واتركه، ثم اضغط مفتاحًا',
     twice: 'اضغط {alt} مرتين، ثم اضغط مفتاحًا',
-    variants: 'بعد الحرف: Shift الأيسر للتالي، والأيمن للسابق',
+    variants: 'بعد الحرف: {shift} الأيسر للتالي، والأيمن للسابق',
     stress: 'النبر: العلامة أولًا، ثم حرف العلة',
     search: 'البحث عن رمز',
     cancel: 'إلغاء الإدخال المنتظر',
@@ -121,8 +129,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
   },
 
   ru: {
-    holdVariants:
-      'Удерживайте букву 250 мс, чтобы открыть меню. Левый/правый Shift выбирает следующий/предыдущий вариант; удержание 500 мс открывает меню и запускает перебор с тем же интервалом. Меню само не закрывается. 1–9 — выбрать и закрыть',
+    openVariants: 'Или удерживайте букву, чтобы открыть меню вариантов.',
+    chooseVariant: '{digits} или {enter} — выбрать; {esc} — закрыть.',
+    holdVariants: `${accentGuide.ru.timing} ${accentGuide.ru.selection} ${accentGuide.ru.rules}`,
     toggleKeys: 'Оба {ctrl} → отпустить',
     title: 'Шпаргалка',
     symbols: 'Символы и режимы',
@@ -133,7 +142,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Удерживайте {alt} и нажмите клавишу',
     tap: 'Нажмите и отпустите {alt}, затем нажмите клавишу',
     twice: 'Дважды нажмите {alt}, затем нажмите клавишу',
-    variants: 'После буквы: левый Shift — вперёд, правый — назад',
+    variants: 'После буквы: левый {shift} — вперёд, правый — назад',
     stress: 'Ударение: сначала знак, затем гласная',
     search: 'Найти символ',
     cancel: 'Сбросить ожидающий ввод',
@@ -145,8 +154,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Нажмите {caps} для переключения по кругу: {cycle}.',
   },
   en: {
-    holdVariants:
-      'Hold a letter for 250 ms to open the menu. Left/right Shift applies the next/previous variant; holding for 500 ms opens and repeats every 500 ms. The menu stays open until dismissed. 1–9 selects and closes',
+    openVariants: 'Or hold the letter to open its variants.',
+    chooseVariant: '{digits} or {enter} to choose; {esc} to close.',
+    holdVariants: `${accentGuide.en.timing} ${accentGuide.en.selection} ${accentGuide.en.rules}`,
     toggleKeys: 'Both {ctrl} → release',
     title: 'Cheat sheet',
     symbols: 'Symbols & modes',
@@ -157,7 +167,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Hold {alt} and press a key',
     tap: 'Press and release {alt}, then press a key',
     twice: 'Press {alt} twice, then press a key',
-    variants: 'After a letter: left Shift cycles forward, right Shift backward',
+    variants:
+      'After a letter: left {shift} cycles forward, right {shift} backward',
     stress: 'Stress: mark first, then a vowel',
     search: 'Find a symbol',
     cancel: 'Cancel pending input',
@@ -169,8 +180,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Press {caps} to cycle {cycle}.',
   },
   he: {
-    holdVariants:
-      'החזיקו אות 250 מילישניות לפתיחת התפריט. Shift שמאלי/ימני בוחר את האפשרות הבאה/הקודמת; החזקה של 500 מילישניות פותחת ומחליפה בכל 500 מילישניות. התפריט לא נסגר מעצמו. 1–9 לבחירה וסגירה',
+    openVariants: 'או החזיקו את האות כדי לפתוח את האפשרויות.',
+    chooseVariant: '{digits} או {enter} לבחירה; {esc} לסגירה.',
+    holdVariants: `${accentGuide.he.timing} ${accentGuide.he.selection} ${accentGuide.he.rules}`,
     toggleKeys: 'שני מקשי {ctrl} ← שחרור',
     title: 'דף עזר',
     symbols: 'סמלים ומצבים',
@@ -181,7 +193,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'החזיקו {alt} ולחצו על מקש',
     tap: 'לחצו ושחררו {alt}, ואז לחצו על מקש',
     twice: 'לחצו פעמיים על {alt}, ואז לחצו על מקש',
-    variants: 'אחרי אות: Shift שמאלי קדימה, Shift ימני אחורה',
+    variants: 'אחרי אות: {shift} שמאלי קדימה, {shift} ימני אחורה',
     stress: 'הטעמה: קודם סימן, ואז תנועה',
     search: 'חיפוש סמל',
     cancel: 'ביטול קלט ממתין',
@@ -192,8 +204,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'לחצו על {caps} להחלפה בין {cycle}.',
   },
   de: {
-    holdVariants:
-      'Buchstaben 250 ms halten, um das Menü zu öffnen. Linke/rechte Umschalttaste wählt die nächste/vorige Variante; 500 ms halten öffnet das Menü und wiederholt alle 500 ms. Es schließt nicht automatisch. 1–9 wählt und schließt',
+    openVariants: 'Oder halte den Buchstaben, um seine Varianten zu öffnen.',
+    chooseVariant: '{digits} oder {enter}: wählen; {esc}: schließen.',
+    holdVariants: `${accentGuide.de.timing} ${accentGuide.de.selection} ${accentGuide.de.rules}`,
     toggleKeys: 'Beide {ctrl} → loslassen',
     title: 'Spickzettel',
     symbols: 'Symbole & Modi',
@@ -205,7 +218,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     tap: '{alt} drücken und loslassen, dann eine Taste drücken',
     twice: '{alt} zweimal drücken, dann eine Taste drücken',
     variants:
-      'Nach dem Buchstaben: linke Shift vorwärts, rechte Shift rückwärts',
+      'Nach dem Buchstaben: linke {shift} vorwärts, rechte {shift} rückwärts',
     stress: 'Betonung: erst Zeichen, dann Vokal',
     search: 'Symbol suchen',
     cancel: 'Ausstehende Eingabe verwerfen',
@@ -217,8 +230,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: '{caps} drücken: {cycle}.',
   },
   fr: {
-    holdVariants:
-      'Maintenez une lettre 250 ms pour ouvrir le menu. Maj gauche/droite applique la variante suivante/précédente ; maintenir 500 ms ouvre et répète toutes les 500 ms. Le menu ne se ferme pas seul. 1–9 choisit et ferme',
+    openVariants: 'Ou maintenez la lettre pour ouvrir ses variantes.',
+    chooseVariant: '{digits} ou {enter} pour choisir ; {esc} pour fermer.',
+    holdVariants: `${accentGuide.fr.timing} ${accentGuide.fr.selection} ${accentGuide.fr.rules}`,
     toggleKeys: 'Les deux {ctrl} → relâcher',
     title: 'Aide-mémoire',
     symbols: 'Symboles et modes',
@@ -229,7 +243,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Maintenez {alt} et appuyez sur une touche',
     tap: 'Appuyez sur {alt}, relâchez, puis appuyez sur une touche',
     twice: 'Appuyez deux fois sur {alt}, puis sur une touche',
-    variants: 'Après la lettre : Maj gauche avance, Maj droite recule',
+    variants: 'Après la lettre : {shift} gauche avance, {shift} droite recule',
     stress: 'Accent : le signe, puis une voyelle',
     search: 'Chercher un symbole',
     cancel: 'Annuler la saisie en attente',
@@ -241,8 +255,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Appuyez sur {caps} pour parcourir {cycle}.',
   },
   es: {
-    holdVariants:
-      'Mantén una letra 250 ms para abrir el menú. Shift izquierdo/derecho aplica la variante siguiente/anterior; mantener 500 ms abre y repite cada 500 ms. El menú no se cierra solo. 1–9 elige y cierra',
+    openVariants: 'O mantén la letra para abrir sus variantes.',
+    chooseVariant: '{digits} o {enter} para elegir; {esc} para cerrar.',
+    holdVariants: `${accentGuide.es.timing} ${accentGuide.es.selection} ${accentGuide.es.rules}`,
     toggleKeys: 'Ambos {ctrl} → soltar',
     title: 'Guía rápida',
     symbols: 'Símbolos y modos',
@@ -253,7 +268,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Mantén {alt} y pulsa una tecla',
     tap: 'Pulsa y suelta {alt}, luego pulsa una tecla',
     twice: 'Pulsa {alt} dos veces, luego pulsa una tecla',
-    variants: 'Tras la letra: Shift izquierdo avanza, Shift derecho retrocede',
+    variants:
+      'Tras la letra: {shift} izquierdo avanza, {shift} derecho retrocede',
     stress: 'Acento: primero el signo, luego una vocal',
     search: 'Buscar un símbolo',
     cancel: 'Cancelar entrada pendiente',
@@ -265,8 +281,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Pulsa {caps} para recorrer {cycle}.',
   },
   it: {
-    holdVariants:
-      'Tieni una lettera per 250 ms per aprire il menu. Maiusc sinistro/destro applica la variante successiva/precedente; tenere 500 ms apre e ripete ogni 500 ms. Il menu non si chiude da solo. 1–9 sceglie e chiude',
+    openVariants: 'Oppure tieni premuta la lettera per aprire le varianti.',
+    chooseVariant: '{digits} o {enter} per scegliere; {esc} per chiudere.',
+    holdVariants: `${accentGuide.it.timing} ${accentGuide.it.selection} ${accentGuide.it.rules}`,
     toggleKeys: 'Entrambi i {ctrl} → rilasciare',
     title: 'Promemoria',
     symbols: 'Simboli e modalità',
@@ -277,7 +294,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Tieni premuto {alt} e premi un tasto',
     tap: 'Premi e rilascia {alt}, poi premi un tasto',
     twice: 'Premi {alt} due volte, poi premi un tasto',
-    variants: 'Dopo la lettera: Shift sinistro avanti, Shift destro indietro',
+    variants:
+      'Dopo la lettera: {shift} sinistro avanti, {shift} destro indietro',
     stress: 'Accento: prima il segno, poi una vocale',
     search: 'Cercare un simbolo',
     cancel: 'Annullare input in attesa',
@@ -289,8 +307,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Premi {caps} per scorrere {cycle}.',
   },
   pl: {
-    holdVariants:
-      'Przytrzymaj literę 250 ms, aby otworzyć menu. Lewy/prawy Shift wybiera następny/poprzedni wariant; przytrzymanie 500 ms otwiera menu i powtarza co 500 ms. Menu nie zamyka się samo. 1–9 wybiera i zamyka',
+    openVariants: 'Możesz też przytrzymać literę, aby otworzyć warianty.',
+    chooseVariant: '{digits} lub {enter} — wybór; {esc} — zamknięcie.',
+    holdVariants: `${accentGuide.pl.timing} ${accentGuide.pl.selection} ${accentGuide.pl.rules}`,
     toggleKeys: 'Oba {ctrl} → zwolnij',
     title: 'Ściągawka',
     symbols: 'Symbole i tryby',
@@ -301,7 +320,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Przytrzymaj {alt} i naciśnij klawisz',
     tap: 'Naciśnij i zwolnij {alt}, potem naciśnij klawisz',
     twice: 'Naciśnij {alt} dwa razy, potem naciśnij klawisz',
-    variants: 'Po literze: lewy Shift do przodu, prawy Shift wstecz',
+    variants: 'Po literze: lewy {shift} do przodu, prawy {shift} wstecz',
     stress: 'Akcent: najpierw znak, potem samogłoska',
     search: 'Znajdź symbol',
     cancel: 'Anuluj oczekujący znak',
@@ -313,8 +332,9 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Naciśnij {caps}, aby przełączać kolejno {cycle}.',
   },
   pt: {
-    holdVariants:
-      'Mantenha uma letra 250 ms para abrir o menu. Shift esquerdo/direito aplica a variante seguinte/anterior; manter 500 ms abre e repete a cada 500 ms. O menu não fecha sozinho. 1–9 escolhe e fecha',
+    openVariants: 'Ou mantenha a letra premida para abrir as variantes.',
+    chooseVariant: '{digits} ou {enter} para escolher; {esc} para fechar.',
+    holdVariants: `${accentGuide.pt.timing} ${accentGuide.pt.selection} ${accentGuide.pt.rules}`,
     toggleKeys: 'Ambos os {ctrl} → soltar',
     title: 'Guia rápido',
     symbols: 'Símbolos e modos',
@@ -325,7 +345,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Mantém {alt} premido e prime uma tecla',
     tap: 'Prime e solta {alt}, depois prime uma tecla',
     twice: 'Prime {alt} duas vezes, depois prime uma tecla',
-    variants: 'Após a letra: Shift esquerdo avança, Shift direito recua',
+    variants: 'Após a letra: {shift} esquerdo avança, {shift} direito recua',
     stress: 'Acento: primeiro o sinal, depois uma vogal',
     search: 'Procurar símbolo',
     cancel: 'Cancelar entrada pendente',
@@ -337,8 +357,10 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Prima {caps} para percorrer {cycle}.',
   },
   ro: {
-    holdVariants:
-      'Ține litera 250 ms pentru a deschide meniul. Shift stânga/dreapta aplică varianta următoare/anterioară; ținut 500 ms deschide și repetă la fiecare 500 ms. Meniul nu se închide singur. 1–9 selectează și închide',
+    openVariants: 'Sau ține litera apăsată pentru a deschide variantele.',
+    chooseVariant:
+      '{digits} sau {enter} pentru alegere; {esc} pentru închidere.',
+    holdVariants: `${accentGuide.ro.timing} ${accentGuide.ro.selection} ${accentGuide.ro.rules}`,
     toggleKeys: 'Ambele {ctrl} → eliberează',
     title: 'Fișă de referință',
     symbols: 'Simboluri și moduri',
@@ -349,7 +371,7 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     hold: 'Ține apăsat {alt} și apasă o tastă',
     tap: 'Apasă și eliberează {alt}, apoi apasă o tastă',
     twice: 'Apasă {alt} de două ori, apoi apasă o tastă',
-    variants: 'După literă: Shift stâng înainte, Shift drept înapoi',
+    variants: 'După literă: {shift} stâng înainte, {shift} drept înapoi',
     stress: 'Accent: întâi semnul, apoi vocala',
     search: 'Caută un simbol',
     cancel: 'Anulează introducerea în așteptare',

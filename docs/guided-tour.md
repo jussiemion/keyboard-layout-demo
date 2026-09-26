@@ -22,7 +22,7 @@ the menu.
 | Stage                                                           | What the user learns                                                                    |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [Birman introduction](https://ilyabirman.ru/typography-layout/) | **`M1`**, **`M2`** and composing an accent; skipped if already familiar                 |
-| Typing gestures                                                 | Quick chords, mode controls, stress and postfix <kbd>Shift</kbd>                        |
+| Typing gestures                                                 | Quick chords, mode controls, stress, postfix <kbd>Shift</kbd> and accent-menu controls  |
 | Languages                                                       | Hebrew <kbd>AltGr</kbd>, **`S0`** and all four configured direct slots                  |
 | Demo controls                                                   | Typography on/off, search, settings and the cheat sheet                                 |
 | Optional challenge                                              | Type every distinct [Birman symbol](https://ilyabirman.ru/typography-layout/); no timer |
@@ -58,3 +58,7 @@ language, including duplicate slot assignments.
 restoration-related state, character coverage, normalization, translations and
 persistence failures. Browser checks cover physical/virtual input, dialogs,
 cancellation, mobile and RTL.
+
+The Polish postfix step demonstrates a → ą and explains letter hold (250 ms),
+Shift hold/repeat (500 ms), persistent selection and numbered choices. Its menu
+instructions reuse the localized cheat-sheet copy.

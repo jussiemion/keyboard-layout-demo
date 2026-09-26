@@ -167,19 +167,30 @@ export function HelpContent({
             <>
               <dl className="help-reference help-accents">
                 <div>
-                  <dt>
-                    {h.variants}
-                    <p className="text-muted-foreground mt-2 text-xs">
-                      {h.holdVariants}
-                    </p>
+                  <dt className="leading-relaxed">
+                    <TranslatedText
+                      message={h.variants}
+                      values={{ shift: <kbd>{m.keyShift}</kbd> }}
+                    />
                   </dt>
-                  <dd>
-                    <Keys>
-                      <kbd>{sample.letter}</kbd> → <kbd>{m.keyShift}</kbd> ={' '}
-                      <ResultSymbol>
-                        {sample.cycle.split(' → ')[1] ?? sample.letter}
-                      </ResultSymbol>
-                    </Keys>
+                  <dd className="space-y-2 pt-2 leading-relaxed">
+                    <p>{h.openVariants}</p>
+                    <p>
+                      <TranslatedText
+                        message={h.chooseVariant}
+                        values={{
+                          digits: <kbd dir="ltr">1–9</kbd>,
+                          enter: <kbd>Enter</kbd>,
+                          esc: <kbd>Esc</kbd>,
+                        }}
+                      />
+                    </p>
+                    <p className="text-muted-foreground">
+                      {exampleLanguageName(sample.language, uiLocale)}:{' '}
+                      <Keys>
+                        <ResultSequence text={sample.cycle} />
+                      </Keys>
+                    </p>
                   </dd>
                 </div>
                 {stressKey && (
@@ -201,12 +212,6 @@ export function HelpContent({
                   </div>
                 )}
               </dl>
-              <p className={helpCaptionClasses}>
-                {exampleLanguageName(sample.language, uiLocale)}:{' '}
-                <Keys>
-                  <ResultSequence text={sample.cycle} />
-                </Keys>
-              </p>
             </>
           )}
         </section>

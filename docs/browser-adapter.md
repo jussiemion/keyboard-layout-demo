@@ -79,16 +79,18 @@ native composition. Acute stress previews eligible letters and shows a state
 notification while armed.
 
 Letters enter the text immediately, without a preliminary underline or deferred
-commit. Postfix diacritics replace the last entered letter: tap and release
-either <kbd>Shift</kbd> to cycle its language-specific variants. The on-screen
+commit. Postfix diacritics replace the last entered letter: tap and release left
+<kbd>Shift</kbd> to advance or right <kbd>Shift</kbd> to reverse through its
+available variants. The menu stays open after each replacement. The on-screen
 <kbd>Shift</kbd> also preserves this candidate. <kbd>Shift</kbd> held with a
 letter retains normal capitalization. Case and independent stress survive
-cycling, including `á → ą́ → á` and `е́ → ё́ → е́`. A national acute and independent
-stress are distinct. Pointer/wheel actions outside the special <kbd>Shift</kbd>
-path, navigation, other keys, paste/cut/drop, composition and
-language/mode/focus changes cancel the candidate. Replacement validates both
-text and collapsed caret.
-[Full cycles](national-layouts.md#postfix-diacritic-cycles).
+cycling, including Polish `á → ą́ → á`. Directly available letters are excluded;
+Russian е/ё is not a postfix cycle. A national acute and independent stress are
+distinct. Pointer/wheel actions outside the special <kbd>Shift</kbd> path,
+navigation, other keys, paste/cut/drop, composition and language/mode/focus
+changes cancel the candidate. Replacement validates both text and collapsed
+caret. [Source profiles](national-layouts.md#postfix-diacritic-cycles) ·
+[Menu timing and selection](typing-engine.md#accent-menu-timing).
 
 ## <kbd>Caps Lock</kbd> and language mapping
 

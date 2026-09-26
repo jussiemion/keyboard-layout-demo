@@ -84,9 +84,12 @@ QWERTY; pozostałe sekwencje znajdziesz w przewodniku.
 
 ### Jak szybko wpisywać litery z diakrytyką?
 
-Wybierz język klawiatury, wpisz literę i zwolnij jej klawisz. Kolejne
-naciśnięcia <kbd>Shift</kbd> zmieniają wariant: po polsku a → ą, po niemiecku u
-→ ü, po francusku e → é → è → ê → ë. Dostępne warianty zależą od języka.
+Wybierz polski i wpisz z: lewy <kbd>Shift</kbd> przechodzi przez z → ż → ź → z,
+prawy wstecz. Każde naciśnięcie zastępuje literę i pozostawia menu otwarte.
+Warianty zależą od mapy klawiatury. Litery dostępne bez modyfikatorów i ich
+wielkie odpowiedniki są pomijane: rosyjskie ё i й wpisuje się bez cyklu.
+<kbd>Shift</kbd> przed literą daje wielką literę. Szybkie, nakładające się
+naciśnięcia są obsługiwane.
 
 ### Jak wpisać znak akcentu nad literą?
 
@@ -144,6 +147,23 @@ anuluje oczekujący znak lub akcent.
 > można pominąć. Przycisk z książką otwiera ściągawkę.
 
 ## Znaki diakrytyczne
+
+Wybierz polski i wpisz z: lewy <kbd>Shift</kbd> przechodzi przez z → ż → ź → z,
+prawy wstecz. Każde naciśnięcie zastępuje literę i pozostawia menu otwarte.
+
+Przytrzymaj literę bazową przez 250 ms, aby otworzyć menu i wybrać wariant 2.
+Przytrzymanie <kbd>Shift</kbd> otwiera menu po 500 ms i zmienia wariant co 500
+ms. Samo przytrzymanie litery nie powtarza zmiany. Jeśli <kbd>Shift</kbd> był
+już wciśnięty, menu zaczyna od opcji 1.
+
+Litera bazowa jest pierwsza: z (1), ż (2), ź (3). Cyfry 1–9, <kbd>Enter</kbd>
+lub kliknięcie wybierają i zamykają menu. Zwolnienie klawiszy nie zamyka menu;
+<kbd>Esc</kbd> zamyka je bez cofania ostatniej zmiany.
+
+Warianty zależą od mapy klawiatury. Litery dostępne bez modyfikatorów i ich
+wielkie odpowiedniki są pomijane: rosyjskie ё i й wpisuje się bez cyklu.
+<kbd>Shift</kbd> przed literą daje wielką literę. Szybkie, nakładające się
+naciśnięcia są obsługiwane.
 
 Wpisz literę i zwolnij ją, potem naciskaj i zwalniaj <kbd>Shift</kbd>:
 `a → ą → a`, `z → ż → ź → z`. Przytrzymany z literą <kbd>Shift</kbd> działa

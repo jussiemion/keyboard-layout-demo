@@ -154,7 +154,7 @@ export function useAccentHold(
       if (
         down &&
         !pending.current?.visible &&
-        engine.current.held.size === 0 &&
+        engine.current.canStartPostfixShift &&
         !event.ctrlKey &&
         !event.altKey &&
         !event.metaKey &&
@@ -162,6 +162,7 @@ export function useAccentHold(
         data &&
         valid(data)
       ) {
+        clearTimeout(menuTimer.current);
         shiftOpenTimer.current = setTimeout(() => {
           if (
             !shifts.current.has(event.code) ||

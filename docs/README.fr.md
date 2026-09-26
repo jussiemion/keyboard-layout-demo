@@ -84,10 +84,12 @@ QWERTY ; le guide indique les autres séquences.
 
 ### Comment saisir rapidement des lettres accentuées ?
 
-Choisissez la langue du clavier, tapez une lettre et relâchez sa touche. Appuyez
-ensuite séparément sur <kbd>Shift</kbd> pour parcourir ses variantes : en
-français e → é → è → ê → ë et c → ç ; en allemand u → ü. Les variantes dépendent
-de la langue.
+Choisissez le polonais et tapez z : Maj gauche parcourt z → ż → ź → z, Maj
+droite revient en arrière. Chaque pression remplace la lettre et garde le menu
+ouvert. Les variantes dépendent de la disposition. Les lettres accessibles sans
+modificateur et leurs majuscules sont exclues du cycle, comme ё et й en russe.
+Maj avant la lettre produit une majuscule. Les frappes rapides qui se
+chevauchent sont prises en charge.
 
 ### Comment placer un signe d’accent tonique sur une lettre ?
 
@@ -148,10 +150,23 @@ de symboles pour la prochaine saisie. Aucun délai entre les pressions.
 
 ## Accents
 
-La carte française utilise l’AZERTY traditionnel. Après une lettre relâchée,
-appuyez puis relâchez <kbd>Shift</kbd> pour parcourir ses variantes :
-`e → é → è → ê → ë → e`, `c → ç → c`. Maintenu avec la lettre, <kbd>Shift</kbd>
-garde son rôle habituel.
+Choisissez le polonais et tapez z : Maj gauche parcourt z → ż → ź → z, Maj
+droite revient en arrière. Chaque pression remplace la lettre et garde le menu
+ouvert.
+
+Maintenez la lettre de base 250 ms pour ouvrir le menu et appliquer le choix 2.
+Maintenir Maj ouvre le menu après 500 ms et change de variante toutes les 500
+ms. Maintenir seulement la lettre ne répète pas le changement. Si Maj était déjà
+maintenue, le menu commence au choix 1.
+
+La lettre de base est toujours première : z (1), ż (2), ź (3). Les chiffres 1–9,
+Entrée ou un clic sélectionnent et ferment. Relâcher les touches ne ferme pas le
+menu ; Échap le ferme sans annuler la dernière modification.
+
+Les variantes dépendent de la disposition. Les lettres accessibles sans
+modificateur et leurs majuscules sont exclues du cycle, comme ё et й en russe.
+Maj avant la lettre produit une majuscule. Les frappes rapides qui se
+chevauchent sont prises en charge.
 
 Pour un accent aigu : <kbd>Alt</kbd>, <kbd>Alt</kbd>, <kbd>/</kbd>, puis la
 voyelle. Le niqqud hébreu utilise <kbd>Alt</kbd> droit ; les voyelles arabes

@@ -27,14 +27,14 @@ returned actions to its text field.
 The shared symbol layers follow
 [Ilya Birman’s Typography Layout 3.9](https://ilyabirman.ru/typography-layout/).
 National keyboard maps determine ordinary and shifted input; supported languages
-can also provide postfix <kbd>Shift</kbd> diacritic cycles. After releasing the
-letter key, tap either <kbd>Shift</kbd> to apply the first accent and open its
-menu. Further left/right <kbd>Shift</kbd> taps immediately apply the
-next/previous option; Shift keeps the menu open; Enter, a digit or a click
-closes it. Case and independent stress are preserved. Variants already available
-on an ordinary key in the selected national map are excluded, along with their
-uppercase equivalents. This does not exclude Alt combinations or dead-key
-sequences. For example, Russian е/ё and и/й need no Shift cycle.
+can also provide postfix <kbd>Shift</kbd> diacritic cycles. After typing a
+letter, tap left <kbd>Shift</kbd> for the next variant or right <kbd>Shift</kbd>
+for the previous one and open its menu. Further left/right <kbd>Shift</kbd> taps
+immediately apply the next/previous option; Shift keeps the menu open; Enter, a
+digit or a click closes it. Case and independent stress are preserved. Variants
+already available on an ordinary key in the selected national map are excluded,
+along with their uppercase equivalents. This does not exclude Alt combinations
+or dead-key sequences. For example, Russian е/ё and и/й need no Shift cycle.
 
 ## Source files
 
@@ -83,3 +83,11 @@ last replacement. The base letter is always first: z (1), ż (2), ź (3),
 including after reopening. Continued typing, cursor movement, focus, language
 and composition changes dismiss the menu and cancel its timers. Normal
 Shift+letter chords retain uppercase input.
+
+Overlapping printable key presses preserve the latest diacritic candidate. For
+example, a fast `e` → `s` → Shift works even before the letter keys are
+released. Shift pressed before the next letter still produces uppercase input;
+held command or navigation keys cannot start a postfix cycle.
+
+See [desktop compatibility](desktop-parity.md) for verified shared behavior and
+platform-specific limitations.

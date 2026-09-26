@@ -3,10 +3,22 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { runInNewContext } from 'node:vm';
 import ts from 'typescript';
-import { TypingEngine, replaceSelection } from '../lib/typing-engine.ts';
+import {
+  TypingEngine,
+  replaceSelection,
+  baseKey,
+  diacriticVariants,
+  layout,
+} from '../lib/typing-engine.ts';
+import profiles from '../lib/diacritic-profiles.ts';
+import {
+  KEYBOARD_LOCALES,
+  keyboardLanguage,
+  type KeyboardLocale,
+} from '../lib/keyboard-locales.ts';
 import type { useAccentHold } from '../components/use-accent-hold.ts';
 
-function setup(letter = 'z', code = 'KeyZ') {
+function setup(letter = 'z', code = 'KeyZ', locale: KeyboardLocale = 'pl') {
   const engine = new TypingEngine();
   engine.handle(
     {
@@ -15,7 +27,7 @@ function setup(letter = 'z', code = 'KeyZ') {
       down: true,
       context: { value: '', start: 0, end: 0 },
     },
-    'pl',
+    locale,
   );
   const field = { value: letter, selectionStart: 1, selectionEnd: 1 };
   const slots: unknown[] = [];
@@ -455,3 +467,142 @@ void test('digit closes a Shift-opened menu without leaving Shift held', () => {
   s.advance(1000);
   assert.equal(s.render().menu, null);
 });
+
+void test('Shift hold overlapping the base waits for its own timer', () => {
+  const s = setup();
+  const context = { value: 'z', start: 1, end: 1 };
+  s.render().arm('KeyZ');
+  s.advance(50);
+  s.render().before(s.event('ShiftLeft'), true);
+  s.engine.handle({ code: 'ShiftLeft', down: true, context }, 'pl');
+  s.advance(499);
+  assert.equal(s.render().menu, null);
+  assert.equal(s.field.value, 'z');
+  s.advance(1);
+  assert.equal(s.field.value, 'ż');
+  assert.ok(s.render().menu);
+});
+
+// Exercise the UI controller for every eligible base on every physical map.
+const languageCases = KEYBOARD_LOCALES.flatMap((locale) => {
+  const rows =
+    (profiles.profiles as Partial<Record<string, string[]>>)[
+      keyboardLanguage(locale)
+    ] ?? [];
+  return rows.flatMap((row) => {
+    const letter = Array.from(row)[0];
+    const code = layout.find(
+      (key) => baseKey(key.code, locale) === letter,
+    )?.code;
+    const choices = diacriticVariants(letter, locale);
+    if (choices.length < 2) {
+      return [];
+    }
+    assert.ok(code, `${locale}: no physical key for ${letter}`);
+    const upper = letter.toLocaleUpperCase(keyboardLanguage(locale));
+    return [
+      { locale, letter, code, choices },
+      {
+        locale,
+        letter: upper,
+        code,
+        choices: diacriticVariants(upper, locale),
+      },
+    ];
+  });
+});
+for (const { locale, letter, code, choices } of languageCases) {
+  void test(`${locale} ${letter}: hold, directions, numbered choice and persistence`, () => {
+    const s = setup(letter, code, locale);
+    s.render().arm(code);
+    s.advance(249);
+    assert.equal(s.render().menu, null);
+    s.advance(1);
+    assert.deepEqual(Array.from(s.render().menu!.choices), choices);
+    assert.equal(s.field.value, choices[1]);
+    s.render().before(s.event(code), false);
+    s.advance(1000);
+    assert.ok(s.render().menu);
+    assert.equal(s.field.value, choices[1]);
+    s.render().before(s.event('ShiftLeft'), true);
+    assert.equal(s.field.value, choices[2 % choices.length]);
+    s.advance(500);
+    assert.equal(s.field.value, choices[3 % choices.length]);
+    s.render().before(s.event('ShiftLeft'), false);
+    s.render().before(s.event('ShiftRight'), true);
+    assert.equal(s.field.value, choices[2 % choices.length]);
+    s.render().before(s.event('ShiftRight'), false);
+    s.render().before(s.event('Digit1'), true);
+    s.render().before(s.event('Digit1'), false);
+    assert.equal(s.field.value, letter);
+    assert.equal(s.render().menu, null);
+    s.render().open();
+    s.render().choose(choices.length - 1);
+    assert.equal(s.field.value, choices.at(-1));
+    assert.equal(s.render().menu, null);
+  });
+  void test(`${locale} ${letter}: Shift hold opens and repeats`, () => {
+    const s = setup(letter, code, locale);
+    const context = { value: letter, start: letter.length, end: letter.length };
+    s.engine.handle({ code, down: false, context }, locale);
+    s.render().before(s.event('ShiftLeft'), true);
+    s.engine.handle({ code: 'ShiftLeft', down: true, context }, locale);
+    s.advance(499);
+    assert.equal(s.render().menu, null);
+    s.advance(1);
+    assert.equal(s.field.value, choices[1]);
+    s.advance(500);
+    assert.equal(s.field.value, choices[2 % choices.length]);
+    s.render().before(s.event('ShiftLeft'), false);
+    s.advance(1000);
+    assert.equal(s.field.value, choices[2 % choices.length]);
+    assert.ok(s.render().menu);
+  });
+}
+
+void test('Turkish circumflex menus preserve dotted/dotless case and direct-key exclusions', () => {
+  for (const [letter, expected] of [
+    ['a', ['a', 'â']],
+    ['A', ['A', 'Â']],
+    ['i', ['i', 'î']],
+    ['İ', ['İ', 'Î']],
+    ['u', ['u', 'û']],
+    ['U', ['U', 'Û']],
+  ] as const) {
+    assert.deepEqual(diacriticVariants(letter, 'tr'), expected);
+  }
+  for (const letter of [
+    'c',
+    'ç',
+    'g',
+    'ğ',
+    'ı',
+    'I',
+    'o',
+    'ö',
+    's',
+    'ş',
+    'ü',
+  ]) {
+    assert.deepEqual(diacriticVariants(letter, 'tr'), []);
+  }
+});
+for (const [locale, letter, code] of [
+  ['ru', 'е', 'KeyT'],
+  ['ru', 'и', 'KeyB'],
+  ['de', 'a', 'KeyA'],
+  ['de', 'u', 'KeyU'],
+  ['tr', 'c', 'KeyC'],
+  ['tr', 's', 'KeyS'],
+  ['vi', 'd', 'KeyD'],
+  ['he', 'ש', 'KeyA'],
+  ['ar', 'ش', 'KeyA'],
+] as const) {
+  void test(`${locale} ${letter}: no empty menu for direct variants or mark layers`, () => {
+    const s = setup(letter, code, locale);
+    s.render().arm(code);
+    s.advance(1500);
+    assert.equal(s.render().menu, null);
+    assert.equal(s.field.value, letter);
+  });
+}

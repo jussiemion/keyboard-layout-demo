@@ -85,9 +85,12 @@ ghidul prezintă celelalte secvențe.
 
 ### Cum introduc rapid litere cu diacritice?
 
-Alege limba tastaturii, scrie litera de bază și eliberează tasta. Apoi apasă
-<kbd>Shift</kbd> separat pentru a parcurge variantele: în germană u → ü, în
-franceză e → é → è → ê → ë. Variantele depind de limbă.
+Alege poloneza și scrie z: <kbd>Shift</kbd> stâng parcurge z → ż → ź → z, iar
+cel drept merge înapoi. Fiecare apăsare înlocuiește litera și păstrează meniul
+deschis. Variantele depind de harta tastaturii. Literele disponibile fără
+modificatori și majusculele lor sunt excluse, precum ё și й în rusă.
+<kbd>Shift</kbd> înaintea literei produce o majusculă. Sunt acceptate apăsările
+rapide suprapuse.
 
 ### Cum pun un semn de accent deasupra unei litere?
 
@@ -148,10 +151,22 @@ anulează semnul în așteptare.
 
 ## Diacritice
 
-Harta română este QWERTY Programmer. După o literă eliberată, apasă și
-eliberează <kbd>Shift</kbd>: `a → ă → â → a`, `i → î → i`, `s → ș → s`,
-`t → ț → t`. Majusculele se păstrează; <kbd>Shift</kbd> ținut cu litera
-funcționează normal. Ș și ț folosesc virgula dedesubt.
+Alege poloneza și scrie z: <kbd>Shift</kbd> stâng parcurge z → ż → ź → z, iar
+cel drept merge înapoi. Fiecare apăsare înlocuiește litera și păstrează meniul
+deschis.
+
+Ține litera de bază apăsată 250 ms pentru a deschide meniul și aplica
+opțiunea 2. <kbd>Shift</kbd> ținut apăsat deschide meniul după 500 ms și schimbă
+varianta la fiecare 500 ms. Doar ținerea literei nu repetă schimbarea. Dacă
+<kbd>Shift</kbd> era deja apăsat, meniul începe cu opțiunea 1.
+
+Litera de bază este prima: z (1), ż (2), ź (3). Cifrele 1–9, <kbd>Enter</kbd>
+sau un clic selectează și închid. Eliberarea tastelor nu închide meniul;
+<kbd>Esc</kbd> îl închide fără a anula ultima schimbare.
+
+Variantele depind de harta tastaturii. Literele disponibile fără modificatori și
+majusculele lor sunt excluse, precum ё și й în rusă. <kbd>Shift</kbd> înaintea
+literei produce o majusculă. Sunt acceptate apăsările rapide suprapuse.
 
 Pentru accent acut: <kbd>Alt</kbd>, <kbd>Alt</kbd>, <kbd>/</kbd>, apoi vocala.
 

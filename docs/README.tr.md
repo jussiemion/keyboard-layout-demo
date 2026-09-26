@@ -83,9 +83,11 @@ dizileri başvuru kılavuzundadır.
 
 ### Aksanlı harfleri nasıl hızlı yazabilirim?
 
-Klavye dilini seçin, temel harfi yazıp tuşu bırakın. Ardından <kbd>Shift</kbd>
-tuşuna ayrı ayrı basarak seçenekleri dolaşın: Almancada u → ü, Fransızcada e → é
-→ è → ê → ë. Seçenekler dile göre değişir.
+Lehçeyi seçip z yazın: sol <kbd>Shift</kbd> z → ż → ź → z sırasıyla, sağ
+<kbd>Shift</kbd> ters yönde ilerler. Her basış harfi değiştirir ve menüyü açık
+tutar. Seçenekler klavye haritasına bağlıdır. Değiştirici olmadan yazılabilen
+harfler ve büyük harfleri döngüye girmez; Rusça ё ve й gibi. Harften önce
+<kbd>Shift</kbd> büyük harf yazar. Hızlı, örtüşen tuş basışları desteklenir.
 
 ### Bir harfin üzerine vurgu işareti nasıl koyabilirim?
 
@@ -146,12 +148,28 @@ mod seçer.
 
 ## Aksanlar
 
+Türkçede `a → â`, `i → î` ve `u → û` menüleri kullanılabilir. Ayrı tuşları olan
+ç, ğ, ı, ö, ş ve ü döngüye dahil edilmez. Büyük harfler de desteklenir.
+
+Lehçeyi seçip z yazın: sol <kbd>Shift</kbd> z → ż → ź → z sırasıyla, sağ
+<kbd>Shift</kbd> ters yönde ilerler. Her basış harfi değiştirir ve menüyü açık
+tutar.
+
+Temel harfi 250 ms basılı tutmak menüyü açıp 2. seçeneği uygular.
+<kbd>Shift</kbd> tuşunu tutmak 500 ms sonra menüyü açar ve her 500 ms’de
+seçeneği değiştirir. Yalnızca harfi tutmak değişimi tekrarlamaz.
+<kbd>Shift</kbd> önceden basılıysa menü 1. seçenekten başlar.
+
+Temel harf her zaman ilk sıradadır: z (1), ż (2), ź (3). 1–9, <kbd>Enter</kbd>
+veya tıklama seçip kapatır. Tuşları bırakmak menüyü kapatmaz; <kbd>Esc</kbd> son
+değişikliği geri almadan kapatır.
+
+Seçenekler klavye haritasına bağlıdır. Değiştirici olmadan yazılabilen harfler
+ve büyük harfleri döngüye girmez; Rusça ё ve й gibi. Harften önce
+<kbd>Shift</kbd> büyük harf yazar. Hızlı, örtüşen tuş basışları desteklenir.
+
 Türkçe harita **Türkçe Q**, XKB `tr(basic)` referansıdır; Türkçe F değildir.
 `i/İ` ve `ı/I` doğru büyük/küçük harf çiftleridir.
-
-Harfi yazıp bıraktıktan sonra <kbd>Shift</kbd> tuşuna basıp bırakarak
-varyantları dolaşın: `c → ç → c`, `g → ğ → g`, `i → ı → i`, `o → ö → o`,
-`s → ş → s`, `u → ü → u`. Büyük harfler korunur.
 
 <kbd>Alt</kbd>, <kbd>Alt</kbd>, fiziksel <kbd>/</kbd> konumu sonraki ünlü için
 vurgu hazırlar.

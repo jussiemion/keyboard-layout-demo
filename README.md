@@ -103,9 +103,9 @@ installation or account required.
 
 ### For polyglots, linguists and translators
 
-- **Type umlauts and accents with <kbd>Shift</kbd>.** Type a base letter,
-  release its key, then tap <kbd>Shift</kbd> to cycle through its variants: u →
-  ü in German or e → é → è → ê → ë in French.
+- **Type umlauts and accents with <kbd>Shift</kbd>.** Select Polish and type z:
+  left <kbd>Shift</kbd> cycles z → ż → ź → z; right <kbd>Shift</kbd> cycles
+  backward. Each tap replaces the letter and keeps the menu open.
 - **National characters on your familiar keyboard.** Practise typing ä, ö, ü, é,
   è, ç, ñ and other characters supported by your selected language.
 - **Explore several languages in one demo.** Assign up to six languages and
@@ -132,10 +132,12 @@ for other symbols.
 
 ### How can I type umlauts ä, ö, ü and accented letters é, è, ç quickly?
 
-Select a keyboard language in the demo. Type a base letter, release its key,
-then tap <kbd>Shift</kbd> separately. In German, use a → ä, o → ö and u → ü; in
-French, use e → é → è → ê → ë and c → ç. Each <kbd>Shift</kbd> tap selects the
-next variant. Available variants depend on the language.
+Select Polish and type z: left <kbd>Shift</kbd> cycles z → ż → ź → z; right
+<kbd>Shift</kbd> cycles backward. Each tap replaces the letter and keeps the
+menu open. Variants depend on the selected keyboard map. Letters available on an
+unmodified key are excluded, including their uppercase forms: Russian ё and й
+need no cycle. Press <kbd>Shift</kbd> before a letter for uppercase input. Fast
+overlapping letter presses are supported.
 
 ### How do I type a stress mark above a letter?
 
@@ -206,9 +208,23 @@ pending symbol or accent.
 
 ## Accents and language switching
 
-Type a letter, release it, then tap <kbd>Shift</kbd> to cycle its variants:
-Polish `a → ą → a`, German `u → ü → u`. Holding <kbd>Shift</kbd> with a letter
-still produces its normal uppercase/shifted form.
+Select Polish and type z: left <kbd>Shift</kbd> cycles z → ż → ź → z; right
+<kbd>Shift</kbd> cycles backward. Each tap replaces the letter and keeps the
+menu open.
+
+Hold a base letter for 250 ms to open the menu and apply option 2. Hold
+<kbd>Shift</kbd> for 500 ms to open and cycle; it repeats every 500 ms. Holding
+only the letter does not repeat. If <kbd>Shift</kbd> was already held, the menu
+starts at option 1.
+
+The base is option 1: z (1), ż (2), ź (3). Digits 1–9, <kbd>Enter</kbd> or a
+click select and close. Releasing keys does not close the menu; <kbd>Esc</kbd>
+closes it without undoing the last change.
+
+Variants depend on the selected keyboard map. Letters available on an unmodified
+key are excluded, including their uppercase forms: Russian ё and й need no
+cycle. Press <kbd>Shift</kbd> before a letter for uppercase input. Fast
+overlapping letter presses are supported.
 
 For an acute accent, tap <kbd>Alt</kbd>, <kbd>Alt</kbd>, <kbd>/</kbd>, then a
 letter. Hebrew niqqud uses right <kbd>Alt</kbd>; Arabic vowel marks use held
@@ -306,14 +322,15 @@ Open [localhost:6699](http://127.0.0.1:6699).
 
 ## Documentation
 
-| Guide                                       | What you’ll find                                  |
-| ------------------------------------------- | ------------------------------------------------- |
-| [Settings](docs/settings.md)                | Language assignments, preferences and defaults    |
-| [Guided tour](docs/guided-tour.md)          | Exercises, progression and the optional challenge |
-| [Symbol search](docs/symbol-search.md)      | Search terms, typo tolerance and ranking          |
-| [Browser behavior](docs/browser-adapter.md) | Keyboard events and OS layout interference        |
-| [National maps](docs/national-layouts.md)   | Regional keyboards and accent cycles              |
-| [Development](docs/development.md)          | Build, checks, fonts and documentation media      |
+| Guide                                           | What you’ll find                                  |
+| ----------------------------------------------- | ------------------------------------------------- |
+| [Settings](docs/settings.md)                    | Language assignments, preferences and defaults    |
+| [Guided tour](docs/guided-tour.md)              | Exercises, progression and the optional challenge |
+| [Symbol search](docs/symbol-search.md)          | Search terms, typo tolerance and ranking          |
+| [Browser behavior](docs/browser-adapter.md)     | Keyboard events and OS layout interference        |
+| [National maps](docs/national-layouts.md)       | Regional keyboards and accent cycles              |
+| [Desktop compatibility](docs/desktop-parity.md) | Shared gestures and Linux-specific limitations    |
+| [Development](docs/development.md)              | Build, checks, fonts and documentation media      |
 
 ## Contributing
 

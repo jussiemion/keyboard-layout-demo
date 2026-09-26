@@ -84,9 +84,12 @@ staan in de naslaggids.
 
 ### Hoe typ ik snel letters met diakritische tekens?
 
-Kies de toetsenbordtaal, typ een basisletter en laat de toets los. Druk daarna
-afzonderlijk op <kbd>Shift</kbd> om varianten te doorlopen: Duits u → ü, Frans e
-→ é → è → ê → ë. De varianten hangen af van de taal.
+Kies Pools en typ z: linker <kbd>Shift</kbd> doorloopt z → ż → ź → z, rechter
+<kbd>Shift</kbd> gaat terug. Elke druk vervangt de letter en houdt het menu
+open. Varianten hangen af van de toetsenbordindeling. Letters die zonder
+modificatietoets beschikbaar zijn en hun hoofdletters worden overgeslagen, zoals
+ё en й in het Russisch. <kbd>Shift</kbd> vóór de letter geeft een hoofdletter.
+Snelle overlappende aanslagen worden ondersteund.
 
 ### Hoe plaats ik een klemtoonteken boven een letter?
 
@@ -150,13 +153,26 @@ kiezen ook de modus.
 
 ## Accenten
 
+Kies Pools en typ z: linker <kbd>Shift</kbd> doorloopt z → ż → ź → z, rechter
+<kbd>Shift</kbd> gaat terug. Elke druk vervangt de letter en houdt het menu
+open.
+
+Houd de basisletter 250 ms vast om het menu te openen en optie 2 toe te passen.
+<kbd>Shift</kbd> vasthouden opent na 500 ms het menu en wisselt elke 500 ms.
+Alleen de letter vasthouden herhaalt de wissel niet. Was <kbd>Shift</kbd> al
+ingedrukt, dan begint het menu bij optie 1.
+
+De basisletter staat altijd eerst: z (1), ż (2), ź (3). Cijfers 1–9,
+<kbd>Enter</kbd> of een klik kiezen en sluiten. Loslaten sluit het menu niet;
+<kbd>Esc</kbd> sluit zonder de laatste wijziging terug te draaien.
+
+Varianten hangen af van de toetsenbordindeling. Letters die zonder
+modificatietoets beschikbaar zijn en hun hoofdletters worden overgeslagen, zoals
+ё en й in het Russisch. <kbd>Shift</kbd> vóór de letter geeft een hoofdletter.
+Snelle overlappende aanslagen worden ondersteund.
+
 De Nederlandse kaart gebruikt de referentie **XKB `nl(basic)`**. Dit is een
 Nederlandse kaart, geen US International.
-
-Typ een letter, laat los en druk vervolgens <kbd>Shift</kbd> in en laat los om
-varianten te doorlopen: `a → ä → á → à → â → a`, `e → ë → é → è → ê → e`,
-`i → ï → í → ì → î → i`, `o → ö → ó → ò → ô → o`, `u → ü → ú → ù → û → u`.
-Hoofdletters blijven behouden.
 
 <kbd>Alt</kbd>, <kbd>Alt</kbd>, fysieke positie <kbd>/</kbd> bereidt klemtoon
 voor de volgende klinker voor.

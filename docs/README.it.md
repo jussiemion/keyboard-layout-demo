@@ -86,9 +86,12 @@ sequenze.
 
 ### Come si digitano rapidamente le lettere con segni diacritici?
 
-Scegli la lingua della tastiera, digita la lettera di base e rilascia il tasto.
-Poi premi <kbd>Shift</kbd> separatamente per scorrere le varianti: in tedesco u
-→ ü, in francese e → é → è → ê → ë. Le varianti dipendono dalla lingua.
+Seleziona il polacco e digita z: <kbd>Shift</kbd> sinistro scorre z → ż → ź → z,
+quello destro torna indietro. Ogni pressione sostituisce la lettera e lascia
+aperto il menu. Le varianti dipendono dalla mappa della tastiera. Le lettere
+disponibili senza modificatori e le loro maiuscole sono escluse dal ciclo, come
+ё e й in russo. <kbd>Shift</kbd> prima della lettera produce una maiuscola. Sono
+supportate pressioni rapide sovrapposte.
 
 ### Come si inserisce un segno di accento sopra una lettera?
 
@@ -150,13 +153,27 @@ scegliere `M0`/`M1`/`M2` anche sopra la tastiera.
 
 ## Accenti
 
+Seleziona il polacco e digita z: <kbd>Shift</kbd> sinistro scorre z → ż → ź → z,
+quello destro torna indietro. Ogni pressione sostituisce la lettera e lascia
+aperto il menu.
+
+Tieni premuta la lettera base per 250 ms per aprire il menu e applicare
+l’opzione 2. Tenere premuto <kbd>Shift</kbd> apre il menu dopo 500 ms e cambia
+variante ogni 500 ms. La sola lettera tenuta premuta non ripete il cambio. Se
+<kbd>Shift</kbd> era già premuto, il menu parte dall’opzione 1.
+
+La lettera base è sempre la prima: z (1), ż (2), ź (3). Le cifre 1–9, Invio o un
+clic selezionano e chiudono. Rilasciare i tasti non chiude il menu;
+<kbd>Esc</kbd> lo chiude senza annullare l’ultima modifica.
+
+Le varianti dipendono dalla mappa della tastiera. Le lettere disponibili senza
+modificatori e le loro maiuscole sono escluse dal ciclo, come ё e й in russo.
+<kbd>Shift</kbd> prima della lettera produce una maiuscola. Sono supportate
+pressioni rapide sovrapposte.
+
 L’italiano usa la mappa di riferimento per l’Italia. Cambiare piattaforma
 visuale non la sostituisce con una diversa variante nazionale di Windows o
 macOS.
-
-Digita e rilascia una lettera, quindi premi e rilascia <kbd>Shift</kbd> per
-scorrere le varianti: `a → à → a`, `e → è → é → e`, `o → ò → ó → o`. Funzionano
-entrambi gli <kbd>Shift</kbd>, fisici e sullo schermo.
 
 <kbd>Alt</kbd>, <kbd>Alt</kbd> e la posizione fisica di <kbd>/</kbd> preparano
 un accento acuto per la lettera successiva.

@@ -261,7 +261,10 @@ export function directLetters(locale: KeyboardLocale): ReadonlySet<string> {
   return letters;
 }
 
-function diacriticVariants(base: string, locale: KeyboardLocale): string[] {
+export function diacriticVariants(
+  base: string,
+  locale: KeyboardLocale,
+): string[] {
   const upper = (text: string) =>
     Array.from(text)
       .map(
@@ -328,6 +331,7 @@ export class TypingEngine {
 
   enabled = true;
   held = new Set<string>();
+  private textHeld = new Set<string>();
   private consumed = new Set<string>();
   pending: Mode = 0;
   accent: string | null = null;
@@ -348,6 +352,10 @@ export class TypingEngine {
     ) {
       this.resetPostfix();
     }
+  }
+
+  get canStartPostfixShift() {
+    return Array.from(this.held).every((code) => this.textHeld.has(code));
   }
 
   get canCycleDiacritic() {
@@ -375,6 +383,7 @@ export class TypingEngine {
   reset() {
     this.resetPostfix();
     this.held.clear();
+    this.textHeld.clear();
     this.consumed.clear();
     this.pending = 0;
     this.accent = null;
@@ -428,6 +437,24 @@ export class TypingEngine {
     this.preparePostfix(event, locale, fresh, command);
 
     const result = this.route(event, locale);
+    if (!event.down) {
+      this.textHeld.delete(event.code);
+    } else if (fresh && !shift) {
+      const printed =
+        !command &&
+        ((result.route === 'pass' &&
+          !this.altHeld &&
+          !accent &&
+          !this.pending &&
+          Array.from(event.key || '').length === 1) ||
+          ((result.route === 'national' || result.route === 'accent') &&
+            Boolean(result.text)));
+      if (printed) {
+        this.textHeld.add(event.code);
+      } else {
+        this.textHeld.delete(event.code);
+      }
+    }
     if (!fresh || command) {
       return result;
     }
@@ -435,7 +462,7 @@ export class TypingEngine {
       shift &&
       !event.down &&
       this.postfixShift === event.code &&
-      this.held.size === 0 &&
+      this.canStartPostfixShift &&
       this.postfix
     ) {
       if (event.previewDiacritic && this.accentChoices) {
@@ -477,13 +504,13 @@ export class TypingEngine {
     this.postfixLocale = locale;
     const context = event.context;
     const shift = isShift(event.code);
-    const alone = this.held.size === 0;
+    const afterText = this.canStartPostfixShift;
     this.validatePostfix(context);
     if (command) {
       this.resetPostfix();
     }
     if (fresh && shift && event.down) {
-      this.postfixShift = alone && this.postfix ? event.code : null;
+      this.postfixShift = afterText && this.postfix ? event.code : null;
     } else if (fresh && event.down) {
       this.resetPostfix();
     }
@@ -591,7 +618,7 @@ export class TypingEngine {
           )
         : event.key || '';
     const onlyShift = [...this.held].every(
-      (code) => code === event.code || isShift(code),
+      (code) => this.textHeld.has(code) || isShift(code),
     );
     if (
       ((plain && onlyShift) || stressed || national) &&

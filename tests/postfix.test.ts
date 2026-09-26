@@ -134,17 +134,17 @@ for (const shift of ['ShiftLeft', 'ShiftRight']) {
     f.send(shift, true);
     f.send('KeyA', false);
     f.send(shift, false);
-    assert.equal(f.state.value, 'ba');
+    assert.equal(f.state.value, 'bą');
     f.send(shift, true);
     f.tap('KeyB', 'B');
     f.send(shift, false);
-    assert.equal(f.state.value, 'baB');
+    assert.equal(f.state.value, 'bąB');
     f.tap('KeyA', 'a');
     f.send('ShiftLeft', true);
     f.send('ShiftRight', true);
     f.send('ShiftLeft', false);
     f.send('ShiftRight', false);
-    assert.equal(f.state.value, 'baBa');
+    assert.equal(f.state.value, 'bąBa');
   });
   for (const code of [
     'Space',
@@ -348,3 +348,34 @@ void test('Russian letters on ordinary keys never participate in the cycle', () 
     assert.equal(f.state.value, 'b' + letter);
   }
 });
+
+for (const shift of ['ShiftLeft', 'ShiftRight']) {
+  for (const order of [
+    ['KeyE', 'KeyS', shift],
+    [shift, 'KeyS', 'KeyE'],
+    ['KeyS', shift, 'KeyE'],
+  ]) {
+    void test(`printable rollover es + ${shift}, releases ${order.join(',')}`, () => {
+      const f = field();
+      f.send('KeyE', true, 'e');
+      f.send('KeyS', true, 's');
+      f.send(shift, true);
+      for (const code of order) {
+        f.send(code, false);
+      }
+      assert.equal(f.state.value, 'beś');
+      f.tap(shift);
+      assert.equal(f.state.value, 'bes');
+    });
+  }
+  void test(`rolled letters then ${shift} before uppercase remain ordinary`, () => {
+    const f = field();
+    f.send('KeyE', true, 'e');
+    f.send(shift, true);
+    f.send('KeyS', true, 'S');
+    f.send('KeyE', false);
+    f.send('KeyS', false);
+    f.send(shift, false);
+    assert.equal(f.state.value, 'beS');
+  });
+}

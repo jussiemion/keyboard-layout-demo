@@ -160,9 +160,11 @@ void test('Turkish dotted and dotless i keep distinct case without redundant cyc
   assert.equal(baseKey('Quote', 'tr'), 'i');
   assert.equal(baseKey('Quote', 'tr', true), 'İ');
   assert.equal(baseKey('Quote', 'tr', false, true), 'İ');
-  assert.equal(nextDiacritic('İ', 'tr'), '');
+  assert.equal(nextDiacritic('İ', 'tr'), 'Î');
+  assert.equal(nextDiacritic('Î', 'tr'), 'İ');
   assert.equal(nextDiacritic('I', 'tr'), '');
-  assert.equal(nextDiacritic('i', 'tr'), '');
+  assert.equal(nextDiacritic('i', 'tr'), 'î');
+  assert.equal(nextDiacritic('î', 'tr'), 'i');
 });
 
 void test('Arabic uses canonical letters and following vowel marks', () => {

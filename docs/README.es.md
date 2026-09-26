@@ -87,10 +87,11 @@ demás secuencias.
 
 ### ¿Cómo escribir letras con diacríticos rápidamente?
 
-Elige el idioma del teclado, escribe la letra base y suelta la tecla. Después
-pulsa <kbd>Shift</kbd> por separado para recorrer las variantes: en español n →
-ñ, en alemán u → ü y en francés e → é → è → ê → ë. Las variantes dependen del
-idioma.
+Elige polaco y escribe z: <kbd>Shift</kbd> izquierdo recorre z → ż → ź → z; el
+derecho retrocede. Cada pulsación reemplaza la letra y mantiene abierto el menú.
+Las variantes dependen de la distribución. Se excluyen las letras disponibles
+sin modificadores y sus mayúsculas, como ё y й en ruso. <kbd>Shift</kbd> antes
+de una letra produce una mayúscula. Se admiten pulsaciones rápidas superpuestas.
 
 ### ¿Cómo colocar una marca de acento sobre una letra?
 
@@ -152,12 +153,24 @@ para la siguiente entrada. No hay límite de tiempo entre pulsaciones.
 
 ## Acentos
 
+Elige polaco y escribe z: <kbd>Shift</kbd> izquierdo recorre z → ż → ź → z; el
+derecho retrocede. Cada pulsación reemplaza la letra y mantiene abierto el menú.
+
+Mantén la letra base 250 ms para abrir el menú y aplicar la opción 2. Mantener
+<kbd>Shift</kbd> abre el menú tras 500 ms y cambia de variante cada 500 ms.
+Mantener solo la letra no repite el cambio. Si <kbd>Shift</kbd> ya estaba
+pulsado, el menú empieza en la opción 1.
+
+La letra base siempre es la primera: z (1), ż (2), ź (3). Los dígitos 1–9,
+<kbd>Enter</kbd> o un clic seleccionan y cierran. Soltar las teclas no cierra el
+menú; <kbd>Esc</kbd> lo cierra sin deshacer el último cambio.
+
+Las variantes dependen de la distribución. Se excluyen las letras disponibles
+sin modificadores y sus mayúsculas, como ё y й en ruso. <kbd>Shift</kbd> antes
+de una letra produce una mayúscula. Se admiten pulsaciones rápidas superpuestas.
+
 El español utiliza la distribución de referencia de España. Cambiar la
 plataforma visual no la sustituye por variantes nacionales de Windows o macOS.
-
-Escribe y suelta una letra; después pulsa y suelta <kbd>Shift</kbd> para
-recorrer sus variantes: `a → á → a`, `n → ñ → n`, `u → ú → ü → u`. Funcionan
-ambos <kbd>Shift</kbd>, tanto físicos como en pantalla.
 
 <kbd>Alt</kbd>, <kbd>Alt</kbd> y la posición física de <kbd>/</kbd> preparan un
 acento agudo para la siguiente letra.

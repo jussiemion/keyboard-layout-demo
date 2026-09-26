@@ -1,36 +1,23 @@
+import { diacriticVariants } from './typing-engine.ts';
 import diacritics from './diacritic-profiles.ts';
 import {
   keyboardLanguage,
   type Locale,
   type KeyboardLocale,
-} from './keyboard-locales';
+} from './keyboard-locales.ts';
 
 export function helpExamples(keyboard: KeyboardLocale) {
   const locale = keyboardLanguage(keyboard);
-  // English's broad international input profile is not a native alphabet.
-  const language =
-    locale !== 'en' &&
-    locale !== 'he' &&
-    locale !== 'ar' &&
-    diacritics.profiles[locale]?.length
-      ? locale
-      : 'pl';
-  const letters = Array.from(diacritics.profiles[language][0]);
+  // Match the active map's filtering; use an explicitly labelled Polish
+  // example when that map has no postfix variants (e.g. Russian or German).
+  const profiles = diacritics.profiles as Partial<Record<Locale, string[]>>;
+  const available = (profiles[locale] ?? [])
+    .map((row) => diacriticVariants(Array.from(row)[0], keyboard))
+    .find((row) => row.length > 1);
+  const language = available ? locale : 'pl';
+  const letters = available ?? diacriticVariants('a', 'pl');
   const letter = letters[0];
-  const variant = {
-    en: 'ą',
-    pl: 'ą',
-    ru: 'ё',
-    fr: 'â',
-    de: 'ä',
-    es: 'ü',
-    pt: 'ã',
-    it: 'è',
-    ro: 'ă',
-    tr: 'ü',
-    vi: 'ă',
-    nl: 'ë',
-  }[language];
+  const variant = letters[1];
   return {
     language,
     cycle: letters.join(' → '),

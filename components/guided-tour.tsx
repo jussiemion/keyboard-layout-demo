@@ -394,6 +394,9 @@ export function GuidedTour({
                   values={instructionValues}
                 />
               </p>
+              {bodyKey === 'postfix' && (
+                <p className={tourMutedClasses}>{h.holdVariants}</p>
+              )}
             </>
           )}
           {stage === 'challenge' ? (

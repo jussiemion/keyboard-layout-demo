@@ -85,9 +85,11 @@ tra cứu.
 
 ### Làm sao gõ nhanh chữ có dấu?
 
-Chọn ngôn ngữ bàn phím, gõ chữ cơ sở rồi thả phím. Sau đó nhấn <kbd>Shift</kbd>
-riêng từng lần để chuyển qua các biến thể: tiếng Đức u → ü, tiếng Pháp e → é → è
-→ ê → ë. Các biến thể phụ thuộc vào ngôn ngữ.
+Chọn tiếng Ba Lan và gõ z: <kbd>Shift</kbd> trái chuyển z → ż → ź → z,
+<kbd>Shift</kbd> phải chuyển ngược lại. Mỗi lần nhấn thay chữ và giữ menu mở.
+Các biến thể phụ thuộc vào bản đồ bàn phím. Chữ gõ được không cần phím bổ trợ và
+dạng viết hoa của chúng bị loại khỏi vòng, như ё và й tiếng Nga. Nhấn
+<kbd>Shift</kbd> trước chữ để viết hoa. Hỗ trợ các lần nhấn nhanh chồng nhau.
 
 ### Làm sao thêm dấu trọng âm phía trên chữ?
 
@@ -150,11 +152,20 @@ chế độ.
 
 ## Dấu
 
-Bản đồ tiếng Việt dùng **XKB `vn(basic)`**, không phải Telex hay VNI. Sau khi gõ
-và thả chữ, nhấn rồi thả <kbd>Shift</kbd> để chuyển qua các biến thể:
-`d → đ → d`, `a → ă → â → á → …`. Chữ hoa được giữ nguyên. Dấu không tự động đặt
-theo âm tiết; các vòng đầy đủ nằm trong tài liệu kỹ thuật. <kbd>Shift</kbd> giữ
-cùng chữ vẫn có chức năng thông thường.
+Chọn tiếng Ba Lan và gõ z: <kbd>Shift</kbd> trái chuyển z → ż → ź → z,
+<kbd>Shift</kbd> phải chuyển ngược lại. Mỗi lần nhấn thay chữ và giữ menu mở.
+
+Giữ chữ cơ sở 250 ms để mở menu và chọn mục 2. Giữ <kbd>Shift</kbd> mở menu sau
+500 ms và chuyển tiếp mỗi 500 ms. Chỉ giữ phím chữ không lặp lại việc chuyển.
+Nếu <kbd>Shift</kbd> đã được giữ trước đó, menu bắt đầu ở mục 1.
+
+Chữ cơ sở luôn đứng đầu: z (1), ż (2), ź (3). Phím 1–9, <kbd>Enter</kbd> hoặc
+nhấp chuột chọn và đóng. Thả phím không đóng menu; <kbd>Esc</kbd> đóng mà không
+hoàn tác lần thay cuối.
+
+Các biến thể phụ thuộc vào bản đồ bàn phím. Chữ gõ được không cần phím bổ trợ và
+dạng viết hoa của chúng bị loại khỏi vòng, như ё và й tiếng Nga. Nhấn
+<kbd>Shift</kbd> trước chữ để viết hoa. Hỗ trợ các lần nhấn nhanh chồng nhau.
 
 ## Ngôn ngữ và cài đặt
 

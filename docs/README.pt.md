@@ -86,9 +86,11 @@ sequências.
 
 ### Como escrever letras com diacríticos rapidamente?
 
-Escolha o idioma do teclado, digite a letra base e solte a tecla. Depois
-pressione <kbd>Shift</kbd> separadamente para percorrer as variantes: em alemão
-u → ü e em francês e → é → è → ê → ë. As variantes dependem do idioma.
+Escolha polaco e escreva z: <kbd>Shift</kbd> esquerdo percorre z → ż → ź → z; o
+direito recua. Cada pressão substitui a letra e mantém o menu aberto. As
+variantes dependem do mapa do teclado. Letras disponíveis sem modificadores e as
+suas maiúsculas ficam fora do ciclo, como ё e й em russo. <kbd>Shift</kbd> antes
+da letra produz uma maiúscula. São aceites pressões rápidas sobrepostas.
 
 ### Como colocar uma marca de acento sobre uma letra?
 
@@ -150,12 +152,24 @@ para a próxima entrada. Não existe limite de tempo entre as teclas.
 
 ## Acentos
 
+Escolha polaco e escreva z: <kbd>Shift</kbd> esquerdo percorre z → ż → ź → z; o
+direito recua. Cada pressão substitui a letra e mantém o menu aberto.
+
+Mantenha a letra base durante 250 ms para abrir o menu e aplicar a opção 2.
+Manter <kbd>Shift</kbd> abre o menu após 500 ms e muda a variante a cada 500 ms.
+Manter apenas a letra não repete a mudança. Se <kbd>Shift</kbd> já estava
+premido, o menu começa na opção 1.
+
+A letra base é sempre a primeira: z (1), ż (2), ź (3). Os dígitos 1–9,
+<kbd>Enter</kbd> ou um clique selecionam e fecham. Soltar as teclas não fecha o
+menu; <kbd>Esc</kbd> fecha-o sem desfazer a última alteração.
+
+As variantes dependem do mapa do teclado. Letras disponíveis sem modificadores e
+as suas maiúsculas ficam fora do ciclo, como ё e й em russo. <kbd>Shift</kbd>
+antes da letra produz uma maiúscula. São aceites pressões rápidas sobrepostas.
+
 O português usa a disposição de referência de Portugal. Mudar a plataforma
 visual não a substitui por variantes nacionais de Windows ou macOS.
-
-Escreva e solte uma letra; depois prima e solte <kbd>Shift</kbd> para percorrer
-as variantes: `a → á → à → â → ã → a`, `c → ç → c`, `o → ó → ô → õ → o`.
-Funcionam ambos os <kbd>Shift</kbd>, físicos e no ecrã.
 
 <kbd>Alt</kbd>, <kbd>Alt</kbd> e a posição física de <kbd>/</kbd> preparam um
 acento agudo para a letra seguinte.

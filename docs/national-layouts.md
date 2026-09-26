@@ -118,17 +118,24 @@ fallback provides shaping. See [fonts](fonts.md) and the
 
 ## Postfix diacritic cycles
 
-Type and release a letter, then tap and release either <kbd>Shift</kbd> to
-advance through its profile. The canonical cycles come from
-`lib/diacritics.json`; browser additions for Turkish, Vietnamese and Dutch live
-in `lib/national-diacritics.json`. `lib/diacritic-profiles.ts` combines them
-without modifying the imported native snapshot. Letter case and independently
-entered stress are retained. Hebrew and Arabic have no profile. Regional
-variants reuse their base-language profile. Each arrow denotes another separate
-<kbd>Shift</kbd> tap.
+Type a letter, then tap left <kbd>Shift</kbd> to move forward or right
+<kbd>Shift</kbd> to move backward. Each tap replaces the letter and opens or
+keeps its menu. Overlapping letter presses are supported. See
+[menu timing and selection](typing-engine.md#accent-menu-timing).
+
+The tables below are **unfiltered source profiles**, not the exact menus. The
+selected national map removes variants available on an unmodified key, including
+their uppercase forms. Empty cycles are disabled: Russian ё/й and German ä/ö/ü/ß
+are normally typed directly. Regional maps can produce different menus. Hebrew
+and Arabic have no postfix profiles. Case and independently entered stress are
+preserved.
+
+Shared profiles are stored in `lib/diacritics.json`; web-only additions are in
+`lib/national-diacritics.json`. See [desktop compatibility](desktop-parity.md)
+for the currently implemented Linux scope.
 
 <details>
-<summary>Complete cycles: English, Polish, Russian, French, German, Spanish, Portuguese, Italian and Romanian</summary>
+<summary>Unfiltered profiles: English, Polish, Russian, French, German, Spanish, Portuguese, Italian and Romanian</summary>
 
 | Language | Cycle                                                                                                                                                                              |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -154,18 +161,26 @@ A bundled Arabic font retains shaping and mark positioning. **`M2`** acute
 stress is not Arabic vocalization.
 
 Turkish Q preserves `i/İ` and `ı/I` through <kbd>Shift</kbd>, Caps state and
-locale-aware postfix capitalization. Dutch retains national dead accents.
+locale-aware postfix capitalization. Its available menus include `a → â`,
+`i → î` and `u → û`; the circumflex is still used in Turkish
+([TDK spelling rules](https://tdk.gov.tr/icerik/yazim-kurallari/duzeltme-isareti/)).
+Direct ç/ğ/ı/ö/ş/ü remain excluded. Dutch retains national dead accents.
 Vietnamese provides direct XKB letters and dead accents plus the complete
 letter/tone cycles below; it is not a Telex/VNI IME and does not place tones by
 syllable.
 
 <details>
-<summary>Complete cycles: Turkish, Vietnamese and Dutch</summary>
+<summary>Unfiltered profiles: Turkish, Vietnamese and Dutch</summary>
 
 | Language | <kbd>Shift</kbd> cycles                                                                                                                                                                                                                                                                                                                   |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| tr       | `c → ç → c`, `g → ğ → g`, `i → ı → i`, `o → ö → o`, `s → ş → s`, `u → ü → u`                                                                                                                                                                                                                                                              |
+| tr       | `a → â → a`, `c → ç → c`, `g → ğ → g`, `i → ı → î → i`, `o → ö → o`, `s → ş → s`, `u → ü → û → u`                                                                                                                                                                                                                                         |
 | vi       | `a → ă → â → á → à → ả → ã → ạ → ắ → ằ → ẳ → ẵ → ặ → ấ → ầ → ẩ → ẫ → ậ → a`, `e → ê → é → è → ẻ → ẽ → ẹ → ế → ề → ể → ễ → ệ → e`, `i → í → ì → ỉ → ĩ → ị → i`, `o → ô → ơ → ó → ò → ỏ → õ → ọ → ố → ồ → ổ → ỗ → ộ → ớ → ờ → ở → ỡ → ợ → o`, `u → ư → ú → ù → ủ → ũ → ụ → ứ → ừ → ử → ữ → ự → u`, `y → ý → ỳ → ỷ → ỹ → ỵ → y`, `d → đ → d` |
 | nl       | `a → ä → á → à → â → a`, `e → ë → é → è → ê → e`, `i → ï → í → ì → î → i`, `o → ö → ó → ò → ô → o`, `u → ü → ú → ù → û → u`                                                                                                                                                                                                               |
 
 </details>
+
+The accent-menu tests exercise letter hold, both Shift directions, Shift hold,
+numbered selection, reopening and persistence for every eligible cycle on all 24
+keyboard options, in both cases. A map with no remaining variants has no accent
+menu; Hebrew and Arabic retain their separate national mark layers.

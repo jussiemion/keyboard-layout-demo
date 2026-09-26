@@ -8,7 +8,7 @@
       ],
       [
         "Как быстро набирать умлауты ä, ö, ü и акценты é, è, ç?",
-        "Выберите язык клавиатуры в демо. Напечатайте базовую букву, отпустите клавишу, затем нажимайте Shift отдельно. В немецком a → ä, o → ö, u → ü; во французском e → é → è → ê → ë, а c → ç. Каждое нажатие Shift выбирает следующий вариант. Набор вариантов зависит от языка."
+        "Выберите польский язык и наберите z: левый Shift перебирает z → ż → ź → z, правый — в обратную сторону. Каждое нажатие заменяет букву и оставляет меню открытым. Варианты зависят от карты клавиатуры. Буквы, доступные без модификаторов, и их заглавные формы исключены из цикла: русские ё и й набираются напрямую. Shift перед буквой вводит заглавную. Быстрые перекрывающиеся нажатия букв поддерживаются."
       ],
       [
         "Как поставить ударение над буквой?",
@@ -37,7 +37,7 @@
       ],
       [
         "How can I type umlauts ä, ö, ü and accented letters é, è, ç quickly?",
-        "Select a keyboard language in the demo. Type a base letter, release its key, then tap Shift separately. In German, use a → ä, o → ö and u → ü; in French, use e → é → è → ê → ë and c → ç. Each Shift tap selects the next variant. Available variants depend on the language."
+        "Select Polish and type z: left Shift cycles z → ż → ź → z; right Shift cycles backward. Each tap replaces the letter and keeps the menu open. Variants depend on the selected keyboard map. Letters available on an unmodified key are excluded, including their uppercase forms: Russian ё and й need no cycle. Press Shift before a letter for uppercase input. Fast overlapping letter presses are supported."
       ],
       [
         "How do I type a stress mark above a letter?",
@@ -66,7 +66,7 @@
       ],
       [
         "Jak szybko wpisywać litery z diakrytyką?",
-        "Wybierz język klawiatury, wpisz literę i zwolnij jej klawisz. Kolejne naciśnięcia Shift zmieniają wariant: po polsku a → ą, po niemiecku u → ü, po francusku e → é → è → ê → ë. Dostępne warianty zależą od języka."
+        "Wybierz polski i wpisz z: lewy Shift przechodzi przez z → ż → ź → z, prawy wstecz. Każde naciśnięcie zastępuje literę i pozostawia menu otwarte. Warianty zależą od mapy klawiatury. Litery dostępne bez modyfikatorów i ich wielkie odpowiedniki są pomijane: rosyjskie ё i й wpisuje się bez cyklu. Shift przed literą daje wielką literę. Szybkie, nakładające się naciśnięcia są obsługiwane."
       ],
       [
         "Jak wpisać znak akcentu nad literą?",
@@ -95,7 +95,7 @@
       ],
       [
         "Wie gebe ich Umlaute und Akzente schnell ein?",
-        "Wähle die Tastatursprache, tippe einen Grundbuchstaben und lasse die Taste los. Drücke anschließend Shift einzeln, um Varianten zu durchlaufen: Deutsch u → ü, Französisch e → é → è → ê → ë. Die Varianten hängen von der Sprache ab."
+        "Wähle Polnisch und tippe z: linkes Shift wechselt z → ż → ź → z, rechtes Shift rückwärts. Jeder Tastendruck ersetzt den Buchstaben und lässt das Menü offen. Varianten hängen von der Tastaturbelegung ab. Ohne Modifikatortaste direkt verfügbare Buchstaben und ihre Großbuchstaben werden ausgelassen, etwa russisches ё und й. Shift vor dem Buchstaben erzeugt Großschreibung. Schnelle überlappende Tastendrücke funktionieren."
       ],
       [
         "Wie setze ich ein Betonungszeichen über einen Buchstaben?",
@@ -124,7 +124,7 @@
       ],
       [
         "Comment saisir rapidement des lettres accentuées ?",
-        "Choisissez la langue du clavier, tapez une lettre et relâchez sa touche. Appuyez ensuite séparément sur Shift pour parcourir ses variantes : en français e → é → è → ê → ë et c → ç ; en allemand u → ü. Les variantes dépendent de la langue."
+        "Choisissez le polonais et tapez z : Maj gauche parcourt z → ż → ź → z, Maj droite revient en arrière. Chaque pression remplace la lettre et garde le menu ouvert. Les variantes dépendent de la disposition. Les lettres accessibles sans modificateur et leurs majuscules sont exclues du cycle, comme ё et й en russe. Maj avant la lettre produit une majuscule. Les frappes rapides qui se chevauchent sont prises en charge."
       ],
       [
         "Comment placer un signe d’accent tonique sur une lettre ?",
@@ -153,7 +153,7 @@
       ],
       [
         "¿Cómo escribir letras con diacríticos rápidamente?",
-        "Elige el idioma del teclado, escribe la letra base y suelta la tecla. Después pulsa Shift por separado para recorrer las variantes: en español n → ñ, en alemán u → ü y en francés e → é → è → ê → ë. Las variantes dependen del idioma."
+        "Elige polaco y escribe z: Shift izquierdo recorre z → ż → ź → z; el derecho retrocede. Cada pulsación reemplaza la letra y mantiene abierto el menú. Las variantes dependen de la distribución. Se excluyen las letras disponibles sin modificadores y sus mayúsculas, como ё y й en ruso. Shift antes de una letra produce una mayúscula. Se admiten pulsaciones rápidas superpuestas."
       ],
       [
         "¿Cómo colocar una marca de acento sobre una letra?",
@@ -182,7 +182,7 @@
       ],
       [
         "Como escrever letras com diacríticos rapidamente?",
-        "Escolha o idioma do teclado, digite a letra base e solte a tecla. Depois pressione Shift separadamente para percorrer as variantes: em alemão u → ü e em francês e → é → è → ê → ë. As variantes dependem do idioma."
+        "Escolha polaco e escreva z: Shift esquerdo percorre z → ż → ź → z; o direito recua. Cada pressão substitui a letra e mantém o menu aberto. As variantes dependem do mapa do teclado. Letras disponíveis sem modificadores e as suas maiúsculas ficam fora do ciclo, como ё e й em russo. Shift antes da letra produz uma maiúscula. São aceites pressões rápidas sobrepostas."
       ],
       [
         "Como colocar uma marca de acento sobre uma letra?",
@@ -211,7 +211,7 @@
       ],
       [
         "Come si digitano rapidamente le lettere con segni diacritici?",
-        "Scegli la lingua della tastiera, digita la lettera di base e rilascia il tasto. Poi premi Shift separatamente per scorrere le varianti: in tedesco u → ü, in francese e → é → è → ê → ë. Le varianti dipendono dalla lingua."
+        "Seleziona il polacco e digita z: Shift sinistro scorre z → ż → ź → z, quello destro torna indietro. Ogni pressione sostituisce la lettera e lascia aperto il menu. Le varianti dipendono dalla mappa della tastiera. Le lettere disponibili senza modificatori e le loro maiuscole sono escluse dal ciclo, come ё e й in russo. Shift prima della lettera produce una maiuscola. Sono supportate pressioni rapide sovrapposte."
       ],
       [
         "Come si inserisce un segno di accento sopra una lettera?",
@@ -240,7 +240,7 @@
       ],
       [
         "Cum introduc rapid litere cu diacritice?",
-        "Alege limba tastaturii, scrie litera de bază și eliberează tasta. Apoi apasă Shift separat pentru a parcurge variantele: în germană u → ü, în franceză e → é → è → ê → ë. Variantele depind de limbă."
+        "Alege poloneza și scrie z: Shift stâng parcurge z → ż → ź → z, iar cel drept merge înapoi. Fiecare apăsare înlocuiește litera și păstrează meniul deschis. Variantele depind de harta tastaturii. Literele disponibile fără modificatori și majusculele lor sunt excluse, precum ё și й în rusă. Shift înaintea literei produce o majusculă. Sunt acceptate apăsările rapide suprapuse."
       ],
       [
         "Cum pun un semn de accent deasupra unei litere?",
@@ -269,7 +269,7 @@
       ],
       [
         "Hoe typ ik snel letters met diakritische tekens?",
-        "Kies de toetsenbordtaal, typ een basisletter en laat de toets los. Druk daarna afzonderlijk op Shift om varianten te doorlopen: Duits u → ü, Frans e → é → è → ê → ë. De varianten hangen af van de taal."
+        "Kies Pools en typ z: linker Shift doorloopt z → ż → ź → z, rechter Shift gaat terug. Elke druk vervangt de letter en houdt het menu open. Varianten hangen af van de toetsenbordindeling. Letters die zonder modificatietoets beschikbaar zijn en hun hoofdletters worden overgeslagen, zoals ё en й in het Russisch. Shift vóór de letter geeft een hoofdletter. Snelle overlappende aanslagen worden ondersteund."
       ],
       [
         "Hoe plaats ik een klemtoonteken boven een letter?",
@@ -298,7 +298,7 @@
       ],
       [
         "Aksanlı harfleri nasıl hızlı yazabilirim?",
-        "Klavye dilini seçin, temel harfi yazıp tuşu bırakın. Ardından Shift tuşuna ayrı ayrı basarak seçenekleri dolaşın: Almancada u → ü, Fransızcada e → é → è → ê → ë. Seçenekler dile göre değişir."
+        "Lehçeyi seçip z yazın: sol Shift z → ż → ź → z sırasıyla, sağ Shift ters yönde ilerler. Her basış harfi değiştirir ve menüyü açık tutar. Seçenekler klavye haritasına bağlıdır. Değiştirici olmadan yazılabilen harfler ve büyük harfleri döngüye girmez; Rusça ё ve й gibi. Harften önce Shift büyük harf yazar. Hızlı, örtüşen tuş basışları desteklenir."
       ],
       [
         "Bir harfin üzerine vurgu işareti nasıl koyabilirim?",
@@ -327,7 +327,7 @@
       ],
       [
         "Làm sao gõ nhanh chữ có dấu?",
-        "Chọn ngôn ngữ bàn phím, gõ chữ cơ sở rồi thả phím. Sau đó nhấn Shift riêng từng lần để chuyển qua các biến thể: tiếng Đức u → ü, tiếng Pháp e → é → è → ê → ë. Các biến thể phụ thuộc vào ngôn ngữ."
+        "Chọn tiếng Ba Lan và gõ z: Shift trái chuyển z → ż → ź → z, Shift phải chuyển ngược lại. Mỗi lần nhấn thay chữ và giữ menu mở. Các biến thể phụ thuộc vào bản đồ bàn phím. Chữ gõ được không cần phím bổ trợ và dạng viết hoa của chúng bị loại khỏi vòng, như ё và й tiếng Nga. Nhấn Shift trước chữ để viết hoa. Hỗ trợ các lần nhấn nhanh chồng nhau."
       ],
       [
         "Làm sao thêm dấu trọng âm phía trên chữ?",
@@ -356,7 +356,7 @@
       ],
       [
         "איך מקלידים במהירות אותיות עם סימנים דיאקריטיים?",
-        "בחרו שפת מקלדת, הקלידו אות בסיס ושחררו את המקש. בשפות התומכות במחזור, לחיצות נפרדות על Shift עוברות בין הגרסאות: בגרמנית u → ü ובצרפתית e → é → è → ê → ë. האפשרויות תלויות בשפה; ניקוד בעברית מוזן באמצעות Alt הימני."
+        "בחרו פולנית והקלידו z: Shift שמאלי עובר בין z → ż → ź → z, וימני חוזר לאחור. כל לחיצה מחליפה את האות ומשאירה את התפריט פתוח. האפשרויות תלויות במפת המקלדת. אותיות הזמינות ללא מקשי שינוי וצורותיהן הגדולות אינן נכללות במחזור, למשל ё ו־й ברוסית. Shift לפני האות יוצר אות גדולה. לחיצות מהירות החופפות זו לזו נתמכות."
       ],
       [
         "איך מוסיפים סימן הטעמה מעל אות?",
@@ -385,7 +385,7 @@
       ],
       [
         "كيف أكتب الحروف ذات العلامات بسرعة؟",
-        "اختر لغة لوحة المفاتيح، واكتب الحرف الأساسي ثم اترك مفتاحه. في اللغات التي تدعم التدوير، اضغط Shift بشكل منفصل للتنقل بين البدائل: بالألمانية u → ü وبالفرنسية e → é → è → ê → ë. البدائل تعتمد على اللغة؛ أما التشكيل العربي فيُكتب مع الضغط المستمر على Shift."
+        "اختر البولندية واكتب z: يتنقل Shift الأيسر عبر z → ż → ź → z، والأيمن بالعكس. كل ضغطة تستبدل الحرف وتبقي القائمة مفتوحة. تعتمد البدائل على خريطة لوحة المفاتيح. تُستثنى الحروف المتاحة دون مفاتيح تعديل وأشكالها الكبيرة، مثل ё وй بالروسية. اضغط Shift قبل الحرف لكتابته كبيرًا. الضغطات السريعة المتداخلة مدعومة."
       ],
       [
         "كيف أضع علامة نبر فوق حرف؟",
