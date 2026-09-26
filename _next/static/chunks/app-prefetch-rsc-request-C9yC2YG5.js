@@ -1,0 +1,1 @@
+import{o as e}from"./vinext-lwVacW4O.js";export{e as resolveAppPrefetchRscRequest};
