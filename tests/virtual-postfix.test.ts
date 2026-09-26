@@ -34,6 +34,26 @@ function setup() {
   const engine = new TypingEngine();
   const input = { value: '', selectionStart: 0, selectionEnd: 0, focus() {} };
   const context = {
+    accentHold: {
+      menu: null,
+      opened: 0,
+      open(direction = 1) {
+        this.opened++;
+        const choices = engine.accentChoices;
+        if (choices) {
+          const index = choices.menuChoices.indexOf(
+            input.value.slice(choices.replace.start, choices.replace.end),
+          );
+          const next =
+            (index + choices.menuChoices.length + direction) %
+            choices.menuChoices.length;
+          const result = engine.chooseDiacritic(choices.menuChoices[next]);
+          if (result?.text) {
+            context.insert(result.text, result.replace);
+          }
+        }
+      },
+    },
     tourOpen: false,
     tourTask: null,
     input: { current: input },
@@ -67,17 +87,15 @@ function setup() {
   const press = runInNewContext(`${compiled}\nvirtualKey`, context) as (
     code: string,
   ) => void;
-  return { input, press, engine };
+  return { input, press, engine, menu: context.accentHold };
 }
-void test('screen Shift press/release cycles a preceding Polish letter', () => {
-  const { input, press } = setup();
+void test('screen Shift press/release applies the first accent and opens the menu', () => {
+  const { input, press, menu } = setup();
   press('KeyA');
   press('ShiftLeft');
   press('ShiftLeft');
   assert.equal(input.value, 'ą');
-  press('ShiftRight');
-  press('ShiftRight');
-  assert.equal(input.value, 'a');
+  assert.equal(menu.opened, 1);
 });
 void test('screen Shift used for uppercase does not cycle the preceding letter', () => {
   const { input, press } = setup();
@@ -98,13 +116,11 @@ void test('screen postfix preserves independent stress', () => {
   assert.equal(input.value, 'ą\u0301');
 });
 
-void test('screen right Shift cycles backward and left Shift reverses it', () => {
-  const { input, press } = setup();
+void test('screen right Shift opens in the reverse direction', () => {
+  const { input, press, menu } = setup();
   press('KeyZ');
   press('ShiftRight');
   press('ShiftRight');
   assert.equal(input.value, 'ź');
-  press('ShiftLeft');
-  press('ShiftLeft');
-  assert.equal(input.value, 'z');
+  assert.equal(menu.opened, 1);
 });

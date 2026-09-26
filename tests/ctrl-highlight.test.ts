@@ -50,6 +50,7 @@ for (const nativeLayoutActive of [false, true]) {
         const context = {
           nativeLayoutActive,
           settings: { keepLanguageSwitching: true },
+          accentHold: { before: () => false, arm: () => {}, cancel: () => {} },
           nativeDetector: { current: new NativeLayoutDetector() },
           setNativeLayoutActive: (_active: boolean) => {},
           setCheckingNativeLayout: noop,

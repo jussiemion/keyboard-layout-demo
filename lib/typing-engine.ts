@@ -215,6 +215,7 @@ export type KeyInput = {
   altGraph?: boolean;
   capsLock?: boolean;
   synthetic?: boolean;
+  previewDiacritic?: boolean;
   context?: { value: string; start: number; end: number };
 };
 export type KeyResult = {
@@ -228,7 +229,8 @@ export type KeyResult = {
     | 'secondary'
     | 'national'
     | 'accent'
-    | 'postfix';
+    | 'postfix'
+    | 'accent-menu';
 };
 const pass: KeyResult = { prevent: false, route: 'pass' };
 const suppress: KeyResult = { prevent: true, route: 'suppress' };
@@ -259,11 +261,7 @@ export function directLetters(locale: KeyboardLocale): ReadonlySet<string> {
   return letters;
 }
 
-export function nextDiacritic(
-  base: string,
-  locale: KeyboardLocale,
-  direction: 1 | -1 = 1,
-): string {
+function diacriticVariants(base: string, locale: KeyboardLocale): string[] {
   const upper = (text: string) =>
     Array.from(text)
       .map(
@@ -287,11 +285,23 @@ export function nextDiacritic(
     for (const row of [filtered, upper(filtered)]) {
       const index = base.length === 1 ? row.indexOf(base) : -1;
       if (index >= 0) {
-        return row[(index + direction + row.length) % row.length];
+        return Array.from(row);
       }
     }
   }
-  return '';
+  return [];
+}
+
+export function nextDiacritic(
+  base: string,
+  locale: KeyboardLocale,
+  direction: 1 | -1 = 1,
+): string {
+  const variants = diacriticVariants(base, locale);
+  const index = variants.indexOf(base);
+  return index < 0
+    ? ''
+    : variants[(index + direction + variants.length) % variants.length];
 }
 
 // A letter can be replaced only while its text and caret remain unchanged.
@@ -428,6 +438,9 @@ export class TypingEngine {
       this.held.size === 0 &&
       this.postfix
     ) {
+      if (event.previewDiacritic && this.accentChoices) {
+        return { prevent: true, route: 'accent-menu' };
+      }
       return this.cyclePostfix(
         this.postfix,
         locale,
@@ -474,6 +487,58 @@ export class TypingEngine {
     } else if (fresh && event.down) {
       this.resetPostfix();
     }
+  }
+
+  get accentChoices() {
+    if (!this.enabled || !this.postfix || !this.postfixLocale) {
+      return null;
+    }
+    const previous = this.postfix;
+    const choices: string[] = [];
+    let base = nextDiacritic(previous.base, this.postfixLocale);
+    while (base && base !== previous.base && choices.length < 64) {
+      choices.push(
+        (base + (previous.stressed ? '\u0301' : '')).normalize('NFC'),
+      );
+      base = nextDiacritic(base, this.postfixLocale);
+    }
+    return choices.length
+      ? {
+          choices,
+          menuChoices: diacriticVariants(previous.base, this.postfixLocale).map(
+            (letter) =>
+              (letter + (previous.stressed ? '\u0301' : '')).normalize('NFC'),
+          ),
+          replace: {
+            start: previous.caret - previous.text.length,
+            end: previous.caret,
+            expected: previous.value,
+          },
+        }
+      : null;
+  }
+
+  /** Replace the current candidate without losing its case or independent stress. */
+  cycleDiacritic(): KeyResult | null {
+    if (!this.enabled || !this.postfix || !this.postfixLocale) {
+      return null;
+    }
+    return this.cyclePostfix(this.postfix, this.postfixLocale, 1);
+  }
+
+  /** Select a displayed variant while preserving one replacement range. */
+  chooseDiacritic(text: string): KeyResult | null {
+    const choices = this.accentChoices;
+    if (!choices || !choices.choices.includes(text)) {
+      return null;
+    }
+    for (let step = 0; step < choices.choices.length; step++) {
+      const result = this.cycleDiacritic();
+      if (result?.text === text) {
+        return { ...result, replace: choices.replace };
+      }
+    }
+    return null;
   }
 
   private cyclePostfix(

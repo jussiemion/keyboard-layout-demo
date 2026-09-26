@@ -167,7 +167,12 @@ export function HelpContent({
             <>
               <dl className="help-reference help-accents">
                 <div>
-                  <dt>{h.variants}</dt>
+                  <dt>
+                    {h.variants}
+                    <p className="text-muted-foreground mt-2 text-xs">
+                      {h.holdVariants}
+                    </p>
+                  </dt>
                   <dd>
                     <Keys>
                       <kbd>{sample.letter}</kbd> → <kbd>{m.keyShift}</kbd> ={' '}

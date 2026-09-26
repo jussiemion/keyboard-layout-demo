@@ -1,5 +1,9 @@
 'use client';
 
+import { AccentPopover } from '@/components/accent-popover';
+
+import { useAccentHold } from '@/components/use-accent-hold';
+
 import { OnScreenKeyboard } from '@/components/on-screen-keyboard';
 
 import { resolveSymbolMap } from '@/lib/symbol-map';
@@ -142,6 +146,7 @@ export default function Home({
   const logicalCaps = useRef(false);
   const input = useRef<HTMLInputElement>(null);
   const keyboardFrame = useRef<HTMLElement>(null);
+  const accentHold = useAccentHold(input, engine, insert);
   const [value, setValue] = useState('');
   const initialKeyboardLocale = useSyncExternalStore(
     subscribeToInitialKeyboardLocale,
@@ -350,6 +355,7 @@ export default function Home({
     ]);
   }
   function resetState() {
+    accentHold.cancel();
     nativeDetector.current.interrupt();
     toggleController.current.reset();
     engine.current.reset();
@@ -392,6 +398,13 @@ export default function Home({
     window.addEventListener(SETTINGS_CHANGE_EVENT, resetPlatform);
     window.addEventListener('storage', platformStorageChanged);
     const resetPostfix = (event: Event) => {
+      if (
+        event.target instanceof Element &&
+        event.target.closest('[data-accent-popover]')
+      ) {
+        return;
+      }
+
       // Clicking the on-screen Shift does not move the caret; it must retain
       // the preceding letter until the Shift release cycles its diacritic.
       if (
@@ -470,6 +483,7 @@ export default function Home({
   }
 
   function selectKeyboardLanguage(next: KeyboardLocale) {
+    accentHold.cancel();
     languageController.current.rememberLanguage(
       activeLocale.current,
       languageConfig.order,
@@ -481,6 +495,10 @@ export default function Home({
   }
 
   function handleKey(event: KeyboardEvent, down: boolean) {
+    if (accentHold.before(event, down)) {
+      refresh();
+      return;
+    }
     const nativeStatus = nativeDetector.current.observe(event, down);
     if (nativeStatus) {
       setNativeLayoutActive(nativeStatus === 'detected');
@@ -573,6 +591,7 @@ export default function Home({
     const result = engine.current.handle(
       {
         ...keyInput,
+        previewDiacritic: true,
         key: key || event.key,
         capsLock: logicalCaps.current,
         context: target
@@ -585,6 +604,9 @@ export default function Home({
       },
       current,
     );
+    if (result.route === 'accent-menu') {
+      accentHold.open(code === 'ShiftRight' ? -1 : 1);
+    }
     setCaps(logicalCaps.current);
     if (result.prevent) {
       event.preventDefault();
@@ -601,6 +623,15 @@ export default function Home({
       } else {
         insert(key);
       }
+    }
+    if (
+      down &&
+      !event.repeat &&
+      !command &&
+      !event.isComposing &&
+      /^Key|^(Bracket|Semicolon|Quote|Backquote|Digit)/.test(code)
+    ) {
+      accentHold.arm(code);
     }
     if (down && event.key === 'Escape') {
       event.preventDefault();
@@ -668,6 +699,23 @@ export default function Home({
       }
     };
     const cancelToggle = (event: Event) => {
+      if (
+        event.target instanceof Element &&
+        event.target.closest('[data-accent-popover]')
+      ) {
+        return;
+      }
+
+      if (
+        !(
+          event.target instanceof Element &&
+          event.target.closest(
+            '[data-key-code="ShiftLeft"], [data-key-code="ShiftRight"]',
+          )
+        )
+      ) {
+        accentHold.cancel();
+      }
       if (
         event.type === 'pointerdown' &&
         event.target instanceof Element &&
@@ -751,6 +799,11 @@ export default function Home({
       return;
     }
     if (code.startsWith('Shift')) {
+      if (accentHold.menu) {
+        accentHold.before(new KeyboardEvent('keydown', { code }), true);
+        accentHold.before(new KeyboardEvent('keyup', { code }), false);
+        return;
+      }
       const result = engine.current.handle(
         {
           code: virtualShift
@@ -759,12 +812,16 @@ export default function Home({
               : 'ShiftLeft'
             : code,
           down: !virtualShift,
+          previewDiacritic: true,
           context: context(),
         },
         locale,
       );
       if (result.text) {
         insert(result.text, result.replace);
+      }
+      if (result.route === 'accent-menu') {
+        accentHold.open(code === 'ShiftRight' ? -1 : 1);
       }
       setVirtualShift(!virtualShift);
       refresh();
@@ -1067,7 +1124,7 @@ export default function Home({
               <label className="sr-only" htmlFor="typing-input">
                 {m.inputLabel}
               </label>
-              <div className="typing-field">
+              <div className="typing-field relative">
                 <input
                   type="text"
                   dir={['he', 'ar'].includes(locale) ? 'rtl' : 'ltr'}
@@ -1100,12 +1157,20 @@ export default function Home({
                       end: target.selectionEnd ?? 0,
                     });
                   }}
+                  onPointerDown={() => accentHold.cancel()}
                   onBlur={resetState}
                   onCompositionStart={resetState}
                   onPaste={resetState}
                   onCut={resetState}
                   onDrop={resetState}
                 />
+                {accentHold.menu && (
+                  <AccentPopover
+                    input={input}
+                    menu={accentHold.menu}
+                    choose={accentHold.choose}
+                  />
+                )}
                 <Tooltip>
                   <TooltipTrigger
                     render={

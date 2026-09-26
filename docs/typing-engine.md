@@ -28,12 +28,13 @@ The shared symbol layers follow
 [Ilya Birman’s Typography Layout 3.9](https://ilyabirman.ru/typography-layout/).
 National keyboard maps determine ordinary and shifted input; supported languages
 can also provide postfix <kbd>Shift</kbd> diacritic cycles. After releasing the
-letter key, tap left <kbd>Shift</kbd> to move forward or right <kbd>Shift</kbd>
-to move backward. Both directions wrap around and preserve case and stress.
-Variants already available on an ordinary key in the selected national map are
-excluded, along with their uppercase equivalents. This does not exclude Alt
-combinations or dead-key sequences. For example, Russian е/ё and и/й need no
-Shift cycle.
+letter key, tap either <kbd>Shift</kbd> to apply the first accent and open its
+menu. Further left/right <kbd>Shift</kbd> taps immediately apply the
+next/previous option; Shift keeps the menu open; Enter, a digit or a click
+closes it. Case and independent stress are preserved. Variants already available
+on an ordinary key in the selected national map are excluded, along with their
+uppercase equivalents. This does not exclude Alt combinations or dead-key
+sequences. For example, Russian е/ё and и/й need no Shift cycle.
 
 ## Source files
 
@@ -62,3 +63,23 @@ bun run lint
 The tests cover symbol layers across keyboard options and both Alt keys, quick
 chords, cancellation, accent composition, postfix cycles and text edits. These
 tests exercise engine behavior; they do not simulate OS keyboard remapping.
+
+## Accent menu timing
+
+Hold an eligible base letter for 250 ms to open its variants and apply item 2.
+Holding the letter alone never advances further. If Shift is already held when
+the letter opens the menu, selection starts at the base (item 1), preserving
+case.
+
+After typing or choosing a character, tap left/right Shift to apply the
+next/previous variant and open the menu. Reopening continues from the current
+character: z → ż → ź → z. Holding Shift alone for 500 ms also opens the menu and
+applies the next/previous variant; continued holding repeats every 500 ms.
+Releasing Shift stops repetition without applying an extra step.
+
+The menu stays open indefinitely, including after all keys are released. Enter,
+digits 1–9 and clicks select and close it. Escape closes it without undoing the
+last replacement. The base letter is always first: z (1), ż (2), ź (3),
+including after reopening. Continued typing, cursor movement, focus, language
+and composition changes dismiss the menu and cancel its timers. Normal
+Shift+letter chords retain uppercase input.

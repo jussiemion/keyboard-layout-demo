@@ -11,6 +11,7 @@ type HelpMessages = {
   tap: string;
   twice: string;
   variants: string;
+  holdVariants: string;
   stress: string;
   search: string;
   cancel: string;
@@ -23,6 +24,8 @@ type HelpMessages = {
 
 export const helpMessages: Record<UiLocale, HelpMessages> = {
   tr: {
+    holdVariants:
+      'Harfi 250 ms tutarak menüyü açın. Sol/sağ Shift sonraki/önceki seçeneği uygular; 500 ms tutmak menüyü açar ve aynı aralıkla değiştirir. Menü kendiliğinden kapanmaz. 1–9 seçer ve kapatır',
     toggleKeys: 'İki {ctrl} → bırak',
     title: 'Kısa başvuru',
     symbols: 'Simgeler ve modlar',
@@ -45,6 +48,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: '{cycle} arasında geçiş için {caps} tuşuna basın.',
   },
   nl: {
+    holdVariants:
+      'Houd een letter 250 ms vast voor het menu. Linker/rechter Shift kiest de volgende/vorige variant; 500 ms vasthouden opent het menu en herhaalt elke 500 ms. Het menu sluit niet vanzelf. 1–9 kiest en sluit',
     toggleKeys: 'Beide {ctrl} → loslaten',
     title: 'Spiekbrief',
     symbols: 'Symbolen en modi',
@@ -67,6 +72,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Druk op {caps} voor {cycle}.',
   },
   vi: {
+    holdVariants:
+      'Giữ chữ 250 ms để mở menu. Shift trái/phải chọn biến thể tiếp/trước; giữ 500 ms để mở và lặp mỗi 500 ms. Menu không tự đóng. 1–9 chọn và đóng',
     toggleKeys: 'Cả hai {ctrl} → thả',
     title: 'Bảng tra nhanh',
     symbols: 'Ký hiệu và chế độ',
@@ -89,6 +96,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Nhấn {caps} để chuyển qua {cycle}.',
   },
   ar: {
+    holdVariants:
+      'اضغط الحرف 250 مللي ثانية لفتح القائمة. Shift الأيسر والأيمن يختاران البديل التالي والسابق؛ الضغط 500 مللي ثانية يفتح القائمة ويكرر كل 500 مللي ثانية. لا تُغلق تلقائيًا. 1–9 للاختيار والإغلاق',
     toggleKeys: 'مفتاحا {ctrl} → اتركهما',
     title: 'ورقة مرجعية',
     symbols: 'الرموز والأوضاع',
@@ -112,6 +121,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
   },
 
   ru: {
+    holdVariants:
+      'Удерживайте букву 250 мс, чтобы открыть меню. Левый/правый Shift выбирает следующий/предыдущий вариант; удержание 500 мс открывает меню и запускает перебор с тем же интервалом. Меню само не закрывается. 1–9 — выбрать и закрыть',
     toggleKeys: 'Оба {ctrl} → отпустить',
     title: 'Шпаргалка',
     symbols: 'Символы и режимы',
@@ -134,6 +145,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Нажмите {caps} для переключения по кругу: {cycle}.',
   },
   en: {
+    holdVariants:
+      'Hold a letter for 250 ms to open the menu. Left/right Shift applies the next/previous variant; holding for 500 ms opens and repeats every 500 ms. The menu stays open until dismissed. 1–9 selects and closes',
     toggleKeys: 'Both {ctrl} → release',
     title: 'Cheat sheet',
     symbols: 'Symbols & modes',
@@ -156,6 +169,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Press {caps} to cycle {cycle}.',
   },
   he: {
+    holdVariants:
+      'החזיקו אות 250 מילישניות לפתיחת התפריט. Shift שמאלי/ימני בוחר את האפשרות הבאה/הקודמת; החזקה של 500 מילישניות פותחת ומחליפה בכל 500 מילישניות. התפריט לא נסגר מעצמו. 1–9 לבחירה וסגירה',
     toggleKeys: 'שני מקשי {ctrl} ← שחרור',
     title: 'דף עזר',
     symbols: 'סמלים ומצבים',
@@ -177,6 +192,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'לחצו על {caps} להחלפה בין {cycle}.',
   },
   de: {
+    holdVariants:
+      'Buchstaben 250 ms halten, um das Menü zu öffnen. Linke/rechte Umschalttaste wählt die nächste/vorige Variante; 500 ms halten öffnet das Menü und wiederholt alle 500 ms. Es schließt nicht automatisch. 1–9 wählt und schließt',
     toggleKeys: 'Beide {ctrl} → loslassen',
     title: 'Spickzettel',
     symbols: 'Symbole & Modi',
@@ -200,6 +217,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: '{caps} drücken: {cycle}.',
   },
   fr: {
+    holdVariants:
+      'Maintenez une lettre 250 ms pour ouvrir le menu. Maj gauche/droite applique la variante suivante/précédente ; maintenir 500 ms ouvre et répète toutes les 500 ms. Le menu ne se ferme pas seul. 1–9 choisit et ferme',
     toggleKeys: 'Les deux {ctrl} → relâcher',
     title: 'Aide-mémoire',
     symbols: 'Symboles et modes',
@@ -222,6 +241,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Appuyez sur {caps} pour parcourir {cycle}.',
   },
   es: {
+    holdVariants:
+      'Mantén una letra 250 ms para abrir el menú. Shift izquierdo/derecho aplica la variante siguiente/anterior; mantener 500 ms abre y repite cada 500 ms. El menú no se cierra solo. 1–9 elige y cierra',
     toggleKeys: 'Ambos {ctrl} → soltar',
     title: 'Guía rápida',
     symbols: 'Símbolos y modos',
@@ -244,6 +265,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Pulsa {caps} para recorrer {cycle}.',
   },
   it: {
+    holdVariants:
+      'Tieni una lettera per 250 ms per aprire il menu. Maiusc sinistro/destro applica la variante successiva/precedente; tenere 500 ms apre e ripete ogni 500 ms. Il menu non si chiude da solo. 1–9 sceglie e chiude',
     toggleKeys: 'Entrambi i {ctrl} → rilasciare',
     title: 'Promemoria',
     symbols: 'Simboli e modalità',
@@ -266,6 +289,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Premi {caps} per scorrere {cycle}.',
   },
   pl: {
+    holdVariants:
+      'Przytrzymaj literę 250 ms, aby otworzyć menu. Lewy/prawy Shift wybiera następny/poprzedni wariant; przytrzymanie 500 ms otwiera menu i powtarza co 500 ms. Menu nie zamyka się samo. 1–9 wybiera i zamyka',
     toggleKeys: 'Oba {ctrl} → zwolnij',
     title: 'Ściągawka',
     symbols: 'Symbole i tryby',
@@ -288,6 +313,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Naciśnij {caps}, aby przełączać kolejno {cycle}.',
   },
   pt: {
+    holdVariants:
+      'Mantenha uma letra 250 ms para abrir o menu. Shift esquerdo/direito aplica a variante seguinte/anterior; manter 500 ms abre e repete a cada 500 ms. O menu não fecha sozinho. 1–9 escolhe e fecha',
     toggleKeys: 'Ambos os {ctrl} → soltar',
     title: 'Guia rápido',
     symbols: 'Símbolos e modos',
@@ -310,6 +337,8 @@ export const helpMessages: Record<UiLocale, HelpMessages> = {
     cycleBody: 'Prima {caps} para percorrer {cycle}.',
   },
   ro: {
+    holdVariants:
+      'Ține litera 250 ms pentru a deschide meniul. Shift stânga/dreapta aplică varianta următoare/anterioară; ținut 500 ms deschide și repetă la fiecare 500 ms. Meniul nu se închide singur. 1–9 selectează și închide',
     toggleKeys: 'Ambele {ctrl} → eliberează',
     title: 'Fișă de referință',
     symbols: 'Simboluri și moduri',
