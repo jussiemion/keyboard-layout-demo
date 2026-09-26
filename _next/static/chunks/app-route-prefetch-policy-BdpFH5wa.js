@@ -1,1 +1,0 @@
-import{a as e,i as t,r as n}from"./vinext-Be0w-fVI.js";export{n as canAutoPrefetchFullAppRoute,t as resolveAutoAppRoutePrefetch,e as resolveFullAppRoutePrefetch};

@@ -42,8 +42,8 @@
     "file": "keyboard-layout-demo/_next/static/chunks/messages-X2XgFm5o.js",
     "name": "messages"
   },
-  "_preferences-CKZliQqh.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/preferences-CKZliQqh.js",
+  "_preferences-CZ2A_a1W.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/preferences-CZ2A_a1W.js",
     "name": "preferences",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
@@ -52,7 +52,7 @@
       "_seo-DkpXK912.js",
       "_locale-provider-BCSvDgt6.js",
       "_theme-Dc7KDQWQ.js",
-      "_symbol-search-categories-CqB9gi64.js",
+      "_symbol-search-categories-BoeQvI2w.js",
       "_useBaseUiId-CQzsLfx3.js",
       "_utils-DojpP95n.js"
     ]
@@ -72,8 +72,8 @@
     "file": "keyboard-layout-demo/_next/static/chunks/symbol-presentation-D3OxU25W.js",
     "name": "symbol-presentation"
   },
-  "_symbol-search-categories-CqB9gi64.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/symbol-search-categories-CqB9gi64.js",
+  "_symbol-search-categories-BoeQvI2w.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/symbol-search-categories-BoeQvI2w.js",
     "name": "symbol-search-categories",
     "imports": [
       "_keyboard-locales-CKAeOfq4.js",
@@ -96,8 +96,8 @@
     "file": "keyboard-layout-demo/_next/static/chunks/utils-DojpP95n.js",
     "name": "utils"
   },
-  "_vinext-Be0w-fVI.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/vinext-Be0w-fVI.js",
+  "_vinext-n0lJGcIq.js": {
+    "file": "keyboard-layout-demo/_next/static/chunks/vinext-n0lJGcIq.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
@@ -109,21 +109,21 @@
     ]
   },
   "app/page.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/page-qdEY3QQY.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/page-dgf2THYM.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-Be0w-fVI.js",
-      "_preferences-CKZliQqh.js",
+      "_vinext-n0lJGcIq.js",
+      "_preferences-CZ2A_a1W.js",
       "_keyboard-locales-CKAeOfq4.js",
       "_messages-X2XgFm5o.js",
       "_seo-DkpXK912.js",
       "_locale-provider-BCSvDgt6.js",
       "_theme-Dc7KDQWQ.js",
-      "_symbol-search-categories-CqB9gi64.js",
+      "_symbol-search-categories-BoeQvI2w.js",
       "_useBaseUiId-CQzsLfx3.js",
       "_utils-DojpP95n.js",
       "_DirectionContext-CEAsAqb6.js",
@@ -170,20 +170,20 @@
     ]
   },
   "components/typography-reference.tsx": {
-    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-B4djEwRX.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/typography-reference-w4vw_DFS.js",
     "name": "typography-reference",
     "src": "components/typography-reference.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_preferences-CKZliQqh.js",
+      "_preferences-CZ2A_a1W.js",
       "_keyboard-locales-CKAeOfq4.js",
       "_messages-X2XgFm5o.js",
       "_seo-DkpXK912.js",
       "_locale-provider-BCSvDgt6.js",
       "_theme-Dc7KDQWQ.js",
-      "_symbol-search-categories-CqB9gi64.js",
+      "_symbol-search-categories-BoeQvI2w.js",
       "_brand-mark-CTWd7vDw.js"
     ]
   },
@@ -735,14 +735,14 @@
     "isDynamicEntry": true
   },
   "lib/symbol-catalog.ts": {
-    "file": "keyboard-layout-demo/_next/static/chunks/symbol-catalog-iEwAtp8K.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/symbol-catalog-Dcv8X8Hj.js",
     "name": "symbol-catalog",
     "src": "lib/symbol-catalog.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js",
+      "_vinext-n0lJGcIq.js",
       "_messages-X2XgFm5o.js",
-      "_symbol-search-categories-CqB9gi64.js",
+      "_symbol-search-categories-BoeQvI2w.js",
       "_symbol-presentation-D3OxU25W.js"
     ],
     "dynamicImports": [
@@ -873,97 +873,97 @@
     "isDynamicEntry": true
   },
   "node_modules/vinext/dist/shims/app-router-scroll.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/app-router-scroll-D1UPs4Z1.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/app-router-scroll-DhLWZ34c.js",
     "name": "app-router-scroll",
     "src": "node_modules/vinext/dist/shims/app-router-scroll.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/default-global-error.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/default-global-error-BezODXt8.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/default-global-error-DFQ6jneJ.js",
     "name": "default-global-error",
     "src": "node_modules/vinext/dist/shims/default-global-error.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/error-boundary.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/error-boundary-BLlKeCm3.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/error-boundary-DANWKDmP.js",
     "name": "error-boundary",
     "src": "node_modules/vinext/dist/shims/error-boundary.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-prefetch-fetch-queue.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/app-prefetch-fetch-queue-CLPXeNYk.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/app-prefetch-fetch-queue-DwIhHGGI.js",
     "name": "app-prefetch-fetch-queue",
     "src": "node_modules/vinext/dist/shims/internal/app-prefetch-fetch-queue.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-prefetch-rsc-request.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/app-prefetch-rsc-request-DZ6TefSy.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/app-prefetch-rsc-request-D7e4j9V8.js",
     "name": "app-prefetch-rsc-request",
     "src": "node_modules/vinext/dist/shims/internal/app-prefetch-rsc-request.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-BdpFH5wa.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/app-route-prefetch-policy-BCotMoF7.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-DR36W4TF.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/layout-segment-context-CnDj160z.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/slot.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/slot-Del_leHZ.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/slot-S1-ZEjIT.js",
     "name": "slot",
     "src": "node_modules/vinext/dist/shims/slot.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "keyboard-layout-demo/_next/static/chunks/streamed-icons-CUisTo72.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/streamed-icons-DrorRh_S.js",
     "name": "streamed-icons",
     "src": "node_modules/vinext/dist/shims/streamed-icons.js",
     "isDynamicEntry": true,
     "imports": [
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "keyboard-layout-demo/_next/static/chunks/index-Dala_jw_.js",
+    "file": "keyboard-layout-demo/_next/static/chunks/index-gqJ-jEub.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-BlZLPK95.js",
-      "_vinext-Be0w-fVI.js"
+      "_vinext-n0lJGcIq.js"
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/default-global-error.js",
